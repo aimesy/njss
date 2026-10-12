@@ -121,6 +121,10 @@ def collect(
                 client.reprime()
                 detail = parse_detail(client.detail(row["property_id"]))
             fetched += 1
+            if fetched % 50 == 0:
+                log(f"  {name}: {fetched} details fetched")
+                # Save progress so an interrupted run does not refetch what it already has.
+                write_json(state_path, state)
             if detail is None:
                 summary["detail_failures"].append(state_key)
                 log(f"  detail unavailable: {name} {row['sheriff_number']}")

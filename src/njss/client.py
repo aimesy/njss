@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import sys
 import time
 
 import requests
@@ -47,12 +48,17 @@ class CivilView:
             if self.requests_made:
                 time.sleep(self.delay)
             self.requests_made += 1
+            started = time.monotonic()
             try:
                 response = self.session.request(method, url, timeout=self.timeout, **kwargs)
                 response.raise_for_status()
+                elapsed = time.monotonic() - started
+                if elapsed > 10:
+                    print(f"  slow response: {elapsed:.0f}s {method} {url}", file=sys.stderr, flush=True)
                 return response.text
             except requests.RequestException as error:
                 last_error = error
+                print(f"  attempt {attempt + 1} failed: {method} {url}: {error}", file=sys.stderr, flush=True)
                 time.sleep(self.delay * (attempt + 2) * 2)
         raise RuntimeError(f"{method} {url} failed after {self.retries} attempts") from last_error
 
