@@ -1,0 +1,61 @@
+{
+  "address": "34 YORKSHIRE DRIVE VOORHEES NJ 08043",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01306122",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "CURTIS M BRACEY , EL AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "34 YORKSHIRE DRIVE\nVOORHEES NJ 08043",
+    "Approx. Upset*": "$580,253.25",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F01306122",
+    "Defendant": "CURTIS M BRACEY , EL AL.",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF THE ELLINGTON\nFINANCIAL MORTGAGE TRUST 2020-2",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25002154"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "34 YORKSHIRE DRIVE VOORHEES NJ 08043",
+    "defendant": "CURTIS M BRACEY , EL AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF THE ELLINGTON \nFINANCIAL MORTGAGE TRUST 2020-2",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF THE ELLINGTON FINANCIAL MORTGAGE TRUST 2020-2",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25002154",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 580253.25,
+  "upset_amount_label": "Approx. Upset*"
+}

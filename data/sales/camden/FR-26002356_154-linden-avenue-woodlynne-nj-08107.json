@@ -1,0 +1,49 @@
+{
+  "address": "154 LINDEN AVENUE WOODLYNNE NJ 08107",
+  "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES & NEWBY, LLP",
+  "attorney_phone": "(973) 242-1364",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00239226",
+  "current_status": "Scheduled",
+  "defendant": "154 LINDEN AVE LLC, AIDAN PATRICK CONDON AND MOHIN ABEDIN",
+  "extracted": {},
+  "fields": {
+    "Address": "154 LINDEN AVENUE\nWOODLYNNE NJ 08107",
+    "Approx. Upset*": "$280,731.44",
+    "Attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES & NEWBY, LLP",
+    "Attorney Phone": "(973) 242-1364",
+    "Court Case #": "F00239226",
+    "Defendant": "154 LINDEN AVE LLC, AIDAN PATRICK CONDON AND MOHIN ABEDIN",
+    "Parcel #": "LOTS 5 AND 6 IN BLOCK 602",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 98305",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002356"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "154 LINDEN AVENUE WOODLYNNE NJ 08107",
+    "defendant": "154 LINDEN AVE LLC, AIDAN PATRICK CONDON AND MOHIN ABEDIN",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 98305",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOTS 5 AND 6 IN BLOCK 602",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 98305",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002356",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 280731.44,
+  "upset_amount_label": "Approx. Upset*"
+}

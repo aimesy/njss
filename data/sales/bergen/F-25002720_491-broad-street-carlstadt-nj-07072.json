@@ -1,0 +1,75 @@
+{
+  "address": "491 BROAD STREET CARLSTADT NJ 07072",
+  "attorney": "BOCCHI LAW LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01084523",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "PETRA HOLDINGS, LLC; 491 BROAD HOLDINGS, LLC",
+  "description": "This is a commercial property – not subject to CWPP requirements.\nUpset Price: $4,100,000",
+  "extracted": {
+    "upset_amount": 4100000.0
+  },
+  "fields": {
+    "Address": "491 BROAD STREET\nCARLSTADT NJ 07072",
+    "Approx. Upset*": "$5,563,197.99",
+    "Attorney": "BOCCHI LAW LLC",
+    "Court Case #": "F01084523",
+    "Defendant": "PETRA HOLDINGS, LLC; 491 BROAD HOLDINGS, LLC",
+    "Description": "This is a commercial property – not subject to CWPP requirements.\nUpset Price: $4,100,000",
+    "Parcel #": "LOT 14, BLOCK 59",
+    "Plaintiff": "CENTRA 491 BROAD PARTNERS, LLC",
+    "Property Note": "",
+    "Sales Date": "7/17/2026",
+    "Sheriff #": "F-25002720"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "491 BROAD STREET CARLSTADT NJ 07072",
+    "defendant": "PETRA HOLDINGS, LLC; 491 BROAD HOLDINGS, LLC",
+    "listing_status": null,
+    "plaintiff": "CENTRA 491 BROAD PARTNERS, LLC",
+    "sale_date": "2026-07-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 14, BLOCK 59",
+  "plaintiff": "CENTRA 491 BROAD PARTNERS, LLC",
+  "property_note": null,
+  "sale_date": "2026-07-17",
+  "sheriff_number": "F-25002720",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-07-17",
+      "status": "Adjourned - Joint"
+    },
+    {
+      "date": "2026-07-17",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 5563197.99,
+  "upset_amount_label": "Approx. Upset*"
+}

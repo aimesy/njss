@@ -1,0 +1,84 @@
+{
+  "address": "21 SOUTHFIELD ROAD EDISON NJ 08820",
+  "attorney": "KML LAW GROUP P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01176824",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "SLAWOMIR MAGIER, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$1,643,499.33",
+    "Attorney": "KML LAW GROUP P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F01176824",
+    "Defendant": "SLAWOMIR MAGIER, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 7 BLOCK 557-L",
+    "Plaintiff": "M&T BANK",
+    "Property Address": "21 SOUTHFIELD ROAD\nEDISON NJ 08820",
+    "Property Note": "The property to be sold is located in in the County of Middlesex, and State of New Jersey\nCommonly known as 21 Southfield Road, Edison Twp, NJ 08820; Tax Lot No. 7, Block 557.12 fka 557-L\nDimensions of Lot: (Approximately) 210,00 feet wide By 186.27 feet long\nNearest Cross Street: Calvert Avenue W\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT\nFURTHER NOTICE THROUGH PUBLICATION.\nThe estimated upset amount for the scheduled sheriff sale is currently $1,932,390.14.\nThe upset price is not the same as a payoff or judgment redemption amount.\nProperty owner occupied.",
+    "Sale Date": "12/2/2026",
+    "Sheriff #": "F-25001455"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1643499.33,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "21 SOUTHFIELD ROAD EDISON NJ 08820",
+    "defendant": "SLAWOMIR MAGIER, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 7 BLOCK 557-L",
+  "plaintiff": "M&T BANK",
+  "property_note": "The property to be sold is located in in the County of Middlesex, and State of New Jersey\nCommonly known as 21 Southfield Road, Edison Twp, NJ 08820; Tax Lot No. 7, Block 557.12 fka 557-L\nDimensions of Lot: (Approximately) 210,00 feet wide By 186.27 feet long\nNearest Cross Street: Calvert Avenue W\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT\nFURTHER NOTICE THROUGH PUBLICATION.\nThe estimated upset amount for the scheduled sheriff sale is currently $1,932,390.14.\nThe upset price is not the same as a payoff or judgment redemption amount.\nProperty owner occupied.",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-25001455",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled - Foreclosure"
+    },
+    {
+      "date": "2026-09-30",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

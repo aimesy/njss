@@ -1,0 +1,66 @@
+{
+  "address": "311 West Orchard Street Hammonton NJ 08037",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004163-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jose Luis Nunez-Meza; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "311 West Orchard Street\nHammonton NJ 08037",
+    "Approx. Judgment*": "$188,201.00",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-004163-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jose Luis Nunez-Meza; State of New Jersey",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24001221",
+    "Upset Amount": "$205,648.50"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 188201.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "311 West Orchard Street Hammonton NJ 08037",
+    "defendant": "Jose Luis Nunez-Meza...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24001221",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 205648.5,
+  "upset_amount_label": "Upset Amount"
+}

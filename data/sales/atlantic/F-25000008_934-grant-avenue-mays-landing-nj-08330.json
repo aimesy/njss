@@ -1,0 +1,66 @@
+{
+  "address": "934 Grant Avenue Mays Landing NJ 08330",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003854-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Mohammed Hassan; Rukshana Hassan",
+  "extracted": {},
+  "fields": {
+    "Address": "934 Grant Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$85,740.35",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F-003854-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Mohammed Hassan; Rukshana Hassan",
+    "Plaintiff": "Bank of America, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "5/8/2025",
+    "Sheriff #": "F-25000008",
+    "Upset Amount": "$49,200.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 85740.35,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "934 Grant Avenue Mays Landing NJ 08330",
+    "defendant": "Mohammed Hassan; Ruk...",
+    "listing_status": null,
+    "plaintiff": "Bank of America, N.A...",
+    "sale_date": "2025-05-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank of America, N.A.",
+  "priors": "NONE",
+  "property_note": "OCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-05-08",
+  "sheriff_number": "F-25000008",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-08",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2025-02-27",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 49200.0,
+  "upset_amount_label": "Upset Amount"
+}

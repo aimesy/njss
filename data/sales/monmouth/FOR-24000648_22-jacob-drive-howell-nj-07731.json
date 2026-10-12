@@ -1,0 +1,75 @@
+{
+  "address": "22 Jacob Drive Howell NJ 07731",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01174123",
+  "current_status": "Scheduled",
+  "defendant": "Charles V. Kral, et al",
+  "description": "Approximate Dimensions: 0.27 AC\nNearest Cross Street: Deborah Lane\nUpset price: $152,171.76 (Note, this a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.",
+  "extracted": {
+    "upset_amount": 152171.76
+  },
+  "fields": {
+    "Address": "22 Jacob Drive\nHowell NJ 07731",
+    "Approx. Judgment*": "$151,923.71",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F01174123",
+    "Defendant": "Charles V. Kral, et al",
+    "Description": "Approximate Dimensions: 0.27 AC\nNearest Cross Street: Deborah Lane\nUpset price: $152,171.76 (Note, this a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.",
+    "Parcel #": "Tax Lot #6 Block #1.21 Tax Map of Township of Howell",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "1/2/2025",
+    "Sheriff #": "FOR-24000648"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 151923.71,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "22 Jacob Drive Howell NJ 07731",
+    "defendant": "Charles V. Kral, et al",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+    "sale_date": "2025-01-02"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot #6 Block #1.21 Tax Map of Township of Howell",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-01-02",
+  "sheriff_number": "FOR-24000648",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-09",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-12",
+      "status": "Scheduled"
+    }
+  ]
+}

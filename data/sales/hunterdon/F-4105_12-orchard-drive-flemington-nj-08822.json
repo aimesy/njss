@@ -1,0 +1,90 @@
+{
+  "address": "12 ORCHARD DRIVE FLEMINGTON NJ 08822",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON LLP",
+  "attorney_phone": "973-325-8800",
+  "county": "Hunterdon County, NJ",
+  "county_id": 32,
+  "court_case_number": "F-008046-24",
+  "current_status": "Scheduled",
+  "defendant": "CHRISTINE M. HORBACZ; THOMAS J. HORBACZ; MR. HORBACZ, HUSBAND OF CHRISTINE M. HORBACZ; ET AL.",
+  "description": "UPSET PRICE: APPROXIMATLEY $ 426,326.28 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OCCUPIED UNKNOWN",
+  "extracted": {
+    "occupancy": "OCCUPIED UNKNOWN",
+    "upset_amount": 426326.28
+  },
+  "fields": {
+    "Address": "12 ORCHARD DRIVE\nFLEMINGTON NJ 08822",
+    "Approx Judgment": "$384,075.15",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON LLP",
+    "Attorney Phone": "973-325-8800",
+    "Court Case #": "F-008046-24",
+    "Defendant": "CHRISTINE M. HORBACZ; THOMAS J. HORBACZ; MR. HORBACZ, HUSBAND OF CHRISTINE M. HORBACZ; ET AL.",
+    "Parcel #": "LOT 4 BLOCK 55",
+    "Plaintiff": "CSMC 2021-RPL8 TRUST",
+    "Property Details": "UPSET PRICE: APPROXIMATLEY $ 426,326.28 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OCCUPIED UNKNOWN",
+    "Property Note": "UPSET PRICE: APPROXIMATLEY $ 426,326.28 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OCCUPIED UNKNOWN\nBEGINNING AT A POINT IN THE EASTERLY SIDELINE OF ORCHARD DRIVE, SAID POINT BEING LOCATED SOUTHERLY A DISTANCE OF 350.00 FT FROM THE SOUTHERLY SIDELINE OF MEADOW LANE ; AND RUNNING THENCE ( THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A LEGAL DESCRIPTION. A COPY OF THE FULL LEGAL DESCRIPTION CAN BE FOUND AT THE OFFICE OF THE SHERIFF.)\nPURSUANT TO TAX SEARCH OF 6/12/2025; 2025 QRT 2 DUE: 05/01/2025 $2,739.11 QRT 3 DUE: 08/01/2025 TO BE DETERMINED. WATER PRIVATE. SEWER ACCT: 1589.00 04/01/2025- 06/30/2025 $178.75 OPEN PLUS PENALTY $701.07 OPEN PLUS PENALTY; OWED IN ARREARS. VACANT LOT CHARGE: VACANT PROPERTY REGISTRATION CHARGES EXIST. PLEASER CONTACT TOWNSHIP CLERK AT 908-806-3682.",
+    "Sales Date": "10/28/2026",
+    "Sheriff #": "F-4105"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 384075.15,
+  "judgment_amount_label": "Approx Judgment",
+  "listing": {
+    "address": "12 ORCHARD DRIVE FLEMINGTON NJ 08822",
+    "defendant": "CHRISTINE M. HORBACZ; THOMAS J. HORBACZ; MR. HORBACZ, HUSBAND OF CHRISTINE M. HORBACZ; ET AL.",
+    "listing_status": null,
+    "plaintiff": "CSMC 2021-RPL8 TRUST",
+    "sale_date": "2026-10-28"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
+  "parcel": "LOT 4 BLOCK 55",
+  "plaintiff": "CSMC 2021-RPL8 TRUST",
+  "property_note": "UPSET PRICE: APPROXIMATLEY $ 426,326.28 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OCCUPIED UNKNOWN\nBEGINNING AT A POINT IN THE EASTERLY SIDELINE OF ORCHARD DRIVE, SAID POINT BEING LOCATED SOUTHERLY A DISTANCE OF 350.00 FT FROM THE SOUTHERLY SIDELINE OF MEADOW LANE ; AND RUNNING THENCE ( THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A LEGAL DESCRIPTION. A COPY OF THE FULL LEGAL DESCRIPTION CAN BE FOUND AT THE OFFICE OF THE SHERIFF.)\nPURSUANT TO TAX SEARCH OF 6/12/2025; 2025 QRT 2 DUE: 05/01/2025 $2,739.11 QRT 3 DUE: 08/01/2025 TO BE DETERMINED. WATER PRIVATE. SEWER ACCT: 1589.00 04/01/2025- 06/30/2025 $178.75 OPEN PLUS PENALTY $701.07 OPEN PLUS PENALTY; OWED IN ARREARS. VACANT LOT CHARGE: VACANT PROPERTY REGISTRATION CHARGES EXIST. PLEASER CONTACT TOWNSHIP CLERK AT 908-806-3682.",
+  "sale_date": "2026-10-28",
+  "sheriff_number": "F-4105",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
+  "status_history": [
+    {
+      "date": "2026-10-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Bankruptcy/Adjourned"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-16",
+      "status": "Bankruptcy/Adjourned"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Scheduled"
+    }
+  ]
+}

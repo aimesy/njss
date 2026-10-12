@@ -1,0 +1,64 @@
+{
+  "address": "179 Ravine Drive Matawan NJ 07747",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01273522",
+  "current_status": "Scheduled",
+  "defendant": "Spencer Layman; United States of America",
+  "description": "Dimensions of Lot: 111 feet wide by 159 feet long\nNearest Cross Street: Indian Trail\nEstimated upset bid amount: $516,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 3 Due: 08/01/2025 $2,995.66 BILLED; $2954.23 OPEN PLUS PENALTY; $41.43 PAID\n2025 Qtr 4 Due: 11/01/2025 $2,995.66 OPEN PLUS PENALTY\n2026 Qtr 1 Due: 02/01/2026 $2,900.41 OPEN\n2026 Qtr 2 Due: 05/01/2026 $2,900.41 OPEN\nWater: Matawan Water Dept 201 Broad Street Matawan, NJ 07747 732-290-2005\nAcct: 905404 07/01/2025-09/30/2025 $50.21 OPEN $50.21 OPEN PLUS PENALTY\nSewer: Matawan Sewer Dept 201 Broad Street Matawan, NJ 07747 732-290-2005\nAcct: 905404 0 07/01/2025-09/30/2025 $203.96 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "111",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "179 Ravine Drive\nMatawan NJ 07747",
+    "Approx. Judgment*": "$474,978.10",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F01273522",
+    "Defendant": "Spencer Layman; United States of America",
+    "Description": "Dimensions of Lot: 111 feet wide by 159 feet long\nNearest Cross Street: Indian Trail\nEstimated upset bid amount: $516,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 3 Due: 08/01/2025 $2,995.66 BILLED; $2954.23 OPEN PLUS PENALTY; $41.43 PAID\n2025 Qtr 4 Due: 11/01/2025 $2,995.66 OPEN PLUS PENALTY\n2026 Qtr 1 Due: 02/01/2026 $2,900.41 OPEN\n2026 Qtr 2 Due: 05/01/2026 $2,900.41 OPEN\nWater: Matawan Water Dept 201 Broad Street Matawan, NJ 07747 732-290-2005\nAcct: 905404 07/01/2025-09/30/2025 $50.21 OPEN $50.21 OPEN PLUS PENALTY\nSewer: Matawan Sewer Dept 201 Broad Street Matawan, NJ 07747 732-290-2005\nAcct: 905404 0 07/01/2025-09/30/2025 $203.96 OPEN PLUS PENALTY",
+    "Parcel #": "Lot and Block: Lot 10, Block 65.12 F/K/A 65L on the official Tax Map of the Township of Matawan",
+    "Plaintiff": "Mortgage Assets Management, LLC",
+    "Property Note": "",
+    "Sales Date": "3/16/2026",
+    "Sheriff #": "FOR-25002233"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 474978.1,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "179 Ravine Drive Matawan NJ 07747",
+    "defendant": "Spencer Layman; United States of America",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Mortgage Assets Management, LLC",
+    "sale_date": "2026-03-16"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 10, Block 65.12 F/K/A 65L on the official Tax Map of the Township of Matawan",
+  "plaintiff": "Mortgage Assets Management, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-16",
+  "sheriff_number": "FOR-25002233",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-16",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Scheduled"
+    }
+  ]
+}

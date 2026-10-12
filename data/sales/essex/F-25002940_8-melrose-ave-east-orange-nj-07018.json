@@ -1,0 +1,63 @@
+{
+  "address": "8 MELROSE AVE EAST ORANGE NJ 07018",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973 575-0707",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00329425",
+  "current_status": "Open",
+  "defendant": "ANDREA CROUCH, ET. AL",
+  "description": "LOT 29 BLOCK 720\nDIMENSIONS OF LOT: 39 FEET WIDE BY 154 FEET LONG\nNEAREST CROSS STREET: SOUTH HARRISON STREET\nESTIMATED UPSET BID AMOUNT: $423,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: OWNER OCCUPIED\nWATER: EAST ORANGE WATER COMMISSION 99 SO. GROVE ST. EAST ORANGE, NJ 07018 (973) 266-8869. ACCT: 12128-0 TO: 07/22/2025 $76.70 OPEN AND DUE 08/21/2025 *SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+  "extracted": {
+    "block": "720",
+    "lot": "29",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "8 MELROSE AVE\nEAST ORANGE NJ 07018",
+    "Approx. Upset*": "$389,585.41",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973 575-0707",
+    "Court Case #": "F00329425",
+    "Defendant": "ANDREA CROUCH, ET. AL",
+    "Description": "LOT 29 BLOCK 720\nDIMENSIONS OF LOT: 39 FEET WIDE BY 154 FEET LONG\nNEAREST CROSS STREET: SOUTH HARRISON STREET\nESTIMATED UPSET BID AMOUNT: $423,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: OWNER OCCUPIED\nWATER: EAST ORANGE WATER COMMISSION 99 SO. GROVE ST. EAST ORANGE, NJ 07018 (973) 266-8869. ACCT: 12128-0 TO: 07/22/2025 $76.70 OPEN AND DUE 08/21/2025 *SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+    "Property Note": "",
+    "Sales Date": "8/24/2026",
+    "Sheriff #": "F-25002940"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "8 MELROSE AVE EAST ORANGE NJ 07018",
+    "defendant": "ANDREA CROUCH, ET. AL",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+    "sale_date": "2026-08-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+  "property_note": null,
+  "sale_date": "2026-08-24",
+  "sheriff_number": "F-25002940",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-09-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-16",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "Open"
+    }
+  ],
+  "upset_amount": 389585.41,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,61 @@
+{
+  "address": "1256 HADDON AVENUE CAMDEN NJ",
+  "attorney": "SALDUTTI LAW GROUP",
+  "attorney_phone": "856-779-0300 EXT. 35",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F617125",
+  "current_status": "Defendant Adjournment",
+  "defendant": "URBAN DEVELOPMENT PARTNERS LIMITED LIABILITY COMPANY",
+  "extracted": {},
+  "fields": {
+    "Address": "1256 HADDON AVENUE\nCAMDEN NJ",
+    "Approx. Upset*": "$320,456.30",
+    "Attorney": "SALDUTTI LAW GROUP",
+    "Attorney Phone": "856-779-0300 EXT. 35",
+    "Court Case #": "F617125",
+    "Defendant": "URBAN DEVELOPMENT PARTNERS LIMITED LIABILITY COMPANY",
+    "Parcel #": "TAX LOT NO. 14 IN BLOCK NO. 1294",
+    "Plaintiff": "FIRST BANK",
+    "Property Note": "ADITIONALLY, THE FOLLOWING SUMS ARE THE AMOUNT REPRESENTED TO PLAINTIFF, BY THE TAX COLLECTOR'S OFFICE FOR THE CITY OF CAMDEN AND/OR TAX CERTIFICATE HOLDERS, AS BEING OUTSTAND ON ACCOUNT OF TAXES AND/OR OTHER LIENS DUE AND OWING THROUGH APRIL 13, 2026:\n$8,410.35 ON LOT 12\n$9,827.82 ON LOT 13\n$14,570.81 ON LOT 14",
+    "Sales Date": "9/2/2026",
+    "Sheriff #": "FR-26000988"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1256 HADDON AVENUE CAMDEN NJ",
+    "defendant": "URBAN DEVELOPMENT PARTNERS LIMITED LIABILITY COMPANY",
+    "listing_status": null,
+    "plaintiff": "FIRST BANK",
+    "sale_date": "2026-09-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT NO. 14 IN BLOCK NO. 1294",
+  "plaintiff": "FIRST BANK",
+  "property_note": "ADITIONALLY, THE FOLLOWING SUMS ARE THE AMOUNT REPRESENTED TO PLAINTIFF, BY THE TAX COLLECTOR'S OFFICE FOR THE CITY OF CAMDEN AND/OR TAX CERTIFICATE HOLDERS, AS BEING OUTSTAND ON ACCOUNT OF TAXES AND/OR OTHER LIENS DUE AND OWING THROUGH APRIL 13, 2026:\n$8,410.35 ON LOT 12\n$9,827.82 ON LOT 13\n$14,570.81 ON LOT 14",
+  "sale_date": "2026-09-02",
+  "sheriff_number": "FR-26000988",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 320456.3,
+  "upset_amount_label": "Approx. Upset*"
+}

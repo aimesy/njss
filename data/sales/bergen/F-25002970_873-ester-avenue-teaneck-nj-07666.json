@@ -1,0 +1,55 @@
+{
+  "address": "873 ESTER AVENUE TEANECK NJ 07666",
+  "attorney": "GROSS POLOWY LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00416724",
+  "current_status": "Cancelled",
+  "defendant": "DEXTER A. DANIEL, HIS OR HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR, OR ANY OF THEIR, SUCCESSORS IN RIGHT, TITLE AND INTERES, ET AL.",
+  "description": "UPSET BID AMOUNT: $187,724.82\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "873 ESTER AVENUE\nTEANECK NJ 07666",
+    "Approx. Upset*": "$173,954.68",
+    "Attorney": "GROSS POLOWY LLC",
+    "Court Case #": "F00416724",
+    "Defendant": "DEXTER A. DANIEL, HIS OR HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR, OR ANY OF THEIR, SUCCESSORS IN RIGHT, TITLE AND INTERES, ET AL.",
+    "Description": "UPSET BID AMOUNT: $187,724.82\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 1, BLOCK 811",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "3/27/2026",
+    "Sheriff #": "F-25002970"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "873 ESTER AVENUE TEANECK NJ 07666",
+    "defendant": "DEXTER A. DANIEL, HIS OR HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR, OR ANY OF THEIR, SUCCESSORS IN RIGHT, TITLE AND INTERES, ET AL.",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-03-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 1, BLOCK 811",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-03-27",
+  "sheriff_number": "F-25002970",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-27",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 173954.68,
+  "upset_amount_label": "Approx. Upset*"
+}

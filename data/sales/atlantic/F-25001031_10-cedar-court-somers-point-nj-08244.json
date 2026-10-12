@@ -1,0 +1,62 @@
+{
+  "address": "10 Cedar Court Somers Point NJ 08244",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005448-25",
+  "current_status": "Scheduled",
+  "deed": "Aamad Abro",
+  "deed_address": "415 Glenn Ave Egg Harbor Twp NJ 08234",
+  "defendant": "ALLISON FREDERICK; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+  "extracted": {},
+  "fields": {
+    "Address": "10 Cedar Court\nSomers Point NJ 08244",
+    "Approx. Judgment*": "$155,537.21",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-005448-25",
+    "Deed": "Aamad Abro",
+    "Deed Address": "415 Glenn Ave Egg Harbor Twp NJ 08234",
+    "Defendant": "ALLISON FREDERICK; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "F-25001031",
+    "Upset Amount": "$238,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 155537.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 Cedar Court Somers Point NJ 08244",
+    "defendant": "ALLISON FREDERICK; U...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, N....",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-08",
+  "sheriff_number": "F-25001031",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-08",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 238000.0,
+  "upset_amount_label": "Upset Amount"
+}

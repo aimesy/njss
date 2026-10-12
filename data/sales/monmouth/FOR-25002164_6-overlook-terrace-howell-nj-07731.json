@@ -1,0 +1,63 @@
+{
+  "address": "6 Overlook Terrace Howell NJ 07731",
+  "attorney": "Honig & Greenberg LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F672624",
+  "current_status": "Scheduled",
+  "defendant": "Joelene Ammoscato et. al.",
+  "description": "Dimensions: .30 AC\nNumber of feet to nearest cross-street: 88 feet to E. Midland Blvd.\nProperty Owner(s): JOELENE AMMOSCATO\nAddress of Property: 6 Overlook Terrace\nMetes and Bounds Description: This concise description does not constitute a full legal description. The full legal description cab be found in the office of the clerk of Monmouth County in Book DB5761 at Page 676 Instrument No. 1998149868\nAmount of Taxes Due and Prior Liens: $1,521.22\nUpset Amount: Approximately $38,000.00\nOccupancy: Owners",
+  "extracted": {
+    "occupancy": "Owners"
+  },
+  "fields": {
+    "Address": "6 Overlook Terrace\nHowell NJ 07731",
+    "Approx. Judgment*": "$30,804.56",
+    "Attorney": "Honig & Greenberg LLC",
+    "Court Case #": "F672624",
+    "Defendant": "Joelene Ammoscato et. al.",
+    "Description": "Dimensions: .30 AC\nNumber of feet to nearest cross-street: 88 feet to E. Midland Blvd.\nProperty Owner(s): JOELENE AMMOSCATO\nAddress of Property: 6 Overlook Terrace\nMetes and Bounds Description: This concise description does not constitute a full legal description. The full legal description cab be found in the office of the clerk of Monmouth County in Book DB5761 at Page 676 Instrument No. 1998149868\nAmount of Taxes Due and Prior Liens: $1,521.22\nUpset Amount: Approximately $38,000.00\nOccupancy: Owners",
+    "Parcel #": "Lot and Block: Tax Lot 37, Block 144 on the official Tax Map of Township of Howell.",
+    "Plaintiff": "WSFS AS CUST LVTLOPS/FIRSTRUST",
+    "Property Note": "",
+    "Sales Date": "4/7/2026",
+    "Sheriff #": "FOR-25002164"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 30804.56,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 Overlook Terrace Howell NJ 07731",
+    "defendant": "Joelene Ammoscato et. al.",
+    "listing_status": "Settled",
+    "plaintiff": "WSFS AS CUST LVTLOPS/FIRSTRUST",
+    "sale_date": "2026-04-07"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Tax Lot 37, Block 144 on the official Tax Map of Township of Howell.",
+  "plaintiff": "WSFS AS CUST LVTLOPS/FIRSTRUST",
+  "property_note": null,
+  "sale_date": "2026-04-07",
+  "sheriff_number": "FOR-25002164",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-04-07",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Scheduled"
+    }
+  ]
+}

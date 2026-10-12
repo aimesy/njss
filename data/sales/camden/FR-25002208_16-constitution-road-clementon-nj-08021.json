@@ -1,0 +1,53 @@
+{
+  "address": "16 CONSTITUTION ROAD CLEMENTON NJ 08021",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00980323",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "DIANA KIMIC, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "16 CONSTITUTION ROAD\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$278,826.59",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00980323",
+    "Defendant": "DIANA KIMIC, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "CITIBANK, N.A. AS TRUSTEE FOR AMERICAN HOME MORTGAGE\nASSESTS TRUST 2006-3, MORTGAGE-BACKED PASS-THROUGH\nCERTIFICATES SERIES 2006-3",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25002208"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "16 CONSTITUTION ROAD CLEMENTON NJ 08021",
+    "defendant": "DIANA KIMIC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIBANK, N.A. AS TRUSTEE FOR AMERICAN HOME MORTGAGE \nASSESTS TRUST 2006-3, MORTGAGE-BACKED PASS-THROUGH \nCERTIFICATES SERIES 2006-3",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIBANK, N.A. AS TRUSTEE FOR AMERICAN HOME MORTGAGE ASSESTS TRUST 2006-3, MORTGAGE-BACKED PASS-THROUGH CERTIFICATES SERIES 2006-3",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25002208",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 278826.59,
+  "upset_amount_label": "Approx. Upset*"
+}

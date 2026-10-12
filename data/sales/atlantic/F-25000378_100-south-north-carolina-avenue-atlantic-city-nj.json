@@ -1,0 +1,58 @@
+{
+  "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+  "attorney": "K&L Gates, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010597-23",
+  "current_status": "Scheduled",
+  "deed": "Wyndham Vacation Resorts, Inc",
+  "deed_address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+  "defendant": "Harold Munro and Vivan Munro; Eric Irby and Diahann Irby; Sheila Catanese; Kelcey E. Liverpool and Rudoff L. Liverpool; Prentise A. Singleterry; Cara Scott and Dolland K. Scott; Demond Bynum; William L. Thomas and Annie L. Thomas",
+  "extracted": {},
+  "fields": {
+    "Address": "100 South North Carolina Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$10,825.75",
+    "Attorney": "K&L Gates, LLP",
+    "Court Case #": "F-010597-23",
+    "Deed": "Wyndham Vacation Resorts, Inc",
+    "Deed Address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+    "Defendant": "Harold Munro and Vivan Munro; Eric Irby and Diahann Irby; Sheila Catanese; Kelcey E. Liverpool and Rudoff L. Liverpool; Prentise A. Singleterry; Cara Scott and Dolland K. Scott; Demond Bynum; William L. Thomas and Annie L. Thomas",
+    "Plaintiff": "Skyline Tower Vacation Condominium Association, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: PROPERTY IS NOT VACANT, TENANT-OCCUPIED OR OWNER OCCUPIED BUT INSTEAD IS A TIMESHARE VACATION PROPERTY",
+    "Sales Date": "6/5/2025",
+    "Sheriff #": "F-25000378",
+    "Upset Amount": "$629.33"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 10825.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+    "defendant": "Harold Munro and Viv...",
+    "listing_status": null,
+    "plaintiff": "Skyline Tower Vacati...",
+    "sale_date": "2025-06-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Skyline Tower Vacation Condominium Association, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: PROPERTY IS NOT VACANT, TENANT-OCCUPIED OR OWNER OCCUPIED BUT INSTEAD IS A TIMESHARE VACATION PROPERTY",
+  "sale_date": "2025-06-05",
+  "sheriff_number": "F-25000378",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-05",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 629.33,
+  "upset_amount_label": "Upset Amount"
+}

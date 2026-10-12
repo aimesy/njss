@@ -1,0 +1,52 @@
+{
+  "address": "55 Wendt Lane Wayne NJ 07470",
+  "attorney": "Hill Wallack, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 012272 25 CTL#163237",
+  "current_status": "Scheduled",
+  "defendant": "REAL ESTATE CONSULTING GROUP LLC",
+  "description": "Occupancy Status: Tenant Occupied\non the Tax Map of the Township of Wayne\nNearest Cross Street: Approximately 240.00ft to the nearest cross street known as Jeffry Road\nApproximate Dimensions: 125.00ft x 120.00ft x 125.00ft x 120.00ft\nBeing more commonly known as:\n55 Wendt Lane\nWayne, New Jersey 07470\nProperty is also being sold; Limited to tangible property located at 55 Wendt Lane, Wayne, New Jersey 07470 owned by Real Estate Consulting Group LLC\nThe full legal description can be found in the Office of the Clerk of Passaic County in Deed Book D3576, at Page 121\nAPPROXIMATE UPSET PRICE IS $625,302.72 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated June 25, 2026\nSubject to: 2026 2nd quarter taxes due 5/1/2026 $4,491.91 OPEN PLUS PENALTY; OWED IN ARREARS\n2026 3rd quarter taxes due 8/1/2026, TO BE DETERMINED\n2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\nWater/Sewer: Acct. 76103700-0, $656.03 OPEN PLUS\nPENALTY; OWED IN ARREARS",
+  "extracted": {
+    "occupancy": "Tenant Occupied",
+    "upset_amount": 625302.72
+  },
+  "fields": {
+    "Address": "55 Wendt Lane\nWayne NJ 07470",
+    "Approx. Upset*": "$595,431.34",
+    "Attorney": "Hill Wallack, LLP",
+    "Court Case #": "F 012272 25 CTL#163237",
+    "Defendant": "REAL ESTATE CONSULTING GROUP LLC",
+    "Description": "Occupancy Status: Tenant Occupied\non the Tax Map of the Township of Wayne\nNearest Cross Street: Approximately 240.00ft to the nearest cross street known as Jeffry Road\nApproximate Dimensions: 125.00ft x 120.00ft x 125.00ft x 120.00ft\nBeing more commonly known as:\n55 Wendt Lane\nWayne, New Jersey 07470\nProperty is also being sold; Limited to tangible property located at 55 Wendt Lane, Wayne, New Jersey 07470 owned by Real Estate Consulting Group LLC\nThe full legal description can be found in the Office of the Clerk of Passaic County in Deed Book D3576, at Page 121\nAPPROXIMATE UPSET PRICE IS $625,302.72 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated June 25, 2026\nSubject to: 2026 2nd quarter taxes due 5/1/2026 $4,491.91 OPEN PLUS PENALTY; OWED IN ARREARS\n2026 3rd quarter taxes due 8/1/2026, TO BE DETERMINED\n2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\nWater/Sewer: Acct. 76103700-0, $656.03 OPEN PLUS\nPENALTY; OWED IN ARREARS",
+    "Parcel #": "Tax Lot: 6; Block: 2514",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26001258"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "55 Wendt Lane Wayne NJ 07470",
+    "defendant": "REAL ESTATE CONSULTING GROUP LLC",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 6; Block: 2514",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26001258",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 595431.34,
+  "upset_amount_label": "Approx. Upset*"
+}

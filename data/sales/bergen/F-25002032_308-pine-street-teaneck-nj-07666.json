@@ -1,0 +1,57 @@
+{
+  "address": "308 PINE STREET TEANECK NJ 07666",
+  "attorney": "POWERS KIRN LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01177824",
+  "current_status": "Cancelled",
+  "defendant": "GHOUSE SHERIFF, RAFIA SHERIFF, ET AL",
+  "description": "PLAINTIFF'S UPSET BID IS $278,768.93 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE PROPERTY IS REPORTED TO BE OWNER OCCUPIED.",
+  "extracted": {},
+  "fields": {
+    "Address": "308 PINE STREET\nTEANECK NJ 07666",
+    "Approx. Upset*": "$256,219.50",
+    "Attorney": "POWERS KIRN LLC",
+    "Court Case #": "F01177824",
+    "Defendant": "GHOUSE SHERIFF, RAFIA SHERIFF, ET AL",
+    "Description": "PLAINTIFF'S UPSET BID IS $278,768.93 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE PROPERTY IS REPORTED TO BE OWNER OCCUPIED.",
+    "Parcel #": "LOT 3, BLOCK 2415",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "10/29/2025",
+    "Sheriff #": "F-25002032"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "308 PINE STREET TEANECK NJ 07666",
+    "defendant": "GHOUSE SHERIFF, RAFIA SHERIFF, ET AL",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, BLOCK 2415",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25002032",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 256219.5,
+  "upset_amount_label": "Approx. Upset*"
+}

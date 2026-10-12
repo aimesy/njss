@@ -1,0 +1,72 @@
+{
+  "address": "58-B BURTON AVENUE SOUTH RIVER NJ 08882",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01026318",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "MARIA GERVASI",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$245,554.33",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F01026318",
+    "Defendant": "MARIA GERVASI",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.03 BLOCK 65",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Address": "58-B BURTON AVENUE\nSOUTH RIVER NJ 08882",
+    "Property Note": "",
+    "Sale Date": "3/19/2025",
+    "Sheriff #": "F-776624"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 245554.33,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "58-B BURTON AVENUE SOUTH RIVER NJ 08882",
+    "defendant": "MARIA GERVASI",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2025-03-19"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.03 BLOCK 65",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-03-19",
+  "sheriff_number": "F-776624",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-01-22",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-12-18",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

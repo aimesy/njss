@@ -1,0 +1,53 @@
+{
+  "address": "3161 SAUNDERS STREET CAMDEN NJ 08105",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00904619",
+  "current_status": "Scheduled",
+  "defendant": "JOHNNY RIOS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "3161 SAUNDERS STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$109,279.74",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00904619",
+    "Defendant": "JOHNNY RIOS, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-25002264"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3161 SAUNDERS STREET CAMDEN NJ 08105",
+    "defendant": "JOHNNY RIOS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-25002264",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 109279.74,
+  "upset_amount_label": "Approx. Upset*"
+}

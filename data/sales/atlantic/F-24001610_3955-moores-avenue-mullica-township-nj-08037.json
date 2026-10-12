@@ -1,0 +1,58 @@
+{
+  "address": "3955 Moores Avenue Mullica Township NJ 08037",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "SWC-F-002299-23 CORRECTIVE",
+  "current_status": "Scheduled",
+  "deed": "Waqas Akhtar",
+  "deed_address": "410 Montrose Lane, Galloway, NJ 08205",
+  "defendant": "Robert Moore, Jr, Individually and as Executor of The Estate of Robert J. Moore, Deceased; Barbara Moore; Tarta Luna LLC; State of New Jersey; United States of America; Leslie Moore Wolf; Susanna C. Rovins; Mitchell Rovins",
+  "extracted": {},
+  "fields": {
+    "Address": "3955 Moores Avenue\nMullica Township NJ 08037",
+    "Approx. Judgment*": "$364,581.05",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "SWC-F-002299-23 CORRECTIVE",
+    "Deed": "Waqas Akhtar",
+    "Deed Address": "410 Montrose Lane, Galloway, NJ 08205",
+    "Defendant": "Robert Moore, Jr, Individually and as Executor of The Estate of Robert J. Moore, Deceased; Barbara Moore; Tarta Luna LLC; State of New Jersey; United States of America; Leslie Moore Wolf; Susanna C. Rovins; Mitchell Rovins",
+    "Plaintiff": "PHH Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "2/13/2025",
+    "Sheriff #": "F-24001610",
+    "Upset Amount": "$190,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 364581.05,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3955 Moores Avenue Mullica Township NJ 08037",
+    "defendant": "Robert Moore, Jr, In...",
+    "listing_status": null,
+    "plaintiff": "PHH Mortgage Corpora...",
+    "sale_date": "2025-02-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PHH Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-02-13",
+  "sheriff_number": "F-24001610",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-13",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 190000.0,
+  "upset_amount_label": "Upset Amount"
+}

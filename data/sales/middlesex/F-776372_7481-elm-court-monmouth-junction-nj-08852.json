@@ -1,0 +1,60 @@
+{
+  "address": "7481 Elm Court MONMOUTH JUNCTION NJ 08852",
+  "attorney": "KML LAW GROUP P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00970622",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "Natalie B. Day a/k/a Natalie Day, et als",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$225,137.77",
+    "Attorney": "KML LAW GROUP P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00970622",
+    "Defendant": "Natalie B. Day a/k/a Natalie Day, et als",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "lot 7371 fka 42.06 C371 block 84.03 fka 84",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust VII-B",
+    "Property Address": "7481 Elm Court\nMONMOUTH JUNCTION NJ 08852",
+    "Property Note": "",
+    "Sale Date": "3/19/2025",
+    "Sheriff #": "F-776372"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 225137.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7481 Elm Court MONMOUTH JUNCTION NJ 08852",
+    "defendant": "Natalie B. Day a/k/a Natalie Day, et als",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust VII-B",
+    "sale_date": "2025-03-19"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "lot 7371 fka 42.06 C371 block 84.03 fka 84",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust VII-B",
+  "property_note": null,
+  "sale_date": "2025-03-19",
+  "sheriff_number": "F-776372",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

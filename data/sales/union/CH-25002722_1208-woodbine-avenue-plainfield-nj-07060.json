@@ -1,0 +1,60 @@
+{
+  "address": "1208 WOODBINE AVENUE PLAINFIELD NJ 07060",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00322223",
+  "current_status": "Buy Back",
+  "defendant": "MARTARL HERMANSTEIN; MRS. MARTARL HERMANSTEIN, HIS WIFE; CHRISTINE ROGERS; MR. ROGERS, HUSBAND OF CHRISTINE ROGERS",
+  "description": "LOT 10 BLOCK 806",
+  "extracted": {
+    "block": "806",
+    "lot": "10"
+  },
+  "fields": {
+    "Address": "1208 WOODBINE AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$557,086.14",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00322223",
+    "Defendant": "MARTARL HERMANSTEIN; MRS. MARTARL HERMANSTEIN, HIS WIFE; CHRISTINE ROGERS; MR. ROGERS, HUSBAND OF CHRISTINE ROGERS",
+    "Description": "LOT 10 BLOCK 806",
+    "Parcel #": "LOT 10 BLOCK 806",
+    "Plaintiff": "U.S BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2005-EMX2",
+    "Property Note": "",
+    "Sales Date": "3/18/2026",
+    "Sheriff #": "CH-25002722"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1208 WOODBINE AVENUE PLAINFIELD NJ 07060",
+    "defendant": "MARTARL HERMANSTEIN; MRS. MARTARL HERMANSTEIN, HIS WIFE; CHRISTINE ROGERS; MR. ROGERS, HUSBAND OF CHRISTINE ROGERS",
+    "listing_status": null,
+    "plaintiff": "U.S BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2005-EMX2",
+    "sale_date": "2026-03-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 10 BLOCK 806",
+  "plaintiff": "U.S BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2005-EMX2",
+  "property_note": null,
+  "sale_date": "2026-03-18",
+  "sheriff_number": "CH-25002722",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 557086.14,
+  "upset_amount_label": "Approx. Upset*"
+}

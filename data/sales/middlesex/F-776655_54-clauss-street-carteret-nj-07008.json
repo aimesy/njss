@@ -1,0 +1,68 @@
+{
+  "address": "54 CLAUSS STREET CARTERET NJ 07008",
+  "attorney": "STERN & EISENBERG P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "(609) 397-9200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00807023",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "MICHAEL J. MILLER, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$412,695.60",
+    "Attorney": "STERN & EISENBERG P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00807023",
+    "Defendant": "MICHAEL J. MILLER, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "Lot 29 Block 13.02",
+    "Plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS2",
+    "Property Address": "54 CLAUSS STREET\nCARTERET NJ 07008",
+    "Property Note": "",
+    "Sale Date": "3/19/2025",
+    "Sheriff #": "F-776655"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 412695.6,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "54 CLAUSS STREET CARTERET NJ 07008",
+    "defendant": "MICHAEL J. MILLER, ET ALS",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS2",
+    "sale_date": "2025-03-19"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "Lot 29 Block 13.02",
+  "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS2",
+  "property_note": null,
+  "sale_date": "2025-03-19",
+  "sheriff_number": "F-776655",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-01-22",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

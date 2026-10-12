@@ -1,0 +1,85 @@
+{
+  "address": "185 Tennis Court Wall Township NJ 07719",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00243322",
+  "current_status": "Scheduled",
+  "defendant": "Michael Devito, et al",
+  "description": "Dimensions of Lot: (Approximately) Condominium\nNearest Cross Street: Racquet Road\nThe estimated upset amount for the scheduled sheriff sale is currently $438,569.73.\nThe upset price IS NOT the same as a payoff or judgment redemption amount.\nThis property is Owner Occupied.",
+  "extracted": {},
+  "fields": {
+    "Address": "185 Tennis Court\nWall Township NJ 07719",
+    "Approx. Judgment*": "$368,348.24",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00243322",
+    "Defendant": "Michael Devito, et al",
+    "Description": "Dimensions of Lot: (Approximately) Condominium\nNearest Cross Street: Racquet Road\nThe estimated upset amount for the scheduled sheriff sale is currently $438,569.73.\nThe upset price IS NOT the same as a payoff or judgment redemption amount.\nThis property is Owner Occupied.",
+    "Parcel #": "Tax Lot No. 21 C0185 Block 800 Tax Map of Township of Wall",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2019-3",
+    "Property Note": "",
+    "Sales Date": "11/24/2025",
+    "Sheriff #": "FOR-23001869"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 368348.24,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "185 Tennis Court Wall Township NJ 07719",
+    "defendant": "Michael Devito, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2019-3",
+    "sale_date": "2025-11-24"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 21 C0185 Block 800 Tax Map of Township of Wall",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2019-3",
+  "property_note": null,
+  "sale_date": "2025-11-24",
+  "sheriff_number": "FOR-23001869",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-24",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-02-26",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-02-26",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-01-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-01-02",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2023-11-13",
+      "status": "Scheduled"
+    }
+  ]
+}

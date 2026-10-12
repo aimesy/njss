@@ -1,0 +1,53 @@
+{
+  "address": "1270 JACKSON STREET CAMDEN NJ 08104",
+  "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES & NEWBY, LLP",
+  "attorney_phone": "(973) 242-1364",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01188825",
+  "current_status": "Purchased",
+  "defendant": "MERCHANTSURE LLC AND JOSEPH CHAFFATT",
+  "extracted": {},
+  "fields": {
+    "Address": "1270 JACKSON STREET\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$104,967.84",
+    "Attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES & NEWBY, LLP",
+    "Attorney Phone": "(973) 242-1364",
+    "Court Case #": "F01188825",
+    "Defendant": "MERCHANTSURE LLC AND JOSEPH CHAFFATT",
+    "Parcel #": "LOT 14 IN BLOCK 1356",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 68205",
+    "Property Note": "",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-26000943"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1270 JACKSON STREET CAMDEN NJ 08104",
+    "defendant": "MERCHANTSURE LLC AND JOSEPH CHAFFATT",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 68205",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 14 IN BLOCK 1356",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 68205",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-26000943",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 104967.84,
+  "upset_amount_label": "Approx. Upset*"
+}

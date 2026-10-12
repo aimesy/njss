@@ -1,0 +1,87 @@
+{
+  "address": "1518 73RD STREET NORTH BERGEN NJ 07047",
+  "attorney": "KML LAW GROUP, P.C",
+  "attorney_phone": "215-627-1322",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-002593-22",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "IVAN REGALADO",
+  "description": "TAX LOT NO. 18 BLOCK 250\nDIMENSIONS OF LOT: (APPROXIMATELY) 34.00 FEET WIDE BY 90.00 FEET LONG\nNEAREST CROSS STREET: LIBERTY AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $726,718.69.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHE PROPERTY IS OWNER OCCUPIED",
+  "extracted": {
+    "block": "250",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "1518 73RD STREET\nNORTH BERGEN NJ 07047",
+    "Attorney": "KML LAW GROUP, P.C",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-002593-22",
+    "Defendant": "IVAN REGALADO",
+    "Description": "TAX LOT NO. 18 BLOCK 250\nDIMENSIONS OF LOT: (APPROXIMATELY) 34.00 FEET WIDE BY 90.00 FEET LONG\nNEAREST CROSS STREET: LIBERTY AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $726,718.69.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHE PROPERTY IS OWNER OCCUPIED",
+    "Good Faith Upset*": "$726,718.69",
+    "Judgment": "$564,278.81",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE ON BEHALF OF THE HOLDER OF THE CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-FX1",
+    "Property Note": "",
+    "Sales Date": "7/29/2026",
+    "Sheriff #": "20049958"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 564278.81,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1518 73RD STREET NORTH BERGEN NJ 07047",
+    "defendant": "IVAN REGALADO",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE ON BEHALF OF THE HOLDER OF THE CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-FX1",
+    "sale_date": "2026-07-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE ON BEHALF OF THE HOLDER OF THE CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-FX1",
+  "property_note": null,
+  "sale_date": "2026-07-29",
+  "sheriff_number": "20049958",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2023-01-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-03-30",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2023-05-25",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2023-09-21",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-10-19",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-09-11",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2025-09-24",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 726718.69,
+  "upset_amount_label": "Good Faith Upset*"
+}

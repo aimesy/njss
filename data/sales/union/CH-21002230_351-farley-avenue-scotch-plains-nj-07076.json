@@ -1,0 +1,64 @@
+{
+  "address": "351 FARLEY AVENUE SCOTCH PLAINS NJ 07076",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F02783517",
+  "current_status": "Cancelled",
+  "defendant": "PABLO MARRERO; DILIA MARRERO; UNITED STATES OF AMERICA; ABU ALAM MD",
+  "description": "LOT 9 BLOCK 601 F/K/A LOT 9 BLOCK 5",
+  "extracted": {
+    "block": "601",
+    "lot": "9"
+  },
+  "fields": {
+    "Address": "351 FARLEY AVENUE\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$241,956.39",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F02783517",
+    "Defendant": "PABLO MARRERO; DILIA MARRERO; UNITED STATES OF AMERICA; ABU ALAM MD",
+    "Description": "LOT 9 BLOCK 601 F/K/A LOT 9 BLOCK 5",
+    "Parcel #": "LOT 9 BLOCK 601 F/K/A LOT 9 BLOCK 5",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER",
+    "Property Note": "",
+    "Sales Date": "6/16/2026",
+    "Sheriff #": "CH-21002230"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "351 FARLEY AVENUE SCOTCH PLAINS NJ 07076",
+    "defendant": "PABLO MARRERO; DILIA MARRERO; UNITED STATES OF AMERICA; ABU ALAM MD",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER",
+    "sale_date": "2026-06-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 9 BLOCK 601 F/K/A LOT 9 BLOCK 5",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER",
+  "property_note": null,
+  "sale_date": "2026-06-16",
+  "sheriff_number": "CH-21002230",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2022-01-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-03-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-03-16",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-06-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 241956.39,
+  "upset_amount_label": "Approx. Upset*"
+}

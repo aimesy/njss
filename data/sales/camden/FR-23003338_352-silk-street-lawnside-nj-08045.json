@@ -1,0 +1,77 @@
+{
+  "address": "352 SILK STREET LAWNSIDE NJ 08045",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01832019",
+  "current_status": "Settled",
+  "defendant": "ROBERT MURRAY JR. A/K/A ROBERT MURRAY A/K/A ROBERT J. MURRAY A/K/A ROBERTY MURRAY; YOLANDA MURRAY; JAEGER LUMBER & SUPPLY CO INC; PALISADES COLLECTION LLC; MIDLAND FUNDING LLC, ASSIGNEE CREDIT ONE BANK NA,",
+  "extracted": {},
+  "fields": {
+    "Address": "352 SILK STREET\nLAWNSIDE NJ 08045",
+    "Approx. Upset*": "$174,947.38",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01832019",
+    "Defendant": "ROBERT MURRAY JR. A/K/A ROBERT MURRAY A/K/A ROBERT J. MURRAY A/K/A\nROBERTY MURRAY; YOLANDA MURRAY; JAEGER LUMBER & SUPPLY CO INC; PALISADES\nCOLLECTION LLC; MIDLAND FUNDING LLC, ASSIGNEE CREDIT ONE BANK NA,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR ASSET BACKED SECURITIES\nCORPORATION HOME EQUITY LOAN TRUST 2004-HE9, ASSET BACKED PASS-THROUGH\nCERTIFICATES, SERIES 2004-HE9,",
+    "Property Note": "",
+    "Sales Date": "5/6/2026",
+    "Sheriff #": "FR-23003338"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "352 SILK STREET LAWNSIDE NJ 08045",
+    "defendant": "ROBERT MURRAY JR. A/K/A ROBERT MURRAY A/K/A ROBERT J. MURRAY A/K/A \nROBERTY MURRAY; YOLANDA MURRAY; JAEGER LUMBER & SUPPLY CO INC; PALISADES \nCOLLECTION LLC; MIDLAND FUNDING LLC, ASSIGNEE CREDIT ONE BANK NA,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR ASSET BACKED SECURITIES \nCORPORATION HOME EQUITY LOAN TRUST 2004-HE9, ASSET BACKED PASS-THROUGH \nCERTIFICATES, SERIES 2004-HE9,",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR ASSET BACKED SECURITIES CORPORATION HOME EQUITY LOAN TRUST 2004-HE9, ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2004-HE9,",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "FR-23003338",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-02-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-03-20",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-04-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-10-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 174947.38,
+  "upset_amount_label": "Approx. Upset*"
+}

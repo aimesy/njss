@@ -1,0 +1,65 @@
+{
+  "address": "285-287 Mount Prospect Avenue Clifton NJ 07012",
+  "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES& NEWBY, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000327 24 CTL 162982",
+  "current_status": "Cancelled",
+  "defendant": "ALL INSTALLERS INC. AND WASEEM KHALIFAH",
+  "description": "Dimensions (approx.): 1980 sq. ft.\nNearest Cross Street: Hemlock Street",
+  "extracted": {},
+  "fields": {
+    "Address": "285-287 Mount Prospect Avenue\nClifton NJ 07012",
+    "Approx. Upset*": "$340,659.22",
+    "Attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES& NEWBY, LLP",
+    "Court Case #": "F 000327 24 CTL 162982",
+    "Defendant": "ALL INSTALLERS INC. AND WASEEM KHALIFAH",
+    "Description": "Dimensions (approx.): 1980 sq. ft.\nNearest Cross Street: Hemlock Street",
+    "Parcel #": "Lot 105 in Block 48.01",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 41744",
+    "Property Note": "",
+    "Sales Date": "10/29/2025",
+    "Sheriff #": "F-25001025"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "285-287 Mount Prospect Avenue Clifton NJ 07012",
+    "defendant": "ALL INSTALLERS INC. AND WASEEM KHALIFAH",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 41744",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 105 in Block 48.01",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 41744",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25001025",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-30",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 340659.22,
+  "upset_amount_label": "Approx. Upset*"
+}

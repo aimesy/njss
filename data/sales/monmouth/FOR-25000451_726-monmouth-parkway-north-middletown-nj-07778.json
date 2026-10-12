@@ -1,0 +1,71 @@
+{
+  "address": "726 Monmouth Parkway North Middletown NJ 07778",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00711623",
+  "current_status": "Scheduled",
+  "defendant": "Christopher J. Roszkowski et al.",
+  "description": "Approximate Dimensions: 25ft x 100 ft\nNearest Cross Street: Neptune Place\nPlaintiff's good faith estimate of its upset price is: $328,638.50\nThe occupancy status of the property is: OCCUPIED BY UNKNOWN\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney. **",
+  "extracted": {
+    "upset_amount": 328638.5
+  },
+  "fields": {
+    "Address": "726 Monmouth Parkway\nNorth Middletown NJ 07778",
+    "Approx. Judgment*": "$358,827.85",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F00711623",
+    "Defendant": "Christopher J. Roszkowski et al.",
+    "Description": "Approximate Dimensions: 25ft x 100 ft\nNearest Cross Street: Neptune Place\nPlaintiff's good faith estimate of its upset price is: $328,638.50\nThe occupancy status of the property is: OCCUPIED BY UNKNOWN\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney. **",
+    "Parcel #": "Tax Lot: 9 Block: 64 Located on the official tax map of the Township of Middletown",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Property Note": "",
+    "Sales Date": "9/8/2025",
+    "Sheriff #": "FOR-25000451"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 358827.85,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "726 Monmouth Parkway North Middletown NJ 07778",
+    "defendant": "Christopher J. Roszkowski et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Freedom Mortgage Corporation",
+    "sale_date": "2025-09-08"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 9 Block: 64 Located on the official tax map of the Township of Middletown",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "property_note": null,
+  "sale_date": "2025-09-08",
+  "sheriff_number": "FOR-25000451",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-08",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Scheduled"
+    }
+  ]
+}

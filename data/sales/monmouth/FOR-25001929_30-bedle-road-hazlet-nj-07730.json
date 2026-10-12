@@ -1,0 +1,67 @@
+{
+  "address": "30 Bedle Road Hazlet NJ 07730",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00014425",
+  "current_status": "Scheduled",
+  "defendant": "John W. Salerno, et al",
+  "description": "Dimensions: 100FT. X 471 IRR .64 ACRE\nNearest Cross Street: Peach Drive\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: OCCUPIED BY OWNER.\nPlaintiff's good faith estimate of its upset price is: $411,755.79",
+  "extracted": {
+    "upset_amount": 411755.79
+  },
+  "fields": {
+    "Address": "30 Bedle Road\nHazlet NJ 07730",
+    "Approx. Judgment*": "$390,672.58",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F00014425",
+    "Defendant": "John W. Salerno, et al",
+    "Description": "Dimensions: 100FT. X 471 IRR .64 ACRE\nNearest Cross Street: Peach Drive\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: OCCUPIED BY OWNER.\nPlaintiff's good faith estimate of its upset price is: $411,755.79",
+    "Parcel #": "Lot 8.11, Block 211 Tax Map of the Township of Hazlet",
+    "Plaintiff": "Deutsche Bank National Trust Company, As Trustee For Soundview Home Loan Trust 2006-OPT3, Asset-Backed Certificates, Series 2006-OPT3",
+    "Property Note": "",
+    "Sales Date": "3/2/2026",
+    "Sheriff #": "FOR-25001929"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 390672.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "30 Bedle Road Hazlet NJ 07730",
+    "defendant": "John W. Salerno, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Deutsche Bank National Trust Company, As Trustee For Soundview Home Loan Trust 2006-OPT3, Asset-Backed Certificates, Series 2006-OPT3",
+    "sale_date": "2026-03-02"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 8.11, Block 211 Tax Map of the Township of Hazlet",
+  "plaintiff": "Deutsche Bank National Trust Company, As Trustee For Soundview Home Loan Trust 2006-OPT3, Asset-Backed Certificates, Series 2006-OPT3",
+  "property_note": null,
+  "sale_date": "2026-03-02",
+  "sheriff_number": "FOR-25001929",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-02",
+      "status": "Canceled"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Scheduled"
+    }
+  ]
+}

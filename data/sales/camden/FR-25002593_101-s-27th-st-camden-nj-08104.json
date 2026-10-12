@@ -1,0 +1,65 @@
+{
+  "address": "101 S 27TH ST CAMDEN NJ 08104",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00406424",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "LESA M. DAVIS A/K/A LESA RICHARDSON A/K/A LESA M. DAVIS, INDIVIDUALLY AND AS ADMINISTRATRIX OF THE ESTATE OF RUTH Y. DAVIS A/K/A RUTH DAVIS A/K/A RUTH E. YERBY DAVIS; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; DAIMLER CHRYSLER FINANCIAL SERVICES AMERICAS LLC; MANCINI AUTO SALES T/A TURNERS; KALI ROAD 105, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "101 S 27TH ST\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$37,556.55",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00406424",
+    "Defendant": "LESA M. DAVIS A/K/A LESA RICHARDSON A/K/A LESA\nM. DAVIS, INDIVIDUALLY AND AS ADMINISTRATRIX OF\nTHE ESTATE OF RUTH Y. DAVIS A/K/A RUTH DAVIS A/K/A\nRUTH E. YERBY DAVIS; STATE OF NEW JERSEY; UNITED\nSTATES OF AMERICA; DAIMLER CHRYSLER FINANCIAL SERVICES\nAMERICAS LLC; MANCINI AUTO SALES T/A TURNERS; KALI ROAD 105, LLC",
+    "Parcel #": "",
+    "Plaintiff": "NATIONAL MORTGAGE LLC,",
+    "Property Note": "",
+    "Sales Date": "5/28/2026",
+    "Sheriff #": "FR-25002593"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "101 S 27TH ST CAMDEN NJ 08104",
+    "defendant": "LESA M. DAVIS A/K/A LESA RICHARDSON A/K/A LESA \nM. DAVIS, INDIVIDUALLY AND AS ADMINISTRATRIX OF \nTHE ESTATE OF RUTH Y. DAVIS A/K/A RUTH DAVIS A/K/A \nRUTH E. YERBY DAVIS; STATE OF NEW JERSEY; UNITED \nSTATES OF AMERICA; DAIMLER CHRYSLER FINANCIAL SERVICES \nAMERICAS LLC; MANCINI AUTO SALES T/A TURNERS; KALI ROAD 105, LLC",
+    "listing_status": null,
+    "plaintiff": "NATIONAL MORTGAGE LLC,",
+    "sale_date": "2026-05-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NATIONAL MORTGAGE LLC,",
+  "property_note": null,
+  "sale_date": "2026-05-28",
+  "sheriff_number": "FR-25002593",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-28",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 37556.55,
+  "upset_amount_label": "Approx. Upset*"
+}

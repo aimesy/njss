@@ -1,0 +1,64 @@
+{
+  "address": "309 Deal Avenue Neptune NJ 07753",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00204123",
+  "current_status": "Scheduled",
+  "defendant": "Debra A. Brown, Individually and as Executrix of the Estate of James K. Brown, et al",
+  "description": "Occupancy Status: Tenant Occupied\nNearest Cross Street: Approximately 117ft to the nearest cross street known as Knox Boulevard\nApproximate Dimensions: 148.43ft x 100ft x 159.52ft x 100.62ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 3629, at page 591\nAPPROXIMATE UPSET PRICE IS $500,466.38 THE SHERIFF'S SALE\nPursuant to a municipal tax search dated March 24, 2025.\nSubject to: 2025 2nd quarter taxes due 5/1/2025, $2,561.27 OPEN\n2025 3rd quarter taxes due 8/1/2025, TO BE DETERMINED\nSewer: Acct. 44216 0, 1/1/2025-6/30/2025, $230.00 OPEN PLUS PENALTY",
+  "extracted": {
+    "occupancy": "Tenant Occupied",
+    "upset_amount": 500466.38
+  },
+  "fields": {
+    "Address": "309 Deal Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$450,521.87",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00204123",
+    "Defendant": "Debra A. Brown, Individually and as Executrix of the Estate of James K. Brown, et al",
+    "Description": "Occupancy Status: Tenant Occupied\nNearest Cross Street: Approximately 117ft to the nearest cross street known as Knox Boulevard\nApproximate Dimensions: 148.43ft x 100ft x 159.52ft x 100.62ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 3629, at page 591\nAPPROXIMATE UPSET PRICE IS $500,466.38 THE SHERIFF'S SALE\nPursuant to a municipal tax search dated March 24, 2025.\nSubject to: 2025 2nd quarter taxes due 5/1/2025, $2,561.27 OPEN\n2025 3rd quarter taxes due 8/1/2025, TO BE DETERMINED\nSewer: Acct. 44216 0, 1/1/2025-6/30/2025, $230.00 OPEN PLUS PENALTY",
+    "Parcel #": "Lot: 2 f/k/a 7; Block: 1803 f/k/a 303.22 Tax Map of Neptune Township",
+    "Plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as Owner Trustee for VRMTG Asset Trust,",
+    "Property Note": "",
+    "Sales Date": "8/4/2025",
+    "Sheriff #": "FOR-25000770"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 450521.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "309 Deal Avenue Neptune NJ 07753",
+    "defendant": "Debra A. Brown, Individually and as Executrix of the Estate of James K. Brown, et al",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as Owner Trustee for VRMTG Asset Trust,",
+    "sale_date": "2025-08-04"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 2 f/k/a 7; Block: 1803 f/k/a 303.22 Tax Map of Neptune Township",
+  "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as Owner Trustee for VRMTG Asset Trust,",
+  "property_note": null,
+  "sale_date": "2025-08-04",
+  "sheriff_number": "FOR-25000770",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-08-04",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Scheduled"
+    }
+  ]
+}

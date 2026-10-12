@@ -1,0 +1,64 @@
+{
+  "address": "126 3RD STREET MIDDLESEX NJ 08846",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00708224",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "KRISTEN JIMENEZ, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$99,168.04",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00708224",
+    "Defendant": "KRISTEN JIMENEZ, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 15 BLOCK 236",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Address": "126 3RD STREET\nMIDDLESEX NJ 08846",
+    "Property Note": "",
+    "Sale Date": "1/7/2026",
+    "Sheriff #": "F-25002219"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 99168.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "126 3RD STREET MIDDLESEX NJ 08846",
+    "defendant": "KRISTEN JIMENEZ, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 15 BLOCK 236",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25002219",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

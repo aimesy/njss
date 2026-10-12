@@ -1,0 +1,53 @@
+{
+  "address": "2271 BELLEVUE AVENUE TWP OF WATERFORD NJ 08001",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00316023",
+  "current_status": "Scheduled",
+  "defendant": "ENRICO PISTONE; SANDRA PISTONE ; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "2271 BELLEVUE AVENUE\nTWP OF WATERFORD NJ 08001",
+    "Approx. Upset*": "$310,520.10",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00316023",
+    "Defendant": "ENRICO PISTONE; SANDRA PISTONE ; UNITED STATES OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "Property Note": "",
+    "Sales Date": "4/22/2026",
+    "Sheriff #": "FR-26000311"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2271 BELLEVUE AVENUE TWP OF WATERFORD NJ 08001",
+    "defendant": "ENRICO PISTONE; SANDRA PISTONE ; UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "sale_date": "2026-04-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+  "property_note": null,
+  "sale_date": "2026-04-22",
+  "sheriff_number": "FR-26000311",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-22",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 310520.1,
+  "upset_amount_label": "Approx. Upset*"
+}

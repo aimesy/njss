@@ -1,0 +1,52 @@
+{
+  "address": "78 TOWNSEND Road Wanaque NJ 07465",
+  "attorney": "Hill Wallack, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 010514 25 CTL#163277",
+  "current_status": "Scheduled",
+  "defendant": "JAMEL C. THOMAS, ET AL",
+  "description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 603.85 to the nearest cross street known as Red Mine Road\nApproximate Dimensions: 545.47ft x 145.39ft x 604.01ft x 150.00ft\nA full legal description can be found in the Office of the Clerk of Passaic County in Deed Book 4261, at Page 7\nApproximate upset price is $473,052.31 for the Sheriff's sale.\nPursuant to a muncipal tax search dated September 11, 2026\nSubject to 2026 4th quarter taxes due 11/01/2026 $3,183.54 OPEN\n2027 1st quarter taxes due 02/01/2027 $3,073.28 OPEN",
+  "extracted": {
+    "occupancy": "Borrower Occupied",
+    "upset_amount": 473052.31
+  },
+  "fields": {
+    "Address": "78 TOWNSEND Road\nWanaque NJ 07465",
+    "Approx. Upset*": "$439,522.06",
+    "Attorney": "Hill Wallack, LLP",
+    "Court Case #": "F 010514 25 CTL#163277",
+    "Defendant": "JAMEL C. THOMAS, ET AL",
+    "Description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 603.85 to the nearest cross street known as Red Mine Road\nApproximate Dimensions: 545.47ft x 145.39ft x 604.01ft x 150.00ft\nA full legal description can be found in the Office of the Clerk of Passaic County in Deed Book 4261, at Page 7\nApproximate upset price is $473,052.31 for the Sheriff's sale.\nPursuant to a muncipal tax search dated September 11, 2026\nSubject to 2026 4th quarter taxes due 11/01/2026 $3,183.54 OPEN\n2027 1st quarter taxes due 02/01/2027 $3,073.28 OPEN",
+    "Parcel #": "TAX LOT 17 BLOCK 102",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "1/26/2027",
+    "Sheriff #": "F-26001667"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "78 TOWNSEND Road Wanaque NJ 07465",
+    "defendant": "JAMEL C. THOMAS, ET AL",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "sale_date": "2027-01-26"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 17 BLOCK 102",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2027-01-26",
+  "sheriff_number": "F-26001667",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-01-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 439522.06,
+  "upset_amount_label": "Approx. Upset*"
+}

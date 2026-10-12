@@ -1,0 +1,49 @@
+{
+  "address": "513 SALSBURY ROAD CHERRY HILL NJ 08034",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00750823",
+  "current_status": "Scheduled",
+  "defendant": "MELVA PRATT, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "513 SALSBURY ROAD\nCHERRY HILL NJ 08034",
+    "Approx. Upset*": "$184,393.08",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00750823",
+    "Defendant": "MELVA PRATT, ET AL.",
+    "Parcel #": "TAX LOT 13 BLOCK 338.12",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION,\nAS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC\nSEASONED LOANS STRUCTURED TRANSACTION TRUST,\nSERIES 2021-1",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002087"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "513 SALSBURY ROAD CHERRY HILL NJ 08034",
+    "defendant": "MELVA PRATT, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, \nAS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC \nSEASONED LOANS STRUCTURED TRANSACTION TRUST, \nSERIES 2021-1",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 13 BLOCK 338.12",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2021-1",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002087",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 184393.08,
+  "upset_amount_label": "Approx. Upset*"
+}

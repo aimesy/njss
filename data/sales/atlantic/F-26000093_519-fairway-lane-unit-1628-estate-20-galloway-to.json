@@ -1,0 +1,58 @@
+{
+  "address": "519 Fairway Lane Unit 1628, Estate#20 Galloway Township NJ 08205",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-11147-24",
+  "current_status": "Scheduled",
+  "deed": "Marriott Ownership Resort, Inc.",
+  "deed_address": "1200 U.S. Highway 98 S Lake Land, FL 33801",
+  "defendant": "Angela Elvia Ospina,Catalina Valencia,Natalia Maria Valencia",
+  "extracted": {},
+  "fields": {
+    "Address": "519 Fairway Lane\nUnit 1628, Estate#20\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$4,365.28",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F-11147-24",
+    "Deed": "Marriott Ownership Resort, Inc.",
+    "Deed Address": "1200 U.S. Highway 98 S Lake Land, FL 33801",
+    "Defendant": "Angela Elvia Ospina,Catalina Valencia,Natalia Maria Valencia",
+    "Plaintiff": "Fairway Villas at Seaview Condominium Association, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS UNKNOWN",
+    "Sales Date": "3/19/2026",
+    "Sheriff #": "F-26000093",
+    "Upset Amount": "$11,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 4365.28,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "519 Fairway Lane Unit 1628, Estate#20 Galloway Township NJ 08205",
+    "defendant": "Angela Elvia Ospina,...",
+    "listing_status": null,
+    "plaintiff": "Fairway Villas at Se...",
+    "sale_date": "2026-03-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Fairway Villas at Seaview Condominium Association, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS UNKNOWN",
+  "sale_date": "2026-03-19",
+  "sheriff_number": "F-26000093",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-03-19",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 11000.0,
+  "upset_amount_label": "Upset Amount"
+}

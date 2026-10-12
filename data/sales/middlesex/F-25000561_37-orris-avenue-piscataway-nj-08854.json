@@ -1,0 +1,56 @@
+{
+  "address": "37 ORRIS AVENUE PISCATAWAY NJ 08854",
+  "attorney": "KNUCKLES & MANFRO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "201-391-0370",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01308222",
+  "current_status": "Bankruptcy",
+  "defendant": "JOSE P. CASTRO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$505,552.53",
+    "Attorney": "KNUCKLES & MANFRO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "201-391-0370",
+    "Court Case #": "F01308222",
+    "Defendant": "JOSE P. CASTRO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 8.01 BLOCK 9901 FKA BLOCK 742.1",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, AS OWNER TRUSTEE ON BEHALF OF CSMC 2018-RPL6 TRUST",
+    "Property Address": "37 ORRIS AVENUE\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "5/14/2025",
+    "Sheriff #": "F-25000561"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 505552.53,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "37 ORRIS AVENUE PISCATAWAY NJ 08854",
+    "defendant": "JOSE P. CASTRO, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, AS OWNER TRUSTEE ON BEHALF OF CSMC 2018-RPL6 TRUST",
+    "sale_date": "2025-05-14"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 8.01 BLOCK 9901 FKA BLOCK 742.1",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, AS OWNER TRUSTEE ON BEHALF OF CSMC 2018-RPL6 TRUST",
+  "property_note": null,
+  "sale_date": "2025-05-14",
+  "sheriff_number": "F-25000561",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-05-14",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

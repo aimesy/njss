@@ -1,0 +1,94 @@
+{
+  "address": "109 Dunlin Lane Unit 36 Egg Harbor Township NJ 08234",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003995-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Mauricia Ragland; State of New Jersey; Philadelphia Federal Credit Union and Bayport Condominium Association",
+  "extracted": {},
+  "fields": {
+    "Address": "109 Dunlin Lane\nUnit 36\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$164,670.12",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-003995-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Mauricia Ragland; State of New Jersey; Philadelphia Federal Credit Union and Bayport Condominium Association",
+    "Plaintiff": "Arc Home LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "F-25001101",
+    "Upset Amount": "$162,829.14"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 164670.12,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "109 Dunlin Lane Unit 36 Egg Harbor Township NJ 08234",
+    "defendant": "Mauricia Ragland; St...",
+    "listing_status": null,
+    "plaintiff": "Arc Home LLC...",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Arc Home LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2026-10-22",
+  "sheriff_number": "F-25001101",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-10-22",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-07-23",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 162829.14,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,69 @@
+{
+  "address": "716 HIRSCH AVE RUNNEMEDE NJ 08078",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "attorney_phone": "(973) 325-8800",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00626324",
+  "current_status": "Defendant Adjournment",
+  "defendant": "STEPHEN FINLEY; MRS. FINLEY, WIFE OF STEPHEN FINLEY; LEE ANN FINLEY; COMFORT SLEEP SERVICES, INC.; COMFORT SLEEP INC; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+  "extracted": {},
+  "fields": {
+    "Address": "716 HIRSCH AVE\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$168,652.13",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00626324",
+    "Defendant": "STEPHEN FINLEY; MRS. FINLEY, WIFE OF STEPHEN FINLEY;\nLEE ANN FINLEY; COMFORT SLEEP SERVICES, INC.;\nCOMFORT SLEEP INC; UNITED STATES OF AMERICA\nON BEHALF OF THE SECRETARY OF HOUSING AND URBAN\nDEVELOPMENT",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "9/1/2026",
+    "Sheriff #": "FR-26000284"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "716 HIRSCH AVE RUNNEMEDE NJ 08078",
+    "defendant": "STEPHEN FINLEY; MRS. FINLEY, WIFE OF STEPHEN FINLEY; \nLEE ANN FINLEY; COMFORT SLEEP SERVICES, INC.; \nCOMFORT SLEEP INC; UNITED STATES OF AMERICA \nON BEHALF OF THE SECRETARY OF HOUSING AND URBAN \nDEVELOPMENT",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-09-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-09-01",
+  "sheriff_number": "FR-26000284",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 168652.13,
+  "upset_amount_label": "Approx. Upset*"
+}

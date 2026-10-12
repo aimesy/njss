@@ -1,0 +1,64 @@
+{
+  "address": "2442 TERRILL ROAD UNION NJ 07083",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01096523",
+  "current_status": "Bankuptcy",
+  "defendant": "MARIAN FIORDELIZ R. HABANA, TERESA A. REMOLLO",
+  "description": "LOT 7 BLOCK 3901",
+  "extracted": {
+    "block": "3901",
+    "lot": "7"
+  },
+  "fields": {
+    "Address": "2442 TERRILL ROAD\nUNION NJ 07083",
+    "Approx. Upset*": "$324,884.82",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Court Case #": "F01096523",
+    "Defendant": "MARIAN FIORDELIZ R. HABANA, TERESA A. REMOLLO",
+    "Description": "LOT 7 BLOCK 3901",
+    "Parcel #": "LOT 7 BLOCK 3901",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRPL TRUST 2019-1",
+    "Property Note": "",
+    "Sales Date": "11/5/2025",
+    "Sheriff #": "CH-25001372"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2442 TERRILL ROAD UNION NJ 07083",
+    "defendant": "MARIAN FIORDELIZ R. HABANA, TERESA A. REMOLLO",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRPL TRUST 2019-1",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 7 BLOCK 3901",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRPL TRUST 2019-1",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "CH-25001372",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-07-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-24",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 324884.82,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "715 ROSEWOOD AVENUE ROSELLE NJ 07203",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00382425",
+  "current_status": "Bankuptcy",
+  "defendant": "LILLIAN M FAULK; U.S BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRZ RECOVERY TRUST",
+  "description": "LOT 6 FKA 151, 152 BLOCK 604 FKA 63.F",
+  "extracted": {
+    "block": "604",
+    "lot": "6"
+  },
+  "fields": {
+    "Address": "715 ROSEWOOD AVENUE\nROSELLE NJ 07203",
+    "Approx. Upset*": "$164,956.44",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Court Case #": "F00382425",
+    "Defendant": "LILLIAN M FAULK; U.S BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRZ RECOVERY TRUST",
+    "Description": "LOT 6 FKA 151, 152 BLOCK 604 FKA 63.F",
+    "Parcel #": "LOT 6 FKA 151, 152 BLOCK 604 FKA 63.F",
+    "Plaintiff": "STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST MORGAGE PASS-THROUGH CERTIFICATES SERIES 2006-BC2, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "4/8/2026",
+    "Sheriff #": "CH-26000071"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "715 ROSEWOOD AVENUE ROSELLE NJ 07203",
+    "defendant": "LILLIAN M FAULK; U.S BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRZ RECOVERY TRUST",
+    "listing_status": null,
+    "plaintiff": "STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST MORGAGE PASS-THROUGH CERTIFICATES SERIES 2006-BC2, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "sale_date": "2026-04-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 6 FKA 151, 152 BLOCK 604 FKA 63.F",
+  "plaintiff": "STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST MORGAGE PASS-THROUGH CERTIFICATES SERIES 2006-BC2, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-04-08",
+  "sheriff_number": "CH-26000071",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-02-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 164956.44,
+  "upset_amount_label": "Approx. Upset*"
+}

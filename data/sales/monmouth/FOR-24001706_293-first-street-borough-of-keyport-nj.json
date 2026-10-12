@@ -1,0 +1,55 @@
+{
+  "address": "293 First Street Borough of Keyport NJ",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00620916",
+  "current_status": "Scheduled",
+  "defendant": "John Galanis, Individually and as Executor of the Estate of Georgine Soriano, deceased, et al.",
+  "description": "Dimensions of Lot: 40 x 90 AVG\nNearest Cross Street: Spring Street\nThe Plaintiffs Good Faith Estimate is $455,519.13. This upset amount may be subject to further orders of additional sums.\nThe current occupancy status of Owner Occupied",
+  "extracted": {
+    "lot": "40"
+  },
+  "fields": {
+    "Address": "293 First Street\nBorough of Keyport NJ",
+    "Approx. Judgment*": "$444,007.63",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "F00620916",
+    "Defendant": "John Galanis, Individually and as Executor of the Estate of Georgine Soriano, deceased, et al.",
+    "Description": "Dimensions of Lot: 40 x 90 AVG\nNearest Cross Street: Spring Street\nThe Plaintiffs Good Faith Estimate is $455,519.13. This upset amount may be subject to further orders of additional sums.\nThe current occupancy status of Owner Occupied",
+    "Parcel #": "Lot(s) 2, Block 138 located on the tax map of the Borough of Keyport",
+    "Plaintiff": "Bank of New York Mellon Trust Company, N.A. as Trustee for Mortgage Assets Management Series I Trust",
+    "Property Note": "",
+    "Sales Date": "11/18/2024",
+    "Sheriff #": "FOR-24001706"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 444007.63,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "293 First Street Borough of Keyport NJ",
+    "defendant": "John Galanis, Individually and as Executor of the Estate of Georgine Soriano, deceased, et al.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Bank of New York Mellon Trust Company, N.A. as Trustee for Mortgage Assets Management Series I Trust",
+    "sale_date": "2024-11-18"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot(s) 2, Block 138 located on the tax map of the Borough of Keyport",
+  "plaintiff": "Bank of New York Mellon Trust Company, N.A. as Trustee for Mortgage Assets Management Series I Trust",
+  "property_note": null,
+  "sale_date": "2024-11-18",
+  "sheriff_number": "FOR-24001706",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-18",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "address": "197-199 16TH Avenue Paterson NJ 07501",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 009299 25 CTL # 163150",
+  "current_status": "Cancelled",
+  "defendant": "ANDRES TORRES, ET AL",
+  "description": "Dimensions (approx) 50 x 93\nNearest Cross Street : Rosa Parks Boulevard\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98)\nTax Certificate: Recorded: September 11,2020\nHolder: Fig Cust FigNJ19LLC & Sec Party\nAmount: $621.71\nBook: M16403 Page: 60\nInstrument Number:21-00510\nTax Certificate: Recorded: February 22,2021\nHolder: US Bank Cust for Pro Cap 8\nAmount: $246.57\nBook:M16862 Page: 60\nInstrument Number: 21-03915\nTax Certificate: Recorded: March 29,2022\nHolder: Fig Cust FigNJ19LLC & Sec party\nAmount: $293.45\nBook: M17902 Page:204\nInstrument Number: 22-0466\nGood Faith Estimate Upset Price: $275,659.17\nOccupancy Status: Occupied",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 275659.17
+  },
+  "fields": {
+    "Address": "197-199 16TH Avenue\nPaterson NJ 07501",
+    "Approx. Upset*": "$253,173.95",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 009299 25 CTL # 163150",
+    "Defendant": "ANDRES TORRES, ET AL",
+    "Description": "Dimensions (approx) 50 x 93\nNearest Cross Street : Rosa Parks Boulevard\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98)\nTax Certificate: Recorded: September 11,2020\nHolder: Fig Cust FigNJ19LLC & Sec Party\nAmount: $621.71\nBook: M16403 Page: 60\nInstrument Number:21-00510\nTax Certificate: Recorded: February 22,2021\nHolder: US Bank Cust for Pro Cap 8\nAmount: $246.57\nBook:M16862 Page: 60\nInstrument Number: 21-03915\nTax Certificate: Recorded: March 29,2022\nHolder: Fig Cust FigNJ19LLC & Sec party\nAmount: $293.45\nBook: M17902 Page:204\nInstrument Number: 22-0466\nGood Faith Estimate Upset Price: $275,659.17\nOccupancy Status: Occupied",
+    "Parcel #": "Tax Lot 45 f/k/a 6 Block 4210 f/k/a F0733",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-CABANA SERIES IV TRUST",
+    "Property Note": "",
+    "Sales Date": "4/8/2026",
+    "Sheriff #": "F-26000320"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "197-199 16TH Avenue Paterson NJ 07501",
+    "defendant": "ANDRES TORRES, ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-CABANA SERIES IV TRUST",
+    "sale_date": "2026-04-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 45 f/k/a 6 Block 4210 f/k/a F0733",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-CABANA SERIES IV TRUST",
+  "property_note": null,
+  "sale_date": "2026-04-08",
+  "sheriff_number": "F-26000320",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-04-08",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 253173.95,
+  "upset_amount_label": "Approx. Upset*"
+}

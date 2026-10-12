@@ -1,0 +1,61 @@
+{
+  "address": "39 S PAYNE AVE RUNNEMEDE NJ 08078",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00990724",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JEROME L. CLARK, II A/K/A JEROME CLARK A/K/A JEROME L. CLARK; ANNAMARIE GROVE A/K/A ANNA CLARK; TESLA INC.; NEWARK CITY MUNICIPAL; LLOYD J. CALDER, DDS,",
+  "extracted": {},
+  "fields": {
+    "Address": "39 S PAYNE AVE\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$157,129.67",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00990724",
+    "Defendant": "JEROME L. CLARK, II A/K/A JEROME CLARK A/K/A JEROME L.\nCLARK; ANNAMARIE GROVE A/K/A ANNA CLARK; TESLA INC.;\nNEWARK CITY MUNICIPAL; LLOYD J. CALDER, DDS,",
+    "Parcel #": "",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "FR-25001476"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "39 S PAYNE AVE RUNNEMEDE NJ 08078",
+    "defendant": "JEROME L. CLARK, II A/K/A JEROME CLARK A/K/A JEROME L. \nCLARK; ANNAMARIE GROVE A/K/A ANNA CLARK; TESLA INC.; \nNEWARK CITY MUNICIPAL; LLOYD J. CALDER, DDS,",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "FR-25001476",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 157129.67,
+  "upset_amount_label": "Approx. Upset*"
+}

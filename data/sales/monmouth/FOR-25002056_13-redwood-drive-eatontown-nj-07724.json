@@ -1,0 +1,63 @@
+{
+  "address": "13 Redwood Drive Eatontown NJ 07724",
+  "attorney": "McGovern Legal Services, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F621525",
+  "current_status": "Scheduled",
+  "defendant": "Kathleen R. McLaughlin",
+  "description": "Upon information and belief, the premises is owned-occupied\nFinal upset price is $15,690.08",
+  "extracted": {
+    "upset_amount": 15690.08
+  },
+  "fields": {
+    "Address": "13 Redwood Drive\nEatontown NJ 07724",
+    "Approx. Judgment*": "$13,690.08",
+    "Attorney": "McGovern Legal Services, LLC",
+    "Court Case #": "F621525",
+    "Defendant": "Kathleen R. McLaughlin",
+    "Description": "Upon information and belief, the premises is owned-occupied\nFinal upset price is $15,690.08",
+    "Parcel #": "Tax Lot 62, Block 101 as shown on the Tax Map Borough of Eatontown",
+    "Plaintiff": "Tinton Woods Homeowners Association, Inc",
+    "Property Note": "",
+    "Sales Date": "3/12/2026",
+    "Sheriff #": "FOR-25002056"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 13690.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "13 Redwood Drive Eatontown NJ 07724",
+    "defendant": "Kathleen R. McLaughlin",
+    "listing_status": "Redeemed",
+    "plaintiff": "Tinton Woods Homeowners Association, Inc",
+    "sale_date": "2026-03-12"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 62, Block 101 as shown on the Tax Map Borough of Eatontown",
+  "plaintiff": "Tinton Woods Homeowners Association, Inc",
+  "property_note": null,
+  "sale_date": "2026-03-12",
+  "sheriff_number": "FOR-25002056",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-12",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "address": "27 FAIRMOUNT AVENUE SICKLERVILLE NJ 08081",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F02097717",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ANA E. WILLIAMS; LEROY WILLIAMS, JR.; JERSEY CENTRAL FEDERAL CREDIT UNION C/O PETER J. LISKA; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "27 FAIRMOUNT AVENUE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$198,348.69",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F02097717",
+    "Defendant": "ANA E. WILLIAMS; LEROY WILLIAMS, JR.; JERSEY CENTRAL\nFEDERAL CREDIT UNION C/O PETER J. LISKA; STATE OF\nNEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR\nRCF 2 ACQUISITION TRUST,",
+    "Property Note": "",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "FR-26000184"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "27 FAIRMOUNT AVENUE SICKLERVILLE NJ 08081",
+    "defendant": "ANA E. WILLIAMS; LEROY WILLIAMS, JR.; JERSEY CENTRAL \nFEDERAL CREDIT UNION C/O PETER J. LISKA; STATE OF \nNEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR \nRCF 2 ACQUISITION TRUST,",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-06-17",
+  "sheriff_number": "FR-26000184",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 198348.69,
+  "upset_amount_label": "Approx. Upset*"
+}

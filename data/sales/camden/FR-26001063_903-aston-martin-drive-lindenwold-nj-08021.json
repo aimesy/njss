@@ -1,0 +1,53 @@
+{
+  "address": "903 ASTON MARTIN DRIVE LINDENWOLD NJ 08021",
+  "attorney": "LEOPOLD & ASSOCIATES, PLLC",
+  "attorney_phone": "914-219-5787",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01017324",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "JGS CONTRACTOR OF NJ LLC, A NEW JERSEY LIMITED LIABILITY COMPANY; JOYCE FISCHER, GUARANTOR,",
+  "extracted": {},
+  "fields": {
+    "Address": "903 ASTON MARTIN DRIVE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$432,113.34",
+    "Attorney": "LEOPOLD & ASSOCIATES, PLLC",
+    "Attorney Phone": "914-219-5787",
+    "Court Case #": "F01017324",
+    "Defendant": "JGS CONTRACTOR OF NJ LLC, A NEW JERSEY LIMITED LIABILITY COMPANY; JOYCE FISCHER, GUARANTOR,",
+    "Parcel #": "TAX LOT 19/BLOCK 238.11",
+    "Plaintiff": "KIAVI FUNDING, INC.,",
+    "Property Note": "1) \" THE SHORT FORM DESCRIPTION PROVIDED HEREIN DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. A FULL LEGAL DESCRIPTION IS AVAILABLE IN THE OFFICE OF THE CAMDEN COUNTY SHERIFF\".\n2) THE ESTIMATED UPSET AMOUNT AT TIME OF SALE IS $440,600.90 WHICH AMOUNT IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION\n3) UPON INFORMATION AND BELIEF, CURRENT OCCUPANCY STATUS OF THIS PROPERTY IS \"UNKNOWN\"",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26001063"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "903 ASTON MARTIN DRIVE LINDENWOLD NJ 08021",
+    "defendant": "JGS CONTRACTOR OF NJ LLC, A NEW JERSEY LIMITED LIABILITY COMPANY; JOYCE FISCHER, GUARANTOR,",
+    "listing_status": null,
+    "plaintiff": "KIAVI FUNDING, INC.,",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 19/BLOCK 238.11",
+  "plaintiff": "KIAVI FUNDING, INC.,",
+  "property_note": "1) \" THE SHORT FORM DESCRIPTION PROVIDED HEREIN DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. A FULL LEGAL DESCRIPTION IS AVAILABLE IN THE OFFICE OF THE CAMDEN COUNTY SHERIFF\".\n2) THE ESTIMATED UPSET AMOUNT AT TIME OF SALE IS $440,600.90 WHICH AMOUNT IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION\n3) UPON INFORMATION AND BELIEF, CURRENT OCCUPANCY STATUS OF THIS PROPERTY IS \"UNKNOWN\"",
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26001063",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 432113.34,
+  "upset_amount_label": "Approx. Upset*"
+}

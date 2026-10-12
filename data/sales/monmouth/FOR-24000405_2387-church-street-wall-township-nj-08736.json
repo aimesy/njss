@@ -1,0 +1,83 @@
+{
+  "address": "2387 Church Street Wall Township NJ 08736",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00896322",
+  "current_status": "Scheduled",
+  "defendant": "David H. Feng, et al",
+  "description": "Approximate Dimensions: 132 X 198 IRR\nNearest Cross Street: Winter View Road\nUpset price: $1,710,306.43 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date\nTHIS SALE IS SUBJECT TO THE EXTENDED RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+  "extracted": {
+    "upset_amount": 1710306.43
+  },
+  "fields": {
+    "Address": "2387 Church Street\nWall Township NJ 08736",
+    "Approx. Judgment*": "$1,466,976.85",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F00896322",
+    "Defendant": "David H. Feng, et al",
+    "Description": "Approximate Dimensions: 132 X 198 IRR\nNearest Cross Street: Winter View Road\nUpset price: $1,710,306.43 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date\nTHIS SALE IS SUBJECT TO THE EXTENDED RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+    "Parcel #": "Tax Lot #1.08 Block #811.11 Tax Map of Township of Wall",
+    "Plaintiff": "HSBC Bank USA, As Trustee For Mortgageit Securities Corp. Mortgage Loan Trust, Series 2007-2, Mortgage Pass-Through Certificates",
+    "Property Note": "",
+    "Sales Date": "7/2/2025",
+    "Sheriff #": "FOR-24000405"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1466976.85,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2387 Church Street Wall Township NJ 08736",
+    "defendant": "David H. Feng, et al",
+    "listing_status": "Reinstated",
+    "plaintiff": "HSBC Bank USA, As Trustee For Mortgageit Securities Corp. Mortgage Loan Trust, Series 2007-2, Mortgage Pass-Through Certificates",
+    "sale_date": "2025-07-02"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot #1.08 Block #811.11 Tax Map of Township of Wall",
+  "plaintiff": "HSBC Bank USA, As Trustee For Mortgageit Securities Corp. Mortgage Loan Trust, Series 2007-2, Mortgage Pass-Through Certificates",
+  "property_note": null,
+  "sale_date": "2025-07-02",
+  "sheriff_number": "FOR-24000405",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-02",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-07-01",
+      "status": "Scheduled"
+    }
+  ]
+}

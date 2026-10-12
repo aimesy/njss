@@ -1,0 +1,65 @@
+{
+  "address": "118 Main Avenue Neptune NJ 07756",
+  "attorney": "Martone & Uhlmann",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01317423",
+  "current_status": "Scheduled",
+  "defendant": "OGMH Properties, LLC et al.",
+  "description": "Dimensions of Lot (Approximately) 60.00 feet wide by 120.50 feet long\nNearest Cross Street: Delaware Avenue\nPlaintiff is unable to ascertain the occupancy status of the property\nThe estimated Good Faith Upset Amount Pursuant to NJSA 2A:50-64 (12)(5)(a) is $997,461.13. (Based upon a projected sale date of September 9, 2025)\nA. Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nB. Subject to PRIOR MORTGAGES and JUDGEMENTS (IF ANY)\nC. SUBJECT TO TAX SALE CERTIFICATE #2023-002 SOLD TO BB INVESTMENTS LLC IN THE AMOUNT OF $32,813.09 PLUS PENALTY, ADDITIONAL ADVANCES AND INTEREST FROM 09/07/2023\nTo ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {},
+  "fields": {
+    "Address": "118 Main Avenue\nNeptune NJ 07756",
+    "Approx. Judgment*": "$928,457.42",
+    "Attorney": "Martone & Uhlmann",
+    "Court Case #": "F01317423",
+    "Defendant": "OGMH Properties, LLC et al.",
+    "Description": "Dimensions of Lot (Approximately) 60.00 feet wide by 120.50 feet long\nNearest Cross Street: Delaware Avenue\nPlaintiff is unable to ascertain the occupancy status of the property\nThe estimated Good Faith Upset Amount Pursuant to NJSA 2A:50-64 (12)(5)(a) is $997,461.13. (Based upon a projected sale date of September 9, 2025)\nA. Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nB. Subject to PRIOR MORTGAGES and JUDGEMENTS (IF ANY)\nC. SUBJECT TO TAX SALE CERTIFICATE #2023-002 SOLD TO BB INVESTMENTS LLC IN THE AMOUNT OF $32,813.09 PLUS PENALTY, ADDITIONAL ADVANCES AND INTEREST FROM 09/07/2023\nTo ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Tax Lot No. 5, in Block No. 204 on the tax map of The Township of Neptune",
+    "Plaintiff": "First Platinum Bayonne, LLC",
+    "Property Note": "",
+    "Sales Date": "12/31/2024",
+    "Sheriff #": "FOR-24000865"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 928457.42,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "118 Main Avenue Neptune NJ 07756",
+    "defendant": "OGMH Properties, LLC et al.",
+    "listing_status": "Settled",
+    "plaintiff": "First Platinum Bayonne, LLC",
+    "sale_date": "2024-12-31"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 5, in Block No. 204 on the tax map of The Township of Neptune",
+  "plaintiff": "First Platinum Bayonne, LLC",
+  "property_note": null,
+  "sale_date": "2024-12-31",
+  "sheriff_number": "FOR-24000865",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-31",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-09",
+      "status": "Scheduled"
+    }
+  ]
+}

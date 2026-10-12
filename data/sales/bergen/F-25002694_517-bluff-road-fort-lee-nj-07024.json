@@ -1,0 +1,61 @@
+{
+  "address": "517 BLUFF ROAD FORT LEE NJ 07024",
+  "attorney": "POWERS KIRN LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00112325",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "ISHAK AWAD",
+  "description": "PLAINTIFF'S UPSET BID IS $426,649.07 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE OCCUPANCY OF THE PROPERTY IS UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "517 BLUFF ROAD\nFORT LEE NJ 07024",
+    "Approx. Upset*": "$384,153.00",
+    "Attorney": "POWERS KIRN LLC",
+    "Court Case #": "F00112325",
+    "Defendant": "ISHAK AWAD",
+    "Description": "PLAINTIFF'S UPSET BID IS $426,649.07 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE OCCUPANCY OF THE PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 22, BLOCK 162 FKA 112",
+    "Plaintiff": "BANK OF AMERICA, NA",
+    "Property Note": "",
+    "Sales Date": "4/10/2026",
+    "Sheriff #": "F-25002694"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "517 BLUFF ROAD FORT LEE NJ 07024",
+    "defendant": "ISHAK AWAD",
+    "listing_status": null,
+    "plaintiff": "BANK OF AMERICA, NA",
+    "sale_date": "2026-04-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 22, BLOCK 162 FKA 112",
+  "plaintiff": "BANK OF AMERICA, NA",
+  "property_note": null,
+  "sale_date": "2026-04-10",
+  "sheriff_number": "F-25002694",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-23",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-04-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-10",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 384153.0,
+  "upset_amount_label": "Approx. Upset*"
+}

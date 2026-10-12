@@ -1,0 +1,53 @@
+{
+  "address": "135 JAY AVENUE LYNDHURST NJ 07071",
+  "attorney": "MARTONE & UHLMANN PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00129225",
+  "current_status": "Cancelled",
+  "defendant": "ANNETTE SPANO",
+  "description": "THE ESTIMATED GOOD FAITH UPSET AMOUNT PURSUANT TO NJSA 2A:50-64(12)(5)(A) IS $431,313.14. (BASED UPON A PROJECTED SALE DATE OF NOVEMBER 7, 2025)\nPLAINTIFF IS UNABLE TO ASCERTAIN THE OCCUPANCY STATUS OF THE PROPERTY.",
+  "extracted": {},
+  "fields": {
+    "Address": "135 JAY AVENUE\nLYNDHURST NJ 07071",
+    "Approx. Upset*": "$403,288.38",
+    "Attorney": "MARTONE & UHLMANN PC",
+    "Court Case #": "F00129225",
+    "Defendant": "ANNETTE SPANO",
+    "Description": "THE ESTIMATED GOOD FAITH UPSET AMOUNT PURSUANT TO NJSA 2A:50-64(12)(5)(A) IS $431,313.14. (BASED UPON A PROJECTED SALE DATE OF NOVEMBER 7, 2025)\nPLAINTIFF IS UNABLE TO ASCERTAIN THE OCCUPANCY STATUS OF THE PROPERTY.",
+    "Parcel #": "LOT 13.04, BLOCK 7",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "12/31/2025",
+    "Sheriff #": "F-25002320"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "135 JAY AVENUE LYNDHURST NJ 07071",
+    "defendant": "ANNETTE SPANO",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2025-12-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 13.04, BLOCK 7",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-12-31",
+  "sheriff_number": "F-25002320",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-31",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 403288.38,
+  "upset_amount_label": "Approx. Upset*"
+}

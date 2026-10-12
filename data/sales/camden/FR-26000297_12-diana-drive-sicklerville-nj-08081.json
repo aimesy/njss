@@ -1,0 +1,53 @@
+{
+  "address": "12 DIANA DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "MCCABE,WEISBERG",
+  "attorney_phone": null,
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00094425",
+  "current_status": "Scheduled",
+  "defendant": "NICHOLAS M. BASS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "12 DIANA DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$67,656.32",
+    "Attorney": "MCCABE,WEISBERG",
+    "Attorney Phone": "",
+    "Court Case #": "F00094425",
+    "Defendant": "NICHOLAS M. BASS, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "FR-26000297"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 DIANA DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "NICHOLAS M. BASS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-18",
+  "sheriff_number": "FR-26000297",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 67656.32,
+  "upset_amount_label": "Approx. Upset*"
+}

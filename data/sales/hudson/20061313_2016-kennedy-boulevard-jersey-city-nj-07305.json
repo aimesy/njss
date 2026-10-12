@@ -1,0 +1,63 @@
+{
+  "address": "2016 KENNEDY BOULEVARD JERSEY CITY NJ 07305",
+  "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRE & NEWBY LLP",
+  "attorney_phone": "856-667-9111",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-001948-25 (CWPP INELIGIBLE)",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "MB EQUIITIES LLC, MEIR BERKOWITZ, WC CAPITAL LLC AND FL FUNDING LLC",
+  "description": "LOT 3 IN BLOCK 23001\nDIMENSIONS (APPROX.): 37.62X100\nNEAREST CROSS STREET: AUDUBON AVE",
+  "extracted": {
+    "block": "23001",
+    "lot": "3"
+  },
+  "fields": {
+    "Address": "2016 KENNEDY BOULEVARD\nJERSEY CITY NJ 07305",
+    "Attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRE & NEWBY LLP",
+    "Attorney Phone": "856-667-9111",
+    "Court Case #": "F-001948-25 (CWPP INELIGIBLE)",
+    "Defendant": "MB EQUIITIES LLC, MEIR BERKOWITZ, WC CAPITAL LLC AND FL FUNDING LLC",
+    "Description": "LOT 3 IN BLOCK 23001\nDIMENSIONS (APPROX.): 37.62X100\nNEAREST CROSS STREET: AUDUBON AVE",
+    "Good Faith Upset*": "",
+    "Judgment": "$686,602.91",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 56457",
+    "Property Note": "",
+    "Sales Date": "9/24/2026",
+    "Sheriff #": "20061313"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 686602.91,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "2016 KENNEDY BOULEVARD JERSEY CITY NJ 07305",
+    "defendant": "MB EQUIITIES LLC, MEIR BERKOWITZ, WC CAPITAL LLC AND FL FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 56457",
+    "sale_date": "2026-09-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 56457",
+  "property_note": null,
+  "sale_date": "2026-09-24",
+  "sheriff_number": "20061313",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-03-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

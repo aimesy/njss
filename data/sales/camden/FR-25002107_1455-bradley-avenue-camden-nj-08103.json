@@ -1,0 +1,53 @@
+{
+  "address": "1455 BRADLEY AVENUE CAMDEN NJ 08103",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00246023",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "RAHEEM JOHNSON; EVONNE A SALTERS; CAMDEN CO BD SOICAL SERVS; ALYCIA M THORNTON; JACQUELIN PARKER; CREDIT ACCEPTANCE CORPORATION; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "1455 BRADLEY AVENUE\nCAMDEN NJ 08103",
+    "Approx. Upset*": "$266,909.85",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F00246023",
+    "Defendant": "RAHEEM JOHNSON; EVONNE A SALTERS; CAMDEN CO BD SOICAL SERVS;\nALYCIA M THORNTON; JACQUELIN PARKER; CREDIT ACCEPTANCE CORPORATION;\nUNITED STATES OF AMERICA",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25002107"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1455 BRADLEY AVENUE CAMDEN NJ 08103",
+    "defendant": "RAHEEM JOHNSON; EVONNE A SALTERS; CAMDEN CO BD SOICAL SERVS; \nALYCIA M THORNTON; JACQUELIN PARKER; CREDIT ACCEPTANCE CORPORATION; \nUNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25002107",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 266909.85,
+  "upset_amount_label": "Approx. Upset*"
+}

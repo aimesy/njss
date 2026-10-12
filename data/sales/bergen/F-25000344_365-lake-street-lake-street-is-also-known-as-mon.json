@@ -1,0 +1,68 @@
+{
+  "address": "365 LAKE STREET LAKE STREET IS ALSO KNOWN AS MONTVALE ROAD UPPER SADDLE RIVER NJ 07458",
+  "attorney": "RALPH A FERRO JR ESQ",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00686824",
+  "current_status": "Cancelled",
+  "defendant": "LINDA J CALABRESE, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ET AL",
+  "description": "UPSET PRICE: APPROXIMATELY: $267,798.83 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 267798.83
+  },
+  "fields": {
+    "Address": "365 LAKE STREET\nLAKE STREET IS ALSO KNOWN AS MONTVALE ROAD\nUPPER SADDLE RIVER NJ 07458",
+    "Approx. Upset*": "$235,712.43",
+    "Attorney": "RALPH A FERRO JR ESQ",
+    "Court Case #": "F00686824",
+    "Defendant": "LINDA J CALABRESE, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ET AL",
+    "Description": "UPSET PRICE: APPROXIMATELY: $267,798.83 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 10, BLOCK 909",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS OF CWALT, INC, ALTERNATIVE LOAN TRUST 2005-30CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-30CB",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "F-25000344"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "365 LAKE STREET LAKE STREET IS ALSO KNOWN AS MONTVALE ROAD UPPER SADDLE RIVER NJ 07458",
+    "defendant": "LINDA J CALABRESE, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ET AL",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS OF CWALT, INC, ALTERNATIVE LOAN TRUST 2005-30CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-30CB",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 10, BLOCK 909",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS OF CWALT, INC, ALTERNATIVE LOAN TRUST 2005-30CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-30CB",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "F-25000344",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-04-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 235712.43,
+  "upset_amount_label": "Approx. Upset*"
+}

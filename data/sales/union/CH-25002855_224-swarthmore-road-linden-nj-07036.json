@@ -1,0 +1,72 @@
+{
+  "address": "224 SWARTHMORE ROAD LINDEN NJ 07036",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00755625",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "CHAYA KARP AND MR. CHAYA KARP, HUSBAND OF CHAYA KARP",
+  "description": "LOT 6 BLOCK 301",
+  "extracted": {
+    "block": "301",
+    "lot": "6"
+  },
+  "fields": {
+    "Address": "224 SWARTHMORE ROAD\nLINDEN NJ 07036",
+    "Approx. Upset*": "$560,031.69",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F00755625",
+    "Defendant": "CHAYA KARP AND MR. CHAYA KARP, HUSBAND OF CHAYA KARP",
+    "Description": "LOT 6 BLOCK 301",
+    "Parcel #": "LOT 6 BLOCK 301",
+    "Plaintiff": "ONSLOW BAY FINANCIAL LLC",
+    "Property Note": "",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "CH-25002855"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "224 SWARTHMORE ROAD LINDEN NJ 07036",
+    "defendant": "CHAYA KARP AND MR. CHAYA KARP, HUSBAND OF CHAYA KARP",
+    "listing_status": null,
+    "plaintiff": "ONSLOW BAY FINANCIAL LLC",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 6 BLOCK 301",
+  "plaintiff": "ONSLOW BAY FINANCIAL LLC",
+  "property_note": null,
+  "sale_date": "2026-06-17",
+  "sheriff_number": "CH-25002855",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 560031.69,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "193-195 Richmond Avenue with a mailing address of 193 Richmond Avenue Paterson NJ 07502",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000038 22 CTL#163040",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "HECTOR VERAS, ET ALS.",
+  "description": "Approximate dimensions: 50.00 x 100.00 feEt\nNearest cross street: Chamberlain Avenue\nSubject to: Taxes- Due 8/1/2025 $2,984.66 Open: Estimated Bill\nSewer- 7/1/25-9/30/25 $89.75 Open and due 8/1/2025 $538.50 Open Plus Penalty; Owed in Arrears\nWater- Passaic Valley Water Comm. 1525 Main Ave. Clifton, NJ 07011 973-340-4300\nUpset Price: $453,674.26\nOccupancy status: Occupied\nThe Sheriff hereby reserves the right to adjourn this sale without further notice through publication\nTo the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 453674.26
+  },
+  "fields": {
+    "Address": "193-195 Richmond Avenue\nwith a mailing address of 193 Richmond Avenue\nPaterson NJ 07502",
+    "Approx. Upset*": "$349,375.36",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 000038 22 CTL#163040",
+    "Defendant": "HECTOR VERAS, ET ALS.",
+    "Description": "Approximate dimensions: 50.00 x 100.00 feEt\nNearest cross street: Chamberlain Avenue\nSubject to: Taxes- Due 8/1/2025 $2,984.66 Open: Estimated Bill\nSewer- 7/1/25-9/30/25 $89.75 Open and due 8/1/2025 $538.50 Open Plus Penalty; Owed in Arrears\nWater- Passaic Valley Water Comm. 1525 Main Ave. Clifton, NJ 07011 973-340-4300\nUpset Price: $453,674.26\nOccupancy status: Occupied\nThe Sheriff hereby reserves the right to adjourn this sale without further notice through publication\nTo the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act",
+    "Parcel #": "Tax lot 5 fka 27 in Block 1608 fka B0280",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "10/28/2025",
+    "Sheriff #": "F-25001461"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "193-195 Richmond Avenue with a mailing address of 193 Richmond Avenue Paterson NJ 07502",
+    "defendant": "HECTOR VERAS, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2025-10-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot 5 fka 27 in Block 1608 fka B0280",
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2025-10-28",
+  "sheriff_number": "F-25001461",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 349375.36,
+  "upset_amount_label": "Approx. Upset*"
+}

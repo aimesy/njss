@@ -1,0 +1,60 @@
+{
+  "address": "49 HARDING AVENUE CLARK NJ 07066",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00781225",
+  "current_status": "Purchased",
+  "defendant": "ELIZABETH S. ROMAN, HIS /HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST; STATE OF NEW JERSEY; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT; UNITED STATES OF AMERICA",
+  "description": "LOT 1 BLOCK 101",
+  "extracted": {
+    "block": "101",
+    "lot": "1"
+  },
+  "fields": {
+    "Address": "49 HARDING AVENUE\nCLARK NJ 07066",
+    "Approx. Upset*": "$444,240.95",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00781225",
+    "Defendant": "ELIZABETH S. ROMAN, HIS /HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST; STATE OF NEW JERSEY; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT; UNITED STATES OF AMERICA",
+    "Description": "LOT 1 BLOCK 101",
+    "Parcel #": "LOT 1 BLOCK 101",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "Property Note": "",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "CH-25002725"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "49 HARDING AVENUE CLARK NJ 07066",
+    "defendant": "ELIZABETH S. ROMAN, HIS /HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST; STATE OF NEW JERSEY; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 1 BLOCK 101",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+  "property_note": null,
+  "sale_date": "2026-02-18",
+  "sheriff_number": "CH-25002725",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 444240.95,
+  "upset_amount_label": "Approx. Upset*"
+}

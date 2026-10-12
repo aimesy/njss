@@ -1,0 +1,51 @@
+{
+  "address": "43 Heron Court Manalapan NJ 07726",
+  "attorney": "McGovern Legal Services, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01229624",
+  "current_status": "Settled",
+  "defendant": "Erika J Jacobs",
+  "description": "Upon information and belief, the premises is owner occupied\nFinal upset price $14,629.86",
+  "extracted": {
+    "upset_amount": 14629.86
+  },
+  "fields": {
+    "Address": "43 Heron Court\nManalapan NJ 07726",
+    "Approx. Judgment*": "$12,629.86",
+    "Attorney": "McGovern Legal Services, LLC",
+    "Court Case #": "F01229624",
+    "Defendant": "Erika J Jacobs",
+    "Description": "Upon information and belief, the premises is owner occupied\nFinal upset price $14,629.86",
+    "Parcel #": "Tax Lot 43 Block 49.16 Tax Map of Township of Manalapan",
+    "Plaintiff": "Tracy Village Condominium Association, Inc.",
+    "Property Note": "",
+    "Sales Date": "8/22/2025",
+    "Sheriff #": "FOR-25001509"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 12629.86,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "43 Heron Court Manalapan NJ 07726",
+    "defendant": "Erika J Jacobs",
+    "listing_status": "Settled",
+    "plaintiff": "Tracy Village Condominium Association, Inc.",
+    "sale_date": "2025-08-22"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 43 Block 49.16 Tax Map of Township of Manalapan",
+  "plaintiff": "Tracy Village Condominium Association, Inc.",
+  "property_note": null,
+  "sale_date": "2025-08-22",
+  "sheriff_number": "FOR-25001509",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-08-22",
+      "status": "Settled"
+    }
+  ]
+}

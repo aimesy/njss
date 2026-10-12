@@ -1,0 +1,68 @@
+{
+  "address": "823 DE WITT STREET LINDEN NJ 07036",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00438124",
+  "current_status": "Bankuptcy",
+  "defendant": "WALTER DAVID HAVERSTOCK",
+  "description": "LOT 7 BLOCK 341",
+  "extracted": {
+    "block": "341",
+    "lot": "7"
+  },
+  "fields": {
+    "Address": "823 DE WITT STREET\nLINDEN NJ 07036",
+    "Approx. Upset*": "$560,125.47",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Court Case #": "F00438124",
+    "Defendant": "WALTER DAVID HAVERSTOCK",
+    "Description": "LOT 7 BLOCK 341",
+    "Parcel #": "LOT 7 BLOCK 341",
+    "Plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1",
+    "Property Note": "",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "CH-25002177"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "823 DE WITT STREET LINDEN NJ 07036",
+    "defendant": "WALTER DAVID HAVERSTOCK",
+    "listing_status": null,
+    "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 7 BLOCK 341",
+  "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1",
+  "property_note": null,
+  "sale_date": "2026-04-01",
+  "sheriff_number": "CH-25002177",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 560125.47,
+  "upset_amount_label": "Approx. Upset*"
+}

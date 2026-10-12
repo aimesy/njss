@@ -1,0 +1,56 @@
+{
+  "address": "546 Locust Point Road Rumson NJ 07760",
+  "attorney": "Law Office of Michael S. Ackerman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00712023",
+  "current_status": "Scheduled",
+  "defendant": "Alexa Holdings, LLC",
+  "description": "Dimensions of Lot: (Approximately) 250 feet wide by 300 feet long.\nNearest Cross Street: Situate on Southerly side of Locust Point Road, 167 feet from the center line of a brook said point also being the Northeasterly of the premises.\nPlaintiff's Upset Price will be set at the total amount due on it's foreclosure judgment and taxed costs, plus interest, which is calculated as $3,908,014.09 as of March 7, 2025.\nStatus of Occupancy: the property is occupied by individuals tht have signed a contract for the purchase of the property with the foreclosing Plaintiff and presently occupy the property under a use and occupancy agreement. This sale is subject to both the contract to purchase the property and the rights conveyed unde the aforesaid use and occupancy agreement.",
+  "extracted": {
+    "occupancy": "the property is occupied by individuals tht have signed a contract for the purchase of the property with the foreclosing Plaintiff and presently occupy the property under a use and occupancy agreement. This sale is subject to both the contract to purchase the property and the rights conveyed unde the aforesaid use and occupancy agreement.",
+    "upset_amount": 3908014.09
+  },
+  "fields": {
+    "Address": "546 Locust Point Road\nRumson NJ 07760",
+    "Approx. Judgment*": "$3,359,980.03",
+    "Attorney": "Law Office of Michael S. Ackerman, LLC",
+    "Court Case #": "F00712023",
+    "Defendant": "Alexa Holdings, LLC",
+    "Description": "Dimensions of Lot: (Approximately) 250 feet wide by 300 feet long.\nNearest Cross Street: Situate on Southerly side of Locust Point Road, 167 feet from the center line of a brook said point also being the Northeasterly of the premises.\nPlaintiff's Upset Price will be set at the total amount due on it's foreclosure judgment and taxed costs, plus interest, which is calculated as $3,908,014.09 as of March 7, 2025.\nStatus of Occupancy: the property is occupied by individuals tht have signed a contract for the purchase of the property with the foreclosing Plaintiff and presently occupy the property under a use and occupancy agreement. This sale is subject to both the contract to purchase the property and the rights conveyed unde the aforesaid use and occupancy agreement.",
+    "Parcel #": "Tax Lot No. 23 in Block No. 840 Tax Map of Township of Middletown",
+    "Plaintiff": "Marttine Management JD LLC",
+    "Property Note": "",
+    "Sales Date": "3/31/2025",
+    "Sheriff #": "FOR-25000289"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 3359980.03,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "546 Locust Point Road Rumson NJ 07760",
+    "defendant": "Alexa Holdings, LLC",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Marttine Management JD LLC",
+    "sale_date": "2025-03-31"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 23 in Block No. 840 Tax Map of Township of Middletown",
+  "plaintiff": "Marttine Management JD LLC",
+  "property_note": null,
+  "sale_date": "2025-03-31",
+  "sheriff_number": "FOR-25000289",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-31",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "address": "268 CHURCH STREET LODI NJ 07644",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00426919",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "HENRY O ROJAS-YANZA",
+  "description": "ESTIMATED UPSET BID AMOUNT: $877,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STAYUS: OCCUPIED",
+  "extracted": {},
+  "fields": {
+    "Address": "268 CHURCH STREET\nLODI NJ 07644",
+    "Approx. Upset*": "$807,316.11",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F00426919",
+    "Defendant": "HENRY O ROJAS-YANZA",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $877,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STAYUS: OCCUPIED",
+    "Parcel #": "LOT 215, BLOCK 259",
+    "Plaintiff": "SERVIS ONE, INC DBA BSI FINANCIAL SERVICES",
+    "Property Note": "",
+    "Sales Date": "12/12/2025",
+    "Sheriff #": "F-25001861"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "268 CHURCH STREET LODI NJ 07644",
+    "defendant": "HENRY O ROJAS-YANZA",
+    "listing_status": null,
+    "plaintiff": "SERVIS ONE, INC DBA BSI FINANCIAL SERVICES",
+    "sale_date": "2025-12-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 215, BLOCK 259",
+  "plaintiff": "SERVIS ONE, INC DBA BSI FINANCIAL SERVICES",
+  "property_note": null,
+  "sale_date": "2025-12-12",
+  "sheriff_number": "F-25001861",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 807316.11,
+  "upset_amount_label": "Approx. Upset*"
+}

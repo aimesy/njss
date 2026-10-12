@@ -1,0 +1,58 @@
+{
+  "address": "450 North 2nd Street Hammonton NJ 08037",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005792-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Greg Ruttler and Mrs. Greg Ruttler, wife of Greg Ruttler",
+  "extracted": {},
+  "fields": {
+    "Address": "450 North 2nd Street\nHammonton NJ 08037",
+    "Approx. Judgment*": "$286,072.64",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-005792-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Greg Ruttler and Mrs. Greg Ruttler, wife of Greg Ruttler",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "Cert No. 24-00082 3rd Party Water, Sewer $1,017.86",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "11/13/2025",
+    "Sheriff #": "F-25000998",
+    "Upset Amount": "$314,505.53"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 286072.64,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "450 North 2nd Street Hammonton NJ 08037",
+    "defendant": "Greg Ruttler and Mrs...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2025-11-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "Cert No. 24-00082 3rd Party Water, Sewer $1,017.86",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-11-13",
+  "sheriff_number": "F-25000998",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-11-13",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 314505.53,
+  "upset_amount_label": "Upset Amount"
+}

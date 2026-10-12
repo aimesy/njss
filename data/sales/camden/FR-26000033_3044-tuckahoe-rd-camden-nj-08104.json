@@ -1,0 +1,61 @@
+{
+  "address": "3044 TUCKAHOE RD CAMDEN NJ 08104",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01038924",
+  "current_status": "Purchased",
+  "defendant": "KALINDA RAE STILL; MR JOHNSON, SPOUCE OF KIMBERLY L. JOHNSON A/K/A KIM JOHNSON A/K/A KIMBERLY JOHNSON; JOHNSON FAMILY TRUST, ZAWAIDI FROUP LLC AS TRUSTEE; EDITH SMITH; KATHERINE LEE; ESMAY PARCHMENT, HI/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCESSORS IN RIGHT, TITLE AND INTREST; SHARON PARCHMENT; JACYNTH CLARKE-CHIMWALA; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "3044 TUCKAHOE RD\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$36,935.69",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01038924",
+    "Defendant": "KALINDA RAE STILL; MR JOHNSON, SPOUCE OF KIMBERLY L. JOHNSON\nA/K/A KIM JOHNSON A/K/A KIMBERLY JOHNSON; JOHNSON FAMILY TRUST,\nZAWAIDI FROUP LLC AS TRUSTEE; EDITH SMITH; KATHERINE LEE;\nESMAY PARCHMENT, HI/HER HEIRS,\nDEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS,\nTHEIR OR ANY OF THEIR SUCESSORS IN RIGHT, TITLE AND INTREST;\nSHARON PARCHMENT; JACYNTH CLARKE-CHIMWALA; STATE OF\nNEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION,\nAS TRUSTEE FOR STRUCTURED ASSET SECURITIES\nCORPORATION MORTGAGE PASS-THROUGH CERTIFICATES,\nSERIES 2007-TC1,",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "FR-26000033"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3044 TUCKAHOE RD CAMDEN NJ 08104",
+    "defendant": "KALINDA RAE STILL; MR JOHNSON, SPOUCE OF KIMBERLY L. JOHNSON \nA/K/A KIM JOHNSON A/K/A KIMBERLY JOHNSON; JOHNSON FAMILY TRUST, \nZAWAIDI FROUP LLC AS TRUSTEE; EDITH SMITH; KATHERINE LEE; \nESMAY PARCHMENT, HI/HER HEIRS, \nDEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, \nTHEIR OR ANY OF THEIR SUCESSORS IN RIGHT, TITLE AND INTREST; \nSHARON PARCHMENT; JACYNTH CLARKE-CHIMWALA; STATE OF \nNEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, \nAS TRUSTEE FOR STRUCTURED ASSET SECURITIES \nCORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, \nSERIES 2007-TC1,",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-TC1,",
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "FR-26000033",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 36935.69,
+  "upset_amount_label": "Approx. Upset*"
+}

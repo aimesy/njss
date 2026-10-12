@@ -1,0 +1,61 @@
+{
+  "address": "2410 WAINWRIGHT STREET CAMDEN NJ 08104",
+  "attorney": "PARKER MCCAY P.A.",
+  "attorney_phone": "(856) 596-8900",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01167124",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MIGAN L. BATTLES; MR. BATTLES, HUSBAND OF MIGAN L. BATTLES; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "2410 WAINWRIGHT STREET\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$123,629.39",
+    "Attorney": "PARKER MCCAY P.A.",
+    "Attorney Phone": "(856) 596-8900",
+    "Court Case #": "F01167124",
+    "Defendant": "MIGAN L. BATTLES; MR. BATTLES, HUSBAND OF\nMIGAN L. BATTLES; NEW JERSEY HOUSING\nAND MORTGAGE FINANCE AGENCY; STATE OF\nNEW JERSEY,",
+    "Parcel #": "TAX LOT # 90 BLOCK # 631",
+    "Plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+    "Property Note": "ALSO SUBJECT TO SUBSEQUENT TAXES, WATWE AND SEWER PLUS INTEREST THROUGH DATE OF PAYOFF",
+    "Sales Date": "8/31/2026",
+    "Sheriff #": "FR-26000994"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2410 WAINWRIGHT STREET CAMDEN NJ 08104",
+    "defendant": "MIGAN L. BATTLES; MR. BATTLES, HUSBAND OF \nMIGAN L. BATTLES; NEW JERSEY HOUSING \nAND MORTGAGE FINANCE AGENCY; STATE OF \nNEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+    "sale_date": "2026-08-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT # 90 BLOCK # 631",
+  "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+  "property_note": "ALSO SUBJECT TO SUBSEQUENT TAXES, WATWE AND SEWER PLUS INTEREST THROUGH DATE OF PAYOFF",
+  "sale_date": "2026-08-31",
+  "sheriff_number": "FR-26000994",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 123629.39,
+  "upset_amount_label": "Approx. Upset*"
+}

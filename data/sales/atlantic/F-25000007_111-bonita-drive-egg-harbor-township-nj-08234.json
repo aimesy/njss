@@ -1,0 +1,70 @@
+{
+  "address": "111 Bonita Drive Egg Harbor Township NJ 08234",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "SWC-F-000607-24",
+  "current_status": "Scheduled",
+  "deed": "c/o CELINK 3900 Capital City Blvd, Lansing, Michigan 48906",
+  "deed_address": "Carrington Mortgage Services LLC",
+  "defendant": "Barbara A. Harrington, Her Heirs, Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Gail Elaine Forth; Mr. Forth, Husband of Gail Elaine Forth; James P. Harrington III; Melanie Harrington; State of New Jersey; United States of America; Vivint Solar Developer, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "111 Bonita Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$382,023.59",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "SWC-F-000607-24",
+    "Deed": "c/o CELINK 3900 Capital City Blvd, Lansing, Michigan 48906",
+    "Deed Address": "Carrington Mortgage Services LLC",
+    "Defendant": "Barbara A. Harrington, Her Heirs, Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Gail Elaine Forth; Mr. Forth, Husband of Gail Elaine Forth; James P. Harrington III; Melanie Harrington; State of New Jersey; United States of America; Vivint Solar Developer, LLC",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "5/22/2025",
+    "Sheriff #": "F-25000007",
+    "Upset Amount": "$404,800.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 382023.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "111 Bonita Drive Egg Harbor Township NJ 08234",
+    "defendant": "Barbara A. Harringto...",
+    "listing_status": null,
+    "plaintiff": "Carrington Mortgage ...",
+    "sale_date": "2025-05-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-05-22",
+  "sheriff_number": "F-25000007",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-22",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-27",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-27",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 404800.0,
+  "upset_amount_label": "Upset Amount"
+}

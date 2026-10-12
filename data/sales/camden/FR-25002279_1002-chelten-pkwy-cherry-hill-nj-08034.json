@@ -1,0 +1,69 @@
+{
+  "address": "1002 CHELTEN PKWY CHERRY HILL NJ 08034",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "attorney_phone": "(973) 325-8800",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01070324",
+  "current_status": "Purchased",
+  "defendant": "FREDERICK K SHORT, JR; CAROL A. SHORT; STATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "1002 CHELTEN PKWY\nCHERRY HILL NJ 08034",
+    "Approx. Upset*": "$214,987.62",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F01070324",
+    "Defendant": "FREDERICK K SHORT, JR; CAROL A. SHORT; STATE OF NEW JERSEY; UNITED STATES\nOF AMERICA,",
+    "Parcel #": "Lot: 12; Block: 341.07",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORTATION, AS TRUSTEE FOR THE BENEFIT\nOF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST,\nSERIES 2020-2,",
+    "Property Note": "Pursuant to a tax search of 05/18/2026; 2026 Qtr 2 Due: 05/01/2026 $2,304.25 OPEN PLUS PENALTY Vacant lot charge: Property registration fee exists. Contact property maintenance dept, 856-834-3364 for details. Sewer: Cherry Hill Twp 820 Mercer St Cherry Hill,NJ 08002 856-488-7880 Acct: 10478 0 01/01/2026 - 12/3 1/2026 $95.00 OPEN PLUS PENALTY Water: PRIVATE - NJ American Water co. P.O. BOX 371331 PITTSBURGH,PA 15250 800-652-6987 CCMUA: CCMUA 1645 Ave. Camden,NJ 08104 856-541-3700 Acct: 090077413 04/01/2026 06/30/2026 $93.00 OPEN PLUS PENALTY",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-25002279"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1002 CHELTEN PKWY CHERRY HILL NJ 08034",
+    "defendant": "FREDERICK K SHORT, JR; CAROL A. SHORT; STATE OF NEW JERSEY; UNITED STATES \n OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORTATION, AS TRUSTEE FOR THE BENEFIT \nOF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, \nSERIES 2020-2,",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot: 12; Block: 341.07",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORTATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2020-2,",
+  "property_note": "Pursuant to a tax search of 05/18/2026; 2026 Qtr 2 Due: 05/01/2026 $2,304.25 OPEN PLUS PENALTY Vacant lot charge: Property registration fee exists. Contact property maintenance dept, 856-834-3364 for details. Sewer: Cherry Hill Twp 820 Mercer St Cherry Hill,NJ 08002 856-488-7880 Acct: 10478 0 01/01/2026 - 12/3 1/2026 $95.00 OPEN PLUS PENALTY Water: PRIVATE - NJ American Water co. P.O. BOX 371331 PITTSBURGH,PA 15250 800-652-6987 CCMUA: CCMUA 1645 Ave. Camden,NJ 08104 856-541-3700 Acct: 090077413 04/01/2026 06/30/2026 $93.00 OPEN PLUS PENALTY",
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-25002279",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 214987.62,
+  "upset_amount_label": "Approx. Upset*"
+}

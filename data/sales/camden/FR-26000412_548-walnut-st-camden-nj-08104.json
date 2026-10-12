@@ -1,0 +1,53 @@
+{
+  "address": "548 WALNUT ST CAMDEN NJ 08104",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00854325",
+  "current_status": "Scheduled",
+  "defendant": "CLEMENT BETHEA A/K/A CLEMENT H. BETHEA; LVNV FUNDING LLC,",
+  "extracted": {},
+  "fields": {
+    "Address": "548 WALNUT ST\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$131,123.63",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00854325",
+    "Defendant": "CLEMENT BETHEA A/K/A CLEMENT H. BETHEA; LVNV\nFUNDING LLC,",
+    "Parcel #": "",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2016-1, U.S. BANK\nNATIONAL ASSOCIATION AS INDENTURE TRUSTEE,",
+    "Property Note": "",
+    "Sales Date": "4/23/2026",
+    "Sheriff #": "FR-26000412"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "548 WALNUT ST CAMDEN NJ 08104",
+    "defendant": "CLEMENT BETHEA A/K/A CLEMENT H. BETHEA; LVNV \nFUNDING LLC,",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2016-1, U.S. BANK \nNATIONAL ASSOCIATION AS INDENTURE TRUSTEE,",
+    "sale_date": "2026-04-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2016-1, U.S. BANK NATIONAL ASSOCIATION AS INDENTURE TRUSTEE,",
+  "property_note": null,
+  "sale_date": "2026-04-23",
+  "sheriff_number": "FR-26000412",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 131123.63,
+  "upset_amount_label": "Approx. Upset*"
+}

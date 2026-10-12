@@ -1,0 +1,57 @@
+{
+  "address": "185 Van Cleaf Lane Cliffwood NJ 07721",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00706622",
+  "current_status": "Scheduled",
+  "defendant": "Gary Foti and Jill Foti, et al.",
+  "description": "Approximate dimensions: 60' x 100'\nNearest cross street: Meinzer Street\nThe Plaintiff's Upset Bid presently approximates $252,000.00\nOccupancy StatusK Unknown",
+  "extracted": {},
+  "fields": {
+    "Address": "185 Van Cleaf Lane\nCliffwood NJ 07721",
+    "Approx. Judgment*": "$235,442.70",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00706622",
+    "Defendant": "Gary Foti and Jill Foti, et al.",
+    "Description": "Approximate dimensions: 60' x 100'\nNearest cross street: Meinzer Street\nThe Plaintiff's Upset Bid presently approximates $252,000.00\nOccupancy StatusK Unknown",
+    "Parcel #": "Tax Lot: 9 Tax Block: 198 Tax Map of the Township of Aberdeen",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely as owner Trustee for RCF 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "4/16/2025",
+    "Sheriff #": "FOR-24002549"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 235442.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "185 Van Cleaf Lane Cliffwood NJ 07721",
+    "defendant": "Gary Foti and Jill Foti, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely as owner Trustee for RCF 2 Acquisition Trust",
+    "sale_date": "2025-04-16"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 9 Tax Block: 198 Tax Map of the Township of Aberdeen",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely as owner Trustee for RCF 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-04-16",
+  "sheriff_number": "FOR-24002549",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-16",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "address": "535 MAIN STREET WITH A MAILING ADDRESS OF 535 MAIN STREET, GLENDORA, NJ 08029 TOWNSHIP OF GLOUCESTER NJ 08029",
+  "attorney": "LAW OFFICE OF MARTONE & UHLMANN",
+  "attorney_phone": "(973) 473-3000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00091725",
+  "current_status": "Defendant Adjournment",
+  "defendant": "LINDA S. COMBS, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; JACK COMBS; MRS. JACK COMBS, HIS WIFE; ROBERT COMBS; ROY COMBS; STATE OF NEW JERSEY; ROY COMBS; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; AMERICREDIT FINANCIAL SERVICES INC.; APOGEE FINANCE, INC.",
+  "extracted": {},
+  "fields": {
+    "Address": "535 MAIN STREET\nWITH A MAILING ADDRESS OF 535 MAIN STREET, GLENDORA, NJ 08029\nTOWNSHIP OF GLOUCESTER NJ 08029",
+    "Approx. Upset*": "$27,546.69",
+    "Attorney": "LAW OFFICE OF MARTONE & UHLMANN",
+    "Attorney Phone": "(973) 473-3000",
+    "Court Case #": "F00091725",
+    "Defendant": "LINDA S. COMBS, HER HEIRS, DEVISEES AND PERSONAL\nREPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR\nSUCCESSORS IN RIGHT, TITLE AND INTEREST; JACK COMBS;\nMRS. JACK COMBS, HIS WIFE; ROBERT COMBS; ROY COMBS;\nSTATE OF NEW JERSEY; ROY COMBS; STATE OF NEW JERSEY;\nUNITED STATES OF AMERICA; AMERICREDIT FINANCIAL\nSERVICES INC.; APOGEE FINANCE, INC.",
+    "Parcel #": "",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25001746"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "535 MAIN STREET WITH A MAILING ADDRESS OF 535 MAIN STREET, GLENDORA, NJ 08029 TOWNSHIP OF GLOUCESTER NJ 08029",
+    "defendant": "LINDA S. COMBS, HER HEIRS, DEVISEES AND PERSONAL \nREPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR \nSUCCESSORS IN RIGHT, TITLE AND INTEREST; JACK COMBS; \nMRS. JACK COMBS, HIS WIFE; ROBERT COMBS; ROY COMBS; \nSTATE OF NEW JERSEY; ROY COMBS; STATE OF NEW JERSEY; \nUNITED STATES OF AMERICA; AMERICREDIT FINANCIAL \nSERVICES INC.; APOGEE FINANCE, INC.",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25001746",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 27546.69,
+  "upset_amount_label": "Approx. Upset*"
+}

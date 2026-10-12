@@ -1,0 +1,58 @@
+{
+  "address": "700 East Chanese Lane Galloway Township NJ 08205",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000581-22 PLURIES",
+  "current_status": "Rescheduled Post Bankruptcy to",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Alfred W. Kare; Teresa M. Kare; South Jersey Federal Credit Union N/K/A First Harvest Federal Credit Union",
+  "extracted": {},
+  "fields": {
+    "Address": "700 East Chanese Lane\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$240,327.08",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-000581-22 PLURIES",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Alfred W. Kare; Teresa M. Kare; South Jersey Federal Credit Union N/K/A First Harvest Federal Credit Union",
+    "Plaintiff": "U.S. Bank Trust National Association as Trustee of the Tiki Series IV Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "8/28/2025",
+    "Sheriff #": "F-22001277",
+    "Upset Amount": "$290,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 240327.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "700 East Chanese Lane Galloway Township NJ 08205",
+    "defendant": "Alfred W. Kare; Tere...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-08-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association as Trustee of the Tiki Series IV Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-08-28",
+  "sheriff_number": "F-22001277",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-28",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-08-28",
+      "status": "Rescheduled Post Bankruptcy to"
+    }
+  ],
+  "upset_amount": 290000.0,
+  "upset_amount_label": "Upset Amount"
+}

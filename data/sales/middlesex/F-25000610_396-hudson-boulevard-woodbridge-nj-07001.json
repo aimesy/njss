@@ -1,0 +1,68 @@
+{
+  "address": "396 HUDSON BOULEVARD WOODBRIDGE NJ 07001",
+  "attorney": "PARKER MCCAY (MT. LAUREL)",
+  "attorney_file_number": null,
+  "attorney_phone": "(856-810-5815",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00911323",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ZULMA A. MONTILLA, ET ALS.",
+  "description": "ALSO KNOWN AS: 396 HUDSON BLVD, AVENEL, NJ 07001",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$52,492.63",
+    "Attorney": "PARKER MCCAY (MT. LAUREL)",
+    "Attorney File #": "",
+    "Attorney Phone": "(856-810-5815",
+    "Court Case #": "F00911323",
+    "Defendant": "ZULMA A. MONTILLA, ET ALS.",
+    "Description": "ALSO KNOWN AS: 396 HUDSON BLVD, AVENEL, NJ 07001",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2 BLOCK 848.025 FKA LOT 2 BLOCK 848.B6",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS INDENTURE TRUSTEE FOR CWHEQ REVOLVING HOME EQUITY LOAN TRUST, SERIES 2006-I",
+    "Property Address": "396 HUDSON BOULEVARD\nWOODBRIDGE NJ 07001",
+    "Property Note": "",
+    "Sale Date": "8/6/2025",
+    "Sheriff #": "F-25000610"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 52492.63,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "396 HUDSON BOULEVARD WOODBRIDGE NJ 07001",
+    "defendant": "ZULMA A. MONTILLA, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS INDENTURE TRUSTEE FOR CWHEQ REVOLVING HOME EQUITY LOAN TRUST, SERIES 2006-I",
+    "sale_date": "2025-08-06"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2 BLOCK 848.025 FKA LOT 2 BLOCK 848.B6",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS INDENTURE TRUSTEE FOR CWHEQ REVOLVING HOME EQUITY LOAN TRUST, SERIES 2006-I",
+  "property_note": null,
+  "sale_date": "2025-08-06",
+  "sheriff_number": "F-25000610",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-06",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

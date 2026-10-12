@@ -1,0 +1,59 @@
+{
+  "address": "THE LEDGEWOOD TERRACE CONDOMINIUM468A LIBERTY STREET UNIT 101, BUILDING 468 LITTLE FERRY NJ 07643",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F339424",
+  "current_status": "Cancelled",
+  "defendant": "CARL CLARINO III; MARISA CLARINO, HUSBAND AND WIFE, ET AL",
+  "description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $383,793.15\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+  "extracted": {
+    "upset_amount": 383793.15
+  },
+  "fields": {
+    "Address": "THE LEDGEWOOD TERRACE CONDOMINIUM468A LIBERTY STREET\nUNIT 101, BUILDING 468\nLITTLE FERRY NJ 07643",
+    "Approx. Upset*": "$330,113.15",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Court Case #": "F339424",
+    "Defendant": "CARL CLARINO III; MARISA CLARINO, HUSBAND AND WIFE, ET AL",
+    "Description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $383,793.15\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+    "Parcel #": "LOT 1.01 & 2, QUAL C5101, BLOCK 2",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "6/10/2026",
+    "Sheriff #": "F-26000099"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "THE LEDGEWOOD TERRACE CONDOMINIUM468A LIBERTY STREET UNIT 101, BUILDING 468 LITTLE FERRY NJ 07643",
+    "defendant": "CARL CLARINO III; MARISA CLARINO, HUSBAND AND WIFE, ET AL",
+    "listing_status": null,
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-06-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 1.01 & 2, QUAL C5101, BLOCK 2",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-06-10",
+  "sheriff_number": "F-26000099",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-02-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-06-10",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 330113.15,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,77 @@
+{
+  "address": "1 BRIGHTON CT LIVINGSTON NJ 07039",
+  "attorney": "McCABE, WEISBERG & CONWAY LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00265524",
+  "current_status": "Bankruptcy",
+  "defendant": "MILLER JONES HOLDINGS, LLC; ET. ALS.",
+  "description": "DIMENSIONS OF LOT (APPROXIMATELY) 260 X 200\nNEAREST CROSS STREET: WESTMONT DRIVE\nAPPROX UPSET PRICE: $3,170,000.00\nPROPERTY STATUS-BORROWER OCCUPIED\nSUBJECT UNPAID WATER BILLS APPROX. AMOUNT $731.25\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 3170000.0
+  },
+  "fields": {
+    "Address": "1 BRIGHTON CT\nLIVINGSTON NJ 07039",
+    "Approx. Upset*": "$2,847,988.68",
+    "Attorney": "McCABE, WEISBERG & CONWAY LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F00265524",
+    "Defendant": "MILLER JONES HOLDINGS, LLC; ET. ALS.",
+    "Description": "DIMENSIONS OF LOT (APPROXIMATELY) 260 X 200\nNEAREST CROSS STREET: WESTMONT DRIVE\nAPPROX UPSET PRICE: $3,170,000.00\nPROPERTY STATUS-BORROWER OCCUPIED\nSUBJECT UNPAID WATER BILLS APPROX. AMOUNT $731.25\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "BLOCK 2404 LOT 29 F/K/A BLOCK 233B LOT 42",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "F-26000532"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1 BRIGHTON CT LIVINGSTON NJ 07039",
+    "defendant": "MILLER JONES HOLDINGS, LLC; ET. ALS.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": "BLOCK 2404 LOT 29 F/K/A BLOCK 233B LOT 42",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-09-15",
+  "sheriff_number": "F-26000532",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-03-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 2847988.68,
+  "upset_amount_label": "Approx. Upset*"
+}

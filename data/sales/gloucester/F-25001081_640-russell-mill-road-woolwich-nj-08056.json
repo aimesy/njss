@@ -1,0 +1,56 @@
+{
+  "address": "640 RUSSELL MILL ROAD WOOLWICH NJ 08056",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-006998-24",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "DAVIS ROAD HOLDINGS LLC",
+  "description": "OCCUPANCY STATUS: NON-OWNER OCCUPIED\nGOOD FAITH ESTIMATED UPSET PRICE: $702,972.67",
+  "extracted": {
+    "occupancy": "NON-OWNER OCCUPIED",
+    "upset_amount": 702972.67
+  },
+  "fields": {
+    "Address": "640 RUSSELL MILL ROAD\nWOOLWICH NJ 08056",
+    "Approximate Judgment": "$628,723.39",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-006998-24",
+    "Defendant": "DAVIS ROAD HOLDINGS LLC",
+    "Description": "OCCUPANCY STATUS: NON-OWNER OCCUPIED\nGOOD FAITH ESTIMATED UPSET PRICE: $702,972.67",
+    "Parcel #": "LOT: 7.03 BLOCK: 44",
+    "Plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+    "Property Note": "TOWNSHIP OF WOOLWICH\nCOUNTY OF GLOUCESTER\n640 RUSSELL MILL ROAD WOOLWICH, NJ 08056\nLOT: 7.03 BLOCK: 44\nAPROXIMATE DIMENSIONS: 1.7 AC\nNEAREST CROSS STREET: OAK VW TER.\nOCCUPANCY STATUS: NON-OWNER OCCUPIED\nGOOD FAITH ESTIMATED UPSET PRICE: $702,972.67\nTHIS PROPERTY IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL",
+    "Sales Date": "11/12/2025",
+    "Sheriff #": "F-25001081"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 628723.39,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "640 RUSSELL MILL ROAD WOOLWICH NJ 08056",
+    "defendant": "DAVIS ROAD HOLDINGS LLC",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+    "sale_date": "2025-11-12"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 7.03 BLOCK: 44",
+  "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+  "property_note": "TOWNSHIP OF WOOLWICH\nCOUNTY OF GLOUCESTER\n640 RUSSELL MILL ROAD WOOLWICH, NJ 08056\nLOT: 7.03 BLOCK: 44\nAPROXIMATE DIMENSIONS: 1.7 AC\nNEAREST CROSS STREET: OAK VW TER.\nOCCUPANCY STATUS: NON-OWNER OCCUPIED\nGOOD FAITH ESTIMATED UPSET PRICE: $702,972.67\nTHIS PROPERTY IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL",
+  "sale_date": "2025-11-12",
+  "sheriff_number": "F-25001081",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-11-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

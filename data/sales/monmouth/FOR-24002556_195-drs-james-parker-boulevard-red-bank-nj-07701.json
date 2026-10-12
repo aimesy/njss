@@ -1,0 +1,71 @@
+{
+  "address": "195 Drs. James Parker Boulevard Red Bank NJ 07701",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01388923",
+  "current_status": "Scheduled",
+  "defendant": "Tommie Lee Taylor et al.",
+  "description": "Approximate Dimensions: 37 x 150\nNearest Cross Street: Shrewsbury\nUpset price $281,456.38 (Note, this is a good faith estimate of the upset price at Sheriff’s sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+  "extracted": {
+    "upset_amount": 281456.38
+  },
+  "fields": {
+    "Address": "195 Drs. James Parker Boulevard\nRed Bank NJ 07701",
+    "Approx. Judgment*": "$267,262.25",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F01388923",
+    "Defendant": "Tommie Lee Taylor et al.",
+    "Description": "Approximate Dimensions: 37 x 150\nNearest Cross Street: Shrewsbury\nUpset price $281,456.38 (Note, this is a good faith estimate of the upset price at Sheriff’s sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+    "Parcel #": "Tax Lot: # Block: # Located on the tax map of the Township of\nApproximate Dimensions:\nNearest Cross Street:\nTax Lot: # 9 Block: # 90 Located on the tax map of the Borough of Red Bank",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "6/23/2025",
+    "Sheriff #": "FOR-24002556"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 267262.25,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "195 Drs. James Parker Boulevard Red Bank NJ 07701",
+    "defendant": "Tommie Lee Taylor et al.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "sale_date": "2025-06-23"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: # Block: # Located on the tax map of the Township of Approximate Dimensions: Nearest Cross Street: Tax Lot: # 9 Block: # 90 Located on the tax map of the Borough of Red Bank",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-06-23",
+  "sheriff_number": "FOR-24002556",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-23",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

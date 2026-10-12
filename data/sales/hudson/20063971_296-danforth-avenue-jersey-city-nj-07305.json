@@ -1,0 +1,63 @@
+{
+  "address": "296 DANFORTH AVENUE JERSEY CITY NJ 07305",
+  "attorney": "KML LAW GROUP, P.C",
+  "attorney_phone": "215-627-1322",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006562-25",
+  "current_status": "Adjourned - Plaintiff - New Sale Date:",
+  "defendant": "ABEL CAMILO, ET AL",
+  "description": "TAX LOT NO. 38 BLOCK 26904\nDIMENSIONS OF LOT: (APPROXIMATELY) 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: FOWLER AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $296,838.36.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGEMENT REDEMPTION AMOUNT.\nPROPERTY OCCUPANCY UNKNOWN",
+  "extracted": {
+    "block": "26904",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "296 DANFORTH AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "KML LAW GROUP, P.C",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-006562-25",
+    "Defendant": "ABEL CAMILO, ET AL",
+    "Description": "TAX LOT NO. 38 BLOCK 26904\nDIMENSIONS OF LOT: (APPROXIMATELY) 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: FOWLER AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $296,838.36.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGEMENT REDEMPTION AMOUNT.\nPROPERTY OCCUPANCY UNKNOWN",
+    "Good Faith Upset*": "$296,838.36",
+    "Judgment": "$255,089.31",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "DEF USED 1ST 4 WK ADJ. SEE FILE 20060883.",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20063971"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 255089.31,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "296 DANFORTH AVENUE JERSEY CITY NJ 07305",
+    "defendant": "ABEL CAMILO, ET AL",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": "DEF USED 1ST 4 WK ADJ. SEE FILE 20060883.",
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20063971",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    }
+  ],
+  "upset_amount": 296838.36,
+  "upset_amount_label": "Good Faith Upset*"
+}

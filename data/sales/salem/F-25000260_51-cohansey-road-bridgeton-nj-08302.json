@@ -1,0 +1,51 @@
+{
+  "address": "51 Cohansey Road Bridgeton NJ 08302",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-003128-24",
+  "current_status": "Cancelled",
+  "defendant": "Jarvis Robinson, et al.",
+  "description": "Approximate Dimensions: 1AC. Approximate Upset Price: $314,039.50. The upset amount may be subject to further orders of additional sums. Occupancy Status: Occupied by Owner",
+  "extracted": {
+    "occupancy": "Occupied by Owner",
+    "upset_amount": 314039.5
+  },
+  "fields": {
+    "Address": "51 Cohansey Road\nBridgeton NJ 08302",
+    "Court Case #": "F-003128-24",
+    "Defendant": "Jarvis Robinson, et al.",
+    "Description": "Approximate Dimensions: 1AC. Approximate Upset Price: $314,039.50. The upset amount may be subject to further orders of additional sums. Occupancy Status: Occupied by Owner",
+    "Plaintiff": "Deutsche Bank Trust Company Americas, as Trustee for Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2006-QS11",
+    "Sales Date": "02/20/2026 02:00 PM",
+    "Sheriff #": "F-25000260"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "51 Cohansey Road Bridgeton NJ 08302",
+    "defendant": "Jarvis Robinson, et al.",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Trust Company Americas, as Trustee for Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2006-QS11",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Deutsche Bank Trust Company Americas, as Trustee for Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2006-QS11",
+  "sale_date": null,
+  "sheriff_number": "F-25000260",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

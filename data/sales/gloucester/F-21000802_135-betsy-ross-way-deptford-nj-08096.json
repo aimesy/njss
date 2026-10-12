@@ -1,0 +1,95 @@
+{
+  "address": "135 BETSY ROSS WAY DEPTFORD NJ 08096",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-028121-08",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "MARK A. REEDER, ET AL",
+  "description": "The plaintiff's upset bid presently approximates $243,000.00. Occupancy status: Unknown.",
+  "extracted": {
+    "occupancy": "Unknown."
+  },
+  "fields": {
+    "Address": "135 BETSY ROSS WAY\nDEPTFORD NJ 08096",
+    "Approximate Judgment": "$335,662.93",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F-028121-08",
+    "Defendant": "MARK A. REEDER, ET AL",
+    "Description": "The plaintiff's upset bid presently approximates $243,000.00. Occupancy status: Unknown.",
+    "Parcel #": "BLOCK: 5.15 LOT: 9",
+    "Plaintiff": "EMIGRANT RESIDENTIAL, LLC",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "F-21000802"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 335662.93,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "135 BETSY ROSS WAY DEPTFORD NJ 08096",
+    "defendant": "MARK A. REEDER, ET AL",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "EMIGRANT RESIDENTIAL, LLC",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 5.15 LOT: 9",
+  "plaintiff": "EMIGRANT RESIDENTIAL, LLC",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-21000802",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2022-01-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-02-16",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2022-03-16",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2022-04-13",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2022-04-13",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Purchased - 3rd Party - CWPP"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

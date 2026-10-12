@@ -1,0 +1,58 @@
+{
+  "address": "314 64TH STREET WEST NEW YORK NJ 07093",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "SWC-F-013384-25",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "EDWARD AWILOWSKI, HIS HEIRS, DEVISES AND PERSONAL REPRESENTATIVES, AND THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; UNITED STATES OF AMERICA; STATE OF NEW JERSEY",
+  "description": "LOT(S) 21, BLOCK 30\nDIMENSIONS OF LOT (APPROXIMATELY): 25 X 100\nNEAREST CROSS STREET: HUDSON AVENUE\nTHE CURRENT OCCUPANCY STATUS IS OCCUPIED\nTHE PLAINTIFF'S GOOD FAITH ESTIMATE IS $484,076.60",
+  "extracted": {
+    "block": "30"
+  },
+  "fields": {
+    "Address": "314 64TH STREET\nWEST NEW YORK NJ 07093",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "SWC-F-013384-25",
+    "Defendant": "EDWARD AWILOWSKI, HIS HEIRS, DEVISES AND PERSONAL REPRESENTATIVES, AND THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; UNITED STATES OF AMERICA; STATE OF NEW JERSEY",
+    "Description": "LOT(S) 21, BLOCK 30\nDIMENSIONS OF LOT (APPROXIMATELY): 25 X 100\nNEAREST CROSS STREET: HUDSON AVENUE\nTHE CURRENT OCCUPANCY STATUS IS OCCUPIED\nTHE PLAINTIFF'S GOOD FAITH ESTIMATE IS $484,076.60",
+    "Good Faith Upset*": "$484,076.60",
+    "Judgment": "$442,803.55",
+    "Plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20063944"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 442803.55,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "314 64TH STREET WEST NEW YORK NJ 07093",
+    "defendant": "EDWARD AWILOWSKI, HIS HEIRS, DEVISES AND PERSONAL REPRESENTATIVES, AND THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; UNITED STATES OF AMERICA; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20063944",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 484076.6,
+  "upset_amount_label": "Good Faith Upset*"
+}

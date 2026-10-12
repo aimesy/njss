@@ -1,0 +1,64 @@
+{
+  "address": "1066 MORNING GLORY DRIVE MONROE NJ 08831",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00216824",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JAMES H. MORTON, DECEASED",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$61,980.38",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00216824",
+    "Defendant": "JAMES H. MORTON, DECEASED",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT: 65.01 QUAL C1066 BLOCK 1.14",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "1066 MORNING GLORY DRIVE\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25001865"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 61980.38,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1066 MORNING GLORY DRIVE MONROE NJ 08831",
+    "defendant": "JAMES H. MORTON, DECEASED",
+    "listing_status": "Settled",
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT: 65.01 QUAL C1066 BLOCK 1.14",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25001865",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

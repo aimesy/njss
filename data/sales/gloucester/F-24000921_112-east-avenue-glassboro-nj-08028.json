@@ -1,0 +1,71 @@
+{
+  "address": "112 EAST AVENUE GLASSBORO NJ 08028",
+  "attorney": "RAS CITRON, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-013030-23",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "BARBARA L. WOOLFOLK A/K/A BARBARA WOOLFOLK, ET AL",
+  "description": "Estimated upset bid amount: $164,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner",
+  "extracted": {
+    "occupancy": "Owner"
+  },
+  "fields": {
+    "Address": "112 EAST AVENUE\nGLASSBORO NJ 08028",
+    "Approximate Judgment": "$159,178.60",
+    "Attorney": "RAS CITRON, LLC",
+    "Court Case #": "F-013030-23",
+    "Defendant": "BARBARA L. WOOLFOLK A/K/A BARBARA WOOLFOLK, ET AL",
+    "Description": "Estimated upset bid amount: $164,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner",
+    "Parcel #": "BLOCK: 55 LOT: 1.03",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR NEW CENTURY HOME EQUITY LOAN TRUST, SERIES 2005-B, ASSET BACKED PASS-THROUGH CERTIFICATES",
+    "Property Note": "The property to be sold is located in the BOROUGH of GLASSBORO in the County of GLOUCESTER and State of New Jersey.\nCommonly known as 112 EAST AVE., GLASSBORO, NJ 08028\nBLOCK: 55 LOT: 1.03\nDimensions of Lot: .253 AC\nNearest Cross Street: Oak Street\nEstimated upset bid amount: $164,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2025 Qtr 2 Due: 05/01/2025 $1,142.24 OPEN\nWater: Glassboro Boro 1 S Main St Glassboro, NJ 08028 856-881-9230 Acct: 808 0 01/01/2025 - 03/31/2025 $50.00 OPEN $149.00 OPEN\nSewer: Glassboro Boro 1 S Main St Glassboro, NJ 08028 856-881-9230 Acct: 808 0 10/01/2024 - 12/31/2024 $116.00 OPEN PLUS PENALTY $116.00 OPEN",
+    "Sales Date": "6/14/2026",
+    "Sheriff #": "F-24000921"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 159178.6,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "112 EAST AVENUE GLASSBORO NJ 08028",
+    "defendant": "BARBARA L. WOOLFOLK A/K/A BARBARA WOOLFOLK, ET AL",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR NEW CENTURY HOME EQUITY LOAN TRUST, SERIES 2005-B, ASSET BACKED PASS-THROUGH CERTIFICATES",
+    "sale_date": "2026-06-14"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 55 LOT: 1.03",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR NEW CENTURY HOME EQUITY LOAN TRUST, SERIES 2005-B, ASSET BACKED PASS-THROUGH CERTIFICATES",
+  "property_note": "The property to be sold is located in the BOROUGH of GLASSBORO in the County of GLOUCESTER and State of New Jersey.\nCommonly known as 112 EAST AVE., GLASSBORO, NJ 08028\nBLOCK: 55 LOT: 1.03\nDimensions of Lot: .253 AC\nNearest Cross Street: Oak Street\nEstimated upset bid amount: $164,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2025 Qtr 2 Due: 05/01/2025 $1,142.24 OPEN\nWater: Glassboro Boro 1 S Main St Glassboro, NJ 08028 856-881-9230 Acct: 808 0 01/01/2025 - 03/31/2025 $50.00 OPEN $149.00 OPEN\nSewer: Glassboro Boro 1 S Main St Glassboro, NJ 08028 856-881-9230 Acct: 808 0 10/01/2024 - 12/31/2024 $116.00 OPEN PLUS PENALTY $116.00 OPEN",
+  "sale_date": "2026-06-14",
+  "sheriff_number": "F-24000921",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-09-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-10-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-14",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

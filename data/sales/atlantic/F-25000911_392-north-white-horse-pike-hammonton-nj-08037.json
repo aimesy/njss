@@ -1,0 +1,70 @@
+{
+  "address": "392 North White Horse Pike Hammonton NJ 08037",
+  "attorney": "Holland & Knight, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "SWC-F-009769-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "NTG 897 12th Street L.L.C.; NTG 392 White Horse L.L.C.; NGT 6727 Delilah L.L.C.; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "392 North White Horse Pike\nHammonton NJ 08037",
+    "Approx. Judgment*": "$8,850,000.00",
+    "Attorney": "Holland & Knight, LLP",
+    "Court Case #": "SWC-F-009769-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "NTG 897 12th Street L.L.C.; NTG 392 White Horse L.L.C.; NGT 6727 Delilah L.L.C.; State of New Jersey",
+    "Plaintiff": "Wilmington Trust National Association, as Trustee, on Behalf of the Registered Holders of BMO 2022-C2 Mortgage Trust, Commercial Mortgage Pass-Through Certificates, Series 2022-C2, and the Uncertificated VRR Interest Owner, acting by and through Rialto Capital Advisors, LLC, as special servicer pursuant to that certain Pooling and Servicing Agreement, dated as of July 1, 2022",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: 100% OCCUPIED",
+    "Sales Date": "8/20/2026",
+    "Sheriff #": "F-25000911",
+    "Upset Amount": "$3,550,397.75"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 8850000.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "392 North White Horse Pike Hammonton NJ 08037",
+    "defendant": "NTG 897 12th Street ...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Trust Nat...",
+    "sale_date": "2026-08-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Trust National Association, as Trustee, on Behalf of the Registered Holders of BMO 2022-C2 Mortgage Trust, Commercial Mortgage Pass-Through Certificates, Series 2022-C2, and the Uncertificated VRR Interest Owner, acting by and through Rialto Capital Advisors, LLC, as special servicer pursuant to that certain Pooling and Servicing Agreement, dated as of July 1, 2022",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: 100% OCCUPIED",
+  "sale_date": "2026-08-20",
+  "sheriff_number": "F-25000911",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-08-20",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 3550397.75,
+  "upset_amount_label": "Upset Amount"
+}

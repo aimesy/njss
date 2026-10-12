@@ -1,0 +1,53 @@
+{
+  "address": "407 PARIS AVENUE BROOKLAWN BOROUGH NJ 08030",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00720125",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ISAIAH M. WATERMAN, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "407 PARIS AVENUE\nBROOKLAWN BOROUGH NJ 08030",
+    "Approx. Upset*": "$230,350.66",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00720125",
+    "Defendant": "ISAIAH M. WATERMAN, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "FR-25002383"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "407 PARIS AVENUE BROOKLAWN BOROUGH NJ 08030",
+    "defendant": "ISAIAH M. WATERMAN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "FR-25002383",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 230350.66,
+  "upset_amount_label": "Approx. Upset*"
+}

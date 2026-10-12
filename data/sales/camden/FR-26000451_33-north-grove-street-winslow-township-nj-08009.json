@@ -1,0 +1,53 @@
+{
+  "address": "33 NORTH GROVE STREET WINSLOW TOWNSHIP NJ 08009",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00980825",
+  "current_status": "Scheduled",
+  "defendant": "ZACHARY VAN ATTER, AT AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "33 NORTH GROVE STREET\nWINSLOW TOWNSHIP NJ 08009",
+    "Approx. Upset*": "$365,139.25",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00980825",
+    "Defendant": "ZACHARY VAN ATTER, AT AL.",
+    "Parcel #": "",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-26000451"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "33 NORTH GROVE STREET WINSLOW TOWNSHIP NJ 08009",
+    "defendant": "ZACHARY VAN ATTER, AT AL.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-26000451",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 365139.25,
+  "upset_amount_label": "Approx. Upset*"
+}

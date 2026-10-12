@@ -1,0 +1,66 @@
+{
+  "address": null,
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Cumberland County, NJ",
+  "county_id": 6,
+  "court_case_number": "F01732619",
+  "current_status": "Defendant Adjourned to",
+  "deed": null,
+  "deed_address": "Lot 65 FKA 8; Block 7101 FKA 1065.2",
+  "defendant": "JUAN M RODRIGUEZ ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "",
+    "Approx. Judgment*": "$259,806.15",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F01732619",
+    "Deed": "",
+    "Deed Address": "Lot 65 FKA 8; Block 7101 FKA 1065.2",
+    "Defendant": "JUAN M RODRIGUEZ ET AL",
+    "Plaintiff": "MCLP ASSET COMPANY INC",
+    "Priors": "",
+    "Property Note": "",
+    "Sales Date": "8/26/2026",
+    "Sheriff #": "26000659",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 259806.15,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "",
+    "defendant": "JUAN M RODRIGUEZ ET AL",
+    "listing_status": null,
+    "plaintiff": "MCLP ASSET COMPANY INC",
+    "sale_date": "2026-08-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cumberland County, NJ)",
+  "plaintiff": "MCLP ASSET COMPANY INC",
+  "priors": null,
+  "property_note": null,
+  "sale_date": "2026-08-26",
+  "sheriff_number": "26000659",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+  "status_history": [
+    {
+      "date": "2026-07-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Bankruptcy - Sale on Hold"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Cancelled - No Commission"
+    },
+    {
+      "date": "2026-08-26",
+      "status": "Defendant Adjourned to"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

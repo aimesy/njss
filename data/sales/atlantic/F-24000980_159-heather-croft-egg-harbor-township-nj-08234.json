@@ -1,0 +1,66 @@
+{
+  "address": "159 Heather Croft Egg Harbor Township NJ 08234",
+  "attorney": "Gross Polowy, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011270-22",
+  "current_status": "Scheduled",
+  "deed": "YYM785, LLC",
+  "deed_address": "2A Utopian Pl., Airmont, NY 10901",
+  "defendant": "Caterina Fazio and Heather Croft Condominium Association",
+  "extracted": {},
+  "fields": {
+    "Address": "159 Heather Croft\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$170,464.10",
+    "Attorney": "Gross Polowy, LLC",
+    "Court Case #": "F-011270-22",
+    "Deed": "YYM785, LLC",
+    "Deed Address": "2A Utopian Pl., Airmont, NY 10901",
+    "Defendant": "Caterina Fazio and Heather Croft Condominium Association",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24000980",
+    "Upset Amount": "$117,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 170464.1,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "159 Heather Croft Egg Harbor Township NJ 08234",
+    "defendant": "Caterina Fazio and H...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24000980",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 117500.0,
+  "upset_amount_label": "Upset Amount"
+}

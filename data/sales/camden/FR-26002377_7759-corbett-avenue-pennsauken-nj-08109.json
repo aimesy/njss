@@ -1,0 +1,49 @@
+{
+  "address": "7759 CORBETT AVENUE PENNSAUKEN NJ 08109",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01233223",
+  "current_status": "Scheduled",
+  "defendant": "CHRISTOPHER J. GALLOWAY; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "7759 CORBETT AVENUE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$256,452.37",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F01233223",
+    "Defendant": "CHRISTOPHER J. GALLOWAY; ET AL.,",
+    "Parcel #": "TAX LOT: 16 F/K/A 28, IN BLOCK 2802 F/K/A 582",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST,",
+    "Property Note": "Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 — Summit Bank vs. Dennis Thiel (A-58-98).",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002377"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7759 CORBETT AVENUE PENNSAUKEN NJ 08109",
+    "defendant": "CHRISTOPHER J. GALLOWAY; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST,",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 16 F/K/A 28, IN BLOCK 2802 F/K/A 582",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST,",
+  "property_note": "Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 — Summit Bank vs. Dennis Thiel (A-58-98).",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002377",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 256452.37,
+  "upset_amount_label": "Approx. Upset*"
+}

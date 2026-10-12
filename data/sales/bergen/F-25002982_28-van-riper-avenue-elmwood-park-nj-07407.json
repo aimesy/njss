@@ -1,0 +1,68 @@
+{
+  "address": "28 VAN RIPER AVENUE ELMWOOD PARK NJ 07407",
+  "attorney": "PATRICK O LACSINA LAW OFFICES LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00416025",
+  "current_status": "Redeemed",
+  "defendant": "DOMINGA D. LUNA; ANNE A. ARCILA; THOMAS SLAMOVITS; ET AL",
+  "description": "UPSET PRICE: $218,000.00\nOCCUPANCY STATUS: OCCUPIED BY MORTGAGOR'S FAMILY MEMBERS.",
+  "extracted": {
+    "occupancy": "OCCUPIED BY MORTGAGOR'S FAMILY MEMBERS.",
+    "upset_amount": 218000.0
+  },
+  "fields": {
+    "Address": "28 VAN RIPER AVENUE\nELMWOOD PARK NJ 07407",
+    "Approx. Upset*": "$206,629.14",
+    "Attorney": "PATRICK O LACSINA LAW OFFICES LLC",
+    "Court Case #": "F00416025",
+    "Defendant": "DOMINGA D. LUNA; ANNE A. ARCILA; THOMAS SLAMOVITS; ET AL",
+    "Description": "UPSET PRICE: $218,000.00\nOCCUPANCY STATUS: OCCUPIED BY MORTGAGOR'S FAMILY MEMBERS.",
+    "Parcel #": "LOT 4, BLOCK 1016",
+    "Plaintiff": "FTS CAPITAL, LLC",
+    "Property Note": "",
+    "Sales Date": "5/4/2026",
+    "Sheriff #": "F-25002982"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "28 VAN RIPER AVENUE ELMWOOD PARK NJ 07407",
+    "defendant": "DOMINGA D. LUNA; ANNE A. ARCILA; THOMAS SLAMOVITS; ET AL",
+    "listing_status": null,
+    "plaintiff": "FTS CAPITAL, LLC",
+    "sale_date": "2026-05-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 4, BLOCK 1016",
+  "plaintiff": "FTS CAPITAL, LLC",
+  "property_note": null,
+  "sale_date": "2026-05-04",
+  "sheriff_number": "F-25002982",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 206629.14,
+  "upset_amount_label": "Approx. Upset*"
+}

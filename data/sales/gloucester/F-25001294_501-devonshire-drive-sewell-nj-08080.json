@@ -1,0 +1,60 @@
+{
+  "address": "501 DEVONSHIRE DRIVE SEWELL NJ 08080",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-013323-22",
+  "current_status": "Defendant Adjourned to",
+  "defendant": "SHAWN MILLIGAN, ET AL.",
+  "description": "ESTIMATED UPSET PRICE: $260,964.19\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 260964.19
+  },
+  "fields": {
+    "Address": "501 DEVONSHIRE DRIVE\nSEWELL NJ 08080",
+    "Approximate Judgment": "$215,729.01",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-013323-22",
+    "Defendant": "SHAWN MILLIGAN, ET AL.",
+    "Description": "ESTIMATED UPSET PRICE: $260,964.19\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT: 8 BLOCK: 232",
+    "Plaintiff": "TRUMAN 2021 SC9 TITLE TRUST",
+    "Property Note": "TOWNSHIP OF MANTUA\nCOUNTY OF GLOUCESTER\n501 DEVONSHIRE DRIVE SEWELL, NJ 08080\nLOT: 8 BLOCK: 232\nAPPROXIMATE DIMENSIONS: 83.00 X 108.00 X 103.00 X 88.00 X 31.42\nNEAREST CROSS STREET: KINGSLEY ROAD\nESTIMATED UPSET PRICE: $260,964.19\nOCCUPANCY STATUS: OWNER OCCUPIED\nTAX CERTIFICATE\nRECORDED: JULY 07, 1992\nHOLDER: CORNERSTONE GROUP INC.\nAMOUNT: $305.95\nBOOK: 2128 PAGE: 231 CERT. NO: 1678\nTAX CERTIFICATE\nRECORDED: FEBRUARY 07, 2025\nHOLDER: PRO CAP 8 FBO FIRSTRUST BANK\nAMOUNT: $845.10\nBOOK: 18666 PAGE: 106 CERT. NO: 23-00029\nJUDGMENT\nDATE ENTERED: FEBRUARY 22, 2013\nCOUNTY: SALEM\nJUDGMENT NUMBER: J-037326-2013\nJUDGMENT HOLDER: MEMORIAL HOSPITAL OF SALEM COUNTY\nAMOUNT: $21,937.00",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "F-25001294"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 215729.01,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "501 DEVONSHIRE DRIVE SEWELL NJ 08080",
+    "defendant": "SHAWN MILLIGAN, ET AL.",
+    "listing_status": "Defendant Adjourned to",
+    "plaintiff": "TRUMAN 2021 SC9 TITLE TRUST",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": "Defendant Adjourned to",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 8 BLOCK: 232",
+  "plaintiff": "TRUMAN 2021 SC9 TITLE TRUST",
+  "property_note": "TOWNSHIP OF MANTUA\nCOUNTY OF GLOUCESTER\n501 DEVONSHIRE DRIVE SEWELL, NJ 08080\nLOT: 8 BLOCK: 232\nAPPROXIMATE DIMENSIONS: 83.00 X 108.00 X 103.00 X 88.00 X 31.42\nNEAREST CROSS STREET: KINGSLEY ROAD\nESTIMATED UPSET PRICE: $260,964.19\nOCCUPANCY STATUS: OWNER OCCUPIED\nTAX CERTIFICATE\nRECORDED: JULY 07, 1992\nHOLDER: CORNERSTONE GROUP INC.\nAMOUNT: $305.95\nBOOK: 2128 PAGE: 231 CERT. NO: 1678\nTAX CERTIFICATE\nRECORDED: FEBRUARY 07, 2025\nHOLDER: PRO CAP 8 FBO FIRSTRUST BANK\nAMOUNT: $845.10\nBOOK: 18666 PAGE: 106 CERT. NO: 23-00029\nJUDGMENT\nDATE ENTERED: FEBRUARY 22, 2013\nCOUNTY: SALEM\nJUDGMENT NUMBER: J-037326-2013\nJUDGMENT HOLDER: MEMORIAL HOSPITAL OF SALEM COUNTY\nAMOUNT: $21,937.00",
+  "sale_date": "2026-03-04",
+  "sheriff_number": "F-25001294",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Settled - Foreclosures"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjourned to"
+    }
+  ]
+}

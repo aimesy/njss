@@ -1,0 +1,93 @@
+{
+  "address": "250 JEFFERSON AVENUE WEST BERLIN NJ 08091",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973)-575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F02387318",
+  "current_status": "Scheduled",
+  "defendant": "ALFREDO A. HERRERA A/K/A A. HERRERA A/K/A A. A. HERRERA A/K/A AL HERRERA A/K/A ALFREDO HERRERA; DINORA D. HERRERA A/K/A D. HERRERA A/K/A D. D. HERRERA A/K/A DINORA HERRERA,",
+  "extracted": {},
+  "fields": {
+    "Address": "250 JEFFERSON AVENUE\nWEST BERLIN NJ 08091",
+    "Approx. Upset*": "$291,246.93",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973)-575-0707",
+    "Court Case #": "F02387318",
+    "Defendant": "ALFREDO A. HERRERA A/K/A A. HERRERA A/K/A A. A. HERRERA A/K/A AL HERRERA A/K/A\nALFREDO HERRERA; DINORA D. HERRERA A/K/A D. HERRERA A/K/A D. D. HERRERA A/K/A\nDINORA HERRERA,",
+    "Parcel #": "TAX LOT 15.01 BLOCK 602",
+    "Plaintiff": "SELENE FINANCE LP,",
+    "Property Note": "2026 Qtr 4 Due: 11/01/2026 $2,155.27 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,076.46 OPEN\n2027 Qtr 2 Due: 05/01/2027 $2,076.46 OPEN\nSewer: Berlin Twp. 135 Route 73 south West Berlin,NJ 08091 856-767-1854 Acct: 60201501 0 10/01/2026 - 12/31/2026$81.25 OPEN\nWater: Berlin Boro 59 S. White Horse Pike Berlin,NJ 08009 856-767-7777 Acct: 43660 0 To: 08/17/2026 $332.20 OPEN",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-20000047"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "250 JEFFERSON AVENUE WEST BERLIN NJ 08091",
+    "defendant": "ALFREDO A. HERRERA A/K/A A. HERRERA A/K/A A. A. HERRERA A/K/A AL HERRERA A/K/A \nALFREDO HERRERA; DINORA D. HERRERA A/K/A D. HERRERA A/K/A D. D. HERRERA A/K/A \nDINORA HERRERA,",
+    "listing_status": null,
+    "plaintiff": "SELENE FINANCE LP,",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 15.01 BLOCK 602",
+  "plaintiff": "SELENE FINANCE LP,",
+  "property_note": "2026 Qtr 4 Due: 11/01/2026 $2,155.27 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,076.46 OPEN\n2027 Qtr 2 Due: 05/01/2027 $2,076.46 OPEN\nSewer: Berlin Twp. 135 Route 73 south West Berlin,NJ 08091 856-767-1854 Acct: 60201501 0 10/01/2026 - 12/31/2026$81.25 OPEN\nWater: Berlin Boro 59 S. White Horse Pike Berlin,NJ 08009 856-767-7777 Acct: 43660 0 To: 08/17/2026 $332.20 OPEN",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-20000047",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2020-02-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2020-03-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-03-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-04-13",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-01-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-05-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-11-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-15",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-05-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 291246.93,
+  "upset_amount_label": "Approx. Upset*"
+}

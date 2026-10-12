@@ -1,0 +1,82 @@
+{
+  "address": "6618 Reega Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005954-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Kevin Heuman; Mrs. Kevin Heuman, His Wife; Maria Heuman; Mr. Heuman, Husband of Maria Heuman; Midland Funding, LLC; LVNV Funding LLC; Successor In Interest to Credit One Bank NA; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "6618 Reega Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$247,263.58",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-005954-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Kevin Heuman; Mrs. Kevin Heuman, His Wife; Maria Heuman; Mr. Heuman, Husband of Maria Heuman; Midland Funding, LLC; LVNV Funding LLC; Successor In Interest to Credit One Bank NA; State of New Jersey; United States of America",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "8/27/2026",
+    "Sheriff #": "F-26000023",
+    "Upset Amount": "$269,185.19"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 247263.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6618 Reega Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Kevin Heuman; Mrs. K...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, N....",
+    "sale_date": "2026-08-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-08-27",
+  "sheriff_number": "F-26000023",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-08-27",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "Consensual/Mutual Adjournment"
+    },
+    {
+      "date": "2026-07-23",
+      "status": "Consensual/Mutual Adjournment"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-05-28",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 269185.19,
+  "upset_amount_label": "Upset Amount"
+}

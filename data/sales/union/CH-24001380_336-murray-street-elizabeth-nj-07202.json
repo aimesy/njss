@@ -1,0 +1,76 @@
+{
+  "address": "336 MURRAY STREET ELIZABETH NJ 07202",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F385621",
+  "current_status": "Cancelled",
+  "defendant": "SALINA KHAN; MOHEUDDIN AHMED; ONEWEST BANK, F.S.B; UNITED STATES OF AMERICA; ALIMA KHATUN; JUAN PEREZ; JULIANA RIVERA; TERESA PEREZ; DISCOVER BANK",
+  "description": "LOT 964 BLOCK 13",
+  "extracted": {
+    "block": "13",
+    "lot": "964"
+  },
+  "fields": {
+    "Address": "336 MURRAY STREET\nELIZABETH NJ 07202",
+    "Approx. Upset*": "$588,250.56",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Court Case #": "F385621",
+    "Defendant": "SALINA KHAN; MOHEUDDIN AHMED; ONEWEST BANK, F.S.B; UNITED STATES OF AMERICA; ALIMA KHATUN; JUAN PEREZ; JULIANA RIVERA; TERESA PEREZ; DISCOVER BANK",
+    "Description": "LOT 964 BLOCK 13",
+    "Parcel #": "LOT 964 BLOCK 13",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2018-4",
+    "Property Note": "",
+    "Sales Date": "3/9/2026",
+    "Sheriff #": "CH-24001380"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "336 MURRAY STREET ELIZABETH NJ 07202",
+    "defendant": "SALINA KHAN; MOHEUDDIN AHMED; ONEWEST BANK, F.S.B; UNITED STATES OF AMERICA; ALIMA KHATUN; JUAN PEREZ; JULIANA RIVERA; TERESA PEREZ; DISCOVER BANK",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2018-4",
+    "sale_date": "2026-03-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 964 BLOCK 13",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2018-4",
+  "property_note": null,
+  "sale_date": "2026-03-09",
+  "sheriff_number": "CH-24001380",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-07-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-08-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-09-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-09-04",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-03-09",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 588250.56,
+  "upset_amount_label": "Approx. Upset*"
+}

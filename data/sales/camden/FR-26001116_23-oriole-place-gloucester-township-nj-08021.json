@@ -1,0 +1,57 @@
+{
+  "address": "23 ORIOLE PLACE GLOUCESTER TOWNSHIP NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00845824",
+  "current_status": "Cancelled",
+  "defendant": "BETTY J. DIXON A/K/A BETTY DIXON; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "23 ORIOLE PLACE\nGLOUCESTER TOWNSHIP NJ 08021",
+    "Approx. Upset*": "$157,078.20",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00845824",
+    "Defendant": "BETTY J. DIXON A/K/A BETTY DIXON; UNITED STATES OF AMERICA,",
+    "Parcel #": "TAX LOT 12 BLOCK 13602",
+    "Plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+    "Property Note": "2025 TAXES: $5,367.90 BILLED; $2,634.59 PAID; INCLUDED IN BELOW LIEN:$2,733.31\n2026 QTR 1 DUE:02/01/2026 $1,341.98 PAID\n2026 QTR DUE:05/01/2026 $1,341.97 OPEN\nOTHER:PROPERTY REGISTRATION FEE EXISTS. PLEASE CONTACT HERA PROPERTY REGISTRY (321)234-5030 FOR DETAILS\nLIENS: YEAR: 2025 TYPE:3RD PARTY TAX AMOUNT $4,428.29\nCERT NO.: 25-05353 SOLD: 12/30/2025 TO:RTLF-NJ IIB, LLC\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAX ES + INTEREST. MUST CALL PRIOR TO SETTLEMET FOR REDEMPTION FIGURES\nTHE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-26001116"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "23 ORIOLE PLACE GLOUCESTER TOWNSHIP NJ 08021",
+    "defendant": "BETTY J. DIXON A/K/A BETTY DIXON; UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 12 BLOCK 13602",
+  "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+  "property_note": "2025 TAXES: $5,367.90 BILLED; $2,634.59 PAID; INCLUDED IN BELOW LIEN:$2,733.31\n2026 QTR 1 DUE:02/01/2026 $1,341.98 PAID\n2026 QTR DUE:05/01/2026 $1,341.97 OPEN\nOTHER:PROPERTY REGISTRATION FEE EXISTS. PLEASE CONTACT HERA PROPERTY REGISTRY (321)234-5030 FOR DETAILS\nLIENS: YEAR: 2025 TYPE:3RD PARTY TAX AMOUNT $4,428.29\nCERT NO.: 25-05353 SOLD: 12/30/2025 TO:RTLF-NJ IIB, LLC\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAX ES + INTEREST. MUST CALL PRIOR TO SETTLEMET FOR REDEMPTION FIGURES\nTHE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-26001116",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 157078.2,
+  "upset_amount_label": "Approx. Upset*"
+}

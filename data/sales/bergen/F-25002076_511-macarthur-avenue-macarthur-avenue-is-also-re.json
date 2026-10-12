@@ -1,0 +1,64 @@
+{
+  "address": "511 MACARTHUR AVENUE MACARTHUR AVENUE IS ALSO REFERRED TO AS MAC ARTHUR AVENUE GARFIELD NJ 07026",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01069124",
+  "current_status": "Cancelled",
+  "defendant": "MANINDER SINGH; MANJIT KAUR M SINGH; ET AL",
+  "description": "UPSET PRICE: APPROXIMATELY: $474,337.38 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN",
+    "upset_amount": 474337.38
+  },
+  "fields": {
+    "Address": "511 MACARTHUR AVENUE\nMACARTHUR AVENUE IS ALSO REFERRED TO AS MAC ARTHUR AVENUE\nGARFIELD NJ 07026",
+    "Approx. Upset*": "$438,731.31",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+    "Court Case #": "F01069124",
+    "Defendant": "MANINDER SINGH; MANJIT KAUR M SINGH; ET AL",
+    "Description": "UPSET PRICE: APPROXIMATELY: $474,337.38 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 49, BLOCK 216.04",
+    "Plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "Property Note": "",
+    "Sales Date": "3/3/2026",
+    "Sheriff #": "F-25002076"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "511 MACARTHUR AVENUE MACARTHUR AVENUE IS ALSO REFERRED TO AS MAC ARTHUR AVENUE GARFIELD NJ 07026",
+    "defendant": "MANINDER SINGH; MANJIT KAUR M SINGH; ET AL",
+    "listing_status": null,
+    "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "sale_date": "2026-03-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 49, BLOCK 216.04",
+  "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-03",
+  "sheriff_number": "F-25002076",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 438731.31,
+  "upset_amount_label": "Approx. Upset*"
+}

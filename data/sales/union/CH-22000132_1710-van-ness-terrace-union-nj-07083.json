@@ -1,0 +1,64 @@
+{
+  "address": "1710 VAN NESS TERRACE UNION NJ 07083",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00241916",
+  "current_status": "Cancelled",
+  "defendant": "JEAN D. LOUIS; MARIE J. BAPTISTE; UNITED STATES OF AMERICA",
+  "description": "LOT 46 BLOCK 5515",
+  "extracted": {
+    "block": "5515",
+    "lot": "46"
+  },
+  "fields": {
+    "Address": "1710 VAN NESS TERRACE\nUNION NJ 07083",
+    "Approx. Upset*": "$513,129.53",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Court Case #": "F00241916",
+    "Defendant": "JEAN D. LOUIS; MARIE J. BAPTISTE; UNITED STATES OF AMERICA",
+    "Description": "LOT 46 BLOCK 5515",
+    "Parcel #": "LOT 46 BLOCK 5515",
+    "Plaintiff": "CITIBANK, NA AS TRUSTEE FOR WAMU SERIES 2007-HE2 TRUST",
+    "Property Note": "",
+    "Sales Date": "6/16/2026",
+    "Sheriff #": "CH-22000132"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1710 VAN NESS TERRACE UNION NJ 07083",
+    "defendant": "JEAN D. LOUIS; MARIE J. BAPTISTE; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "CITIBANK, NA AS TRUSTEE FOR WAMU SERIES 2007-HE2 TRUST",
+    "sale_date": "2026-06-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 46 BLOCK 5515",
+  "plaintiff": "CITIBANK, NA AS TRUSTEE FOR WAMU SERIES 2007-HE2 TRUST",
+  "property_note": null,
+  "sale_date": "2026-06-16",
+  "sheriff_number": "CH-22000132",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2022-03-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-04-27",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2022-04-27",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-06-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 513129.53,
+  "upset_amount_label": "Approx. Upset*"
+}

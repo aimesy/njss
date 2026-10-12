@@ -1,0 +1,62 @@
+{
+  "address": "1325 North Ohio Avenue Atlantic City NJ 08401",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001441-22 CORRECTIVE",
+  "current_status": "Scheduled",
+  "deed": "Random Properties Acquistion Corp., III",
+  "deed_address": "C/O PHH Mortgage - Reverse, 1 Mortgage Way, Mount Laurel, NJ 08054",
+  "defendant": "Nathaniel Truitt, Heir and Executor For The Estate Of Lois C Shepperson, Deceased; Mrs. Truitt, Wife Of Nathaniel Truitt; Lois C. Shepperson, Her Heirs, Devisees And Personal Representatives, And Her, Their Or any Of Their Successors In Right, Title And Interest; Larry Truitt AKA Lawrence Truitt; Mrs. Truitt, Wife Of Larry Truitt AKA Lawrence Truitt; Hilda Shepperson-Turner AKA Teena Shepperson; Kathy A. Shepperson; Mr. Shepperson, Husband Of Kathy A. Shepperson; United States of America; State Of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "1325 North Ohio Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$344,964.83",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "F-001441-22 CORRECTIVE",
+    "Deed": "Random Properties Acquistion Corp., III",
+    "Deed Address": "C/O PHH Mortgage - Reverse, 1 Mortgage Way, Mount Laurel, NJ 08054",
+    "Defendant": "Nathaniel Truitt, Heir and Executor For The Estate Of Lois C Shepperson, Deceased; Mrs. Truitt, Wife Of Nathaniel Truitt; Lois C. Shepperson, Her Heirs, Devisees And Personal Representatives, And Her, Their Or any Of Their Successors In Right, Title And Interest; Larry Truitt AKA Lawrence Truitt; Mrs. Truitt, Wife Of Larry Truitt AKA Lawrence Truitt; Hilda Shepperson-Turner AKA Teena Shepperson; Kathy A. Shepperson; Mr. Shepperson, Husband Of Kathy A. Shepperson; United States of America; State Of New Jersey",
+    "Plaintiff": "Bank Of New York Mellon Trust Company, N.A. As Trustee For Mortgage Assets management Series I Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "10/31/2024",
+    "Sheriff #": "F-24001104",
+    "Upset Amount": "$266,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 344964.83,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1325 North Ohio Avenue Atlantic City NJ 08401",
+    "defendant": "Nathaniel Truitt, He...",
+    "listing_status": null,
+    "plaintiff": "Bank Of New York Mel...",
+    "sale_date": "2024-10-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank Of New York Mellon Trust Company, N.A. As Trustee For Mortgage Assets management Series I Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2024-10-31",
+  "sheriff_number": "F-24001104",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-10-31",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 266000.0,
+  "upset_amount_label": "Upset Amount"
+}

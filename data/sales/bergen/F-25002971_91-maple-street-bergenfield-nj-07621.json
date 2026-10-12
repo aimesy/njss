@@ -1,0 +1,56 @@
+{
+  "address": "91 MAPLE STREET BERGENFIELD NJ 07621",
+  "attorney": "STERN AND EISENBERG PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00563720",
+  "current_status": "BANKRUPTCY",
+  "defendant": "ROBERT VEGA; SHARON VEGA A/K/A SHARON L. VEGA; ET AL",
+  "description": "UPSET PRICE: $585,115.97, GOOD THROUGH APRIL 12, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+  "extracted": {
+    "occupancy": "OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "upset_amount": 585115.97
+  },
+  "fields": {
+    "Address": "91 MAPLE STREET\nBERGENFIELD NJ 07621",
+    "Approx. Upset*": "$464,766.32",
+    "Attorney": "STERN AND EISENBERG PC",
+    "Court Case #": "F00563720",
+    "Defendant": "ROBERT VEGA; SHARON VEGA A/K/A SHARON L. VEGA; ET AL",
+    "Description": "UPSET PRICE: $585,115.97, GOOD THROUGH APRIL 12, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 8, BLOCK 39",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES INABS 2007- B, HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES INABS 2007-B",
+    "Property Note": "",
+    "Sales Date": "4/8/2026",
+    "Sheriff #": "F-25002971"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "91 MAPLE STREET BERGENFIELD NJ 07621",
+    "defendant": "ROBERT VEGA; SHARON VEGA A/K/A SHARON L. VEGA; ET AL",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES INABS 2007- B, HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES INABS 2007-B",
+    "sale_date": "2026-04-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 8, BLOCK 39",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES INABS 2007- B, HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES INABS 2007-B",
+  "property_note": null,
+  "sale_date": "2026-04-08",
+  "sheriff_number": "F-25002971",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 464766.32,
+  "upset_amount_label": "Approx. Upset*"
+}

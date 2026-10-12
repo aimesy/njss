@@ -1,0 +1,58 @@
+{
+  "address": "6466 Dehirsch Avenue Mizpah NJ 08342",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007525-24",
+  "current_status": "Scheduled",
+  "deed": "Planet Home Lending LLC",
+  "deed_address": "321 Research Parkway, Suite 303, Meriden, Connecticut 06450",
+  "defendant": "Casey K. Moore A/K/A Casey Moore; Samantha Irene Parks",
+  "extracted": {},
+  "fields": {
+    "Address": "6466 Dehirsch Avenue\nMizpah NJ 08342",
+    "Approx. Judgment*": "$210,848.73",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-007525-24",
+    "Deed": "Planet Home Lending LLC",
+    "Deed Address": "321 Research Parkway, Suite 303, Meriden, Connecticut 06450",
+    "Defendant": "Casey K. Moore A/K/A Casey Moore; Samantha Irene Parks",
+    "Plaintiff": "Planet Home Lending, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "1/16/2025",
+    "Sheriff #": "F-24001507",
+    "Upset Amount": "$232,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 210848.73,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6466 Dehirsch Avenue Mizpah NJ 08342",
+    "defendant": "Casey K. Moore A/K/A...",
+    "listing_status": null,
+    "plaintiff": "Planet Home Lending,...",
+    "sale_date": "2025-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Planet Home Lending, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-01-16",
+  "sheriff_number": "F-24001507",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-16",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 232000.0,
+  "upset_amount_label": "Upset Amount"
+}

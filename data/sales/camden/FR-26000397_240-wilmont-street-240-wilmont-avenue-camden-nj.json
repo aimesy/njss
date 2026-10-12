@@ -1,0 +1,53 @@
+{
+  "address": "240 WILMONT STREET 240 WILMONT AVENUE, CAMDEN, NJ 08105 CAMDEN NJ 08105",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00836025",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "CHARLES LEE BROACH, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "240 WILMONT STREET\n240 WILMONT AVENUE, CAMDEN, NJ 08105\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$237,516.73",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00836025",
+    "Defendant": "CHARLES LEE BROACH, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "FR-26000397"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "240 WILMONT STREET 240 WILMONT AVENUE, CAMDEN, NJ 08105 CAMDEN NJ 08105",
+    "defendant": "CHARLES LEE BROACH, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "FR-26000397",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 237516.73,
+  "upset_amount_label": "Approx. Upset*"
+}

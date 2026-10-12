@@ -1,0 +1,49 @@
+{
+  "address": "1 PLYMOUTH DRIVE CHERRY HILL NJ 08034",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00448226",
+  "current_status": "Scheduled",
+  "defendant": "PATRICIA M. DONOVAN, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "1 PLYMOUTH DRIVE\nCHERRY HILL NJ 08034",
+    "Approx. Upset*": "$311,917.02",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00448226",
+    "Defendant": "PATRICIA M. DONOVAN, ET AL",
+    "Parcel #": "Tax Lot No. 1 Block 433.17",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002214"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1 PLYMOUTH DRIVE CHERRY HILL NJ 08034",
+    "defendant": "PATRICIA M. DONOVAN, ET AL",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot No. 1 Block 433.17",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002214",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 311917.02,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "945 LINCOLN BOULEVARD MIDDLESEX NJ 08846",
+  "attorney": "KML LAW GROUP P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00872519",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ALAKH SINGH AKA ALAKH N. SINGH",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$837,549.66",
+    "Attorney": "KML LAW GROUP P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00872519",
+    "Defendant": "ALAKH SINGH AKA ALAKH N. SINGH",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 6 BLOCK 248",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR Rcf2 ACQUISITION TRUST",
+    "Property Address": "945 LINCOLN BOULEVARD\nMIDDLESEX NJ 08846",
+    "Property Note": "",
+    "Sale Date": "10/29/2025",
+    "Sheriff #": "F-25001684"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 837549.66,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "945 LINCOLN BOULEVARD MIDDLESEX NJ 08846",
+    "defendant": "ALAKH SINGH AKA ALAKH N. SINGH",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR Rcf2 ACQUISITION TRUST",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 6 BLOCK 248",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR Rcf2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25001684",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

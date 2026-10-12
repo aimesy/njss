@@ -1,0 +1,64 @@
+{
+  "address": "5 ROBERT CIRCLE SAYREVILLE NJ 08879",
+  "attorney": "STERN & EISENBERG P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "609 397-9200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00159925",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "THERESA SCHACK AKA THERESA A. SCHACK, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$281,613.21",
+    "Attorney": "STERN & EISENBERG P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "609 397-9200",
+    "Court Case #": "F00159925",
+    "Defendant": "THERESA SCHACK AKA THERESA A. SCHACK, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 15 BLOCK 292.01",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES SPMD 2004-A, HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES SPMD 2004-A",
+    "Property Address": "5 ROBERT CIRCLE\nSAYREVILLE NJ 08879",
+    "Property Note": "",
+    "Sale Date": "2/11/2026",
+    "Sheriff #": "F-25002584"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 281613.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 ROBERT CIRCLE SAYREVILLE NJ 08879",
+    "defendant": "THERESA SCHACK AKA THERESA A. SCHACK, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES SPMD 2004-A, HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES SPMD 2004-A",
+    "sale_date": "2026-02-11"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 15 BLOCK 292.01",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES SPMD 2004-A, HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES SPMD 2004-A",
+  "property_note": null,
+  "sale_date": "2026-02-11",
+  "sheriff_number": "F-25002584",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-02-11",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

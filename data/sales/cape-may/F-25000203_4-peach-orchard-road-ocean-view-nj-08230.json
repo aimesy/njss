@@ -1,0 +1,76 @@
+{
+  "address": "4 PEACH ORCHARD Road Ocean View NJ 08230",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-575-0707",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-002337-25",
+  "current_status": "Scheduled",
+  "defendant": "JACQUELINE L. TODD",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$191,493.97",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-002337-25",
+    "Defendant": "JACQUELINE L. TODD",
+    "Description": "",
+    "Minimum Bid": "$216,000.00",
+    "Parcel #": "TAX LOT 370 BLOCK 453.10",
+    "Plaintiff": "**CANCELLED**NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "4 PEACH ORCHARD Road\nOcean View NJ 08230",
+    "Property Note": "",
+    "Sale Date": "1/7/2026",
+    "Sheriff #": "F-25000203"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 191493.97,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4 PEACH ORCHARD Road Ocean View NJ 08230",
+    "defendant": "JACQUELINE L. TODD",
+    "listing_status": null,
+    "plaintiff": "**CANCELLED**NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "TAX LOT 370 BLOCK 453.10",
+  "plaintiff": "**CANCELLED**NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25000203",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 216000.0,
+  "upset_amount_label": "Minimum Bid"
+}

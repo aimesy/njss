@@ -1,0 +1,64 @@
+{
+  "address": "1639 WEST 4TH STREET PISCATAWAY NJ 08854",
+  "attorney": null,
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00095525",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JOGINDER PAL, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$202,136.09",
+    "Attorney": "",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00095525",
+    "Defendant": "JOGINDER PAL, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 15.01 FKA LOTS 15, 16 BLOCK 107 FKA 21",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Address": "1639 WEST 4TH STREET\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "1/21/2026",
+    "Sheriff #": "F-25002423"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 202136.09,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1639 WEST 4TH STREET PISCATAWAY NJ 08854",
+    "defendant": "JOGINDER PAL, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 15.01 FKA LOTS 15, 16 BLOCK 107 FKA 21",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "F-25002423",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

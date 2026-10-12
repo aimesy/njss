@@ -1,0 +1,59 @@
+{
+  "address": "57 HAMILTON Avenue Passaic NJ 07055",
+  "attorney": "LOGS LEGAL GROUP, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 007904 22 CTL #163096",
+  "current_status": "Cancelled",
+  "defendant": "ALBERT LEWIS AND MRS. ALBERT LEWIS, HIS WIFE, ET AL.",
+  "description": "Dimensions of the Lot are (approximately) 61.68 x 66.47 x 68.00 x 60.00\nNearest Cross Street: Madison Street\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/ homeowner association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe occupancy status of the subject property is unknown.\nThe approximate upset sum is $160,301.15 calculated through November 10, 2025 plus any additional advance, interest, Sheriffs cost and commission to the date of sale.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "57 HAMILTON Avenue\nPassaic NJ 07055",
+    "Approx. Upset*": "$156,878.55",
+    "Attorney": "LOGS LEGAL GROUP, LLC",
+    "Court Case #": "F 007904 22 CTL #163096",
+    "Defendant": "ALBERT LEWIS AND MRS. ALBERT LEWIS, HIS WIFE, ET AL.",
+    "Description": "Dimensions of the Lot are (approximately) 61.68 x 66.47 x 68.00 x 60.00\nNearest Cross Street: Madison Street\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/ homeowner association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe occupancy status of the subject property is unknown.\nThe approximate upset sum is $160,301.15 calculated through November 10, 2025 plus any additional advance, interest, Sheriffs cost and commission to the date of sale.",
+    "Parcel #": "Tax Lot 1 Block 4129 f/k/a Lot 5 Block 75",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR IN INTEREST TO JP MORGAN CHASE BANK, N.A. AS TRUSTEE FOR CENTEX HOME EQUITY LOAN TRUST 2006-A",
+    "Property Note": "",
+    "Sales Date": "4/24/2026",
+    "Sheriff #": "F-25001800"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "57 HAMILTON Avenue Passaic NJ 07055",
+    "defendant": "ALBERT LEWIS AND MRS. ALBERT LEWIS, HIS WIFE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR IN INTEREST TO JP MORGAN CHASE BANK, N.A. AS TRUSTEE FOR CENTEX HOME EQUITY LOAN TRUST 2006-A",
+    "sale_date": "2026-04-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 1 Block 4129 f/k/a Lot 5 Block 75",
+  "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR IN INTEREST TO JP MORGAN CHASE BANK, N.A. AS TRUSTEE FOR CENTEX HOME EQUITY LOAN TRUST 2006-A",
+  "property_note": null,
+  "sale_date": "2026-04-24",
+  "sheriff_number": "F-25001800",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-03-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 156878.55,
+  "upset_amount_label": "Approx. Upset*"
+}

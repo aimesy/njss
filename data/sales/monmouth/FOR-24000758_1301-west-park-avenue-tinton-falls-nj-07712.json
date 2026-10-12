@@ -1,0 +1,64 @@
+{
+  "address": "1301 West Park Avenue Tinton Falls NJ 07712",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00016723",
+  "current_status": "Scheduled",
+  "defendant": "North Atlantic Transaction LLC et al.",
+  "description": "Dimensions of Lot Approximately: 1.10 Acres\nNearest Cross Street: Wayside Road\nBeginning at a point in the Northerly line of West Park Avenue distant Westerly 226.76 feet from the point of intersection of the said Northerly line of West Park Avenue and the Westerly line of Wayside Road which said point is also at the Southwest corner of Lot No.2 on a Map entitled Map of Property owned by Walwin Corporation Shrewsbury Township at Wayside, New Jersey, J.W. Seaman & Sons Civil Engineers, Long Branch, New Jersey, December 20, 1947, Scale 1 inch equals 30 feet, filed in the Monmouth County Clerks office September 21, 1948 and running thence\nPRIOR LIENS/ENCUMBRANCES\nSEWER OPEN PLUS PENALTY $199.66\nTOTAL AS OF ARRIL 9, 2024: $199.66\nGOOD FAITH ESTIMATE OF UPSET PRICE: $892,331.78 G/T 07/08/2024\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+  "extracted": {
+    "lot": "Approximately",
+    "upset_amount": 892331.78
+  },
+  "fields": {
+    "Address": "1301 West Park Avenue\nTinton Falls NJ 07712",
+    "Approx. Judgment*": "$792,427.96",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F00016723",
+    "Defendant": "North Atlantic Transaction LLC et al.",
+    "Description": "Dimensions of Lot Approximately: 1.10 Acres\nNearest Cross Street: Wayside Road\nBeginning at a point in the Northerly line of West Park Avenue distant Westerly 226.76 feet from the point of intersection of the said Northerly line of West Park Avenue and the Westerly line of Wayside Road which said point is also at the Southwest corner of Lot No.2 on a Map entitled Map of Property owned by Walwin Corporation Shrewsbury Township at Wayside, New Jersey, J.W. Seaman & Sons Civil Engineers, Long Branch, New Jersey, December 20, 1947, Scale 1 inch equals 30 feet, filed in the Monmouth County Clerks office September 21, 1948 and running thence\nPRIOR LIENS/ENCUMBRANCES\nSEWER OPEN PLUS PENALTY $199.66\nTOTAL AS OF ARRIL 9, 2024: $199.66\nGOOD FAITH ESTIMATE OF UPSET PRICE: $892,331.78 G/T 07/08/2024\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+    "Parcel #": "Tax Lot No. 1 in Block No. 118.02 in the Borough of Tinton Falls",
+    "Plaintiff": "Community Loan Servicing, LLC",
+    "Property Note": "",
+    "Sales Date": "10/21/2024",
+    "Sheriff #": "FOR-24000758"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 792427.96,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1301 West Park Avenue Tinton Falls NJ 07712",
+    "defendant": "North Atlantic Transaction LLC et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Community Loan Servicing, LLC",
+    "sale_date": "2024-10-21"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 1 in Block No. 118.02 in the Borough of Tinton Falls",
+  "plaintiff": "Community Loan Servicing, LLC",
+  "property_note": null,
+  "sale_date": "2024-10-21",
+  "sheriff_number": "FOR-24000758",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-10-21",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Scheduled"
+    }
+  ]
+}

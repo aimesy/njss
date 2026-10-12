@@ -1,0 +1,61 @@
+{
+  "address": "221 POWELTON AVENUE WOODLYNNE NJ 08107",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00005725",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MARIO B. BUNDALIAN; REBECCA R. BUNDALIAN; AFS ASSIGNEE OF HOUSEHOLD BANK; MAY DEPARTMENT STORES D/B/A STRAWBRIDGES; FIRST AMERICAN ACCEPTANCE CO LLC; ARROW FINANCIAL SERVICES LLC; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "221 POWELTON AVENUE\nWOODLYNNE NJ 08107",
+    "Approx. Upset*": "$132,678.04",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00005725",
+    "Defendant": "MARIO B. BUNDALIAN; REBECCA R. BUNDALIAN; AFS ASSIGNEE OF HOUSEHOLD\nBANK; MAY DEPARTMENT STORES D/B/A STRAWBRIDGES; FIRST AMERICAN\nACCEPTANCE CO LLC; ARROW FINANCIAL SERVICES LLC; STATE OF NEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST,",
+    "Property Note": "",
+    "Sales Date": "2/3/2026",
+    "Sheriff #": "FR-25002046"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "221 POWELTON AVENUE WOODLYNNE NJ 08107",
+    "defendant": "MARIO B. BUNDALIAN; REBECCA R. BUNDALIAN; AFS ASSIGNEE OF HOUSEHOLD \nBANK; MAY DEPARTMENT STORES D/B/A STRAWBRIDGES; FIRST AMERICAN \nACCEPTANCE CO LLC; ARROW FINANCIAL SERVICES LLC; STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST,",
+    "sale_date": "2026-02-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST,",
+  "property_note": null,
+  "sale_date": "2026-02-03",
+  "sheriff_number": "FR-25002046",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 132678.04,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,51 @@
+{
+  "address": "67 VAN BUREN Street Passaic NJ 07055",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004127 26 CTL# 163253",
+  "current_status": "Scheduled",
+  "defendant": "EDGAR TAPIA ALDANA, ET AL",
+  "description": "Dimensions of lot : 75 feet wide by 117 feet long\nNearest Cross Street: Columbia Avenue\nEstimated upset bid amount: $520,400.00, plus any additional sums as ordered by the court\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 3 Due: 08/01/2026 $4,463.98 OPEN\n2026 Qtr 4 Due: 11/01/2026 $4,463.98 OPEN\n2027 Qtr 1 Due: 02/01/2027 $4,263.59 OPEN\n2027 Qtr 2 Due: 05/01/2027 $4,263.59 OPEN",
+  "extracted": {
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "67 VAN BUREN Street\nPassaic NJ 07055",
+    "Approx. Upset*": "$479,526.67",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 004127 26 CTL# 163253",
+    "Defendant": "EDGAR TAPIA ALDANA, ET AL",
+    "Description": "Dimensions of lot : 75 feet wide by 117 feet long\nNearest Cross Street: Columbia Avenue\nEstimated upset bid amount: $520,400.00, plus any additional sums as ordered by the court\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 3 Due: 08/01/2026 $4,463.98 OPEN\n2026 Qtr 4 Due: 11/01/2026 $4,463.98 OPEN\n2027 Qtr 1 Due: 02/01/2027 $4,263.59 OPEN\n2027 Qtr 2 Due: 05/01/2027 $4,263.59 OPEN",
+    "Parcel #": "Tax Lot 37 Block 4094",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "12/1/2026",
+    "Sheriff #": "F-26001375"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "67 VAN BUREN Street Passaic NJ 07055",
+    "defendant": "EDGAR TAPIA ALDANA, ET AL",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-12-01"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 37 Block 4094",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-12-01",
+  "sheriff_number": "F-26001375",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-12-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 479526.67,
+  "upset_amount_label": "Approx. Upset*"
+}

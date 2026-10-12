@@ -1,0 +1,59 @@
+{
+  "address": "Charlotte Place Monmouth Beach NJ 07750",
+  "attorney": "Goldenberg Mackler Sayegh Mintz Pfeffer Bonchi & Gill PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00412123",
+  "current_status": "Scheduled",
+  "defendant": "Drew A. Wotycha, et al.",
+  "description": "Property Size: 2.50 acres\nNearest Intersection: Valentine Street\nOccupancy: VACANT LAND\nUpset Bid: $92,000 as of 2/3/2025\nSale Subject To:\nTaxes through the 2nd quarter of 2024 are included in plaintiff's Judgment.\nTaxes for the 3rd quarter of 2024 are due in the amount of $43.24, plus interest to date paid.\nTaxes for the 4th quarter of 2024 are due in the amount of $43.24, plus interest to date paid.\nTaxes for the 1st quarter of 2024 will become due on February 1, 2025 in the amount of $43.24, plus interest to date paid.\nTHIS PROPERT IS WETLANDS.",
+  "extracted": {
+    "occupancy": "VACANT LAND"
+  },
+  "fields": {
+    "Address": "Charlotte Place\nMonmouth Beach NJ 07750",
+    "Approx. Judgment*": "$80,285.70",
+    "Attorney": "Goldenberg Mackler Sayegh Mintz Pfeffer Bonchi & Gill PC",
+    "Court Case #": "F00412123",
+    "Defendant": "Drew A. Wotycha, et al.",
+    "Description": "Property Size: 2.50 acres\nNearest Intersection: Valentine Street\nOccupancy: VACANT LAND\nUpset Bid: $92,000 as of 2/3/2025\nSale Subject To:\nTaxes through the 2nd quarter of 2024 are included in plaintiff's Judgment.\nTaxes for the 3rd quarter of 2024 are due in the amount of $43.24, plus interest to date paid.\nTaxes for the 4th quarter of 2024 are due in the amount of $43.24, plus interest to date paid.\nTaxes for the 1st quarter of 2024 will become due on February 1, 2025 in the amount of $43.24, plus interest to date paid.\nTHIS PROPERT IS WETLANDS.",
+    "Parcel #": "Tax Lot: 15.01 Tax Block: 53 Tax Map of the Borough of Monmouth Beach",
+    "Plaintiff": "Borough of Monmouth Beach",
+    "Property Note": "",
+    "Sales Date": "2/3/2025",
+    "Sheriff #": "FOR-24001069"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 80285.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "Charlotte Place Monmouth Beach NJ 07750",
+    "defendant": "Drew A. Wotycha, et al.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Borough of Monmouth Beach",
+    "sale_date": "2025-02-03"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 15.01 Tax Block: 53 Tax Map of the Borough of Monmouth Beach",
+  "plaintiff": "Borough of Monmouth Beach",
+  "property_note": null,
+  "sale_date": "2025-02-03",
+  "sheriff_number": "FOR-24001069",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-03",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-09",
+      "status": "Scheduled"
+    }
+  ]
+}

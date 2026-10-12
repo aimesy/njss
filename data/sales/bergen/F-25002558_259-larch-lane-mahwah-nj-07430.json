@@ -1,0 +1,56 @@
+{
+  "address": "259 LARCH LANE MAHWAH NJ 07430",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00456825",
+  "current_status": "Cancelled",
+  "defendant": "2 HILLARD AVE LLC, JENNIFER B. SAMAAN, ET AL",
+  "description": "UPSET PRICE: $367,216.20\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN",
+    "upset_amount": 367216.2
+  },
+  "fields": {
+    "Address": "259 LARCH LANE\nMAHWAH NJ 07430",
+    "Approx. Upset*": "$340,146.24",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Court Case #": "F00456825",
+    "Defendant": "2 HILLARD AVE LLC, JENNIFER B. SAMAAN, ET AL",
+    "Description": "UPSET PRICE: $367,216.20\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 259, BLOCK 139",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-3",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "F-25002558"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "259 LARCH LANE MAHWAH NJ 07430",
+    "defendant": "2 HILLARD AVE LLC, JENNIFER B. SAMAAN, ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-3",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 259, BLOCK 139",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-3",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "F-25002558",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 340146.24,
+  "upset_amount_label": "Approx. Upset*"
+}

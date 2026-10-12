@@ -1,0 +1,70 @@
+{
+  "address": "504 Wesley Avenue Pleasantville NJ 08232",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009282-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Consuelo Martinez Reyes and Mr. Consuelo Martinez Reyes, husband of Consuelo Martinez Reyes",
+  "extracted": {},
+  "fields": {
+    "Address": "504 Wesley Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$93,971.07",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-009282-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Consuelo Martinez Reyes and Mr. Consuelo Martinez Reyes, husband of Consuelo Martinez Reyes",
+    "Plaintiff": "Deutsche Bank National Trust Company, as Indenture Trustee for Terwin Mortgage Trust 2007-3SL Asset-Backed Securities, Series 2007-3SL",
+    "Priors": "Subject to First Mortgage recorded on 11/09/2006, amount: $222,400.00",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24001166",
+    "Upset Amount": "$105,834.02"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 93971.07,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "504 Wesley Avenue Pleasantville NJ 08232",
+    "defendant": "Consuelo Martinez Re...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Nation...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company, as Indenture Trustee for Terwin Mortgage Trust 2007-3SL Asset-Backed Securities, Series 2007-3SL",
+  "priors": "Subject to First Mortgage recorded on 11/09/2006, amount: $222,400.00",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24001166",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-12-12",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 105834.02,
+  "upset_amount_label": "Upset Amount"
+}

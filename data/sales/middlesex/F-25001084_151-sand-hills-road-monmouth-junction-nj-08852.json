@@ -1,0 +1,64 @@
+{
+  "address": "151 SAND HILLS ROAD MONMOUTH JUNCTION NJ 08852",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01117824",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "HIMADRI GUHA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$515,161.96",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F01117824",
+    "Defendant": "HIMADRI GUHA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 59.04 BLOCK 95",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE STRUCTURED ASSET INVESTMENT LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-10",
+    "Property Address": "151 SAND HILLS ROAD\nMONMOUTH JUNCTION NJ 08852",
+    "Property Note": "",
+    "Sale Date": "8/20/2025",
+    "Sheriff #": "F-25001084"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 515161.96,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "151 SAND HILLS ROAD MONMOUTH JUNCTION NJ 08852",
+    "defendant": "HIMADRI GUHA, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE STRUCTURED ASSET INVESTMENT LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-10",
+    "sale_date": "2025-08-20"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 59.04 BLOCK 95",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE STRUCTURED ASSET INVESTMENT LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-10",
+  "property_note": null,
+  "sale_date": "2025-08-20",
+  "sheriff_number": "F-25001084",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-08-15",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

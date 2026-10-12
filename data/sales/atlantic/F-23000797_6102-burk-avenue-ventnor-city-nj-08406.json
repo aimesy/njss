@@ -1,0 +1,78 @@
+{
+  "address": "6102 Burk Avenue Ventnor City NJ 08406",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002167-20",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Adelina Presta; Giancarlo Presta; Ford Motor Credit Company LLC D/B/A Land Rover Capital Group; Englewood Hospital and Medical Center; Canby Foods LLC; Capital One Bank; Oradell Animal Hospital; Midland Funding LLC; LA Prima Inc. D/B/A LA Cambusa and State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "6102 Burk Avenue\nVentnor City NJ 08406",
+    "Approx. Judgment*": "$641,324.20",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F-002167-20",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Adelina Presta; Giancarlo Presta; Ford Motor Credit Company LLC D/B/A Land Rover Capital Group; Englewood Hospital and Medical Center; Canby Foods LLC; Capital One Bank; Oradell Animal Hospital; Midland Funding LLC; LA Prima Inc. D/B/A LA Cambusa and State of New Jersey",
+    "Plaintiff": "US Bank, N.A; Successor trustee to LaSalle Bank Naional Assoiciation; On behalf of the holders of Bear Stearns Asset Backed Securities I Trust 2006-HE9; Asset-Backed Certificates Series 2006-HE9",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "10/25/2024",
+    "Sheriff #": "F-23000797",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 641324.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6102 Burk Avenue Ventnor City NJ 08406",
+    "defendant": "Adelina Presta; Gian...",
+    "listing_status": null,
+    "plaintiff": "US Bank, N.A; Succes...",
+    "sale_date": "2024-10-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "US Bank, N.A; Successor trustee to LaSalle Bank Naional Assoiciation; On behalf of the holders of Bear Stearns Asset Backed Securities I Trust 2006-HE9; Asset-Backed Certificates Series 2006-HE9",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2024-10-25",
+  "sheriff_number": "F-23000797",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-10-25",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-05-16",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-05-16",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2023-08-10",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2023-08-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

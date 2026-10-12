@@ -1,0 +1,68 @@
+{
+  "address": "62 NORTH AMERICAN STREET WOODBURY NJ 08096",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-005732-23",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "MARTHA MELINDA, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+  "description": "UPSET PRICE: $180,685.17\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 180685.17
+  },
+  "fields": {
+    "Address": "62 NORTH AMERICAN STREET\nWOODBURY NJ 08096",
+    "Approximate Judgment": "$170,890.95",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-005732-23",
+    "Defendant": "MARTHA MELINDA, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+    "Description": "UPSET PRICE: $180,685.17\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "BLOCK: 31 LOT: 7",
+    "Plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+    "Property Note": "COMMONLY KNOWN AS ADDRESS: 62 NORTH AMERICAN STREET, WOODBURY CITY, NJ 08096\nMUNICIPALITY: CITY OF WOODBURY\nLOT AND BLOCK: LOT 7, BLOCK 31\nAPPROXIMATE DIMENSIONS: 194.60 75.00 FEET\nNEAREST CROSS STREET: DELAWARE STREET\nSUBJECT TO:\nTAXES - DUE: 02/01/2026 $2,065.20 OPEN\nWATER - 10/01/2025 - 12/31/2025 $480.49 OPEN PLUS PENALTY; OWED IN ARREARS\nUTILITIES - 10/01/2025 - 12/31/2025 $209.00 OPEN PLUS PENALTY $197.55 OPEN PLUS PENALTY; OWED IN ARREARS\nLIENS - CERT NO. 24-00004 $12,166.64 TAX, WATER, SEWER\nUPSET PRICE: $180,685.17\nOCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "F-24000759"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 170890.95,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "62 NORTH AMERICAN STREET WOODBURY NJ 08096",
+    "defendant": "MARTHA MELINDA, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 31 LOT: 7",
+  "plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+  "property_note": "COMMONLY KNOWN AS ADDRESS: 62 NORTH AMERICAN STREET, WOODBURY CITY, NJ 08096\nMUNICIPALITY: CITY OF WOODBURY\nLOT AND BLOCK: LOT 7, BLOCK 31\nAPPROXIMATE DIMENSIONS: 194.60 75.00 FEET\nNEAREST CROSS STREET: DELAWARE STREET\nSUBJECT TO:\nTAXES - DUE: 02/01/2026 $2,065.20 OPEN\nWATER - 10/01/2025 - 12/31/2025 $480.49 OPEN PLUS PENALTY; OWED IN ARREARS\nUTILITIES - 10/01/2025 - 12/31/2025 $209.00 OPEN PLUS PENALTY $197.55 OPEN PLUS PENALTY; OWED IN ARREARS\nLIENS - CERT NO. 24-00004 $12,166.64 TAX, WATER, SEWER\nUPSET PRICE: $180,685.17\nOCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2026-04-15",
+  "sheriff_number": "F-24000759",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-08-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-08-14",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

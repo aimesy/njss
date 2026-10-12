@@ -1,0 +1,93 @@
+{
+  "address": "3 BENT COURT SICKLERVILLE NJ 08081",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F02537718",
+  "current_status": "Cancelled",
+  "defendant": "PREDDIE FORD, DECREASED, HIS HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "3 BENT COURT\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$356,858.01",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F02537718",
+    "Defendant": "PREDDIE FORD, DECREASED, HIS HEIRS, DEVISEES, AND\nPERSONAL REPRESENTATIVES, AND HIS, THEIR OR ANY OF\nTHEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST,\nET AL.",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR\nSTRUCTURED ASSET INVESTMENT LOAN TRUST,\nMORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-25001041"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3 BENT COURT SICKLERVILLE NJ 08081",
+    "defendant": "PREDDIE FORD, DECREASED, HIS HEIRS, DEVISEES, AND \nPERSONAL REPRESENTATIVES, AND HIS, THEIR OR ANY OF \nTHEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, \n ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR \nSTRUCTURED ASSET INVESTMENT LOAN TRUST, \nMORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-25001041",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-07-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 356858.01,
+  "upset_amount_label": "Approx. Upset*"
+}

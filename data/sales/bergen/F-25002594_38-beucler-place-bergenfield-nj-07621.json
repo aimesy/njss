@@ -1,0 +1,49 @@
+{
+  "address": "38 BEUCLER PLACE BERGENFIELD NJ 07621",
+  "attorney": "KML LAW GROUP PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00617025",
+  "current_status": "Cancelled",
+  "defendant": "KATHERINE RIVERA; HUGO URIBE, W/H, ET AL.",
+  "description": "THE ESTIAMTED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $253,392.04. THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHE PROPERTY IS OCCUPIED BY UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "38 BEUCLER PLACE\nBERGENFIELD NJ 07621",
+    "Approx. Upset*": "$232,887.93",
+    "Attorney": "KML LAW GROUP PC",
+    "Court Case #": "F00617025",
+    "Defendant": "KATHERINE RIVERA; HUGO URIBE, W/H, ET AL.",
+    "Description": "THE ESTIAMTED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $253,392.04. THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHE PROPERTY IS OCCUPIED BY UNKNOWN.",
+    "Parcel #": "LOT 26, BLOCK 247",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "11/26/2025",
+    "Sheriff #": "F-25002594"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "38 BEUCLER PLACE BERGENFIELD NJ 07621",
+    "defendant": "KATHERINE RIVERA; HUGO URIBE, W/H, ET AL.",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2025-11-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 26, BLOCK 247",
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2025-11-26",
+  "sheriff_number": "F-25002594",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-26",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 232887.93,
+  "upset_amount_label": "Approx. Upset*"
+}

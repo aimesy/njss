@@ -1,0 +1,61 @@
+{
+  "address": "89 PINE STREET BOGOTA NJ 07603",
+  "attorney": "NORGAARD O'BOYLE & HANNON",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00533024",
+  "current_status": "Cancelled",
+  "defendant": "HERRERA REALTY LLC AND STEVEN HERRERA",
+  "description": "THIS IS AN INVESTMENT PROPERTY, AND THE COMMUNITY WEALTH PRESERVATION PROGRAM (CWPP) DOES NOT APPLY.",
+  "extracted": {},
+  "fields": {
+    "Address": "89 PINE STREET\nBOGOTA NJ 07603",
+    "Approx. Upset*": "$431,954.77",
+    "Attorney": "NORGAARD O'BOYLE & HANNON",
+    "Court Case #": "F00533024",
+    "Defendant": "HERRERA REALTY LLC AND STEVEN HERRERA",
+    "Description": "THIS IS AN INVESTMENT PROPERTY, AND THE COMMUNITY WEALTH PRESERVATION PROGRAM (CWPP) DOES NOT APPLY.",
+    "Parcel #": "LOT 10.01, BLOCK 14",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 42171",
+    "Property Note": "",
+    "Sales Date": "12/5/2025",
+    "Sheriff #": "F-25001923"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "89 PINE STREET BOGOTA NJ 07603",
+    "defendant": "HERRERA REALTY LLC AND STEVEN HERRERA",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 42171",
+    "sale_date": "2025-12-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 10.01, BLOCK 14",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 42171",
+  "property_note": null,
+  "sale_date": "2025-12-05",
+  "sheriff_number": "F-25001923",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 431954.77,
+  "upset_amount_label": "Approx. Upset*"
+}

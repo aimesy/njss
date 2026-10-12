@@ -1,0 +1,98 @@
+{
+  "address": "5777 Holly Street Mays Landing NJ 08330",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003005-23",
+  "current_status": "Scheduled",
+  "deed": "US Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust c/o Selena Finance LP",
+  "deed_address": "3501 Olympus Boulevard 5th Floor Suite 500 Dallas, TX 75019",
+  "defendant": "Bonnie Grunow-Scheel, Individually and as Executrix of the Estate of John Grunow; Mr. Grunow-Scheel, Husband of Bonnie Grunow-Scheel; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "5777 Holly Street\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$134,984.57",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-003005-23",
+    "Deed": "US Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust c/o Selena Finance LP",
+    "Deed Address": "3501 Olympus Boulevard 5th Floor Suite 500 Dallas, TX 75019",
+    "Defendant": "Bonnie Grunow-Scheel, Individually and as Executrix of the Estate of John Grunow; Mr. Grunow-Scheel, Husband of Bonnie Grunow-Scheel; State of New Jersey; United States of America",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "IT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY",
+    "Sales Date": "5/15/2025",
+    "Sheriff #": "F-23001376",
+    "Upset Amount": "$176,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 134984.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5777 Holly Street Mays Landing NJ 08330",
+    "defendant": "Bonnie Grunow-Scheel...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-05-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "IT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY",
+  "sale_date": "2025-05-15",
+  "sheriff_number": "F-23001376",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-15",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-05-15",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-05-23",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-05-23",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-03-07",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-03-07",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-02-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-01-11",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2023-12-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 176000.0,
+  "upset_amount_label": "Upset Amount"
+}

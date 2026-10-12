@@ -1,0 +1,88 @@
+{
+  "address": "1117 Sunset Avenue Asbury Park NJ 07712",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00884823",
+  "current_status": "Scheduled",
+  "defendant": "Marise Beauvil, et al",
+  "description": "Dimensions of Lot: 77.5 X 210 IRR\nNearest Cross Street: Sunset Drive\nEstimated upset bid amount: $915,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Vacant\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n# 2025 Qtr 3 Due: 08/01/2025 $5,002.89 OPEN\n# 2025 Qtr 4 Due: 11/01/2025 $5,002.89 OPEN\n# 2026 Qtr 1 Due: 02/01/2026 $4,384.82 OPEN\n# 2026 Qtr 2 Due: 05/01/2026 $4,384.82 OPEN\nLiens: Year: 2024 Type: 3RD PARTY SEWER Amount: $952.15 Cert No.: 24-00168 Sold: 12/17/2024 To: RTLF-NJ II LLC Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A.54:5-54",
+  "extracted": {
+    "lot": "77.5",
+    "occupancy": "Vacant"
+  },
+  "fields": {
+    "Address": "1117 Sunset Avenue\nAsbury Park NJ 07712",
+    "Approx. Judgment*": "$797,768.91",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00884823",
+    "Defendant": "Marise Beauvil, et al",
+    "Description": "Dimensions of Lot: 77.5 X 210 IRR\nNearest Cross Street: Sunset Drive\nEstimated upset bid amount: $915,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Vacant\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n# 2025 Qtr 3 Due: 08/01/2025 $5,002.89 OPEN\n# 2025 Qtr 4 Due: 11/01/2025 $5,002.89 OPEN\n# 2026 Qtr 1 Due: 02/01/2026 $4,384.82 OPEN\n# 2026 Qtr 2 Due: 05/01/2026 $4,384.82 OPEN\nLiens: Year: 2024 Type: 3RD PARTY SEWER Amount: $952.15 Cert No.: 24-00168 Sold: 12/17/2024 To: RTLF-NJ II LLC Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A.54:5-54",
+    "Parcel #": "Tax Lot 11 f/k/a 12 Block 2301 f/k/a 1 Tax Map of the City of Asbury Park",
+    "Plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2006-3, Asset-Backed Certificates, Series 2006-3",
+    "Property Note": "",
+    "Sales Date": "7/6/2026",
+    "Sheriff #": "FOR-24001633"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 797768.91,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1117 Sunset Avenue Asbury Park NJ 07712",
+    "defendant": "Marise Beauvil, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2006-3, Asset-Backed Certificates, Series 2006-3",
+    "sale_date": "2026-07-06"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 11 f/k/a 12 Block 2301 f/k/a 1 Tax Map of the City of Asbury Park",
+  "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2006-3, Asset-Backed Certificates, Series 2006-3",
+  "property_note": null,
+  "sale_date": "2026-07-06",
+  "sheriff_number": "FOR-24001633",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-07-06",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    }
+  ]
+}

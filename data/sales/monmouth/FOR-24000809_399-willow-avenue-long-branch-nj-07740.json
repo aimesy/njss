@@ -1,0 +1,64 @@
+{
+  "address": "399 Willow Avenue Long Branch NJ 07740",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02855016",
+  "current_status": "Scheduled",
+  "defendant": "Candida Ribot, et al.",
+  "description": "Approximate dimensions: 49.95 x 151.93 x 49.5 x 152.22 Feet (IRREGULAR)\nNearest cross street: Division Street\nSubject to : 2024 2nd Quarter in the amount of $1,554.92 open\nSale Tax Certificate No.: 22-00062 in the amount of $3,052.91\nUpset price : $513,431.16\nOccupancy Status: Occupied Owner\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**\nSubject to: Sewer in the amount of $92.00 open and due 05.01.2023\nSewer in the amount of $92.00 open plus penalty; owed in arrears\nTax Sale Certificate No.: 22-00062 in the amount of $1,022.92.\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Occupied Owner",
+    "upset_amount": 513431.16
+  },
+  "fields": {
+    "Address": "399 Willow Avenue\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$361,942.84",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F02855016",
+    "Defendant": "Candida Ribot, et al.",
+    "Description": "Approximate dimensions: 49.95 x 151.93 x 49.5 x 152.22 Feet (IRREGULAR)\nNearest cross street: Division Street\nSubject to : 2024 2nd Quarter in the amount of $1,554.92 open\nSale Tax Certificate No.: 22-00062 in the amount of $3,052.91\nUpset price : $513,431.16\nOccupancy Status: Occupied Owner\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**\nSubject to: Sewer in the amount of $92.00 open and due 05.01.2023\nSewer in the amount of $92.00 open plus penalty; owed in arrears\nTax Sale Certificate No.: 22-00062 in the amount of $1,022.92.\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 27, Block 230 Tax Map of the City of Long Branch",
+    "Plaintiff": "Nationstar Mortgage LLC d/b/a Champion Mortgage Company",
+    "Property Note": "",
+    "Sales Date": "10/21/2024",
+    "Sheriff #": "FOR-24000809"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 361942.84,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "399 Willow Avenue Long Branch NJ 07740",
+    "defendant": "Candida Ribot, et al.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Nationstar Mortgage LLC d/b/a Champion Mortgage Company",
+    "sale_date": "2024-10-21"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 27, Block 230 Tax Map of the City of Long Branch",
+  "plaintiff": "Nationstar Mortgage LLC d/b/a Champion Mortgage Company",
+  "property_note": null,
+  "sale_date": "2024-10-21",
+  "sheriff_number": "FOR-24000809",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-10-21",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Scheduled"
+    }
+  ]
+}

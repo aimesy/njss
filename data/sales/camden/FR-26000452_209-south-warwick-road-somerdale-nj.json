@@ -1,0 +1,57 @@
+{
+  "address": "209 SOUTH WARWICK ROAD SOMERDALE NJ",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00836024",
+  "current_status": "Purchased",
+  "defendant": "ROBERT CORMIER; BARBARA CORMIER; BARRY W. DAVIS, JR.; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "209 SOUTH WARWICK ROAD\nSOMERDALE NJ",
+    "Approx. Upset*": "$152,864.91",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F00836024",
+    "Defendant": "ROBERT CORMIER; BARBARA CORMIER;\nBARRY W. DAVIS, JR.; STATE OF NEW JERSEY",
+    "Parcel #": "",
+    "Plaintiff": "MIDFRIST BANK",
+    "Property Note": "",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "FR-26000452"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "209 SOUTH WARWICK ROAD SOMERDALE NJ",
+    "defendant": "ROBERT CORMIER; BARBARA CORMIER; \nBARRY W. DAVIS, JR.; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "MIDFRIST BANK",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "MIDFRIST BANK",
+  "property_note": null,
+  "sale_date": "2026-06-17",
+  "sheriff_number": "FR-26000452",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 152864.91,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "14 TAVERN LANE WITH A MAILING ADDRESS OF 14 TAVERN LANE, SICKLERVILLE NJ, 08081 WINSLOW NJ 08081",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F1290023",
+  "current_status": "Scheduled",
+  "defendant": "VIRGINIA OBASI",
+  "extracted": {},
+  "fields": {
+    "Address": "14 TAVERN LANE\nWITH A MAILING ADDRESS OF 14 TAVERN LANE, SICKLERVILLE NJ, 08081\nWINSLOW NJ 08081",
+    "Approx. Upset*": "$523,718.68",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F1290023",
+    "Defendant": "VIRGINIA OBASI",
+    "Parcel #": "",
+    "Plaintiff": "CITIBANK, N.A. , AS TRUSTEE FOR WNMU SERIES 2007- HE3 TRUST",
+    "Property Note": "",
+    "Sales Date": "5/19/2026",
+    "Sheriff #": "FR-26000442"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "14 TAVERN LANE WITH A MAILING ADDRESS OF 14 TAVERN LANE, SICKLERVILLE NJ, 08081 WINSLOW NJ 08081",
+    "defendant": "VIRGINIA OBASI",
+    "listing_status": null,
+    "plaintiff": "CITIBANK, N.A. , AS TRUSTEE FOR WNMU SERIES 2007- HE3 TRUST",
+    "sale_date": "2026-05-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIBANK, N.A. , AS TRUSTEE FOR WNMU SERIES 2007- HE3 TRUST",
+  "property_note": null,
+  "sale_date": "2026-05-19",
+  "sheriff_number": "FR-26000442",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-19",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 523718.68,
+  "upset_amount_label": "Approx. Upset*"
+}

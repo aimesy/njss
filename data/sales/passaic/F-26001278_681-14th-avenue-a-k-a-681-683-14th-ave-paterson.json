@@ -1,0 +1,52 @@
+{
+  "address": "681 14th Avenue A/K/A 681-683 14th Ave. Paterson NJ 07504",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 001677 26 CTL#163242",
+  "current_status": "Scheduled",
+  "defendant": "ANHUAR JAMETTE ET ALS",
+  "description": "Dimensions of Lot: 50 feet wide by 100 feet long\nNearest Cross Street: East 29th Street\nEstimated upset bid amount: $177,600.00, plus any additional sums as ordered by the court\nOccupancy Status: Owner Occupied\n2026 Qtr 3 Due: 08/01/2026 $5,260.09 OPEN; ESTIMATED TAX BILL\nSewer: Paterson Sewer Dept. 155 Market St. Paterson, NJ 07501 973-321-1230 Acct: 10000895 0 07/01/2026 - 09/30/2026 $170.50 OPEN AND DUE 08/01/2026 $860.17 OPEN PLUS PENALTY\nVacant Lot charge: Property Registration Fee Exist. Please contact the Division of Community Improvement at 973-321-1232 for more information",
+  "extracted": {
+    "lot": "50",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "681 14th Avenue\nA/K/A 681-683 14th Ave.\nPaterson NJ 07504",
+    "Approx. Upset*": "$160,638.27",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 001677 26 CTL#163242",
+    "Defendant": "ANHUAR JAMETTE ET ALS",
+    "Description": "Dimensions of Lot: 50 feet wide by 100 feet long\nNearest Cross Street: East 29th Street\nEstimated upset bid amount: $177,600.00, plus any additional sums as ordered by the court\nOccupancy Status: Owner Occupied\n2026 Qtr 3 Due: 08/01/2026 $5,260.09 OPEN; ESTIMATED TAX BILL\nSewer: Paterson Sewer Dept. 155 Market St. Paterson, NJ 07501 973-321-1230 Acct: 10000895 0 07/01/2026 - 09/30/2026 $170.50 OPEN AND DUE 08/01/2026 $860.17 OPEN PLUS PENALTY\nVacant Lot charge: Property Registration Fee Exist. Please contact the Division of Community Improvement at 973-321-1232 for more information",
+    "Parcel #": "Tax LOT 4 F/K/A 11 BLOCK 8502 F/K/A L1385",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26001278"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "681 14th Avenue A/K/A 681-683 14th Ave. Paterson NJ 07504",
+    "defendant": "ANHUAR JAMETTE ET ALS",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax LOT 4 F/K/A 11 BLOCK 8502 F/K/A L1385",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26001278",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 160638.27,
+  "upset_amount_label": "Approx. Upset*"
+}

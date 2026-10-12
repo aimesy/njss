@@ -1,0 +1,62 @@
+{
+  "address": "202 Rosemarie Drive Egg Harbor Township NJ 08234",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-023265-17 PLURIES",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Constance Sparks; Thomas Haplin; Discover Bank",
+  "extracted": {},
+  "fields": {
+    "Address": "202 Rosemarie Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$209,388.52",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-023265-17 PLURIES",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Constance Sparks; Thomas Haplin; Discover Bank",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "F-18001386",
+    "Upset Amount": "$345,325.49"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 209388.52,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "202 Rosemarie Drive Egg Harbor Township NJ 08234",
+    "defendant": "Constance Sparks; Th...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, N....",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2026-01-08",
+  "sheriff_number": "F-18001386",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-08",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 345325.49,
+  "upset_amount_label": "Upset Amount"
+}

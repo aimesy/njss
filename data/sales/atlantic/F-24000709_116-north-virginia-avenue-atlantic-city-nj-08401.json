@@ -1,0 +1,74 @@
+{
+  "address": "116 North Virginia Avenue Atlantic City NJ 08401",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011670-22",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Lamont Dato; Cynthia Dato A/K/A Cynthia Wright; Discover Bank; Portfolio Recovery Assoc LLC; Bank of America NA USA; Visiting Health Services of NJ; Midland Funding LLC; Slomins Inc; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "116 North Virginia Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$139,621.81",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-011670-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Lamont Dato; Cynthia Dato A/K/A Cynthia Wright; Discover Bank; Portfolio Recovery Assoc LLC; Bank of America NA USA; Visiting Health Services of NJ; Midland Funding LLC; Slomins Inc; State of New Jersey",
+    "Plaintiff": "U.S. Bank National Association, Not in its Individual Capacity but Solely in its Capacity as Indenture Trustee of CIM Trust 2021-NR4",
+    "Priors": "Tax Certificate -amount: $557.63\nTax Certificate- amount: $1,038.29\nJudgment- amount: $2,751.70\nTotal: $4,437.62",
+    "Property Note": "OWNER OCCUPIED",
+    "Sales Date": "2/9/2026",
+    "Sheriff #": "F-24000709",
+    "Upset Amount": "$144,091.92"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 139621.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "116 North Virginia Avenue Atlantic City NJ 08401",
+    "defendant": "Lamont Dato; Cynthia...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2026-02-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association, Not in its Individual Capacity but Solely in its Capacity as Indenture Trustee of CIM Trust 2021-NR4",
+  "priors": "Tax Certificate -amount: $557.63 Tax Certificate- amount: $1,038.29 Judgment- amount: $2,751.70 Total: $4,437.62",
+  "property_note": "OWNER OCCUPIED",
+  "sale_date": "2026-02-09",
+  "sheriff_number": "F-24000709",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-09",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-22",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-07-25",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 144091.92,
+  "upset_amount_label": "Upset Amount"
+}

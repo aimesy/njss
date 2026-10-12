@@ -1,0 +1,74 @@
+{
+  "address": "210 Summer Street Landisville NJ 08326",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004120-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Debbie Feldman; Lawana Salters Feldman; MV Realty of New Jersey, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "210 Summer Street\nLandisville NJ 08326",
+    "Approx. Judgment*": "$160,537.54",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-004120-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Debbie Feldman; Lawana Salters Feldman; MV Realty of New Jersey, LLC",
+    "Plaintiff": "The Bank of New York Mellon fka The Bank of New York, as Trustee for the Certificateholders of CWALT Inc. Alternative Loan Trust 2006-OA18, Mortgage Pass-Through Certificates, Series 2006-OA18",
+    "Priors": "NONE",
+    "Property Note": "Occupany Status: Occupied by unknown",
+    "Sales Date": "9/28/2026",
+    "Sheriff #": "F-24001357",
+    "Upset Amount": "$176,321.07"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 160537.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "210 Summer Street Landisville NJ 08326",
+    "defendant": "Debbie Feldman; Lawa...",
+    "listing_status": null,
+    "plaintiff": "The Bank of New York...",
+    "sale_date": "2026-09-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "The Bank of New York Mellon fka The Bank of New York, as Trustee for the Certificateholders of CWALT Inc. Alternative Loan Trust 2006-OA18, Mortgage Pass-Through Certificates, Series 2006-OA18",
+  "priors": "NONE",
+  "property_note": "Occupany Status: Occupied by unknown",
+  "sale_date": "2026-09-28",
+  "sheriff_number": "F-24001357",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-09-28",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-01-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 176321.07,
+  "upset_amount_label": "Upset Amount"
+}

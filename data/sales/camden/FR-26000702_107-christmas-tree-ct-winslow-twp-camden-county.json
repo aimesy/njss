@@ -1,0 +1,53 @@
+{
+  "address": "107 CHRISTMAS TREE CT. WINSLOW TWP., CAMDEN COUNTY, NJ SICKLERVILLE NJ 08043",
+  "attorney": "RAGAN & RAGAN P.C.",
+  "attorney_phone": "(732) 280-4100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "L0645706J6749509",
+  "current_status": "Scheduled",
+  "defendant": "JASON BURGOS",
+  "extracted": {},
+  "fields": {
+    "Address": "107 CHRISTMAS TREE CT.\nWINSLOW TWP., CAMDEN COUNTY, NJ\nSICKLERVILLE NJ 08043",
+    "Approx. Upset*": "$120,462.00",
+    "Attorney": "RAGAN & RAGAN P.C.",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "L0645706J6749509",
+    "Defendant": "JASON BURGOS",
+    "Parcel #": "BLOCK 5102, LOT 5.08 TWP. OF WINSLOW",
+    "Plaintiff": "ANNA MARCHESANI BY ASSIGNEE, MMU,LLC(R.1:4-10)",
+    "Property Note": "",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "FR-26000702"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "107 CHRISTMAS TREE CT. WINSLOW TWP., CAMDEN COUNTY, NJ SICKLERVILLE NJ 08043",
+    "defendant": "JASON BURGOS",
+    "listing_status": null,
+    "plaintiff": "ANNA MARCHESANI BY ASSIGNEE, MMU,LLC(R.1:4-10)",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 5102, LOT 5.08 TWP. OF WINSLOW",
+  "plaintiff": "ANNA MARCHESANI BY ASSIGNEE, MMU,LLC(R.1:4-10)",
+  "property_note": null,
+  "sale_date": "2026-06-17",
+  "sheriff_number": "FR-26000702",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-27",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 120462.0,
+  "upset_amount_label": "Approx. Upset*"
+}

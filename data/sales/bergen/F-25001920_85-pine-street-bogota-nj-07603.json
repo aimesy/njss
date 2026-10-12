@@ -1,0 +1,61 @@
+{
+  "address": "85 PINE STREET BOGOTA NJ 07603",
+  "attorney": "WEBER GALLAGHER",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00824924",
+  "current_status": "Cancelled",
+  "defendant": "HERRERA REALTY LLC AND STEVEN HERRERA",
+  "description": "THIS IS AN INVESTMENT PROPERTY, AND THE COMMUNITY WEALTH PRESERVATION PROGRAM (CWPP) DOES NOT APPLY.",
+  "extracted": {},
+  "fields": {
+    "Address": "85 PINE STREET\nBOGOTA NJ 07603",
+    "Approx. Upset*": "$490,396.13",
+    "Attorney": "WEBER GALLAGHER",
+    "Court Case #": "F00824924",
+    "Defendant": "HERRERA REALTY LLC AND STEVEN HERRERA",
+    "Description": "THIS IS AN INVESTMENT PROPERTY, AND THE COMMUNITY WEALTH PRESERVATION PROGRAM (CWPP) DOES NOT APPLY.",
+    "Parcel #": "LOT 9.01, BLOCK 14",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 42170",
+    "Property Note": "",
+    "Sales Date": "12/9/2025",
+    "Sheriff #": "F-25001920"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "85 PINE STREET BOGOTA NJ 07603",
+    "defendant": "HERRERA REALTY LLC AND STEVEN HERRERA",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 42170",
+    "sale_date": "2025-12-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 9.01, BLOCK 14",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 42170",
+  "property_note": null,
+  "sale_date": "2025-12-09",
+  "sheriff_number": "F-25001920",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-09",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 490396.13,
+  "upset_amount_label": "Approx. Upset*"
+}

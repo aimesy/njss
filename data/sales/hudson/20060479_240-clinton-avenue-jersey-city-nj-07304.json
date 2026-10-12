@@ -1,0 +1,80 @@
+{
+  "address": "240 CLINTON AVENUE JERSEY CITY NJ 07304",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011118-24",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "VONETTA REEVES; JACK ROSS; STATE OF NEW JERSEY",
+  "description": "TAX LOT(S): 49 F/K/A 135, IN BLOCK: 18302 F/K/A 1806\nDIMENSIONS (APPROX.): 25 X 90\nNEAREST CROSS STREET: WEST SIDE AVENUE\nGOOD FAITH ESTIMATED UPSET PRICE: $523,467.34\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "block": "18302",
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 523467.34
+  },
+  "fields": {
+    "Address": "240 CLINTON AVENUE\nJERSEY CITY NJ 07304",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-011118-24",
+    "Defendant": "VONETTA REEVES; JACK ROSS; STATE OF NEW JERSEY",
+    "Description": "TAX LOT(S): 49 F/K/A 135, IN BLOCK: 18302 F/K/A 1806\nDIMENSIONS (APPROX.): 25 X 90\nNEAREST CROSS STREET: WEST SIDE AVENUE\nGOOD FAITH ESTIMATED UPSET PRICE: $523,467.34\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Good Faith Upset*": "$523,467.34",
+    "Judgment": "$451,031.02",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20060479"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 451031.02,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "240 CLINTON AVENUE JERSEY CITY NJ 07304",
+    "defendant": "VONETTA REEVES; JACK ROSS; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20060479",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-11-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 523467.34,
+  "upset_amount_label": "Good Faith Upset*"
+}

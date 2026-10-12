@@ -1,0 +1,60 @@
+{
+  "address": "620 JACKSON AVENUE LINDEN NJ 07036",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00476925",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MARION BARTELL & DORCAS TAYLOR",
+  "description": "LOT 218, 2803 AND 2804 BLOCK 149",
+  "extracted": {
+    "block": "149",
+    "lot": "218"
+  },
+  "fields": {
+    "Address": "620 JACKSON AVENUE\nLINDEN NJ 07036",
+    "Approx. Upset*": "$92,913.35",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00476925",
+    "Defendant": "MARION BARTELL & DORCAS TAYLOR",
+    "Description": "LOT 218, 2803 AND 2804 BLOCK 149",
+    "Parcel #": "LOT 218, 2803 AND 2804 BLOCK 149",
+    "Plaintiff": "AMERISAVE MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "1/14/2026",
+    "Sheriff #": "CH-25002280"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "620 JACKSON AVENUE LINDEN NJ 07036",
+    "defendant": "MARION BARTELL & DORCAS TAYLOR",
+    "listing_status": null,
+    "plaintiff": "AMERISAVE MORTGAGE CORPORATION",
+    "sale_date": "2026-01-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 218, 2803 AND 2804 BLOCK 149",
+  "plaintiff": "AMERISAVE MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-01-14",
+  "sheriff_number": "CH-25002280",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-24",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 92913.35,
+  "upset_amount_label": "Approx. Upset*"
+}

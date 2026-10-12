@@ -1,0 +1,43 @@
+{
+  "address": "154 Watsons Mill Road Elmer NJ 08318",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-008387-23",
+  "current_status": "Cancelled",
+  "defendant": "Charles McNeal deceased, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest, et al",
+  "description": "Approximate Dimensions: 150.00 feet wide by 307.26 feet long. Approximate Upset Price: $205,607.05. The upset amount may be subject to further orders of additional sums. Occupancy Status: Occupied by unknown",
+  "extracted": {
+    "occupancy": "Occupied by unknown",
+    "upset_amount": 205607.05
+  },
+  "fields": {
+    "Address": "154 Watsons Mill Road\nElmer NJ 08318",
+    "Court Case #": "F-008387-23",
+    "Defendant": "Charles McNeal deceased, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest, et al",
+    "Description": "Approximate Dimensions: 150.00 feet wide by 307.26 feet long. Approximate Upset Price: $205,607.05. The upset amount may be subject to further orders of additional sums. Occupancy Status: Occupied by unknown",
+    "Plaintiff": "MidFirst Bank",
+    "Sales Date": "01/16/2026 02:00 PM",
+    "Sheriff #": "F-26000005"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "154 Watsons Mill Road Elmer NJ 08318",
+    "defendant": "Charles McNeal deceased, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest, et al",
+    "listing_status": null,
+    "plaintiff": "MidFirst Bank",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "MidFirst Bank",
+  "sale_date": null,
+  "sheriff_number": "F-26000005",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

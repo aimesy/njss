@@ -1,0 +1,52 @@
+{
+  "address": "5 Oliver Drive Neptune NJ 07753",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00920023",
+  "current_status": "Settled",
+  "defendant": "Paul Sciallis a/k/a Paul M. Sciallis et al.",
+  "description": "Dimensions of lot: 95 feet wide by 148 feet long\nNearest Cross Street: Rowland Place\nEstimated Upset Bid Amount: $484,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied.\nNOTICE THROUGH PUBLICATION.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\n2025 Qtr. 1 Due: 02/01/2025 $2,500.54 OPEN\n2025 Qtr. 2 Due: 05/01/2025 $2,500.54 OPEN\nSewer: Neptune City MUA 106 W. Sylvania Avenue Neptune, NJ 07753 732-776-7224 Acct: 1520 0 01/01/2025 – 03/31/2025 $112.50 OPEN $900.11 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "95",
+    "occupancy": "Owner Occupied."
+  },
+  "fields": {
+    "Address": "5 Oliver Drive\nNeptune NJ 07753",
+    "Approx. Judgment*": "$448,094.85",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00920023",
+    "Defendant": "Paul Sciallis a/k/a Paul M. Sciallis et al.",
+    "Description": "Dimensions of lot: 95 feet wide by 148 feet long\nNearest Cross Street: Rowland Place\nEstimated Upset Bid Amount: $484,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied.\nNOTICE THROUGH PUBLICATION.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\n2025 Qtr. 1 Due: 02/01/2025 $2,500.54 OPEN\n2025 Qtr. 2 Due: 05/01/2025 $2,500.54 OPEN\nSewer: Neptune City MUA 106 W. Sylvania Avenue Neptune, NJ 07753 732-776-7224 Acct: 1520 0 01/01/2025 – 03/31/2025 $112.50 OPEN $900.11 OPEN PLUS PENALTY",
+    "Parcel #": "Tax Lot: # 2 Block: # 125 Located on the tax map of the City of Neptune",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Property Note": "",
+    "Sales Date": "2/12/2025",
+    "Sheriff #": "FOR-24002558"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 448094.85,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 Oliver Drive Neptune NJ 07753",
+    "defendant": "Paul Sciallis a/k/a Paul M. Sciallis et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Lakeview Loan Servicing, LLC",
+    "sale_date": "2025-02-12"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: # 2 Block: # 125 Located on the tax map of the City of Neptune",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "property_note": null,
+  "sale_date": "2025-02-12",
+  "sheriff_number": "FOR-24002558",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-12",
+      "status": "Settled"
+    }
+  ]
+}

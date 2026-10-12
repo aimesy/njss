@@ -1,0 +1,60 @@
+{
+  "address": "949-A EAST FRONT STREET PLAINFIELD NJ 07062",
+  "attorney": "GIORDANO, HALLERAN & CIESLA, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F279425",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "CLEMENT COX and MARGARET COX, THEIR HEIRS, DEVISES AND PERSONAL REPRESENTATIVES, AND ANY TITLE THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST",
+  "description": "TAX LOT 16.129(QUAL.: C0129) BLOCK 329",
+  "extracted": {
+    "block": "329",
+    "lot": "16.129"
+  },
+  "fields": {
+    "Address": "949-A EAST FRONT STREET\nPLAINFIELD NJ 07062",
+    "Approx. Upset*": "$10,720.15",
+    "Attorney": "GIORDANO, HALLERAN & CIESLA, P.C.",
+    "Court Case #": "F279425",
+    "Defendant": "CLEMENT COX and MARGARET COX, THEIR HEIRS, DEVISES AND PERSONAL REPRESENTATIVES, AND ANY TITLE THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST",
+    "Description": "TAX LOT 16.129(QUAL.: C0129) BLOCK 329",
+    "Parcel #": "TAX LOT 16.129(QUAL.: C0129) BLOCK 329",
+    "Plaintiff": "NEW MEADOWBROOK VILLAGE CONDOMINIUM ASSOCIATION, INC.",
+    "Property Note": "",
+    "Sales Date": "1/14/2026",
+    "Sheriff #": "CH-25002061"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "949-A EAST FRONT STREET PLAINFIELD NJ 07062",
+    "defendant": "CLEMENT COX and MARGARET COX, THEIR HEIRS, DEVISES AND PERSONAL REPRESENTATIVES, AND ANY TITLE THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST",
+    "listing_status": null,
+    "plaintiff": "NEW MEADOWBROOK VILLAGE CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2026-01-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "TAX LOT 16.129(QUAL.: C0129) BLOCK 329",
+  "plaintiff": "NEW MEADOWBROOK VILLAGE CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2026-01-14",
+  "sheriff_number": "CH-25002061",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 10720.15,
+  "upset_amount_label": "Approx. Upset*"
+}

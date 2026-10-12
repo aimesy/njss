@@ -1,0 +1,78 @@
+{
+  "address": "613 Chicago Avenue Egg Harbor City NJ 08215",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001368-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Barbara Kirschmann; Rachael Heck-Kirschmann; Oliver Kirschmann, Jr; Oliver Kirschmann III, Tenant/Occupant; Pomona Heating & Cooling LLC; Sunnovate Management LLC; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "613 Chicago Avenue\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$242,674.20",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-001368-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Barbara Kirschmann; Rachael Heck-Kirschmann; Oliver Kirschmann, Jr; Oliver Kirschmann III, Tenant/Occupant; Pomona Heating & Cooling LLC; Sunnovate Management LLC; State of New Jersey; United States of America",
+    "Plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "9/10/2026",
+    "Sheriff #": "F-25000866",
+    "Upset Amount": "$288,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 242674.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "613 Chicago Avenue Egg Harbor City NJ 08215",
+    "defendant": "Barbara Kirschmann; ...",
+    "listing_status": null,
+    "plaintiff": "New Jersey Housing a...",
+    "sale_date": "2026-09-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-09-10",
+  "sheriff_number": "F-25000866",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-09-10",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-08-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-07-09",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-10-30",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-10-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 288500.0,
+  "upset_amount_label": "Upset Amount"
+}

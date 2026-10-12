@@ -1,0 +1,60 @@
+{
+  "address": "27 4TH AVENUE PORT READING NJ 07064",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00021025",
+  "current_status": "Adjourned - Court",
+  "defendant": "STACIE STUTZMAN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$209,329.84",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00021025",
+    "Defendant": "STACIE STUTZMAN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 253 BLOCK 638",
+    "Plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "Property Address": "27 4TH AVENUE\nPORT READING NJ 07064",
+    "Property Note": "",
+    "Sale Date": "8/20/2025",
+    "Sheriff #": "F-25001447"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 209329.84,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "27 4TH AVENUE PORT READING NJ 07064",
+    "defendant": "STACIE STUTZMAN, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "sale_date": "2025-08-20"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 253 BLOCK 638",
+  "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+  "property_note": null,
+  "sale_date": "2025-08-20",
+  "sheriff_number": "F-25001447",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

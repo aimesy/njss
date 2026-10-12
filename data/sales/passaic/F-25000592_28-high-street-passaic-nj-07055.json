@@ -1,0 +1,76 @@
+{
+  "address": "28 High Street Passaic NJ 07055",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 32913 15 CTL# 162947",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "MINERVA URENA, ET AL",
+  "description": "Approximate dimensions: 50.00 x 50.10 x 44.16 x 100.00 x 46.83 Feet (Irregular)\nNearest cross street: Paulison Street\nSubject to: Water in amount of $360.01 open and due 2/24/25\nUpset price: $510,837.00\nOccupancy status: Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 510837.0
+  },
+  "fields": {
+    "Address": "28 High Street\nPassaic NJ 07055",
+    "Approx. Upset*": "$391,715.87",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 32913 15 CTL# 162947",
+    "Defendant": "MINERVA URENA, ET AL",
+    "Description": "Approximate dimensions: 50.00 x 50.10 x 44.16 x 100.00 x 46.83 Feet (Irregular)\nNearest cross street: Paulison Street\nSubject to: Water in amount of $360.01 open and due 2/24/25\nUpset price: $510,837.00\nOccupancy status: Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Tax lot 50 in Block 2206",
+    "Plaintiff": "DITECH FINANCIAL, LLC",
+    "Property Note": "",
+    "Sales Date": "11/18/2025",
+    "Sheriff #": "F-25000592"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "28 High Street Passaic NJ 07055",
+    "defendant": "MINERVA URENA, ET AL",
+    "listing_status": null,
+    "plaintiff": "DITECH FINANCIAL, LLC",
+    "sale_date": "2025-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot 50 in Block 2206",
+  "plaintiff": "DITECH FINANCIAL, LLC",
+  "property_note": null,
+  "sale_date": "2025-11-18",
+  "sheriff_number": "F-25000592",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-29",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-08-26",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 391715.87,
+  "upset_amount_label": "Approx. Upset*"
+}

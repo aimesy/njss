@@ -1,0 +1,53 @@
+{
+  "address": "221 LUMBERTON ROAD HAINESPORT NJ 08036",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Burlington County, NJ",
+  "county_id": 3,
+  "court_case_number": "F-007795-24",
+  "current_status": "Scheduled for",
+  "defendant": "NAJEE LUNDY AND SPOUSE OF NAJEE LUNDY",
+  "description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $385,000.00",
+  "extracted": {
+    "upset_amount": 385000.0
+  },
+  "fields": {
+    "Address": "221 LUMBERTON ROAD\nHAINESPORT NJ 08036",
+    "Approx. Judgment": "$328,562.55",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-007795-24",
+    "Defendant": "NAJEE LUNDY AND SPOUSE OF NAJEE LUNDY",
+    "Description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $385,000.00",
+    "Parcel #": "",
+    "Plaintiff": "AMERICAN NEIGHBORHOOD MORTGAGE ACCEPTANCE COMPANY, LLC",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "26001876"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 328562.55,
+  "judgment_amount_label": "Approx. Judgment",
+  "listing": {
+    "address": "221 LUMBERTON ROAD HAINESPORT NJ 08036",
+    "defendant": "NAJEE LUNDY AND SPOUSE OF NAJEE LUNDY",
+    "listing_status": null,
+    "plaintiff": "AMERICAN NEIGHBORHOOD MORTGAGE ACCEPTANCE COMPANY, LLC",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Burlington County, NJ)",
+  "parcel": null,
+  "plaintiff": "AMERICAN NEIGHBORHOOD MORTGAGE ACCEPTANCE COMPANY, LLC",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "26001876",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=3",
+  "status_history": [
+    {
+      "date": "2026-10-22",
+      "status": "Scheduled for"
+    }
+  ]
+}

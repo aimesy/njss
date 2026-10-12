@@ -1,0 +1,72 @@
+{
+  "address": "200 VINE STREET ROSELLE NJ 07203",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00945324",
+  "current_status": "Settled",
+  "defendant": "ROBBILL MOHAMMED",
+  "description": "LOT 17 FKA 9.B, BLOCK 5404 FKA 131",
+  "extracted": {
+    "block": "5404",
+    "lot": "17"
+  },
+  "fields": {
+    "Address": "200 VINE STREET\nROSELLE NJ 07203",
+    "Approx. Upset*": "$345,319.46",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F00945324",
+    "Defendant": "ROBBILL MOHAMMED",
+    "Description": "LOT 17 FKA 9.B, BLOCK 5404 FKA 131",
+    "Parcel #": "LOT 17 FKA 9.B, BLOCK 5404 FKA 131",
+    "Plaintiff": "SENECA MORTGAGE SERVICING LLC",
+    "Property Note": "",
+    "Sales Date": "10/22/2025",
+    "Sheriff #": "CH-25000995"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "200 VINE STREET ROSELLE NJ 07203",
+    "defendant": "ROBBILL MOHAMMED",
+    "listing_status": null,
+    "plaintiff": "SENECA MORTGAGE SERVICING LLC",
+    "sale_date": "2025-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 17 FKA 9.B, BLOCK 5404 FKA 131",
+  "plaintiff": "SENECA MORTGAGE SERVICING LLC",
+  "property_note": null,
+  "sale_date": "2025-10-22",
+  "sheriff_number": "CH-25000995",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-05-13",
+      "status": "On Hold"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-22",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-22",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 345319.46,
+  "upset_amount_label": "Approx. Upset*"
+}

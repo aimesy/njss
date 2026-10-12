@@ -1,0 +1,53 @@
+{
+  "address": "14 BLUE SPRUCE DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01180525",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "TIMOTHY JOHNSON, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "14 BLUE SPRUCE DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$585,399.84",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F01180525",
+    "Defendant": "TIMOTHY JOHNSON, ET AL.",
+    "Parcel #": "Block 17904, Lot 7",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26001839"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "14 BLUE SPRUCE DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "TIMOTHY JOHNSON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 17904, Lot 7",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26001839",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 585399.84,
+  "upset_amount_label": "Approx. Upset*"
+}

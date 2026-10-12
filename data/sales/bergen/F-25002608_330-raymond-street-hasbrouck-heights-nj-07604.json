@@ -1,0 +1,67 @@
+{
+  "address": "330 RAYMOND STREET HASBROUCK HEIGHTS NJ 07604",
+  "attorney": "PARKER MCCAY PA",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00192825",
+  "current_status": "Cancelled",
+  "defendant": "THOMAS J. BOHAN; MARIA A. BOHAN, ET AL.",
+  "description": "UPSET PRICE: $620,946.34 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+  "extracted": {
+    "upset_amount": 620946.34
+  },
+  "fields": {
+    "Address": "330 RAYMOND STREET\nHASBROUCK HEIGHTS NJ 07604",
+    "Approx. Upset*": "$576,130.39",
+    "Attorney": "PARKER MCCAY PA",
+    "Court Case #": "F00192825",
+    "Defendant": "THOMAS J. BOHAN; MARIA A. BOHAN, ET AL.",
+    "Description": "UPSET PRICE: $620,946.34 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+    "Parcel #": "LOT 38, BLOCK 56",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "F-25002608"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "330 RAYMOND STREET HASBROUCK HEIGHTS NJ 07604",
+    "defendant": "THOMAS J. BOHAN; MARIA A. BOHAN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 38, BLOCK 56",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-04-01",
+  "sheriff_number": "F-25002608",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 576130.39,
+  "upset_amount_label": "Approx. Upset*"
+}

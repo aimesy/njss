@@ -1,0 +1,56 @@
+{
+  "address": "6 TOPOR ROAD EAST BRUNSWICK NJ 08816",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00372225",
+  "current_status": "Cancelled",
+  "defendant": "HEDWIG WHITEHURST A/K/A HEDWIG M. WHITEHURST A/K/A HEDWIG M. BARNEY, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$420,602.78",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00372225",
+    "Defendant": "HEDWIG WHITEHURST A/K/A HEDWIG M. WHITEHURST A/K/A HEDWIG M. BARNEY, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 17 BLOCK 675",
+    "Plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "Property Address": "6 TOPOR ROAD\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "",
+    "Sale Date": "11/5/2025",
+    "Sheriff #": "F-25002364"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 420602.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 TOPOR ROAD EAST BRUNSWICK NJ 08816",
+    "defendant": "HEDWIG WHITEHURST A/K/A HEDWIG M. WHITEHURST A/K/A HEDWIG M. BARNEY, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 17 BLOCK 675",
+  "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "F-25002364",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

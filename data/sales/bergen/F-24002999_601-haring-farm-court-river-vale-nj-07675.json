@@ -1,0 +1,72 @@
+{
+  "address": "601 HARING FARM COURT RIVER VALE NJ 07675",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F02531818",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "DAVID S. FRIEDKIN; CHRISTINE FRIEDKIN, HUSBAND AND WIFE, ET AL.",
+  "description": "UPSET PRICE: $2,436,231.25\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 2436231.25
+  },
+  "fields": {
+    "Address": "601 HARING FARM COURT\nRIVER VALE NJ 07675",
+    "Approx. Upset*": "$1,765,572.02",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Court Case #": "F02531818",
+    "Defendant": "DAVID S. FRIEDKIN; CHRISTINE FRIEDKIN, HUSBAND AND WIFE, ET AL.",
+    "Description": "UPSET PRICE: $2,436,231.25\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 2.01, BLOCK 1002.01",
+    "Plaintiff": "U.S. BANK NA, SUCCESSOR TRUSTEE TO BANK OF AMERICA, NA, SUCCESSOR IN INTEREST TO LASALLE BANK NA, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF THE WASHINGTON MUTUAL MORTGAGE PASS-THROUGH CERTIFICATES, WMALT SERIES 2006-7",
+    "Property Note": "",
+    "Sales Date": "12/19/2025",
+    "Sheriff #": "F-24002999"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "601 HARING FARM COURT RIVER VALE NJ 07675",
+    "defendant": "DAVID S. FRIEDKIN; CHRISTINE FRIEDKIN, HUSBAND AND WIFE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NA, SUCCESSOR TRUSTEE TO BANK OF AMERICA, NA, SUCCESSOR IN INTEREST TO LASALLE BANK NA, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF THE WASHINGTON MUTUAL MORTGAGE PASS-THROUGH CERTIFICATES, WMALT SERIES 2006-7",
+    "sale_date": "2025-12-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2.01, BLOCK 1002.01",
+  "plaintiff": "U.S. BANK NA, SUCCESSOR TRUSTEE TO BANK OF AMERICA, NA, SUCCESSOR IN INTEREST TO LASALLE BANK NA, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF THE WASHINGTON MUTUAL MORTGAGE PASS-THROUGH CERTIFICATES, WMALT SERIES 2006-7",
+  "property_note": null,
+  "sale_date": "2025-12-19",
+  "sheriff_number": "F-24002999",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2024-12-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-10",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-03-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-25",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-19",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-12-19",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 1765572.02,
+  "upset_amount_label": "Approx. Upset*"
+}

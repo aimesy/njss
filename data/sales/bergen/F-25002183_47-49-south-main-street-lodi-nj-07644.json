@@ -1,0 +1,53 @@
+{
+  "address": "47-49 SOUTH MAIN STREET LODI NJ 07644",
+  "attorney": "POLITAN LAW, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F152125",
+  "current_status": "BANKRUPTCY",
+  "defendant": "EASTFORD, LLC, IRONMEN REALTY COMPANY, LLC, ET AL",
+  "description": "THIS IS A COMMERCIAL PROPERTY – NOT SUBJECT TO CWPP REQUIREMENTS",
+  "extracted": {},
+  "fields": {
+    "Address": "47-49 SOUTH MAIN STREET\nLODI NJ 07644",
+    "Approx. Upset*": "$7,606,575.28",
+    "Attorney": "POLITAN LAW, LLC",
+    "Court Case #": "F152125",
+    "Defendant": "EASTFORD, LLC, IRONMEN REALTY COMPANY, LLC, ET AL",
+    "Description": "THIS IS A COMMERCIAL PROPERTY – NOT SUBJECT TO CWPP REQUIREMENTS",
+    "Parcel #": "LOT 16, BLOCK 37 AND LOT 18, BLOCK 37",
+    "Plaintiff": "PRIVATE MORTGAGE INVESTMENTS, LLC SERIES 61 C/O PRIVATE MORTGAGE FINANCING PARTNERS, LLC",
+    "Property Note": "",
+    "Sales Date": "12/18/2025",
+    "Sheriff #": "F-25002183"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "47-49 SOUTH MAIN STREET LODI NJ 07644",
+    "defendant": "EASTFORD, LLC, IRONMEN REALTY COMPANY, LLC, ET AL",
+    "listing_status": null,
+    "plaintiff": "PRIVATE MORTGAGE INVESTMENTS, LLC SERIES 61 C/O PRIVATE MORTGAGE FINANCING PARTNERS, LLC",
+    "sale_date": "2025-12-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 16, BLOCK 37 AND LOT 18, BLOCK 37",
+  "plaintiff": "PRIVATE MORTGAGE INVESTMENTS, LLC SERIES 61 C/O PRIVATE MORTGAGE FINANCING PARTNERS, LLC",
+  "property_note": null,
+  "sale_date": "2025-12-18",
+  "sheriff_number": "F-25002183",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-18",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 7606575.28,
+  "upset_amount_label": "Approx. Upset*"
+}

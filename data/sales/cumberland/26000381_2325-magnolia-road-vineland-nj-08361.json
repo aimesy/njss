@@ -1,0 +1,58 @@
+{
+  "address": "2325 MAGNOLIA ROAD VINELAND NJ 08361",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "county": "Cumberland County, NJ",
+  "county_id": 6,
+  "court_case_number": "F01239125",
+  "current_status": "Settled",
+  "deed": null,
+  "deed_address": "LOT 3 FKA 18 BLOCK 5223 FKA 820",
+  "defendant": "MICHAEL A BIANCO, III ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "2325 MAGNOLIA ROAD\nVINELAND NJ 08361",
+    "Approx. Judgment*": "$125,759.13",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Court Case #": "F01239125",
+    "Deed": "",
+    "Deed Address": "LOT 3 FKA 18 BLOCK 5223 FKA 820",
+    "Defendant": "MICHAEL A BIANCO, III ET AL",
+    "Plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+    "Priors": "",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "26000381",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 125759.13,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2325 MAGNOLIA ROAD VINELAND NJ 08361",
+    "defendant": "MICHAEL A BIANCO, III ET AL",
+    "listing_status": null,
+    "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cumberland County, NJ)",
+  "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+  "priors": null,
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "26000381",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,90 @@
+{
+  "address": "94 Galleria Drive Mays Landing NJ 08330",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004110-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Lisa L. Gist-Ragland; Roy Y. Ragland; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "94 Galleria Drive\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$344,643.98",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F-004110-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Lisa L. Gist-Ragland; Roy Y. Ragland; United States of America",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "8/21/2026",
+    "Sheriff #": "F-24001169",
+    "Upset Amount": "$348,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 344643.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "94 Galleria Drive Mays Landing NJ 08330",
+    "defendant": "Lisa L. Gist-Ragland...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2026-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-08-21",
+  "sheriff_number": "F-24001169",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-08-21",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2025-07-17",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-06-19",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-23",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 348000.0,
+  "upset_amount_label": "Upset Amount"
+}

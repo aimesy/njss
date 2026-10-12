@@ -1,0 +1,56 @@
+{
+  "address": "36 LINCOLN AVENUE CARTERET NJ 07008",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00172423",
+  "current_status": "Bankruptcy",
+  "defendant": "ALI EHRAZ, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$89,202.11",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00172423",
+    "Defendant": "ALI EHRAZ, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 27 BLOCK 5901 F/K/A 123",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR INDENTURE TRUSTEE TO JPMORGAN CHASE BANK, NATIONAL ASSOCIATION FOR CWHEQ REVOLVING HOME EQUITY LOAN TRUST, SERIES 2005-D",
+    "Property Address": "36 LINCOLN AVENUE\nCARTERET NJ 07008",
+    "Property Note": "",
+    "Sale Date": "2/19/2025",
+    "Sheriff #": "F-776285"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 89202.11,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "36 LINCOLN AVENUE CARTERET NJ 07008",
+    "defendant": "ALI EHRAZ, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR INDENTURE TRUSTEE TO JPMORGAN CHASE BANK, NATIONAL ASSOCIATION FOR CWHEQ REVOLVING HOME EQUITY LOAN TRUST, SERIES 2005-D",
+    "sale_date": "2025-02-19"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 27 BLOCK 5901 F/K/A 123",
+  "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR INDENTURE TRUSTEE TO JPMORGAN CHASE BANK, NATIONAL ASSOCIATION FOR CWHEQ REVOLVING HOME EQUITY LOAN TRUST, SERIES 2005-D",
+  "property_note": null,
+  "sale_date": "2025-02-19",
+  "sheriff_number": "F-776285",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-19",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

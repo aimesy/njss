@@ -1,0 +1,49 @@
+{
+  "address": "6 Laurel Drive Wayne NJ 07470",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 007160 25 CTL#163265",
+  "current_status": "Scheduled",
+  "defendant": "ERIN HANDSCHIN, ET ALS",
+  "description": "Approximate dimensions: 150 X 75 X 150 X 75\nNearest cross street: Cedarcliffe Drive\nEstimated upset sheriff's sale bid amount: $378,000.00\nSubject to any further Order of additional sums executed by the court\nThe sheriff hereby reserves the right to adjourn this sale without further notice through publication",
+  "extracted": {},
+  "fields": {
+    "Address": "6 Laurel Drive\nWayne NJ 07470",
+    "Approx. Upset*": "$340,373.53",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Court Case #": "F 007160 25 CTL#163265",
+    "Defendant": "ERIN HANDSCHIN, ET ALS",
+    "Description": "Approximate dimensions: 150 X 75 X 150 X 75\nNearest cross street: Cedarcliffe Drive\nEstimated upset sheriff's sale bid amount: $378,000.00\nSubject to any further Order of additional sums executed by the court\nThe sheriff hereby reserves the right to adjourn this sale without further notice through publication",
+    "Parcel #": "Tax lot 3 in Block 1308",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "1/12/2027",
+    "Sheriff #": "F-26001545"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "6 Laurel Drive Wayne NJ 07470",
+    "defendant": "ERIN HANDSCHIN, ET ALS",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2027-01-12"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot 3 in Block 1308",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2027-01-12",
+  "sheriff_number": "F-26001545",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-01-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 340373.53,
+  "upset_amount_label": "Approx. Upset*"
+}

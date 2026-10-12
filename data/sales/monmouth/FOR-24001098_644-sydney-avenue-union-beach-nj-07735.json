@@ -1,0 +1,64 @@
+{
+  "address": "644 Sydney Avenue Union Beach NJ 07735",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00485320",
+  "current_status": "Scheduled",
+  "defendant": "Genaro Gonzalez A/K/A Genaro Gonzalez, Jr. Deceased",
+  "description": "Dimensions (Approx.): 100x40\nNearest Cross Street: Union Ave.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98)\nSheriff kindly advertise the following:\nGood Faith Esyimated Upset Price: $312,115.70\nOccupancy Status: Vacant",
+  "extracted": {
+    "occupancy": "Vacant",
+    "upset_amount": 312115.7
+  },
+  "fields": {
+    "Address": "644 Sydney Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$312,395.03",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00485320",
+    "Defendant": "Genaro Gonzalez A/K/A Genaro Gonzalez, Jr. Deceased",
+    "Description": "Dimensions (Approx.): 100x40\nNearest Cross Street: Union Ave.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98)\nSheriff kindly advertise the following:\nGood Faith Esyimated Upset Price: $312,115.70\nOccupancy Status: Vacant",
+    "Parcel #": "Tax Lot(s): 7, in Block:192 Tax Map of Borough of Union Beach",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee for RCG 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "11/22/2024",
+    "Sheriff #": "FOR-24001098"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 312395.03,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "644 Sydney Avenue Union Beach NJ 07735",
+    "defendant": "Genaro Gonzalez A/K/A Genaro Gonzalez, Jr. Deceased",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee for RCG 2 Acquisition Trust",
+    "sale_date": "2024-11-22"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 7, in Block:192 Tax Map of Borough of Union Beach",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee for RCG 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2024-11-22",
+  "sheriff_number": "FOR-24001098",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-22",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Scheduled"
+    }
+  ]
+}

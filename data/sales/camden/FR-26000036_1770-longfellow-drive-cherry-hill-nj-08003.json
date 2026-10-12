@@ -1,0 +1,65 @@
+{
+  "address": "1770 LONGFELLOW DRIVE CHERRY HILL NJ 08003",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00831125",
+  "current_status": "Scheduled",
+  "defendant": "DEBORAH FIORAVANTI",
+  "extracted": {},
+  "fields": {
+    "Address": "1770 LONGFELLOW DRIVE\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$272,114.54",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00831125",
+    "Defendant": "DEBORAH FIORAVANTI",
+    "Parcel #": "",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "8/4/2026",
+    "Sheriff #": "FR-26000036"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1770 LONGFELLOW DRIVE CHERRY HILL NJ 08003",
+    "defendant": "DEBORAH FIORAVANTI",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-08-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-08-04",
+  "sheriff_number": "FR-26000036",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 272114.54,
+  "upset_amount_label": "Approx. Upset*"
+}

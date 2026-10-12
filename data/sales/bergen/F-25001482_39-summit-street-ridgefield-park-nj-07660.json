@@ -1,0 +1,59 @@
+{
+  "address": "39 SUMMIT STREET RIDGEFIELD PARK NJ 07660",
+  "attorney": "GROSS POLOWY LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01302324",
+  "current_status": "Cancelled",
+  "defendant": "ASHLEY L MILBURNE AND MRS. OR MR. MILBURNE (NAME REFUSED)",
+  "description": "UPSET BID CONFIRMATION: $606,179.40\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "39 SUMMIT STREET\nRIDGEFIELD PARK NJ 07660",
+    "Approx. Upset*": "$591,988.67",
+    "Attorney": "GROSS POLOWY LLC",
+    "Court Case #": "F01302324",
+    "Defendant": "ASHLEY L MILBURNE AND MRS. OR MR. MILBURNE (NAME REFUSED)",
+    "Description": "UPSET BID CONFIRMATION: $606,179.40\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 2.01, BLOCK 55",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "5/6/2026",
+    "Sheriff #": "F-25001482"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "39 SUMMIT STREET RIDGEFIELD PARK NJ 07660",
+    "defendant": "ASHLEY L MILBURNE AND MRS. OR MR. MILBURNE (NAME REFUSED)",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2.01, BLOCK 55",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "F-25001482",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-07-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-26",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 591988.67,
+  "upset_amount_label": "Approx. Upset*"
+}

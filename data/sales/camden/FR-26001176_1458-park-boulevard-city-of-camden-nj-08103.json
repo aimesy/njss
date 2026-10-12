@@ -1,0 +1,53 @@
+{
+  "address": "1458 PARK BOULEVARD CITY OF CAMDEN NJ 08103",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01340425",
+  "current_status": "Scheduled",
+  "defendant": "OLIVIA SKINNER; MR. OLIVIA SKINNER, HUSBAND OF OLIVIA SKINNER, KENNEDY HEALTH SYSTEM; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY; AND UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "1458 PARK BOULEVARD\nCITY OF CAMDEN NJ 08103",
+    "Approx. Upset*": "$44,925.47",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01340425",
+    "Defendant": "OLIVIA SKINNER; MR. OLIVIA SKINNER, HUSBAND OF\nOLIVIA SKINNER, KENNEDY HEALTH SYSTEM; NEW\nJERSEY HOUSING AND MORTGAGE FINANCE AGENCY;\nSTATE OF NEW JERSEY; AND UNITED STATES OF AMERICA",
+    "Parcel #": "LOT 85, BLOCK 1269 FKA 892",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "Property Note": "Tax sale certificate NO. 26–01851 in the amount of $1497.77 CCMUA in the amount of $59.75, open and due 05/15/2026 . CCMUA in the amount of $523.44, plus penalty: owed in arrears. Water in the amount of $597.04, plus penalty.",
+    "Sales Date": "7/14/2026",
+    "Sheriff #": "FR-26001176"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1458 PARK BOULEVARD CITY OF CAMDEN NJ 08103",
+    "defendant": "OLIVIA SKINNER; MR. OLIVIA SKINNER, HUSBAND OF \nOLIVIA SKINNER, KENNEDY HEALTH SYSTEM; NEW \nJERSEY HOUSING AND MORTGAGE FINANCE AGENCY; \nSTATE OF NEW JERSEY; AND UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "sale_date": "2026-07-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 85, BLOCK 1269 FKA 892",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+  "property_note": "Tax sale certificate NO. 26–01851 in the amount of $1497.77 CCMUA in the amount of $59.75, open and due 05/15/2026 . CCMUA in the amount of $523.44, plus penalty: owed in arrears. Water in the amount of $597.04, plus penalty.",
+  "sale_date": "2026-07-14",
+  "sheriff_number": "FR-26001176",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-14",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 44925.47,
+  "upset_amount_label": "Approx. Upset*"
+}

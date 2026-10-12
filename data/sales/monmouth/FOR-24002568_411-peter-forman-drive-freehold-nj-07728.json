@@ -1,0 +1,64 @@
+{
+  "address": "411 Peter Forman Drive Freehold NJ 07728",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00165924",
+  "current_status": "Scheduled",
+  "defendant": "Lisa Sanchez, et al",
+  "description": "Dimensions of Lot: 40 feet wide by 500 feet long\nNearest Cross Street: Howell Road\nEstimated upset bid amount: $1,847,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 1 Due: 02/01/2025 $4,083.48 OPEN\n2025 Qtr 2 Due: 05/01/2025 $4,083.48 OPEN\nVacant Lot Charge: Vacant lot fees exist. Contact code enforcement/Community development (732) 938-4500 ext. 2300 for details",
+  "extracted": {
+    "lot": "40",
+    "occupancy": "owner Occupied"
+  },
+  "fields": {
+    "Address": "411 Peter Forman Drive\nFreehold NJ 07728",
+    "Approx. Judgment*": "$1,686,574.46",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00165924",
+    "Defendant": "Lisa Sanchez, et al",
+    "Description": "Dimensions of Lot: 40 feet wide by 500 feet long\nNearest Cross Street: Howell Road\nEstimated upset bid amount: $1,847,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 1 Due: 02/01/2025 $4,083.48 OPEN\n2025 Qtr 2 Due: 05/01/2025 $4,083.48 OPEN\nVacant Lot Charge: Vacant lot fees exist. Contact code enforcement/Community development (732) 938-4500 ext. 2300 for details",
+    "Parcel #": "Tax Lot 32.19 Block 170 Tax Map of Township of Howell",
+    "Plaintiff": "Deutsche Bank National Trust Company as Trustee, for Residential Asset Securitization Trust Series 2006-A8 Mortgage Pass-Through Certificates Series 2006-H",
+    "Property Note": "",
+    "Sales Date": "4/28/2025",
+    "Sheriff #": "FOR-24002568"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1686574.46,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "411 Peter Forman Drive Freehold NJ 07728",
+    "defendant": "Lisa Sanchez, et al",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Deutsche Bank National Trust Company as Trustee, for Residential Asset Securitization Trust Series 2006-A8 Mortgage Pass-Through Certificates Series 2006-H",
+    "sale_date": "2025-04-28"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 32.19 Block 170 Tax Map of Township of Howell",
+  "plaintiff": "Deutsche Bank National Trust Company as Trustee, for Residential Asset Securitization Trust Series 2006-A8 Mortgage Pass-Through Certificates Series 2006-H",
+  "property_note": null,
+  "sale_date": "2025-04-28",
+  "sheriff_number": "FOR-24002568",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-28",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

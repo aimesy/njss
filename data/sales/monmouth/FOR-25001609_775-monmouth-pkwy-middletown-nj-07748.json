@@ -1,0 +1,53 @@
+{
+  "address": "775 Monmouth Pkwy Middletown NJ 07748",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00102722",
+  "current_status": "Scheduled",
+  "defendant": "Charles Detrizio, et al",
+  "description": "Dimensions of the lot (Approximately): 50X100\nNearest Cross Street: Ocean Avenue\nThe Plaintiff's Good Faith Estimate is $346,181.67. The upset amount may be subject to furth Orders of additional sums.\nThe current occupancy status is Occupied",
+  "extracted": {},
+  "fields": {
+    "Address": "775 Monmouth Pkwy\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$333,791.67",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "F00102722",
+    "Defendant": "Charles Detrizio, et al",
+    "Description": "Dimensions of the lot (Approximately): 50X100\nNearest Cross Street: Ocean Avenue\nThe Plaintiff's Good Faith Estimate is $346,181.67. The upset amount may be subject to furth Orders of additional sums.\nThe current occupancy status is Occupied",
+    "Parcel #": "Lot(s) 1.02, Block 99, Tax Map of Township of Middletown",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity But Solely In Its Capacity As Owner Trustee For Onity Loan Acquisiion Trust 2024-HB2",
+    "Property Note": "",
+    "Sales Date": "10/27/2025",
+    "Sheriff #": "FOR-25001609"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 333791.67,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "775 Monmouth Pkwy Middletown NJ 07748",
+    "defendant": "Charles Detrizio, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity But Solely In Its Capacity As Owner Trustee For Onity Loan Acquisiion Trust 2024-HB2",
+    "sale_date": "2025-10-27"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot(s) 1.02, Block 99, Tax Map of Township of Middletown",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity But Solely In Its Capacity As Owner Trustee For Onity Loan Acquisiion Trust 2024-HB2",
+  "property_note": null,
+  "sale_date": "2025-10-27",
+  "sheriff_number": "FOR-25001609",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-27",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "address": "14 CHAPEL CIRCLE SICKLERVILLE NJ 08081",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01412623",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "DENISE E. SALITA F/K/A DENISE E. MATTNER, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "14 CHAPEL CIRCLE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$112,977.80",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F01412623",
+    "Defendant": "DENISE E. SALITA F/K/A DENISE E. MATTNER, ET AL.",
+    "Parcel #": "Tax Lot 7 Block 12703",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT\nSOLELY AS OWNER TRUSTEE FOR LEGACY MORTGAGE ASSET TRUST 2021-GS2",
+    "Property Note": "",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-25002305"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "14 CHAPEL CIRCLE SICKLERVILLE NJ 08081",
+    "defendant": "DENISE E. SALITA F/K/A DENISE E. MATTNER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT \nSOLELY AS OWNER TRUSTEE FOR LEGACY MORTGAGE ASSET TRUST 2021-GS2",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot 7 Block 12703",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR LEGACY MORTGAGE ASSET TRUST 2021-GS2",
+  "property_note": null,
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-25002305",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 112977.8,
+  "upset_amount_label": "Approx. Upset*"
+}

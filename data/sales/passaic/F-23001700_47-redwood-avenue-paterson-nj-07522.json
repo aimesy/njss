@@ -1,0 +1,59 @@
+{
+  "address": "47 Redwood Avenue Paterson NJ 07522",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 31218 15 CTL#162615",
+  "current_status": "Cancelled",
+  "defendant": "MOHAMMED S. BHUIYAN, ET ALS.",
+  "description": "Dimension of Lot Approximately: 25 x 99\nNearest Cross Street: Henry Street\nBeginning in the Southwesterly line of Redwood Avenue at a point distant 100 feet northwesterly from Henry street, and running thence;\nPrior Liens/ Encumbrances\n3rd Qtr Taxes Open $1,467.65\nSewer Open $170.50\n3rd Party Sewer Cert No. 23-00224 $1,845.64\nTotal as of August 3, 2023: $3,483.79\nFor more information, please visit www.Auction.com or call (800) 280-2832",
+  "extracted": {
+    "lot": "Approximately"
+  },
+  "fields": {
+    "Address": "47 Redwood Avenue\nPaterson NJ 07522",
+    "Approx. Upset*": "$217,265.48",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Court Case #": "F 31218 15 CTL#162615",
+    "Defendant": "MOHAMMED S. BHUIYAN, ET ALS.",
+    "Description": "Dimension of Lot Approximately: 25 x 99\nNearest Cross Street: Henry Street\nBeginning in the Southwesterly line of Redwood Avenue at a point distant 100 feet northwesterly from Henry street, and running thence;\nPrior Liens/ Encumbrances\n3rd Qtr Taxes Open $1,467.65\nSewer Open $170.50\n3rd Party Sewer Cert No. 23-00224 $1,845.64\nTotal as of August 3, 2023: $3,483.79\nFor more information, please visit www.Auction.com or call (800) 280-2832",
+    "Parcel #": "Tax Lot No: 16 FKA 18 in Block No: 916 FKA B0150",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "4/6/2026",
+    "Sheriff #": "F-23001700"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "47 Redwood Avenue Paterson NJ 07522",
+    "defendant": "MOHAMMED S. BHUIYAN, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-04-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot No: 16 FKA 18 in Block No: 916 FKA B0150",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-04-06",
+  "sheriff_number": "F-23001700",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2023-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-12-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 217265.48,
+  "upset_amount_label": "Approx. Upset*"
+}

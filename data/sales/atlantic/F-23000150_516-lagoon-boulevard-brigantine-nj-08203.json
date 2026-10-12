@@ -1,0 +1,70 @@
+{
+  "address": "516 Lagoon Boulevard Brigantine NJ 08203",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-031136-15 PLURIES",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "John J. Latko, III; Andrea Latko; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "516 Lagoon Boulevard\nBrigantine NJ 08203",
+    "Approx. Judgment*": "$350,271.50",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-031136-15 PLURIES",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "John J. Latko, III; Andrea Latko; State of New Jersey",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "DSHC Enterprise, amount: $168.91\nUS BankCust PC7 Firstrust Bank, amount: $716.12\nGarden State Investment, amount: $382.83\nElm Street Investments LLC, amount: $210.77\nTotal: $1,478.63",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "5/8/2025",
+    "Sheriff #": "F-23000150",
+    "Upset Amount": "$499,439.15"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 350271.5,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "516 Lagoon Boulevard Brigantine NJ 08203",
+    "defendant": "John J. Latko, III; ...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2025-05-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "DSHC Enterprise, amount: $168.91 US BankCust PC7 Firstrust Bank, amount: $716.12 Garden State Investment, amount: $382.83 Elm Street Investments LLC, amount: $210.77 Total: $1,478.63",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-05-08",
+  "sheriff_number": "F-23000150",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-08",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 499439.15,
+  "upset_amount_label": "Upset Amount"
+}

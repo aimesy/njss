@@ -1,0 +1,68 @@
+{
+  "address": "90 Statesir Place Middletown NJ 07701",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00285720",
+  "current_status": "Scheduled",
+  "defendant": "Christopher Magno, et al.",
+  "description": "Dimensions of Lot: 50X135\nNearest Cross Street: Frost Avenue\nEstimated upset bid amount: $657,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n# 2024 Qtr 2 Due: 05/01/2024 $2,385.84 OPEN\n# Sewer: Township of Middletown Sewerage Authority PO Box 281 Middletown, NJ 07748 732495-1010 Acct: 32266 0 03/01/2024 - 05/31/2024 $106.00 OPEN AND DUE 05/31/2024",
+  "extracted": {
+    "lot": "50X135",
+    "occupancy": "Owner"
+  },
+  "fields": {
+    "Address": "90 Statesir Place\nMiddletown NJ 07701",
+    "Approx. Judgment*": "$609,050.39",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00285720",
+    "Defendant": "Christopher Magno, et al.",
+    "Description": "Dimensions of Lot: 50X135\nNearest Cross Street: Frost Avenue\nEstimated upset bid amount: $657,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n# 2024 Qtr 2 Due: 05/01/2024 $2,385.84 OPEN\n# Sewer: Township of Middletown Sewerage Authority PO Box 281 Middletown, NJ 07748 732495-1010 Acct: 32266 0 03/01/2024 - 05/31/2024 $106.00 OPEN AND DUE 05/31/2024",
+    "Parcel #": "Tax Lot 4 Block 954 Tax Map of Township of Middletown",
+    "Plaintiff": "U.S. Bank National Association, not in its Individual Capacity but Solely as Trustee for The RMAC Trust, Series 2016-CTT",
+    "Property Note": "",
+    "Sales Date": "11/4/2024",
+    "Sheriff #": "FOR-24000697"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 609050.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "90 Statesir Place Middletown NJ 07701",
+    "defendant": "Christopher Magno, et al.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "U.S. Bank National Association, not in its Individual Capacity but Solely as Trustee for The RMAC Trust, Series 2016-CTT",
+    "sale_date": "2024-11-04"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 4 Block 954 Tax Map of Township of Middletown",
+  "plaintiff": "U.S. Bank National Association, not in its Individual Capacity but Solely as Trustee for The RMAC Trust, Series 2016-CTT",
+  "property_note": null,
+  "sale_date": "2024-11-04",
+  "sheriff_number": "FOR-24000697",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-04",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-09",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-12",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "address": "215 Lakewood Road Neptune NJ 07753",
+  "attorney": "Stern & Eisenberg",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00990522",
+  "current_status": "Settled",
+  "defendant": "Kevin F. Sheehan, et al",
+  "description": "Approximate Dimensions: 87 x 100\nNearest Cross Street: Lorraine Drive\nTaxes and Other Encumbrances:\n4th Quarter of 2024 open balance in the amount of $3,819.63*\nSewer open balance in the amount of $232.66, good through 10/15/2024*\nWater/ - Plaintifgf is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $569,938.05, good through March 7, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown",
+    "upset_amount": 569938.05
+  },
+  "fields": {
+    "Address": "215 Lakewood Road\nNeptune NJ 07753",
+    "Approx. Judgment*": "$523,542.86",
+    "Attorney": "Stern & Eisenberg",
+    "Court Case #": "F00990522",
+    "Defendant": "Kevin F. Sheehan, et al",
+    "Description": "Approximate Dimensions: 87 x 100\nNearest Cross Street: Lorraine Drive\nTaxes and Other Encumbrances:\n4th Quarter of 2024 open balance in the amount of $3,819.63*\nSewer open balance in the amount of $232.66, good through 10/15/2024*\nWater/ - Plaintifgf is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $569,938.05, good through March 7, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown",
+    "Parcel #": "Tax Lot #13 Block #4801 Tax Map of the Township of Neptune",
+    "Plaintiff": "PHH Mortgage Corporation",
+    "Property Note": "",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "FOR-24002212"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 523542.86,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "215 Lakewood Road Neptune NJ 07753",
+    "defendant": "Kevin F. Sheehan, et al",
+    "listing_status": "Settled",
+    "plaintiff": "PHH Mortgage Corporation",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot #13 Block #4801 Tax Map of the Township of Neptune",
+  "plaintiff": "PHH Mortgage Corporation",
+  "property_note": null,
+  "sale_date": "2025-01-09",
+  "sheriff_number": "FOR-24002212",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Settled"
+    }
+  ]
+}

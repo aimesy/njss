@@ -1,0 +1,57 @@
+{
+  "address": "287 MADISON AVENUE NEW MILFORD NJ 07646",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00735525",
+  "current_status": "Cancelled",
+  "defendant": "MARILYN ROSEN LANZARO; CARMINE LANZARO, ET AL.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "287 MADISON AVENUE\nNEW MILFORD NJ 07646",
+    "Approx. Upset*": "$149,819.09",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F00735525",
+    "Defendant": "MARILYN ROSEN LANZARO; CARMINE LANZARO, ET AL.",
+    "Description": "",
+    "Parcel #": "LOT 19, BLOCK 1204",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $164,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "7/14/2026",
+    "Sheriff #": "F-26000213"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "287 MADISON AVENUE NEW MILFORD NJ 07646",
+    "defendant": "MARILYN ROSEN LANZARO; CARMINE LANZARO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-07-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 19, BLOCK 1204",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $164,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-07-14",
+  "sheriff_number": "F-26000213",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-14",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 149819.09,
+  "upset_amount_label": "Approx. Upset*"
+}

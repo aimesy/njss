@@ -1,0 +1,53 @@
+{
+  "address": "2310 GREENWOOD DRIVE UNIT 2310 LINDENWOLD NJ 08021",
+  "attorney": "STERN & EISENBERG, PC",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00678625",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "JGREENPROPERTY L.L.C., A NEW JERSEY LIMITED LIABILITY COMPANY AND JUSTIN GREEN, ET. AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "2310 GREENWOOD DRIVE\nUNIT 2310\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$169,399.11",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00678625",
+    "Defendant": "JGREENPROPERTY L.L.C., A NEW JERSEY LIMITED\nLIABILITY COMPANY AND JUSTIN GREEN, ET. AL.",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION,\nAS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL\nLOAN TRUST 2024-4",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25002672"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2310 GREENWOOD DRIVE UNIT 2310 LINDENWOLD NJ 08021",
+    "defendant": "JGREENPROPERTY L.L.C., A NEW JERSEY LIMITED \nLIABILITY COMPANY AND JUSTIN GREEN, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, \nAS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL \nLOAN TRUST 2024-4",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-4",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25002672",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 169399.11,
+  "upset_amount_label": "Approx. Upset*"
+}

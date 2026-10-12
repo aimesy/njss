@@ -1,0 +1,67 @@
+{
+  "address": "30 WHIPPOORWILL Lane Rockaway NJ 07866",
+  "county": "Morris County, NJ",
+  "county_id": 9,
+  "court_case_number": "F-006006-25",
+  "current_status": "Cancelled",
+  "defendant": "Patrick G. Brigante and Michelle C. Brigante, et al.",
+  "description": "Approximate Dimensions: .267 AC\nNearest Cross Street: Lief Erickson Road\nPlaintiff Upset Price: $332,000\nOccupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 332000.0
+  },
+  "fields": {
+    "Address": "30 WHIPPOORWILL Lane\nRockaway NJ 07866",
+    "Court Case #": "F-006006-25",
+    "Defendant": "Patrick G. Brigante and Michelle C. Brigante, et al.",
+    "Description": "Approximate Dimensions: .267 AC\nNearest Cross Street: Lief Erickson Road\nPlaintiff Upset Price: $332,000\nOccupancy Status: Unknown",
+    "Plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS1",
+    "Sales Date": "8/13/2026",
+    "Sheriff #": "25001881"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "30 WHIPPOORWILL Lane Rockaway NJ 07866",
+    "defendant": "Patrick G. Brigante and Michelle C. Brigante, et al.",
+    "listing_status": null,
+    "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS1",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Morris County, NJ)",
+  "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS1",
+  "sale_date": "2026-08-13",
+  "sheriff_number": "25001881",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=9",
+  "status_history": [
+    {
+      "date": "2026-02-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2026-05-28",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2026-07-09",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2026-08-06",
+      "status": "Adjourned by the Plaintiff to"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "Cancelled"
+    }
+  ]
+}

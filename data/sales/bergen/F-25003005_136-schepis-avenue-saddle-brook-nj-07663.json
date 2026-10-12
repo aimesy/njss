@@ -1,0 +1,56 @@
+{
+  "address": "136 SCHEPIS AVENUE SADDLE BROOK NJ 07663",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00461825",
+  "current_status": "BANKRUPTCY",
+  "defendant": "ADAM V CALDERONE; CANDICE LEE CALDERONE; ET AL",
+  "description": "UPSET PRICE: APPROXIMATELY: $560,376.97 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN.",
+  "extracted": {
+    "occupancy": "OCCUPIED BY UNKNOWN.",
+    "upset_amount": 560376.97
+  },
+  "fields": {
+    "Address": "136 SCHEPIS AVENUE\nSADDLE BROOK NJ 07663",
+    "Approx. Upset*": "$518,528.18",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+    "Court Case #": "F00461825",
+    "Defendant": "ADAM V CALDERONE; CANDICE LEE CALDERONE; ET AL",
+    "Description": "UPSET PRICE: APPROXIMATELY: $560,376.97 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN.",
+    "Parcel #": "LOT 29, BLOCK 1712",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2019-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "4/3/2026",
+    "Sheriff #": "F-25003005"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "136 SCHEPIS AVENUE SADDLE BROOK NJ 07663",
+    "defendant": "ADAM V CALDERONE; CANDICE LEE CALDERONE; ET AL",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2019-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "sale_date": "2026-04-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 29, BLOCK 1712",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2019-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-04-03",
+  "sheriff_number": "F-25003005",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-03",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 518528.18,
+  "upset_amount_label": "Approx. Upset*"
+}

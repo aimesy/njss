@@ -1,0 +1,74 @@
+{
+  "address": "12 METZGER DRIVE WEST ORANGE NJ 07052",
+  "attorney": "HUESTON MCNULTY, PC",
+  "attorney_phone": null,
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00337222",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "BETH TOFEL, ET.AL.",
+  "description": "TAX LOT NO: 11.04 BLOCK NO: 166.15 QUALIFIER: C0009\nDIMENSIONS OF LOT APPROXIMATELY: DESIGNATED AS UNIT NO. 9, SITUATED IN VIZCAYA CONDOMINIUM\nNEAREST CROSS STREET: KEIMEL COURT\nUPSET AMOUNT: $197,187.69. OCCUPANT STATUS: OCCUPIED BY CURRENT OWNER\nPRIOR LIENS/ENCUMBRANCES: WILMINGTON SAVINGS FUND SOCIETY FSB AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES FUND V-D $625,000.00. THE RENEWAL OF LIENS IN THE AMOUNT OF $248,970.66. RECORDED ON JULY 8, 2024, IN THE OFFICE OF THE ESSEX COUNTY REGISTRAR'S OFFICE INSTRUMENT NUMBER 2024038434.",
+  "extracted": {
+    "block": "NO",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "12 METZGER DRIVE\nWEST ORANGE NJ 07052",
+    "Approx. Upset*": "$197,187.69",
+    "Attorney": "HUESTON MCNULTY, PC",
+    "Attorney Phone": "",
+    "Court Case #": "F00337222",
+    "Defendant": "BETH TOFEL, ET.AL.",
+    "Description": "TAX LOT NO: 11.04 BLOCK NO: 166.15 QUALIFIER: C0009\nDIMENSIONS OF LOT APPROXIMATELY: DESIGNATED AS UNIT NO. 9, SITUATED IN VIZCAYA CONDOMINIUM\nNEAREST CROSS STREET: KEIMEL COURT\nUPSET AMOUNT: $197,187.69. OCCUPANT STATUS: OCCUPIED BY CURRENT OWNER\nPRIOR LIENS/ENCUMBRANCES: WILMINGTON SAVINGS FUND SOCIETY FSB AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES FUND V-D $625,000.00. THE RENEWAL OF LIENS IN THE AMOUNT OF $248,970.66. RECORDED ON JULY 8, 2024, IN THE OFFICE OF THE ESSEX COUNTY REGISTRAR'S OFFICE INSTRUMENT NUMBER 2024038434.",
+    "Parcel #": "",
+    "Plaintiff": "VIZCAYA CONDOMINIUM ASSOCIATION, INC., A NJ NON-PROFIT CORPORATION,",
+    "Property Note": "",
+    "Sales Date": "9/19/2026",
+    "Sheriff #": "F-24004350"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 METZGER DRIVE WEST ORANGE NJ 07052",
+    "defendant": "BETH TOFEL, ET.AL.",
+    "listing_status": null,
+    "plaintiff": "VIZCAYA CONDOMINIUM ASSOCIATION, INC., A NJ NON-PROFIT CORPORATION,",
+    "sale_date": "2026-09-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "VIZCAYA CONDOMINIUM ASSOCIATION, INC., A NJ NON-PROFIT CORPORATION,",
+  "property_note": null,
+  "sale_date": "2026-09-19",
+  "sheriff_number": "F-24004350",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2024-12-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-14",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-19",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 197187.69,
+  "upset_amount_label": "Approx. Upset*"
+}

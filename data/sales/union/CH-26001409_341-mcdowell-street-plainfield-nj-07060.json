@@ -1,0 +1,61 @@
+{
+  "address": "341 MCDOWELL STREET PLAINFIELD NJ 07060",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00598925",
+  "current_status": "Defendant Adjournment",
+  "defendant": "LENA R. WASHINGTON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; SKYLANDS ENERGY SERV",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "341 MCDOWELL STREET\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$197,233.79",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F00598925",
+    "Defendant": "LENA R. WASHINGTON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; SKYLANDS ENERGY SERV",
+    "Description": "",
+    "Parcel #": "LOT 15 BLOCK 128",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "Dimensions of Lot: (Approximately) 37.50 feet wide\nBy 150 feet long\nNearest Cross Street: West 4dl Street\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION\nSurplus Money: If after the sale and satisfaction of the mortgage debt including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any\nThe estimated upset amount for the scheduled sheriff sale is cunently $ 220,163.00. The upset price is not the same as a payoff or judgment redemption amount.\nProperty is occupied by unknown",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "CH-26001409"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "341 MCDOWELL STREET PLAINFIELD NJ 07060",
+    "defendant": "LENA R. WASHINGTON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; SKYLANDS ENERGY SERV",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 15 BLOCK 128",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": "Dimensions of Lot: (Approximately) 37.50 feet wide\nBy 150 feet long\nNearest Cross Street: West 4dl Street\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION\nSurplus Money: If after the sale and satisfaction of the mortgage debt including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any\nThe estimated upset amount for the scheduled sheriff sale is cunently $ 220,163.00. The upset price is not the same as a payoff or judgment redemption amount.\nProperty is occupied by unknown",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "CH-26001409",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-07-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-26",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 197233.79,
+  "upset_amount_label": "Approx. Upset*"
+}

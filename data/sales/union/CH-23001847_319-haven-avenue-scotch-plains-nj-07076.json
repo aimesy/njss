@@ -1,0 +1,69 @@
+{
+  "address": "319 HAVEN AVENUE SCOTCH PLAINS NJ 07076",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00151222",
+  "current_status": "Cancelled",
+  "defendant": "NAMON M. JACKSON AND CORA E. JACKSON, HIS WIFE",
+  "description": "LOT# 13 BLOCK# 1001",
+  "extracted": {},
+  "fields": {
+    "Address": "319 HAVEN AVENUE\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$222,340.01",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+    "Court Case #": "F00151222",
+    "Defendant": "NAMON M. JACKSON AND CORA E. JACKSON, HIS WIFE",
+    "Description": "LOT# 13 BLOCK# 1001",
+    "Parcel #": "LOT# 13 BLOCK# 1001",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "4/6/2026",
+    "Sheriff #": "CH-23001847"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "319 HAVEN AVENUE SCOTCH PLAINS NJ 07076",
+    "defendant": "NAMON M. JACKSON AND CORA E. JACKSON, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2026-04-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT# 13 BLOCK# 1001",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-04-06",
+  "sheriff_number": "CH-23001847",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2023-09-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-10-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-11-29",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-11-29",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2024-12-17",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 222340.01,
+  "upset_amount_label": "Approx. Upset*"
+}

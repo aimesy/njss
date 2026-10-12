@@ -1,0 +1,53 @@
+{
+  "address": "130 STOKES AVENUE WEST BERLIN NJ 08091",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00200426",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "KERRIN O'CONNOR; MR. KERRIN O'CONNOR, HUSBAND OF KERRIN O'CONNOR AND UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "130 STOKES AVENUE\nWEST BERLIN NJ 08091",
+    "Approx. Upset*": "$157,743.84",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00200426",
+    "Defendant": "KERRIN O'CONNOR; MR. KERRIN O'CONNOR, HUSBAND OF KERRIN\nO'CONNOR AND UNITED STATES OF AMERICA,",
+    "Parcel #": "Lot 5, Block 214",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+    "Property Note": "Water - To: 05/15/2026 $55.00 OPEN PLUS PENALTY $94.73\nOPEN PLUS PENALTY; OWED IN ARREARS\nSewer - 07/01/2026 - 09/30/2026 $81.25 OPEN PLUS PENALTY\n$455.55 OPEN PLUS PENALTY; OWED IN ARREARS\nCCMUA - 07/01/2026 - 09/30/2026 $93.00 OPEN AND DUE\n08/15/2026 $175.62 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26001818"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "130 STOKES AVENUE WEST BERLIN NJ 08091",
+    "defendant": "KERRIN O'CONNOR; MR. KERRIN O'CONNOR, HUSBAND OF KERRIN \nO'CONNOR AND UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 5, Block 214",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+  "property_note": "Water - To: 05/15/2026 $55.00 OPEN PLUS PENALTY $94.73\nOPEN PLUS PENALTY; OWED IN ARREARS\nSewer - 07/01/2026 - 09/30/2026 $81.25 OPEN PLUS PENALTY\n$455.55 OPEN PLUS PENALTY; OWED IN ARREARS\nCCMUA - 07/01/2026 - 09/30/2026 $93.00 OPEN AND DUE\n08/15/2026 $175.62 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26001818",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 157743.84,
+  "upset_amount_label": "Approx. Upset*"
+}

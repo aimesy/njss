@@ -1,0 +1,117 @@
+{
+  "address": "107 PENNSYLVANIA AVENUE FLEMINGTON NJ 08822",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hunterdon County, NJ",
+  "county_id": 32,
+  "court_case_number": "F-013484-23",
+  "current_status": "Scheduled",
+  "defendant": "CHRISTOPHER KONIECKO; ET AL.",
+  "description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $336,500.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "107 PENNSYLVANIA AVENUE\nFLEMINGTON NJ 08822",
+    "Approx Judgment": "$282,561.11",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-013484-23",
+    "Defendant": "CHRISTOPHER KONIECKO; ET AL.",
+    "Parcel #": "LOT: 4 BLOCK : 34",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Details": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $336,500.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Property Note": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $333,100.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "F-4041"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 282561.11,
+  "judgment_amount_label": "Approx Judgment",
+  "listing": {
+    "address": "107 PENNSYLVANIA AVENUE FLEMINGTON NJ 08822",
+    "defendant": "CHRISTOPHER KONIECKO; ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
+  "parcel": "LOT: 4 BLOCK : 34",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $333,100.00\nOCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "F-4041",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-09-21",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-07-14",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-02-09",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-01-01",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-01",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-07-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-24",
+      "status": "Bankruptcy/Adjourned"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-12",
+      "status": "Bankruptcy/Adjourned"
+    },
+    {
+      "date": "2024-11-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-10-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Scheduled"
+    }
+  ]
+}

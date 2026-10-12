@@ -1,0 +1,63 @@
+{
+  "address": "114 CARVER DRIVE WENONAH NJ 08090",
+  "attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-012007-24",
+  "current_status": "Defendant Adjourned to",
+  "defendant": "CAROLYN GIBSON, ET AL.",
+  "description": "ESTIMATED UPSET BID: $98,122.01\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "114 CARVER DRIVE\nWENONAH NJ 08090",
+    "Approximate Judgment": "$75,610.98",
+    "Attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+    "Court Case #": "F-012007-24",
+    "Defendant": "CAROLYN GIBSON, ET AL.",
+    "Description": "ESTIMATED UPSET BID: $98,122.01\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT: 25 BLOCK: 555",
+    "Plaintiff": "FIRST HARVEST CREDIT UNION, formerly doing business as SOUTH JERSEY FEDERAL CREDIT UNION",
+    "Property Note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n114 CARVER DRIVE WENONAH, NJ 08090\nLOT: 25 BLOCK: 555\nAPPROXIMATE DIMENSIONS: 118.00 ft x 160.00 ft x 20.00 ft x 148.29 ft\nNUMBER OF FEET TO NEAREST CROSS STREET: APPROXIMATELY 220 FT. FROM HAMMOND AVENUE\nESTIMATED UPSET BID: $98,122.01\nOCCUPANCY STATUS: UNKNOWN\nPURSUANT TO N.J.S.A. 2A:50-64, ET. SEQ., PLAINTIFF SETS THE UPSET BID FOR THE FORECLOSED PREMISES AT THE JUDGMENT AMOUNT ($73,748.50) PLUS ALL POST-JUDGMENT INTEREST AS ACCRUING THROUGH THE DATE OF THE SHERIFF'S SALE AND RESERVES ITS RIGHTS WITH RESPECT TO ANY POST-JUDGMENT MOTION FOR AN ORDER FOR ADDITOINAL SUMS, IF PROCURED FOLLOWING THE DATE OF THE SCHEDULING OF THE SALE",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "F-25001409"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 75610.98,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "114 CARVER DRIVE WENONAH NJ 08090",
+    "defendant": "CAROLYN GIBSON, ET AL.",
+    "listing_status": "Defendant Adjourned to",
+    "plaintiff": "FIRST HARVEST CREDIT UNION, formerly doing business as SOUTH JERSEY FEDERAL CREDIT UNION",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": "Defendant Adjourned to",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 25 BLOCK: 555",
+  "plaintiff": "FIRST HARVEST CREDIT UNION, formerly doing business as SOUTH JERSEY FEDERAL CREDIT UNION",
+  "property_note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n114 CARVER DRIVE WENONAH, NJ 08090\nLOT: 25 BLOCK: 555\nAPPROXIMATE DIMENSIONS: 118.00 ft x 160.00 ft x 20.00 ft x 148.29 ft\nNUMBER OF FEET TO NEAREST CROSS STREET: APPROXIMATELY 220 FT. FROM HAMMOND AVENUE\nESTIMATED UPSET BID: $98,122.01\nOCCUPANCY STATUS: UNKNOWN\nPURSUANT TO N.J.S.A. 2A:50-64, ET. SEQ., PLAINTIFF SETS THE UPSET BID FOR THE FORECLOSED PREMISES AT THE JUDGMENT AMOUNT ($73,748.50) PLUS ALL POST-JUDGMENT INTEREST AS ACCRUING THROUGH THE DATE OF THE SHERIFF'S SALE AND RESERVES ITS RIGHTS WITH RESPECT TO ANY POST-JUDGMENT MOTION FOR AN ORDER FOR ADDITOINAL SUMS, IF PROCURED FOLLOWING THE DATE OF THE SCHEDULING OF THE SALE",
+  "sale_date": "2026-04-15",
+  "sheriff_number": "F-25001409",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Settled - Foreclosures"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjourned to"
+    }
+  ]
+}

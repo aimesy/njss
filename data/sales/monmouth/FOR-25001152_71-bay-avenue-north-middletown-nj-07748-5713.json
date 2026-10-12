@@ -1,0 +1,75 @@
+{
+  "address": "71 Bay Avenue North Middletown NJ 07748-5713",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00269420",
+  "current_status": "Scheduled",
+  "defendant": "Timothy Dwyer, et al.",
+  "description": "Dimensions: 50 FT X 120 FT\nNearest Cross Street: Neptune Place\nPlaintiff's good faith estimate of its upset price is: $229,272.08\nThe occupancy status of the property is: OCCUPIED By UNKNOWN\ni.Timothy Dwyer to Secretary of Housing and Urban Development, dated April 10,2019 and recorded May 22,2019 in Book OR-9349, Page 3101, To secure $49,507.50\nPursuant to 28 USC 2410(c) this sale is subject to a 1 year right of redemption held by the United States of America by virtue of its liens.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.",
+  "extracted": {
+    "upset_amount": 229272.08
+  },
+  "fields": {
+    "Address": "71 Bay Avenue\nNorth Middletown NJ 07748-5713",
+    "Approx. Judgment*": "$214,234.17",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F00269420",
+    "Defendant": "Timothy Dwyer, et al.",
+    "Description": "Dimensions: 50 FT X 120 FT\nNearest Cross Street: Neptune Place\nPlaintiff's good faith estimate of its upset price is: $229,272.08\nThe occupancy status of the property is: OCCUPIED By UNKNOWN\ni.Timothy Dwyer to Secretary of Housing and Urban Development, dated April 10,2019 and recorded May 22,2019 in Book OR-9349, Page 3101, To secure $49,507.50\nPursuant to 28 USC 2410(c) this sale is subject to a 1 year right of redemption held by the United States of America by virtue of its liens.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.",
+    "Parcel #": "Being Known as: LOT 46, BLOCK 69 on the Tax Map of the Township of Middletown",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/5/2026",
+    "Sheriff #": "FOR-25001152"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 214234.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "71 Bay Avenue North Middletown NJ 07748-5713",
+    "defendant": "Timothy Dwyer, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Wells Fargo Bank, N.A.",
+    "sale_date": "2026-01-05"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Being Known as: LOT 46, BLOCK 69 on the Tax Map of the Township of Middletown",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2026-01-05",
+  "sheriff_number": "FOR-25001152",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-05",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Scheduled"
+    }
+  ]
+}

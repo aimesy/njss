@@ -1,0 +1,57 @@
+{
+  "address": "1058 MONITOR ROAD CAMDEN NJ 08104",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00089126",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "TYRONE COLLINS; STATE OF NEW JERSEY; PENNSAUKEN SPINE & REHAB,",
+  "extracted": {},
+  "fields": {
+    "Address": "1058 MONITOR ROAD\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$94,291.05",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00089126",
+    "Defendant": "TYRONE COLLINS; STATE OF NEW JERSEY; PENNSAUKEN SPINE & REHAB,",
+    "Parcel #": "Tax LOT 16 BLOCK 665",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE\nFOR THE FREDDIE MAC SEASONED CREDIT RISK TRANSFER\nTRUST, SERIES 2025-1,",
+    "Property Note": "CCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 080083645 04/01/2026 06/30/2026$59.75 OPEN PLUS PENALTY $69.32 OPEN PLUS PENALTY\nWater: American Water Contract Services P.O. BOX 371397 Pittsburgh, PA 15250-7397 855-769-3164\nAS OF THE DATE OF THIS SEARCH THE STATUS OF ACCOUNT 77-0471775-5 IS $211.55 OPEN+PENALTY\nLiens: Year: 2025 Type: 3RD PARTY A Amount: $1,196.69\nCert No.: 26-00744 Sold: 04/06/2026 To: FIG 25, LLC FBO SEC PTY",
+    "Sales Date": "8/6/2026",
+    "Sheriff #": "FR-26001464"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1058 MONITOR ROAD CAMDEN NJ 08104",
+    "defendant": "TYRONE COLLINS; STATE OF NEW JERSEY; PENNSAUKEN SPINE & REHAB,",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE \nFOR THE FREDDIE MAC SEASONED CREDIT RISK TRANSFER \nTRUST, SERIES 2025-1,",
+    "sale_date": "2026-08-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax LOT 16 BLOCK 665",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2025-1,",
+  "property_note": "CCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 080083645 04/01/2026 06/30/2026$59.75 OPEN PLUS PENALTY $69.32 OPEN PLUS PENALTY\nWater: American Water Contract Services P.O. BOX 371397 Pittsburgh, PA 15250-7397 855-769-3164\nAS OF THE DATE OF THIS SEARCH THE STATUS OF ACCOUNT 77-0471775-5 IS $211.55 OPEN+PENALTY\nLiens: Year: 2025 Type: 3RD PARTY A Amount: $1,196.69\nCert No.: 26-00744 Sold: 04/06/2026 To: FIG 25, LLC FBO SEC PTY",
+  "sale_date": "2026-08-06",
+  "sheriff_number": "FR-26001464",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-06",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 94291.05,
+  "upset_amount_label": "Approx. Upset*"
+}

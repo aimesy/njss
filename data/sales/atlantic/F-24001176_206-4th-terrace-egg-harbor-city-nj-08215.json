@@ -1,0 +1,58 @@
+{
+  "address": "206 4th Terrace Egg Harbor City NJ 08215",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003926-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Lash Brumfield; Mr. or Mrs. Lash, husband or wife of Lash Brumfield the spouse, Domestic Partner or Civil Union Partner of Lash Brumfield; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "206 4th Terrace\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$98,061.91",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-003926-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Lash Brumfield; Mr. or Mrs. Lash, husband or wife of Lash Brumfield the spouse, Domestic Partner or Civil Union Partner of Lash Brumfield; State of New Jersey",
+    "Plaintiff": "MidFirst Bank",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "10/24/2024",
+    "Sheriff #": "F-24001176",
+    "Upset Amount": "$109,021.27"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 98061.91,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "206 4th Terrace Egg Harbor City NJ 08215",
+    "defendant": "Lash Brumfield; Mr. ...",
+    "listing_status": null,
+    "plaintiff": "MidFirst Bank...",
+    "sale_date": "2024-10-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "MidFirst Bank",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2024-10-24",
+  "sheriff_number": "F-24001176",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-10-24",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 109021.27,
+  "upset_amount_label": "Upset Amount"
+}

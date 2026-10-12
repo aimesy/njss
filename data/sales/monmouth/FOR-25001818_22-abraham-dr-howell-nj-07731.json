@@ -1,0 +1,60 @@
+{
+  "address": "22 Abraham Dr Howell NJ 07731",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01116324",
+  "current_status": "Scheduled",
+  "defendant": "Lisa DeFilippo, et al.",
+  "description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 150.00ft from the nearest cross street known as Deborah Lane\nApproximate Dimensions: 110.00ft x 75.00ft x 110.00ft x 75.00ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8767, at page 1716\nAPPROXIMATE UPSET PRICE IS $416,565.89 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated August 21, 2025.\nSubject to: 2025 3rd quarter taxes due 8/1/2025, $2,991.36 OPEN\n2025 4th quarter taxes due 11/1/2025, $2,991.35 OPEN\n2026 1st quarter taxes due 2/1/2026, $2,707.27 OPEN\n2026 2nd quarter taxes due 5/1/2026, $2,707.26 OPEN\nSewer: Acct. 31220400-0, $159.00 OPEN AND DUE 10/1/2025, $642.08 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "extracted": {
+    "occupancy": "Borrower Occupied",
+    "upset_amount": 416565.89
+  },
+  "fields": {
+    "Address": "22 Abraham Dr\nHowell NJ 07731",
+    "Approx. Judgment*": "$383,598.70",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F01116324",
+    "Defendant": "Lisa DeFilippo, et al.",
+    "Description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 150.00ft from the nearest cross street known as Deborah Lane\nApproximate Dimensions: 110.00ft x 75.00ft x 110.00ft x 75.00ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8767, at page 1716\nAPPROXIMATE UPSET PRICE IS $416,565.89 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated August 21, 2025.\nSubject to: 2025 3rd quarter taxes due 8/1/2025, $2,991.36 OPEN\n2025 4th quarter taxes due 11/1/2025, $2,991.35 OPEN\n2026 1st quarter taxes due 2/1/2026, $2,707.27 OPEN\n2026 2nd quarter taxes due 5/1/2026, $2,707.26 OPEN\nSewer: Acct. 31220400-0, $159.00 OPEN AND DUE 10/1/2025, $642.08 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Parcel #": "Lot: 4; Block: 1.22 Tax Map of the Township of Howell",
+    "Plaintiff": "U.S. Bank National Association, as Trustee for Citigroup Mortgage Loan Trust Inc., Mortgage Pass-Through Certificates, Series 2006-WF2",
+    "Property Note": "",
+    "Sales Date": "1/2/2026",
+    "Sheriff #": "FOR-25001818"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 383598.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "22 Abraham Dr Howell NJ 07731",
+    "defendant": "Lisa DeFilippo, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank National Association, as Trustee for Citigroup Mortgage Loan Trust Inc., Mortgage Pass-Through Certificates, Series 2006-WF2",
+    "sale_date": "2026-01-02"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 4; Block: 1.22 Tax Map of the Township of Howell",
+  "plaintiff": "U.S. Bank National Association, as Trustee for Citigroup Mortgage Loan Trust Inc., Mortgage Pass-Through Certificates, Series 2006-WF2",
+  "property_note": null,
+  "sale_date": "2026-01-02",
+  "sheriff_number": "FOR-25001818",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Scheduled"
+    }
+  ]
+}

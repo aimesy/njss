@@ -1,0 +1,64 @@
+{
+  "address": "91 SOUTH MAIN STREET MILLTOWN NJ 08850",
+  "attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 325-8800",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00524124",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "KATHLEEN C. SHANABROOK, ET ALS.",
+  "description": "SOUTH MAIN STREET IS ALSO REFFERED TO AS MAIN STREET",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$230,355.14",
+    "Attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00524124",
+    "Defendant": "KATHLEEN C. SHANABROOK, ET ALS.",
+    "Description": "SOUTH MAIN STREET IS ALSO REFFERED TO AS MAIN STREET",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 12 BLOCK 75.03 FKA 75",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC.",
+    "Property Address": "91 SOUTH MAIN STREET\nMILLTOWN NJ 08850",
+    "Property Note": "",
+    "Sale Date": "4/16/2025",
+    "Sheriff #": "F-24000452"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 230355.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "91 SOUTH MAIN STREET MILLTOWN NJ 08850",
+    "defendant": "KATHLEEN C. SHANABROOK, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC.",
+    "sale_date": "2025-04-16"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 12 BLOCK 75.03 FKA 75",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC.",
+  "property_note": null,
+  "sale_date": "2025-04-16",
+  "sheriff_number": "F-24000452",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-09",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

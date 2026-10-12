@@ -1,0 +1,67 @@
+{
+  "address": "6 Rodeo Court Howell NJ 07731",
+  "attorney": "Broege Neumann Fischer & Shaver LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01903919",
+  "current_status": "Scheduled",
+  "defendant": "Michael Cortese, et al",
+  "description": "Map: \"Oak Leaf Estates\" No. 295-29\nLot Size: 1.52 AC\nNearest Cross Street: Brown Road",
+  "extracted": {
+    "lot": "Size"
+  },
+  "fields": {
+    "Address": "6 Rodeo Court\nHowell NJ 07731",
+    "Approx. Judgment*": "$508,316.65",
+    "Attorney": "Broege Neumann Fischer & Shaver LLC",
+    "Court Case #": "F01903919",
+    "Defendant": "Michael Cortese, et al",
+    "Description": "Map: \"Oak Leaf Estates\" No. 295-29\nLot Size: 1.52 AC\nNearest Cross Street: Brown Road",
+    "Parcel #": "Lot 13.03, Block 72 Tax Map of the Township of Howell",
+    "Plaintiff": "Manasquan Savings Bank n/k/a Manasquan Bank",
+    "Property Note": "",
+    "Sales Date": "10/22/2025",
+    "Sheriff #": "FOR-20001721"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 508316.65,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 Rodeo Court Howell NJ 07731",
+    "defendant": "Michael Cortese, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Manasquan Savings Bank n/k/a Manasquan Bank",
+    "sale_date": "2025-10-22"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 13.03, Block 72 Tax Map of the Township of Howell",
+  "plaintiff": "Manasquan Savings Bank n/k/a Manasquan Bank",
+  "property_note": null,
+  "sale_date": "2025-10-22",
+  "sheriff_number": "FOR-20001721",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-22",
+      "status": "Settled"
+    },
+    {
+      "date": "2022-01-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-01-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2021-11-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2021-11-01",
+      "status": "Scheduled"
+    }
+  ]
+}

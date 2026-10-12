@@ -1,0 +1,61 @@
+{
+  "address": "260 HARRISON AVENUE APT 204 JERSEY CITY NJ 07304",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "860-241-2806",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006859-25",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "MICHAEL T. HETTINGER",
+  "description": "LOT 42.01 FKA F25.204, BLOCK 17702 FKA 1811\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: WEST SIDE AVENUE\nUPSET PRICE: $437,659.72\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "17702",
+    "lot": "42.01",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 437659.72
+  },
+  "fields": {
+    "Address": "260 HARRISON AVENUE APT 204\nJERSEY CITY NJ 07304",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "860-241-2806",
+    "Court Case #": "F-006859-25",
+    "Defendant": "MICHAEL T. HETTINGER",
+    "Description": "LOT 42.01 FKA F25.204, BLOCK 17702 FKA 1811\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: WEST SIDE AVENUE\nUPSET PRICE: $437,659.72\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Good Faith Upset*": "$437,659.72",
+    "Judgment": "$390,456.86",
+    "Plaintiff": "SELECT PORTFOLIO SERVICING, INC",
+    "Property Note": "**DEF USED FULL ADJ. SEE 20061215**",
+    "Sales Date": "9/24/2026",
+    "Sheriff #": "20063755"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 390456.86,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "260 HARRISON AVENUE APT 204 JERSEY CITY NJ 07304",
+    "defendant": "MICHAEL T. HETTINGER",
+    "listing_status": null,
+    "plaintiff": "SELECT PORTFOLIO SERVICING, INC",
+    "sale_date": "2026-09-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "SELECT PORTFOLIO SERVICING, INC",
+  "property_note": "**DEF USED FULL ADJ. SEE 20061215**",
+  "sale_date": "2026-09-24",
+  "sheriff_number": "20063755",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": 437659.72,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,72 @@
+{
+  "address": "3519 JOHN F KENNEDY BLVD JERSEY CITY NJ 07307",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-001360-25",
+  "current_status": "Cancelled",
+  "defendant": "KONIS DIONYSSIOU A/K/A MARIA DIONYSSIOU A/K/A KONIS DIONYSIOU",
+  "description": "TAX LOT 7 FKA 1.NO BLOCK 2005 FKA 919\nDIMENSIONS OF LOT: 25.1X91 AV\nNEAREST CROSS STREET: BLEEKER STREET\nESTIMATED UPSET BID AMOUNT: $144,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\nWATER: VEOLIA WATER NEW JERSEY - JCMUA 69 DEVOE PL. HACKENSACK, NJ 07601 800-422-5987 ACCT: 30308192640000 TO: 05/08/2025 $371.05 OPEN PLUS PENALTY\nLIENS: YEAR: 2024 TYPE: 3RD PARTY TAX, WATER AMOUNT: $2,320.47 CERT NO.: 2024-0073 SOLD: 12/18/2024 TO: TRYSTONE CAPITAL ASSETS LLC LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES.\nTHE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+  "extracted": {
+    "block": "2005",
+    "lot": "7",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "3519 JOHN F KENNEDY BLVD\nJERSEY CITY NJ 07307",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-001360-25",
+    "Defendant": "KONIS DIONYSSIOU A/K/A MARIA DIONYSSIOU A/K/A KONIS DIONYSIOU",
+    "Description": "TAX LOT 7 FKA 1.NO BLOCK 2005 FKA 919\nDIMENSIONS OF LOT: 25.1X91 AV\nNEAREST CROSS STREET: BLEEKER STREET\nESTIMATED UPSET BID AMOUNT: $144,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\nWATER: VEOLIA WATER NEW JERSEY - JCMUA 69 DEVOE PL. HACKENSACK, NJ 07601 800-422-5987 ACCT: 30308192640000 TO: 05/08/2025 $371.05 OPEN PLUS PENALTY\nLIENS: YEAR: 2024 TYPE: 3RD PARTY TAX, WATER AMOUNT: $2,320.47 CERT NO.: 2024-0073 SOLD: 12/18/2024 TO: TRYSTONE CAPITAL ASSETS LLC LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES.\nTHE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+    "Good Faith Upset*": "$144,000.00",
+    "Judgment": "$112,318.49",
+    "Plaintiff": "SELENE FINANCE, LP",
+    "Property Note": "**DEF USED ADJS. SEE FILE 20059312.**",
+    "Sales Date": "8/14/2026",
+    "Sheriff #": "20061995"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 112318.49,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "3519 JOHN F KENNEDY BLVD JERSEY CITY NJ 07307",
+    "defendant": "KONIS DIONYSSIOU A/K/A MARIA DIONYSSIOU A/K/A KONIS DIONYSIOU",
+    "listing_status": null,
+    "plaintiff": "SELENE FINANCE, LP",
+    "sale_date": "2026-08-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "SELENE FINANCE, LP",
+  "property_note": "**DEF USED ADJS. SEE FILE 20059312.**",
+  "sale_date": "2026-08-14",
+  "sheriff_number": "20061995",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-07-30",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-08-14",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 144000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

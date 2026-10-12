@@ -1,0 +1,66 @@
+{
+  "address": "7 Brandywine Court Egg Harbor Township NJ 08234",
+  "attorney": "Hyberg, White & Mann",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "CPM-L-291-18 / J-101435-24",
+  "current_status": "Scheduled",
+  "deed": "The Rock House Group LLC",
+  "deed_address": "4444 Arbutus Ave, Newfield, NJ 08344",
+  "defendant": "Harry Mathios",
+  "extracted": {},
+  "fields": {
+    "Address": "7 Brandywine Court\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$14,308.78",
+    "Attorney": "Hyberg, White & Mann",
+    "Court Case #": "CPM-L-291-18 / J-101435-24",
+    "Deed": "The Rock House Group LLC",
+    "Deed Address": "4444 Arbutus Ave, Newfield, NJ 08344",
+    "Defendant": "Harry Mathios",
+    "Plaintiff": "Clusters Homeowners Association",
+    "Priors": "Countrywide Document Custody Services, div of Treasury Bank, amount: $162,000.00\nMidland Funding LLC, DJ-157332-13, amount: $2,324.96\nClusters Homeowners Association Lien #2022050830, amount: $12,309.72\nTotal: $176,634.68",
+    "Property Note": "OCCUPANCY STATUS: TENANT OCCUPIED",
+    "Sales Date": "8/21/2025",
+    "Sheriff #": "L-25000439",
+    "Upset Amount": "$18,649.51"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 14308.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 Brandywine Court Egg Harbor Township NJ 08234",
+    "defendant": "Harry Mathios...",
+    "listing_status": null,
+    "plaintiff": "Clusters Homeowners ...",
+    "sale_date": "2025-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Clusters Homeowners Association",
+  "priors": "Countrywide Document Custody Services, div of Treasury Bank, amount: $162,000.00 Midland Funding LLC, DJ-157332-13, amount: $2,324.96 Clusters Homeowners Association Lien #2022050830, amount: $12,309.72 Total: $176,634.68",
+  "property_note": "OCCUPANCY STATUS: TENANT OCCUPIED",
+  "sale_date": "2025-08-21",
+  "sheriff_number": "L-25000439",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-21",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 18649.51,
+  "upset_amount_label": "Upset Amount"
+}

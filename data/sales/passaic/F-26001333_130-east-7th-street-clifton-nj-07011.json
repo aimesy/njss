@@ -1,0 +1,52 @@
+{
+  "address": "130 East 7TH Street Clifton NJ 07011",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 014034 25 CTL #163249",
+  "current_status": "Scheduled",
+  "defendant": "EMILY PARSLOW, ET ALS",
+  "description": "Dimensions of lot: 50 feet wide by 100 feet long\nNearest Cross Street: Kehoe Street\nEstimated upset bid amount: $311,900.00, plus any additional sums as ordered by the court\nOccupancy Status: Vacant\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advaces, made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 2 Due: 05/01/2026 $2,083.86 BILLED; $5.47 OPEN PLUS PENALTY\n2026 Qtr 3 Due: 08/01/2026 $2,354.50 OPEN\n2026 Qtr 4 Due: 11/01/2026 $2,354.50 OPEN\n2027 Qtr 1 Due: 02/01/2026 $2,219.18 OPEN\n2027 Qtr 2 Due: 05/01/2026 $2,219.18 OPEN\nSewer: Clifton CIty 900 Clifton Ave, Clifton NJ 07013 973-470-5833 Acct: 3153 0 07/01/2026-12/31/2026 $103.00 OPEN AND DUE 09/10/2026 $103.00 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm/ 1525 Main Ave Clifton NJ 07011 973-340-4300 Acct: 0102543-044354 To: 07/10/2026 $847.30 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "50",
+    "occupancy": "Vacant"
+  },
+  "fields": {
+    "Address": "130 East 7TH Street\nClifton NJ 07011",
+    "Approx. Upset*": "$285,406.86",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 014034 25 CTL #163249",
+    "Defendant": "EMILY PARSLOW, ET ALS",
+    "Description": "Dimensions of lot: 50 feet wide by 100 feet long\nNearest Cross Street: Kehoe Street\nEstimated upset bid amount: $311,900.00, plus any additional sums as ordered by the court\nOccupancy Status: Vacant\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advaces, made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 2 Due: 05/01/2026 $2,083.86 BILLED; $5.47 OPEN PLUS PENALTY\n2026 Qtr 3 Due: 08/01/2026 $2,354.50 OPEN\n2026 Qtr 4 Due: 11/01/2026 $2,354.50 OPEN\n2027 Qtr 1 Due: 02/01/2026 $2,219.18 OPEN\n2027 Qtr 2 Due: 05/01/2026 $2,219.18 OPEN\nSewer: Clifton CIty 900 Clifton Ave, Clifton NJ 07013 973-470-5833 Acct: 3153 0 07/01/2026-12/31/2026 $103.00 OPEN AND DUE 09/10/2026 $103.00 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm/ 1525 Main Ave Clifton NJ 07011 973-340-4300 Acct: 0102543-044354 To: 07/10/2026 $847.30 OPEN PLUS PENALTY",
+    "Parcel #": "Tax Lot 7 Block 1.27 FKA 127",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUIT SOLELY IN ITS CAPACITY AS OWNER TRUSTEE FOR OCWEN LOAN ACQUISTION TRUST 2024-HB1",
+    "Property Note": "",
+    "Sales Date": "11/17/2026",
+    "Sheriff #": "F-26001333"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "130 East 7TH Street Clifton NJ 07011",
+    "defendant": "EMILY PARSLOW, ET ALS",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUIT SOLELY IN ITS CAPACITY AS OWNER TRUSTEE FOR OCWEN LOAN ACQUISTION TRUST 2024-HB1",
+    "sale_date": "2026-11-17"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 7 Block 1.27 FKA 127",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUIT SOLELY IN ITS CAPACITY AS OWNER TRUSTEE FOR OCWEN LOAN ACQUISTION TRUST 2024-HB1",
+  "property_note": null,
+  "sale_date": "2026-11-17",
+  "sheriff_number": "F-26001333",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-11-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 285406.86,
+  "upset_amount_label": "Approx. Upset*"
+}

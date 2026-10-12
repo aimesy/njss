@@ -1,0 +1,61 @@
+{
+  "address": "218 PATRICIA LANE RUNNEMEDE NJ 08078",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00010626",
+  "current_status": "Purchased",
+  "defendant": "WAYNE M. ADAIR, JR. A/K/A WAYNE ADAIR, JR. A/K/A WAYNE ADAIR A/K/A WAYNE M. ADAIR; MRS. ADAIR, SPOUSE OF WAYNE M. ADAIR, JR. A/K/A WAYNE ADAIR, JR. A/K/A WAYNE ADAIR A/K/A WAYNE M. ADAIR; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT; STATE OF JERSEY; GINA M. BRESCIA; VIRTUA WEST JERSEY HEALTH SYST,",
+  "extracted": {},
+  "fields": {
+    "Address": "218 PATRICIA LANE\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$101,668.74",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00010626",
+    "Defendant": "WAYNE M. ADAIR, JR. A/K/A WAYNE\nADAIR, JR. A/K/A WAYNE ADAIR A/K/A\nWAYNE M. ADAIR; MRS. ADAIR,\nSPOUSE OF WAYNE M. ADAIR, JR.\nA/K/A WAYNE ADAIR, JR. A/K/A\nWAYNE ADAIR A/K/A WAYNE M.\nADAIR; UNITED STATES OF AMERICA\nON BEHALF OF THE SECRETARY OF\nHOUSING AND URBAN\nDEVELOPMENT; STATE OF\nJERSEY; GINA M. BRESCIA; VIRTUA\nWEST JERSEY HEALTH SYST,",
+    "Parcel #": "TAX LOT 34 BLOCK 147.06",
+    "Plaintiff": "WELLS FARGO BANK, N.A.,",
+    "Property Note": "2026 QTR 2 due: 05/01/2026 $1,641.08 open; subject to posting\nSewer: Boro of Runnemede 24 N and black horse PK Runnemede, NJ 08078 space\n856–939–4437 ACCT:1879 0 07/01/2026–12/31/2026 $101.00 open and due 09/01/2026 $101.00 open plus penalty.\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856–541–3700 Acct: 300021698 03/01/2026–05/31/2026 $93.00 open plus penalty $465.00 open plus penalty.\nGeneral remark: property registration fees exist. Please call HERA PROPERTY REGISTRY\n321–234–5303 for details.\nGeneral remark: subject tax sale. Subject to additional fees.",
+    "Sales Date": "9/16/2026",
+    "Sheriff #": "FR-26001255"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "218 PATRICIA LANE RUNNEMEDE NJ 08078",
+    "defendant": "WAYNE M. ADAIR, JR. A/K/A WAYNE \nADAIR, JR. A/K/A WAYNE ADAIR A/K/A \nWAYNE M. ADAIR; MRS. ADAIR, \nSPOUSE OF WAYNE M. ADAIR, JR. \nA/K/A WAYNE ADAIR, JR. A/K/A \nWAYNE ADAIR A/K/A WAYNE M. \nADAIR; UNITED STATES OF AMERICA \nON BEHALF OF THE SECRETARY OF \nHOUSING AND URBAN \nDEVELOPMENT; STATE OF \nJERSEY; GINA M. BRESCIA; VIRTUA \nWEST JERSEY HEALTH SYST,",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.,",
+    "sale_date": "2026-09-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 34 BLOCK 147.06",
+  "plaintiff": "WELLS FARGO BANK, N.A.,",
+  "property_note": "2026 QTR 2 due: 05/01/2026 $1,641.08 open; subject to posting\nSewer: Boro of Runnemede 24 N and black horse PK Runnemede, NJ 08078 space\n856–939–4437 ACCT:1879 0 07/01/2026–12/31/2026 $101.00 open and due 09/01/2026 $101.00 open plus penalty.\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856–541–3700 Acct: 300021698 03/01/2026–05/31/2026 $93.00 open plus penalty $465.00 open plus penalty.\nGeneral remark: property registration fees exist. Please call HERA PROPERTY REGISTRY\n321–234–5303 for details.\nGeneral remark: subject tax sale. Subject to additional fees.",
+  "sale_date": "2026-09-16",
+  "sheriff_number": "FR-26001255",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 101668.74,
+  "upset_amount_label": "Approx. Upset*"
+}

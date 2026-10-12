@@ -1,0 +1,49 @@
+{
+  "address": "1645 CROSSLYNNE AVENUE OAKLYN(WOODLYNNE BOROUGH) NJ 08107",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00500926",
+  "current_status": "Scheduled",
+  "defendant": "TILISHIA N GOVEIA, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1645 CROSSLYNNE AVENUE\nOAKLYN(WOODLYNNE BOROUGH) NJ 08107",
+    "Approx. Upset*": "$206,576.75",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00500926",
+    "Defendant": "TILISHIA N GOVEIA, ET AL.",
+    "Parcel #": "Tax Lot:22 BLOCK:101",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "Special Charges: WATER holds a special charge in the amount of $282.86 as of 10/06/2025\nSpecial Charges: CCMUA holds a special charge in the amount of $372.00 + interest in the amount\nof $84.62 totaling in $456.62.",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002419"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1645 CROSSLYNNE AVENUE OAKLYN(WOODLYNNE BOROUGH) NJ 08107",
+    "defendant": "TILISHIA N GOVEIA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot:22 BLOCK:101",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "Special Charges: WATER holds a special charge in the amount of $282.86 as of 10/06/2025\nSpecial Charges: CCMUA holds a special charge in the amount of $372.00 + interest in the amount\nof $84.62 totaling in $456.62.",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002419",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 206576.75,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "73 GEORGE STREET MILLTOWN NJ 08850",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-867-4541",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F437723",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "DANA M. BUSH, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$327,457.71",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-867-4541",
+    "Court Case #": "F437723",
+    "Defendant": "DANA M. BUSH, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 12 BLOCK 90.03",
+    "Plaintiff": "NATIONSTAR MORTGAGE, LLC.",
+    "Property Address": "73 GEORGE STREET\nMILLTOWN NJ 08850",
+    "Property Note": "",
+    "Sale Date": "4/16/2025",
+    "Sheriff #": "F-24000479"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 327457.71,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "73 GEORGE STREET MILLTOWN NJ 08850",
+    "defendant": "DANA M. BUSH, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "NATIONSTAR MORTGAGE, LLC.",
+    "sale_date": "2025-04-16"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 12 BLOCK 90.03",
+  "plaintiff": "NATIONSTAR MORTGAGE, LLC.",
+  "property_note": null,
+  "sale_date": "2025-04-16",
+  "sheriff_number": "F-24000479",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

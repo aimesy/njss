@@ -1,0 +1,64 @@
+{
+  "address": "2315 SELENE AVENUE SOUTH PLAINFIELD NJ 07080",
+  "attorney": "MCCABE, WEISBERG & CONWAY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 802-4300",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00248524",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "SUSAN L. ROTH, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$96,155.16",
+    "Attorney": "MCCABE, WEISBERG & CONWAY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 802-4300",
+    "Court Case #": "F00248524",
+    "Defendant": "SUSAN L. ROTH, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 28 BLOCK 74",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Address": "2315 SELENE AVENUE\nSOUTH PLAINFIELD NJ 07080",
+    "Property Note": "",
+    "Sale Date": "9/3/2025",
+    "Sheriff #": "F-25001198"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 96155.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2315 SELENE AVENUE SOUTH PLAINFIELD NJ 07080",
+    "defendant": "SUSAN L. ROTH, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2025-09-03"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 28 BLOCK 74",
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-09-03",
+  "sheriff_number": "F-25001198",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-09-03",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

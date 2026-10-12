@@ -1,0 +1,52 @@
+{
+  "address": "23 Jahn Street Keansburg NJ 07734",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F215325",
+  "current_status": "Settled",
+  "defendant": "Tyree Moore. et al",
+  "description": "Occupancy Status: Vacant\nNearest Cross Street: Approximately 382ft from the nearest cross street known as Carr Avenue\nApproximate Dimensions: 100.00ft x 25.00ft x 100.00ft x 25.00ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8340, at Page 5557\nAPPROXIMATE UPSET PRICE IS $81,631.01 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated August 18, 2025.\nSubject to: 2025 2nd quarter taxes due 5/1/2025, $1,343.10 OPEN PLUS PENALTY\n2025 3RD QUARTER TAXES DUE 8/1/2025, $1,608.89 OPEN; SUBJECT TO POSTING; GRACE PERIOD EXTENDED TO 8/27/2025\n2025 4TH quarter taxes due 11/1/2025, $1,608.88 open\nWater: Acct. 1944 0, 4/1/2025-6/30/2025, $100.15 OPEN PLUS PENALTY\nSubject to Final Reading\nSewer: Acct. 1944 0, 4/1/2025-6/30/2025, $131.07 OPEN PLUS PENALTY; $4.30 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading",
+  "extracted": {
+    "occupancy": "Vacant",
+    "upset_amount": 81631.01
+  },
+  "fields": {
+    "Address": "23 Jahn Street\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$73,408.70",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F215325",
+    "Defendant": "Tyree Moore. et al",
+    "Description": "Occupancy Status: Vacant\nNearest Cross Street: Approximately 382ft from the nearest cross street known as Carr Avenue\nApproximate Dimensions: 100.00ft x 25.00ft x 100.00ft x 25.00ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8340, at Page 5557\nAPPROXIMATE UPSET PRICE IS $81,631.01 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated August 18, 2025.\nSubject to: 2025 2nd quarter taxes due 5/1/2025, $1,343.10 OPEN PLUS PENALTY\n2025 3RD QUARTER TAXES DUE 8/1/2025, $1,608.89 OPEN; SUBJECT TO POSTING; GRACE PERIOD EXTENDED TO 8/27/2025\n2025 4TH quarter taxes due 11/1/2025, $1,608.88 open\nWater: Acct. 1944 0, 4/1/2025-6/30/2025, $100.15 OPEN PLUS PENALTY\nSubject to Final Reading\nSewer: Acct. 1944 0, 4/1/2025-6/30/2025, $131.07 OPEN PLUS PENALTY; $4.30 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading",
+    "Parcel #": "Lot: 2 Block: 56 Tax Map in the Borough of Keansburg",
+    "Plaintiff": "Amboy Bank",
+    "Property Note": "",
+    "Sales Date": "10/23/2025",
+    "Sheriff #": "FOR-25001675"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 73408.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "23 Jahn Street Keansburg NJ 07734",
+    "defendant": "Tyree Moore. et al",
+    "listing_status": "Settled",
+    "plaintiff": "Amboy Bank",
+    "sale_date": "2025-10-23"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 2 Block: 56 Tax Map in the Borough of Keansburg",
+  "plaintiff": "Amboy Bank",
+  "property_note": null,
+  "sale_date": "2025-10-23",
+  "sheriff_number": "FOR-25001675",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-23",
+      "status": "Settled"
+    }
+  ]
+}

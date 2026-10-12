@@ -1,0 +1,61 @@
+{
+  "address": "1425 HIGHLAND AVENUE HILLSIDE NJ 07205",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00364524",
+  "current_status": "Scheduled",
+  "defendant": "PATRICIA REYNOLDS; MR. OR MRS. REYNOLDS, THE SPOUSE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF PATRICIA REYNOLDS; MIDLAND FUNDING LLC; UNITED STATES OF AMERICA",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "1425 HIGHLAND AVENUE\nHILLSIDE NJ 07205",
+    "Approx. Upset*": "$363,452.49",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Court Case #": "F00364524",
+    "Defendant": "PATRICIA REYNOLDS; MR. OR MRS. REYNOLDS, THE SPOUSE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF PATRICIA REYNOLDS; MIDLAND FUNDING LLC; UNITED STATES OF AMERICA",
+    "Description": "",
+    "Parcel #": "LOT 7 BLOCK 1104",
+    "Plaintiff": "TOWNE MORTGAGE COMPANY",
+    "Property Note": "Approximate Dimensions: 100 x 80\nNearest Cross Street: Oakland Terrace\nEstimated Upset Sheriffs Sale Bid Amount: $459,000.00\nSubject to anyfurther Orders of additional sums executed by the court.\nSurplus Monies: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any persons claiming surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-1 and 4:57-2 stating the nature and extent of the person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\n\"THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE\nWITHOUT FURTHER NOTICE THROUGH PUBLICATION\"",
+    "Sales Date": "7/29/2026",
+    "Sheriff #": "CH-24002450"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1425 HIGHLAND AVENUE HILLSIDE NJ 07205",
+    "defendant": "PATRICIA REYNOLDS; MR. OR MRS. REYNOLDS, THE SPOUSE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF PATRICIA REYNOLDS; MIDLAND FUNDING LLC; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "TOWNE MORTGAGE COMPANY",
+    "sale_date": "2026-07-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 7 BLOCK 1104",
+  "plaintiff": "TOWNE MORTGAGE COMPANY",
+  "property_note": "Approximate Dimensions: 100 x 80\nNearest Cross Street: Oakland Terrace\nEstimated Upset Sheriffs Sale Bid Amount: $459,000.00\nSubject to anyfurther Orders of additional sums executed by the court.\nSurplus Monies: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any persons claiming surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-1 and 4:57-2 stating the nature and extent of the person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\n\"THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE\nWITHOUT FURTHER NOTICE THROUGH PUBLICATION\"",
+  "sale_date": "2026-07-29",
+  "sheriff_number": "CH-24002450",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-01-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 363452.49,
+  "upset_amount_label": "Approx. Upset*"
+}

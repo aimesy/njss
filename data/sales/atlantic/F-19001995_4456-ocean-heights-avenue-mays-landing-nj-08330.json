@@ -1,0 +1,82 @@
+{
+  "address": "4456 Ocean Heights Avenue Mays Landing NJ 08330",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008021-19 PLURIES",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Lois Townsend A/K/A Lois V. Townsend; Richard Townsend; Collections and Recoveries Inc; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "4456 Ocean Heights Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$597,042.16",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-008021-19 PLURIES",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Lois Townsend A/K/A Lois V. Townsend; Richard Townsend; Collections and Recoveries Inc; State of New Jersey; United States of America",
+    "Plaintiff": "U.S. National Association, As Trustee, Successor in Interest to Bank of America, National Association, as Trustee, Successor by Merger to Lasalle Bank National Association, as Trustee for Merrill Lynch Mortgage Investors Trust, Mortgage Loan Asset-Backed Certificates, Series 2006-WMC2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "3/13/2025",
+    "Sheriff #": "F-19001995",
+    "Upset Amount": "$766,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 597042.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4456 Ocean Heights Avenue Mays Landing NJ 08330",
+    "defendant": "Lois Townsend A/K/A ...",
+    "listing_status": null,
+    "plaintiff": "U.S. National Associ...",
+    "sale_date": "2025-03-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. National Association, As Trustee, Successor in Interest to Bank of America, National Association, as Trustee, Successor by Merger to Lasalle Bank National Association, as Trustee for Merrill Lynch Mortgage Investors Trust, Mortgage Loan Asset-Backed Certificates, Series 2006-WMC2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-03-13",
+  "sheriff_number": "F-19001995",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-13",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-05-23",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-04-25",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-03-28",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-02-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 766500.0,
+  "upset_amount_label": "Upset Amount"
+}

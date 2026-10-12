@@ -1,0 +1,64 @@
+{
+  "address": "33 DOVER ROAD COLONIA NJ 07067",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00671924",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "DEREK M. KING, INDIVIDUALLY AND AS COEXECUTOR OF THE ESTATE OF PATRICIA EGAN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$333,567.69",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00671924",
+    "Defendant": "DEREK M. KING, INDIVIDUALLY AND AS COEXECUTOR OF THE ESTATE OF PATRICIA EGAN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 13 BLOCK 413.16",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF CITIGROUP MORTGAGE LOAN TRUST 2019-RP1",
+    "Property Address": "33 DOVER ROAD\nCOLONIA NJ 07067",
+    "Property Note": "",
+    "Sale Date": "4/30/2025",
+    "Sheriff #": "F-24000594"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 333567.69,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "33 DOVER ROAD COLONIA NJ 07067",
+    "defendant": "DEREK M. KING, INDIVIDUALLY AND AS COEXECUTOR OF THE ESTATE OF PATRICIA EGAN, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF CITIGROUP MORTGAGE LOAN TRUST 2019-RP1",
+    "sale_date": "2025-04-30"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 13 BLOCK 413.16",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF CITIGROUP MORTGAGE LOAN TRUST 2019-RP1",
+  "property_note": null,
+  "sale_date": "2025-04-30",
+  "sheriff_number": "F-24000594",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-23",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

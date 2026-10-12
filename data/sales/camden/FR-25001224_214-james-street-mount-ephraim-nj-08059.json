@@ -1,0 +1,65 @@
+{
+  "address": "214 JAMES STREET MOUNT EPHRAIM NJ 08059",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01251624",
+  "current_status": "Defendant Adjournment",
+  "defendant": "NICHOLE A. SALAMONE-HOLT INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF NICHOLAS J. SALAMONE SR., ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "214 JAMES STREET\nMOUNT EPHRAIM NJ 08059",
+    "Approx. Upset*": "$147,019.09",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F01251624",
+    "Defendant": "NICHOLE A. SALAMONE-HOLT INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF NICHOLAS J. SALAMONE SR., ET AL",
+    "Parcel #": "",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "11/5/2025",
+    "Sheriff #": "FR-25001224"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "214 JAMES STREET MOUNT EPHRAIM NJ 08059",
+    "defendant": "NICHOLE A. SALAMONE-HOLT INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF NICHOLAS J. SALAMONE SR., ET AL",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "FR-25001224",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-08-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 147019.09,
+  "upset_amount_label": "Approx. Upset*"
+}

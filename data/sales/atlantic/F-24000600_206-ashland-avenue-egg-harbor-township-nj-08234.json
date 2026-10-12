@@ -1,0 +1,82 @@
+{
+  "address": "206 Ashland Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005324-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Edward Silva, Jr; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "206 Ashland Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$170,438.21",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F-005324-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Edward Silva, Jr; State of New Jersey",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "Liens: Year: 2023 Type: 3rd Party Sewer Amount: $487.43 Cert No.: 22-00086 Sold: 12/20/2023 To: FIG 20, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24000600",
+    "Upset Amount": "$187,607.84"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 170438.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "206 Ashland Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Edward Silva, Jr; St...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "Liens: Year: 2023 Type: 3rd Party Sewer Amount: $487.43 Cert No.: 22-00086 Sold: 12/20/2023 To: FIG 20, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24000600",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-12-12",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-03",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-07-11",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 187607.84,
+  "upset_amount_label": "Upset Amount"
+}

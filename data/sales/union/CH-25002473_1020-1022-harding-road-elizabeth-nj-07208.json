@@ -1,0 +1,60 @@
+{
+  "address": "1020-1022 HARDING ROAD ELIZABETH NJ 07208",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00826724",
+  "current_status": "Bankuptcy",
+  "defendant": "1020 HARDING ROAD, LLC, BY ERAN SHEMESH IN HIS CAPACITY AS MEMBER, ERANSHEMESH, GUARANTOR, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTERES; MR. OR MRS. SHEMESH, HUSBAN OR WIFE OF ERAN SHEMESH, THE SPOUSE, DOMESTIC PARTNE OR CIVIL UNION PARTNER OR ERAN SHEMESH TRADE WINDS REAL ESTATE, LLC; STATE OF NEW JERSEY; PETER SPIRO",
+  "description": "LOT 9 F/K/A/ 906 BLOCK 12 F/K/A 10",
+  "extracted": {
+    "block": "12",
+    "lot": "9"
+  },
+  "fields": {
+    "Address": "1020-1022 HARDING ROAD\nELIZABETH NJ 07208",
+    "Approx. Upset*": "$604,416.24",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F00826724",
+    "Defendant": "1020 HARDING ROAD, LLC, BY ERAN SHEMESH IN HIS CAPACITY AS MEMBER, ERANSHEMESH, GUARANTOR, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTERES; MR. OR MRS. SHEMESH, HUSBAN OR WIFE OF ERAN SHEMESH, THE SPOUSE, DOMESTIC PARTNE OR CIVIL UNION PARTNER OR ERAN SHEMESH TRADE WINDS REAL ESTATE, LLC; STATE OF NEW JERSEY; PETER SPIRO",
+    "Description": "LOT 9 F/K/A/ 906 BLOCK 12 F/K/A 10",
+    "Parcel #": "LOT 9 F/K/A/ 906 BLOCK 12 F/K/A 10",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT AS OWNER TRUSTEE FOR RCAF ACQUISITIONTRUST",
+    "Property Note": "",
+    "Sales Date": "2/25/2026",
+    "Sheriff #": "CH-25002473"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1020-1022 HARDING ROAD ELIZABETH NJ 07208",
+    "defendant": "1020 HARDING ROAD, LLC, BY ERAN SHEMESH IN HIS CAPACITY AS MEMBER, ERANSHEMESH, GUARANTOR, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTERES; MR. OR MRS. SHEMESH, HUSBAN OR WIFE OF ERAN SHEMESH, THE SPOUSE, DOMESTIC PARTNE OR CIVIL UNION PARTNER OR ERAN SHEMESH TRADE WINDS REAL ESTATE, LLC; STATE OF NEW JERSEY; PETER SPIRO",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT AS OWNER TRUSTEE FOR RCAF ACQUISITIONTRUST",
+    "sale_date": "2026-02-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 9 F/K/A/ 906 BLOCK 12 F/K/A 10",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT AS OWNER TRUSTEE FOR RCAF ACQUISITIONTRUST",
+  "property_note": null,
+  "sale_date": "2026-02-25",
+  "sheriff_number": "CH-25002473",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 604416.24,
+  "upset_amount_label": "Approx. Upset*"
+}

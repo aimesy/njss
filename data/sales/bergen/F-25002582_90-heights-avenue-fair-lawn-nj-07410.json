@@ -1,0 +1,55 @@
+{
+  "address": "90 HEIGHTS AVENUE FAIR LAWN NJ 07410",
+  "attorney": "CONSUMER LAW ATTORNEYS",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00400924",
+  "current_status": "Cancelled",
+  "defendant": "CYNTHIA A. LAUBE A/K/A CYNTHIA A. MERCER A/K/A CYNTHIA LAUBE A/K/A CYNTHIA A. MERCER-LAUBE, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CHARLES R. LAUBE A/K/A CHARLES LAUBE A/K/A CHARLES ROBERT LAUBE A/K/A CHARLIE LAUBE A/K/A CHUCK LAUBE A/K/A CHUCKIE LAUBE",
+  "description": "ESTIMATED UPSET BID AMOUNT: $345,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "90 HEIGHTS AVENUE\nFAIR LAWN NJ 07410",
+    "Approx. Upset*": "$314,847.62",
+    "Attorney": "CONSUMER LAW ATTORNEYS",
+    "Court Case #": "F00400924",
+    "Defendant": "CYNTHIA A. LAUBE A/K/A CYNTHIA A. MERCER A/K/A CYNTHIA LAUBE A/K/A CYNTHIA A. MERCER-LAUBE, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CHARLES R. LAUBE A/K/A CHARLES LAUBE A/K/A CHARLES ROBERT LAUBE A/K/A CHARLIE LAUBE A/K/A CHUCK LAUBE A/K/A CHUCKIE LAUBE",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $345,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 3, BLOCK 6807",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2017-1, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "12/29/2025",
+    "Sheriff #": "F-25002582"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "90 HEIGHTS AVENUE FAIR LAWN NJ 07410",
+    "defendant": "CYNTHIA A. LAUBE A/K/A CYNTHIA A. MERCER A/K/A CYNTHIA LAUBE A/K/A CYNTHIA A. MERCER-LAUBE, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CHARLES R. LAUBE A/K/A CHARLES LAUBE A/K/A CHARLES ROBERT LAUBE A/K/A CHARLIE LAUBE A/K/A CHUCK LAUBE A/K/A CHUCKIE LAUBE",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2017-1, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "sale_date": "2025-12-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, BLOCK 6807",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2017-1, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+  "property_note": null,
+  "sale_date": "2025-12-29",
+  "sheriff_number": "F-25002582",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-29",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 314847.62,
+  "upset_amount_label": "Approx. Upset*"
+}

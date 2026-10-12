@@ -1,0 +1,53 @@
+{
+  "address": "1 READ DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00925424",
+  "current_status": "Scheduled",
+  "defendant": "MELVIN CLORY A/K/A/ MELVIN I. CLORY, JR., ET AL;",
+  "extracted": {},
+  "fields": {
+    "Address": "1 READ DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$228,202.88",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00925424",
+    "Defendant": "MELVIN CLORY A/K/A/ MELVIN I. CLORY, JR., ET AL;",
+    "Parcel #": "",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "Property Note": "",
+    "Sales Date": "11/4/2025",
+    "Sheriff #": "FR-25001885"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1 READ DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "MELVIN CLORY A/K/A/ MELVIN I. CLORY, JR., ET AL;",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "sale_date": "2025-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+  "property_note": null,
+  "sale_date": "2025-11-04",
+  "sheriff_number": "FR-25001885",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 228202.88,
+  "upset_amount_label": "Approx. Upset*"
+}

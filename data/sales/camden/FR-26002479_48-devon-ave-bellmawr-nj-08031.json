@@ -1,0 +1,49 @@
+{
+  "address": "48 DEVON AVE BELLMAWR NJ 08031",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00486626",
+  "current_status": "Scheduled",
+  "defendant": "MARTIN T. CANE, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "48 DEVON AVE\nBELLMAWR NJ 08031",
+    "Approx. Upset*": "$169,628.21",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00486626",
+    "Defendant": "MARTIN T. CANE, ET AL.",
+    "Parcel #": "Lot 6.01, Block 102 on the official Tax Map of the BOROUGH OF BELLMAWR.",
+    "Plaintiff": "LOANDEPOT.COM, LLC",
+    "Property Note": "Subject to tax sale certificate #26-00068 for CCMUA in the amount of $353.28. Third Party Purchaser is responsible for obtaining final amount to redeem.",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002479"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "48 DEVON AVE BELLMAWR NJ 08031",
+    "defendant": "MARTIN T. CANE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LOANDEPOT.COM, LLC",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 6.01, Block 102 on the official Tax Map of the BOROUGH OF BELLMAWR.",
+  "plaintiff": "LOANDEPOT.COM, LLC",
+  "property_note": "Subject to tax sale certificate #26-00068 for CCMUA in the amount of $353.28. Third Party Purchaser is responsible for obtaining final amount to redeem.",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002479",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 169628.21,
+  "upset_amount_label": "Approx. Upset*"
+}

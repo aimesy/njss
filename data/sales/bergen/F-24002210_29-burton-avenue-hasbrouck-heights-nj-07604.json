@@ -1,0 +1,71 @@
+{
+  "address": "29 BURTON AVENUE HASBROUCK HEIGHTS NJ 07604",
+  "attorney": "LAW OFFICES OF DAVID L CHAPMAN",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00090020",
+  "current_status": "BANKRUPTCY",
+  "defendant": "NIAMH BOLAND; KIERAN MALONEY",
+  "description": "UPSET PRICE: $956,840.41 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+  "extracted": {
+    "upset_amount": 956840.41
+  },
+  "fields": {
+    "Address": "29 BURTON AVENUE\nHASBROUCK HEIGHTS NJ 07604",
+    "Approx. Upset*": "$806,851.72",
+    "Attorney": "LAW OFFICES OF DAVID L CHAPMAN",
+    "Court Case #": "F00090020",
+    "Defendant": "NIAMH BOLAND; KIERAN MALONEY",
+    "Description": "UPSET PRICE: $956,840.41 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+    "Parcel #": "LOT 2, BLOCK 39",
+    "Plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRSUTEE RELATING TO CHEVY CHASE FUNDING LLC MORTGAGE BACKED CERTIFICATES SERIES 2006-4",
+    "Property Note": "",
+    "Sales Date": "3/5/2026",
+    "Sheriff #": "F-24002210"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "29 BURTON AVENUE HASBROUCK HEIGHTS NJ 07604",
+    "defendant": "NIAMH BOLAND; KIERAN MALONEY",
+    "listing_status": null,
+    "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRSUTEE RELATING TO CHEVY CHASE FUNDING LLC MORTGAGE BACKED CERTIFICATES SERIES 2006-4",
+    "sale_date": "2026-03-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2, BLOCK 39",
+  "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRSUTEE RELATING TO CHEVY CHASE FUNDING LLC MORTGAGE BACKED CERTIFICATES SERIES 2006-4",
+  "property_note": null,
+  "sale_date": "2026-03-05",
+  "sheriff_number": "F-24002210",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2024-09-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-10-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-12-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-07",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-08-15",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 806851.72,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,74 @@
+{
+  "address": "40A Morton Avenue Galloway Township NJ 08205",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011973-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jesse Winters; Mrs. Winters, Wife of Jesse Winters; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "40A Morton Avenue\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$101,944.14",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F-011973-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jesse Winters; Mrs. Winters, Wife of Jesse Winters; State of New Jersey",
+    "Plaintiff": "Citigroup Mortgage Loan Trust 2022-A",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "3/27/2025",
+    "Sheriff #": "F-24001338",
+    "Upset Amount": "$113,271.92"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 101944.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40A Morton Avenue Galloway Township NJ 08205",
+    "defendant": "Jesse Winters; Mrs. ...",
+    "listing_status": null,
+    "plaintiff": "Citigroup Mortgage L...",
+    "sale_date": "2025-03-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Citigroup Mortgage Loan Trust 2022-A",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-03-27",
+  "sheriff_number": "F-24001338",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-27",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-03-27",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-02-27",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-01-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 113271.92,
+  "upset_amount_label": "Upset Amount"
+}

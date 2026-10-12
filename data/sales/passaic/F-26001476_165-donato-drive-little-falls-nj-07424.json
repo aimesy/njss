@@ -1,0 +1,51 @@
+{
+  "address": "165 Donato Drive Little Falls NJ 07424",
+  "attorney": "PARKER MCCAY P.A.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 005979 23 CTL# 163262",
+  "current_status": "Scheduled",
+  "defendant": "ANDREW J. POWER; MRS. ANDREW J. POWER, HIS WIFE; UNITED STATES OF AMERICA",
+  "description": "Approximate dimensions: 65 x 115\nNearest Cross Street: Pine Court\nUpset price: $531,793.82 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT.",
+  "extracted": {
+    "upset_amount": 531793.82
+  },
+  "fields": {
+    "Address": "165 Donato Drive\nLittle Falls NJ 07424",
+    "Approx. Upset*": "$425,371.29",
+    "Attorney": "PARKER MCCAY P.A.",
+    "Court Case #": "F 005979 23 CTL# 163262",
+    "Defendant": "ANDREW J. POWER; MRS. ANDREW J. POWER, HIS WIFE; UNITED STATES OF AMERICA",
+    "Description": "Approximate dimensions: 65 x 115\nNearest Cross Street: Pine Court\nUpset price: $531,793.82 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT.",
+    "Parcel #": "Tax Lot #25 Block #43",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "12/15/2026",
+    "Sheriff #": "F-26001476"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "165 Donato Drive Little Falls NJ 07424",
+    "defendant": "ANDREW J. POWER; MRS. ANDREW J. POWER, HIS WIFE; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-12-15"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot #25 Block #43",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-12-15",
+  "sheriff_number": "F-26001476",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-12-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 425371.29,
+  "upset_amount_label": "Approx. Upset*"
+}

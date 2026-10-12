@@ -1,0 +1,57 @@
+{
+  "address": "627 JAEGER COURT SICKLERVILLE NJ 08081",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00792225",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JOHN MCCORMICK; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT; UNITED STATES OF AMERICA ON BEHALF OF IRS; KENNEDY HEALTH SYSTEM; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "627 JAEGER COURT\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$179,171.45",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F00792225",
+    "Defendant": "JOHN MCCORMICK; UNITED STATES OF AMERICA ON BEHALF OF THE\nSECRETARY OF HOUSING AND URBAN DEVELOPMENT; UNITED STATES\nOF AMERICA ON BEHALF OF IRS; KENNEDY HEALTH SYSTEM; STATE OF NEW JERSEY",
+    "Parcel #": "Block 15702 Lot 55\nTownship of Gloucester; County of Camden",
+    "Plaintiff": "FAY SERVICING, LLC",
+    "Property Note": "taxes paid in full as of 7/21/26\nWater/Sewer due and owing in the approximate amount of\n$510.00 as of 7/21/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 7/21/26",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "FR-26001988"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "627 JAEGER COURT SICKLERVILLE NJ 08081",
+    "defendant": "JOHN MCCORMICK; UNITED STATES OF AMERICA ON BEHALF OF THE \nSECRETARY OF HOUSING AND URBAN DEVELOPMENT; UNITED STATES \nOF AMERICA ON BEHALF OF IRS; KENNEDY HEALTH SYSTEM; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "FAY SERVICING, LLC",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 15702 Lot 55 Township of Gloucester; County of Camden",
+  "plaintiff": "FAY SERVICING, LLC",
+  "property_note": "taxes paid in full as of 7/21/26\nWater/Sewer due and owing in the approximate amount of\n$510.00 as of 7/21/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 7/21/26",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "FR-26001988",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 179171.45,
+  "upset_amount_label": "Approx. Upset*"
+}

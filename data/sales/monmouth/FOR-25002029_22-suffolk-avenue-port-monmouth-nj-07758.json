@@ -1,0 +1,63 @@
+{
+  "address": "22 Suffolk Avenue Port Monmouth NJ 07758",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00429125",
+  "current_status": "Scheduled",
+  "defendant": "Katherine Van Buskirk, et al.",
+  "description": "Dimensions of lot (Approximately): 60' x 80' approx\nNearest Cross Street: Division Street\nApproximate upset price $124,357.33\nProperty Status - Borrower Occupied\nSubject to prior Mortgage recorded 8/26/2002 Book 8140 Page 1954 in the amount of $273,000.00 - interestd buyers are to obtain their own payoff.\nSubject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium /Homeowner Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 124357.33
+  },
+  "fields": {
+    "Address": "22 Suffolk Avenue\nPort Monmouth NJ 07758",
+    "Approx. Judgment*": "$113,213.46",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F00429125",
+    "Defendant": "Katherine Van Buskirk, et al.",
+    "Description": "Dimensions of lot (Approximately): 60' x 80' approx\nNearest Cross Street: Division Street\nApproximate upset price $124,357.33\nProperty Status - Borrower Occupied\nSubject to prior Mortgage recorded 8/26/2002 Book 8140 Page 1954 in the amount of $273,000.00 - interestd buyers are to obtain their own payoff.\nSubject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium /Homeowner Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.",
+    "Parcel #": "Tax Lot: 9.02 Block: 150 Located on the tax map of the Township of Middletown",
+    "Plaintiff": "Citizens Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "FOR-25002029"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 113213.46,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "22 Suffolk Avenue Port Monmouth NJ 07758",
+    "defendant": "Katherine Van Buskirk, et al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Citizens Bank, N.A.",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 9.02 Block: 150 Located on the tax map of the Township of Middletown",
+  "plaintiff": "Citizens Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "FOR-25002029",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-02",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "address": "50 Northridge Drive Mays Landing NJ 08330",
+  "attorney": "Hyberg, White & Mann",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "ATL-DC-000078-22 / DJ-047312-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Shanai Kidd",
+  "extracted": {},
+  "fields": {
+    "Address": "50 Northridge Drive\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$4,764.14",
+    "Attorney": "Hyberg, White & Mann",
+    "Court Case #": "ATL-DC-000078-22 / DJ-047312-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Shanai Kidd",
+    "Plaintiff": "Victoria Crossing Townhouse Association, Inc.",
+    "Priors": "PennyMac Loan Services, LLC $126,102.79\nSec'y of Housing & Urban Development $34,216.00\nVictoria Crossing Lien Claim #2019025079 $1,812.30\nVictoria Crossing Lien Claim #2022001662 $5,720.43\nTotal $167,851.52",
+    "Property Note": "OCCUPANY STATUS: OWNER OCCUPIED",
+    "Sales Date": "2/19/2026",
+    "Sheriff #": "L-25001131",
+    "Upset Amount": "$15,757.05"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 4764.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "50 Northridge Drive Mays Landing NJ 08330",
+    "defendant": "Shanai Kidd...",
+    "listing_status": null,
+    "plaintiff": "Victoria Crossing To...",
+    "sale_date": "2026-02-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Victoria Crossing Townhouse Association, Inc.",
+  "priors": "PennyMac Loan Services, LLC $126,102.79 Sec'y of Housing & Urban Development $34,216.00 Victoria Crossing Lien Claim #2019025079 $1,812.30 Victoria Crossing Lien Claim #2022001662 $5,720.43 Total $167,851.52",
+  "property_note": "OCCUPANY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-02-19",
+  "sheriff_number": "L-25001131",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-19",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 15757.05,
+  "upset_amount_label": "Upset Amount"
+}

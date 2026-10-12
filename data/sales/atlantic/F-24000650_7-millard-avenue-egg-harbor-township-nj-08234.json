@@ -1,0 +1,62 @@
+{
+  "address": "7 Millard Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012242-19 CORRECTIVE",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Vincent Martinez a/k/a Vinny Martinez; Norma Martinez; State Farm Indemnity Company, Subrogee Corie O. Robinson; Atlantic City Electric C O",
+  "extracted": {},
+  "fields": {
+    "Address": "7 Millard Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$279,737.98",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-012242-19 CORRECTIVE",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Vincent Martinez a/k/a Vinny Martinez; Norma Martinez; State Farm Indemnity Company, Subrogee Corie O. Robinson; Atlantic City Electric C O",
+    "Plaintiff": "Deutsche Bank National Trust Company, As Trustee For Soundview Home Loan Trust 2008-1, Asset Backed-Certificates, Series 2008-1",
+    "Priors": "Liens: Year: 2021 Type: 3rd Party Amount: $1,086.59 Cert No.: 21-00122 Sold: 12/22/2021 To: FIG CUST FIGNJ19LLC & SEC PTY Lien amount is subject to subsequent taxes _ interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A. 54:5-54",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "5/4/2026",
+    "Sheriff #": "F-24000650",
+    "Upset Amount": "$368,600.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 279737.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 Millard Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Vincent Martinez a/k...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Nation...",
+    "sale_date": "2026-05-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company, As Trustee For Soundview Home Loan Trust 2008-1, Asset Backed-Certificates, Series 2008-1",
+  "priors": "Liens: Year: 2021 Type: 3rd Party Amount: $1,086.59 Cert No.: 21-00122 Sold: 12/22/2021 To: FIG CUST FIGNJ19LLC & SEC PTY Lien amount is subject to subsequent taxes _ interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A. 54:5-54",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-05-04",
+  "sheriff_number": "F-24000650",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-05-04",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-07-25",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-07-25",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 368600.0,
+  "upset_amount_label": "Upset Amount"
+}

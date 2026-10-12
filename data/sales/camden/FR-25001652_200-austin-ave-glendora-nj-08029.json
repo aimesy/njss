@@ -1,0 +1,65 @@
+{
+  "address": "200 AUSTIN AVE GLENDORA NJ 08029",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "SWCF00077825",
+  "current_status": "Purchased",
+  "defendant": "JOHN PINIZZOTTO; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "200 AUSTIN AVE\nGLENDORA NJ 08029",
+    "Approx. Upset*": "$217,035.93",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "SWCF00077825",
+    "Defendant": "JOHN PINIZZOTTO; UNITED STATES OF AMERICA",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25001652"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "200 AUSTIN AVE GLENDORA NJ 08029",
+    "defendant": "JOHN PINIZZOTTO; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25001652",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 217035.93,
+  "upset_amount_label": "Approx. Upset*"
+}

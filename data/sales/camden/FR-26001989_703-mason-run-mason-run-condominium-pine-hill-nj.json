@@ -1,0 +1,53 @@
+{
+  "address": "703 MASON RUN, MASON RUN CONDOMINIUM PINE HILL NJ 08021",
+  "attorney": "DEMBO, BROWN & BURNS LLP",
+  "attorney_phone": "856-354-8866 EXT. 117",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F521026",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MICHAEL GAULT,; DANNETTE DELANGE AND MASON RUN CONDOMINIUM ASSOCIATION,",
+  "extracted": {},
+  "fields": {
+    "Address": "703 MASON RUN, MASON RUN CONDOMINIUM\nPINE HILL NJ 08021",
+    "Approx. Upset*": "$133,364.07",
+    "Attorney": "DEMBO, BROWN & BURNS LLP",
+    "Attorney Phone": "856-354-8866 EXT. 117",
+    "Court Case #": "F521026",
+    "Defendant": "MICHAEL GAULT,; DANNETTE DELANGE AND MASON RUN CONDOMINIUM ASSOCIATION,",
+    "Parcel #": "BLOCK 1, LOT 9, QUAL. C-0703",
+    "Plaintiff": "PUNEETH NIMMAGADDA,",
+    "Property Note": "** Tax Sale Certificate no. 26-00004 in the amount of $1,324.00\n** Tax Sale Certificate no. 24-00107 in the amount of $359.27\n** Subject to 3 qtr. real estate taxes of $1,503.25",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001989"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "703 MASON RUN, MASON RUN CONDOMINIUM PINE HILL NJ 08021",
+    "defendant": "MICHAEL GAULT,; DANNETTE DELANGE AND MASON RUN CONDOMINIUM ASSOCIATION,",
+    "listing_status": null,
+    "plaintiff": "PUNEETH NIMMAGADDA,",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 1, LOT 9, QUAL. C-0703",
+  "plaintiff": "PUNEETH NIMMAGADDA,",
+  "property_note": "** Tax Sale Certificate no. 26-00004 in the amount of $1,324.00\n** Tax Sale Certificate no. 24-00107 in the amount of $359.27\n** Subject to 3 qtr. real estate taxes of $1,503.25",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001989",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 133364.07,
+  "upset_amount_label": "Approx. Upset*"
+}

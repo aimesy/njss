@@ -1,0 +1,58 @@
+{
+  "address": "828N New Road Pleasantville NJ 08232",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003318-21",
+  "current_status": "Scheduled",
+  "deed": "MCLP Asset Company, Inc. at c/o SELECT PORTFOLIO SERVICING, INC.",
+  "deed_address": "3217 S. Decker Lake Drive Salt Lake City, UT 84119",
+  "defendant": "Ralph Steberger AKA Ralph A. Steberger; Eileen Steberger AKA Eileen M. Steberger, h/w",
+  "extracted": {},
+  "fields": {
+    "Address": "828N New Road\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$271,750.87",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-003318-21",
+    "Deed": "MCLP Asset Company, Inc. at c/o SELECT PORTFOLIO SERVICING, INC.",
+    "Deed Address": "3217 S. Decker Lake Drive Salt Lake City, UT 84119",
+    "Defendant": "Ralph Steberger AKA Ralph A. Steberger; Eileen Steberger AKA Eileen M. Steberger, h/w",
+    "Plaintiff": "MCLP Asset Company, Inc., At c/o Select Portfolio Servicing, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "3/19/2026",
+    "Sheriff #": "F-26000075",
+    "Upset Amount": "$288,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 271750.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "828N New Road Pleasantville NJ 08232",
+    "defendant": "Ralph Steberger AKA ...",
+    "listing_status": null,
+    "plaintiff": "MCLP Asset Company, ...",
+    "sale_date": "2026-03-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "MCLP Asset Company, Inc., At c/o Select Portfolio Servicing, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2026-03-19",
+  "sheriff_number": "F-26000075",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-03-19",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 288000.0,
+  "upset_amount_label": "Upset Amount"
+}

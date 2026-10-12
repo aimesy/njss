@@ -1,0 +1,59 @@
+{
+  "address": "571 Hopping Road Belford NJ 07718",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00564225",
+  "current_status": "Scheduled",
+  "defendant": "Michael N. Klepach",
+  "description": "Dimensions of the Lot are (Approximately) 100.00 x 65.00 x 100.00 x 65.00\nNearest Cross Street: Leonardville Road\nSubject to a Mortgage given to Wells Fargo Bank, N.A. on August 26/ 2013, in the approximate amount of $69,000.00, recorded on September 11, 2013, in Book 9035, at Page 8617.\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record. The occupancy status of the subject property is unknown.\nThe approximate upset sum is $136,962.91 calculated through November 11, 2025 plus any additional advance, interest, Sheriff's cost and commission to the date of the sale.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "571 Hopping Road\nBelford NJ 07718",
+    "Approx. Judgment*": "$125,990.94",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F00564225",
+    "Defendant": "Michael N. Klepach",
+    "Description": "Dimensions of the Lot are (Approximately) 100.00 x 65.00 x 100.00 x 65.00\nNearest Cross Street: Leonardville Road\nSubject to a Mortgage given to Wells Fargo Bank, N.A. on August 26/ 2013, in the approximate amount of $69,000.00, recorded on September 11, 2013, in Book 9035, at Page 8617.\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record. The occupancy status of the subject property is unknown.\nThe approximate upset sum is $136,962.91 calculated through November 11, 2025 plus any additional advance, interest, Sheriff's cost and commission to the date of the sale.",
+    "Parcel #": "Lot 85, Block 656 f/k/a Lot 17, Block 952 Tax Map of Township of Middletown",
+    "Plaintiff": "Wells Fargo Bank, N.A>",
+    "Property Note": "",
+    "Sales Date": "3/19/2026",
+    "Sheriff #": "FOR-25002315"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 125990.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "571 Hopping Road Belford NJ 07718",
+    "defendant": "Michael N. Klepach",
+    "listing_status": "Canceled",
+    "plaintiff": "Wells Fargo Bank, N.A>",
+    "sale_date": "2026-03-19"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 85, Block 656 f/k/a Lot 17, Block 952 Tax Map of Township of Middletown",
+  "plaintiff": "Wells Fargo Bank, N.A>",
+  "property_note": null,
+  "sale_date": "2026-03-19",
+  "sheriff_number": "FOR-25002315",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-19",
+      "status": "Canceled"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Scheduled"
+    }
+  ]
+}

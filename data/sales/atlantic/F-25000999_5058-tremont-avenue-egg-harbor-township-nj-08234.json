@@ -1,0 +1,62 @@
+{
+  "address": "5058 Tremont Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Martone & Uhlmann, A Professional Corporation",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000494-25",
+  "current_status": "Scheduled",
+  "deed": "AHASAN Realty LLC",
+  "deed_address": "410 Montrose Lane Galloway NJ 08205",
+  "defendant": "John Ross; Midlantic Funding LLC; Chrysler Financial Services Americas LLC d/b/a Chrysler Financial; Virginia Heger; Manfred Heger; Heger Consulting Corp. f/k/a Fairfield Stamping Corp.; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "5058 Tremont Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$159,702.65",
+    "Attorney": "Martone & Uhlmann, A Professional Corporation",
+    "Court Case #": "F-000494-25",
+    "Deed": "AHASAN Realty LLC",
+    "Deed Address": "410 Montrose Lane Galloway NJ 08205",
+    "Defendant": "John Ross; Midlantic Funding LLC; Chrysler Financial Services Americas LLC d/b/a Chrysler Financial; Virginia Heger; Manfred Heger; Heger Consulting Corp. f/k/a Fairfield Stamping Corp.; State of New Jersey",
+    "Plaintiff": "PNC Bank, National Association",
+    "Priors": "NONE",
+    "Property Note": "Occupancy Status: Unknown",
+    "Sales Date": "12/11/2025",
+    "Sheriff #": "F-25000999",
+    "Upset Amount": "$180,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 159702.65,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5058 Tremont Avenue Egg Harbor Township NJ 08234",
+    "defendant": "John Ross; Midlantic...",
+    "listing_status": null,
+    "plaintiff": "PNC Bank, National A...",
+    "sale_date": "2025-12-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PNC Bank, National Association",
+  "priors": "NONE",
+  "property_note": "Occupancy Status: Unknown",
+  "sale_date": "2025-12-11",
+  "sheriff_number": "F-25000999",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-12-11",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 180000.0,
+  "upset_amount_label": "Upset Amount"
+}

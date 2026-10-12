@@ -1,0 +1,64 @@
+{
+  "address": "226 EAST CLINTON STREET CLAYTON NJ 08312",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-006757-24",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "KYSHA WILLIAMS; MR. KYSHA WILLIAMS, HUSBAND OF KYSHA WILLIAMS; AMERICREDIT FINANCIAL SERVICES INC,; JESSIE MANSON; SHIRLEY WILLIAMS BARDGE AND LINDA WILLIAMS",
+  "description": "APPROXIMATE UPSET PRICE: $187,688.87\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 187688.87
+  },
+  "fields": {
+    "Address": "226 EAST CLINTON STREET\nCLAYTON NJ 08312",
+    "Approximate Judgment": "$165,199.24",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-006757-24",
+    "Defendant": "KYSHA WILLIAMS; MR. KYSHA WILLIAMS, HUSBAND OF KYSHA WILLIAMS; AMERICREDIT FINANCIAL SERVICES INC,; JESSIE MANSON; SHIRLEY WILLIAMS BARDGE AND LINDA WILLIAMS",
+    "Description": "APPROXIMATE UPSET PRICE: $187,688.87\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT: 4 FKA 2 BLOCK: 1501 FKA 41.G",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "BOROUGH OF CLAYTON\nCOUNTY OF GLOUCESTER\n226 EAST CLINTON STREET CLAYTON, NJ 08312\nLOT: 4 FKA 2 BLOCK: 1501 FKA 41.G\nNEAREST CROSS STREET: NORTH NEW STREET\nAPPROXIMATE DIMENSIONS: 131.34 x 63.00 FEET\nAPPROXIMATE UPSET PRICE: $187,688.87\nOCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "2/4/2027",
+    "Sheriff #": "F-25000214"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 165199.24,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "226 EAST CLINTON STREET CLAYTON NJ 08312",
+    "defendant": "KYSHA WILLIAMS; MR. KYSHA WILLIAMS, HUSBAND OF KYSHA WILLIAMS; AMERICREDIT FINANCIAL SERVICES INC,; JESSIE MANSON; SHIRLEY WILLIAMS BARDGE AND LINDA WILLIAMS",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2027-02-04"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 4 FKA 2 BLOCK: 1501 FKA 41.G",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": "BOROUGH OF CLAYTON\nCOUNTY OF GLOUCESTER\n226 EAST CLINTON STREET CLAYTON, NJ 08312\nLOT: 4 FKA 2 BLOCK: 1501 FKA 41.G\nNEAREST CROSS STREET: NORTH NEW STREET\nAPPROXIMATE DIMENSIONS: 131.34 x 63.00 FEET\nAPPROXIMATE UPSET PRICE: $187,688.87\nOCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2027-02-04",
+  "sheriff_number": "F-25000214",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-05-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-14",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2027-02-04",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

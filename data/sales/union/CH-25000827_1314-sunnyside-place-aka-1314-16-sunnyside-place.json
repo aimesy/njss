@@ -1,0 +1,72 @@
+{
+  "address": "1314 SUNNYSIDE PLACE AKA 1314-16 SUNNYSIDE PLACE PLAINFIELD NJ 07060",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01161024",
+  "current_status": "Sheriff Adjournment",
+  "defendant": "HOPE A. THOMPSON; UNITED STATES OF AMERICA",
+  "description": "LOT 17 BLOCK 631 FKA 227",
+  "extracted": {
+    "block": "631",
+    "lot": "17"
+  },
+  "fields": {
+    "Address": "1314 SUNNYSIDE PLACE\nAKA 1314-16 SUNNYSIDE PLACE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$138,319.42",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+    "Court Case #": "F01161024",
+    "Defendant": "HOPE A. THOMPSON; UNITED STATES OF AMERICA",
+    "Description": "LOT 17 BLOCK 631 FKA 227",
+    "Parcel #": "LOT 17 BLOCK 631 FKA 227",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "CH-25000827"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1314 SUNNYSIDE PLACE AKA 1314-16 SUNNYSIDE PLACE PLAINFIELD NJ 07060",
+    "defendant": "HOPE A. THOMPSON; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 17 BLOCK 631 FKA 227",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "CH-25000827",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-05-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Sheriff Adjournment"
+    }
+  ],
+  "upset_amount": 138319.42,
+  "upset_amount_label": "Approx. Upset*"
+}

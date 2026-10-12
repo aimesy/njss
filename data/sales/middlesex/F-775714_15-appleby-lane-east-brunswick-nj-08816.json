@@ -1,0 +1,63 @@
+{
+  "address": "15 APPLEBY LANE EAST BRUNSWICK NJ 08816",
+  "attorney": "KML LAW GROUP P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00500020",
+  "current_status": "Bankruptcy",
+  "defendant": "HAK JAE LIM",
+  "description": "LOT 7 BLOCK 88.17",
+  "extracted": {
+    "block": "88.17",
+    "lot": "7"
+  },
+  "fields": {
+    "Approx. Judgment*": "$518,777.57",
+    "Attorney": "KML LAW GROUP P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00500020",
+    "Defendant": "HAK JAE LIM",
+    "Description": "LOT 7 BLOCK 88.17",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "LOANCARE, LLC",
+    "Property Address": "15 APPLEBY LANE\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "PLAINTIFF ADJ. 07/20/2022 TO 08/17/2022\nPLAINTIFF ADJ. 08/17/2022 TO 04/14/2022\nSHERIFF ADJ. 02/15/2023 TO 03/15/2023\nSHERIFF ADJ. 03/15/2023 TO 04/12/2023",
+    "Sale Date": "4/23/2026",
+    "Sheriff #": "F-775714"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 518777.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "15 APPLEBY LANE EAST BRUNSWICK NJ 08816",
+    "defendant": "HAK JAE LIM",
+    "listing_status": "Cancelled",
+    "plaintiff": "LOANCARE, LLC",
+    "sale_date": "2026-04-23"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "LOANCARE, LLC",
+  "property_note": "PLAINTIFF ADJ. 07/20/2022 TO 08/17/2022\nPLAINTIFF ADJ. 08/17/2022 TO 04/14/2022\nSHERIFF ADJ. 02/15/2023 TO 03/15/2023\nSHERIFF ADJ. 03/15/2023 TO 04/12/2023",
+  "sale_date": "2026-04-23",
+  "sheriff_number": "F-775714",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-04-12",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

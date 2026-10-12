@@ -1,0 +1,58 @@
+{
+  "address": "172 NEW YORK AVENUE APT 2L JERSEY CITY NJ 07307",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "(732)494-4800",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "SWC-F-010397-25",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "NEW YORK AVE JERSEY LLC; VOLVIE BROWN; ISIDORE BLEIER; STATE OF NEW JERSEY",
+  "description": "LOT(S) 7, QUAL C0201, BLOCK 3901\nDIMENSIONS OF THE LOT (APPROXIMATELY): 25.17X100\nNEAREST CROSS STREET: FRANKLIN STREET\nTHE PLAINTIFF'S GOOD FAITH ESTIMATE IS $520,754.58. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS IS NON OWNER OCCUPIED",
+  "extracted": {
+    "block": "3901"
+  },
+  "fields": {
+    "Address": "172 NEW YORK AVENUE APT 2L\nJERSEY CITY NJ 07307",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "(732)494-4800",
+    "Court Case #": "SWC-F-010397-25",
+    "Defendant": "NEW YORK AVE JERSEY LLC; VOLVIE BROWN; ISIDORE BLEIER; STATE OF NEW JERSEY",
+    "Description": "LOT(S) 7, QUAL C0201, BLOCK 3901\nDIMENSIONS OF THE LOT (APPROXIMATELY): 25.17X100\nNEAREST CROSS STREET: FRANKLIN STREET\nTHE PLAINTIFF'S GOOD FAITH ESTIMATE IS $520,754.58. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS IS NON OWNER OCCUPIED",
+    "Good Faith Upset*": "$520,754.58",
+    "Judgment": "$469,358.00",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20063430"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 469358.0,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "172 NEW YORK AVENUE APT 2L JERSEY CITY NJ 07307",
+    "defendant": "NEW YORK AVE JERSEY LLC; VOLVIE BROWN; ISIDORE BLEIER; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20063430",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 520754.58,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "11 OAK STREET AVENEL NJ 07001",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-924-0808",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00389124",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "Kelly Kilpatrick Hardy",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$152,170.70",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F00389124",
+    "Defendant": "Kelly Kilpatrick Hardy",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1 FKA 1,2 & 3 BLOCK 859.12",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Property Address": "11 OAK STREET\nAVENEL NJ 07001",
+    "Property Note": "",
+    "Sale Date": "10/29/2025",
+    "Sheriff #": "F-25001671"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 152170.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 OAK STREET AVENEL NJ 07001",
+    "defendant": "Kelly Kilpatrick Hardy",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1 FKA 1,2 & 3 BLOCK 859.12",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25001671",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

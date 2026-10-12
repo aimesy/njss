@@ -1,0 +1,64 @@
+{
+  "address": "5 Sunrise Circle Holmdel NJ 07733",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00236824",
+  "current_status": "Scheduled",
+  "defendant": "David A. Weiner aka David Weiner aka Michael Weiner et al.",
+  "description": "Dimensions of Lot: 2.080 AC\nNearest Cross Street: Stoney Brook\nEstimated Upset Bid Amount: $1,205,000.00. plus any additional sums as ordered by the court.\nOccupancy Status: Owner occupied\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n• 2024 Qtr. 4 Due: 11/01/2024 $4,441.07 OPEN\n• 2025 Qtr. 1 Due: 02/01/2024 $4,390.35 OPEN\n• 2025 Qtr. 2 Due: 05/01/2024 $4,390.35 OPEN\nsewer: Holmdel Sewer Dept 4 Crawford Corner Road Holmdel, NJ 07733 732-946-4455 Acct. 26360000 0 07/01/2024 - 09/30/2024 $122.00 OPEN",
+  "extracted": {
+    "lot": "2.080",
+    "occupancy": "Owner occupied"
+  },
+  "fields": {
+    "Address": "5 Sunrise Circle\nHolmdel NJ 07733",
+    "Approx. Judgment*": "$1,128,115.40",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00236824",
+    "Defendant": "David A. Weiner aka David Weiner aka Michael Weiner et al.",
+    "Description": "Dimensions of Lot: 2.080 AC\nNearest Cross Street: Stoney Brook\nEstimated Upset Bid Amount: $1,205,000.00. plus any additional sums as ordered by the court.\nOccupancy Status: Owner occupied\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n• 2024 Qtr. 4 Due: 11/01/2024 $4,441.07 OPEN\n• 2025 Qtr. 1 Due: 02/01/2024 $4,390.35 OPEN\n• 2025 Qtr. 2 Due: 05/01/2024 $4,390.35 OPEN\nsewer: Holmdel Sewer Dept 4 Crawford Corner Road Holmdel, NJ 07733 732-946-4455 Acct. 26360000 0 07/01/2024 - 09/30/2024 $122.00 OPEN",
+    "Parcel #": "Tax Lot: 12 Block: 50.11 located on the tax map of the thwnship of Holmdel",
+    "Plaintiff": "HSBC Bank USA, National Association, as Trustee for GSAA Home Equity Trust 2005-12, Asset-Backed Certificates, Series 2005-12",
+    "Property Note": "",
+    "Sales Date": "1/17/2025",
+    "Sheriff #": "FOR-24001888"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1128115.4,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 Sunrise Circle Holmdel NJ 07733",
+    "defendant": "David A. Weiner aka David Weiner aka Michael Weiner et al.",
+    "listing_status": "Reinstated",
+    "plaintiff": "HSBC Bank USA, National Association, as Trustee for GSAA Home Equity Trust 2005-12, Asset-Backed Certificates, Series 2005-12",
+    "sale_date": "2025-01-17"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 12 Block: 50.11 located on the tax map of the thwnship of Holmdel",
+  "plaintiff": "HSBC Bank USA, National Association, as Trustee for GSAA Home Equity Trust 2005-12, Asset-Backed Certificates, Series 2005-12",
+  "property_note": null,
+  "sale_date": "2025-01-17",
+  "sheriff_number": "FOR-24001888",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-17",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Scheduled"
+    }
+  ]
+}

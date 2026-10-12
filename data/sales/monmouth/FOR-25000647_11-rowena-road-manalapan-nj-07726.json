@@ -1,0 +1,53 @@
+{
+  "address": "11 Rowena Road Manalapan NJ 07726",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00969223",
+  "current_status": "Scheduled",
+  "defendant": "Richard Epifania et al.",
+  "description": "Dimensions of Lot ( Approximate): 85 feet by 176.50 feet\nNearest Cross Street: Neal Drive\nThe estimated upset amount for the scheduled sheriff sale is currently $222,599.99.\nThe upset price is not the same as a payoff or judgement redemption amount.\nThe property is Vacant.\nThis property is occupied by unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "11 Rowena Road\nManalapan NJ 07726",
+    "Approx. Judgment*": "$201,401.90",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00969223",
+    "Defendant": "Richard Epifania et al.",
+    "Description": "Dimensions of Lot ( Approximate): 85 feet by 176.50 feet\nNearest Cross Street: Neal Drive\nThe estimated upset amount for the scheduled sheriff sale is currently $222,599.99.\nThe upset price is not the same as a payoff or judgement redemption amount.\nThe property is Vacant.\nThis property is occupied by unknown.",
+    "Parcel #": "Tax Lot: 6 Block: 312 Located on the tax map of the Township of Manalapan",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Property Note": "",
+    "Sales Date": "6/3/2025",
+    "Sheriff #": "FOR-25000647"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 201401.9,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 Rowena Road Manalapan NJ 07726",
+    "defendant": "Richard Epifania et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Nationstar Mortgage LLC",
+    "sale_date": "2025-06-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 6 Block: 312 Located on the tax map of the Township of Manalapan",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "property_note": null,
+  "sale_date": "2025-06-03",
+  "sheriff_number": "FOR-25000647",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Scheduled"
+    }
+  ]
+}

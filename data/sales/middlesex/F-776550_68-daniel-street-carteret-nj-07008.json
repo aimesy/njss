@@ -1,0 +1,56 @@
+{
+  "address": "68 DANIEL STREET CARTERET NJ 07008",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00106424",
+  "current_status": "Bankruptcy",
+  "defendant": "FELIX G. VILLEGAS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$459,299.25",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00106424",
+    "Defendant": "FELIX G. VILLEGAS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 10 BLOCK 4209 FKA 307",
+    "Plaintiff": "NEWREZ LLC D.B.A SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "68 DANIEL STREET\nCARTERET NJ 07008",
+    "Property Note": "",
+    "Sale Date": "8/28/2024",
+    "Sheriff #": "F-776550"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 459299.25,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "68 DANIEL STREET CARTERET NJ 07008",
+    "defendant": "FELIX G. VILLEGAS",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "NEWREZ LLC D.B.A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2024-08-28"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 10 BLOCK 4209 FKA 307",
+  "plaintiff": "NEWREZ LLC D.B.A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2024-08-28",
+  "sheriff_number": "F-776550",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-08-28",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

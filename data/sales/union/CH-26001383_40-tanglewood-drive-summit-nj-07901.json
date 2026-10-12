@@ -1,0 +1,61 @@
+{
+  "address": "40 TANGLEWOOD DRIVE SUMMIT NJ 07901",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01146122",
+  "current_status": "Defendant Adjournment",
+  "defendant": "AMINA H. ALI; OSMAN S. ALI; LYDIA MOLOTSCHKO; GREGORY MASCERA; LISA MASCERA; CHRISTINE ASSOCIATES INC; CARNEGIE CAPITAL LLC; PATRICK ANDREWS; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; CAPITAL ONE BANK USA NA",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "40 TANGLEWOOD DRIVE\nSUMMIT NJ 07901",
+    "Approx. Upset*": "$1,237,377.01",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F01146122",
+    "Defendant": "AMINA H. ALI; OSMAN S. ALI; LYDIA MOLOTSCHKO; GREGORY MASCERA; LISA MASCERA; CHRISTINE ASSOCIATES INC; CARNEGIE CAPITAL LLC; PATRICK ANDREWS; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; CAPITAL ONE BANK USA NA",
+    "Description": "",
+    "Parcel #": "LOT 11 BLOCK 5603",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "Dimensions (Approx.): .385 Acres\nNearest Cross Street: Joanna Way.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nGood Faith Estimated Upset Price: $1\nTHE SHERIFF RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\nOccupancy Status: Owner Occupied\nBy:Dated: August 26, 2026",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "CH-26001383"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "40 TANGLEWOOD DRIVE SUMMIT NJ 07901",
+    "defendant": "AMINA H. ALI; OSMAN S. ALI; LYDIA MOLOTSCHKO; GREGORY MASCERA; LISA MASCERA; CHRISTINE ASSOCIATES INC; CARNEGIE CAPITAL LLC; PATRICK ANDREWS; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; CAPITAL ONE BANK USA NA",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 11 BLOCK 5603",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": "Dimensions (Approx.): .385 Acres\nNearest Cross Street: Joanna Way.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nGood Faith Estimated Upset Price: $1\nTHE SHERIFF RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\nOccupancy Status: Owner Occupied\nBy:Dated: August 26, 2026",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "CH-26001383",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-07-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-26",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 1237377.01,
+  "upset_amount_label": "Approx. Upset*"
+}

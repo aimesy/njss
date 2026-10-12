@@ -1,0 +1,49 @@
+{
+  "address": "2049 MERION AVE ATCO NJ 08004-2112",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F001177525",
+  "current_status": "Scheduled",
+  "defendant": "DANIEL J KNOLL, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "2049 MERION AVE\nATCO NJ 08004-2112",
+    "Approx. Upset*": "$137,239.55",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F001177525",
+    "Defendant": "DANIEL J KNOLL, ET AL.",
+    "Parcel #": ": Lot 5, Block 4106 on the official Tax Map of the TOWNSHIP OF WATERFORD.",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002132"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2049 MERION AVE ATCO NJ 08004-2112",
+    "defendant": "DANIEL J KNOLL, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": ": Lot 5, Block 4106 on the official Tax Map of the TOWNSHIP OF WATERFORD.",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002132",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 137239.55,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,69 @@
+{
+  "address": "520 SOCIETY HILL CHERRY HILL NJ 08003",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00739925",
+  "current_status": "Settled",
+  "defendant": "BENJAMIN B. SEPIELLI; SOCIETY HILL CONDOMINIUM ASSOCIATION, INC.; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "520 SOCIETY HILL\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$196,792.04",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00739925",
+    "Defendant": "BENJAMIN B. SEPIELLI; SOCIETY HILL CONDOMINIUM ASSOCIATION, INC.; STATE OF\nNEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP2",
+    "Property Note": "",
+    "Sales Date": "7/28/2026",
+    "Sheriff #": "FR-25002611"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "520 SOCIETY HILL CHERRY HILL NJ 08003",
+    "defendant": "BENJAMIN B. SEPIELLI; SOCIETY HILL CONDOMINIUM ASSOCIATION, INC.; STATE OF \nNEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP2",
+    "sale_date": "2026-07-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP2",
+  "property_note": null,
+  "sale_date": "2026-07-28",
+  "sheriff_number": "FR-25002611",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-07-28",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 196792.04,
+  "upset_amount_label": "Approx. Upset*"
+}

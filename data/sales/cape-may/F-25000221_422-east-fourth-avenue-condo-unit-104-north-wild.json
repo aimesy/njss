@@ -1,0 +1,68 @@
+{
+  "address": "422 East FOURTH Avenue CONDO UNIT 104 North Wildwood NJ 08260",
+  "attorney": "Eisenberg, Gold & Agrawal PC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-330-6200",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-001257-25",
+  "current_status": "Scheduled",
+  "defendant": "DEW STAR, LLC, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$290,878.81",
+    "Attorney": "Eisenberg, Gold & Agrawal PC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-330-6200",
+    "Court Case #": "F-001257-25",
+    "Defendant": "DEW STAR, LLC, ET AL",
+    "Description": "",
+    "Minimum Bid": "$319,000.00",
+    "Parcel #": "LOT 8 C0104 f/k/a C0004, BLOCK 322",
+    "Plaintiff": "TBR, LLC, A NEW JERSEY LIMITED LIABILITY COMPANY",
+    "Property Address": "422 East FOURTH Avenue\nCONDO UNIT 104\nNorth Wildwood NJ 08260",
+    "Property Note": "",
+    "Sale Date": "11/12/2025",
+    "Sheriff #": "F-25000221"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 290878.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "422 East FOURTH Avenue CONDO UNIT 104 North Wildwood NJ 08260",
+    "defendant": "DEW STAR, LLC, ET AL",
+    "listing_status": null,
+    "plaintiff": "TBR, LLC, A NEW JERSEY LIMITED LIABILITY COMPANY",
+    "sale_date": "2025-11-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 8 C0104 f/k/a C0004, BLOCK 322",
+  "plaintiff": "TBR, LLC, A NEW JERSEY LIMITED LIABILITY COMPANY",
+  "property_note": null,
+  "sale_date": "2025-11-12",
+  "sheriff_number": "F-25000221",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-11-12",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 319000.0,
+  "upset_amount_label": "Minimum Bid"
+}

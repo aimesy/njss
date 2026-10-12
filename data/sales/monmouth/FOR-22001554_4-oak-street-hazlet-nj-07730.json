@@ -1,0 +1,67 @@
+{
+  "address": "4 Oak Street Hazlet NJ 07730",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00368022",
+  "current_status": "Scheduled",
+  "defendant": "Veronica M. Grothusen A/K/A Veronica Grothusen, et al",
+  "description": "Dimensions of Lot: 76 X 110 IRR .1950 AC\nNearest Cross Street: Highland Avenue\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n*2022 Qtr. 3 Due: 08/01/2022 $1,997.18 OPEN; GRACE PERIOD EXTENDED TO 09/09/2022\n*2022 Qtr. 4 Due: 11/01/2022 $1,997.18 OPEN\n*2023 Qtr. 1 Due: 02/01/2023 $2,017.23 OPEN\n*2023 Qtr. 2 Due: 05/01/2023 $2,017.22 OPEN\n*Sewer: Hazlet Township 1766 Union Ave. Hazlet, NJ 07730 732-264-1700 Acct: 5307 0 06/01/2022-08/31/2022 $99.00 OPEN PLUS PENALTY $396.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "extracted": {
+    "lot": "76"
+  },
+  "fields": {
+    "Address": "4 Oak Street\nHazlet NJ 07730",
+    "Approx. Judgment*": "$205,996.32",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00368022",
+    "Defendant": "Veronica M. Grothusen A/K/A Veronica Grothusen, et al",
+    "Description": "Dimensions of Lot: 76 X 110 IRR .1950 AC\nNearest Cross Street: Highland Avenue\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n*2022 Qtr. 3 Due: 08/01/2022 $1,997.18 OPEN; GRACE PERIOD EXTENDED TO 09/09/2022\n*2022 Qtr. 4 Due: 11/01/2022 $1,997.18 OPEN\n*2023 Qtr. 1 Due: 02/01/2023 $2,017.23 OPEN\n*2023 Qtr. 2 Due: 05/01/2023 $2,017.22 OPEN\n*Sewer: Hazlet Township 1766 Union Ave. Hazlet, NJ 07730 732-264-1700 Acct: 5307 0 06/01/2022-08/31/2022 $99.00 OPEN PLUS PENALTY $396.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Parcel #": "Lot 6, Block 53 Tax Map of the Township of Hazlet",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Property Note": "",
+    "Sales Date": "1/2/2026",
+    "Sheriff #": "FOR-22001554"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 205996.32,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4 Oak Street Hazlet NJ 07730",
+    "defendant": "Veronica M. Grothusen A/K/A Veronica Grothusen, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Freedom Mortgage Corporation",
+    "sale_date": "2026-01-02"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 6, Block 53 Tax Map of the Township of Hazlet",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "property_note": null,
+  "sale_date": "2026-01-02",
+  "sheriff_number": "FOR-22001554",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-02",
+      "status": "Canceled"
+    },
+    {
+      "date": "2022-11-28",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-11-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-10-31",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-10-03",
+      "status": "Scheduled"
+    }
+  ]
+}

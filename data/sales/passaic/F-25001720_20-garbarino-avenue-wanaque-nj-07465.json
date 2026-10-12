@@ -1,0 +1,63 @@
+{
+  "address": "20 Garbarino Avenue Wanaque NJ 07465",
+  "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003945 25 CTL# 163079",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "DONITA WALKER ET ALS",
+  "description": "Approximate dimensions: 150' x 150'\nNearest cross street: Oak Terrace\nThe Plaintiff's Upset Bid presently approximates $204,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "20 Garbarino Avenue\nWanaque NJ 07465",
+    "Approx. Upset*": "$185,490.87",
+    "Attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+    "Court Case #": "F 003945 25 CTL# 163079",
+    "Defendant": "DONITA WALKER ET ALS",
+    "Description": "Approximate dimensions: 150' x 150'\nNearest cross street: Oak Terrace\nThe Plaintiff's Upset Bid presently approximates $204,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot: 30, 31, 32 Tax Block: 206",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "3/31/2026",
+    "Sheriff #": "F-25001720"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "20 Garbarino Avenue Wanaque NJ 07465",
+    "defendant": "DONITA WALKER ET ALS",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-03-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 30, 31, 32 Tax Block: 206",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-31",
+  "sheriff_number": "F-25001720",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-02-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 185490.87,
+  "upset_amount_label": "Approx. Upset*"
+}

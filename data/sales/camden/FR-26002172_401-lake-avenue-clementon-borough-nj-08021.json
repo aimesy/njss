@@ -1,0 +1,49 @@
+{
+  "address": "401 LAKE AVENUE CLEMENTON BOROUGH NJ 08021",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00259926",
+  "current_status": "Scheduled",
+  "defendant": "STACEY R. SUYDAM, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "401 LAKE AVENUE\nCLEMENTON BOROUGH NJ 08021",
+    "Approx. Upset*": "$230,026.91",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00259926",
+    "Defendant": "STACEY R. SUYDAM, ET AL.",
+    "Parcel #": "BLOCK: 108 LOT: 8",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "Clementon Boro holds a claim in the amount of $85.00 plus penalty and $105.02 plus penalty for water; $82.50 plus penalty and $63.25 plus penalty for sewer as of 07/23/2026.\nCCMUA holds a claim in the amount of $93.00 plus penalty and $558.00 plus penalty as of 07/23/2026.\nProperty Registration Fee Exists - contact the clerk at 856-783-0284 x 124 for details.",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002172"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "401 LAKE AVENUE CLEMENTON BOROUGH NJ 08021",
+    "defendant": "STACEY R. SUYDAM, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK: 108 LOT: 8",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": "Clementon Boro holds a claim in the amount of $85.00 plus penalty and $105.02 plus penalty for water; $82.50 plus penalty and $63.25 plus penalty for sewer as of 07/23/2026.\nCCMUA holds a claim in the amount of $93.00 plus penalty and $558.00 plus penalty as of 07/23/2026.\nProperty Registration Fee Exists - contact the clerk at 856-783-0284 x 124 for details.",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002172",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 230026.91,
+  "upset_amount_label": "Approx. Upset*"
+}

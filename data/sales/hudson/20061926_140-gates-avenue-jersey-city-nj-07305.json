@@ -1,0 +1,68 @@
+{
+  "address": "140 GATES AVENUE JERSEY CITY NJ 07305",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011130-22",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "FRANCES BEAUCHAMP A/K/A FRANCIS A ISAAC-BEAUCHAMP; ET AL.",
+  "description": "TAX LOT(S): 36 F/K/A 75, IN BLOCK: 29602 F/K/A 1377\nDIMENSIONS (APPROX.): 55.09 X 98.87\nNEAREST CROSS STREET: OLD BERGEN ROAD\nGOOD FAITH ESTIMATED UPSET PRICE: $490,797.86\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "block": "29602",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 490797.86
+  },
+  "fields": {
+    "Address": "140 GATES AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-011130-22",
+    "Defendant": "FRANCES BEAUCHAMP A/K/A FRANCIS A ISAAC-BEAUCHAMP; ET AL.",
+    "Description": "TAX LOT(S): 36 F/K/A 75, IN BLOCK: 29602 F/K/A 1377\nDIMENSIONS (APPROX.): 55.09 X 98.87\nNEAREST CROSS STREET: OLD BERGEN ROAD\nGOOD FAITH ESTIMATED UPSET PRICE: $490,797.86\nOCCUPANCY STATUS: OCCUPIED",
+    "Good Faith Upset*": "$480,281.11",
+    "Judgment": "$442,548.95",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2019-R2, MORTGAGE BACKED NOTES, SERIES 2019-R2",
+    "Property Note": "",
+    "Sales Date": "9/21/2026",
+    "Sheriff #": "20061926"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 442548.95,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "140 GATES AVENUE JERSEY CITY NJ 07305",
+    "defendant": "FRANCES BEAUCHAMP A/K/A FRANCIS A ISAAC-BEAUCHAMP; ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2019-R2, MORTGAGE BACKED NOTES, SERIES 2019-R2",
+    "sale_date": "2026-09-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2019-R2, MORTGAGE BACKED NOTES, SERIES 2019-R2",
+  "property_note": null,
+  "sale_date": "2026-09-21",
+  "sheriff_number": "20061926",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-04-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-09-21",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 480281.11,
+  "upset_amount_label": "Good Faith Upset*"
+}

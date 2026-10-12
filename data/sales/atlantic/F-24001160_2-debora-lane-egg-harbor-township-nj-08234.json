@@ -1,0 +1,62 @@
+{
+  "address": "2 Debora Lane Egg Harbor Township NJ 08234",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-013260-23",
+  "current_status": "Scheduled",
+  "deed": "Federal Home Loan Mortgage Corporation As Trustee For Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2021-3",
+  "deed_address": "8950 Cypress Waters Blvd., Coppell, TX 75019",
+  "defendant": "Suzanne Thomas A/K/A Suzanne M. Thomas; Juan Colin; Catherine Naz-Ayala; Jennifer Kniess; Credit Acceptance Corporation; Lena Bowen A/K/A Lena M. Bowen; David Bowen A/K/A David L. Bowen A/k/A David L. Bowen Jr; AA Baild Bonds Inc.; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "2 Debora Lane\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$321,793.83",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-013260-23",
+    "Deed": "Federal Home Loan Mortgage Corporation As Trustee For Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2021-3",
+    "Deed Address": "8950 Cypress Waters Blvd., Coppell, TX 75019",
+    "Defendant": "Suzanne Thomas A/K/A Suzanne M. Thomas; Juan Colin; Catherine Naz-Ayala; Jennifer Kniess; Credit Acceptance Corporation; Lena Bowen A/K/A Lena M. Bowen; David Bowen A/K/A David L. Bowen A/k/A David L. Bowen Jr; AA Baild Bonds Inc.; State of New Jersey",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, As Trustee for Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2021-3",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "11/14/2024",
+    "Sheriff #": "F-24001160",
+    "Upset Amount": "$268,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 321793.83,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2 Debora Lane Egg Harbor Township NJ 08234",
+    "defendant": "Suzanne Thomas A/K/A...",
+    "listing_status": null,
+    "plaintiff": "Federal Home Loan Mo...",
+    "sale_date": "2024-11-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, As Trustee for Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2021-3",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2024-11-14",
+  "sheriff_number": "F-24001160",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-14",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 268000.0,
+  "upset_amount_label": "Upset Amount"
+}

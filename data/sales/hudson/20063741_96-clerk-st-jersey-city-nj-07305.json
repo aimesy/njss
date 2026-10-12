@@ -1,0 +1,60 @@
+{
+  "address": "96 CLERK ST JERSEY CITY NJ 07305",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "401-217-8701",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005123-23",
+  "current_status": "JOINT ADJOURNMENT",
+  "defendant": "GARY GARVIN, ET AL.",
+  "description": "LOT 46, BLOCK 23302\nDIMENSIONS: 25 FT X 125 FT\nNEAREST CROSS STREET: CLAREMONT AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $556,277.43\nSUBJECT TO TAX SALE CERTIFICATE # 2025-1306 FOR OPEN WATER IN THE AMOUNT OF $813.54. THIRD PARTY PURCHASER IS RESPONSIBLE FOR OBTAINING FINAL AMOUNT TO REDEEM.",
+  "extracted": {
+    "block": "23302",
+    "lot": "46",
+    "upset_amount": 556277.43
+  },
+  "fields": {
+    "Address": "96 CLERK ST\nJERSEY CITY NJ 07305",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "401-217-8701",
+    "Court Case #": "F-005123-23",
+    "Defendant": "GARY GARVIN, ET AL.",
+    "Description": "LOT 46, BLOCK 23302\nDIMENSIONS: 25 FT X 125 FT\nNEAREST CROSS STREET: CLAREMONT AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $556,277.43\nSUBJECT TO TAX SALE CERTIFICATE # 2025-1306 FOR OPEN WATER IN THE AMOUNT OF $813.54. THIRD PARTY PURCHASER IS RESPONSIBLE FOR OBTAINING FINAL AMOUNT TO REDEEM.",
+    "Good Faith Upset*": "$556,277.43",
+    "Judgment": "$424,974.29",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20063741"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 424974.29,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "96 CLERK ST JERSEY CITY NJ 07305",
+    "defendant": "GARY GARVIN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20063741",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "JOINT ADJOURNMENT"
+    }
+  ],
+  "upset_amount": 556277.43,
+  "upset_amount_label": "Good Faith Upset*"
+}

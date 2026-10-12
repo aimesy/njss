@@ -1,0 +1,55 @@
+{
+  "address": "1161 SUMMIT AVENUE TEANECK NJ 07666",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F397825",
+  "current_status": "Cancelled",
+  "defendant": "CORTLY WILSON; LORETTA WILSON, HUSBAND AND WIFE",
+  "description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $294,268.89\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+  "extracted": {
+    "upset_amount": 294268.89
+  },
+  "fields": {
+    "Address": "1161 SUMMIT AVENUE\nTEANECK NJ 07666",
+    "Approx. Upset*": "$273,000.91",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Court Case #": "F397825",
+    "Defendant": "CORTLY WILSON; LORETTA WILSON, HUSBAND AND WIFE",
+    "Description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $294,268.89\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+    "Parcel #": "LOT 11, BLOCK 5915",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "12/16/2025",
+    "Sheriff #": "F-25002610"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1161 SUMMIT AVENUE TEANECK NJ 07666",
+    "defendant": "CORTLY WILSON; LORETTA WILSON, HUSBAND AND WIFE",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2025-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 11, BLOCK 5915",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2025-12-16",
+  "sheriff_number": "F-25002610",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 273000.91,
+  "upset_amount_label": "Approx. Upset*"
+}

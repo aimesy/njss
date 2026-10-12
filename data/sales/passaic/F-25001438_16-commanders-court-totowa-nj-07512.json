@@ -1,0 +1,64 @@
+{
+  "address": "16 COMMANDERS Court Totowa NJ 07512",
+  "attorney": "Hill Wallack, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 009635 20 CTL# 163033",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "CHAD BARBIERE, ET AL",
+  "description": "Occupancy Status: Borrower Occupied on tax map of the Borough of Totowa\nNearest Cross Street: Approximately 103.47ft to the nearest cross street known as Lafayette Circle\nApproximate Dimensions: 107.95ft x 55.56ft x 22.93ft x 112.14 x 34.64ft\nBeing more commonly known as: 16 Commanders Court, Totowa NJ 07512\nThe full legal description can be found in the Office of the Clerk of the Passaic County in Deed Book D908, at page 238\nApproximate upset price is $1,472,464.73 for the Sheriff's Sale\nPursuant to a municipal tax search dated July 11, 2025\nSubject to:\n2025 2nd Qtr taxes due 5/1/2025. $5,480.96 Open plus penalty, interest to 8/11/2025 $232.38\n2025 3rd Qtr taxes due 8/1/2025 to be determined\n2025 4th Qtr taxes due 11/1/2025 to be determined\nWater: Acct: 4619, 2/1/2025-4/30/2025, $98.10 Open plus penalty; $300.04 plus penalty; owed in arrears\nSubejct to final reading: Interest to 8/11/2025 $15.09\nSewer: Included with taxes; Subject to Excess charges",
+  "extracted": {
+    "occupancy": "Borrower Occupied on tax map of the Borough of Totowa",
+    "upset_amount": 1472464.73
+  },
+  "fields": {
+    "Address": "16 COMMANDERS Court\nTotowa NJ 07512",
+    "Approx. Upset*": "$1,329,422.69",
+    "Attorney": "Hill Wallack, LLP",
+    "Court Case #": "F 009635 20 CTL# 163033",
+    "Defendant": "CHAD BARBIERE, ET AL",
+    "Description": "Occupancy Status: Borrower Occupied on tax map of the Borough of Totowa\nNearest Cross Street: Approximately 103.47ft to the nearest cross street known as Lafayette Circle\nApproximate Dimensions: 107.95ft x 55.56ft x 22.93ft x 112.14 x 34.64ft\nBeing more commonly known as: 16 Commanders Court, Totowa NJ 07512\nThe full legal description can be found in the Office of the Clerk of the Passaic County in Deed Book D908, at page 238\nApproximate upset price is $1,472,464.73 for the Sheriff's Sale\nPursuant to a municipal tax search dated July 11, 2025\nSubject to:\n2025 2nd Qtr taxes due 5/1/2025. $5,480.96 Open plus penalty, interest to 8/11/2025 $232.38\n2025 3rd Qtr taxes due 8/1/2025 to be determined\n2025 4th Qtr taxes due 11/1/2025 to be determined\nWater: Acct: 4619, 2/1/2025-4/30/2025, $98.10 Open plus penalty; $300.04 plus penalty; owed in arrears\nSubejct to final reading: Interest to 8/11/2025 $15.09\nSewer: Included with taxes; Subject to Excess charges",
+    "Parcel #": "Tax Lot: 56 Block: 9.09",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C",
+    "Property Note": "",
+    "Sales Date": "12/16/2025",
+    "Sheriff #": "F-25001438"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "16 COMMANDERS Court Totowa NJ 07512",
+    "defendant": "CHAD BARBIERE, ET AL",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C",
+    "sale_date": "2025-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 56 Block: 9.09",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C",
+  "property_note": null,
+  "sale_date": "2025-12-16",
+  "sheriff_number": "F-25001438",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 1329422.69,
+  "upset_amount_label": "Approx. Upset*"
+}

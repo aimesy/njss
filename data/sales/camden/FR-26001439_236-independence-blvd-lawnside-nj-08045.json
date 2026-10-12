@@ -1,0 +1,61 @@
+{
+  "address": "236 INDEPENDENCE BLVD LAWNSIDE NJ 08045",
+  "attorney": "STERN & EISENBERG, PC",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00793125",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JOHN STEWART, ET. AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "236 INDEPENDENCE BLVD\nLAWNSIDE NJ 08045",
+    "Approx. Upset*": "$73,180.91",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00793125",
+    "Defendant": "JOHN STEWART, ET. AL.",
+    "Parcel #": "TAX LOT # 11 Block # 304",
+    "Plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "Taxes current through 2nd Quarter of 2026\nWater- Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer open balance in the amount of $181.14, good through July l, 2026*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.",
+    "Sales Date": "10/2/2026",
+    "Sheriff #": "FR-26001439"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "236 INDEPENDENCE BLVD LAWNSIDE NJ 08045",
+    "defendant": "JOHN STEWART, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2026-10-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT # 11 Block # 304",
+  "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": "Taxes current through 2nd Quarter of 2026\nWater- Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer open balance in the amount of $181.14, good through July l, 2026*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.",
+  "sale_date": "2026-10-02",
+  "sheriff_number": "FR-26001439",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-02",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 73180.91,
+  "upset_amount_label": "Approx. Upset*"
+}

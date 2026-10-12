@@ -1,0 +1,66 @@
+{
+  "address": "437 BARBERTOWN POINT BREEZE ROAD FLEMINGTON NJ 08822",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE",
+  "attorney_phone": "732-902-5399",
+  "county": "Hunterdon County, NJ",
+  "county_id": 32,
+  "court_case_number": "F-001023-26",
+  "current_status": "Scheduled",
+  "defendant": "JONATHAN RAMBERG AND REBECCA RAMBERG, HUSBAND AND WIFE; CAVALRY SPV I, LLC, ASSIGNEE OF AFFINITY FEDERAL CREDIT UNION ; UNTIED STATES OF AMERICA AND NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY,",
+  "description": "UPSET PRICE: $299,952.87\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 299952.87
+  },
+  "fields": {
+    "Address": "437 BARBERTOWN POINT BREEZE ROAD\nFLEMINGTON NJ 08822",
+    "Approx Judgment": "$271,693.72",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F-001023-26",
+    "Defendant": "JONATHAN RAMBERG AND REBECCA RAMBERG, HUSBAND AND WIFE; CAVALRY SPV I, LLC, ASSIGNEE OF AFFINITY FEDERAL CREDIT UNION ; UNTIED STATES OF AMERICA AND NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY,",
+    "Parcel #": "LOT 7.07 FKA 7.G BLOCK 18",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC,",
+    "Property Details": "UPSET PRICE: $299,952.87\nOCCUPANCY STATUS: OCCUPIED",
+    "Property Note": "UPSET PRICE: $299,952.87\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Sales Date": "7/21/2026",
+    "Sheriff #": "F-4172"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 271693.72,
+  "judgment_amount_label": "Approx Judgment",
+  "listing": {
+    "address": "437 BARBERTOWN POINT BREEZE ROAD FLEMINGTON NJ 08822",
+    "defendant": "JONATHAN RAMBERG AND REBECCA RAMBERG, HUSBAND AND WIFE; CAVALRY SPV I, LLC, ASSIGNEE OF AFFINITY FEDERAL CREDIT UNION ; UNTIED STATES OF AMERICA AND NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY,",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC,",
+    "sale_date": "2026-07-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
+  "parcel": "LOT 7.07 FKA 7.G BLOCK 18",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC,",
+  "property_note": "UPSET PRICE: $299,952.87\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "sale_date": "2026-07-21",
+  "sheriff_number": "F-4172",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
+  "status_history": [
+    {
+      "date": "2026-07-21",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "Scheduled"
+    }
+  ]
+}

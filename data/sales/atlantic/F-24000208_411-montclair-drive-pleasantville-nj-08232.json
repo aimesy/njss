@@ -1,0 +1,110 @@
+{
+  "address": "411 Montclair Drive Pleasantville NJ 08232",
+  "attorney": "Pincus Law Group, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006037-23",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank Trust National Association not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "deed_address": "C/O Selene Finance 3501 Olympus Blvd, Suite 500, Dallas, TX 75019",
+  "defendant": "Toye A. Tutis; Mrs. Toye A. Tutis, His wife; Jazmin Vega; Kareena N. Micheaux; New Jersey Casualty Insurance Company; State of New Jersey; Shore Medical Center; United States of America; City of Atlantic City",
+  "extracted": {},
+  "fields": {
+    "Address": "411 Montclair Drive\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$300,786.60",
+    "Attorney": "Pincus Law Group, PLLC",
+    "Court Case #": "F-006037-23",
+    "Deed": "U.S. Bank Trust National Association not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Deed Address": "C/O Selene Finance 3501 Olympus Blvd, Suite 500, Dallas, TX 75019",
+    "Defendant": "Toye A. Tutis; Mrs. Toye A. Tutis, His wife; Jazmin Vega; Kareena N. Micheaux; New Jersey Casualty Insurance Company; State of New Jersey; Shore Medical Center; United States of America; City of Atlantic City",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust C/O U.S. Bank Trust National Association",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: Please be advised that definitive occupancy information is not available and Plaintiff makes no representation regarding occupancy",
+    "Sales Date": "7/10/2025",
+    "Sheriff #": "F-24000208",
+    "Upset Amount": "$180,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 300786.6,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "411 Montclair Drive Pleasantville NJ 08232",
+    "defendant": "Toye A. Tutis; Mrs. ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-07-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust C/O U.S. Bank Trust National Association",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: Please be advised that definitive occupancy information is not available and Plaintiff makes no representation regarding occupancy",
+  "sale_date": "2025-07-10",
+  "sheriff_number": "F-24000208",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-10",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-07-10",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-02-20",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-02-20",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-03",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-05",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-08",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-06-13",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-06-13",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-04-18",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-04-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 180000.0,
+  "upset_amount_label": "Upset Amount"
+}

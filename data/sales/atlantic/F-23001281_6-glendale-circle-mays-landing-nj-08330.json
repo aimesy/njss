@@ -1,0 +1,70 @@
+{
+  "address": "6 Glendale Circle Mays Landing NJ 08330",
+  "attorney": "Pincus Law Group, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003112-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Cadence Aislinn Perkins; Victoria Crossing Community Association, Inc.",
+  "extracted": {},
+  "fields": {
+    "Address": "6 Glendale Circle\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$220,742.00",
+    "Attorney": "Pincus Law Group, PLLC",
+    "Court Case #": "F-003112-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Cadence Aislinn Perkins; Victoria Crossing Community Association, Inc.",
+    "Plaintiff": "NewRez LLC D/B/A Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "8/26/2025",
+    "Sheriff #": "F-23001281",
+    "Upset Amount": "$250,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 220742.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 Glendale Circle Mays Landing NJ 08330",
+    "defendant": "Cadence Aislinn Perk...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC D/B/A She...",
+    "sale_date": "2025-08-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC D/B/A Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2025-08-26",
+  "sheriff_number": "F-23001281",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-26",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-02-01",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-02-01",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-01-04",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2023-11-30",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 250500.0,
+  "upset_amount_label": "Upset Amount"
+}

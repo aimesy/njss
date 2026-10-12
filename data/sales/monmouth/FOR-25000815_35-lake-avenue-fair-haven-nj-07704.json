@@ -1,0 +1,64 @@
+{
+  "address": "35 Lake Avenue Fair Haven NJ 07704",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00951324",
+  "current_status": "Scheduled",
+  "defendant": "Patrick T. Ippolito A/K/A Patrick Ippolito, et al",
+  "description": "Dimensions of Lot:\n75 feet wide by 150 feet long\nNearest Cross Street: Glen Place\nEstimated upset bid amount: $935,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 2 Due: 05/01/2025 $3,825.64 OPEN\nSewer: T.R.W.R.A. 1 Highland Ave. Monmouth Beach, NJ 07750 732-229-8578\nAcct: 1007762 0 04/01/2025 - 06/30/2025 $100.00 OPEN AND DUE 05/01/2025\nWater: Red Bank MUA 90 Monmouth Street Red Bank, NJ 07701 732-530-2742\nAcct: 4320000 0 12/17/2024 - 03/17/2025 $175.02 OPEN PLUS PENALTY\nGeneral remark: 2025 SECOND HALF TAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTED ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT",
+  "extracted": {
+    "lot": "75",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "35 Lake Avenue\nFair Haven NJ 07704",
+    "Approx. Judgment*": "$867,247.73",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00951324",
+    "Defendant": "Patrick T. Ippolito A/K/A Patrick Ippolito, et al",
+    "Description": "Dimensions of Lot:\n75 feet wide by 150 feet long\nNearest Cross Street: Glen Place\nEstimated upset bid amount: $935,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 2 Due: 05/01/2025 $3,825.64 OPEN\nSewer: T.R.W.R.A. 1 Highland Ave. Monmouth Beach, NJ 07750 732-229-8578\nAcct: 1007762 0 04/01/2025 - 06/30/2025 $100.00 OPEN AND DUE 05/01/2025\nWater: Red Bank MUA 90 Monmouth Street Red Bank, NJ 07701 732-530-2742\nAcct: 4320000 0 12/17/2024 - 03/17/2025 $175.02 OPEN PLUS PENALTY\nGeneral remark: 2025 SECOND HALF TAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTED ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT",
+    "Parcel #": "Tax Lot 13 Block 12.01 Tax Map of the Borough of Fair Haven",
+    "Plaintiff": "OBX 2023-NQM3 Trust",
+    "Property Note": "",
+    "Sales Date": "8/18/2025",
+    "Sheriff #": "FOR-25000815"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 867247.73,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "35 Lake Avenue Fair Haven NJ 07704",
+    "defendant": "Patrick T. Ippolito A/K/A Patrick Ippolito, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "OBX 2023-NQM3 Trust",
+    "sale_date": "2025-08-18"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 13 Block 12.01 Tax Map of the Borough of Fair Haven",
+  "plaintiff": "OBX 2023-NQM3 Trust",
+  "property_note": null,
+  "sale_date": "2025-08-18",
+  "sheriff_number": "FOR-25000815",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-08-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Scheduled"
+    }
+  ]
+}

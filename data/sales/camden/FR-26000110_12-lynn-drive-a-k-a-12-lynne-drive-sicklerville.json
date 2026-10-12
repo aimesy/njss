@@ -1,0 +1,61 @@
+{
+  "address": "12 LYNN DRIVE A/K/A 12 LYNNE DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "ROMANO GARUBO & ARGENTIERI",
+  "attorney_phone": "(856) 384-1515",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00466225",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "MARK LINFANTE; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "12 LYNN DRIVE\nA/K/A 12 LYNNE DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$181,152.14",
+    "Attorney": "ROMANO GARUBO & ARGENTIERI",
+    "Attorney Phone": "(856) 384-1515",
+    "Court Case #": "F00466225",
+    "Defendant": "MARK LINFANTE; UNITED STATES OF AMERICA",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "5/28/2026",
+    "Sheriff #": "FR-26000110"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 LYNN DRIVE A/K/A 12 LYNNE DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "MARK LINFANTE; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-05-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-05-28",
+  "sheriff_number": "FR-26000110",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-05-28",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 181152.14,
+  "upset_amount_label": "Approx. Upset*"
+}

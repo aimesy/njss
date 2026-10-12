@@ -1,0 +1,55 @@
+{
+  "address": "10 SPRUCE STREET SEWELL NJ 08080",
+  "attorney": "RAGAN & RAGAN, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "L-000684-19; J-121437-19",
+  "current_status": "Cancelled",
+  "defendant": "CHRISTOPHER THOMAS AND TRINITY MECHANICAL SERVICES",
+  "description": "APPROXIMATE UPSET: $196,217.64\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "10 SPRUCE STREET\nSEWELL NJ 08080",
+    "Approximate Judgment": "$186,826.49",
+    "Attorney": "RAGAN & RAGAN, P.C.",
+    "Court Case #": "L-000684-19; J-121437-19",
+    "Defendant": "CHRISTOPHER THOMAS AND TRINITY MECHANICAL SERVICES",
+    "Description": "APPROXIMATE UPSET: $196,217.64\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "BLOCK: 208 LOT: 5",
+    "Plaintiff": "Bridgeton Plumbing & Heating Supply Co.",
+    "Property Note": "TOWNSHIP OF MANTUA\nCOUNTY OF GLOUCESTER\n10 SPRUCE STREET SEWELL, NJ 08080\nBLOCK: 208 LOT: 5\nAPPROXIMATE DIMENSIONS: 0.72 ACRE\nNUMBER OF FEET TO NEAREST CROSS: APPROXIMATELY 10'0' TO PINE STREET\nAPPROXIMATE UPSET: $196,217.64\nOCCUPANCY STATUS: OWNER OCCUPIED\nPRIOR LIENS: FULTON BANK $160,000.00 +/-",
+    "Sales Date": "12/17/2025",
+    "Sheriff #": "F-25000995"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 186826.49,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "10 SPRUCE STREET SEWELL NJ 08080",
+    "defendant": "CHRISTOPHER THOMAS AND TRINITY MECHANICAL SERVICES",
+    "listing_status": "Cancelled",
+    "plaintiff": "Bridgeton Plumbing & Heating Supply Co.",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 208 LOT: 5",
+  "plaintiff": "Bridgeton Plumbing & Heating Supply Co.",
+  "property_note": "TOWNSHIP OF MANTUA\nCOUNTY OF GLOUCESTER\n10 SPRUCE STREET SEWELL, NJ 08080\nBLOCK: 208 LOT: 5\nAPPROXIMATE DIMENSIONS: 0.72 ACRE\nNUMBER OF FEET TO NEAREST CROSS: APPROXIMATELY 10'0' TO PINE STREET\nAPPROXIMATE UPSET: $196,217.64\nOCCUPANCY STATUS: OWNER OCCUPIED\nPRIOR LIENS: FULTON BANK $160,000.00 +/-",
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25000995",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Cancelled"
+    }
+  ]
+}

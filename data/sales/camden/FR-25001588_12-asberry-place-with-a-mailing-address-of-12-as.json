@@ -1,0 +1,65 @@
+{
+  "address": "12 ASBERRY PLACE WITH A MAILING ADDRESS OF 12 ASBERRY PLACE, SICKLERVILLE, NEW JERSEY 08081 TOWNSHIP OF WINSLOW NJ 08081",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "attorney_phone": "(973) 325-8800",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01184324",
+  "current_status": "Court Adjournment",
+  "defendant": "ALVIN DAVIS; EVELYN B. DAVIS,",
+  "extracted": {},
+  "fields": {
+    "Address": "12 ASBERRY PLACE\nWITH A MAILING ADDRESS OF 12 ASBERRY PLACE, SICKLERVILLE, NEW JERSEY 08081\nTOWNSHIP OF WINSLOW NJ 08081",
+    "Approx. Upset*": "$114,745.62",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F01184324",
+    "Defendant": "ALVIN DAVIS; EVELYN B. DAVIS,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK, NATIONAL ASSOCIATION, AS SUCCESSOR TRUSTEE TO BANK OF AMERICA,\nN.A., AS SUCCESSOR BY MERGER TO LASALLE BANK, N.A., AS TRUSTEE FOR THE\nHOLDERS OF SALOMON BROS MORTGAGE SECURITIES VII, INC. MORTGAGE\nPASS-THROUGH CERTIFICATES, SERIES 1997-HUD2,",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "FR-25001588"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 ASBERRY PLACE WITH A MAILING ADDRESS OF 12 ASBERRY PLACE, SICKLERVILLE, NEW JERSEY 08081 TOWNSHIP OF WINSLOW NJ 08081",
+    "defendant": "ALVIN DAVIS; EVELYN B. DAVIS,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK, NATIONAL ASSOCIATION, AS SUCCESSOR TRUSTEE TO BANK OF AMERICA, \nN.A., AS SUCCESSOR BY MERGER TO LASALLE BANK, N.A., AS TRUSTEE FOR THE \n HOLDERS OF SALOMON BROS MORTGAGE SECURITIES VII, INC. MORTGAGE \nPASS-THROUGH CERTIFICATES, SERIES 1997-HUD2,",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK, NATIONAL ASSOCIATION, AS SUCCESSOR TRUSTEE TO BANK OF AMERICA, N.A., AS SUCCESSOR BY MERGER TO LASALLE BANK, N.A., AS TRUSTEE FOR THE HOLDERS OF SALOMON BROS MORTGAGE SECURITIES VII, INC. MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 1997-HUD2,",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "FR-25001588",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 114745.62,
+  "upset_amount_label": "Approx. Upset*"
+}

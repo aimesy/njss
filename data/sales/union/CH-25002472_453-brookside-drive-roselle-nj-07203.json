@@ -1,0 +1,68 @@
+{
+  "address": "453 BROOKSIDE DRIVE ROSELLE NJ 07203",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00119825",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "CARLOS TIANT; MAYDA ALDAMA; TD BANK, N.A.",
+  "description": "LOT 4 BLOCK 7404",
+  "extracted": {
+    "block": "7404",
+    "lot": "4"
+  },
+  "fields": {
+    "Address": "453 BROOKSIDE DRIVE\nROSELLE NJ 07203",
+    "Approx. Upset*": "$204,500.11",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00119825",
+    "Defendant": "CARLOS TIANT; MAYDA ALDAMA; TD BANK, N.A.",
+    "Description": "LOT 4 BLOCK 7404",
+    "Parcel #": "LOT 4 BLOCK 7404",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "CH-25002472"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "453 BROOKSIDE DRIVE ROSELLE NJ 07203",
+    "defendant": "CARLOS TIANT; MAYDA ALDAMA; TD BANK, N.A.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 4 BLOCK 7404",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "CH-25002472",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-05-19",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 204500.11,
+  "upset_amount_label": "Approx. Upset*"
+}

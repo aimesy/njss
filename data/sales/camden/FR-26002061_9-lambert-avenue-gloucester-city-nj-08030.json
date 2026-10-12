@@ -1,0 +1,53 @@
+{
+  "address": "9 LAMBERT AVENUE GLOUCESTER CITY NJ 08030",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00150826",
+  "current_status": "Defendant Adjournment",
+  "defendant": "OWEN VANDVELT A/K/A OWENT T. VANDVELT; SUNNOVA TE MANAGMENT LLC; MIDLAND FUNDING LLC, ASSIGNEE CHASE BANK USA",
+  "extracted": {},
+  "fields": {
+    "Address": "9 LAMBERT AVENUE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$53,444.52",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F00150826",
+    "Defendant": "OWEN VANDVELT A/K/A OWENT T. VANDVELT; SUNNOVA TE\nMANAGMENT LLC; MIDLAND FUNDING LLC, ASSIGNEE CHASE BANK USA",
+    "Parcel #": "Tax Lot 5 Block 266.03 f/k/a Lot 5 Block 266.C",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "The sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/homeowner association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26002061"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "9 LAMBERT AVENUE GLOUCESTER CITY NJ 08030",
+    "defendant": "OWEN VANDVELT A/K/A OWENT T. VANDVELT; SUNNOVA TE \nMANAGMENT LLC; MIDLAND FUNDING LLC, ASSIGNEE CHASE BANK USA",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot 5 Block 266.03 f/k/a Lot 5 Block 266.C",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": "The sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/homeowner association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26002061",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 53444.52,
+  "upset_amount_label": "Approx. Upset*"
+}

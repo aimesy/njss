@@ -1,0 +1,67 @@
+{
+  "address": "13 BIDWELL AVENUE JERSEY CITY NJ 07305",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-008282-23",
+  "current_status": "Adjourned - Plaintiff - New Sale Date:",
+  "defendant": "TARANCE BRYANT, ET AL.",
+  "description": "BLOCK 24102, LOT 32\nDIMENSIONS OF LOT (APPROXIMATELY): 25'X106'\nNEAREST CROSS STREET: OCEAN AVENUE\nAPPROX UPSET - $520,000.00\nPROPERTY STATUS - BORROWER OCCUPIED\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO N.J.S.A. 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNERS ASSOCIATION LIENS WHICH MAY EXIST.",
+  "extracted": {
+    "block": "24102",
+    "lot": "32"
+  },
+  "fields": {
+    "Address": "13 BIDWELL AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F-008282-23",
+    "Defendant": "TARANCE BRYANT, ET AL.",
+    "Description": "BLOCK 24102, LOT 32\nDIMENSIONS OF LOT (APPROXIMATELY): 25'X106'\nNEAREST CROSS STREET: OCEAN AVENUE\nAPPROX UPSET - $520,000.00\nPROPERTY STATUS - BORROWER OCCUPIED\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO N.J.S.A. 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNERS ASSOCIATION LIENS WHICH MAY EXIST.",
+    "Good Faith Upset*": "",
+    "Judgment": "$468,554.98",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "8/13/2026",
+    "Sheriff #": "20062678"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 468554.98,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "13 BIDWELL AVENUE JERSEY CITY NJ 07305",
+    "defendant": "TARANCE BRYANT, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-08-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-08-13",
+  "sheriff_number": "20062678",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-06-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-30",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-08-12",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

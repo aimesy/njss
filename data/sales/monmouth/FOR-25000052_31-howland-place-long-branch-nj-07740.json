@@ -1,0 +1,55 @@
+{
+  "address": "31 Howland Place Long Branch NJ 07740",
+  "attorney": "Knuckles & Manfro LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00685724",
+  "current_status": "Scheduled",
+  "defendant": "Jeffrey C. Chambers, et al",
+  "description": "Dimensions (Approx.): 59' x 141'\nNearest Cross Street: Broadway (approx. 392 ft/120m)\nEstimated Upset Bid Amount: $335,000.00, in addition to lawful interest accruing daily at the rate allowed by law, up to and including the actual day of sale plus any additional Sheriff fees, costs, and/or commission, and/or any additional sums as ordered by the court. Bid amount is subject to change due to unforeseen circumstances and/or adjournment.\nProperty Occupancy: The property is currently reported to be owner occupied\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded in the Office of the Register/Clerk of Monmouth County in Book 8480, Page 7226, and the Writ of Execution on file with the Sheriff of Monmouth County.",
+  "extracted": {
+    "occupancy": "The property is currently reported to be owner occupied"
+  },
+  "fields": {
+    "Address": "31 Howland Place\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$299,814.89",
+    "Attorney": "Knuckles & Manfro LLP",
+    "Court Case #": "F00685724",
+    "Defendant": "Jeffrey C. Chambers, et al",
+    "Description": "Dimensions (Approx.): 59' x 141'\nNearest Cross Street: Broadway (approx. 392 ft/120m)\nEstimated Upset Bid Amount: $335,000.00, in addition to lawful interest accruing daily at the rate allowed by law, up to and including the actual day of sale plus any additional Sheriff fees, costs, and/or commission, and/or any additional sums as ordered by the court. Bid amount is subject to change due to unforeseen circumstances and/or adjournment.\nProperty Occupancy: The property is currently reported to be owner occupied\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded in the Office of the Register/Clerk of Monmouth County in Book 8480, Page 7226, and the Writ of Execution on file with the Sheriff of Monmouth County.",
+    "Parcel #": "Lot 7, Block 241 Tax Map of City of Long Branch",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-3,",
+    "Property Note": "",
+    "Sales Date": "3/17/2025",
+    "Sheriff #": "FOR-25000052"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 299814.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 Howland Place Long Branch NJ 07740",
+    "defendant": "Jeffrey C. Chambers, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-3,",
+    "sale_date": "2025-03-17"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 7, Block 241 Tax Map of City of Long Branch",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-3,",
+  "property_note": null,
+  "sale_date": "2025-03-17",
+  "sheriff_number": "FOR-25000052",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-17",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Scheduled"
+    }
+  ]
+}

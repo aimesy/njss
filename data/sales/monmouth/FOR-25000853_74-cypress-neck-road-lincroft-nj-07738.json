@@ -1,0 +1,87 @@
+{
+  "address": "74 Cypress Neck Road Lincroft NJ 07738",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F0224522",
+  "current_status": "Scheduled",
+  "defendant": "Peter Cohen, et al",
+  "description": "Dimensions of Lot: 81' x 205'\nNearest Cross Street: Willow Grove Drive\nPlaintiff's upset bid is $577,853.28 in accordance with the requirements of Section 12 of P.L. 1995, c. 244 (C.2A:50-64) as amended.\nProperty is reported to be Owner Occupied\nSUPERIOR INTERESTS (if any): Any and all casements, covenants, restrictions and reservations of record; Any set of facts which an accurate survey and inspection would disclose; All unpaid municipal taxes, assessments and liens; Any unpaid assessment and any outstanding tax sale certificate; Rights of any party in possession /rights protected by the NJ Anti-Eviction Act; All Local, County, State and Federal ordinances and regulations; Any condominium association lien granted priority by N.J.S.A 46:8B-21b; Any outstanding Condominium, PUD or Homeowner Association dues or fees; Rights of the United States of America, if any; The property is sold in its \"AS IS\" condition; Purchaser shall be responsible for Sheriffs costs, commission, deed recording fees and realty transfer fees.\nMiddletownTownship holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the amount of $4,337.04 - 2nd Quarter 2025 Taxes as of 05/02/2025.\nA full legal description can be found in the Office of the Clerk of Monmouth County in Mortgage Book OR-8261 Page 3507.",
+  "extracted": {
+    "lot": "81"
+  },
+  "fields": {
+    "Address": "74 Cypress Neck Road\nLincroft NJ 07738",
+    "Approx. Judgment*": "$581,482.43",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F0224522",
+    "Defendant": "Peter Cohen, et al",
+    "Description": "Dimensions of Lot: 81' x 205'\nNearest Cross Street: Willow Grove Drive\nPlaintiff's upset bid is $577,853.28 in accordance with the requirements of Section 12 of P.L. 1995, c. 244 (C.2A:50-64) as amended.\nProperty is reported to be Owner Occupied\nSUPERIOR INTERESTS (if any): Any and all casements, covenants, restrictions and reservations of record; Any set of facts which an accurate survey and inspection would disclose; All unpaid municipal taxes, assessments and liens; Any unpaid assessment and any outstanding tax sale certificate; Rights of any party in possession /rights protected by the NJ Anti-Eviction Act; All Local, County, State and Federal ordinances and regulations; Any condominium association lien granted priority by N.J.S.A 46:8B-21b; Any outstanding Condominium, PUD or Homeowner Association dues or fees; Rights of the United States of America, if any; The property is sold in its \"AS IS\" condition; Purchaser shall be responsible for Sheriffs costs, commission, deed recording fees and realty transfer fees.\nMiddletownTownship holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the amount of $4,337.04 - 2nd Quarter 2025 Taxes as of 05/02/2025.\nA full legal description can be found in the Office of the Clerk of Monmouth County in Mortgage Book OR-8261 Page 3507.",
+    "Parcel #": "Lot 20, Block 1047 Tax Map of the Township of Middletown",
+    "Plaintiff": "Bank of America, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/27/2026",
+    "Sheriff #": "FOR-25000853"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 581482.43,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "74 Cypress Neck Road Lincroft NJ 07738",
+    "defendant": "Peter Cohen, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Bank of America, N.A.",
+    "sale_date": "2026-02-27"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 20, Block 1047 Tax Map of the Township of Middletown",
+  "plaintiff": "Bank of America, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-27",
+  "sheriff_number": "FOR-25000853",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-27",
+      "status": "Canceled"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Scheduled"
+    }
+  ]
+}

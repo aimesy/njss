@@ -1,0 +1,52 @@
+{
+  "address": "500 Roseld Avenue Ocean NJ 07723",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00439424",
+  "current_status": "Settled",
+  "defendant": "Murray Betesh et al.",
+  "description": "Approximate Dimensions: 175 x 100 feet\nNearest Cross Street: Monmouth Road\nUpset Price: $189,765.44\nOccupancy Status: Occupied.\n1st Mortgage recorded on 01/31/2013 in the amount of $289,377.00\nSewer in the amount of $490,88 open plus penalties\nTax Sale Certificate NO. 24-00051 in the amount of $199.49\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "occupancy": "Occupied.",
+    "upset_amount": 189765.44
+  },
+  "fields": {
+    "Address": "500 Roseld Avenue\nOcean NJ 07723",
+    "Approx. Judgment*": "$172,443.75",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00439424",
+    "Defendant": "Murray Betesh et al.",
+    "Description": "Approximate Dimensions: 175 x 100 feet\nNearest Cross Street: Monmouth Road\nUpset Price: $189,765.44\nOccupancy Status: Occupied.\n1st Mortgage recorded on 01/31/2013 in the amount of $289,377.00\nSewer in the amount of $490,88 open plus penalties\nTax Sale Certificate NO. 24-00051 in the amount of $199.49\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "Lott: 33 Block 40 Located on the Tax Map of The Township of Ocean",
+    "Plaintiff": "M&T Bank",
+    "Property Note": "",
+    "Sales Date": "12/20/2024",
+    "Sheriff #": "FOR-24002335"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 172443.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "500 Roseld Avenue Ocean NJ 07723",
+    "defendant": "Murray Betesh et al.",
+    "listing_status": "Settled",
+    "plaintiff": "M&T Bank",
+    "sale_date": "2024-12-20"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lott: 33 Block 40 Located on the Tax Map of The Township of Ocean",
+  "plaintiff": "M&T Bank",
+  "property_note": null,
+  "sale_date": "2024-12-20",
+  "sheriff_number": "FOR-24002335",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-20",
+      "status": "Settled"
+    }
+  ]
+}

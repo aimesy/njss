@@ -1,0 +1,61 @@
+{
+  "address": "146 PAGE AVENUE LYNDHURST NJ 07071",
+  "attorney": "LAW OFFICE OF ERNEST G IANETTI, ESQ",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01068424",
+  "current_status": "Cancelled",
+  "defendant": "JOHN YALONG A/K/A JOHN C. YALONG, ET AL.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "146 PAGE AVENUE\nLYNDHURST NJ 07071",
+    "Approx. Upset*": "$752,840.03",
+    "Attorney": "LAW OFFICE OF ERNEST G IANETTI, ESQ",
+    "Court Case #": "F01068424",
+    "Defendant": "JOHN YALONG A/K/A JOHN C. YALONG, ET AL.",
+    "Description": "",
+    "Parcel #": "LOT 13, BLOCK 117",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "ESTIMATED UPSET BID AMOUNT: $876,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT; OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "7/23/2026",
+    "Sheriff #": "F-25001521"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "146 PAGE AVENUE LYNDHURST NJ 07071",
+    "defendant": "JOHN YALONG A/K/A JOHN C. YALONG, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-07-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 13, BLOCK 117",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": "ESTIMATED UPSET BID AMOUNT: $876,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT; OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-07-23",
+  "sheriff_number": "F-25001521",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-08-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-13",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-23",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 752840.03,
+  "upset_amount_label": "Approx. Upset*"
+}

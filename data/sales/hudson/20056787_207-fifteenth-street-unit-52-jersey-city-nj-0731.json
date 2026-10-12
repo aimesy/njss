@@ -1,0 +1,91 @@
+{
+  "address": "207 FIFTEENTH STREET UNIT 52 JERSEY CITY NJ 07311",
+  "attorney": "KML LAW GROUP, P.C",
+  "attorney_phone": "215-627-1322",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-002226-24",
+  "current_status": "RESCHEDULED",
+  "defendant": "ALTAGRACI MATOS, ET AL",
+  "description": "TAX LOT NO. 4 QUAL C0052 FKA 29.52, BLOCK 7105 FKA 257\nDIMENSIONS OF LOT: (APPROXIMATELY) CONDOMINIUM\nNEAREST CROSS STREET: GROVE STREET\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $47,577.52\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY OCCUPANCY UNKNOWN.",
+  "extracted": {
+    "block": "7105",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "207 FIFTEENTH STREET UNIT 52\nJERSEY CITY NJ 07311",
+    "Attorney": "KML LAW GROUP, P.C",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-002226-24",
+    "Defendant": "ALTAGRACI MATOS, ET AL",
+    "Description": "TAX LOT NO. 4 QUAL C0052 FKA 29.52, BLOCK 7105 FKA 257\nDIMENSIONS OF LOT: (APPROXIMATELY) CONDOMINIUM\nNEAREST CROSS STREET: GROVE STREET\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $47,577.52\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY OCCUPANCY UNKNOWN.",
+    "Good Faith Upset*": "$47,577.52",
+    "Judgment": "$37,306.83",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "20056787"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 37306.83,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "207 FIFTEENTH STREET UNIT 52 JERSEY CITY NJ 07311",
+    "defendant": "ALTAGRACI MATOS, ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "20056787",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-01-30",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-02-12",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Purchased at Auction by 3rd Party"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "VACATED"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "RESCHEDULED"
+    }
+  ],
+  "upset_amount": 47577.52,
+  "upset_amount_label": "Good Faith Upset*"
+}

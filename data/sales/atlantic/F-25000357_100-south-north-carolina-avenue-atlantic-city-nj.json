@@ -1,0 +1,58 @@
+{
+  "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+  "attorney": "K&L Gates, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003347-24",
+  "current_status": "Scheduled",
+  "deed": "Wyndham Vacation Resorts, Inc",
+  "deed_address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+  "defendant": "Emilie M. Gabriel, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Frank W. Ford, Jr, Deceased, His Devisees and Personal Representatives, and His, Their or any of Their Successors in Right, Title and Interest; Frances Peterson, Deceased, Her Devisees and personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest",
+  "extracted": {},
+  "fields": {
+    "Address": "100 South North Carolina Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$54,613.99",
+    "Attorney": "K&L Gates, LLP",
+    "Court Case #": "F-003347-24",
+    "Deed": "Wyndham Vacation Resorts, Inc",
+    "Deed Address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+    "Defendant": "Emilie M. Gabriel, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Frank W. Ford, Jr, Deceased, His Devisees and Personal Representatives, and His, Their or any of Their Successors in Right, Title and Interest; Frances Peterson, Deceased, Her Devisees and personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest",
+    "Plaintiff": "Wyndham Vacation Resorts, Inc. f/k/a Fairfield Resorts, Inc",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: PROPERTY IS NOT VACANT, TENANT-OCCUPIED OR OWNER OCCUPIED BUT INSTEAD IS A TIMESHARE VACATION PROPERTY",
+    "Sales Date": "5/29/2025",
+    "Sheriff #": "F-25000357",
+    "Upset Amount": "$15,472.31"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 54613.99,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+    "defendant": "Emilie M. Gabriel, D...",
+    "listing_status": null,
+    "plaintiff": "Wyndham Vacation Res...",
+    "sale_date": "2025-05-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wyndham Vacation Resorts, Inc. f/k/a Fairfield Resorts, Inc",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: PROPERTY IS NOT VACANT, TENANT-OCCUPIED OR OWNER OCCUPIED BUT INSTEAD IS A TIMESHARE VACATION PROPERTY",
+  "sale_date": "2025-05-29",
+  "sheriff_number": "F-25000357",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-29",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 15472.31,
+  "upset_amount_label": "Upset Amount"
+}

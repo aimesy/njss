@@ -1,0 +1,57 @@
+{
+  "address": "31 LEONARD DRIVE OLD TAPPAN NJ 07675",
+  "attorney": "ABRAHAMSENGRANT, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01124123",
+  "current_status": "BANKRUPTCY",
+  "defendant": "RONALD J RILEY; ANGELIA L RILEY; KELLY KELLY MAROTTA & LAFFERTY, LLC; ET AL",
+  "description": "GOOD FAITH ESTIMATE UPSET: $940,478.40\nPLEASE BE ADVISED THAT DEFINITIVE OCCUPANCY INFORMATION IS NOT AVAILABLE AND PLAINTIFF MAKES NO REPRESENTATION REGARDING OCCUPANCY.",
+  "extracted": {},
+  "fields": {
+    "Address": "31 LEONARD DRIVE\nOLD TAPPAN NJ 07675",
+    "Approx. Upset*": "$865,851.08",
+    "Attorney": "ABRAHAMSENGRANT, LLC",
+    "Court Case #": "F01124123",
+    "Defendant": "RONALD J RILEY; ANGELIA L RILEY; KELLY KELLY MAROTTA & LAFFERTY, LLC; ET AL",
+    "Description": "GOOD FAITH ESTIMATE UPSET: $940,478.40\nPLEASE BE ADVISED THAT DEFINITIVE OCCUPANCY INFORMATION IS NOT AVAILABLE AND PLAINTIFF MAKES NO REPRESENTATION REGARDING OCCUPANCY.",
+    "Parcel #": "LOT 6, BLOCK 1603",
+    "Plaintiff": "METROPOLITAN LIFE INSURANCE COMPANY",
+    "Property Note": "",
+    "Sales Date": "11/20/2025",
+    "Sheriff #": "F-25001796"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "31 LEONARD DRIVE OLD TAPPAN NJ 07675",
+    "defendant": "RONALD J RILEY; ANGELIA L RILEY; KELLY KELLY MAROTTA & LAFFERTY, LLC; ET AL",
+    "listing_status": null,
+    "plaintiff": "METROPOLITAN LIFE INSURANCE COMPANY",
+    "sale_date": "2025-11-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 6, BLOCK 1603",
+  "plaintiff": "METROPOLITAN LIFE INSURANCE COMPANY",
+  "property_note": null,
+  "sale_date": "2025-11-20",
+  "sheriff_number": "F-25001796",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 865851.08,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,49 @@
+{
+  "address": "111 CHESTNUT ST UNIT 302 CHERRY HILL NJ 08002",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00286726",
+  "current_status": "Scheduled",
+  "defendant": "IZET KLJUCO, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "111 CHESTNUT ST UNIT 302\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$65,743.85",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00286726",
+    "Defendant": "IZET KLJUCO, ET AL.",
+    "Parcel #": "Lot 1 , Block 288.05 on the official Tax Map of the TOWNSHIP OF CHERRY HILL. Qualifier No. C0302",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "Subject to the rights of an applicable Condominium Association under N.J.S.A. 46:8B-21, et al., if any.\nSubject to tax sale certificate #26-00346 for sewer and ccmua in the amount of $556.11. Third Party Purchaser is responsible for obtaining final amount to redeem.",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "FR-26002527"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "111 CHESTNUT ST UNIT 302 CHERRY HILL NJ 08002",
+    "defendant": "IZET KLJUCO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 1 , Block 288.05 on the official Tax Map of the TOWNSHIP OF CHERRY HILL. Qualifier No. C0302",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "Subject to the rights of an applicable Condominium Association under N.J.S.A. 46:8B-21, et al., if any.\nSubject to tax sale certificate #26-00346 for sewer and ccmua in the amount of $556.11. Third Party Purchaser is responsible for obtaining final amount to redeem.",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "FR-26002527",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 65743.85,
+  "upset_amount_label": "Approx. Upset*"
+}

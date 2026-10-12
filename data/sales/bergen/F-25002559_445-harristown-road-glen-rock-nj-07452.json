@@ -1,0 +1,56 @@
+{
+  "address": "445 HARRISTOWN ROAD GLEN ROCK NJ 07452",
+  "attorney": "DENBEAUX & DENBEAUX",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00202524",
+  "current_status": "Cancelled",
+  "defendant": "DAVID MIRRER AND JILL A. MIRRER, HUSBAND AND WIFE, ET AL",
+  "description": "UPSET PRICE: $541,015.96\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 541015.96
+  },
+  "fields": {
+    "Address": "445 HARRISTOWN ROAD\nGLEN ROCK NJ 07452",
+    "Approx. Upset*": "$499,283.11",
+    "Attorney": "DENBEAUX & DENBEAUX",
+    "Court Case #": "F00202524",
+    "Defendant": "DAVID MIRRER AND JILL A. MIRRER, HUSBAND AND WIFE, ET AL",
+    "Description": "UPSET PRICE: $541,015.96\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 12.01, BLOCK 174",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE COLT 2021-3R MORTGAGE LOAN TRUST, A NEW YORK COMMON LAW TRUST",
+    "Property Note": "",
+    "Sales Date": "2/3/2026",
+    "Sheriff #": "F-25002559"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "445 HARRISTOWN ROAD GLEN ROCK NJ 07452",
+    "defendant": "DAVID MIRRER AND JILL A. MIRRER, HUSBAND AND WIFE, ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE COLT 2021-3R MORTGAGE LOAN TRUST, A NEW YORK COMMON LAW TRUST",
+    "sale_date": "2026-02-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 12.01, BLOCK 174",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE COLT 2021-3R MORTGAGE LOAN TRUST, A NEW YORK COMMON LAW TRUST",
+  "property_note": null,
+  "sale_date": "2026-02-03",
+  "sheriff_number": "F-25002559",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 499283.11,
+  "upset_amount_label": "Approx. Upset*"
+}

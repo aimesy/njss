@@ -1,0 +1,49 @@
+{
+  "address": "829 JERSEY AVENUE AT NINTH STREET GLOUCESTER CITY NJ",
+  "attorney": "HONIG & GREENBERG, L.L.C.",
+  "attorney_phone": "(856) 770-0990",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F260726",
+  "current_status": "Scheduled",
+  "defendant": "PINE GROVE CIVIC ASSOCIATION, INC.; PINE GROVE FIRE ASSOCIATION, INC.; STATE OF NEW JERSEY;",
+  "extracted": {},
+  "fields": {
+    "Address": "829 JERSEY AVENUE\nAT NINTH STREET\nGLOUCESTER CITY NJ",
+    "Approx. Upset*": "$74,400.76",
+    "Attorney": "HONIG & GREENBERG, L.L.C.",
+    "Attorney Phone": "(856) 770-0990",
+    "Court Case #": "F260726",
+    "Defendant": "PINE GROVE CIVIC ASSOCIATION, INC.; PINE GROVE FIRE ASSOCIATION, INC.; STATE OF NEW JERSEY;",
+    "Parcel #": "Lots l , 2, 3, 4, 5, 19, 20, Block 96",
+    "Plaintiff": "BCC INVESTMENT PARTNERS, LLC,",
+    "Property Note": "As of August 17, 2026, there are NO TAXES DUE AND OWING.",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002104"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "829 JERSEY AVENUE AT NINTH STREET GLOUCESTER CITY NJ",
+    "defendant": "PINE GROVE CIVIC ASSOCIATION, INC.; PINE GROVE FIRE ASSOCIATION, INC.; STATE OF NEW JERSEY;",
+    "listing_status": null,
+    "plaintiff": "BCC INVESTMENT PARTNERS, LLC,",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lots l , 2, 3, 4, 5, 19, 20, Block 96",
+  "plaintiff": "BCC INVESTMENT PARTNERS, LLC,",
+  "property_note": "As of August 17, 2026, there are NO TAXES DUE AND OWING.",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002104",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 74400.76,
+  "upset_amount_label": "Approx. Upset*"
+}

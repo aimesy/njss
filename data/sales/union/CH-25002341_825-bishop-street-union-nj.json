@@ -1,0 +1,64 @@
+{
+  "address": "825 BISHOP STREET UNION NJ",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00389925",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "RICARDO RODRIGUEZ; MRS. RICARDO RODRIGUEZ, HIS WIFE; BERKSHIRE BANK",
+  "description": "LOT 8 BLOCK 201",
+  "extracted": {
+    "block": "201",
+    "lot": "8"
+  },
+  "fields": {
+    "Address": "825 BISHOP STREET\nUNION NJ",
+    "Approx. Upset*": "$381,198.33",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00389925",
+    "Defendant": "RICARDO RODRIGUEZ; MRS. RICARDO RODRIGUEZ, HIS WIFE; BERKSHIRE BANK",
+    "Description": "LOT 8 BLOCK 201",
+    "Parcel #": "LOT 8 BLOCK 201",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "4/8/2026",
+    "Sheriff #": "CH-25002341"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "825 BISHOP STREET UNION NJ",
+    "defendant": "RICARDO RODRIGUEZ; MRS. RICARDO RODRIGUEZ, HIS WIFE; BERKSHIRE BANK",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-04-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 8 BLOCK 201",
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2026-04-08",
+  "sheriff_number": "CH-25002341",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 381198.33,
+  "upset_amount_label": "Approx. Upset*"
+}

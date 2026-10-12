@@ -1,0 +1,68 @@
+{
+  "address": "1311-13 BELLEVIEW AVENUE PLAINFIELD NJ 07060",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00148225",
+  "current_status": "Cancelled",
+  "defendant": "MICHAEL PHILLIPS, NATALIA PHILLIPS A/K/A NATALIA BREWSTER-PHILLIPS; RODGER PHILLIPS A/K/A RODGER PHILLIPS; UNITED STATES OF AMERICA; STATE OF NEW JERSEY; LINDA DOMBROWAKI; CHARLES DOMBROWAKI; AMERIFIRST HOME IMPROVEMENT FINANCE CO; STATELINE TOYOTA INC; MIDLAND FUNDING LLC",
+  "description": "LOT 12 BLOCK 26 F/K/A LOT 12 BLOCK 2037",
+  "extracted": {
+    "block": "26",
+    "lot": "12"
+  },
+  "fields": {
+    "Address": "1311-13 BELLEVIEW AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$462,127.89",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F00148225",
+    "Defendant": "MICHAEL PHILLIPS, NATALIA PHILLIPS A/K/A NATALIA BREWSTER-PHILLIPS; RODGER PHILLIPS A/K/A RODGER PHILLIPS; UNITED STATES OF AMERICA; STATE OF NEW JERSEY; LINDA DOMBROWAKI; CHARLES DOMBROWAKI; AMERIFIRST HOME IMPROVEMENT FINANCE CO; STATELINE TOYOTA INC; MIDLAND FUNDING LLC",
+    "Description": "LOT 12 BLOCK 26 F/K/A LOT 12 BLOCK 2037",
+    "Parcel #": "LOT 12 BLOCK 26 F/K/A LOT 12 BLOCK 2037",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "CH-25001746"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1311-13 BELLEVIEW AVENUE PLAINFIELD NJ 07060",
+    "defendant": "MICHAEL PHILLIPS, NATALIA PHILLIPS A/K/A NATALIA BREWSTER-PHILLIPS; RODGER PHILLIPS A/K/A RODGER PHILLIPS; UNITED STATES OF AMERICA; STATE OF NEW JERSEY; LINDA DOMBROWAKI; CHARLES DOMBROWAKI; AMERIFIRST HOME IMPROVEMENT FINANCE CO; STATELINE TOYOTA INC; MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 12 BLOCK 26 F/K/A LOT 12 BLOCK 2037",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "CH-25001746",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-22",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 462127.89,
+  "upset_amount_label": "Approx. Upset*"
+}

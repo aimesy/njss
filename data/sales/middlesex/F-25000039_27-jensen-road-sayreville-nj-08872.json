@@ -1,0 +1,68 @@
+{
+  "address": "27 JENSEN ROAD SAYREVILLE NJ 08872",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-797-1100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00824224",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "KAREN DUTTA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$123,193.92",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-797-1100",
+    "Court Case #": "F00824224",
+    "Defendant": "KAREN DUTTA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 7 BLOCK 83.20",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Address": "27 JENSEN ROAD\nSAYREVILLE NJ 08872",
+    "Property Note": "",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-25000039"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 123193.92,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "27 JENSEN ROAD SAYREVILLE NJ 08872",
+    "defendant": "KAREN DUTTA, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 7 BLOCK 83.20",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-25000039",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,61 @@
+{
+  "address": "217 UNION AVENUE WOOD RIDGE NJ 07075",
+  "attorney": "GREENSPOON MARDER LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00012825",
+  "current_status": "Cancelled",
+  "defendant": "JANE VAN DEN HOUTEN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF SHIRLEY FOX, ET AL.",
+  "description": "THE PLAINTIFF'S GOOD FAITH ESTIMATE IS $263,902.40. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS IS OCCUPIED.",
+  "extracted": {},
+  "fields": {
+    "Address": "217 UNION AVENUE\nWOOD RIDGE NJ 07075",
+    "Approx. Upset*": "$250,664.19",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Court Case #": "F00012825",
+    "Defendant": "JANE VAN DEN HOUTEN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF SHIRLEY FOX, ET AL.",
+    "Description": "THE PLAINTIFF'S GOOD FAITH ESTIMATE IS $263,902.40. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS IS OCCUPIED.",
+    "Parcel #": "LOT 13, BLOCK 230",
+    "Plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "Property Note": "",
+    "Sales Date": "4/7/2026",
+    "Sheriff #": "F-25002569"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "217 UNION AVENUE WOOD RIDGE NJ 07075",
+    "defendant": "JANE VAN DEN HOUTEN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF SHIRLEY FOX, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "sale_date": "2026-04-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 13, BLOCK 230",
+  "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+  "property_note": null,
+  "sale_date": "2026-04-07",
+  "sheriff_number": "F-25002569",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-13",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 250664.19,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "42-44 SMITH STREET ELIZABETH NJ 07201",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00402725",
+  "current_status": "Bankuptcy",
+  "defendant": "FERMIN ARIAS",
+  "description": "LOT 26 FKA 1164 BLOCK 590 FKA 7",
+  "extracted": {
+    "block": "590",
+    "lot": "26"
+  },
+  "fields": {
+    "Address": "42-44 SMITH STREET\nELIZABETH NJ 07201",
+    "Approx. Upset*": "$432,514.75",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00402725",
+    "Defendant": "FERMIN ARIAS",
+    "Description": "LOT 26 FKA 1164 BLOCK 590 FKA 7",
+    "Parcel #": "LOT 26 FKA 1164 BLOCK 590 FKA 7",
+    "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR NOMURA HOME EQUITY LOAN, INC., ASSET-BACKED CERTIFICATES, SERIES 2006-FM2",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "CH-25001744"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "42-44 SMITH STREET ELIZABETH NJ 07201",
+    "defendant": "FERMIN ARIAS",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR NOMURA HOME EQUITY LOAN, INC., ASSET-BACKED CERTIFICATES, SERIES 2006-FM2",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 26 FKA 1164 BLOCK 590 FKA 7",
+  "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR NOMURA HOME EQUITY LOAN, INC., ASSET-BACKED CERTIFICATES, SERIES 2006-FM2",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "CH-25001744",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 432514.75,
+  "upset_amount_label": "Approx. Upset*"
+}

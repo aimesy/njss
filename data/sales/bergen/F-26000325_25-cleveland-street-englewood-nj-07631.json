@@ -1,0 +1,51 @@
+{
+  "address": "25 CLEVELAND STREET ENGLEWOOD NJ 07631",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01010225",
+  "current_status": "Cancelled",
+  "defendant": "ANNIE GRACE PETERSON, ET AL.",
+  "description": "ESTIMATED UPSET BID AMOUNT: $538,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "25 CLEVELAND STREET\nENGLEWOOD NJ 07631",
+    "Approx. Upset*": "$490,709.44",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F01010225",
+    "Defendant": "ANNIE GRACE PETERSON, ET AL.",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $538,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 15, BLOCK 612",
+    "Plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "F-26000325"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "25 CLEVELAND STREET ENGLEWOOD NJ 07631",
+    "defendant": "ANNIE GRACE PETERSON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 15, BLOCK 612",
+  "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "F-26000325",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 490709.44,
+  "upset_amount_label": "Approx. Upset*"
+}

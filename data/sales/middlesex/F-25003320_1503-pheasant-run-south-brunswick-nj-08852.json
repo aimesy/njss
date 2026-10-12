@@ -1,0 +1,64 @@
+{
+  "address": "1503 PHEASANT RUN SOUTH BRUNSWICK NJ 08852",
+  "attorney": "PARKER MCCAY (MT. LAUREL)",
+  "attorney_file_number": null,
+  "attorney_phone": "(856-810-5815",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01041124",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "PRABHURAM RAMANATHAN, ET ALS.",
+  "description": "MAILING ADDRESS 1503 PHEASANT RUN MONMOUTH JUNCTION, NJ 08852",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$332,558.06",
+    "Attorney": "PARKER MCCAY (MT. LAUREL)",
+    "Attorney File #": "",
+    "Attorney Phone": "(856-810-5815",
+    "Court Case #": "F01041124",
+    "Defendant": "PRABHURAM RAMANATHAN, ET ALS.",
+    "Description": "MAILING ADDRESS 1503 PHEASANT RUN MONMOUTH JUNCTION, NJ 08852",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Address": "1503 PHEASANT RUN\nSOUTH BRUNSWICK NJ 08852",
+    "Property Note": "",
+    "Sale Date": "3/11/2026",
+    "Sheriff #": "F-25003320"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 332558.06,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1503 PHEASANT RUN SOUTH BRUNSWICK NJ 08852",
+    "defendant": "PRABHURAM RAMANATHAN, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-03-11"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-11",
+  "sheriff_number": "F-25003320",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-11",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

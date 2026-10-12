@@ -1,0 +1,67 @@
+{
+  "address": "97 West Dewey Avenue Wharton NJ 07885",
+  "county": "Morris County, NJ",
+  "county_id": 9,
+  "court_case_number": "F-010400-24",
+  "current_status": "Adjourned per Court Order to",
+  "defendant": "David W. Oswald, et al",
+  "description": "Approximate Dimensions: Condo\nNearest Cross Street: High Street\nPlaintiff Upset Price: $183,880.46\nOccupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 183880.46
+  },
+  "fields": {
+    "Address": "97 West Dewey Avenue\nWharton NJ 07885",
+    "Court Case #": "F-010400-24",
+    "Defendant": "David W. Oswald, et al",
+    "Description": "Approximate Dimensions: Condo\nNearest Cross Street: High Street\nPlaintiff Upset Price: $183,880.46\nOccupancy Status: Unknown",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2021-3",
+    "Sales Date": "10/29/2026",
+    "Sheriff #": "25001880"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "97 West Dewey Avenue Wharton NJ 07885",
+    "defendant": "David W. Oswald, et al",
+    "listing_status": null,
+    "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2021-3",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Morris County, NJ)",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2021-3",
+  "sale_date": "2026-10-29",
+  "sheriff_number": "25001880",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=9",
+  "status_history": [
+    {
+      "date": "2026-02-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2026-08-20",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2026-10-01",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2026-10-29",
+      "status": "Adjourned per Court Order to"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "address": "386 FIFTH STREET UNIT 301 JERSEY CITY NJ 07302",
+  "attorney": "DUANE MORRIS LLP",
+  "attorney_phone": "215-979-1000",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-012772-23",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "SHUROOQ KHAN; MR. KHAN, HUSBAND OF SHUROOQ KHAN; FARABI KARIM; AND MRS. FARABI KARIM, HIS WIFE",
+  "description": "TAX BLOCK # 9804, LOT # 20.01, QUALIFIER C0301\nNEAREST CROSS STREET: Newark Avenue\nAPPROXIMATE DIMENSIONS: Condo\nGOOD FAITH ESTIMATE OF UPSET PRICE: $420,000.00\nOCCUPANCY PRICE: Owner-occupied\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to N.J.S.A. 46:8B-21 the sale may also be subject to the limited lien priority of 386 5th Condominium, and/or any Condominium / Homeowner Association liens which may exist.\nADDITIONAL REQUIREMENTS: Purchaser must certify that Purchaser is not employed by the Toronto-Dominion Bank, or any of its subsidiaries or affiliated corporations (the \"Bank\"), nor is Purchaser related in any way with solicitors or agents retained by or on behalf of the Bank in relation to the property that is the subject of this transaction and confirming that Purchaser is dealing at arm's length with the aforementioned parties.",
+  "extracted": {
+    "upset_amount": 420000.0
+  },
+  "fields": {
+    "Address": "386 FIFTH STREET UNIT 301\nJERSEY CITY NJ 07302",
+    "Attorney": "DUANE MORRIS LLP",
+    "Attorney Phone": "215-979-1000",
+    "Court Case #": "F-012772-23",
+    "Defendant": "SHUROOQ KHAN; MR. KHAN, HUSBAND OF SHUROOQ KHAN; FARABI KARIM; AND MRS. FARABI KARIM, HIS WIFE",
+    "Description": "TAX BLOCK # 9804, LOT # 20.01, QUALIFIER C0301\nNEAREST CROSS STREET: Newark Avenue\nAPPROXIMATE DIMENSIONS: Condo\nGOOD FAITH ESTIMATE OF UPSET PRICE: $420,000.00\nOCCUPANCY PRICE: Owner-occupied\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to N.J.S.A. 46:8B-21 the sale may also be subject to the limited lien priority of 386 5th Condominium, and/or any Condominium / Homeowner Association liens which may exist.\nADDITIONAL REQUIREMENTS: Purchaser must certify that Purchaser is not employed by the Toronto-Dominion Bank, or any of its subsidiaries or affiliated corporations (the \"Bank\"), nor is Purchaser related in any way with solicitors or agents retained by or on behalf of the Bank in relation to the property that is the subject of this transaction and confirming that Purchaser is dealing at arm's length with the aforementioned parties.",
+    "Good Faith Upset*": "$420,000.00",
+    "Judgment": "$726,077.69",
+    "Plaintiff": "TD BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "8/13/2026",
+    "Sheriff #": "20063205"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 726077.69,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "386 FIFTH STREET UNIT 301 JERSEY CITY NJ 07302",
+    "defendant": "SHUROOQ KHAN; MR. KHAN, HUSBAND OF SHUROOQ KHAN; FARABI KARIM; AND MRS. FARABI KARIM, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "TD BANK, N.A.",
+    "sale_date": "2026-08-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "TD BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-08-13",
+  "sheriff_number": "20063205",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 420000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

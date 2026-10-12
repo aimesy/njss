@@ -1,0 +1,49 @@
+{
+  "address": "94 ELM AVENUE BOGOTA NJ 07603",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01286524",
+  "current_status": "Cancelled",
+  "defendant": "RAYMUNDO A. JAQUEZ AND MRS. RAYMUNDO A. JAQUEZ, HIS WIFE; ET AL",
+  "description": "THE APPROXIMATE UPSET SUM IS $12,851.45 CALCULATED THROUGH SEPTEMBER 29, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "94 ELM AVENUE\nBOGOTA NJ 07603",
+    "Approx. Upset*": "$9,992.17",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F01286524",
+    "Defendant": "RAYMUNDO A. JAQUEZ AND MRS. RAYMUNDO A. JAQUEZ, HIS WIFE; ET AL",
+    "Description": "THE APPROXIMATE UPSET SUM IS $12,851.45 CALCULATED THROUGH SEPTEMBER 29, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 12.01, BLOCK 108",
+    "Plaintiff": "B&B CAPITAL, LLC",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "F-25002514"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "94 ELM AVENUE BOGOTA NJ 07603",
+    "defendant": "RAYMUNDO A. JAQUEZ AND MRS. RAYMUNDO A. JAQUEZ, HIS WIFE; ET AL",
+    "listing_status": null,
+    "plaintiff": "B&B CAPITAL, LLC",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 12.01, BLOCK 108",
+  "plaintiff": "B&B CAPITAL, LLC",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25002514",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 9992.17,
+  "upset_amount_label": "Approx. Upset*"
+}

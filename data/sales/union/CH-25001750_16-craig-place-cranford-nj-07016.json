@@ -1,0 +1,76 @@
+{
+  "address": "16 CRAIG PLACE CRANFORD NJ 07016",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01058024",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "KENNETH E. SZYMONA; MARJORIE E. SZYMONA, HIS WIFE AND UNITED STATES OF AMERICA",
+  "description": "BLOCK 233 F/K/A 287 LOT 6 F/K/A 176, 177, AND 178",
+  "extracted": {
+    "block": "233",
+    "lot": "6"
+  },
+  "fields": {
+    "Address": "16 CRAIG PLACE\nCRANFORD NJ 07016",
+    "Approx. Upset*": "$359,282.10",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+    "Court Case #": "F01058024",
+    "Defendant": "KENNETH E. SZYMONA; MARJORIE E. SZYMONA, HIS WIFE AND UNITED STATES OF AMERICA",
+    "Description": "BLOCK 233 F/K/A 287 LOT 6 F/K/A 176, 177, AND 178",
+    "Parcel #": "BLOCK 233 F/K/A 287 LOT 6 F/K/A 176, 177, AND 178",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "CH-25001750"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "16 CRAIG PLACE CRANFORD NJ 07016",
+    "defendant": "KENNETH E. SZYMONA; MARJORIE E. SZYMONA, HIS WIFE AND UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "BLOCK 233 F/K/A 287 LOT 6 F/K/A 176, 177, AND 178",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "CH-25001750",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-22",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 359282.1,
+  "upset_amount_label": "Approx. Upset*"
+}

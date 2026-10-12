@@ -1,0 +1,68 @@
+{
+  "address": "107 East Cliff ROAD COLONIA NJ 07067",
+  "attorney": "Pluese, Becker, Saltman & Thomas, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00808723",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "Danielle Dowd, et als",
+  "description": "SUCCESSFULLY POSTED 04/17/2024 BY DOUGLAS HARVATT",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$282,617.22",
+    "Attorney": "Pluese, Becker, Saltman & Thomas, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00808723",
+    "Defendant": "Danielle Dowd, et als",
+    "Description": "SUCCESSFULLY POSTED 04/17/2024 BY DOUGLAS HARVATT",
+    "Minimum Bid": "",
+    "Parcel #": "Lot 18.01 fka 18.A block 413.14 fka 413.N",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for Legacy Mortgage Asset Trust 2021-GS4",
+    "Property Address": "107 East Cliff ROAD\nCOLONIA NJ 07067",
+    "Property Note": "",
+    "Sale Date": "6/11/2025",
+    "Sheriff #": "F-776450"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 282617.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "107 East Cliff ROAD COLONIA NJ 07067",
+    "defendant": "Danielle Dowd, et als",
+    "listing_status": "Adjourned - Court",
+    "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for Legacy Mortgage Asset Trust 2021-GS4",
+    "sale_date": "2025-06-11"
+  },
+  "listing_status": "Adjourned - Court",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "Lot 18.01 fka 18.A block 413.14 fka 413.N",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for Legacy Mortgage Asset Trust 2021-GS4",
+  "property_note": null,
+  "sale_date": "2025-06-11",
+  "sheriff_number": "F-776450",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-05-28",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-06-19",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-06-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

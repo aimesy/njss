@@ -1,0 +1,58 @@
+{
+  "address": "57 Shawnee Place Galloway Township NJ 08205",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007145-24",
+  "current_status": "Scheduled",
+  "deed": "Diversified Real Estate Group LLC",
+  "deed_address": "413 S. Seaview Ave Galloway NJ 08205",
+  "defendant": "Frank Marrero; Marrero Realty, LLC; 218-220 Jackson Street Condominium Association Inc; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "57 Shawnee Place\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$184,051.18",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-007145-24",
+    "Deed": "Diversified Real Estate Group LLC",
+    "Deed Address": "413 S. Seaview Ave Galloway NJ 08205",
+    "Defendant": "Frank Marrero; Marrero Realty, LLC; 218-220 Jackson Street Condominium Association Inc; State of New Jersey",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Priors": "Subject to tax sale certificate #24-00299 for open sewer plus penalties and interest, amount: $3,517.66",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "8/14/2025",
+    "Sheriff #": "F-25000658",
+    "Upset Amount": "$125,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 184051.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "57 Shawnee Place Galloway Township NJ 08205",
+    "defendant": "Frank Marrero; Marre...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, N....",
+    "sale_date": "2025-08-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "priors": "Subject to tax sale certificate #24-00299 for open sewer plus penalties and interest, amount: $3,517.66",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-08-14",
+  "sheriff_number": "F-25000658",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-14",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 125000.0,
+  "upset_amount_label": "Upset Amount"
+}

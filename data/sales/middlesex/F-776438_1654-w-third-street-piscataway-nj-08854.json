@@ -1,0 +1,88 @@
+{
+  "address": "1654 W THIRD STREET PISCATAWAY NJ 08854",
+  "attorney": "THE LAW OFFICE OF MICHAEL A. ALFIERI",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00648423",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "1654 WEST THIRD, LLC., ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$301,892.97",
+    "Attorney": "THE LAW OFFICE OF MICHAEL A. ALFIERI",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00648423",
+    "Defendant": "1654 WEST THIRD, LLC., ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 4.03 BLOCK 207 AKA 29",
+    "Plaintiff": "LYNX ASSET SERVICES LLC",
+    "Property Address": "1654 W THIRD STREET\nPISCATAWAY NJ 08854",
+    "Property Note": "SUCCESSFULLY POSTED 04/03/24 AREA 4 POSTED BY WALKO SERVER RECEIVED DATE 03/28/2024",
+    "Sale Date": "12/17/2024",
+    "Sheriff #": "F-776438"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 301892.97,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1654 W THIRD STREET PISCATAWAY NJ 08854",
+    "defendant": "1654 WEST THIRD, LLC., ET ALS.",
+    "listing_status": "Redeemed",
+    "plaintiff": "LYNX ASSET SERVICES LLC",
+    "sale_date": "2024-12-17"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 4.03 BLOCK 207 AKA 29",
+  "plaintiff": "LYNX ASSET SERVICES LLC",
+  "property_note": "SUCCESSFULLY POSTED 04/03/24 AREA 4 POSTED BY WALKO SERVER RECEIVED DATE 03/28/2024",
+  "sale_date": "2024-12-17",
+  "sheriff_number": "F-776438",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-12-17",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2024-12-16",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-10-09",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-07-31",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-07-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-06-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-05-22",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

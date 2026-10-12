@@ -1,0 +1,64 @@
+{
+  "address": "75 LAIDLAW AVENUE JERSEY CITY NJ 07306",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "860-241-2806",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-004704-24 (CWPP INELIGIBLE)",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "THE MBEH GROUP, LLC, ET AL.",
+  "description": "LOT 22, BLOCK 5906\nAPPROXIMATE DIMENSIONS: 27.70 X 109.38 X 27.15 X 109.00 FEET IRREGULAR\nNEAREST CROSS STREET: OAKLAND AVENUE\nTAXES -\nDUE: 02/01/2026 $5,800.14 OPEN\nDUE: 05/01/2026 $5,800.14 OPEN\nUPSET PRICE: NOT NEEDED FOR COMMERCIAL PROPERTY\nOCCUPANCY STATUS: UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "5906",
+    "lot": "22",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "75 LAIDLAW AVENUE\nJERSEY CITY NJ 07306",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "860-241-2806",
+    "Court Case #": "F-004704-24 (CWPP INELIGIBLE)",
+    "Defendant": "THE MBEH GROUP, LLC, ET AL.",
+    "Description": "LOT 22, BLOCK 5906\nAPPROXIMATE DIMENSIONS: 27.70 X 109.38 X 27.15 X 109.00 FEET IRREGULAR\nNEAREST CROSS STREET: OAKLAND AVENUE\nTAXES -\nDUE: 02/01/2026 $5,800.14 OPEN\nDUE: 05/01/2026 $5,800.14 OPEN\nUPSET PRICE: NOT NEEDED FOR COMMERCIAL PROPERTY\nOCCUPANCY STATUS: UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Good Faith Upset*": "NOT NEEDED FOR COMMERCIAL PROPERTY",
+    "Judgment": "$1,355,167.79",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2022-3",
+    "Property Note": "",
+    "Sales Date": "8/12/2026",
+    "Sheriff #": "20062516"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1355167.79,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "75 LAIDLAW AVENUE JERSEY CITY NJ 07306",
+    "defendant": "THE MBEH GROUP, LLC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2022-3",
+    "sale_date": "2026-08-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2022-3",
+  "property_note": null,
+  "sale_date": "2026-08-12",
+  "sheriff_number": "20062516",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-06-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-30",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-08-12",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

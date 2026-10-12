@@ -1,0 +1,53 @@
+{
+  "address": "616 EMERSON AVENUE LINDENWOLD NJ 08021",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00224824",
+  "current_status": "Settled",
+  "defendant": "NICOLE M. TORRI A/K/A NICOLE TORRI; UNKNOWN OCCUPANTS #1-10 N/K/A RONALD FREILING, OCCUPANT,",
+  "extracted": {},
+  "fields": {
+    "Address": "616 EMERSON AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$120,760.12",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00224824",
+    "Defendant": "NICOLE M. TORRI A/K/A NICOLE TORRI; UNKNOWN OCCUPANTS\n#1-10 N/K/A RONALD FREILING, OCCUPANT,",
+    "Parcel #": "",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY\nBUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "FR-24002498"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "616 EMERSON AVENUE LINDENWOLD NJ 08021",
+    "defendant": "NICOLE M. TORRI A/K/A NICOLE TORRI; UNKNOWN OCCUPANTS \n#1-10 N/K/A RONALD FREILING, OCCUPANT,",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY \nBUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "FR-24002498",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-12-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 120760.12,
+  "upset_amount_label": "Approx. Upset*"
+}

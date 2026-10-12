@@ -1,0 +1,72 @@
+{
+  "address": "1721 BIDEN LANE WILLIAMSTOWN NJ 08094",
+  "attorney": "Romano Garubo & Argentieri, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-003052-20",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "CATHARINE HARTMAN, ET VIR, ET AL",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $557,066.61\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 557066.61
+  },
+  "fields": {
+    "Address": "1721 BIDEN LANE\nWILLIAMSTOWN NJ 08094",
+    "Approximate Judgment": "$456,035.63",
+    "Attorney": "Romano Garubo & Argentieri, LLC",
+    "Court Case #": "F-003052-20",
+    "Defendant": "CATHARINE HARTMAN, ET VIR, ET AL",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $557,066.61\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "BLOCK: 128.0202 LOT: 21 & 22",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+    "Property Note": "PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF MONROE, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY.\nCOMMONLY KNOWN AS: 1721 BIDEN LANE WILLIAMSTOWN, NJ 08094\nTAX LOT(S): 21 & 22 IN BLOCK: 128.0202\nDIMENSIONS (APPROX.): 100x200\nNEAREST CROSS STREET: SNOWBERRY DRIVE\nGOOD FAITH ESTIMATED UPSET PRICE: $557,066.61\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "F-24000563"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 456035.63,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1721 BIDEN LANE WILLIAMSTOWN NJ 08094",
+    "defendant": "CATHARINE HARTMAN, ET VIR, ET AL",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 128.0202 LOT: 21 & 22",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+  "property_note": "PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF MONROE, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY.\nCOMMONLY KNOWN AS: 1721 BIDEN LANE WILLIAMSTOWN, NJ 08094\nTAX LOT(S): 21 & 22 IN BLOCK: 128.0202\nDIMENSIONS (APPROX.): 100x200\nNEAREST CROSS STREET: SNOWBERRY DRIVE\nGOOD FAITH ESTIMATED UPSET PRICE: $557,066.61\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-21",
+  "sheriff_number": "F-24000563",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-07-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-31",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-28",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-29",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

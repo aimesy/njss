@@ -1,0 +1,52 @@
+{
+  "address": "440 Aumack Avenue Union Beach NJ 07735",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F597223",
+  "current_status": "Settled",
+  "defendant": "Michael C. Smith, et al",
+  "description": "Dimension of Lot Approximately: 40 x 100\nNearest Cross Street: Sea Gate Avenue\nBeginning at a pipe along the southerly line of Aumack Avenue, westerly 80.00' from the intersection of the westerly line of Sea Gate Avenue with the southerly line of Aumack Avenue and thence\nPrior Liens/Encumbrances\n3rd Qtr Taxes Open Plus Penalty $1,457.51\nSewer Open $115.00\nSewer Open Plus Penalty $805.00\nTotal as of September 4, 2024, 2024: $2,377.51\nGood faith estimate of upset price: $167,154.67\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+  "extracted": {
+    "lot": "Approximately",
+    "upset_amount": 167154.67
+  },
+  "fields": {
+    "Address": "440 Aumack Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$155,823.07",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F597223",
+    "Defendant": "Michael C. Smith, et al",
+    "Description": "Dimension of Lot Approximately: 40 x 100\nNearest Cross Street: Sea Gate Avenue\nBeginning at a pipe along the southerly line of Aumack Avenue, westerly 80.00' from the intersection of the westerly line of Sea Gate Avenue with the southerly line of Aumack Avenue and thence\nPrior Liens/Encumbrances\n3rd Qtr Taxes Open Plus Penalty $1,457.51\nSewer Open $115.00\nSewer Open Plus Penalty $805.00\nTotal as of September 4, 2024, 2024: $2,377.51\nGood faith estimate of upset price: $167,154.67\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+    "Parcel #": "Tax Lot No. 6 in Block No. 165 Tax Map of Borough of Union Beach",
+    "Plaintiff": "Garden Savings Federal Credit Union",
+    "Property Note": "",
+    "Sales Date": "10/30/2024",
+    "Sheriff #": "FOR-24001914"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 155823.07,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "440 Aumack Avenue Union Beach NJ 07735",
+    "defendant": "Michael C. Smith, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Garden Savings Federal Credit Union",
+    "sale_date": "2024-10-30"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 6 in Block No. 165 Tax Map of Borough of Union Beach",
+  "plaintiff": "Garden Savings Federal Credit Union",
+  "property_note": null,
+  "sale_date": "2024-10-30",
+  "sheriff_number": "FOR-24001914",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-10-30",
+      "status": "Settled"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "address": "520 HIDDEN HOLLOW SCOTCH PLAINS NJ 07076",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00960619",
+  "current_status": "Cancelled",
+  "defendant": "MARSHALL ANTHONY A/K/A MARSHALL C. ANTHONY A/K/A MARSHALL COREY ANTHONY; TASCHA ANTHONY; MARINA DISTRICT DEVELOPMENT CO LLC",
+  "description": "LOT 21 FKA 14 BLOCK 6001 F/K/A 157",
+  "extracted": {
+    "block": "6001",
+    "lot": "21"
+  },
+  "fields": {
+    "Address": "520 HIDDEN HOLLOW\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$729,015.88",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00960619",
+    "Defendant": "MARSHALL ANTHONY A/K/A MARSHALL C. ANTHONY A/K/A MARSHALL COREY ANTHONY; TASCHA ANTHONY; MARINA DISTRICT DEVELOPMENT CO LLC",
+    "Description": "LOT 21 FKA 14 BLOCK 6001 F/K/A 157",
+    "Parcel #": "LOT 21 FKA 14 BLOCK 6001 F/K/A 157",
+    "Plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR BANC OF AMERICA FUNDING CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-5",
+    "Property Note": "",
+    "Sales Date": "6/25/2026",
+    "Sheriff #": "CH-24001756"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "520 HIDDEN HOLLOW SCOTCH PLAINS NJ 07076",
+    "defendant": "MARSHALL ANTHONY A/K/A MARSHALL C. ANTHONY A/K/A MARSHALL COREY ANTHONY; TASCHA ANTHONY; MARINA DISTRICT DEVELOPMENT CO LLC",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR BANC OF AMERICA FUNDING CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-5",
+    "sale_date": "2026-06-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 21 FKA 14 BLOCK 6001 F/K/A 157",
+  "plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR BANC OF AMERICA FUNDING CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-5",
+  "property_note": null,
+  "sale_date": "2026-06-25",
+  "sheriff_number": "CH-24001756",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-09-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2025-01-15",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 729015.88,
+  "upset_amount_label": "Approx. Upset*"
+}

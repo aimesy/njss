@@ -1,0 +1,59 @@
+{
+  "address": "14 Water Street Englishtown NJ 07726",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00590324",
+  "current_status": "Scheduled",
+  "defendant": "Abigail Maldonado, et al",
+  "description": "Dimensions: .322 AC\nNearest Cross Street: Benjamin Dey Conover's\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney.\nIf after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: Occupied by Unknown\nPlaintiff's good faith estimate of its upset price is: $90,962.36",
+  "extracted": {
+    "upset_amount": 90962.36
+  },
+  "fields": {
+    "Address": "14 Water Street\nEnglishtown NJ 07726",
+    "Approx. Judgment*": "$82,501.81",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F00590324",
+    "Defendant": "Abigail Maldonado, et al",
+    "Description": "Dimensions: .322 AC\nNearest Cross Street: Benjamin Dey Conover's\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney.\nIf after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: Occupied by Unknown\nPlaintiff's good faith estimate of its upset price is: $90,962.36",
+    "Parcel #": "Lot 27, Block 4 Tax Map of the Borough of Englishtown",
+    "Plaintiff": "Santander Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/3/2025",
+    "Sheriff #": "FOR-24002057"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 82501.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "14 Water Street Englishtown NJ 07726",
+    "defendant": "Abigail Maldonado, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Santander Bank, N.A.",
+    "sale_date": "2025-02-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 27, Block 4 Tax Map of the Borough of Englishtown",
+  "plaintiff": "Santander Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2025-02-03",
+  "sheriff_number": "FOR-24002057",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

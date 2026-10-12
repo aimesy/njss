@@ -1,0 +1,61 @@
+{
+  "address": "16 DUCHESS DRIVE MAILING ADDRESS: 16 DUCHESS DRIVE SICKLERVILLE NJ 08081 WINSLOW TWP NJ 08081",
+  "attorney": "PARKER MCCAY P.A.",
+  "attorney_phone": "(856) 596-8900",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00622925",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MICHAEL HOLLOWAY; FELICIA HOLLOWAY; MRS. MICHAEL HOLLOWAY, HIS WIFE; CITIZENS BANK OF PENNSYLVANIA NKA CITIZENS BANK, NATIONAL ASSOCIATION; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "16 DUCHESS DRIVE\nMAILING ADDRESS: 16 DUCHESS DRIVE SICKLERVILLE NJ 08081\nWINSLOW TWP NJ 08081",
+    "Approx. Upset*": "$444,356.29",
+    "Attorney": "PARKER MCCAY P.A.",
+    "Attorney Phone": "(856) 596-8900",
+    "Court Case #": "F00622925",
+    "Defendant": "MICHAEL HOLLOWAY; FELICIA HOLLOWAY; MRS. MICHAEL\nHOLLOWAY, HIS WIFE; CITIZENS BANK OF PENNSYLVANIA\nNKA CITIZENS BANK, NATIONAL ASSOCIATION; STATE OF\nNEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE\nFOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "6/16/2026",
+    "Sheriff #": "FR-26000186"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "16 DUCHESS DRIVE MAILING ADDRESS: 16 DUCHESS DRIVE SICKLERVILLE NJ 08081 WINSLOW TWP NJ 08081",
+    "defendant": "MICHAEL HOLLOWAY; FELICIA HOLLOWAY; MRS. MICHAEL \nHOLLOWAY, HIS WIFE; CITIZENS BANK OF PENNSYLVANIA \nNKA CITIZENS BANK, NATIONAL ASSOCIATION; STATE OF \nNEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE \nFOR VRMTG ASSET TRUST",
+    "sale_date": "2026-06-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2026-06-16",
+  "sheriff_number": "FR-26000186",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-16",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 444356.29,
+  "upset_amount_label": "Approx. Upset*"
+}

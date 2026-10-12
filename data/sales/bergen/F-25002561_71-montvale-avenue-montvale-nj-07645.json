@@ -1,0 +1,59 @@
+{
+  "address": "71 MONTVALE AVENUE MONTVALE NJ 07645",
+  "attorney": "HILL WALLACK LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01267624",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "NANCY SMITH; SCOTT J. SMITH",
+  "description": "APPROXIMATE UPSET AMOUNT IS $982,760.95 FOR THE SHERIFF'S SALE\nOCCUPANCY STATUS: TENANT OCCUPIED",
+  "extracted": {
+    "occupancy": "TENANT OCCUPIED"
+  },
+  "fields": {
+    "Address": "71 MONTVALE AVENUE\nMONTVALE NJ 07645",
+    "Approx. Upset*": "$900,738.28",
+    "Attorney": "HILL WALLACK LLP",
+    "Court Case #": "F01267624",
+    "Defendant": "NANCY SMITH; SCOTT J. SMITH",
+    "Description": "APPROXIMATE UPSET AMOUNT IS $982,760.95 FOR THE SHERIFF'S SALE\nOCCUPANCY STATUS: TENANT OCCUPIED",
+    "Parcel #": "LOT 8, BLOCK 712",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST X-A",
+    "Property Note": "",
+    "Sales Date": "1/9/2026",
+    "Sheriff #": "F-25002561"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "71 MONTVALE AVENUE MONTVALE NJ 07645",
+    "defendant": "NANCY SMITH; SCOTT J. SMITH",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST X-A",
+    "sale_date": "2026-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 8, BLOCK 712",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST X-A",
+  "property_note": null,
+  "sale_date": "2026-01-09",
+  "sheriff_number": "F-25002561",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 900738.28,
+  "upset_amount_label": "Approx. Upset*"
+}

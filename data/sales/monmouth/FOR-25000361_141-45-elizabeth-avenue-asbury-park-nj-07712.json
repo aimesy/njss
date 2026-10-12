@@ -1,0 +1,56 @@
+{
+  "address": "141-45 Elizabeth Avenue Asbury Park NJ 07712",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00067624",
+  "current_status": "Scheduled",
+  "defendant": "141 Elizabeth Ave LLC; et al.",
+  "description": "Approximate Dimensions (Approx.) 75*118.17*76.13*105.10\nNearest Cross Street: McKinley Street\nGood Faith Estimate Upset Price: $469,612.57\nOccupancy Status: NON OWNER OCCUPIED\nIMPORTANT:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98)\nTax Certificate: Recorder: March 16,2023, Holder Amount: $977.27, Book: 9637, Page: 6513: Instrument Number: 22-00046\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill",
+  "extracted": {
+    "occupancy": "NON OWNER OCCUPIED",
+    "upset_amount": 469612.57
+  },
+  "fields": {
+    "Address": "141-45 Elizabeth Avenue\nAsbury Park NJ 07712",
+    "Approx. Judgment*": "$428,473.49",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00067624",
+    "Defendant": "141 Elizabeth Ave LLC; et al.",
+    "Description": "Approximate Dimensions (Approx.) 75*118.17*76.13*105.10\nNearest Cross Street: McKinley Street\nGood Faith Estimate Upset Price: $469,612.57\nOccupancy Status: NON OWNER OCCUPIED\nIMPORTANT:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98)\nTax Certificate: Recorder: March 16,2023, Holder Amount: $977.27, Book: 9637, Page: 6513: Instrument Number: 22-00046\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill",
+    "Parcel #": "Tax Lot (s): 57, in Block: 1003 Located on the tax map of the City of Asbury Park",
+    "Plaintiff": "Aero Mortgage Loan Trust 2019-1",
+    "Property Note": "",
+    "Sales Date": "4/14/2025",
+    "Sheriff #": "FOR-25000361"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 428473.49,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "141-45 Elizabeth Avenue Asbury Park NJ 07712",
+    "defendant": "141 Elizabeth Ave LLC; et al.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Aero Mortgage Loan Trust 2019-1",
+    "sale_date": "2025-04-14"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot (s): 57, in Block: 1003 Located on the tax map of the City of Asbury Park",
+  "plaintiff": "Aero Mortgage Loan Trust 2019-1",
+  "property_note": null,
+  "sale_date": "2025-04-14",
+  "sheriff_number": "FOR-25000361",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-14",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    }
+  ]
+}

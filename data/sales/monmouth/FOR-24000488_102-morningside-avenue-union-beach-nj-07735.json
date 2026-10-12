@@ -1,0 +1,81 @@
+{
+  "address": "102 Morningside Avenue Union Beach NJ 07735",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02098115",
+  "current_status": "Scheduled",
+  "defendant": "Henry Mueller, et al.",
+  "description": "Dimensions of Lot: (Approximately) 75 feet By 100 feet\nNearest Cross Street: Poole Avenue\nThe estimated upset amount for the scheduled sheriff's sale is currently $323,000.00\nThe upset price is NOT the same as a payoff or judgement redemption amount.\nThe property is owner occupied.",
+  "extracted": {},
+  "fields": {
+    "Address": "102 Morningside Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$499,899.26",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F02098115",
+    "Defendant": "Henry Mueller, et al.",
+    "Description": "Dimensions of Lot: (Approximately) 75 feet By 100 feet\nNearest Cross Street: Poole Avenue\nThe estimated upset amount for the scheduled sheriff's sale is currently $323,000.00\nThe upset price is NOT the same as a payoff or judgement redemption amount.\nThe property is owner occupied.",
+    "Parcel #": "Lot 10.01, Block No. 130 Tax Map of the Borough of Union Beach",
+    "Plaintiff": "Bayview Loan Servicing, LLC",
+    "Property Note": "",
+    "Sales Date": "9/15/2025",
+    "Sheriff #": "FOR-24000488"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 499899.26,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "102 Morningside Avenue Union Beach NJ 07735",
+    "defendant": "Henry Mueller, et al.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Bayview Loan Servicing, LLC",
+    "sale_date": "2025-09-15"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 10.01, Block No. 130 Tax Map of the Borough of Union Beach",
+  "plaintiff": "Bayview Loan Servicing, LLC",
+  "property_note": null,
+  "sale_date": "2025-09-15",
+  "sheriff_number": "FOR-24000488",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-15",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-01",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-07-01",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-06-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-05-06",
+      "status": "Scheduled"
+    }
+  ]
+}

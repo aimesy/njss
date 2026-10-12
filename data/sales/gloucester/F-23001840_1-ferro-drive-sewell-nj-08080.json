@@ -1,0 +1,71 @@
+{
+  "address": "1 FERRO DRIVE SEWELL NJ 08080",
+  "attorney": "HILL WALLACK LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-08880-23",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "MEGAN CATANA A/K/A MEGAN S. CATANA, ET AL",
+  "description": "APPROXIMATE UPSET: $426,009.37\nOCCUPANCY STATUS: BORROWER OCCUPIED",
+  "extracted": {
+    "occupancy": "BORROWER OCCUPIED"
+  },
+  "fields": {
+    "Address": "1 FERRO DRIVE\nSEWELL NJ 08080",
+    "Approximate Judgment": "$362,976.68",
+    "Attorney": "HILL WALLACK LLP",
+    "Court Case #": "F-08880-23",
+    "Defendant": "MEGAN CATANA A/K/A MEGAN S. CATANA, ET AL",
+    "Description": "APPROXIMATE UPSET: $426,009.37\nOCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Parcel #": "BLOCK: 21.02 LOT: 1",
+    "Plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+    "Property Note": "",
+    "Sales Date": "11/15/2025",
+    "Sheriff #": "F-23001840"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 362976.68,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1 FERRO DRIVE SEWELL NJ 08080",
+    "defendant": "MEGAN CATANA A/K/A MEGAN S. CATANA, ET AL",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+    "sale_date": "2025-11-15"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 21.02 LOT: 1",
+  "plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+  "property_note": null,
+  "sale_date": "2025-11-15",
+  "sheriff_number": "F-23001840",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-03-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-04-10",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-05-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-05-09",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-15",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

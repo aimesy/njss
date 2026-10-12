@@ -1,0 +1,66 @@
+{
+  "address": "161 Webb Road Absecon NJ 08201",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011991-22",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "John W. Conover aka John Conover; Phyllis Conover aka Phyllis M. Conover; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "161 Webb Road\nAbsecon NJ 08201",
+    "Approx. Judgment*": "$269,386.41",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F-011991-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "John W. Conover aka John Conover; Phyllis Conover aka Phyllis M. Conover; State of New Jersey",
+    "Plaintiff": "Bank of America, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "3/13/2025",
+    "Sheriff #": "F-24001508",
+    "Upset Amount": "$273,736.63"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 269386.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "161 Webb Road Absecon NJ 08201",
+    "defendant": "John W. Conover aka ...",
+    "listing_status": null,
+    "plaintiff": "Bank of America, N.A...",
+    "sale_date": "2025-03-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank of America, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-03-13",
+  "sheriff_number": "F-24001508",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-13",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 273736.63,
+  "upset_amount_label": "Upset Amount"
+}

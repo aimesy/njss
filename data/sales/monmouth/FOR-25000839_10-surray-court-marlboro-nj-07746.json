@@ -1,0 +1,69 @@
+{
+  "address": "10 Surray Court Marlboro NJ 07746",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01454823",
+  "current_status": "Scheduled",
+  "defendant": "Anthony Colyandro, et al",
+  "description": "Dimensions of the lot (Approximately): .243\nNearest Cross Street: Coventry Terrace\nThe Plaintiff's Good Faith Estimate is $288,237.97. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is OWNER OCCUPIED",
+  "extracted": {},
+  "fields": {
+    "Address": "10 Surray Court\nMarlboro NJ 07746",
+    "Approx. Judgment*": "$277,176.63",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "F01454823",
+    "Defendant": "Anthony Colyandro, et al",
+    "Description": "Dimensions of the lot (Approximately): .243\nNearest Cross Street: Coventry Terrace\nThe Plaintiff's Good Faith Estimate is $288,237.97. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is OWNER OCCUPIED",
+    "Parcel #": "Lot(s) 32, Block 384, Tax Map of The Township of Marlboro",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Property Note": "",
+    "Sales Date": "10/27/2025",
+    "Sheriff #": "FOR-25000839"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 277176.63,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 Surray Court Marlboro NJ 07746",
+    "defendant": "Anthony Colyandro, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Carrington Mortgage Services, LLC",
+    "sale_date": "2025-10-27"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot(s) 32, Block 384, Tax Map of The Township of Marlboro",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "property_note": null,
+  "sale_date": "2025-10-27",
+  "sheriff_number": "FOR-25000839",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-27",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Scheduled"
+    }
+  ]
+}

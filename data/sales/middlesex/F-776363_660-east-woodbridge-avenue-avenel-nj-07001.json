@@ -1,0 +1,56 @@
+{
+  "address": "660 EAST WOODBRIDGE AVENUE AVENEL NJ 07001",
+  "attorney": "ROMANO, GARUBO & ARGENTIERI, ESQ.",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 384-1515",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F725415",
+  "current_status": "Bankruptcy",
+  "defendant": "MANUEL FERNANDEZ, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$550,052.47",
+    "Attorney": "ROMANO, GARUBO & ARGENTIERI, ESQ.",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 384-1515",
+    "Court Case #": "F725415",
+    "Defendant": "MANUEL FERNANDEZ, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 5 BLOCK 801.01 FKA 801.A",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+    "Property Address": "660 EAST WOODBRIDGE AVENUE\nAVENEL NJ 07001",
+    "Property Note": "SUCCESSFULLY POSTED 01/09/2024 AREA2",
+    "Sale Date": "2/14/2024",
+    "Sheriff #": "F-776363"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 550052.47,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "660 EAST WOODBRIDGE AVENUE AVENEL NJ 07001",
+    "defendant": "MANUEL FERNANDEZ, ET ALS",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+    "sale_date": "2024-02-14"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 5 BLOCK 801.01 FKA 801.A",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+  "property_note": "SUCCESSFULLY POSTED 01/09/2024 AREA2",
+  "sale_date": "2024-02-14",
+  "sheriff_number": "F-776363",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-02-14",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

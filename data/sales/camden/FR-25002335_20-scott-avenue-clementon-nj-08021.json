@@ -1,0 +1,53 @@
+{
+  "address": "20 SCOTT AVENUE CLEMENTON NJ 08021",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01079023",
+  "current_status": "Scheduled",
+  "defendant": "BRIAN LOIACONO; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "20 SCOTT AVENUE\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$99,249.02",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F01079023",
+    "Defendant": "BRIAN LOIACONO; ET AL.,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS\nTRUSTEE OF BKPL-EG SERIES N TRUST,",
+    "Property Note": "",
+    "Sales Date": "1/13/2026",
+    "Sheriff #": "FR-25002335"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "20 SCOTT AVENUE CLEMENTON NJ 08021",
+    "defendant": "BRIAN LOIACONO; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS \nTRUSTEE OF BKPL-EG SERIES N TRUST,",
+    "sale_date": "2026-01-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG SERIES N TRUST,",
+  "property_note": null,
+  "sale_date": "2026-01-13",
+  "sheriff_number": "FR-25002335",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-13",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 99249.02,
+  "upset_amount_label": "Approx. Upset*"
+}

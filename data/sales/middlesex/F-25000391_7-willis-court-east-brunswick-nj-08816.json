@@ -1,0 +1,72 @@
+{
+  "address": "7 WILLIS COURT EAST BRUNSWICK NJ 08816",
+  "attorney": "MARTONE & UHLMANN P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01429423",
+  "current_status": "Adjourned - Court",
+  "defendant": "VINCENT OLIVA, ET ALS.",
+  "description": "defendant filed a bk 7/8/25, chapter 13, case# 25-17182",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$832,948.69",
+    "Attorney": "MARTONE & UHLMANN P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 813-1700",
+    "Court Case #": "F01429423",
+    "Defendant": "VINCENT OLIVA, ET ALS.",
+    "Description": "defendant filed a bk 7/8/25, chapter 13, case# 25-17182",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 13 BLOCK 738.07",
+    "Plaintiff": "KEARNY BANK",
+    "Property Address": "7 WILLIS COURT\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "",
+    "Sale Date": "7/9/2025",
+    "Sheriff #": "F-25000391"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 832948.69,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 WILLIS COURT EAST BRUNSWICK NJ 08816",
+    "defendant": "VINCENT OLIVA, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "KEARNY BANK",
+    "sale_date": "2025-07-09"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 13 BLOCK 738.07",
+  "plaintiff": "KEARNY BANK",
+  "property_note": null,
+  "sale_date": "2025-07-09",
+  "sheriff_number": "F-25000391",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-07-09",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-05-28",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

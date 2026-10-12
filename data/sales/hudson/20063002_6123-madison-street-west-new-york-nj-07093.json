@@ -1,0 +1,64 @@
+{
+  "address": "6123 MADISON STREET WEST NEW YORK NJ 07093",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-000868-25",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "MIGNON FELICIA GRAYSON, ET AL.",
+  "description": "TAX LOT: 17 TAX BLOCK: 141\nAPPROXIMATE DIMENSIONS: 37.50' X 100.00'\nNEAREST CROSS STREET: 62ND STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $895,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "141",
+    "lot": "17",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "6123 MADISON STREET\nWEST NEW YORK NJ 07093",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-000868-25",
+    "Defendant": "MIGNON FELICIA GRAYSON, ET AL.",
+    "Description": "TAX LOT: 17 TAX BLOCK: 141\nAPPROXIMATE DIMENSIONS: 37.50' X 100.00'\nNEAREST CROSS STREET: 62ND STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $895,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Good Faith Upset*": "$895,000.00",
+    "Judgment": "$842,867.61",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "9/22/2026",
+    "Sheriff #": "20063002"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 842867.61,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "6123 MADISON STREET WEST NEW YORK NJ 07093",
+    "defendant": "MIGNON FELICIA GRAYSON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-09-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-09-22",
+  "sheriff_number": "20063002",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-07-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-09-22",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 895000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

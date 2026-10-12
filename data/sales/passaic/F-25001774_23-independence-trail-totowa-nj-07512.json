@@ -1,0 +1,63 @@
+{
+  "address": "23 Independence Trail Totowa NJ 07512",
+  "attorney": "REED SMITH LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 007302 16 CTL#163090",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "DAE SUNG SHIM ET ALS",
+  "description": "Dimensions of the Lot are (approximately) 101.31 ft x 100.17 ft x 93.25 ft x 99.65 ft\nNearest Cross Street: Hickory Hill Boulevard\nThe sale may be subject to unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. Any amount due can be obtained from the local taxing authority. The sale may be further subject to restrictions, reversions, reservations, and easements of record. The property is currently owner occupied.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "23 Independence Trail\nTotowa NJ 07512",
+    "Approx. Upset*": "$1,062,246.39",
+    "Attorney": "REED SMITH LLP",
+    "Court Case #": "F 007302 16 CTL#163090",
+    "Defendant": "DAE SUNG SHIM ET ALS",
+    "Description": "Dimensions of the Lot are (approximately) 101.31 ft x 100.17 ft x 93.25 ft x 99.65 ft\nNearest Cross Street: Hickory Hill Boulevard\nThe sale may be subject to unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. Any amount due can be obtained from the local taxing authority. The sale may be further subject to restrictions, reversions, reservations, and easements of record. The property is currently owner occupied.",
+    "Parcel #": "Tax Lot 73 Block 9.08",
+    "Plaintiff": "HSBC BANK USA, NATIONAL ASSOC. AS TRUSTEE FOR WELLS FARGO",
+    "Property Note": "",
+    "Sales Date": "4/14/2026",
+    "Sheriff #": "F-25001774"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "23 Independence Trail Totowa NJ 07512",
+    "defendant": "DAE SUNG SHIM ET ALS",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, NATIONAL ASSOC. AS TRUSTEE FOR WELLS FARGO",
+    "sale_date": "2026-04-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 73 Block 9.08",
+  "plaintiff": "HSBC BANK USA, NATIONAL ASSOC. AS TRUSTEE FOR WELLS FARGO",
+  "property_note": null,
+  "sale_date": "2026-04-14",
+  "sheriff_number": "F-25001774",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 1062246.39,
+  "upset_amount_label": "Approx. Upset*"
+}

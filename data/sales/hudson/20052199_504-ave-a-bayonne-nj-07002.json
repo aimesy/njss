@@ -1,0 +1,84 @@
+{
+  "address": "504 AVE A BAYONNE NJ 07002",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-003942-21",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "ODETTE MILLER, ET AL.",
+  "description": "TAX LOT: 6 TAX BLOCK: 208\nAPPROXIMATE DIMENSIONS: 25.09' X 109.27' X 25.00' X 107.24'\nNEAREST CROSS STREET: W. 21ST STREET\nOCCUPANCY STATUS: UNKNOWN\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $548,000.00",
+  "extracted": {
+    "block": "208",
+    "lot": "6",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "504 AVE A\nBAYONNE NJ 07002",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-003942-21",
+    "Defendant": "ODETTE MILLER, ET AL.",
+    "Description": "TAX LOT: 6 TAX BLOCK: 208\nAPPROXIMATE DIMENSIONS: 25.09' X 109.27' X 25.00' X 107.24'\nNEAREST CROSS STREET: W. 21ST STREET\nOCCUPANCY STATUS: UNKNOWN\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $548,000.00",
+    "Good Faith Upset*": "$548,000.00",
+    "Judgment": "$429,763.20",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "11/5/2026",
+    "Sheriff #": "20052199"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 429763.2,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "504 AVE A BAYONNE NJ 07002",
+    "defendant": "ODETTE MILLER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
+    "sale_date": "2026-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-11-05",
+  "sheriff_number": "20052199",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2023-08-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-10-19",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2023-12-14",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2024-01-04",
+      "status": "JOINT ADJOURNMENT"
+    },
+    {
+      "date": "2024-01-17",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2024-06-06",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 548000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

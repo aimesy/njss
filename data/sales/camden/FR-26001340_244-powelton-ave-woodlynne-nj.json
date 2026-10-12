@@ -1,0 +1,61 @@
+{
+  "address": "244 POWELTON AVE WOODLYNNE NJ",
+  "attorney": "GARY C. ZEITZ L.L.C.",
+  "attorney_phone": "856-857-1222",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F28925",
+  "current_status": "Purchased",
+  "defendant": "RUTH WATSON UTLEY, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "244 POWELTON AVE\nWOODLYNNE NJ",
+    "Approx. Upset*": "$35,753.74",
+    "Attorney": "GARY C. ZEITZ L.L.C.",
+    "Attorney Phone": "856-857-1222",
+    "Court Case #": "F28925",
+    "Defendant": "RUTH WATSON UTLEY, ET AL",
+    "Parcel #": "BLOCK 203, LOT 1",
+    "Plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "Property Note": "OPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE BOROUGH OF WOODLYNNE: $3,486.69 AS OF MAY 13TH, 2026.\nTHE FULL LEGAL DESCRIIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN IN BOOK 11039 AT PAGE 1887.",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001340"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "244 POWELTON AVE WOODLYNNE NJ",
+    "defendant": "RUTH WATSON UTLEY, ET AL",
+    "listing_status": null,
+    "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 203, LOT 1",
+  "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+  "property_note": "OPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE BOROUGH OF WOODLYNNE: $3,486.69 AS OF MAY 13TH, 2026.\nTHE FULL LEGAL DESCRIIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN IN BOOK 11039 AT PAGE 1887.",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001340",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 35753.74,
+  "upset_amount_label": "Approx. Upset*"
+}

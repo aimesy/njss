@@ -1,0 +1,76 @@
+{
+  "address": "1125 HILLSIDE AVENUE AKA 1125-27 HILLSIDE AVENUE PLAINFIELD NJ 07060",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00541124",
+  "current_status": "Adjourned per Court Order",
+  "defendant": "THAD U. BALTIMORE A/K/A THAD BALTIMORE; JACQUELINE BEVERLY; STATE OF NEW JERSEY",
+  "description": "LOT 44 BLOCK 12",
+  "extracted": {
+    "block": "12",
+    "lot": "44"
+  },
+  "fields": {
+    "Address": "1125 HILLSIDE AVENUE\nAKA 1125-27 HILLSIDE AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$409,190.30",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00541124",
+    "Defendant": "THAD U. BALTIMORE A/K/A THAD BALTIMORE; JACQUELINE BEVERLY; STATE OF NEW JERSEY",
+    "Description": "LOT 44 BLOCK 12",
+    "Parcel #": "LOT 44 BLOCK 12",
+    "Plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "CH-25002201"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1125 HILLSIDE AVENUE AKA 1125-27 HILLSIDE AVENUE PLAINFIELD NJ 07060",
+    "defendant": "THAD U. BALTIMORE A/K/A THAD BALTIMORE; JACQUELINE BEVERLY; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 44 BLOCK 12",
+  "plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "CH-25002201",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Adjourned per Court Order"
+    }
+  ],
+  "upset_amount": 409190.3,
+  "upset_amount_label": "Approx. Upset*"
+}

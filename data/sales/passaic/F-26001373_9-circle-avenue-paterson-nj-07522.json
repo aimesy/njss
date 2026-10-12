@@ -1,0 +1,49 @@
+{
+  "address": "9 CIRCLE Avenue Paterson NJ 07522",
+  "attorney": "GREENSPOON MARDER",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "SWC F 007761 25 CTL #163251",
+  "current_status": "Scheduled",
+  "defendant": "SUCCEEDED LLC, ET ALS",
+  "description": "Dimensions of lot (approximately): 25 x 63\nNearest Cross Street: Temple Street\nThe Plaintiffs good faith estimate is $456,329.15. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is occupied",
+  "extracted": {},
+  "fields": {
+    "Address": "9 CIRCLE Avenue\nPaterson NJ 07522",
+    "Approx. Upset*": "$476,777.08",
+    "Attorney": "GREENSPOON MARDER",
+    "Court Case #": "SWC F 007761 25 CTL #163251",
+    "Defendant": "SUCCEEDED LLC, ET ALS",
+    "Description": "Dimensions of lot (approximately): 25 x 63\nNearest Cross Street: Temple Street\nThe Plaintiffs good faith estimate is $456,329.15. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is occupied",
+    "Parcel #": "Tax Lot 6 Block 410",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR IBIS HOLDINGS A TRUST",
+    "Property Note": "",
+    "Sales Date": "12/1/2026",
+    "Sheriff #": "F-26001373"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "9 CIRCLE Avenue Paterson NJ 07522",
+    "defendant": "SUCCEEDED LLC, ET ALS",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR IBIS HOLDINGS A TRUST",
+    "sale_date": "2026-12-01"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 6 Block 410",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR IBIS HOLDINGS A TRUST",
+  "property_note": null,
+  "sale_date": "2026-12-01",
+  "sheriff_number": "F-26001373",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-12-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 476777.08,
+  "upset_amount_label": "Approx. Upset*"
+}

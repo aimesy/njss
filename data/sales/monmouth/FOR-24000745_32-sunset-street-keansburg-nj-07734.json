@@ -1,0 +1,68 @@
+{
+  "address": "32 Sunset Street Keansburg NJ 07734",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01041523",
+  "current_status": "Scheduled",
+  "defendant": "David DeLaurier II et al.",
+  "description": "Dimensions of lot: 75 x 68\nNearest Cross Street: Crescent Street\nEstimated upset bid amount: 215,000.00, plus any additional sums as ordered by the court\nOccupancy Status: Owner\nNOTICE THROUGH PUBLICATION.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n• 2024 Qtr. 2 Due: 05/01/2024 $1,809.76 OPEN\n• Water: Keansburg MUA 29 Church Street, Keansburg, NJ 07734, 732-787-0215, ACCT: 1449 0 01/01/2024 - 03/31/2024 $80.83 OPEN AND DUE 04/01/2024 $262.93 OPEN PLUS PENALTY; OWED APPEARS\n• Sewer: Keansburg MUA 29 Church Street, Keansburg, NJ 07734, 732-787-0215, ACCT: 1449 0 01/01/2024 - 03/31/2024 $124.74 OPEN AND DUE 04/01/2024 $410.53 OPEN PLUS PENALTY; OWED APPEARS\n• General Remarks: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+  "extracted": {
+    "lot": "75",
+    "occupancy": "Owner"
+  },
+  "fields": {
+    "Address": "32 Sunset Street\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$197,743.29",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F01041523",
+    "Defendant": "David DeLaurier II et al.",
+    "Description": "Dimensions of lot: 75 x 68\nNearest Cross Street: Crescent Street\nEstimated upset bid amount: 215,000.00, plus any additional sums as ordered by the court\nOccupancy Status: Owner\nNOTICE THROUGH PUBLICATION.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n• 2024 Qtr. 2 Due: 05/01/2024 $1,809.76 OPEN\n• Water: Keansburg MUA 29 Church Street, Keansburg, NJ 07734, 732-787-0215, ACCT: 1449 0 01/01/2024 - 03/31/2024 $80.83 OPEN AND DUE 04/01/2024 $262.93 OPEN PLUS PENALTY; OWED APPEARS\n• Sewer: Keansburg MUA 29 Church Street, Keansburg, NJ 07734, 732-787-0215, ACCT: 1449 0 01/01/2024 - 03/31/2024 $124.74 OPEN AND DUE 04/01/2024 $410.53 OPEN PLUS PENALTY; OWED APPEARS\n• General Remarks: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+    "Parcel #": "Tax Lot 6, Block 144 in the Borough of Keansburg",
+    "Plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2007-4, Asset-Backed Certificates, Series 2007-4",
+    "Property Note": "",
+    "Sales Date": "9/18/2025",
+    "Sheriff #": "FOR-24000745"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 197743.29,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "32 Sunset Street Keansburg NJ 07734",
+    "defendant": "David DeLaurier II et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2007-4, Asset-Backed Certificates, Series 2007-4",
+    "sale_date": "2025-09-18"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 6, Block 144 in the Borough of Keansburg",
+  "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2007-4, Asset-Backed Certificates, Series 2007-4",
+  "property_note": null,
+  "sale_date": "2025-09-18",
+  "sheriff_number": "FOR-24000745",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-18",
+      "status": "Canceled"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "address": "308 ORBANUS LANE WILLIAMSTOWN NJ 08094",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-012376-22",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "JOHN TROMBETTA, ET UX, ET AL",
+  "description": "UPSET PRICE: $229,776.45\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 229776.45
+  },
+  "fields": {
+    "Address": "308 ORBANUS LANE\nWILLIAMSTOWN NJ 08094",
+    "Approximate Judgment": "$195,858.94",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-012376-22",
+    "Defendant": "JOHN TROMBETTA, ET UX, ET AL",
+    "Description": "UPSET PRICE: $229,776.45\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "BLOCK: 2803 (FORMERLY 37) LOT: 3 (FORMERLY 73)",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "TOWNSHIP OF MONROE\nCOUNTY OF GLOUCESTER\n308 ORBANUS LANE WILLIAMSTOWN, NJ 08094\nBLOCK: 2803 (FORMERLY 37) LOT: 3 (FORMERLY 73)\nAPPROXIMATE DIMENSIONS: 33.54 x 136.70 x 189.47 x 126.83 x 121.87 FEET (IRREGULAR)\nNEAREST CRSS STREET: WINSLOW ROAD\nUPSET PRICE: $229,776.45\nOCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "10/29/2025",
+    "Sheriff #": "F-23001787"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 195858.94,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "308 ORBANUS LANE WILLIAMSTOWN NJ 08094",
+    "defendant": "JOHN TROMBETTA, ET UX, ET AL",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 2803 (FORMERLY 37) LOT: 3 (FORMERLY 73)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": "TOWNSHIP OF MONROE\nCOUNTY OF GLOUCESTER\n308 ORBANUS LANE WILLIAMSTOWN, NJ 08094\nBLOCK: 2803 (FORMERLY 37) LOT: 3 (FORMERLY 73)\nAPPROXIMATE DIMENSIONS: 33.54 x 136.70 x 189.47 x 126.83 x 121.87 FEET (IRREGULAR)\nNEAREST CRSS STREET: WINSLOW ROAD\nUPSET PRICE: $229,776.45\nOCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-23001787",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-03-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-04-10",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-05-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-05-09",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

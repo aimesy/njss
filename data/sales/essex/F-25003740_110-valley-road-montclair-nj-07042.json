@@ -1,0 +1,87 @@
+{
+  "address": "110 VALLEY ROAD MONTCLAIR NJ 07042",
+  "attorney": "PLUESE BECKER & SALTZMAN",
+  "attorney_phone": "856-813-1700",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F01143114",
+  "current_status": "Buy Back",
+  "defendant": "FIRST PRESTIGE MORTGAGE SERVICES, INC., ET. AL",
+  "description": "LOT: 14 BLOCK: 1507\nAPPROXIMATE DIMENSIONS: 60.00' X 100.00'\nNEAREST CROSS STREET: CLAREMONT AVENUE\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $1,384,300.00. OCCUPANCY STATUS: UNKNOWN\nPRIORITY TAX LIEN HOLDER: WSFS AS CUST LVTLOPS/FIRSTRUST HOLDS TAX SALE CERTIFICATE NO. 21-00019 IN THE AMOUNT OF $2,544.81 AS OF 10/13/2021. ***LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTOR FOR THE AMOUNT (THE ''REDEMPTION SUM\") NECESSARY TO REDEEM.***",
+  "extracted": {
+    "block": "1507",
+    "lot": "14",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "110 VALLEY ROAD\nMONTCLAIR NJ 07042",
+    "Approx. Upset*": "$1,007,691.69",
+    "Attorney": "PLUESE BECKER & SALTZMAN",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F01143114",
+    "Defendant": "FIRST PRESTIGE MORTGAGE SERVICES, INC., ET. AL",
+    "Description": "LOT: 14 BLOCK: 1507\nAPPROXIMATE DIMENSIONS: 60.00' X 100.00'\nNEAREST CROSS STREET: CLAREMONT AVENUE\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $1,384,300.00. OCCUPANCY STATUS: UNKNOWN\nPRIORITY TAX LIEN HOLDER: WSFS AS CUST LVTLOPS/FIRSTRUST HOLDS TAX SALE CERTIFICATE NO. 21-00019 IN THE AMOUNT OF $2,544.81 AS OF 10/13/2021. ***LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTOR FOR THE AMOUNT (THE ''REDEMPTION SUM\") NECESSARY TO REDEEM.***",
+    "Parcel #": "",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST INC., ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-AMC1, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTE",
+    "Property Note": "",
+    "Sales Date": "9/1/2026",
+    "Sheriff #": "F-25003740"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "110 VALLEY ROAD MONTCLAIR NJ 07042",
+    "defendant": "FIRST PRESTIGE MORTGAGE SERVICES, INC., ET. AL",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST INC., ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-AMC1, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTE",
+    "sale_date": "2026-09-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST INC., ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-AMC1, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTE",
+  "property_note": null,
+  "sale_date": "2026-09-01",
+  "sheriff_number": "F-25003740",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-12-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-05-19",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 1007691.69,
+  "upset_amount_label": "Approx. Upset*"
+}

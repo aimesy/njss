@@ -1,0 +1,59 @@
+{
+  "address": "213 HUNTER STREET WOODBURY NJ 08096",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-000394-25",
+  "current_status": "Cancelled",
+  "defendant": "LAUREN KILSON; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY AND MIDLAND CREDIT MANAGEMENT, INC.,",
+  "description": "ESTIMATED UPSET RPICE: $169,23.50\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "213 HUNTER STREET\nWOODBURY NJ 08096",
+    "Approximate Judgment": "$156,268.01",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-000394-25",
+    "Defendant": "LAUREN KILSON; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY AND MIDLAND CREDIT MANAGEMENT, INC.,",
+    "Description": "ESTIMATED UPSET RPICE: $169,23.50\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT: 5 BLOCK: 147.01",
+    "Plaintiff": "SIWELL INC. DBA CAPITAL MORTGAGE SERVICES OF TEXAS",
+    "Property Note": "CITY OF WOODBURY\nCOUNTY OF GLOUCESTER\n213 HUNTER STREET WOODBURY, NJ 08096\nLOT: 5 BLOCK: 147.01\nAPPROXIMATE DIMENSIONS: 111.34 x 25.00 FEET\nNEAREST CROSS STREET: MAPLE STREET\nESTIMATED UPSET RPICE: $169,23.50\nOCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "4/13/2026",
+    "Sheriff #": "F-25001505"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 156268.01,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "213 HUNTER STREET WOODBURY NJ 08096",
+    "defendant": "LAUREN KILSON; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY AND MIDLAND CREDIT MANAGEMENT, INC.,",
+    "listing_status": "Cancelled",
+    "plaintiff": "SIWELL INC. DBA CAPITAL MORTGAGE SERVICES OF TEXAS",
+    "sale_date": "2026-04-13"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 5 BLOCK: 147.01",
+  "plaintiff": "SIWELL INC. DBA CAPITAL MORTGAGE SERVICES OF TEXAS",
+  "property_note": "CITY OF WOODBURY\nCOUNTY OF GLOUCESTER\n213 HUNTER STREET WOODBURY, NJ 08096\nLOT: 5 BLOCK: 147.01\nAPPROXIMATE DIMENSIONS: 111.34 x 25.00 FEET\nNEAREST CROSS STREET: MAPLE STREET\nESTIMATED UPSET RPICE: $169,23.50\nOCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2026-04-13",
+  "sheriff_number": "F-25001505",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "Cancelled"
+    }
+  ]
+}

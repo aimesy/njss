@@ -1,0 +1,58 @@
+{
+  "address": "28 Apache Court Galloway Township NJ 08205",
+  "attorney": "Albertelli Law",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008179-18 ALIAS",
+  "current_status": "Scheduled",
+  "deed": "Quang Ha",
+  "deed_address": "328 S. Zenia Ave Galloway, NJ 08205",
+  "defendant": "Carl A. Meyer, III; PNC Bank; National Association; and Society Hill at Galloway II Condo Association",
+  "extracted": {},
+  "fields": {
+    "Address": "28 Apache Court\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$135,854.41",
+    "Attorney": "Albertelli Law",
+    "Court Case #": "F-008179-18 ALIAS",
+    "Deed": "Quang Ha",
+    "Deed Address": "328 S. Zenia Ave Galloway, NJ 08205",
+    "Defendant": "Carl A. Meyer, III; PNC Bank; National Association; and Society Hill at Galloway II Condo Association",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "Society Hill at Galloway II Condo Assoc. Per N.J.S.A. 46:8B-1, amount: $6,524.41",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "8/14/2025",
+    "Sheriff #": "F-25000639",
+    "Upset Amount": "$95,300.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 135854.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "28 Apache Court Galloway Township NJ 08205",
+    "defendant": "Carl A. Meyer, III; ...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2025-08-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "Society Hill at Galloway II Condo Assoc. Per N.J.S.A. 46:8B-1, amount: $6,524.41",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-08-14",
+  "sheriff_number": "F-25000639",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-14",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 95300.0,
+  "upset_amount_label": "Upset Amount"
+}

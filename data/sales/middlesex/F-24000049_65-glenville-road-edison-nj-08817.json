@@ -1,0 +1,64 @@
+{
+  "address": "65 GLENVILLE ROAD EDISON NJ 08817",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00144024",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "PETER VAVAROUTSOS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$306,299.88",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00144024",
+    "Defendant": "PETER VAVAROUTSOS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 17 BLOCK 1105",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-DWELLING SERIES V TRUST",
+    "Property Address": "65 GLENVILLE ROAD\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "3/5/2025",
+    "Sheriff #": "F-24000049"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 306299.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "65 GLENVILLE ROAD EDISON NJ 08817",
+    "defendant": "PETER VAVAROUTSOS, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-DWELLING SERIES V TRUST",
+    "sale_date": "2025-03-05"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 17 BLOCK 1105",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-DWELLING SERIES V TRUST",
+  "property_note": null,
+  "sale_date": "2025-03-05",
+  "sheriff_number": "F-24000049",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

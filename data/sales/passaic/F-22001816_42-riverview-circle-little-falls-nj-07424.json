@@ -1,0 +1,67 @@
+{
+  "address": "42 Riverview Circle Little Falls NJ 07424",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 002275 22 CTRL #162339",
+  "current_status": "Cancelled",
+  "defendant": "JOSEPH MAFFUCCI; ET ALS.",
+  "description": "Dimensions of Lot: 50X95 16X95T\nNearest Cross Street: Parkway\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2023 Qtr 1 Due: 02/01/2023 $1,362.05 OPEN\n2023 Qtr 2 Due: 05/01/2023 $1,362.05 OPEN\nSewer: Included with Taxes\nFor sale information, please visit Auction. at www.Auction.com or call (800)280-2832.",
+  "extracted": {
+    "lot": "50X95"
+  },
+  "fields": {
+    "Address": "42 Riverview Circle\nLittle Falls NJ 07424",
+    "Approx. Upset*": "$309,843.38",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 002275 22 CTRL #162339",
+    "Defendant": "JOSEPH MAFFUCCI; ET ALS.",
+    "Description": "Dimensions of Lot: 50X95 16X95T\nNearest Cross Street: Parkway\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2023 Qtr 1 Due: 02/01/2023 $1,362.05 OPEN\n2023 Qtr 2 Due: 05/01/2023 $1,362.05 OPEN\nSewer: Included with Taxes\nFor sale information, please visit Auction. at www.Auction.com or call (800)280-2832.",
+    "Parcel #": "Tax LOT 22 a/k/a 22 & 23 in BLOCK 85",
+    "Plaintiff": "FEDERAL HOME LOAN CORPORATION, ETC.",
+    "Property Note": "",
+    "Sales Date": "10/15/2025",
+    "Sheriff #": "F-22001816"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "42 Riverview Circle Little Falls NJ 07424",
+    "defendant": "JOSEPH MAFFUCCI; ET ALS.",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN CORPORATION, ETC.",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax LOT 22 a/k/a 22 & 23 in BLOCK 85",
+  "plaintiff": "FEDERAL HOME LOAN CORPORATION, ETC.",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-22001816",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2023-01-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-02-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-03-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-03-07",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 309843.38,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,80 @@
+{
+  "address": "314 MADISON HILL ROAD CLARK NJ 07066",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01143522",
+  "current_status": "Purchased",
+  "defendant": "GREG NUZZI; THERESA NUZZI; MIDLAND FUNDING LLC, ASSIGNEE; MIDLAND CREDIT MANAGEMENT",
+  "description": "LOT 7 BLOCK 52",
+  "extracted": {
+    "block": "52",
+    "lot": "7"
+  },
+  "fields": {
+    "Address": "314 MADISON HILL ROAD\nCLARK NJ 07066",
+    "Approx. Upset*": "$280,411.36",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F01143522",
+    "Defendant": "GREG NUZZI; THERESA NUZZI; MIDLAND FUNDING LLC, ASSIGNEE; MIDLAND CREDIT MANAGEMENT",
+    "Description": "LOT 7 BLOCK 52",
+    "Parcel #": "LOT 7 BLOCK 52",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "CH-23001286"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "314 MADISON HILL ROAD CLARK NJ 07066",
+    "defendant": "GREG NUZZI; THERESA NUZZI; MIDLAND FUNDING LLC, ASSIGNEE; MIDLAND CREDIT MANAGEMENT",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 7 BLOCK 52",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "CH-23001286",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2023-07-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-20",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-09-20",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2024-10-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 280411.36,
+  "upset_amount_label": "Approx. Upset*"
+}

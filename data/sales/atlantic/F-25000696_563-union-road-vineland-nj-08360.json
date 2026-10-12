@@ -1,0 +1,66 @@
+{
+  "address": "563 Union Road Vineland NJ 08360",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004274-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jennifer L. Rivera-Brown; Mr. Rivera-Brown, husband of Jennifer L. Rivera-Brown; Darrell A. Brown; TD Bank, N.A.; Helmer Conley & Kasselman P.A.; State of New Jersey; Vineland Pediatrics; United States of America; Stephen Guice",
+  "extracted": {},
+  "fields": {
+    "Address": "563 Union Road\nVineland NJ 08360",
+    "Approx. Judgment*": "$193,617.14",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-004274-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jennifer L. Rivera-Brown; Mr. Rivera-Brown, husband of Jennifer L. Rivera-Brown; Darrell A. Brown; TD Bank, N.A.; Helmer Conley & Kasselman P.A.; State of New Jersey; Vineland Pediatrics; United States of America; Stephen Guice",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for VRMTG Asset Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "10/16/2025",
+    "Sheriff #": "F-25000696",
+    "Upset Amount": "$216,010.90"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 193617.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "563 Union Road Vineland NJ 08360",
+    "defendant": "Jennifer L. Rivera-B...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-10-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for VRMTG Asset Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2025-10-16",
+  "sheriff_number": "F-25000696",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-16",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-09-18",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 216010.9,
+  "upset_amount_label": "Upset Amount"
+}

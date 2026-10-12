@@ -1,0 +1,64 @@
+{
+  "address": "181 CORREJA AVENUE ISELIN NJ 08830",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01501115",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "AFSHAN MIAN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$479,219.02",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F01501115",
+    "Defendant": "AFSHAN MIAN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 8 BLOCK 442.03 FKA 442.C",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS CWALT, INC., ALTERNATIVE LOAN TRUST 2006-OA17, MORTGAGE PASS THROUGH CERTIFICATES SERIES 2006-OA17",
+    "Property Address": "181 CORREJA AVENUE\nISELIN NJ 08830",
+    "Property Note": "",
+    "Sale Date": "5/28/2025",
+    "Sheriff #": "F-25000298"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 479219.02,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "181 CORREJA AVENUE ISELIN NJ 08830",
+    "defendant": "AFSHAN MIAN, ET ALS.",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS CWALT, INC., ALTERNATIVE LOAN TRUST 2006-OA17, MORTGAGE PASS THROUGH CERTIFICATES SERIES 2006-OA17",
+    "sale_date": "2025-05-28"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 8 BLOCK 442.03 FKA 442.C",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS CWALT, INC., ALTERNATIVE LOAN TRUST 2006-OA17, MORTGAGE PASS THROUGH CERTIFICATES SERIES 2006-OA17",
+  "property_note": null,
+  "sale_date": "2025-05-28",
+  "sheriff_number": "F-25000298",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-05-28",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

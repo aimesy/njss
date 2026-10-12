@@ -1,0 +1,58 @@
+{
+  "address": "18 East Lindley Avenue Pleasantville NJ 08232",
+  "attorney": "LOGS Legal Group LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012864-24",
+  "current_status": "Scheduled",
+  "deed": "Nargis Serneabad",
+  "deed_address": "200 Gardenview Rd EHT NJ 08234",
+  "defendant": "Elizabeth Jane Primrose, His/her Heirs, devisees and personal representatives and his/her, their or any of their successors in Right, Title and Interest; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "18 East Lindley Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$84,509.75",
+    "Attorney": "LOGS Legal Group LLP",
+    "Court Case #": "F-012864-24",
+    "Deed": "Nargis Serneabad",
+    "Deed Address": "200 Gardenview Rd EHT NJ 08234",
+    "Defendant": "Elizabeth Jane Primrose, His/her Heirs, devisees and personal representatives and his/her, their or any of their successors in Right, Title and Interest; State of New Jersey; United States of America",
+    "Plaintiff": "PNC Bank, National Association",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "8/14/2025",
+    "Sheriff #": "F-25000660",
+    "Upset Amount": "$96,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 84509.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "18 East Lindley Avenue Pleasantville NJ 08232",
+    "defendant": "Elizabeth Jane Primr...",
+    "listing_status": null,
+    "plaintiff": "PNC Bank, National A...",
+    "sale_date": "2025-08-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PNC Bank, National Association",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-08-14",
+  "sheriff_number": "F-25000660",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-14",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 96000.0,
+  "upset_amount_label": "Upset Amount"
+}

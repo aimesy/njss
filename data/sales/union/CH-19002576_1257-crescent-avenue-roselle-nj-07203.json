@@ -1,0 +1,76 @@
+{
+  "address": "1257 CRESCENT AVENUE ROSELLE NJ 07203",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00229319",
+  "current_status": "Cancelled",
+  "defendant": "MICHAEL MINOTT; NADINE MINOTT",
+  "description": "LOT 25 BLOCK 4504",
+  "extracted": {
+    "block": "4504",
+    "lot": "25"
+  },
+  "fields": {
+    "Address": "1257 CRESCENT AVENUE\nROSELLE NJ 07203",
+    "Approx. Upset*": "$193,132.43",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+    "Court Case #": "F00229319",
+    "Defendant": "MICHAEL MINOTT; NADINE MINOTT",
+    "Description": "LOT 25 BLOCK 4504",
+    "Parcel #": "LOT 25 BLOCK 4504",
+    "Plaintiff": "FEDERAL NATIONAL MORTGAGE ASSOCIATION (\"FANNIE MAE\"), A CORPORATION ORGANIZED AND EXISTING UNDER THE LAWS OF THE UNITED STATES OF AMERICA",
+    "Property Note": "",
+    "Sales Date": "5/14/2026",
+    "Sheriff #": "CH-19002576"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1257 CRESCENT AVENUE ROSELLE NJ 07203",
+    "defendant": "MICHAEL MINOTT; NADINE MINOTT",
+    "listing_status": null,
+    "plaintiff": "FEDERAL NATIONAL MORTGAGE ASSOCIATION (\"FANNIE MAE\"), A CORPORATION ORGANIZED AND EXISTING UNDER THE LAWS OF THE UNITED STATES OF AMERICA",
+    "sale_date": "2026-05-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 25 BLOCK 4504",
+  "plaintiff": "FEDERAL NATIONAL MORTGAGE ASSOCIATION (\"FANNIE MAE\"), A CORPORATION ORGANIZED AND EXISTING UNDER THE LAWS OF THE UNITED STATES OF AMERICA",
+  "property_note": null,
+  "sale_date": "2026-05-14",
+  "sheriff_number": "CH-19002576",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2019-09-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2019-11-06",
+      "status": "ADJOURNED DUE TO BANKRUPTCY"
+    },
+    {
+      "date": "2019-12-11",
+      "status": "ADJOURNED DUE TO BANKRUPTCY"
+    },
+    {
+      "date": "2020-02-05",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2022-11-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-11-02",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-05-14",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 193132.43,
+  "upset_amount_label": "Approx. Upset*"
+}

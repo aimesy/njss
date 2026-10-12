@@ -1,0 +1,65 @@
+{
+  "address": "803 CUMBERLAND STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00689425",
+  "current_status": "Court Adjournment",
+  "defendant": "JOSEPH KOOTCHER, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "803 CUMBERLAND STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$143,506.10",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00689425",
+    "Defendant": "JOSEPH KOOTCHER, ET AL.",
+    "Parcel #": "TAX LOT: 24 AND 25 TAX BLOCK: 149",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "PRIORITY TAX LIEN HOLDER: FIG 25, LLC FBO SEC PTY HOLDS TAX SALE CERTIFICATE NO.\n26-00166 IN THE AMOUNT OF $2,104.12 AS OF 01/15/2026.\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTER FOR THE AMOUNT (THE \" REDEMPTION SUM\") NECESSARY TO REDEEM.",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26000660"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "803 CUMBERLAND STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "JOSEPH KOOTCHER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 24 AND 25 TAX BLOCK: 149",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "PRIORITY TAX LIEN HOLDER: FIG 25, LLC FBO SEC PTY HOLDS TAX SALE CERTIFICATE NO.\n26-00166 IN THE AMOUNT OF $2,104.12 AS OF 01/15/2026.\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTER FOR THE AMOUNT (THE \" REDEMPTION SUM\") NECESSARY TO REDEEM.",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26000660",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 143506.1,
+  "upset_amount_label": "Approx. Upset*"
+}

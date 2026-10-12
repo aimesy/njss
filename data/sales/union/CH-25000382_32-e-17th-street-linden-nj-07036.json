@@ -1,0 +1,68 @@
+{
+  "address": "32 E 17TH STREET LINDEN NJ 07036",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01017719",
+  "current_status": "Cancelled",
+  "defendant": "MARION JOYCE DURHAM A/K/A MARION J. DURHAM; TARGET NATIONAL BANK; PORTFOLIO RECOVERY ASSOC. LLC; UNITED STATES OF AMERICA",
+  "description": "LOT 6 BLOCK 538",
+  "extracted": {
+    "block": "538",
+    "lot": "6"
+  },
+  "fields": {
+    "Address": "32 E 17TH STREET\nLINDEN NJ 07036",
+    "Approx. Upset*": "$118,176.58",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+    "Court Case #": "F01017719",
+    "Defendant": "MARION JOYCE DURHAM A/K/A MARION J. DURHAM; TARGET NATIONAL BANK; PORTFOLIO RECOVERY ASSOC. LLC; UNITED STATES OF AMERICA",
+    "Description": "LOT 6 BLOCK 538",
+    "Parcel #": "LOT 6 BLOCK 538",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "9/28/2026",
+    "Sheriff #": "CH-25000382"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "32 E 17TH STREET LINDEN NJ 07036",
+    "defendant": "MARION JOYCE DURHAM A/K/A MARION J. DURHAM; TARGET NATIONAL BANK; PORTFOLIO RECOVERY ASSOC. LLC; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-09-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 6 BLOCK 538",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-09-28",
+  "sheriff_number": "CH-25000382",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-09-28",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 118176.58,
+  "upset_amount_label": "Approx. Upset*"
+}

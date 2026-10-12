@@ -1,0 +1,72 @@
+{
+  "address": "181 PATERSON AVENUE LODI NJ 07644",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00017419",
+  "current_status": "Cancelled",
+  "defendant": "JOHN DALEO; BRIDGET DALEO, HIS WIFE",
+  "description": "UPSET PRICE: $723,869.39\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 723869.39
+  },
+  "fields": {
+    "Address": "181 PATERSON AVENUE\nLODI NJ 07644",
+    "Approx. Upset*": "$581,543.70",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Court Case #": "F00017419",
+    "Defendant": "JOHN DALEO; BRIDGET DALEO, HIS WIFE",
+    "Description": "UPSET PRICE: $723,869.39\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 31, BLOCK 117",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS INC., ASSET-BACKED CERTIFICATES, SERIES 2006-17",
+    "Property Note": "",
+    "Sales Date": "4/6/2026",
+    "Sheriff #": "F-25001257"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "181 PATERSON AVENUE LODI NJ 07644",
+    "defendant": "JOHN DALEO; BRIDGET DALEO, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS INC., ASSET-BACKED CERTIFICATES, SERIES 2006-17",
+    "sale_date": "2026-04-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 31, BLOCK 117",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS INC., ASSET-BACKED CERTIFICATES, SERIES 2006-17",
+  "property_note": null,
+  "sale_date": "2026-04-06",
+  "sheriff_number": "F-25001257",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-07-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-03-13",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 581543.7,
+  "upset_amount_label": "Approx. Upset*"
+}

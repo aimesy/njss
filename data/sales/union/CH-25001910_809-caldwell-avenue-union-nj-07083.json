@@ -1,0 +1,60 @@
+{
+  "address": "809 CALDWELL AVENUE UNION NJ 07083",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01943119",
+  "current_status": "Bankuptcy",
+  "defendant": "BERNICE HOLLIS; PATRICIA HOLLIS; SHOPPERS CHARGE ACCOUNTS; BURGESS LEE BERLIN AND PA; DITECH FINANCIAL LLC; BANK OF AMERICA, NATIONAL ASSOCIATION; UNITED STATES OF AMERICA",
+  "description": "LOT 18 BLOCK 4008",
+  "extracted": {
+    "block": "4008",
+    "lot": "18"
+  },
+  "fields": {
+    "Address": "809 CALDWELL AVENUE\nUNION NJ 07083",
+    "Approx. Upset*": "$549,299.21",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F01943119",
+    "Defendant": "BERNICE HOLLIS; PATRICIA HOLLIS; SHOPPERS CHARGE ACCOUNTS; BURGESS LEE BERLIN AND PA; DITECH FINANCIAL LLC; BANK OF AMERICA, NATIONAL ASSOCIATION; UNITED STATES OF AMERICA",
+    "Description": "LOT 18 BLOCK 4008",
+    "Parcel #": "LOT 18 BLOCK 4008",
+    "Plaintiff": "U.S. BANK TRUST, N.A.' AS TRUSTEE FOR LSF8 MASTER PARTICIPATION TRUST",
+    "Property Note": "",
+    "Sales Date": "12/17/2025",
+    "Sheriff #": "CH-25001910"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "809 CALDWELL AVENUE UNION NJ 07083",
+    "defendant": "BERNICE HOLLIS; PATRICIA HOLLIS; SHOPPERS CHARGE ACCOUNTS; BURGESS LEE BERLIN AND PA; DITECH FINANCIAL LLC; BANK OF AMERICA, NATIONAL ASSOCIATION; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST, N.A.' AS TRUSTEE FOR LSF8 MASTER PARTICIPATION TRUST",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 18 BLOCK 4008",
+  "plaintiff": "U.S. BANK TRUST, N.A.' AS TRUSTEE FOR LSF8 MASTER PARTICIPATION TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "CH-25001910",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 549299.21,
+  "upset_amount_label": "Approx. Upset*"
+}

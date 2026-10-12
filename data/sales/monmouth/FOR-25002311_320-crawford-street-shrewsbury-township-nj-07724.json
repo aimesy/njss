@@ -1,0 +1,55 @@
+{
+  "address": "320 Crawford Street Shrewsbury Township NJ 07724",
+  "attorney": "Cutolo Barros LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01124124",
+  "current_status": "Scheduled",
+  "defendant": "Doreatha Boynton",
+  "description": "Nearest cross street is Barker Avenue. The property is currently tenant occupied.\nBeing commonly known as 320 Crawford Street, Shrewsbury Township, New Jersey 07724. Property to be sold subject to a mortgage in the intial amount of $177,000.00.\nThe approximate amount of the upset price is $28,136.57, more or less, which consists of the final judgement amount of $28,136.57, plus interest together with the costs of this sale.",
+  "extracted": {
+    "upset_amount": 28136.57
+  },
+  "fields": {
+    "Address": "320 Crawford Street\nShrewsbury Township NJ 07724",
+    "Approx. Judgment*": "$28,136.57",
+    "Attorney": "Cutolo Barros LLC",
+    "Court Case #": "F01124124",
+    "Defendant": "Doreatha Boynton",
+    "Description": "Nearest cross street is Barker Avenue. The property is currently tenant occupied.\nBeing commonly known as 320 Crawford Street, Shrewsbury Township, New Jersey 07724. Property to be sold subject to a mortgage in the intial amount of $177,000.00.\nThe approximate amount of the upset price is $28,136.57, more or less, which consists of the final judgement amount of $28,136.57, plus interest together with the costs of this sale.",
+    "Parcel #": "Lot and Block: Lot 320, Block 1 Tax Map of Township of Shrewsbury",
+    "Plaintiff": "Shrewsbury Woods Condominium Association, Inc.",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "FOR-25002311"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 28136.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "320 Crawford Street Shrewsbury Township NJ 07724",
+    "defendant": "Doreatha Boynton",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Shrewsbury Woods Condominium Association, Inc.",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 320, Block 1 Tax Map of Township of Shrewsbury",
+  "plaintiff": "Shrewsbury Woods Condominium Association, Inc.",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "FOR-25002311",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-02",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Scheduled"
+    }
+  ]
+}

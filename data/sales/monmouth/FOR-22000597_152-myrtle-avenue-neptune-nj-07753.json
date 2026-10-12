@@ -1,0 +1,75 @@
+{
+  "address": "152 Myrtle Avenue Neptune NJ 07753",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02322915",
+  "current_status": "Scheduled",
+  "defendant": "Katurah Richardson, et al",
+  "description": "Dimensions of Lot (approximately): CONDO\nNearest Cross Street: Embury Avenue\nApprox Upset price - $219,268.64\noccupancy Status - Borrower Occupied\nSubject to: Please be further advised that pursuant to the deed recorded in the Office of the Clerk of Monmouth County on February 16, 2012 in Book 8933, Page 1242, the property is subject to affordable housing covenants. Pursuant to the affordance housing restrictions, sale and use of the property is governed by the Uniform Housing Affordability Controls at N.J.A.C. § 5:80-26.1, et seq. and is subject to the following specific restrictions. This is not an exhaustive list. Specifically, the property may only be conveyed to approved households/individuals, and any subsequent sales of the property are subject to approval pursuant to the above-referenced statute.\nSimilarly, any mortgage financing for the property is also subject to approval and the owner is not permitted to rent the premises.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the\nlien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 219268.64
+  },
+  "fields": {
+    "Address": "152 Myrtle Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$190,253.01",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F02322915",
+    "Defendant": "Katurah Richardson, et al",
+    "Description": "Dimensions of Lot (approximately): CONDO\nNearest Cross Street: Embury Avenue\nApprox Upset price - $219,268.64\noccupancy Status - Borrower Occupied\nSubject to: Please be further advised that pursuant to the deed recorded in the Office of the Clerk of Monmouth County on February 16, 2012 in Book 8933, Page 1242, the property is subject to affordable housing covenants. Pursuant to the affordance housing restrictions, sale and use of the property is governed by the Uniform Housing Affordability Controls at N.J.A.C. § 5:80-26.1, et seq. and is subject to the following specific restrictions. This is not an exhaustive list. Specifically, the property may only be conveyed to approved households/individuals, and any subsequent sales of the property are subject to approval pursuant to the above-referenced statute.\nSimilarly, any mortgage financing for the property is also subject to approval and the owner is not permitted to rent the premises.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the\nlien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Lot 2, Block 520 (OLD BLOCK 197.05, LOT 12) Tax Map of the Township of Neptune",
+    "Plaintiff": "New Jersey Housing & Mortgage Finance Agency",
+    "Property Note": "",
+    "Sales Date": "11/24/2025",
+    "Sheriff #": "FOR-22000597"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 190253.01,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "152 Myrtle Avenue Neptune NJ 07753",
+    "defendant": "Katurah Richardson, et al",
+    "listing_status": "Settled",
+    "plaintiff": "New Jersey Housing & Mortgage Finance Agency",
+    "sale_date": "2025-11-24"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 2, Block 520 (OLD BLOCK 197.05, LOT 12) Tax Map of the Township of Neptune",
+  "plaintiff": "New Jersey Housing & Mortgage Finance Agency",
+  "property_note": null,
+  "sale_date": "2025-11-24",
+  "sheriff_number": "FOR-22000597",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-24",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-07-11",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-07-11",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-06-13",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-05-16",
+      "status": "Scheduled"
+    }
+  ]
+}

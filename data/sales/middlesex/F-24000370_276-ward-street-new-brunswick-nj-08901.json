@@ -1,0 +1,56 @@
+{
+  "address": "276 WARD STREET NEW BRUNSWICK NJ 08901",
+  "attorney": null,
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00349924",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "CAROLINE A. LOPEZ DE PEREZ, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$192,857.75",
+    "Attorney": "",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00349924",
+    "Defendant": "CAROLINE A. LOPEZ DE PEREZ, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 41.01 BLOCK 281",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Address": "276 WARD STREET\nNEW BRUNSWICK NJ 08901",
+    "Property Note": "",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-24000370"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 192857.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "276 WARD STREET NEW BRUNSWICK NJ 08901",
+    "defendant": "CAROLINE A. LOPEZ DE PEREZ, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 41.01 BLOCK 281",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-24000370",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

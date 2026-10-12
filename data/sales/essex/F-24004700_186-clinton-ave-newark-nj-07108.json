@@ -1,0 +1,71 @@
+{
+  "address": "186 CLINTON AVE NEWARK NJ 07108",
+  "attorney": "PLUESE BECKER & SALTZMAN",
+  "attorney_phone": "856-813-1700",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00799223",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "RONKAY GRIFFITH, ET. AL.",
+  "description": "LOT: 43 BLOCK: 2802\nAPPROXIMATE DIMENSIONS: 27.08' X 135.79' X 27.00' X 133.91'\nNEAREST CROSS STREET: WRIGHT STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $793,400.00 OCCUPANCY STATUS: UNKNOWN\n********SUBJECT TO UCC FINANCING STATEMENT********",
+  "extracted": {
+    "block": "2802",
+    "lot": "43",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "186 CLINTON AVE\nNEWARK NJ 07108",
+    "Approx. Upset*": "$745,247.92",
+    "Attorney": "PLUESE BECKER & SALTZMAN",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00799223",
+    "Defendant": "RONKAY GRIFFITH, ET. AL.",
+    "Description": "LOT: 43 BLOCK: 2802\nAPPROXIMATE DIMENSIONS: 27.08' X 135.79' X 27.00' X 133.91'\nNEAREST CROSS STREET: WRIGHT STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $793,400.00 OCCUPANCY STATUS: UNKNOWN\n********SUBJECT TO UCC FINANCING STATEMENT********",
+    "Parcel #": "",
+    "Plaintiff": "GITSIT SOLUTIONS LLC",
+    "Property Note": "",
+    "Sales Date": "11/7/2026",
+    "Sheriff #": "F-24004700"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "186 CLINTON AVE NEWARK NJ 07108",
+    "defendant": "RONKAY GRIFFITH, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "GITSIT SOLUTIONS LLC",
+    "sale_date": "2026-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "GITSIT SOLUTIONS LLC",
+  "property_note": null,
+  "sale_date": "2026-11-07",
+  "sheriff_number": "F-24004700",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-11-07",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 745247.92,
+  "upset_amount_label": "Approx. Upset*"
+}

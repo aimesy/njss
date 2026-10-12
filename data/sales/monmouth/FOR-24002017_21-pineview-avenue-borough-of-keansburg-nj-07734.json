@@ -1,0 +1,67 @@
+{
+  "address": "21 Pineview Avenue Borough of Keansburg NJ 07734",
+  "attorney": "Shnayder Law Firm LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00395223",
+  "current_status": "Scheduled",
+  "defendant": "Domenick Mastrocola, Individually and as Guarantor and Member; James Renard, Individually and as Guarantor and Member; and JD Property Brothers LLC, et al.",
+  "description": "Number of Feet to Nearest Cross Street: 315 Feet to Beachway Avenue\nDimensions (approx.): 100.00 Ft X 25.00 Ft\nAmount Due for Taxes: As of September 19, 2024, no taxes are due (subject to a Tax Lien)\nUpset Figures: $197,000.00\nOccupancy Status: Occupied\nAs the above does not constitute a full legal description, said full legal description is annexed to that certain deed recorded in the Office of the Clerk of Monmouth County in Book 9461, Page 1644, et seq., and the Writ of Execution on file with the Sheriff of Monmouth County.",
+  "extracted": {
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "21 Pineview Avenue\nBorough of Keansburg NJ 07734",
+    "Approx. Judgment*": "$178,286.34",
+    "Attorney": "Shnayder Law Firm LLC",
+    "Court Case #": "F00395223",
+    "Defendant": "Domenick Mastrocola, Individually and as Guarantor and Member; James Renard, Individually and as Guarantor and Member; and JD Property Brothers LLC, et al.",
+    "Description": "Number of Feet to Nearest Cross Street: 315 Feet to Beachway Avenue\nDimensions (approx.): 100.00 Ft X 25.00 Ft\nAmount Due for Taxes: As of September 19, 2024, no taxes are due (subject to a Tax Lien)\nUpset Figures: $197,000.00\nOccupancy Status: Occupied\nAs the above does not constitute a full legal description, said full legal description is annexed to that certain deed recorded in the Office of the Clerk of Monmouth County in Book 9461, Page 1644, et seq., and the Writ of Execution on file with the Sheriff of Monmouth County.",
+    "Parcel #": "Lot 25, Block 19 Tax Map of Borough of Keansburg",
+    "Plaintiff": "Blue Castle (Cayman) LTD.",
+    "Property Note": "",
+    "Sales Date": "4/24/2025",
+    "Sheriff #": "FOR-24002017"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 178286.34,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "21 Pineview Avenue Borough of Keansburg NJ 07734",
+    "defendant": "Domenick Mastrocola, Individually and as Guarantor and Member; James Renard, Individually and as Guarantor and Member; and JD Property Brothers LLC, et al.",
+    "listing_status": "Redeemed",
+    "plaintiff": "Blue Castle (Cayman) LTD.",
+    "sale_date": "2025-04-24"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 25, Block 19 Tax Map of Borough of Keansburg",
+  "plaintiff": "Blue Castle (Cayman) LTD.",
+  "property_note": null,
+  "sale_date": "2025-04-24",
+  "sheriff_number": "FOR-24002017",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-24",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

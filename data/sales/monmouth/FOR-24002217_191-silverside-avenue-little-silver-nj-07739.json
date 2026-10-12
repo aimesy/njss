@@ -1,0 +1,61 @@
+{
+  "address": "191 Silverside Avenue Little Silver NJ 07739",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00454722",
+  "current_status": "Scheduled",
+  "defendant": "Robert Miller et al",
+  "description": "Dimensions of Lot:(Approximately) 81.35 feet wide by 200.00 feet\nNearest Cross Street: Laurie Lane\nThe estimated upset amount for the scheduled sheriff sale is currently $652,180.81.\nThe upset price is not the same as a payoff or judgement redemption amount.\nThe property is occupied by unknown",
+  "extracted": {},
+  "fields": {
+    "Address": "191 Silverside Avenue\nLittle Silver NJ 07739",
+    "Approx. Judgment*": "$600,465.51",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00454722",
+    "Defendant": "Robert Miller et al",
+    "Description": "Dimensions of Lot:(Approximately) 81.35 feet wide by 200.00 feet\nNearest Cross Street: Laurie Lane\nThe estimated upset amount for the scheduled sheriff sale is currently $652,180.81.\nThe upset price is not the same as a payoff or judgement redemption amount.\nThe property is occupied by unknown",
+    "Parcel #": "Tax Lot No, 9 Block 70 located on the tax map of the Borough of Little Silver",
+    "Plaintiff": "PNC Bank, National Association",
+    "Property Note": "",
+    "Sales Date": "3/17/2025",
+    "Sheriff #": "FOR-24002217"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 600465.51,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "191 Silverside Avenue Little Silver NJ 07739",
+    "defendant": "Robert Miller et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "PNC Bank, National Association",
+    "sale_date": "2025-03-17"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No, 9 Block 70 located on the tax map of the Borough of Little Silver",
+  "plaintiff": "PNC Bank, National Association",
+  "property_note": null,
+  "sale_date": "2025-03-17",
+  "sheriff_number": "FOR-24002217",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-17",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Scheduled"
+    }
+  ]
+}

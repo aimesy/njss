@@ -1,0 +1,58 @@
+{
+  "address": "271 5th Avenue Egg Harbor City (Mullica Township) NJ 08215",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000602-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Kathleen C. Walker, a/k/a Kathleen C. Larvison; Paul Larvison; South Jersey Equine Associates",
+  "extracted": {},
+  "fields": {
+    "Address": "271 5th Avenue\nEgg Harbor City (Mullica Township) NJ 08215",
+    "Approx. Judgment*": "$188,672.61",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-000602-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Kathleen C. Walker, a/k/a Kathleen C. Larvison; Paul Larvison; South Jersey Equine Associates",
+    "Plaintiff": "U.S. Bank Trust Company, National Association, as trustee, successor-in-interest to U.S. Bank National Association, as Trustee of Residential Funding Mortgage Securities I, Inc. Mortgage Pass-Through Certificates, Series",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/16/2026",
+    "Sheriff #": "F-26000185",
+    "Upset Amount": "$210,239.40"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 188672.61,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "271 5th Avenue Egg Harbor City (Mullica Township) NJ 08215",
+    "defendant": "Kathleen C. Walker, ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Comp...",
+    "sale_date": "2026-04-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust Company, National Association, as trustee, successor-in-interest to U.S. Bank National Association, as Trustee of Residential Funding Mortgage Securities I, Inc. Mortgage Pass-Through Certificates, Series",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-04-16",
+  "sheriff_number": "F-26000185",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-16",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 210239.4,
+  "upset_amount_label": "Upset Amount"
+}

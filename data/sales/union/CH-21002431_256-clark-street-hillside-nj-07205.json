@@ -1,0 +1,104 @@
+{
+  "address": "256 CLARK STREET HILLSIDE NJ 07205",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00128620",
+  "current_status": "Settled",
+  "defendant": "KECIA WRIGHT; AND ESSEX COUNTY BOARD OF SOCIAL SERVICES",
+  "description": "LOT 34 BLOCK 412",
+  "extracted": {
+    "block": "412",
+    "lot": "34"
+  },
+  "fields": {
+    "Address": "256 CLARK STREET\nHILLSIDE NJ 07205",
+    "Approx. Upset*": "$204,221.61",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00128620",
+    "Defendant": "KECIA WRIGHT; AND ESSEX COUNTY BOARD OF SOCIAL SERVICES",
+    "Description": "LOT 34 BLOCK 412",
+    "Parcel #": "LOT 34 BLOCK 412",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE TIKI SERIES III TRUST",
+    "Property Note": "",
+    "Sales Date": "11/18/2025",
+    "Sheriff #": "CH-21002431"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "256 CLARK STREET HILLSIDE NJ 07205",
+    "defendant": "KECIA WRIGHT; AND ESSEX COUNTY BOARD OF SOCIAL SERVICES",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE TIKI SERIES III TRUST",
+    "sale_date": "2025-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 34 BLOCK 412",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE TIKI SERIES III TRUST",
+  "property_note": null,
+  "sale_date": "2025-11-18",
+  "sheriff_number": "CH-21002431",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2022-02-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-03-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-03-30",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-04-27",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2022-04-27",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2023-05-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-05-17",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2023-10-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-10-11",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2024-06-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-06-05",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-09-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-10",
+      "status": "Vacated"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 204221.61,
+  "upset_amount_label": "Approx. Upset*"
+}

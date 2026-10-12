@@ -1,0 +1,72 @@
+{
+  "address": "725 CENTRAL AVENUE FRANKLINVILLE NJ 08322",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-051662-14",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "ALECIA YANCY, ET VIR, ET AL",
+  "description": "ESTIMATED UPSET PRICE: $543,677.79 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGEMENT REDEMPTION AMOUNT\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN",
+    "upset_amount": 543677.79
+  },
+  "fields": {
+    "Address": "725 CENTRAL AVENUE\nFRANKLINVILLE NJ 08322",
+    "Approximate Judgment": "$343,139.02",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-051662-14",
+    "Defendant": "ALECIA YANCY, ET VIR, ET AL",
+    "Description": "ESTIMATED UPSET PRICE: $543,677.79 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGEMENT REDEMPTION AMOUNT\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "BLOCK: 5701 LOT: 17",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2006-23",
+    "Property Note": "TOWNSHIP OF FRANKLIN\nCOUNTY OF GLOUCESTER\n725 CENTRAL AVENUE FRANKLIN TWP., NJ 08322 WITH A MAILING ADDRESS OF 725 CENTRAL AVENUE FRANKLINVILLE, NJ 08322\nAPPROXIMATE DIMENSIONS: 125 FEET BY 430.30 FEET\nNEAREST CROSS STREET: MARSHALL MILL ROAD\nESTIMATED UPSET PRICE: $543,677.79 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGEMENT REDEMPTION AMOUNT\nOCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "10/15/2025",
+    "Sheriff #": "F-25000455"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 343139.02,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "725 CENTRAL AVENUE FRANKLINVILLE NJ 08322",
+    "defendant": "ALECIA YANCY, ET VIR, ET AL",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2006-23",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 5701 LOT: 17",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2006-23",
+  "property_note": "TOWNSHIP OF FRANKLIN\nCOUNTY OF GLOUCESTER\n725 CENTRAL AVENUE FRANKLIN TWP., NJ 08322 WITH A MAILING ADDRESS OF 725 CENTRAL AVENUE FRANKLINVILLE, NJ 08322\nAPPROXIMATE DIMENSIONS: 125 FEET BY 430.30 FEET\nNEAREST CROSS STREET: MARSHALL MILL ROAD\nESTIMATED UPSET PRICE: $543,677.79 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGEMENT REDEMPTION AMOUNT\nOCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-25000455",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-06-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

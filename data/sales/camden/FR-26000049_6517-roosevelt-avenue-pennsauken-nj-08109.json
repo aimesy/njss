@@ -1,0 +1,53 @@
+{
+  "address": "6517 ROOSEVELT AVENUE PENNSAUKEN NJ 08109",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01079524",
+  "current_status": "Scheduled",
+  "defendant": "DIANE B. GARDNER A/K/A DIANE B. GOLEY; MR GARDNER, SPOUSE OF DIANE B. GARDNER A/K/A DIANE B. GOLEY",
+  "extracted": {},
+  "fields": {
+    "Address": "6517 ROOSEVELT AVENUE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$171,594.80",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01079524",
+    "Defendant": "DIANE B. GARDNER A/K/A DIANE B. GOLEY; MR GARDNER, SPOUSE OF\nDIANE B. GARDNER A/K/A DIANE B. GOLEY",
+    "Parcel #": "",
+    "Plaintiff": "LSF9 MASTER PARTICIPATION TRUST",
+    "Property Note": "",
+    "Sales Date": "3/26/2026",
+    "Sheriff #": "FR-26000049"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "6517 ROOSEVELT AVENUE PENNSAUKEN NJ 08109",
+    "defendant": "DIANE B. GARDNER A/K/A DIANE B. GOLEY; MR GARDNER, SPOUSE OF \nDIANE B. GARDNER A/K/A DIANE B. GOLEY",
+    "listing_status": null,
+    "plaintiff": "LSF9 MASTER PARTICIPATION TRUST",
+    "sale_date": "2026-03-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LSF9 MASTER PARTICIPATION TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-26",
+  "sheriff_number": "FR-26000049",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-26",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 171594.8,
+  "upset_amount_label": "Approx. Upset*"
+}

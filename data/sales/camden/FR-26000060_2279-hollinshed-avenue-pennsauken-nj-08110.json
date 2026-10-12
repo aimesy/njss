@@ -1,0 +1,53 @@
+{
+  "address": "2279 HOLLINSHED AVENUE PENNSAUKEN NJ 08110",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00367525",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "GROUP ER SOLUTIONS LLC, A NEW JERSEY LIMITED LIABILITY COMPANY",
+  "extracted": {},
+  "fields": {
+    "Address": "2279 HOLLINSHED AVENUE\nPENNSAUKEN NJ 08110",
+    "Approx. Upset*": "$123,992.53",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00367525",
+    "Defendant": "GROUP ER SOLUTIONS LLC, A NEW JERSEY LIMITED LIABILITY COMPANY",
+    "Parcel #": "",
+    "Plaintiff": "EF MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "FR-26000060"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2279 HOLLINSHED AVENUE PENNSAUKEN NJ 08110",
+    "defendant": "GROUP ER SOLUTIONS LLC, A NEW JERSEY LIMITED LIABILITY COMPANY",
+    "listing_status": null,
+    "plaintiff": "EF MORTGAGE LLC",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "EF MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-04-01",
+  "sheriff_number": "FR-26000060",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 123992.53,
+  "upset_amount_label": "Approx. Upset*"
+}

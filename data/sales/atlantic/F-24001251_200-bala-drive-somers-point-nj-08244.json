@@ -1,0 +1,58 @@
+{
+  "address": "200 Bala Drive Somers Point NJ 08244",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003673-24",
+  "current_status": "Scheduled",
+  "deed": "200BALADR, L.L.C",
+  "deed_address": "1003 Shore Road, Linwood, NJ 08221",
+  "defendant": "Elizabeth K. Jeffers deceased, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest; Michele Fox Morales; Richard Morales; united States of America; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "200 Bala Drive\nSomers Point NJ 08244",
+    "Approx. Judgment*": "$86,231.94",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-003673-24",
+    "Deed": "200BALADR, L.L.C",
+    "Deed Address": "1003 Shore Road, Linwood, NJ 08221",
+    "Defendant": "Elizabeth K. Jeffers deceased, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest; Michele Fox Morales; Richard Morales; united States of America; State of New Jersey",
+    "Plaintiff": "The Bank of New York Mellon, f/k/a, The Bank of New York, as Trustee for CWABS, Inc., Asset-Backed Certificates, Series 2005-3",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24001251",
+    "Upset Amount": "$97,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 86231.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "200 Bala Drive Somers Point NJ 08244",
+    "defendant": "Elizabeth K. Jeffers...",
+    "listing_status": null,
+    "plaintiff": "The Bank of New York...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "The Bank of New York Mellon, f/k/a, The Bank of New York, as Trustee for CWABS, Inc., Asset-Backed Certificates, Series 2005-3",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24001251",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 97500.0,
+  "upset_amount_label": "Upset Amount"
+}

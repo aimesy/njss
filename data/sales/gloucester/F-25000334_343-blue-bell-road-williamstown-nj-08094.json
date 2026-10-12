@@ -1,0 +1,64 @@
+{
+  "address": "343 BLUE BELL ROAD WILLIAMSTOWN NJ 08094",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-007089-24",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "AIE III INC; EWART JOHNNY",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $335,329.44\nOCCUPANCY STATUS:NON-OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "NON-OWNER OCCUPIED",
+    "upset_amount": 335329.44
+  },
+  "fields": {
+    "Address": "343 BLUE BELL ROAD\nWILLIAMSTOWN NJ 08094",
+    "Approximate Judgment": "$298,717.54",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-007089-24",
+    "Defendant": "AIE III INC; EWART JOHNNY",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $335,329.44\nOCCUPANCY STATUS:NON-OWNER OCCUPIED",
+    "Parcel #": "LOT: 27 BLOCK: 11701",
+    "Plaintiff": "WILMINGTON TRUST, NATINOAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF MFRA TRUST 2014-2",
+    "Property Note": "TOWNSHIP OF MONROE\nCOUNTY OF GLOUCESTER\n343 BLUE BELL ROAD WILLIAMSTOWN, NJ 08094\nLOT: 27 BLOCK: 11701\nAPPROXIMATE DIMENSIONS: 57.75*231*68.97*53.03\nNEAREST CROSS STREET: LIBERTY STREET\nGOOD FAITH ESTIMATED UPSET PRICE: $335,329.44\nOCCUPANCY STATUS:NON-OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Sales Date": "10/29/2025",
+    "Sheriff #": "F-25000334"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 298717.54,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "343 BLUE BELL ROAD WILLIAMSTOWN NJ 08094",
+    "defendant": "AIE III INC; EWART JOHNNY",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "WILMINGTON TRUST, NATINOAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF MFRA TRUST 2014-2",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 27 BLOCK: 11701",
+  "plaintiff": "WILMINGTON TRUST, NATINOAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF MFRA TRUST 2014-2",
+  "property_note": "TOWNSHIP OF MONROE\nCOUNTY OF GLOUCESTER\n343 BLUE BELL ROAD WILLIAMSTOWN, NJ 08094\nLOT: 27 BLOCK: 11701\nAPPROXIMATE DIMENSIONS: 57.75*231*68.97*53.03\nNEAREST CROSS STREET: LIBERTY STREET\nGOOD FAITH ESTIMATED UPSET PRICE: $335,329.44\nOCCUPANCY STATUS:NON-OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25000334",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-05-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-11",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

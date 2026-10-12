@@ -1,0 +1,67 @@
+{
+  "address": "750 Park Avenue Middletown NJ 07718",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00271824",
+  "current_status": "Scheduled",
+  "defendant": "John E. Romano et al.",
+  "description": "Approximate Dimensions: 140 x 133\nNearest Cross Street: Marvin Road\nUpset price $159,460.78 (Note, this is a good faith estimate of the upset price at Sheriff’s sale that is being provided to you pursuant to N.J.S.A. (as amended)\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+  "extracted": {
+    "upset_amount": 159460.78
+  },
+  "fields": {
+    "Address": "750 Park Avenue\nMiddletown NJ 07718",
+    "Approx. Judgment*": "$145,642.83",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F00271824",
+    "Defendant": "John E. Romano et al.",
+    "Description": "Approximate Dimensions: 140 x 133\nNearest Cross Street: Marvin Road\nUpset price $159,460.78 (Note, this is a good faith estimate of the upset price at Sheriff’s sale that is being provided to you pursuant to N.J.S.A. (as amended)\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+    "Parcel #": "Tax Lot# 9 Block# 640 located on the Tax Map of Middletown",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the Benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-1",
+    "Property Note": "",
+    "Sales Date": "2/18/2025",
+    "Sheriff #": "FOR-24001830"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 145642.83,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "750 Park Avenue Middletown NJ 07718",
+    "defendant": "John E. Romano et al.",
+    "listing_status": "Reinstated",
+    "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the Benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-1",
+    "sale_date": "2025-02-18"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot# 9 Block# 640 located on the Tax Map of Middletown",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the Benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-1",
+  "property_note": null,
+  "sale_date": "2025-02-18",
+  "sheriff_number": "FOR-24001830",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-18",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Scheduled"
+    }
+  ]
+}

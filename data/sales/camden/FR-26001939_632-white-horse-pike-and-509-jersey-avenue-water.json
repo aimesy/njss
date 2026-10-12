@@ -1,0 +1,53 @@
+{
+  "address": "632 WHITE HORSE PIKE AND 509 JERSEY AVENUE WATERFORD TWP. NJ",
+  "attorney": "DEMBO, BROWN & BURNS LLP",
+  "attorney_phone": "856-354-8866 EXT. 117",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F153126",
+  "current_status": "Defendant Adjournment",
+  "defendant": "632 WHP, LLC; RICHARD CROFT AND STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "632 WHITE HORSE PIKE\nAND 509 JERSEY AVENUE\nWATERFORD TWP. NJ",
+    "Approx. Upset*": "$176,039.89",
+    "Attorney": "DEMBO, BROWN & BURNS LLP",
+    "Attorney Phone": "856-354-8866 EXT. 117",
+    "Court Case #": "F153126",
+    "Defendant": "632 WHP, LLC; RICHARD CROFT AND STATE OF NEW JERSEY,",
+    "Parcel #": "Block 2313, Lots 1 and 2",
+    "Plaintiff": "ANTHONY ALBERTO AND PATRICIA ALBERTO,",
+    "Property Note": "** Subject to As to Block 2313 Lot 1 — 3 rd qrt real estate taxes as of 8-4-2026 of $4,508.55\nAs to Block 2313 Lot 2 — 3rd qtr real estate taxes as of 8-4-2026 of $ 508.20",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001939"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "632 WHITE HORSE PIKE AND 509 JERSEY AVENUE WATERFORD TWP. NJ",
+    "defendant": "632 WHP, LLC; RICHARD CROFT AND STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "ANTHONY ALBERTO AND PATRICIA ALBERTO,",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 2313, Lots 1 and 2",
+  "plaintiff": "ANTHONY ALBERTO AND PATRICIA ALBERTO,",
+  "property_note": "** Subject to As to Block 2313 Lot 1 — 3 rd qrt real estate taxes as of 8-4-2026 of $4,508.55\nAs to Block 2313 Lot 2 — 3rd qtr real estate taxes as of 8-4-2026 of $ 508.20",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001939",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 176039.89,
+  "upset_amount_label": "Approx. Upset*"
+}

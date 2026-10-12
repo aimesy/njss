@@ -1,0 +1,64 @@
+{
+  "address": "435 Drummond Ave Neptune NJ 07753",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00075125",
+  "current_status": "Scheduled",
+  "defendant": "Stephney Grant et al.",
+  "description": "Dimensions of lot: 25 feet wide by 100 feet long\nNearest Cross Street: McBride Avenue\nEstimated upset bid amount: $227,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNOTICE THROUGH PUBLICATION.\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS, OR OTHER CHARGES, AND ANY SUCH TAXES, CHANGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2025 Qtr 3 Due: 08/01/2025 $1,613.14 OPEN\n2025 Qtr 4 Due: 11/01/2025 $1,613.14 OPEN\n2026 Qtr 1 Due: 02/01/2026 $1,380.46 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,380.46 OPEN\nSewer: Neptune Township 25 Neptune Blvd Neptune, NJ 07753, 732-988-5200, Acct: 35660 0 07/01/2025-12/31/2025 $230.00 OPEN $464.36 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "25",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "435 Drummond Ave\nNeptune NJ 07753",
+    "Approx. Judgment*": "$203,686.28",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00075125",
+    "Defendant": "Stephney Grant et al.",
+    "Description": "Dimensions of lot: 25 feet wide by 100 feet long\nNearest Cross Street: McBride Avenue\nEstimated upset bid amount: $227,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNOTICE THROUGH PUBLICATION.\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS, OR OTHER CHARGES, AND ANY SUCH TAXES, CHANGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2025 Qtr 3 Due: 08/01/2025 $1,613.14 OPEN\n2025 Qtr 4 Due: 11/01/2025 $1,613.14 OPEN\n2026 Qtr 1 Due: 02/01/2026 $1,380.46 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,380.46 OPEN\nSewer: Neptune Township 25 Neptune Blvd Neptune, NJ 07753, 732-988-5200, Acct: 35660 0 07/01/2025-12/31/2025 $230.00 OPEN $464.36 OPEN PLUS PENALTY",
+    "Parcel #": "Tax Lot: 4 fka 254 Block 617 fka 223\nTax map of Township of Neptune",
+    "Plaintiff": "The Bank of New York Mellon, f/k/a The Bank of New York as successor in interest to JPMorgan Chase Bank, N.A., as indenture Trustee for Novastar Mortgage Funding Trust, Series 2006-1, Novastar Home Equity Loan Asset-Backed Certificates, Series 2006-1",
+    "Property Note": "",
+    "Sales Date": "11/10/2025",
+    "Sheriff #": "FOR-25001450"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 203686.28,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "435 Drummond Ave Neptune NJ 07753",
+    "defendant": "Stephney Grant et al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "The Bank of New York Mellon, f/k/a The Bank of New York as successor in interest to JPMorgan Chase Bank, N.A., as indenture Trustee for Novastar Mortgage Funding Trust, Series 2006-1, Novastar Home Equity Loan Asset-Backed Certificates, Series 2006-1",
+    "sale_date": "2025-11-10"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 4 fka 254 Block 617 fka 223 Tax map of Township of Neptune",
+  "plaintiff": "The Bank of New York Mellon, f/k/a The Bank of New York as successor in interest to JPMorgan Chase Bank, N.A., as indenture Trustee for Novastar Mortgage Funding Trust, Series 2006-1, Novastar Home Equity Loan Asset-Backed Certificates, Series 2006-1",
+  "property_note": null,
+  "sale_date": "2025-11-10",
+  "sheriff_number": "FOR-25001450",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-10",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Scheduled"
+    }
+  ]
+}

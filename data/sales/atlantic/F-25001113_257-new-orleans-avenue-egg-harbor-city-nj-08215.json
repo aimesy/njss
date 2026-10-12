@@ -1,0 +1,58 @@
+{
+  "address": "257 New Orleans Avenue Egg Harbor City NJ 08215",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006099-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Devyaniben Patel, Mr. Patel, husband of Devyaniben Patel and State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "257 New Orleans Avenue\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$123,032.33",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-006099-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Devyaniben Patel, Mr. Patel, husband of Devyaniben Patel and State of New Jersey",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "F-25001113",
+    "Upset Amount": "$137,605.70"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 123032.33,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "257 New Orleans Avenue Egg Harbor City NJ 08215",
+    "defendant": "Devyaniben Patel, Mr...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-16",
+  "sheriff_number": "F-25001113",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 137605.7,
+  "upset_amount_label": "Upset Amount"
+}

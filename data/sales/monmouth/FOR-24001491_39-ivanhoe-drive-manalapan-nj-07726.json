@@ -1,0 +1,63 @@
+{
+  "address": "39 Ivanhoe Drive Manalapan NJ 07726",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01801718",
+  "current_status": "Scheduled",
+  "defendant": "Casey Crehan, et al",
+  "description": "Approximate dimensions: 96.50 x 180.00 Feet\nNearest Cross Street: Templay Road\nSubject to: Sewer in the amount of $125.00, open plus penalty.\nUpset Price:1,155,105.70\nOccupancy status: Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "39 Ivanhoe Drive\nManalapan NJ 07726",
+    "Approx. Judgment*": "$972,783.21",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F01801718",
+    "Defendant": "Casey Crehan, et al",
+    "Description": "Approximate dimensions: 96.50 x 180.00 Feet\nNearest Cross Street: Templay Road\nSubject to: Sewer in the amount of $125.00, open plus penalty.\nUpset Price:1,155,105.70\nOccupancy status: Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 29, Block 301 Tax Map of the Township of Manalapan",
+    "Plaintiff": "Manufactures and Traders Trust Company, a/k/a M&T Bank, successor by merger with Hudson City Savings Bank",
+    "Property Note": "",
+    "Sales Date": "1/6/2025",
+    "Sheriff #": "FOR-24001491"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 972783.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "39 Ivanhoe Drive Manalapan NJ 07726",
+    "defendant": "Casey Crehan, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Manufactures and Traders Trust Company, a/k/a M&T Bank, successor by merger with Hudson City Savings Bank",
+    "sale_date": "2025-01-06"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 29, Block 301 Tax Map of the Township of Manalapan",
+  "plaintiff": "Manufactures and Traders Trust Company, a/k/a M&T Bank, successor by merger with Hudson City Savings Bank",
+  "property_note": null,
+  "sale_date": "2025-01-06",
+  "sheriff_number": "FOR-24001491",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-06",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Scheduled"
+    }
+  ]
+}

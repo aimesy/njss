@@ -1,0 +1,66 @@
+{
+  "address": "24 East Cambridge Avenue Linwood NJ 08221",
+  "attorney": "Duane Morris LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001182-17",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Donald Kelly; Amy Marie Kelly a/k/a Amy Kelly; the United States of America; the State of New Jersey; Lilliston Chrysler Dodge Jeep; HGR, LLC; Michele Matrone; Helen Pomata, individually and in her capacity as Guardian of the Property of Margaret Anne Hope; Sharon Joyce Erenler; Ali Cem Erenler",
+  "extracted": {},
+  "fields": {
+    "Address": "24 East Cambridge Avenue\nLinwood NJ 08221",
+    "Approx. Judgment*": "$1,090,983.14",
+    "Attorney": "Duane Morris LLP",
+    "Court Case #": "F-001182-17",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Donald Kelly; Amy Marie Kelly a/k/a Amy Kelly; the United States of America; the State of New Jersey; Lilliston Chrysler Dodge Jeep; HGR, LLC; Michele Matrone; Helen Pomata, individually and in her capacity as Guardian of the Property of Margaret Anne Hope; Sharon Joyce Erenler; Ali Cem Erenler",
+    "Plaintiff": "TD Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "3/12/2026",
+    "Sheriff #": "F-25001107",
+    "Upset Amount": "$881,083.30"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1090983.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "24 East Cambridge Avenue Linwood NJ 08221",
+    "defendant": "Donald Kelly; Amy Ma...",
+    "listing_status": null,
+    "plaintiff": "TD Bank, N.A....",
+    "sale_date": "2026-03-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "TD Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-03-12",
+  "sheriff_number": "F-25001107",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-03-12",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-03-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 881083.3,
+  "upset_amount_label": "Upset Amount"
+}

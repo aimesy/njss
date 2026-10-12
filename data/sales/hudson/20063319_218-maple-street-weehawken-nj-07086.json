@@ -1,0 +1,59 @@
+{
+  "address": "218 MAPLE STREET WEEHAWKEN NJ 07086",
+  "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRE & NEWBY LLP",
+  "attorney_phone": "856-667-9111",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011129-25 (CWPP INELIGIBLE)",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "218 MAPLE JL LLC, JOSEPH LOPEZ, SHAZEEDA B. ZAMRUDEEN AND BEBI W. BONIFACIO",
+  "description": "LOT 26 IN BLOCK 30\nDIMENSIONS (APPROX.): 25X100\nNEAREST CROSS STREET: PALISADE AVENUE",
+  "extracted": {
+    "block": "30",
+    "lot": "26"
+  },
+  "fields": {
+    "Address": "218 MAPLE STREET\nWEEHAWKEN NJ 07086",
+    "Attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRE & NEWBY LLP",
+    "Attorney Phone": "856-667-9111",
+    "Court Case #": "F-011129-25 (CWPP INELIGIBLE)",
+    "Defendant": "218 MAPLE JL LLC, JOSEPH LOPEZ, SHAZEEDA B. ZAMRUDEEN AND BEBI W. BONIFACIO",
+    "Description": "LOT 26 IN BLOCK 30\nDIMENSIONS (APPROX.): 25X100\nNEAREST CROSS STREET: PALISADE AVENUE",
+    "Good Faith Upset*": "",
+    "Judgment": "$1,037,464.21",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 66729",
+    "Property Note": "",
+    "Sales Date": "8/13/2026",
+    "Sheriff #": "20063319"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1037464.21,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "218 MAPLE STREET WEEHAWKEN NJ 07086",
+    "defendant": "218 MAPLE JL LLC, JOSEPH LOPEZ, SHAZEEDA B. ZAMRUDEEN AND BEBI W. BONIFACIO",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 66729",
+    "sale_date": "2026-08-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 66729",
+  "property_note": null,
+  "sale_date": "2026-08-13",
+  "sheriff_number": "20063319",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

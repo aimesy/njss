@@ -1,0 +1,74 @@
+{
+  "address": "201 New Orleans Avenue Egg Harbor City NJ 08215",
+  "attorney": "LOGS Legal Group LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000642-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Ina K. Duran, His/her heirs, Devisees and Personal Representatives and his/her, their or any of their successors in right, title and interest; Hurley T. McCall; Brandon Reese Duran; State of New Jersey; United States of America; Solarcity Corporation Telsa, Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "201 New Orleans Avenue\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$135,990.60",
+    "Attorney": "LOGS Legal Group LLP",
+    "Court Case #": "F-000642-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Ina K. Duran, His/her heirs, Devisees and Personal Representatives and his/her, their or any of their successors in right, title and interest; Hurley T. McCall; Brandon Reese Duran; State of New Jersey; United States of America; Solarcity Corporation Telsa, Inc",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "6/26/2025",
+    "Sheriff #": "F-25000045",
+    "Upset Amount": "$158,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 135990.6,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "201 New Orleans Avenue Egg Harbor City NJ 08215",
+    "defendant": "Ina K. Duran, His/he...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2025-06-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-06-26",
+  "sheriff_number": "F-25000045",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-26",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-06-12",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 158000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,80 @@
+{
+  "address": "17 Lydia Place Port Monmouth NJ 07758",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01271223",
+  "current_status": "Scheduled",
+  "defendant": "Joseph J. Quigley a/k/a Joseph John Quigley, et al.",
+  "description": "Dimensions of Lot: 75 feet wide by 160 feet long\nNearest Cross Street: Wilson Ave\nEstimated upset bid amount: $461,000.00_, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 1 Due: 02/01/2026 $2,715.56 OPEN\n2026 Qtr 2 Due: 05/01/2026 $2,715.55 OPEN\nSewer: Township of Middletown Sewerage Authority PO Box 281 Middletown, NJ 07748 732 495-1010 Acct: 26679 0 08/01/2025 - 10/31/2025 $120.00 OPEN $1036.67 OPEN\nGeneral Remark: SUBJECT TO TAX SALE SCHEDULED FOR 12/17/2025",
+  "extracted": {
+    "lot": "75",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "17 Lydia Place\nPort Monmouth NJ 07758",
+    "Approx. Judgment*": "$399,727.58",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F01271223",
+    "Defendant": "Joseph J. Quigley a/k/a Joseph John Quigley, et al.",
+    "Description": "Dimensions of Lot: 75 feet wide by 160 feet long\nNearest Cross Street: Wilson Ave\nEstimated upset bid amount: $461,000.00_, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 1 Due: 02/01/2026 $2,715.56 OPEN\n2026 Qtr 2 Due: 05/01/2026 $2,715.55 OPEN\nSewer: Township of Middletown Sewerage Authority PO Box 281 Middletown, NJ 07748 732 495-1010 Acct: 26679 0 08/01/2025 - 10/31/2025 $120.00 OPEN $1036.67 OPEN\nGeneral Remark: SUBJECT TO TAX SALE SCHEDULED FOR 12/17/2025",
+    "Parcel #": "Tax Lot 11.16 F/K/A 93.20 Block 146 F/K/A 834.09 Tax Map of Township of Middletown",
+    "Plaintiff": "Fifth Third Bank, National Association",
+    "Property Note": "",
+    "Sales Date": "2/26/2026",
+    "Sheriff #": "FOR-25000484"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 399727.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "17 Lydia Place Port Monmouth NJ 07758",
+    "defendant": "Joseph J. Quigley a/k/a Joseph John Quigley, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Fifth Third Bank, National Association",
+    "sale_date": "2026-02-26"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 11.16 F/K/A 93.20 Block 146 F/K/A 834.09 Tax Map of Township of Middletown",
+  "plaintiff": "Fifth Third Bank, National Association",
+  "property_note": null,
+  "sale_date": "2026-02-26",
+  "sheriff_number": "FOR-25000484",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-26",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Scheduled"
+    }
+  ]
+}

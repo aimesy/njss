@@ -1,0 +1,53 @@
+{
+  "address": "138 EAST MONROE AVENUE MAGNOLIA NJ 08049",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01394225",
+  "current_status": "Scheduled",
+  "defendant": "DANIEL P. GORMLEY; MRS. DANIEL P. GORMLEY, WIFE OF DANIEL P. GORMLEY; CRISTIN WASILUK; SUNRUN, INC. AND DISCOVER BANK",
+  "extracted": {},
+  "fields": {
+    "Address": "138 EAST MONROE AVENUE\nMAGNOLIA NJ 08049",
+    "Approx. Upset*": "$157,907.21",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01394225",
+    "Defendant": "DANIEL P. GORMLEY; MRS. DANIEL P. GORMLEY, WIFE\nOF DANIEL P. GORMLEY; CRISTIN WASILUK; SUNRUN, INC. AND\nDISCOVER BANK",
+    "Parcel #": "LOT 19, BLOCK 3.05 FKA 41",
+    "Plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+    "Property Note": "Taxes – due 5/1/2026 $1,711.13 open\nSewer – 07/01/2026–12/31/2026 $60.00 open and due 09/01/2026 $60.00 open plus penalty; owed in arrears\nCCMUA – 03/01/2026–05/31/2026 $93.00 open plus penalty $422.11 open plus penalty; owed in arrears",
+    "Sales Date": "6/12/2026",
+    "Sheriff #": "FR-26001258"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "138 EAST MONROE AVENUE MAGNOLIA NJ 08049",
+    "defendant": "DANIEL P. GORMLEY; MRS. DANIEL P. GORMLEY, WIFE \nOF DANIEL P. GORMLEY; CRISTIN WASILUK; SUNRUN, INC. AND \nDISCOVER BANK",
+    "listing_status": null,
+    "plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+    "sale_date": "2026-06-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 19, BLOCK 3.05 FKA 41",
+  "plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+  "property_note": "Taxes – due 5/1/2026 $1,711.13 open\nSewer – 07/01/2026–12/31/2026 $60.00 open and due 09/01/2026 $60.00 open plus penalty; owed in arrears\nCCMUA – 03/01/2026–05/31/2026 $93.00 open plus penalty $422.11 open plus penalty; owed in arrears",
+  "sale_date": "2026-06-12",
+  "sheriff_number": "FR-26001258",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-12",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 157907.21,
+  "upset_amount_label": "Approx. Upset*"
+}

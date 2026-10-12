@@ -1,0 +1,73 @@
+{
+  "address": "124 DOBBS AVE BELLMAWR NJ 08031",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01229622",
+  "current_status": "Cancelled",
+  "defendant": "THOMAS LEONARD A/K/A THOMAS J LEONARD A/K/A THOMAS J. LEONARD IV A/K/A THOMAS LEONARD IV; MRS LEONARD, SPOUSE OF THOMAS LEONARD A/K/A THOMAS J LEONARD A/K/A THOMAS J. LEONARD IV A/K/A THOMAS LEONARD IV; STACY LEONARD; MR. LEONARD, SPOUSE OF STACY LEONARD; PROGRESSIVE GARDEN STATE INSURANCE COMPANY, INDIVIDUALLY, SUBROGEE JERALD L KOLLOCK SR; PUBLIC SERVICE ELECTRIC & GAS; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "124 DOBBS AVE\nBELLMAWR NJ 08031",
+    "Approx. Upset*": "$229,858.95",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01229622",
+    "Defendant": "THOMAS LEONARD A/K/A THOMAS J LEONARD A/K/A THOMAS J.\nLEONARD IV A/K/A THOMAS LEONARD IV; MRS LEONARD, SPOUSE\nOF THOMAS LEONARD A/K/A THOMAS J LEONARD A/K/A THOMAS J.\nLEONARD IV A/K/A THOMAS LEONARD IV; STACY LEONARD;\nMR. LEONARD, SPOUSE OF STACY LEONARD; PROGRESSIVE GARDEN\nSTATE INSURANCE COMPANY, INDIVIDUALLY, SUBROGEE JERALD L\nKOLLOCK SR; PUBLIC SERVICE ELECTRIC & GAS; UNITED STATES\nOF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS1,",
+    "Property Note": "",
+    "Sales Date": "3/26/2026",
+    "Sheriff #": "FR-23003415"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "124 DOBBS AVE BELLMAWR NJ 08031",
+    "defendant": "THOMAS LEONARD A/K/A THOMAS J LEONARD A/K/A THOMAS J. \nLEONARD IV A/K/A THOMAS LEONARD IV; MRS LEONARD, SPOUSE \nOF THOMAS LEONARD A/K/A THOMAS J LEONARD A/K/A THOMAS J. \n LEONARD IV A/K/A THOMAS LEONARD IV; STACY LEONARD; \nMR. LEONARD, SPOUSE OF STACY LEONARD; PROGRESSIVE GARDEN \nSTATE INSURANCE COMPANY, INDIVIDUALLY, SUBROGEE JERALD L \n KOLLOCK SR; PUBLIC SERVICE ELECTRIC & GAS; UNITED STATES \nOF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS1,",
+    "sale_date": "2026-03-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS1,",
+  "property_note": null,
+  "sale_date": "2026-03-26",
+  "sheriff_number": "FR-23003415",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-02-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-03-20",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-04-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-05-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 229858.95,
+  "upset_amount_label": "Approx. Upset*"
+}

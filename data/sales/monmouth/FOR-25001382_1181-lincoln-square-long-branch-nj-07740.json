@@ -1,0 +1,51 @@
+{
+  "address": "1181 Lincoln Square Long Branch NJ 07740",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00051525",
+  "current_status": "Settled",
+  "defendant": "Margaret A. Maloney, et al",
+  "description": "Dimensions of Lot (approximately): 14'x73' approx\nNearest Cross Street: Lincoln Avenue\nApprox Upset Price - $134,327.35\nProperty Status - Borrower Occupied\nSubject to Senior Lien Mortgage recorded 2/11/2022 BK 9578, PG 607 in the amount of $248,000.00, interested buyers are to obtain their own payoff amount.\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 134327.35
+  },
+  "fields": {
+    "Address": "1181 Lincoln Square\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$121,650.94",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F00051525",
+    "Defendant": "Margaret A. Maloney, et al",
+    "Description": "Dimensions of Lot (approximately): 14'x73' approx\nNearest Cross Street: Lincoln Avenue\nApprox Upset Price - $134,327.35\nProperty Status - Borrower Occupied\nSubject to Senior Lien Mortgage recorded 2/11/2022 BK 9578, PG 607 in the amount of $248,000.00, interested buyers are to obtain their own payoff amount.\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Block 11 Lot 7 Tax Map of City of Long Branch",
+    "Plaintiff": "Citizens Bank N.A.",
+    "Property Note": "",
+    "Sales Date": "8/22/2025",
+    "Sheriff #": "FOR-25001382"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 121650.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1181 Lincoln Square Long Branch NJ 07740",
+    "defendant": "Margaret A. Maloney, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Citizens Bank N.A.",
+    "sale_date": "2025-08-22"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 11 Lot 7 Tax Map of City of Long Branch",
+  "plaintiff": "Citizens Bank N.A.",
+  "property_note": null,
+  "sale_date": "2025-08-22",
+  "sheriff_number": "FOR-25001382",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-08-22",
+      "status": "Settled"
+    }
+  ]
+}

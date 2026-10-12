@@ -1,0 +1,95 @@
+{
+  "address": "20 Church Street Allentown NJ 08501",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00405523",
+  "current_status": "Scheduled",
+  "defendant": "Mark Reme aka Mark E. Reme, et al.",
+  "description": "Dimensions: 47 Ft x 181 IRR\nNearest Cross Street: South Main Street\nPlaintiff's good faith estimate of its upset price is: $328,405.11\nThe occupancy status of the property is: OCCUPIED by UNKNOWN\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney",
+  "extracted": {
+    "upset_amount": 328405.11
+  },
+  "fields": {
+    "Address": "20 Church Street\nAllentown NJ 08501",
+    "Approx. Judgment*": "$313,337.38",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F00405523",
+    "Defendant": "Mark Reme aka Mark E. Reme, et al.",
+    "Description": "Dimensions: 47 Ft x 181 IRR\nNearest Cross Street: South Main Street\nPlaintiff's good faith estimate of its upset price is: $328,405.11\nThe occupancy status of the property is: OCCUPIED by UNKNOWN\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney",
+    "Parcel #": "Lot: 56 Block: 17 on the official Tax Map of the Borough of Allentown",
+    "Plaintiff": "Crosscountry Mortgage, LLC fka Crosscountry Mortgage, Inc.",
+    "Property Note": "",
+    "Sales Date": "10/16/2025",
+    "Sheriff #": "FOR-24001451"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 313337.38,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "20 Church Street Allentown NJ 08501",
+    "defendant": "Mark Reme aka Mark E. Reme, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Crosscountry Mortgage, LLC fka Crosscountry Mortgage, Inc.",
+    "sale_date": "2025-10-16"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 56 Block: 17 on the official Tax Map of the Borough of Allentown",
+  "plaintiff": "Crosscountry Mortgage, LLC fka Crosscountry Mortgage, Inc.",
+  "property_note": null,
+  "sale_date": "2025-10-16",
+  "sheriff_number": "FOR-24001451",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-16",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "address": "150 LAWRENCE DRIVE PARAMUS NJ 07652",
+  "attorney": "GEIST LAW",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01191523",
+  "current_status": "Cancelled",
+  "defendant": "ABODE S&T LLC",
+  "description": "NOT A \"RESIDENTIAL PROPERTY\" AS DEFINED UNDER THE CWPP; THEREFORE, IT IS NOT SUBJECT TO ITS PROVISIONS.",
+  "extracted": {},
+  "fields": {
+    "Address": "150 LAWRENCE DRIVE\nPARAMUS NJ 07652",
+    "Approx. Upset*": "$831,768.46",
+    "Attorney": "GEIST LAW",
+    "Court Case #": "F01191523",
+    "Defendant": "ABODE S&T LLC",
+    "Description": "NOT A \"RESIDENTIAL PROPERTY\" AS DEFINED UNDER THE CWPP; THEREFORE, IT IS NOT SUBJECT TO ITS PROVISIONS.",
+    "Parcel #": "LOT 6, BLOCK 2601",
+    "Plaintiff": "150 LAWRENCE DR LLC",
+    "Property Note": "",
+    "Sales Date": "11/7/2025",
+    "Sheriff #": "F-25001429"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "150 LAWRENCE DRIVE PARAMUS NJ 07652",
+    "defendant": "ABODE S&T LLC",
+    "listing_status": null,
+    "plaintiff": "150 LAWRENCE DR LLC",
+    "sale_date": "2025-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 6, BLOCK 2601",
+  "plaintiff": "150 LAWRENCE DR LLC",
+  "property_note": null,
+  "sale_date": "2025-11-07",
+  "sheriff_number": "F-25001429",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-07-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-26",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 831768.46,
+  "upset_amount_label": "Approx. Upset*"
+}

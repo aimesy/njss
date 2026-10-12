@@ -1,0 +1,76 @@
+{
+  "address": "565 WILLOW AVENUE GARWOOD NJ 07027",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00694922",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "CHRISTY SWOPE; RAYMOND F. SWOPE, JR.; COUNTY OF MIDDLESEX; STATE OF NEW JERSEY; CYPRESS FINANCIAL RECOVERIES, LLC, RAYMOND F. SWOPE, OCCUPANT",
+  "description": "LOT 1 BLOCK 305",
+  "extracted": {
+    "block": "305",
+    "lot": "1"
+  },
+  "fields": {
+    "Address": "565 WILLOW AVENUE\nGARWOOD NJ 07027",
+    "Approx. Upset*": "$370,034.93",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F00694922",
+    "Defendant": "CHRISTY SWOPE; RAYMOND F. SWOPE, JR.; COUNTY OF MIDDLESEX; STATE OF NEW JERSEY; CYPRESS FINANCIAL RECOVERIES, LLC, RAYMOND F. SWOPE, OCCUPANT",
+    "Description": "LOT 1 BLOCK 305",
+    "Parcel #": "LOT 1 BLOCK 305",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRPL TRUST 2019-1",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "CH-24002671"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "565 WILLOW AVENUE GARWOOD NJ 07027",
+    "defendant": "CHRISTY SWOPE; RAYMOND F. SWOPE, JR.; COUNTY OF MIDDLESEX; STATE OF NEW JERSEY; CYPRESS FINANCIAL RECOVERIES, LLC, RAYMOND F. SWOPE, OCCUPANT",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRPL TRUST 2019-1",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 1 BLOCK 305",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRPL TRUST 2019-1",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "CH-24002671",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-01-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-26",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-03-26",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-22",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 370034.93,
+  "upset_amount_label": "Approx. Upset*"
+}

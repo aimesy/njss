@@ -1,0 +1,51 @@
+{
+  "address": "16 Framingham Road Ocean Township NJ",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00499624",
+  "current_status": "Settled",
+  "defendant": "Liam Davis and Rosa Davis, Husband and Wife; et al",
+  "description": "Dimensions of the Lot are (Approximately) 21.73x58.92x 50.00x204.22x150.00x171.68x39.27\nNearest Cross Street: Nottingham Road\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe occupancy status of the subject property is unknown.\nThe Approximate upset sum is $601,762.37 calculated through January 16,2025 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "16 Framingham Road\nOcean Township NJ",
+    "Approx. Judgment*": "$564,546.73",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F00499624",
+    "Defendant": "Liam Davis and Rosa Davis, Husband and Wife; et al",
+    "Description": "Dimensions of the Lot are (Approximately) 21.73x58.92x 50.00x204.22x150.00x171.68x39.27\nNearest Cross Street: Nottingham Road\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe occupancy status of the subject property is unknown.\nThe Approximate upset sum is $601,762.37 calculated through January 16,2025 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+    "Parcel #": "Tax Lot 3 Block 35.04 f/k/a Lot 3 Block 35.K Tax Map of the Township of Ocean",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Property Note": "",
+    "Sales Date": "2/27/2025",
+    "Sheriff #": "FOR-25000180"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 564546.73,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "16 Framingham Road Ocean Township NJ",
+    "defendant": "Liam Davis and Rosa Davis, Husband and Wife; et al",
+    "listing_status": "Settled",
+    "plaintiff": "Nationstar Mortgage LLC",
+    "sale_date": "2025-02-27"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 3 Block 35.04 f/k/a Lot 3 Block 35.K Tax Map of the Township of Ocean",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "property_note": null,
+  "sale_date": "2025-02-27",
+  "sheriff_number": "FOR-25000180",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-27",
+      "status": "Settled"
+    }
+  ]
+}

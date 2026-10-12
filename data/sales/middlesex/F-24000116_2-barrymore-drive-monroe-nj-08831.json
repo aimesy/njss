@@ -1,0 +1,56 @@
+{
+  "address": "2 BARRYMORE DRIVE MONROE NJ 08831",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F02427516",
+  "current_status": "Bankruptcy",
+  "defendant": "BETTY LAMAS SABORIDO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$746,556.19",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F02427516",
+    "Defendant": "BETTY LAMAS SABORIDO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 6 BLOCK 77.2 AKA 77.02",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR GSR MORTGAGE LOAN TRUST 2006-1F, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1F",
+    "Property Address": "2 BARRYMORE DRIVE\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "11/21/2024",
+    "Sheriff #": "F-24000116"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 746556.19,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2 BARRYMORE DRIVE MONROE NJ 08831",
+    "defendant": "BETTY LAMAS SABORIDO, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR GSR MORTGAGE LOAN TRUST 2006-1F, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1F",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 6 BLOCK 77.2 AKA 77.02",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR GSR MORTGAGE LOAN TRUST 2006-1F, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1F",
+  "property_note": null,
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24000116",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

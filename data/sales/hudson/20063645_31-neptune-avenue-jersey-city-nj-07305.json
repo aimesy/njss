@@ -1,0 +1,60 @@
+{
+  "address": "31 NEPTUNE AVENUE JERSEY CITY NJ 07305",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-000996-26",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "JOSE A. DE JESUS, JR A/K/A JOSE A. DE JESUS A/K/A JOSE A. DEJESUS; UNITED STATES OF AMERICA; CHRIST HOSPITAL; EMCC INC ASSIGNEE OF CHARLES M. FORMAN CHAPTER 7 TRUSTEE FOR ESTATE OF UPSALA COLLEGE; SUPREME SECURITY SYSTEMS, INC.; STATE OF NEW JERSEY",
+  "description": "Tax LOT 12 FKA 20-A BLOCK 30106 FKA 1428\nDimensions of Lot: 35.94 feet wide by 92.50 feet long\nNearest Cross Street: Princeton Avenue\nEstimated upset bid amount: $280,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nWater: Veolia Water New Jersey - JCMUA 500 Frank W. Burr Blvd. Teaneck, NJ 07666 800422-5987\nAcct: 30305680640000 To: 06/08/2026 $27,550.69 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO ADDL 6% PENALTY FOR BALANCES OVER $10,000.00",
+  "extracted": {
+    "block": "30106",
+    "lot": "12",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "31 NEPTUNE AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-000996-26",
+    "Defendant": "JOSE A. DE JESUS, JR A/K/A JOSE A. DE JESUS A/K/A JOSE A. DEJESUS; UNITED STATES OF AMERICA; CHRIST HOSPITAL; EMCC INC ASSIGNEE OF CHARLES M. FORMAN CHAPTER 7 TRUSTEE FOR ESTATE OF UPSALA COLLEGE; SUPREME SECURITY SYSTEMS, INC.; STATE OF NEW JERSEY",
+    "Description": "Tax LOT 12 FKA 20-A BLOCK 30106 FKA 1428\nDimensions of Lot: 35.94 feet wide by 92.50 feet long\nNearest Cross Street: Princeton Avenue\nEstimated upset bid amount: $280,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nWater: Veolia Water New Jersey - JCMUA 500 Frank W. Burr Blvd. Teaneck, NJ 07666 800422-5987\nAcct: 30305680640000 To: 06/08/2026 $27,550.69 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO ADDL 6% PENALTY FOR BALANCES OVER $10,000.00",
+    "Good Faith Upset*": "$280,000.00",
+    "Judgment": "$260,467.07",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "20063645"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 260467.07,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "31 NEPTUNE AVENUE JERSEY CITY NJ 07305",
+    "defendant": "JOSE A. DE JESUS, JR A/K/A JOSE A. DE JESUS A/K/A JOSE A. DEJESUS; UNITED STATES OF AMERICA; CHRIST HOSPITAL; EMCC INC ASSIGNEE OF CHARLES M. FORMAN CHAPTER 7 TRUSTEE FOR ESTATE OF UPSALA COLLEGE; SUPREME SECURITY SYSTEMS, INC.; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "20063645",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 280000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

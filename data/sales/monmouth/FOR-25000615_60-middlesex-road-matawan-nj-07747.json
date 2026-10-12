@@ -1,0 +1,56 @@
+{
+  "address": "60 Middlesex Road Matawan NJ 07747",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F753624",
+  "current_status": "Scheduled",
+  "defendant": "Ana Maria Dasilva, et als.",
+  "description": "Dimension of Lot Approximately: 1.120 AC\nNearest Cross Street: Ravine Drive\nBeginning at a monument along the Southeasternly line of Middlesex Road, Southerly 1,217.32 feet from the projected interesection of the Southwesterly line of Ravine Drive with the Southeasterly line of Moddlesex Road and thence,\nPrior Liens/Encumbrances\nWater Open Plus Penalty $110.31\nSewer Open Plus Penalty $525.80\nMaintenance Fees 3rd Qtr Open Plus Penalty $1409.50\nMaintenance Fees 4th Qtr Open Plus Penalty $1305.00\nTotal As Of March 20, 2025: $3,350.61\nGood faith estimate of upset price: $282,132.63\nThe occupancy status of the property being foreclosed herin is presentaly unknown.",
+  "extracted": {
+    "lot": "Approximately",
+    "upset_amount": 282132.63
+  },
+  "fields": {
+    "Address": "60 Middlesex Road\nMatawan NJ 07747",
+    "Approx. Judgment*": "$252,312.52",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F753624",
+    "Defendant": "Ana Maria Dasilva, et als.",
+    "Description": "Dimension of Lot Approximately: 1.120 AC\nNearest Cross Street: Ravine Drive\nBeginning at a monument along the Southeasternly line of Middlesex Road, Southerly 1,217.32 feet from the projected interesection of the Southwesterly line of Ravine Drive with the Southeasterly line of Moddlesex Road and thence,\nPrior Liens/Encumbrances\nWater Open Plus Penalty $110.31\nSewer Open Plus Penalty $525.80\nMaintenance Fees 3rd Qtr Open Plus Penalty $1409.50\nMaintenance Fees 4th Qtr Open Plus Penalty $1305.00\nTotal As Of March 20, 2025: $3,350.61\nGood faith estimate of upset price: $282,132.63\nThe occupancy status of the property being foreclosed herin is presentaly unknown.",
+    "Parcel #": "Tax Lot No. 14 Block No. 71 Tax Map of Borough of Matawan",
+    "Plaintiff": "PennyMac Loan Services, LLC",
+    "Property Note": "",
+    "Sales Date": "5/12/2025",
+    "Sheriff #": "FOR-25000615"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 252312.52,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "60 Middlesex Road Matawan NJ 07747",
+    "defendant": "Ana Maria Dasilva, et als.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "PennyMac Loan Services, LLC",
+    "sale_date": "2025-05-12"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 14 Block No. 71 Tax Map of Borough of Matawan",
+  "plaintiff": "PennyMac Loan Services, LLC",
+  "property_note": null,
+  "sale_date": "2025-05-12",
+  "sheriff_number": "FOR-25000615",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-12",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Scheduled"
+    }
+  ]
+}

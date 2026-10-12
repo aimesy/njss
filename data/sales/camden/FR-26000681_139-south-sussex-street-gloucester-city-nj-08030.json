@@ -1,0 +1,53 @@
+{
+  "address": "139 SOUTH SUSSEX STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01367425",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "JOEL C. CLARKE, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "139 SOUTH SUSSEX STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$270,498.47",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F01367425",
+    "Defendant": "JOEL C. CLARKE, ET AL.",
+    "Parcel #": "BLOCK: 64 LOT 16",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "GLOUCESTER CITY HOLDS A CLAIM IN THE AMOUNT OF $82.00 PLUS PENALTY FOR WATER, $105.00PLUS PENALTY FOR SEWER AS OF 02/24/2026\nCCMUA HOLDS A CLAIM IN THE AMOUNT OF $93.00 PLUS PENALTY AND $456.85 PLUS PENALTY OWED IN ARREARS AS OF 02/24/2026.\nPRO CAP 8 FBO FIRSTURST BANK HOLDS A TAX SALE CERTIFICATE IN THE AMOUNT OF$627.50 PLUS SUBSEQUENT TAXES AND INTEREST AS OF 02/24/2026.\nPLAINTIFFS UPSET BID IS $290,471.16 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE PROPERTY IS REPORTED TO BE OWNER OCCUPIED\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN COUNTY IN MORTGAGE BOOK 12341 PAGE 200.",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "FR-26000681"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "139 SOUTH SUSSEX STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "JOEL C. CLARKE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK: 64 LOT 16",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": "GLOUCESTER CITY HOLDS A CLAIM IN THE AMOUNT OF $82.00 PLUS PENALTY FOR WATER, $105.00PLUS PENALTY FOR SEWER AS OF 02/24/2026\nCCMUA HOLDS A CLAIM IN THE AMOUNT OF $93.00 PLUS PENALTY AND $456.85 PLUS PENALTY OWED IN ARREARS AS OF 02/24/2026.\nPRO CAP 8 FBO FIRSTURST BANK HOLDS A TAX SALE CERTIFICATE IN THE AMOUNT OF$627.50 PLUS SUBSEQUENT TAXES AND INTEREST AS OF 02/24/2026.\nPLAINTIFFS UPSET BID IS $290,471.16 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE PROPERTY IS REPORTED TO BE OWNER OCCUPIED\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN COUNTY IN MORTGAGE BOOK 12341 PAGE 200.",
+  "sale_date": "2026-06-17",
+  "sheriff_number": "FR-26000681",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 270498.47,
+  "upset_amount_label": "Approx. Upset*"
+}

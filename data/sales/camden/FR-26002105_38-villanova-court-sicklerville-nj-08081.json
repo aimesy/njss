@@ -1,0 +1,49 @@
+{
+  "address": "38 VILLANOVA COURT SICKLERVILLE NJ 08081",
+  "attorney": "SIMEONE & RAYNOR LLC",
+  "attorney_phone": "(856) 663-6700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "DC724725DJ04193726",
+  "current_status": "Scheduled",
+  "defendant": "FIRST JERSEY HOME, LLC,",
+  "extracted": {},
+  "fields": {
+    "Address": "38 VILLANOVA COURT\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$10,133.63",
+    "Attorney": "SIMEONE & RAYNOR LLC",
+    "Attorney Phone": "(856) 663-6700",
+    "Court Case #": "DC724725DJ04193726",
+    "Defendant": "FIRST JERSEY HOME, LLC,",
+    "Parcel #": "Tax Lot 73 and Block No.11201",
+    "Plaintiff": "VICTORIA MANOR HOMEOWNERS ASSOCATION",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002105"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "38 VILLANOVA COURT SICKLERVILLE NJ 08081",
+    "defendant": "FIRST JERSEY HOME, LLC,",
+    "listing_status": null,
+    "plaintiff": "VICTORIA MANOR HOMEOWNERS ASSOCATION",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot 73 and Block No.11201",
+  "plaintiff": "VICTORIA MANOR HOMEOWNERS ASSOCATION",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002105",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 10133.63,
+  "upset_amount_label": "Approx. Upset*"
+}

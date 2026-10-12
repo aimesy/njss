@@ -1,0 +1,70 @@
+{
+  "address": "44 West laurel Drive Somers Point NJ 08244",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003123-21",
+  "current_status": "Scheduled",
+  "deed": "J.P. Morgan Mortgage Acquisition Corp.",
+  "deed_address": "383 Madison Ave., New York, NY 10179",
+  "defendant": "Janet Dilks; Mr. or Mrs. Dilks, Husband or Wife of Janet Dilks, the Spouse, Domestic Partner or Civil union partner of Janet Dilks",
+  "extracted": {},
+  "fields": {
+    "Address": "44 West laurel Drive\nSomers Point NJ 08244",
+    "Approx. Judgment*": "$227,277.61",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-003123-21",
+    "Deed": "J.P. Morgan Mortgage Acquisition Corp.",
+    "Deed Address": "383 Madison Ave., New York, NY 10179",
+    "Defendant": "Janet Dilks; Mr. or Mrs. Dilks, Husband or Wife of Janet Dilks, the Spouse, Domestic Partner or Civil union partner of Janet Dilks",
+    "Plaintiff": "J.P. Morgan Mortgage Acquistion Corp.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "11/14/2024",
+    "Sheriff #": "F-24000862",
+    "Upset Amount": "$254,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 227277.61,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "44 West laurel Drive Somers Point NJ 08244",
+    "defendant": "Janet Dilks; Mr. or ...",
+    "listing_status": null,
+    "plaintiff": "J.P. Morgan Mortgage...",
+    "sale_date": "2024-11-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "J.P. Morgan Mortgage Acquistion Corp.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2024-11-14",
+  "sheriff_number": "F-24000862",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-14",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-19",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 254500.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "101 South River Drive Williamstown (Folsom) NJ 08094",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004110-25",
+  "current_status": "Scheduled",
+  "deed": "Planet Home Lending, LLC",
+  "deed_address": "321 Research Parkway Suite 303 Meriden CT 06450",
+  "defendant": "Andrew S. Sobolewski a/k/a Andrew Sobolewski; Mrs. Sobolewski, Spouse of Andrew S. Sobolewski a/k/a Andrew Sobolewski; Gloucester County Board of Social Services; Goodleap, LLC; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "101 South River Drive\nWilliamstown (Folsom) NJ 08094",
+    "Approx. Judgment*": "$225,138.89",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-004110-25",
+    "Deed": "Planet Home Lending, LLC",
+    "Deed Address": "321 Research Parkway Suite 303 Meriden CT 06450",
+    "Defendant": "Andrew S. Sobolewski a/k/a Andrew Sobolewski; Mrs. Sobolewski, Spouse of Andrew S. Sobolewski a/k/a Andrew Sobolewski; Gloucester County Board of Social Services; Goodleap, LLC; State of New Jersey",
+    "Plaintiff": "Planet Home Lending, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: TENANT OCCUPIED",
+    "Sales Date": "4/16/2026",
+    "Sheriff #": "F-26000179",
+    "Upset Amount": "$249,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 225138.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "101 South River Drive Williamstown (Folsom) NJ 08094",
+    "defendant": "Andrew S. Sobolewski...",
+    "listing_status": null,
+    "plaintiff": "Planet Home Lending,...",
+    "sale_date": "2026-04-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Planet Home Lending, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: TENANT OCCUPIED",
+  "sale_date": "2026-04-16",
+  "sheriff_number": "F-26000179",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-16",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 249500.0,
+  "upset_amount_label": "Upset Amount"
+}

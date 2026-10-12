@@ -1,0 +1,59 @@
+{
+  "address": "147 Seeley Avenue Keansburg NJ 07734",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00642722",
+  "current_status": "Scheduled",
+  "defendant": "Mohammad Aslam",
+  "description": "Dimensions of the Lot are (Approximately) 84 x 157.03 x 86.37 42.53 x 8.21 x 83.50\nNearest Cross Street: Gillette Street\nThe approximate upset sum is $226,000.00 calculated through January 27, 2026 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.\nThe occupancy status of the subject property is unknown.\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe sale may be further subject to Restrictions, reversions, reservations, and easements of record.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "147 Seeley Avenue\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$225,438.66",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F00642722",
+    "Defendant": "Mohammad Aslam",
+    "Description": "Dimensions of the Lot are (Approximately) 84 x 157.03 x 86.37 42.53 x 8.21 x 83.50\nNearest Cross Street: Gillette Street\nThe approximate upset sum is $226,000.00 calculated through January 27, 2026 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.\nThe occupancy status of the subject property is unknown.\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe sale may be further subject to Restrictions, reversions, reservations, and easements of record.",
+    "Parcel #": "Tax Lot 25 Block 63 Tax Map of Township of Keansburg",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "3/16/2026",
+    "Sheriff #": "FOR-25002088"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 225438.66,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "147 Seeley Avenue Keansburg NJ 07734",
+    "defendant": "Mohammad Aslam",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Wells Fargo Bank, N.A.",
+    "sale_date": "2026-03-16"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 25 Block 63 Tax Map of Township of Keansburg",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2026-03-16",
+  "sheriff_number": "FOR-25002088",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-16",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Scheduled"
+    }
+  ]
+}

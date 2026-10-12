@@ -1,0 +1,60 @@
+{
+  "address": "98-100 LAFAYETE Street Paterson NJ 07501",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 010710 23 CTL# 163091",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "LUCRECIA B. WRIGHT, ET ALS",
+  "description": "Dimensions (approx.): 37.50 x 100\nNearest Cross Street: Mercer Street\nImportant: Indicate Lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/33- Summit Bank Vs. Dennis Thiel (A-58-98)\nTax Certificate Recorded: March 20, 2023\nHolder: FIG 20, LLC FBO SEC PTY\nAmount: $810.26\nBook: 18419\nPage: 199\nInstrument Number: 23-00568\nGood faith estimated upset price: $828,146.38\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 828146.38
+  },
+  "fields": {
+    "Address": "98-100 LAFAYETE Street\nPaterson NJ 07501",
+    "Approx. Upset*": "$697,699.41",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 010710 23 CTL# 163091",
+    "Defendant": "LUCRECIA B. WRIGHT, ET ALS",
+    "Description": "Dimensions (approx.): 37.50 x 100\nNearest Cross Street: Mercer Street\nImportant: Indicate Lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/33- Summit Bank Vs. Dennis Thiel (A-58-98)\nTax Certificate Recorded: March 20, 2023\nHolder: FIG 20, LLC FBO SEC PTY\nAmount: $810.26\nBook: 18419\nPage: 199\nInstrument Number: 23-00568\nGood faith estimated upset price: $828,146.38\nOccupancy Status: Owner Occupied",
+    "Parcel #": "Tax Lot(s) 13 in Block 3109",
+    "Plaintiff": "U.S. BANK TRUST N.A. TRUSTEE OF THE LB-CABANA SERIES IV TRUST",
+    "Property Note": "",
+    "Sales Date": "3/17/2026",
+    "Sheriff #": "F-25001779"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "98-100 LAFAYETE Street Paterson NJ 07501",
+    "defendant": "LUCRECIA B. WRIGHT, ET ALS",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST N.A. TRUSTEE OF THE LB-CABANA SERIES IV TRUST",
+    "sale_date": "2026-03-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot(s) 13 in Block 3109",
+  "plaintiff": "U.S. BANK TRUST N.A. TRUSTEE OF THE LB-CABANA SERIES IV TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-17",
+  "sheriff_number": "F-25001779",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 697699.41,
+  "upset_amount_label": "Approx. Upset*"
+}

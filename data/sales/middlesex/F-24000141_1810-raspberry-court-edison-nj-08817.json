@@ -1,0 +1,64 @@
+{
+  "address": "1810 RASPBERRY COURT EDISON NJ 08817",
+  "attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 325-8800",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00316724",
+  "current_status": "Settled",
+  "defendant": "HELEN S. FASTOW, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$78,265.34",
+    "Attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00316724",
+    "Defendant": "HELEN S. FASTOW, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 18.02 FKA 18.B, C1810 BLOCK 4.01 FKA 4.A",
+    "Plaintiff": "BANK OF AMERICA, N.A.",
+    "Property Address": "1810 RASPBERRY COURT\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "3/5/2025",
+    "Sheriff #": "F-24000141"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 78265.34,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1810 RASPBERRY COURT EDISON NJ 08817",
+    "defendant": "HELEN S. FASTOW, ET ALS.",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "BANK OF AMERICA, N.A.",
+    "sale_date": "2025-03-05"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 18.02 FKA 18.B, C1810 BLOCK 4.01 FKA 4.A",
+  "plaintiff": "BANK OF AMERICA, N.A.",
+  "property_note": null,
+  "sale_date": "2025-03-05",
+  "sheriff_number": "F-24000141",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-05",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-01-30",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,51 @@
+{
+  "address": "36 YELLOWBRICK Road Wayne NJ 07470",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 010619 25 CTL#163164",
+  "current_status": "Cancelled",
+  "defendant": "CECILIA SIUFFE, ET AL",
+  "description": "Dimensions (approx): 100x150x100x150\nNearest cross street: Luke Lane\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/8/99- Summit Bank vs. Dennis Thiel (A-58-98)\nGood faith estimated upset price: $470,584.79\nOccupancy status; Owner occupied",
+  "extracted": {
+    "upset_amount": 470584.79
+  },
+  "fields": {
+    "Address": "36 YELLOWBRICK Road\nWayne NJ 07470",
+    "Approx. Upset*": "$431,724.85",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F 010619 25 CTL#163164",
+    "Defendant": "CECILIA SIUFFE, ET AL",
+    "Description": "Dimensions (approx): 100x150x100x150\nNearest cross street: Luke Lane\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/8/99- Summit Bank vs. Dennis Thiel (A-58-98)\nGood faith estimated upset price: $470,584.79\nOccupancy status; Owner occupied",
+    "Parcel #": "Tax lot(s) 3 in Block 2409",
+    "Plaintiff": "NEW RESIDENTIAL MORTGAGE LOAN TRUST 2017-3",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "F-26000444"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "36 YELLOWBRICK Road Wayne NJ 07470",
+    "defendant": "CECILIA SIUFFE, ET AL",
+    "listing_status": null,
+    "plaintiff": "NEW RESIDENTIAL MORTGAGE LOAN TRUST 2017-3",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot(s) 3 in Block 2409",
+  "plaintiff": "NEW RESIDENTIAL MORTGAGE LOAN TRUST 2017-3",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "F-26000444",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 431724.85,
+  "upset_amount_label": "Approx. Upset*"
+}

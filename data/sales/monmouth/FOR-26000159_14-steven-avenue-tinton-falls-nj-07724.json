@@ -1,0 +1,63 @@
+{
+  "address": "14 Steven Avenue Tinton Falls NJ 07724",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00503525",
+  "current_status": "Scheduled",
+  "defendant": "Meghan Ruddy, et. al.",
+  "description": "Approximate Dimensions: 83 X 109\nNearest Cross Street: Newman Springs Road\nUpset price: $195,340.15 (Note , this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A.\n46:8B-21(b)(1), if any.",
+  "extracted": {
+    "upset_amount": 195340.15
+  },
+  "fields": {
+    "Address": "14 Steven Avenue\nTinton Falls NJ 07724",
+    "Approx. Judgment*": "$179,163.94",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F00503525",
+    "Defendant": "Meghan Ruddy, et. al.",
+    "Description": "Approximate Dimensions: 83 X 109\nNearest Cross Street: Newman Springs Road\nUpset price: $195,340.15 (Note , this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A.\n46:8B-21(b)(1), if any.",
+    "Parcel #": "Tax Lot #4 Block #2.01 Tax Map of Borough of Tinton Falls",
+    "Plaintiff": "Gateway Mortgage, A division of Gateway First Bank,",
+    "Property Note": "",
+    "Sales Date": "5/11/2026",
+    "Sheriff #": "FOR-26000159"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 179163.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "14 Steven Avenue Tinton Falls NJ 07724",
+    "defendant": "Meghan Ruddy, et. al.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Gateway Mortgage, A division of Gateway First Bank,",
+    "sale_date": "2026-05-11"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot #4 Block #2.01 Tax Map of Borough of Tinton Falls",
+  "plaintiff": "Gateway Mortgage, A division of Gateway First Bank,",
+  "property_note": null,
+  "sale_date": "2026-05-11",
+  "sheriff_number": "FOR-26000159",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-05-11",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2026-05-11",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Scheduled"
+    }
+  ]
+}

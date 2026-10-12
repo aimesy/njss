@@ -1,0 +1,60 @@
+{
+  "address": "4 KINGSTON RUN BLDG 46, UNIT H1 NORTH BRUNSWICK NJ 08902",
+  "attorney": "STERN, LAVINTHAL & FRANKENBERG LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 797-1100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01055424",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "CHANDRA T. PORTER, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$42,702.59",
+    "Attorney": "STERN, LAVINTHAL & FRANKENBERG LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 797-1100",
+    "Court Case #": "F01055424",
+    "Defendant": "CHANDRA T. PORTER, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2.4614 FKA 4.44 BLOCK 4.44 FKA 46.14",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Address": "4 KINGSTON RUN BLDG 46, UNIT H1\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-25002083"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 42702.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4 KINGSTON RUN BLDG 46, UNIT H1 NORTH BRUNSWICK NJ 08902",
+    "defendant": "CHANDRA T. PORTER, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2.4614 FKA 4.44 BLOCK 4.44 FKA 46.14",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-25002083",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "2303 GREENWOOD DRIVE LINDENWOLD NJ 08201",
+  "attorney": "SIMEONE & RAYNOR LLC",
+  "attorney_phone": "(856) 663-6700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F598225",
+  "current_status": "Cancelled",
+  "defendant": "JOHNNY E. MCFADDEN, JR.; MRS. MCFADDEN, WIFE OF JOHNNY E. MCFADDEN, JR.; JASMINE MCCAIN; AND MONIQUE MCCAIN,",
+  "extracted": {},
+  "fields": {
+    "Address": "2303 GREENWOOD DRIVE\nLINDENWOLD NJ 08201",
+    "Approx. Upset*": "$19,824.02",
+    "Attorney": "SIMEONE & RAYNOR LLC",
+    "Attorney Phone": "(856) 663-6700",
+    "Court Case #": "F598225",
+    "Defendant": "JOHNNY E. MCFADDEN, JR.; MRS. MCFADDEN, WIFE OF JOHNNY E.\nMCFADDEN, JR.; JASMINE MCCAIN; AND MONIQUE MCCAIN,",
+    "Parcel #": "",
+    "Plaintiff": "VILLAGE OF TIMBER CREEK ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "FR-26000174"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2303 GREENWOOD DRIVE LINDENWOLD NJ 08201",
+    "defendant": "JOHNNY E. MCFADDEN, JR.; MRS. MCFADDEN, WIFE OF JOHNNY E. \nMCFADDEN, JR.; JASMINE MCCAIN; AND MONIQUE MCCAIN,",
+    "listing_status": null,
+    "plaintiff": "VILLAGE OF TIMBER CREEK ASSOCIATION",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "VILLAGE OF TIMBER CREEK ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-04-15",
+  "sheriff_number": "FR-26000174",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 19824.02,
+  "upset_amount_label": "Approx. Upset*"
+}

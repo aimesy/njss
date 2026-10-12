@@ -1,0 +1,49 @@
+{
+  "address": "18 VANCE AVENUE SICKLERVILLE NJ 08081",
+  "attorney": "ALBERTELLI LAW",
+  "attorney_phone": "(813) 221-4743",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00229125",
+  "current_status": "Scheduled",
+  "defendant": "RUSSELL CARR, ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "18 VANCE AVENUE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$192,780.33",
+    "Attorney": "ALBERTELLI LAW",
+    "Attorney Phone": "(813) 221-4743",
+    "Court Case #": "F00229125",
+    "Defendant": "RUSSELL CARR, ET AL.,",
+    "Parcel #": "TAX BLOCK #16801 TAX LOT #71",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2005-RF6,",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002478"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "18 VANCE AVENUE SICKLERVILLE NJ 08081",
+    "defendant": "RUSSELL CARR, ET AL.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2005-RF6,",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX BLOCK #16801 TAX LOT #71",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2005-RF6,",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002478",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 192780.33,
+  "upset_amount_label": "Approx. Upset*"
+}

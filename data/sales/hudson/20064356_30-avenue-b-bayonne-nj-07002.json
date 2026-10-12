@@ -1,0 +1,56 @@
+{
+  "address": "30 AVENUE B BAYONNE NJ 07002",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-002155-26",
+  "current_status": "Scheduled",
+  "defendant": "RICHARD J. SZEMIOT, ET AL.",
+  "description": "BLOCK 112, LOT 4\nDIMENSIONS OF LOT (APPROXIMATELY): 37.5' X 100'\nNEAREST CROSS STREET: WEST 37TH STREET\nAPPROX UPSET PRICE: $48,000.00\nPROPERTY STATUS BORROWER OCCUPIED",
+  "extracted": {
+    "block": "112",
+    "lot": "4",
+    "upset_amount": 48000.0
+  },
+  "fields": {
+    "Address": "30 AVENUE B\nBAYONNE NJ 07002",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F-002155-26",
+    "Defendant": "RICHARD J. SZEMIOT, ET AL.",
+    "Description": "BLOCK 112, LOT 4\nDIMENSIONS OF LOT (APPROXIMATELY): 37.5' X 100'\nNEAREST CROSS STREET: WEST 37TH STREET\nAPPROX UPSET PRICE: $48,000.00\nPROPERTY STATUS BORROWER OCCUPIED",
+    "Good Faith Upset*": "$48,000.00",
+    "Judgment": "$41,954.02",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "20064356"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 41954.02,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "30 AVENUE B BAYONNE NJ 07002",
+    "defendant": "RICHARD J. SZEMIOT, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "20064356",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-11-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 48000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

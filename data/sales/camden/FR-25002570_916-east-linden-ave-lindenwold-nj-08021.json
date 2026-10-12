@@ -1,0 +1,53 @@
+{
+  "address": "916 EAST LINDEN AVE LINDENWOLD NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00736923",
+  "current_status": "Scheduled",
+  "defendant": "JAMISHA KING; NADIRA DANETTE CONYERS A/K/A NADIRA CONYERS,",
+  "extracted": {},
+  "fields": {
+    "Address": "916 EAST LINDEN AVE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$305,639.50",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00736923",
+    "Defendant": "JAMISHA KING; NADIRA DANETTE CONYERS A/K/A NADIRA CONYERS,",
+    "Parcel #": "",
+    "Plaintiff": "PLANET HOME LENDING, LLC,",
+    "Property Note": "",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "FR-25002570"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "916 EAST LINDEN AVE LINDENWOLD NJ 08021",
+    "defendant": "JAMISHA KING; NADIRA DANETTE CONYERS A/K/A NADIRA CONYERS,",
+    "listing_status": null,
+    "plaintiff": "PLANET HOME LENDING, LLC,",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PLANET HOME LENDING, LLC,",
+  "property_note": null,
+  "sale_date": "2026-01-08",
+  "sheriff_number": "FR-25002570",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-08",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 305639.5,
+  "upset_amount_label": "Approx. Upset*"
+}

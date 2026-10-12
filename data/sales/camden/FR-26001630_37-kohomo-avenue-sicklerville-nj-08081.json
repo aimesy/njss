@@ -1,0 +1,53 @@
+{
+  "address": "37 KOHOMO AVENUE SICKLERVILLE NJ 08081",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00771524",
+  "current_status": "Scheduled",
+  "defendant": "ROSALIND COLEMAN, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "37 KOHOMO AVENUE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$195,228.94",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00771524",
+    "Defendant": "ROSALIND COLEMAN, ET AL.",
+    "Parcel #": "Lot 2, Block 16213",
+    "Plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "Property Note": "PARTIAL CLAIM MORTGAGE: ROSALIND COLEMAN to SECRETARY OF HOUSING AND\nURBAN DEVELOPMENT, dated 05/3 1/2023 and recorded on 07/13/2023, in Book 12387, Page 543, to secure $47,989.84.",
+    "Sales Date": "8/18/2026",
+    "Sheriff #": "FR-26001630"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "37 KOHOMO AVENUE SICKLERVILLE NJ 08081",
+    "defendant": "ROSALIND COLEMAN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "sale_date": "2026-08-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 2, Block 16213",
+  "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+  "property_note": "PARTIAL CLAIM MORTGAGE: ROSALIND COLEMAN to SECRETARY OF HOUSING AND\nURBAN DEVELOPMENT, dated 05/3 1/2023 and recorded on 07/13/2023, in Book 12387, Page 543, to secure $47,989.84.",
+  "sale_date": "2026-08-18",
+  "sheriff_number": "FR-26001630",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-18",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 195228.94,
+  "upset_amount_label": "Approx. Upset*"
+}

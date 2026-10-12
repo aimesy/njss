@@ -1,0 +1,56 @@
+{
+  "address": "20 BORGHAUS ROAD HELMETTA NJ 08828",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01741418",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "WANDA DLUGOSZ, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$240,593.26",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01741418",
+    "Defendant": "WANDA DLUGOSZ, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 13 BLOCK 22",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC DBA CHAMPION MORTGAGE COMPANY",
+    "Property Address": "20 BORGHAUS ROAD\nHELMETTA NJ 08828",
+    "Property Note": "SUCCESSFULLY POSTED 10/30/2024 BY RON WALKO AREA1 SERVER RECEIVED DATE 10/24/2024",
+    "Sale Date": "12/4/2024",
+    "Sheriff #": "F-776641"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 240593.26,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "20 BORGHAUS ROAD HELMETTA NJ 08828",
+    "defendant": "WANDA DLUGOSZ, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC DBA CHAMPION MORTGAGE COMPANY",
+    "sale_date": "2024-12-04"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 13 BLOCK 22",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC DBA CHAMPION MORTGAGE COMPANY",
+  "property_note": "SUCCESSFULLY POSTED 10/30/2024 BY RON WALKO AREA1 SERVER RECEIVED DATE 10/24/2024",
+  "sale_date": "2024-12-04",
+  "sheriff_number": "F-776641",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-12-04",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "825 SAINT REGIS COURT WEST DEPTFORD NJ 08051",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-004735-24",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "ROBERT M. STRUSS, JR.; ET. AL.",
+  "description": "UPSET PRICE: $215,273.66\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 215273.66
+  },
+  "fields": {
+    "Address": "825 SAINT REGIS COURT\nWEST DEPTFORD NJ 08051",
+    "Approximate Judgment": "$198,062.46",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-004735-24",
+    "Defendant": "ROBERT M. STRUSS, JR.; ET. AL.",
+    "Description": "UPSET PRICE: $215,273.66\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT: 8.825 BLOCK: 376",
+    "Plaintiff": "CSMC 2017-RPL2 TRUST",
+    "Property Note": "TOWNSHIP OF WEST DEPTFORD\nCOUNTY OF GLOUCESTER\n825 SAINT REGIS COURT WEST DEPTFORD, NJ 08051 WITH A MAILING ADDRESS OF 825 SAINT REGIS COURT, MANTUA NJ 08051. SAINT REGIS COURT IS ALSO KNOWN AS ST. REGIS COURT\nLOT: 8.825 BLOCK: 376\nAPPROXIMATE DIMENSIONS: 303.00 x 81.90 x 19.05 x 20.55 x 76.72 x 88.63 x 139.00 x 115.57 x 21.42 x 12.76 x 62.33 x 24.67 x 58.00 x 11.26 FEET IRREGULAR\nNEAREST CROSS STREET: PARKVILLE STATION\nUPSET PRICE: $215,273.66\nOCCUPANCY STATUS: OCCUPIED\nSUBJECT TO:\nTAXES - $1,229.83 DUE 8/1/2025, $1,229.82 DUE 11/1/2025, $1,233.18 DUE 2/1/2026, $1,233.17 DUE 5/1/2026\nSEWER - $3.60 OPEN AND DUE 7/18/2025",
+    "Sales Date": "7/14/2027",
+    "Sheriff #": "F-25000941"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 198062.46,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "825 SAINT REGIS COURT WEST DEPTFORD NJ 08051",
+    "defendant": "ROBERT M. STRUSS, JR.; ET. AL.",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "CSMC 2017-RPL2 TRUST",
+    "sale_date": "2027-07-14"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 8.825 BLOCK: 376",
+  "plaintiff": "CSMC 2017-RPL2 TRUST",
+  "property_note": "TOWNSHIP OF WEST DEPTFORD\nCOUNTY OF GLOUCESTER\n825 SAINT REGIS COURT WEST DEPTFORD, NJ 08051 WITH A MAILING ADDRESS OF 825 SAINT REGIS COURT, MANTUA NJ 08051. SAINT REGIS COURT IS ALSO KNOWN AS ST. REGIS COURT\nLOT: 8.825 BLOCK: 376\nAPPROXIMATE DIMENSIONS: 303.00 x 81.90 x 19.05 x 20.55 x 76.72 x 88.63 x 139.00 x 115.57 x 21.42 x 12.76 x 62.33 x 24.67 x 58.00 x 11.26 FEET IRREGULAR\nNEAREST CROSS STREET: PARKVILLE STATION\nUPSET PRICE: $215,273.66\nOCCUPANCY STATUS: OCCUPIED\nSUBJECT TO:\nTAXES - $1,229.83 DUE 8/1/2025, $1,229.82 DUE 11/1/2025, $1,233.18 DUE 2/1/2026, $1,233.17 DUE 5/1/2026\nSEWER - $3.60 OPEN AND DUE 7/18/2025",
+  "sale_date": "2027-07-14",
+  "sheriff_number": "F-25000941",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2027-07-14",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

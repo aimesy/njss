@@ -1,0 +1,57 @@
+{
+  "address": "100 PHILLIPS PARKWAY MONTVALE NJ 07645",
+  "attorney": "POLSINELLI PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01064124",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "100 PHILLIPS PARKWAY LLC, SYMS CONSTRUCTION LLC AND WATER DYNAMICS, INC",
+  "description": "THIS IS A COMMERCIAL PROPERTY – NOT SUBJECT TO CWPP REQUIREMENTS",
+  "extracted": {},
+  "fields": {
+    "Address": "100 PHILLIPS PARKWAY\nMONTVALE NJ 07645",
+    "Approx. Upset*": "$13,255,372.58",
+    "Attorney": "POLSINELLI PC",
+    "Court Case #": "F01064124",
+    "Defendant": "100 PHILLIPS PARKWAY LLC, SYMS CONSTRUCTION LLC AND WATER DYNAMICS, INC",
+    "Description": "THIS IS A COMMERCIAL PROPERTY – NOT SUBJECT TO CWPP REQUIREMENTS",
+    "Parcel #": "LOT 2, BLOCK 3103",
+    "Plaintiff": "RSS BBCMS2023-C22-NJ IPP, LLC, A NEW JERSEY LIMITED LIABILITY COMPANY",
+    "Property Note": "",
+    "Sales Date": "11/21/2025",
+    "Sheriff #": "F-25002086"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "100 PHILLIPS PARKWAY MONTVALE NJ 07645",
+    "defendant": "100 PHILLIPS PARKWAY LLC, SYMS CONSTRUCTION LLC AND WATER DYNAMICS, INC",
+    "listing_status": null,
+    "plaintiff": "RSS BBCMS2023-C22-NJ IPP, LLC, A NEW JERSEY LIMITED LIABILITY COMPANY",
+    "sale_date": "2025-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2, BLOCK 3103",
+  "plaintiff": "RSS BBCMS2023-C22-NJ IPP, LLC, A NEW JERSEY LIMITED LIABILITY COMPANY",
+  "property_note": null,
+  "sale_date": "2025-11-21",
+  "sheriff_number": "F-25002086",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 13255372.58,
+  "upset_amount_label": "Approx. Upset*"
+}

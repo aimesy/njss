@@ -1,0 +1,52 @@
+{
+  "address": "77-79 MAPLE Street Paterson NJ 07522",
+  "attorney": "FEIN SUCH KAHN & SHEPARD, P.C",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 5222 26 CTL # 163281",
+  "current_status": "Scheduled",
+  "defendant": "RAKIB MIAH, ET ALS",
+  "description": "Dimensions of lot approximately: 50 x 100\nNearest Cross Street: Preakness Avenue\nBeginning at a point in the northwesterly sideline of Maple Street, a 50 foot right of way, distant 200.00 feet on a bearing of North 56 degrees 15 minutes 00 seconds East from the intersection of said sideline with the northeasterly sideline of Preakness Avenue, and running thence.\nThe occupancy status of the property being foreclosed herein is presently unknown.\nPrior liens/encumbrances\nSewer open and due $262.00\nSewer open plus penalty $727.50\nWater open plus penatly $332.86\nTotal as of September 28,2026: $1,322.36\nGood Faith estimate of upset price: $690,960.51",
+  "extracted": {
+    "lot": "approximately",
+    "upset_amount": 690960.51
+  },
+  "fields": {
+    "Address": "77-79 MAPLE Street\nPaterson NJ 07522",
+    "Approx. Upset*": "$636,903.09",
+    "Attorney": "FEIN SUCH KAHN & SHEPARD, P.C",
+    "Court Case #": "F 5222 26 CTL # 163281",
+    "Defendant": "RAKIB MIAH, ET ALS",
+    "Description": "Dimensions of lot approximately: 50 x 100\nNearest Cross Street: Preakness Avenue\nBeginning at a point in the northwesterly sideline of Maple Street, a 50 foot right of way, distant 200.00 feet on a bearing of North 56 degrees 15 minutes 00 seconds East from the intersection of said sideline with the northeasterly sideline of Preakness Avenue, and running thence.\nThe occupancy status of the property being foreclosed herein is presently unknown.\nPrior liens/encumbrances\nSewer open and due $262.00\nSewer open plus penalty $727.50\nWater open plus penatly $332.86\nTotal as of September 28,2026: $1,322.36\nGood Faith estimate of upset price: $690,960.51",
+    "Parcel #": "Tax Lot 19 Block 1408",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "1/26/2027",
+    "Sheriff #": "F-26001673"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "77-79 MAPLE Street Paterson NJ 07522",
+    "defendant": "RAKIB MIAH, ET ALS",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2027-01-26"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 19 Block 1408",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2027-01-26",
+  "sheriff_number": "F-26001673",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-01-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 636903.09,
+  "upset_amount_label": "Approx. Upset*"
+}

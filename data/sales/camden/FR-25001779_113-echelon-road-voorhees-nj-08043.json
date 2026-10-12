@@ -1,0 +1,53 @@
+{
+  "address": "113 ECHELON ROAD VOORHEES NJ 08043",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00248325",
+  "current_status": "Purchased",
+  "defendant": "LOUIS R. GIBSON, ET. AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "113 ECHELON ROAD\nVOORHEES NJ 08043",
+    "Approx. Upset*": "$70,180.54",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00248325",
+    "Defendant": "LOUIS R. GIBSON, ET. AL.",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SOUNDVIEW HOME\nLOAN TRUST 2006-OPT2, ASSET-BACKED CERTIFICATES, SERIES 2006-OPT2,",
+    "Property Note": "",
+    "Sales Date": "11/5/2025",
+    "Sheriff #": "FR-25001779"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "113 ECHELON ROAD VOORHEES NJ 08043",
+    "defendant": "LOUIS R. GIBSON, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SOUNDVIEW HOME \nLOAN TRUST 2006-OPT2, ASSET-BACKED CERTIFICATES, SERIES 2006-OPT2,",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SOUNDVIEW HOME LOAN TRUST 2006-OPT2, ASSET-BACKED CERTIFICATES, SERIES 2006-OPT2,",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "FR-25001779",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 70180.54,
+  "upset_amount_label": "Approx. Upset*"
+}

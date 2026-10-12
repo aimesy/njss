@@ -1,0 +1,56 @@
+{
+  "address": "2 Wendi Way Manalapan NJ 07726",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00987223",
+  "current_status": "Scheduled",
+  "defendant": "Larry R. Weinbaum and Mindy J. Weinbaum, husband and wife;",
+  "description": "Approximate dimensions: 67.31 x 87.41 x 164.59 x 216.95 x 125.00 x 39.27 Feet (Irregular)\nNearest cross street: Jeanine Court\nSubject to: Taxes - Due 8/1/2025 $4,367.54 Open; Grace Period Extended to 8/25/2025\nSewer - 8/1/2025 - 10/31/2025 $125.00 Open, $251.87 Open Plus Penalty; Owed in Arrears\nUpset Price: $710,585.26\nOccupancy: Status Occupied\nTo the best of of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Status Occupied",
+    "upset_amount": 710585.26
+  },
+  "fields": {
+    "Address": "2 Wendi Way\nManalapan NJ 07726",
+    "Approx. Judgment*": "$622,464.41",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00987223",
+    "Defendant": "Larry R. Weinbaum and Mindy J. Weinbaum, husband and wife;",
+    "Description": "Approximate dimensions: 67.31 x 87.41 x 164.59 x 216.95 x 125.00 x 39.27 Feet (Irregular)\nNearest cross street: Jeanine Court\nSubject to: Taxes - Due 8/1/2025 $4,367.54 Open; Grace Period Extended to 8/25/2025\nSewer - 8/1/2025 - 10/31/2025 $125.00 Open, $251.87 Open Plus Penalty; Owed in Arrears\nUpset Price: $710,585.26\nOccupancy: Status Occupied\nTo the best of of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 32, block 344 Tax Map of Township of Manalapan",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Property Note": "",
+    "Sales Date": "11/6/2025",
+    "Sheriff #": "FOR-25001638"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 622464.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2 Wendi Way Manalapan NJ 07726",
+    "defendant": "Larry R. Weinbaum and Mindy J. Weinbaum, husband and wife;",
+    "listing_status": "Settled",
+    "plaintiff": "Nationstar Mortgage LLC",
+    "sale_date": "2025-11-06"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 32, block 344 Tax Map of Township of Manalapan",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "property_note": null,
+  "sale_date": "2025-11-06",
+  "sheriff_number": "FOR-25001638",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-06",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Scheduled"
+    }
+  ]
+}

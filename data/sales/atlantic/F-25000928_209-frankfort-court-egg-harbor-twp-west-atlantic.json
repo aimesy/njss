@@ -1,0 +1,66 @@
+{
+  "address": "209 Frankfort Court (Egg Harbor Twp) West Atlantic City NJ 08234",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009938-22",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Keomanivanh Inthavong; Xaysana Xaysana; Sunnova TEP 1 Manager LLC; Midland Funding, LLC; Unknown Occupants #1-10 N/K/A Vincent Xaysana, Occupant",
+  "extracted": {},
+  "fields": {
+    "Address": "209 Frankfort Court\n(Egg Harbor Twp)\nWest Atlantic City NJ 08234",
+    "Approx. Judgment*": "$88,695.27",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-009938-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Keomanivanh Inthavong; Xaysana Xaysana; Sunnova TEP 1 Manager LLC; Midland Funding, LLC; Unknown Occupants #1-10 N/K/A Vincent Xaysana, Occupant",
+    "Plaintiff": "U.S. Bank National Association, as Legal Title Trustee for Truman 2016 SC6 Title Trust",
+    "Priors": "US Bank CUST/PRO Capital I LLC / Tax Sale Certificate, amount: $93.39\nUS Bank CUST/FNA Jersey BOI / Tax Sale Certificate, amount: $353.31\nTotal: $446.70",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "12/11/2025",
+    "Sheriff #": "F-25000928",
+    "Upset Amount": "$98,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 88695.27,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "209 Frankfort Court (Egg Harbor Twp) West Atlantic City NJ 08234",
+    "defendant": "Keomanivanh Inthavon...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2025-12-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association, as Legal Title Trustee for Truman 2016 SC6 Title Trust",
+  "priors": "US Bank CUST/PRO Capital I LLC / Tax Sale Certificate, amount: $93.39 US Bank CUST/FNA Jersey BOI / Tax Sale Certificate, amount: $353.31 Total: $446.70",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-12-11",
+  "sheriff_number": "F-25000928",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-12-11",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 98000.0,
+  "upset_amount_label": "Upset Amount"
+}

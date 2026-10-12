@@ -1,0 +1,56 @@
+{
+  "address": "155 CHATHAM DRIVE #A MONROE NJ 08831",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00150025",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "MICHELE LISS DUSHKIN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$313,890.28",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00150025",
+    "Defendant": "MICHELE LISS DUSHKIN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 43.1 FKA 43.01 QUALIFIER C155A BLOCK 26",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Address": "155 CHATHAM DRIVE #A\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "12/17/2025",
+    "Sheriff #": "F-25003175"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 313890.28,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "155 CHATHAM DRIVE #A MONROE NJ 08831",
+    "defendant": "MICHELE LISS DUSHKIN, ET ALS.",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 43.1 FKA 43.01 QUALIFIER C155A BLOCK 26",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25003175",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

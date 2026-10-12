@@ -1,0 +1,58 @@
+{
+  "address": "631 London Court II Egg Harbor Township NJ 08234",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012300-22 PLURIES",
+  "current_status": "Scheduled",
+  "deed": "Paul Colucci",
+  "deed_address": "137 London Ct, Egg Harbor Township, NJ 08234",
+  "defendant": "Russell A. Moody, His Heirs, Devisees and Personal Representatives and His, Her, or Any of Their Successors in Right, Title and Interest; Michael Moody; Anthony Moody; James Moody; State of New Jersey; United States of America; Court II Condominium Association, Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "631 London Court II\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$194,783.25",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-012300-22 PLURIES",
+    "Deed": "Paul Colucci",
+    "Deed Address": "137 London Ct, Egg Harbor Township, NJ 08234",
+    "Defendant": "Russell A. Moody, His Heirs, Devisees and Personal Representatives and His, Her, or Any of Their Successors in Right, Title and Interest; Michael Moody; Anthony Moody; James Moody; State of New Jersey; United States of America; Court II Condominium Association, Inc",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "Court II Condominium Association, Inc, amount: $3,194.00-Original amount",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "7/24/2025",
+    "Sheriff #": "F-24000983",
+    "Upset Amount": "$235,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 194783.25,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "631 London Court II Egg Harbor Township NJ 08234",
+    "defendant": "Russell A. Moody, Hi...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2025-07-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "Court II Condominium Association, Inc, amount: $3,194.00-Original amount",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-07-24",
+  "sheriff_number": "F-24000983",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-24",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 235000.0,
+  "upset_amount_label": "Upset Amount"
+}

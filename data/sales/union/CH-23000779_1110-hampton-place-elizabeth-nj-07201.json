@@ -1,0 +1,80 @@
+{
+  "address": "1110 HAMPTON PLACE ELIZABETH NJ 07201",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00265120",
+  "current_status": "Redeemed",
+  "defendant": "DOMINGO R. BOSMENIER; MRS. DOMINGO R. BOSMENIER, HIS WIFE; MARY BOSMENIER",
+  "description": "LOT 11 BLOCK 296",
+  "extracted": {
+    "block": "296",
+    "lot": "11"
+  },
+  "fields": {
+    "Address": "1110 HAMPTON PLACE\nELIZABETH NJ 07201",
+    "Approx. Upset*": "$467,659.46",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00265120",
+    "Defendant": "DOMINGO R. BOSMENIER; MRS. DOMINGO R. BOSMENIER, HIS WIFE; MARY BOSMENIER",
+    "Description": "LOT 11 BLOCK 296",
+    "Parcel #": "LOT 11 BLOCK 296",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2016-CTT",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "CH-23000779"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1110 HAMPTON PLACE ELIZABETH NJ 07201",
+    "defendant": "DOMINGO R. BOSMENIER; MRS. DOMINGO R. BOSMENIER, HIS WIFE; MARY BOSMENIER",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2016-CTT",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 11 BLOCK 296",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2016-CTT",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "CH-23000779",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2023-05-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-07-26",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-07-26",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Buy Back"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 467659.46,
+  "upset_amount_label": "Approx. Upset*"
+}

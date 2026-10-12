@@ -1,0 +1,66 @@
+{
+  "address": "1135 Ocean Heights Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002524-23",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank Trust National Association, As Trustee of FW-BKPL Series I Trust",
+  "deed_address": "7114 E. Stetson Drive, Suite 250, Scottsdale, AZ 85251",
+  "defendant": "Jennifer L. Servis; Michael W. Servis; Mortgage Electronic Registration Systems, Inc., as Nominee for GMAC Mortgage Corporation DBA Ditech.com",
+  "extracted": {},
+  "fields": {
+    "Address": "1135 Ocean Heights Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$278,052.68",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-002524-23",
+    "Deed": "U.S. Bank Trust National Association, As Trustee of FW-BKPL Series I Trust",
+    "Deed Address": "7114 E. Stetson Drive, Suite 250, Scottsdale, AZ 85251",
+    "Defendant": "Jennifer L. Servis; Michael W. Servis; Mortgage Electronic Registration Systems, Inc., as Nominee for GMAC Mortgage Corporation DBA Ditech.com",
+    "Plaintiff": "U.S. Bank Trust National Association, as Trustee of FW-BKPL Series I Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-24001085",
+    "Upset Amount": "$92,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 278052.68,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1135 Ocean Heights Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Jennifer L. Servis; ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, as Trustee of FW-BKPL Series I Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24001085",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 92000.0,
+  "upset_amount_label": "Upset Amount"
+}

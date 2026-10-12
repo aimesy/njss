@@ -1,0 +1,52 @@
+{
+  "address": "218 GRANT AVENUE WEST DEPTFORD NJ 08086",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-023875-18",
+  "current_status": "Cancelled",
+  "defendant": "JAMES R. KELLY, ET AL.",
+  "description": "ESTIMATED UPSET PRICE: $333,636.69\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "occupancy": "OCCUPIED BY UNKNOWN",
+    "upset_amount": 333636.69
+  },
+  "fields": {
+    "Address": "218 GRANT AVENUE\nWEST DEPTFORD NJ 08086",
+    "Approximate Judgment": "$227,443.47",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F-023875-18",
+    "Defendant": "JAMES R. KELLY, ET AL.",
+    "Description": "ESTIMATED UPSET PRICE: $333,636.69\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Parcel #": "LOT: 5 BLOCK: 229",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE, SUCCESSOR-IN-INTEREST TO WACHOVIA BANK NA, AS TRUSTEE, FOR BAFC SALT 2005-1F",
+    "Property Note": "TOWNSHIP OF WEST DEPTFORD\nCOUNTY OF GLOUCESTER\n218 GRANT AVENUE WEST DEPTFORD, NJ 08086\nLOT: 5 BLOCK: 229\nAPPROXIMATE DIMENSIONS: .349 AC\nNEAREST CROSS STREET: MIDDLESEX AVE\nESTIMATED UPSET PRICE: $333,636.69\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "2/10/2026",
+    "Sheriff #": "F-26000015"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 227443.47,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "218 GRANT AVENUE WEST DEPTFORD NJ 08086",
+    "defendant": "JAMES R. KELLY, ET AL.",
+    "listing_status": "Cancelled",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE, SUCCESSOR-IN-INTEREST TO WACHOVIA BANK NA, AS TRUSTEE, FOR BAFC SALT 2005-1F",
+    "sale_date": "2026-02-10"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 5 BLOCK: 229",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE, SUCCESSOR-IN-INTEREST TO WACHOVIA BANK NA, AS TRUSTEE, FOR BAFC SALT 2005-1F",
+  "property_note": "TOWNSHIP OF WEST DEPTFORD\nCOUNTY OF GLOUCESTER\n218 GRANT AVENUE WEST DEPTFORD, NJ 08086\nLOT: 5 BLOCK: 229\nAPPROXIMATE DIMENSIONS: .349 AC\nNEAREST CROSS STREET: MIDDLESEX AVE\nESTIMATED UPSET PRICE: $333,636.69\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2026-02-10",
+  "sheriff_number": "F-26000015",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-02-10",
+      "status": "Cancelled"
+    }
+  ]
+}

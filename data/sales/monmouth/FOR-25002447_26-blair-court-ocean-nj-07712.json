@@ -1,0 +1,52 @@
+{
+  "address": "26 Blair Court Ocean NJ 07712",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00606825",
+  "current_status": "Settled",
+  "defendant": "Benjamin L. Raucher & Elaine Belfer Raucher",
+  "description": "Approximate Dimensions: 165.50 x 136.00 Feet\nNearest Cross Street: Cold Indian Springs Road\nUpset PRICE $275,368.59\nOccupancy Status: OCCUPIED\nSewer - 0/01/2025 - 12/31/2025 $115.00 OPEN PLUS PENALTY $230.00 OPEN PLUS PENALTY; OWED IN APPEARS\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 275368.59
+  },
+  "fields": {
+    "Address": "26 Blair Court\nOcean NJ 07712",
+    "Approx. Judgment*": "$255,110.10",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00606825",
+    "Defendant": "Benjamin L. Raucher & Elaine Belfer Raucher",
+    "Description": "Approximate Dimensions: 165.50 x 136.00 Feet\nNearest Cross Street: Cold Indian Springs Road\nUpset PRICE $275,368.59\nOccupancy Status: OCCUPIED\nSewer - 0/01/2025 - 12/31/2025 $115.00 OPEN PLUS PENALTY $230.00 OPEN PLUS PENALTY; OWED IN APPEARS\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "Tax Lot: 43 fka 2.A5 Block: 38 Located on the tax map of the Township of Ocean",
+    "Plaintiff": "JP Morgan Chase Bank, National Association",
+    "Property Note": "",
+    "Sales Date": "12/22/2025",
+    "Sheriff #": "FOR-25002447"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 255110.1,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "26 Blair Court Ocean NJ 07712",
+    "defendant": "Benjamin L. Raucher & Elaine Belfer Raucher",
+    "listing_status": "Settled",
+    "plaintiff": "JP Morgan Chase Bank, National Association",
+    "sale_date": "2025-12-22"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 43 fka 2.A5 Block: 38 Located on the tax map of the Township of Ocean",
+  "plaintiff": "JP Morgan Chase Bank, National Association",
+  "property_note": null,
+  "sale_date": "2025-12-22",
+  "sheriff_number": "FOR-25002447",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-12-22",
+      "status": "Settled"
+    }
+  ]
+}

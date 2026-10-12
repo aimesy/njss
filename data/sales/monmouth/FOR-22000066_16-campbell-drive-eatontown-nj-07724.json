@@ -1,0 +1,75 @@
+{
+  "address": "16 Campbell Drive Eatontown NJ 07724",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00815719",
+  "current_status": "Scheduled",
+  "defendant": "Peggy A. Troese, et al",
+  "description": "Approximate dimentions: 114.05' x 90' x 121.63' 858.52'\nNearest cross street: Pine Street\nThe Plaintiff's Upset Bid presently approximates $431,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "16 Campbell Drive\nEatontown NJ 07724",
+    "Approx. Judgment*": "$359,004.67",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00815719",
+    "Defendant": "Peggy A. Troese, et al",
+    "Description": "Approximate dimentions: 114.05' x 90' x 121.63' 858.52'\nNearest cross street: Pine Street\nThe Plaintiff's Upset Bid presently approximates $431,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot: 4 Tax Block: 2609 f/k/a 78 Tax Map of Borough of Eatontown",
+    "Plaintiff": "HSBC Bank USA, National Association, as Trustee for Deutsche Alt-B Securities Mortgage Loan Trust, Series 2006-AB1",
+    "Property Note": "",
+    "Sales Date": "3/3/2025",
+    "Sheriff #": "FOR-22000066"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 359004.67,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "16 Campbell Drive Eatontown NJ 07724",
+    "defendant": "Peggy A. Troese, et al",
+    "listing_status": "Settled",
+    "plaintiff": "HSBC Bank USA, National Association, as Trustee for Deutsche Alt-B Securities Mortgage Loan Trust, Series 2006-AB1",
+    "sale_date": "2025-03-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 4 Tax Block: 2609 f/k/a 78 Tax Map of Borough of Eatontown",
+  "plaintiff": "HSBC Bank USA, National Association, as Trustee for Deutsche Alt-B Securities Mortgage Loan Trust, Series 2006-AB1",
+  "property_note": null,
+  "sale_date": "2025-03-03",
+  "sheriff_number": "FOR-22000066",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-05-09",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-05-09",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-04-11",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-03-14",
+      "status": "Scheduled"
+    }
+  ]
+}

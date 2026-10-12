@@ -1,0 +1,96 @@
+{
+  "address": "329 E MONTGOMERY Avenue Wildwood NJ 08260",
+  "attorney": "Ras Citron, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-575-0707",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-006894-23",
+  "current_status": "Scheduled",
+  "defendant": "TYRONE F PITTS, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$201,545.37",
+    "Attorney": "Ras Citron, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-006894-23",
+    "Defendant": "TYRONE F PITTS, ET AL",
+    "Description": "",
+    "Minimum Bid": "$232,000.00",
+    "Parcel #": "LOT 13.02 & 14.02, BLOCK 108",
+    "Plaintiff": "HSBC BANK USA, N.A.",
+    "Property Address": "329 E MONTGOMERY Avenue\nWildwood NJ 08260",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-24000102"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 201545.37,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "329 E MONTGOMERY Avenue Wildwood NJ 08260",
+    "defendant": "TYRONE F PITTS, ET AL",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, N.A.",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 13.02 & 14.02, BLOCK 108",
+  "plaintiff": "HSBC BANK USA, N.A.",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-24000102",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Bankruptcy Reschedule"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-18",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-09-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-07-08",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2024-06-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-05-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 232000.0,
+  "upset_amount_label": "Minimum Bid"
+}

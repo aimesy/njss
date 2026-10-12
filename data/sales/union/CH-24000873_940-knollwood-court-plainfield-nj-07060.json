@@ -1,0 +1,81 @@
+{
+  "address": "940 KNOLLWOOD COURT PLAINFIELD NJ 07060",
+  "attorney": "LEOPOLD & ASSOCIATES, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01258123",
+  "current_status": "Scheduled",
+  "defendant": "CHERYL HARRIS; WILMA DELAINE; THE SECRETARY OF HOUSING & URBAN DEVELOPMENT; UNITED STATES OF AMERICA; OCEAN CO BD SOCIAL SERVS; KATHLEEN M LEE; BOARDWALK REGENCY CORP; STATE OF NEW JERSEY",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "940 KNOLLWOOD COURT\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$390,278.92",
+    "Attorney": "LEOPOLD & ASSOCIATES, PLLC",
+    "Court Case #": "F01258123",
+    "Defendant": "CHERYL HARRIS; WILMA DELAINE; THE SECRETARY OF HOUSING & URBAN DEVELOPMENT; UNITED STATES OF AMERICA; OCEAN CO BD SOCIAL SERVS; KATHLEEN M LEE; BOARDWALK REGENCY CORP; STATE OF NEW JERSEY",
+    "Description": "",
+    "Parcel #": "LOT 25 BLOCK 922",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "Dimensions of Lot (Approximately): 90X177.14\nNearest Cross Street: Cushing Rd\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\nSUBJECT TO:\n\"The short form description provided herein does not constitute a full legal description. A full legal description is available in the office of the UNION County Sheriff'.\nThe estimated Upset amount at time of sale is $453,234.53, which is subject to change.\nUpon information and belief, the property is currently owner occupied.\nSEE CONDITIONS OF SALE\nLeopold & Associates, PLLC / 80 Business Park Drive, Suite 110 / Armonk, NY 10504\nTel: 914-206-4066 / Fax: 914-219-578 / Leopoldassociates.com",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "CH-24000873"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "940 KNOLLWOOD COURT PLAINFIELD NJ 07060",
+    "defendant": "CHERYL HARRIS; WILMA DELAINE; THE SECRETARY OF HOUSING & URBAN DEVELOPMENT; UNITED STATES OF AMERICA; OCEAN CO BD SOCIAL SERVS; KATHLEEN M LEE; BOARDWALK REGENCY CORP; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 25 BLOCK 922",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": "Dimensions of Lot (Approximately): 90X177.14\nNearest Cross Street: Cushing Rd\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\nSUBJECT TO:\n\"The short form description provided herein does not constitute a full legal description. A full legal description is available in the office of the UNION County Sheriff'.\nThe estimated Upset amount at time of sale is $453,234.53, which is subject to change.\nUpon information and belief, the property is currently owner occupied.\nSEE CONDITIONS OF SALE\nLeopold & Associates, PLLC / 80 Business Park Drive, Suite 110 / Armonk, NY 10504\nTel: 914-206-4066 / Fax: 914-219-578 / Leopoldassociates.com",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "CH-24000873",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-05-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-10",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-07-10",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2024-11-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 390278.92,
+  "upset_amount_label": "Approx. Upset*"
+}

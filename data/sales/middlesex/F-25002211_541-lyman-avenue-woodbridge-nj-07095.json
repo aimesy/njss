@@ -1,0 +1,68 @@
+{
+  "address": "541 LYMAN AVENUE WOODBRIDGE NJ 07095",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00584224",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JUDITH D. LANDMESSER, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$46,362.23",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00584224",
+    "Defendant": "JUDITH D. LANDMESSER, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 331 BLOCK 410.01 FKA 410.A",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Address": "541 LYMAN AVENUE\nWOODBRIDGE NJ 07095",
+    "Property Note": "",
+    "Sale Date": "2/11/2026",
+    "Sheriff #": "F-25002211"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 46362.23,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "541 LYMAN AVENUE WOODBRIDGE NJ 07095",
+    "defendant": "JUDITH D. LANDMESSER, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-02-11"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 331 BLOCK 410.01 FKA 410.A",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-02-11",
+  "sheriff_number": "F-25002211",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-02-11",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

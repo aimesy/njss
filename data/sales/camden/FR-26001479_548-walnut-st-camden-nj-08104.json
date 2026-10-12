@@ -1,0 +1,61 @@
+{
+  "address": "548 WALNUT ST CAMDEN NJ 08104",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00854325",
+  "current_status": "Purchased",
+  "defendant": "CLEMENT BETHEA A/K/A CLEMENT H. BETHEA; LVNV FUNDING LLC,",
+  "extracted": {},
+  "fields": {
+    "Address": "548 WALNUT ST\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$131,123.63",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00854325",
+    "Defendant": "CLEMENT BETHEA A/K/A CLEMENT H. BETHEA; LVNV FUNDING LLC,",
+    "Parcel #": "TAX LOT 4 BLOCK 321",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2016-1, U.S.\nBANK NATIONAL ASSOCIATION AS INDENTURE TRUSTEE,",
+    "Property Note": "2026 Qtr 2 Due: 05/01/2026 $392.66 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Feny Ave. Camden, NJ 08104 856-541-3700 Acct: 080047095 04/01/2026\n06/30/2026$59.75 OPEN PLUS PENALTY $68.86 OPEN PLUS PENALTY\nWater: American Water Contract Services P.O. BOX 371397 Pittsburgh, PA 15250-7397 855-769-3164 AS OF THE DATE OF THIS SEARCH THE STATUS OF ACCOUNT 77-0472552-7 IS $44.20 OPEN.\nLiens: Year: 2025 Type: 3RD PARTY CCMUA Amount: $709.46 Cert No.: 26-00321 Sold: 04/06/2026 To: FIG 25, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54\nMISCELLANEOUS PROPERTY REGISTRATION FEE: THE NEXT RENEWAL FEE IS DUE 08/27/2026.\nTHE AMOUNT WILL BE $2,000 IF VACANT, AND $500 IF OCCUPIED. PLEASE CONTACT VACANT\nPROPERTY REGISTRY UNIT PRIOR TO CLOSING AT camdenvpr@camdennj.gov",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001479"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "548 WALNUT ST CAMDEN NJ 08104",
+    "defendant": "CLEMENT BETHEA A/K/A CLEMENT H. BETHEA; LVNV FUNDING LLC,",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2016-1, U.S. \nBANK NATIONAL ASSOCIATION AS INDENTURE TRUSTEE,",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 4 BLOCK 321",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2016-1, U.S. BANK NATIONAL ASSOCIATION AS INDENTURE TRUSTEE,",
+  "property_note": "2026 Qtr 2 Due: 05/01/2026 $392.66 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Feny Ave. Camden, NJ 08104 856-541-3700 Acct: 080047095 04/01/2026\n06/30/2026$59.75 OPEN PLUS PENALTY $68.86 OPEN PLUS PENALTY\nWater: American Water Contract Services P.O. BOX 371397 Pittsburgh, PA 15250-7397 855-769-3164 AS OF THE DATE OF THIS SEARCH THE STATUS OF ACCOUNT 77-0472552-7 IS $44.20 OPEN.\nLiens: Year: 2025 Type: 3RD PARTY CCMUA Amount: $709.46 Cert No.: 26-00321 Sold: 04/06/2026 To: FIG 25, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54\nMISCELLANEOUS PROPERTY REGISTRATION FEE: THE NEXT RENEWAL FEE IS DUE 08/27/2026.\nTHE AMOUNT WILL BE $2,000 IF VACANT, AND $500 IF OCCUPIED. PLEASE CONTACT VACANT\nPROPERTY REGISTRY UNIT PRIOR TO CLOSING AT camdenvpr@camdennj.gov",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001479",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 131123.63,
+  "upset_amount_label": "Approx. Upset*"
+}

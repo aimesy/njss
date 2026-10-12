@@ -1,0 +1,62 @@
+{
+  "address": "10 W Marvin Avenue Linwood NJ 08221",
+  "attorney": "Gary C. Zeitz, L.L.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-2811-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Kerri Anne Rizzotto; Deutsche Bank National Trust Company, as Trustee Under the Pooling and Servicing Agreement Relating to Impac Secured Assets Corp., Mortgage Pass-Through Certificates, Series 2006-4; State of New Jersey; Deutsche Bank National Trust Company, as Trustee Under the Pooling and Servicing Agreement Relating to Impac Secured Assets Corp., Mortgage Pass-Through Certificates, Series 2006-5",
+  "extracted": {},
+  "fields": {
+    "Address": "10 W Marvin Avenue\nLinwood NJ 08221",
+    "Approx. Judgment*": "$33,327.08",
+    "Attorney": "Gary C. Zeitz, L.L.C.",
+    "Court Case #": "F-2811-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Kerri Anne Rizzotto; Deutsche Bank National Trust Company, as Trustee Under the Pooling and Servicing Agreement Relating to Impac Secured Assets Corp., Mortgage Pass-Through Certificates, Series 2006-4; State of New Jersey; Deutsche Bank National Trust Company, as Trustee Under the Pooling and Servicing Agreement Relating to Impac Secured Assets Corp., Mortgage Pass-Through Certificates, Series 2006-5",
+    "Plaintiff": "Fundpality II, LLC",
+    "Priors": "OPEN TAXES QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING THE CITY OF LINWOOD OF JANUARY 21, 2026 $5,049.06",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "4/30/2026",
+    "Sheriff #": "F-26000141",
+    "Upset Amount": "$47,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 33327.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 W Marvin Avenue Linwood NJ 08221",
+    "defendant": "Kerri Anne Rizzotto;...",
+    "listing_status": null,
+    "plaintiff": "Fundpality II, LLC...",
+    "sale_date": "2026-04-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Fundpality II, LLC",
+  "priors": "OPEN TAXES QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING THE CITY OF LINWOOD OF JANUARY 21, 2026 $5,049.06",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2026-04-30",
+  "sheriff_number": "F-26000141",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-30",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 47000.0,
+  "upset_amount_label": "Upset Amount"
+}

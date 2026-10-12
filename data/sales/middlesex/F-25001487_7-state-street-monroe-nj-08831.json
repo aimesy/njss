@@ -1,0 +1,71 @@
+{
+  "address": "7 STATE STREET MONROE NJ 08831",
+  "attorney": "GROSS POLOWY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00976424",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "BARBARA J. BRODIE, ET ALS.",
+  "description": "LOT 7 BLOCK 69",
+  "extracted": {
+    "block": "69",
+    "lot": "7"
+  },
+  "fields": {
+    "Approx. Judgment*": "$154,122.58",
+    "Attorney": "GROSS POLOWY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00976424",
+    "Defendant": "BARBARA J. BRODIE, ET ALS.",
+    "Description": "LOT 7 BLOCK 69",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Address": "7 STATE STREET\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25001487"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 154122.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 STATE STREET MONROE NJ 08831",
+    "defendant": "BARBARA J. BRODIE, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25001487",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

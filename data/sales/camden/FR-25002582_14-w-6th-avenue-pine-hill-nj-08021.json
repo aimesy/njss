@@ -1,0 +1,69 @@
+{
+  "address": "14 W 6TH AVENUE PINE HILL NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00810125",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "BARBARA A. METZCHER A/K/A BARBARA METZCHER; MR. METZCHER, SPOUSE OF BARBARA A. METZCHER A/K/A BARBARA METZCHER; MIDLAND FUNDING, LLC; UNIFUND CCR LLC; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+  "extracted": {},
+  "fields": {
+    "Address": "14 W 6TH AVENUE\nPINE HILL NJ 08021",
+    "Approx. Upset*": "$197,678.52",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00810125",
+    "Defendant": "BARBARA A. METZCHER A/K/A BARBARA METZCHER; MR. METZCHER, SPOUSE OF\nBARBARA A. METZCHER A/K/A BARBARA METZCHER; MIDLAND FUNDING, LLC; UNIFUND CCR LLC; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING\nAND URBAN DEVELOPMENT,",
+    "Parcel #": "LOT 53 F/N/A LOT 53 AND 53 BLOCK 72",
+    "Plaintiff": "LONGBRIDGE FINANCIAL, LLC,",
+    "Property Note": "2026 QTR. 2 DUE: 05/01/2026 $1,748.85 BILLED; $1679.99 OPEN; $50.86 PAID; PREPAID TAXES CAN BE SUBJECT TO REFUND – VERIFY STATUS OF PAYMENT PRIOR TO CLOSING.\nMISCELLANEOUS: PROPERTY REGISTRATION FEES EXIST. PLEASE CONTACT HERA PROPERTY REGISTRY (321)234-5303 FOR DETAILS.",
+    "Sales Date": "6/10/2026",
+    "Sheriff #": "FR-25002582"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "14 W 6TH AVENUE PINE HILL NJ 08021",
+    "defendant": "BARBARA A. METZCHER A/K/A BARBARA METZCHER; MR. METZCHER, SPOUSE OF \nBARBARA A. METZCHER A/K/A BARBARA METZCHER; MIDLAND FUNDING, LLC; UNIFUND CCR LLC; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING \nAND URBAN DEVELOPMENT,",
+    "listing_status": null,
+    "plaintiff": "LONGBRIDGE FINANCIAL, LLC,",
+    "sale_date": "2026-06-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 53 F/N/A LOT 53 AND 53 BLOCK 72",
+  "plaintiff": "LONGBRIDGE FINANCIAL, LLC,",
+  "property_note": "2026 QTR. 2 DUE: 05/01/2026 $1,748.85 BILLED; $1679.99 OPEN; $50.86 PAID; PREPAID TAXES CAN BE SUBJECT TO REFUND – VERIFY STATUS OF PAYMENT PRIOR TO CLOSING.\nMISCELLANEOUS: PROPERTY REGISTRATION FEES EXIST. PLEASE CONTACT HERA PROPERTY REGISTRY (321)234-5303 FOR DETAILS.",
+  "sale_date": "2026-06-10",
+  "sheriff_number": "FR-25002582",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-10",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 197678.52,
+  "upset_amount_label": "Approx. Upset*"
+}

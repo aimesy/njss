@@ -1,0 +1,65 @@
+{
+  "address": "79 LAPIERRE AVENUE LAWNSIDE NJ 08045",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00254225",
+  "current_status": "Scheduled",
+  "defendant": "CELESTE BROWN, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DORIS CARPENTER; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; PAUL BROWN;",
+  "extracted": {},
+  "fields": {
+    "Address": "79 LAPIERRE AVENUE\nLAWNSIDE NJ 08045",
+    "Approx. Upset*": "$211,573.06",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00254225",
+    "Defendant": "CELESTE BROWN, INDIVIDUALLY AND AS ADMINISTRATOR\nOF THE ESTATE OF DORIS CARPENTER; STATE OF NEW JERSEY;\nUNITED STATES OF AMERICA; PAUL BROWN;",
+    "Parcel #": "LOT: 24; BLOCK:1104",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTINA\nTRUST, NOT AIN ITS INDIVIDUAL CAPACITY BUT AS TRUSTEE\nOF SECURITIZED MORTGAGE ASSET LOAN TRUST 2015-1,",
+    "Property Note": "2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\nSewer: Acct. 831-0, $90.00 OPEN AND DUE 10/1/2026; $324.76 OPEN PLUS PENALTY; OWD IN ARREARS\nCCMUA: Acct. 210012043, To: 9/17/2026, $765.53 OPEN PLUS PENALTY",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-25002473"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "79 LAPIERRE AVENUE LAWNSIDE NJ 08045",
+    "defendant": "CELESTE BROWN, INDIVIDUALLY AND AS ADMINISTRATOR \nOF THE ESTATE OF DORIS CARPENTER; STATE OF NEW JERSEY; \nUNITED STATES OF AMERICA; PAUL BROWN;",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTINA \nTRUST, NOT AIN ITS INDIVIDUAL CAPACITY BUT AS TRUSTEE \nOF SECURITIZED MORTGAGE ASSET LOAN TRUST 2015-1,",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT: 24; BLOCK:1104",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTINA TRUST, NOT AIN ITS INDIVIDUAL CAPACITY BUT AS TRUSTEE OF SECURITIZED MORTGAGE ASSET LOAN TRUST 2015-1,",
+  "property_note": "2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\nSewer: Acct. 831-0, $90.00 OPEN AND DUE 10/1/2026; $324.76 OPEN PLUS PENALTY; OWD IN ARREARS\nCCMUA: Acct. 210012043, To: 9/17/2026, $765.53 OPEN PLUS PENALTY",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-25002473",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 211573.06,
+  "upset_amount_label": "Approx. Upset*"
+}

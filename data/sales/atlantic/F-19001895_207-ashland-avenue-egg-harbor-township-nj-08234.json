@@ -1,0 +1,90 @@
+{
+  "address": "207 Ashland Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-024585-18 PLURIES",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank National Association",
+  "deed_address": "2800 Tamarack Road, Owensboro, Kentucky 42301",
+  "defendant": "Pedro Quinones; Eva J. Montes; United States of America; Shore Medical Center; New Century Financial Services Assignee of Credit One Bank NA",
+  "extracted": {},
+  "fields": {
+    "Address": "207 Ashland Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$219,656.36",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-024585-18 PLURIES",
+    "Deed": "U.S. Bank National Association",
+    "Deed Address": "2800 Tamarack Road, Owensboro, Kentucky 42301",
+    "Defendant": "Pedro Quinones; Eva J. Montes; United States of America; Shore Medical Center; New Century Financial Services Assignee of Credit One Bank NA",
+    "Plaintiff": "U.S. Bank National Association",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "3/6/2025",
+    "Sheriff #": "F-19001895",
+    "Upset Amount": "$262,200.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 219656.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "207 Ashland Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Pedro Quinones; Eva ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2025-03-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-03-06",
+  "sheriff_number": "F-19001895",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-06",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Adjourned - Other"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 262200.0,
+  "upset_amount_label": "Upset Amount"
+}

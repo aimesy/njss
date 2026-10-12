@@ -1,0 +1,96 @@
+{
+  "address": "182 SUNSHINE DRIVE PISCATAWAY NJ 08854",
+  "attorney": "KML LAW GROUP P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00320324",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JASON FRANK RIKER, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$189,957.96",
+    "Attorney": "KML LAW GROUP P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00320324",
+    "Defendant": "JASON FRANK RIKER, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT NO. 1.03 C0182 BLOCK 3301 FKA 413.01",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Address": "182 SUNSHINE DRIVE\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-24000042"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 189957.96,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "182 SUNSHINE DRIVE PISCATAWAY NJ 08854",
+    "defendant": "JASON FRANK RIKER, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT NO. 1.03 C0182 BLOCK 3301 FKA 413.01",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-24000042",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-05-28",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

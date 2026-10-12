@@ -1,0 +1,62 @@
+{
+  "address": "130 Iroquois Drive Galloway Township NJ 08205",
+  "attorney": "Ansell Grimm & Aaron, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007411-20 ALIAS",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Francisco Lleras",
+  "extracted": {},
+  "fields": {
+    "Address": "130 Iroquois Drive\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$7,961.17",
+    "Attorney": "Ansell Grimm & Aaron, PC",
+    "Court Case #": "F-007411-20 ALIAS",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Francisco Lleras",
+    "Plaintiff": "Society Hill at Galloway II Condominium Association Inc.",
+    "Priors": "MERS for Bank of America-Original principal 10/6/11 amount: $86,725.00\nCertification of Tax Sale recorded 3/6/2024 amount: $261.35\nCertification of Tax Sale recorded 3/4/2016 amount: $490.22\nCertification of Tax Sale recorded 3/3/2021 amount: $465.58\nSociety Hill at Galloway II Condo. Association rec. 6/22/2022 amount: $17,204.81\nSociety Hill at Galloway II Condo. Association rec. 2/14/2024 amount: $40,569.09\nTotal: $145,716.05",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/6/2026",
+    "Sheriff #": "F-21001391",
+    "Upset Amount": "$81,707.35"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 7961.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "130 Iroquois Drive Galloway Township NJ 08205",
+    "defendant": "Francisco Lleras...",
+    "listing_status": null,
+    "plaintiff": "Society Hill at Gall...",
+    "sale_date": "2026-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Society Hill at Galloway II Condominium Association Inc.",
+  "priors": "MERS for Bank of America-Original principal 10/6/11 amount: $86,725.00 Certification of Tax Sale recorded 3/6/2024 amount: $261.35 Certification of Tax Sale recorded 3/4/2016 amount: $490.22 Certification of Tax Sale recorded 3/3/2021 amount: $465.58 Society Hill at Galloway II Condo. Association rec. 6/22/2022 amount: $17,204.81 Society Hill at Galloway II Condo. Association rec. 2/14/2024 amount: $40,569.09 Total: $145,716.05",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-06",
+  "sheriff_number": "F-21001391",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-06",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 81707.35,
+  "upset_amount_label": "Upset Amount"
+}

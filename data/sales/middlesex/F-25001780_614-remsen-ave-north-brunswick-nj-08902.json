@@ -1,0 +1,64 @@
+{
+  "address": "614 REMSEN AVE NORTH BRUNSWICK NJ 08902",
+  "attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 325-8800",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00702424",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "MATTHEW KANE, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF MICHAEL GEORGE KANE, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$118,214.99",
+    "Attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00702424",
+    "Defendant": "MATTHEW KANE, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF MICHAEL GEORGE KANE, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 5 BLOCK 183",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Address": "614 REMSEN AVE\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-25001780"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 118214.99,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "614 REMSEN AVE NORTH BRUNSWICK NJ 08902",
+    "defendant": "MATTHEW KANE, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF MICHAEL GEORGE KANE, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 5 BLOCK 183",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-25001780",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

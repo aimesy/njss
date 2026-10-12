@@ -1,0 +1,61 @@
+{
+  "address": "304 LINCOLN AVE MOUNT EPHRAIM NJ 08059",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F561525",
+  "current_status": "Purchased",
+  "defendant": "JONATHAN DANIELEWICZ, ET ALS.",
+  "extracted": {},
+  "fields": {
+    "Address": "304 LINCOLN AVE\nMOUNT EPHRAIM NJ 08059",
+    "Approx. Upset*": "$176,178.66",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F561525",
+    "Defendant": "JONATHAN DANIELEWICZ, ET ALS.",
+    "Parcel #": "",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "FR-25002389"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "304 LINCOLN AVE MOUNT EPHRAIM NJ 08059",
+    "defendant": "JONATHAN DANIELEWICZ, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-04-01",
+  "sheriff_number": "FR-25002389",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 176178.66,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "107 HOYT STREET KEARNY NJ 07032",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-010469-24",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "CAPTORONE TECHNOLOGIES INC.; ET AL.",
+  "description": "TAX LOT(S): 27, BLOCK: 260\nDIMENSIONS (APPROX.): 25 X 81\nNEAREST CROSS STREET: DAVIS AVENUE\nTAX CERTIFICATE\nRECORDED: MARCH 17, 2021\nHOLDER: GREYMORR LLC\nAMOUNT: $10,499.07\nBOOK:\nPAGE:\nINSTRUMENT NUMBER: 20210317060045330\nGOOD FAITH ESTIMATED UPSET PRICE: $857,301.86\nOCCUPANCY STATUS: OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "block": "260",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 857301.86
+  },
+  "fields": {
+    "Address": "107 HOYT STREET\nKEARNY NJ 07032",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-010469-24",
+    "Defendant": "CAPTORONE TECHNOLOGIES INC.; ET AL.",
+    "Description": "TAX LOT(S): 27, BLOCK: 260\nDIMENSIONS (APPROX.): 25 X 81\nNEAREST CROSS STREET: DAVIS AVENUE\nTAX CERTIFICATE\nRECORDED: MARCH 17, 2021\nHOLDER: GREYMORR LLC\nAMOUNT: $10,499.07\nBOOK:\nPAGE:\nINSTRUMENT NUMBER: 20210317060045330\nGOOD FAITH ESTIMATED UPSET PRICE: $857,301.86\nOCCUPANCY STATUS: OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Good Faith Upset*": "$857,301.86",
+    "Judgment": "$786,742.26",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE ON BEHALF OD PRP 2022-INV1 TRUST",
+    "Property Note": "",
+    "Sales Date": "8/27/2026",
+    "Sheriff #": "20062641"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 786742.26,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "107 HOYT STREET KEARNY NJ 07032",
+    "defendant": "CAPTORONE TECHNOLOGIES INC.; ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE ON BEHALF OD PRP 2022-INV1 TRUST",
+    "sale_date": "2026-08-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE ON BEHALF OD PRP 2022-INV1 TRUST",
+  "property_note": null,
+  "sale_date": "2026-08-27",
+  "sheriff_number": "20062641",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-06-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 857301.86,
+  "upset_amount_label": "Good Faith Upset*"
+}

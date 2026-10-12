@@ -1,0 +1,59 @@
+{
+  "address": "105 Edgemont Drive Allenhurst NJ 07711-1202",
+  "attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00405825",
+  "current_status": "Scheduled",
+  "defendant": "Jack Menashe, et al.",
+  "description": "Approximate Dimensions: 51' x 129'\nNearest Cross Street: Ocean Place\nThe plaintiff’s Upset Bid presently approximates $404,000.00.\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "105 Edgemont Drive\nAllenhurst NJ 07711-1202",
+    "Approx. Judgment*": "$377,489.89",
+    "Attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+    "Court Case #": "F00405825",
+    "Defendant": "Jack Menashe, et al.",
+    "Description": "Approximate Dimensions: 51' x 129'\nNearest Cross Street: Ocean Place\nThe plaintiff’s Upset Bid presently approximates $404,000.00.\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot: 15 Block: 9 Located on the tax map of the Township of the Village of Loch Arbour",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "11/23/2026",
+    "Sheriff #": "FOR-26001637"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 377489.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "105 Edgemont Drive Allenhurst NJ 07711-1202",
+    "defendant": "Jack Menashe, et al.",
+    "listing_status": "Adjournment Defendant",
+    "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "sale_date": "2026-11-23"
+  },
+  "listing_status": "Adjournment Defendant",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 15 Block: 9 Located on the tax map of the Township of the Village of Loch Arbour",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2026-11-23",
+  "sheriff_number": "FOR-26001637",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-11-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-10-26",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-09-28",
+      "status": "Scheduled"
+    }
+  ]
+}

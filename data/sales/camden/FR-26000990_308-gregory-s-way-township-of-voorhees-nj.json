@@ -1,0 +1,53 @@
+{
+  "address": "308 GREGORY'S WAY TOWNSHIP OF VOORHEES NJ",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00165824",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "KEVIN J. COTTEN ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "308 GREGORY'S WAY\nTOWNSHIP OF VOORHEES NJ",
+    "Approx. Upset*": "$227,323.84",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F00165824",
+    "Defendant": "KEVIN J. COTTEN ET AL.",
+    "Parcel #": "BLOCK 150.17 LOT 6, C0308",
+    "Plaintiff": "NAVY FEDERAL CREDIT UNION",
+    "Property Note": "",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-26000990"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "308 GREGORY'S WAY TOWNSHIP OF VOORHEES NJ",
+    "defendant": "KEVIN J. COTTEN ET AL.",
+    "listing_status": null,
+    "plaintiff": "NAVY FEDERAL CREDIT UNION",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 150.17 LOT 6, C0308",
+  "plaintiff": "NAVY FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-26000990",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 227323.84,
+  "upset_amount_label": "Approx. Upset*"
+}

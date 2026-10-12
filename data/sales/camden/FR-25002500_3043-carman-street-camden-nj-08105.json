@@ -1,0 +1,53 @@
+{
+  "address": "3043 CARMAN STREET CAMDEN NJ 08105",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00269625",
+  "current_status": "Scheduled",
+  "defendant": "GERALDINE C. MACK A/K/A GERALDINE MACK, ET AL;",
+  "extracted": {},
+  "fields": {
+    "Address": "3043 CARMAN STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$76,608.27",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00269625",
+    "Defendant": "GERALDINE C. MACK A/K/A GERALDINE MACK, ET AL;",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS\nTRUSTEE FOR IGLOO SERIES IV TRUST,",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "FR-25002500"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3043 CARMAN STREET CAMDEN NJ 08105",
+    "defendant": "GERALDINE C. MACK A/K/A GERALDINE MACK, ET AL;",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS \nTRUSTEE FOR IGLOO SERIES IV TRUST,",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE FOR IGLOO SERIES IV TRUST,",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "FR-25002500",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 76608.27,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "9 Greenlawn Avenue Clifton NJ 07011",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 011469 18 CTRL# 162900",
+  "current_status": "Bankruptcy",
+  "defendant": "DARIN R. RUPPERT A/K/A DARIN RUPPERT; ET ALS.",
+  "description": "Dimensions of Lot: 67 feet wide by 100 feet long\nNearest Cross Street: Broad Street\nEstimated upset bid amount: $722,300.00, plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nSewer: Clifton City 900 Clifton Ave, Clifton NJ 07013 973-470-5833. Acct: 142637 0 07/01/2025-12-31/2025 $81.00 Open plus penalty $81.00 Open\n** Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/ orr have priority over the lien being foreclosed and, if so the current amoutn due thereon .",
+  "extracted": {
+    "lot": "67",
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "9 Greenlawn Avenue\nClifton NJ 07011",
+    "Approx. Upset*": "$545,694.49",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 011469 18 CTRL# 162900",
+    "Defendant": "DARIN R. RUPPERT A/K/A DARIN RUPPERT; ET ALS.",
+    "Description": "Dimensions of Lot: 67 feet wide by 100 feet long\nNearest Cross Street: Broad Street\nEstimated upset bid amount: $722,300.00, plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nSewer: Clifton City 900 Clifton Ave, Clifton NJ 07013 973-470-5833. Acct: 142637 0 07/01/2025-12-31/2025 $81.00 Open plus penalty $81.00 Open\n** Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/ orr have priority over the lien being foreclosed and, if so the current amoutn due thereon .",
+    "Parcel #": "Tax LOT 14 BLOCK 46.03",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER",
+    "Property Note": "",
+    "Sales Date": "1/20/2026",
+    "Sheriff #": "F-25000032"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "9 Greenlawn Avenue Clifton NJ 07011",
+    "defendant": "DARIN R. RUPPERT A/K/A DARIN RUPPERT; ET ALS.",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER",
+    "sale_date": "2026-01-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax LOT 14 BLOCK 46.03",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER",
+  "property_note": null,
+  "sale_date": "2026-01-20",
+  "sheriff_number": "F-25000032",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 545694.49,
+  "upset_amount_label": "Approx. Upset*"
+}

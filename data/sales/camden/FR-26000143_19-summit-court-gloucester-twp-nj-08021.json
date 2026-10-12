@@ -1,0 +1,53 @@
+{
+  "address": "19 SUMMIT COURT GLOUCESTER TWP NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00733122",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ANNMARIE SATCHELL A/K/A ANN MARIE SATCHELL F/K/A ANN MARIE SATCHELL HAYWARD; MR. SATCHELL, SPOUSE OF ANNMARIE SATCHELL F/K/A ANN MARIE SATCHELL-HAYWARD; KNOLL RUN EAST HOME OWNER'S ASSOCIATION A/K/A KNOLL RUN EAST HOMEOWNER,",
+  "extracted": {},
+  "fields": {
+    "Address": "19 SUMMIT COURT\nGLOUCESTER TWP NJ 08021",
+    "Approx. Upset*": "$308,444.36",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00733122",
+    "Defendant": "ANNMARIE SATCHELL A/K/A ANN MARIE SATCHELL F/K/A ANN\nMARIE SATCHELL HAYWARD; MR. SATCHELL, SPOUSE OF\nANNMARIE SATCHELL F/K/A ANN MARIE SATCHELL-HAYWARD;\nKNOLL RUN EAST HOME OWNER'S ASSOCIATION A/K/A KNOLL\nRUN EAST HOMEOWNER,",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST\nFOR THE REGISTERED HOLDERS OF MORGAN STANLEY ABS CAPITAL I\nINC. TRUST 2006-HE8, MORTGAGE PASS-THROUGH CERTIFICATES,\nSERIES 2006 HE8,",
+    "Property Note": "",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "FR-26000143"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "19 SUMMIT COURT GLOUCESTER TWP NJ 08021",
+    "defendant": "ANNMARIE SATCHELL A/K/A ANN MARIE SATCHELL F/K/A ANN \nMARIE SATCHELL HAYWARD; MR. SATCHELL, SPOUSE OF \nANNMARIE SATCHELL F/K/A ANN MARIE SATCHELL-HAYWARD; \nKNOLL RUN EAST HOME OWNER'S ASSOCIATION A/K/A KNOLL \nRUN EAST HOMEOWNER,",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST \nFOR THE REGISTERED HOLDERS OF MORGAN STANLEY ABS CAPITAL I \nINC. TRUST 2006-HE8, MORTGAGE PASS-THROUGH CERTIFICATES, \nSERIES 2006 HE8,",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR THE REGISTERED HOLDERS OF MORGAN STANLEY ABS CAPITAL I INC. TRUST 2006-HE8, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006 HE8,",
+  "property_note": null,
+  "sale_date": "2026-04-15",
+  "sheriff_number": "FR-26000143",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 308444.36,
+  "upset_amount_label": "Approx. Upset*"
+}

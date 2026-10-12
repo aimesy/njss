@@ -1,0 +1,64 @@
+{
+  "address": "704 SHERIDAN AVENUE PLAINFIELD NJ 07060",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00359825",
+  "current_status": "Scheduled",
+  "defendant": "RODERICK Z. CHUBB; KEISHA CHUBB; MIDLAND FUNDING LLC",
+  "description": "LOT 3 BLOCK 530",
+  "extracted": {
+    "block": "530",
+    "lot": "3"
+  },
+  "fields": {
+    "Address": "704 SHERIDAN AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$139,466.40",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00359825",
+    "Defendant": "RODERICK Z. CHUBB; KEISHA CHUBB; MIDLAND FUNDING LLC",
+    "Description": "LOT 3 BLOCK 530",
+    "Parcel #": "LOT 3 BLOCK 530",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "CH-25002723"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "704 SHERIDAN AVENUE PLAINFIELD NJ 07060",
+    "defendant": "RODERICK Z. CHUBB; KEISHA CHUBB; MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 3 BLOCK 530",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-18",
+  "sheriff_number": "CH-25002723",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 139466.4,
+  "upset_amount_label": "Approx. Upset*"
+}

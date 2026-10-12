@@ -1,0 +1,61 @@
+{
+  "address": "7 Bridle Path Tinton Falls NJ 07753",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00491522",
+  "current_status": "Scheduled",
+  "defendant": "Paul Ogunmefun et al.",
+  "description": "Dimensions of Lot: (Approximately) 75 feet by 100 feet\nNearest Cross Street: Fox Chase Drive\nThe estimated upset amount for the scheduled sheriff sale is currently $425,241.30\nThe upset prise is NOT the same as a payoff or judgement redemption amount.\nThe property is occupied by UNKNOWN",
+  "extracted": {},
+  "fields": {
+    "Address": "7 Bridle Path\nTinton Falls NJ 07753",
+    "Approx. Judgment*": "$359,161.76",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00491522",
+    "Defendant": "Paul Ogunmefun et al.",
+    "Description": "Dimensions of Lot: (Approximately) 75 feet by 100 feet\nNearest Cross Street: Fox Chase Drive\nThe estimated upset amount for the scheduled sheriff sale is currently $425,241.30\nThe upset prise is NOT the same as a payoff or judgement redemption amount.\nThe property is occupied by UNKNOWN",
+    "Parcel #": "Tax Lot No: 56 Block: 129.07 located on the official Tax Map of The Borough of Tinton Falls",
+    "Plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.",
+    "Property Note": "",
+    "Sales Date": "10/27/2025",
+    "Sheriff #": "FOR-25001413"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 359161.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 Bridle Path Tinton Falls NJ 07753",
+    "defendant": "Paul Ogunmefun et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.",
+    "sale_date": "2025-10-27"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No: 56 Block: 129.07 located on the official Tax Map of The Borough of Tinton Falls",
+  "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.",
+  "property_note": null,
+  "sale_date": "2025-10-27",
+  "sheriff_number": "FOR-25001413",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-27",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Scheduled"
+    }
+  ]
+}

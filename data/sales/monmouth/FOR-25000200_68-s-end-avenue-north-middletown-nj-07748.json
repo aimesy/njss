@@ -1,0 +1,63 @@
+{
+  "address": "68 S. End Avenue North Middletown NJ 07748",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01009124",
+  "current_status": "Scheduled",
+  "defendant": "Lawrence H. Coleman et al.",
+  "description": "Approximate Dimensions: 50 ft x 100 ft\nNearest Cross Street: Center Avenue\nPlaintiff's good faith estimate of its upset price is: $90,700.00\nThe occupancy status of the property is: OWNER OCCUPIED\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney.",
+  "extracted": {
+    "upset_amount": 90700.0
+  },
+  "fields": {
+    "Address": "68 S. End Avenue\nNorth Middletown NJ 07748",
+    "Approx. Judgment*": "$228,097.34",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F01009124",
+    "Defendant": "Lawrence H. Coleman et al.",
+    "Description": "Approximate Dimensions: 50 ft x 100 ft\nNearest Cross Street: Center Avenue\nPlaintiff's good faith estimate of its upset price is: $90,700.00\nThe occupancy status of the property is: OWNER OCCUPIED\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney.",
+    "Parcel #": "Tax Lot: #2 Block: #120 Located on the official tax map of the Township of Middletown",
+    "Plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+    "Property Note": "",
+    "Sales Date": "5/29/2025",
+    "Sheriff #": "FOR-25000200"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 228097.34,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "68 S. End Avenue North Middletown NJ 07748",
+    "defendant": "Lawrence H. Coleman et al.",
+    "listing_status": "Reinstated",
+    "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+    "sale_date": "2025-05-29"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: #2 Block: #120 Located on the official tax map of the Township of Middletown",
+  "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+  "property_note": null,
+  "sale_date": "2025-05-29",
+  "sheriff_number": "FOR-25000200",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-29",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    }
+  ]
+}

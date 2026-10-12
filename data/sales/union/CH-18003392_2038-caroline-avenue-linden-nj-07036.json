@@ -1,0 +1,96 @@
+{
+  "address": "2038 CAROLINE AVENUE LINDEN NJ 07036",
+  "attorney": "SHAPIRO & DENARDO, LLC - ATTORNEYS",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F02255416",
+  "current_status": "Cancelled",
+  "defendant": "ANGEL BERRIOS AND ANGELLIS BERRIOS A/K/A ARGELIS BERRIOS, HIS WIFE; SARAH DIAZ A/K/A SARA DIAZ; SPARTA MEDICAL ASSOCIATES; FIA CARD SERVICES; NATIONAL CITY BANK N/K/A PNC BANK, NATIONAL ASSOCIATION",
+  "description": "TAX LOT 8.01 BLOCK 9 F/K/A LOT 8.1 BLOCK 9",
+  "extracted": {
+    "block": "9",
+    "lot": "8.01"
+  },
+  "fields": {
+    "Address": "2038 CAROLINE AVENUE\nLINDEN NJ 07036",
+    "Approx. Upset*": "$580,959.37",
+    "Attorney": "SHAPIRO & DENARDO, LLC - ATTORNEYS",
+    "Court Case #": "F02255416",
+    "Defendant": "ANGEL BERRIOS AND ANGELLIS BERRIOS A/K/A ARGELIS BERRIOS, HIS WIFE; SARAH DIAZ A/K/A SARA DIAZ; SPARTA MEDICAL ASSOCIATES; FIA CARD SERVICES; NATIONAL CITY BANK N/K/A PNC BANK, NATIONAL ASSOCIATION",
+    "Description": "TAX LOT 8.01 BLOCK 9 F/K/A LOT 8.1 BLOCK 9",
+    "Parcel #": "TAX LOT 8.01 BLOCK 9 F/K/A LOT 8.1 BLOCK 9",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2016-CTT",
+    "Property Note": "",
+    "Sales Date": "4/6/2026",
+    "Sheriff #": "CH-18003392"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2038 CAROLINE AVENUE LINDEN NJ 07036",
+    "defendant": "ANGEL BERRIOS AND ANGELLIS BERRIOS A/K/A ARGELIS BERRIOS, HIS WIFE; SARAH DIAZ A/K/A SARA DIAZ; SPARTA MEDICAL ASSOCIATES; FIA CARD SERVICES; NATIONAL CITY BANK N/K/A PNC BANK, NATIONAL ASSOCIATION",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2016-CTT",
+    "sale_date": "2026-04-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "TAX LOT 8.01 BLOCK 9 F/K/A LOT 8.1 BLOCK 9",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2016-CTT",
+  "property_note": null,
+  "sale_date": "2026-04-06",
+  "sheriff_number": "CH-18003392",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2018-11-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2019-01-09",
+      "status": "ADJOURNED DUE TO BANKRUPTCY"
+    },
+    {
+      "date": "2019-01-09",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2019-03-13",
+      "status": "ADJOURNED DUE TO BANKRUPTCY"
+    },
+    {
+      "date": "2019-03-27",
+      "status": "ADJOURNED DUE TO BANKRUPTCY"
+    },
+    {
+      "date": "2019-04-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2019-06-05",
+      "status": "ADJOURNED DUE TO BANKRUPTCY"
+    },
+    {
+      "date": "2019-07-10",
+      "status": "ADJOURNED DUE TO BANKRUPTCY"
+    },
+    {
+      "date": "2019-07-24",
+      "status": "ADJOURNED DUE TO BANKRUPTCY"
+    },
+    {
+      "date": "2019-08-07",
+      "status": "ADJOURNED DUE TO BANKRUPTCY"
+    },
+    {
+      "date": "2019-08-07",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 580959.37,
+  "upset_amount_label": "Approx. Upset*"
+}

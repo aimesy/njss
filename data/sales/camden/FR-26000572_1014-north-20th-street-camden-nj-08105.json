@@ -1,0 +1,65 @@
+{
+  "address": "1014 NORTH 20TH STREET CAMDEN NJ 08105",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00854025",
+  "current_status": "Court Adjournment",
+  "defendant": "GLORIA FRAZIER, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1014 NORTH 20TH STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$82,860.03",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F00854025",
+    "Defendant": "GLORIA FRAZIER, ET AL.",
+    "Parcel #": "BLOCK 850, LOT 20",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26000572"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1014 NORTH 20TH STREET CAMDEN NJ 08105",
+    "defendant": "GLORIA FRAZIER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 850, LOT 20",
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26000572",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 82860.03,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,59 @@
+{
+  "address": "85 Park Boulevard Asbury Park NJ 07712",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00365025",
+  "current_status": "Scheduled",
+  "defendant": "Dany Mulholland, et al",
+  "description": "Dimensions of Lot (approximately): 100X100\nNearest Cross Street: Evergreen Avenue\nApprox Upset Price - $109,065.73\nProperty Status - Borrower Occupied\nSenior to senior lien mortgage - Greenpoint Mortgage Funding, Inc. recorded 2/20/2027 BK 8631 PG 3951 in the amount of $247,000.00 - interested parties are to obtain their own payoff amount from senior lien.\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 109065.73
+  },
+  "fields": {
+    "Address": "85 Park Boulevard\nAsbury Park NJ 07712",
+    "Approx. Judgment*": "$98,656.86",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F00365025",
+    "Defendant": "Dany Mulholland, et al",
+    "Description": "Dimensions of Lot (approximately): 100X100\nNearest Cross Street: Evergreen Avenue\nApprox Upset Price - $109,065.73\nProperty Status - Borrower Occupied\nSenior to senior lien mortgage - Greenpoint Mortgage Funding, Inc. recorded 2/20/2027 BK 8631 PG 3951 in the amount of $247,000.00 - interested parties are to obtain their own payoff amount from senior lien.\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Block 85 Lot 24 Tax Map of Township of Ocean",
+    "Plaintiff": "RRA CP OPPORTUNITY TRUST 1",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "FOR-25001714"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 98656.86,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "85 Park Boulevard Asbury Park NJ 07712",
+    "defendant": "Dany Mulholland, et al",
+    "listing_status": "Settled",
+    "plaintiff": "RRA CP OPPORTUNITY TRUST 1",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 85 Lot 24 Tax Map of Township of Ocean",
+  "plaintiff": "RRA CP OPPORTUNITY TRUST 1",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "FOR-25001714",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Scheduled"
+    }
+  ]
+}

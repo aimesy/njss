@@ -1,0 +1,64 @@
+{
+  "address": "136-138 ELM STREET ELIZABETH NJ 07208",
+  "attorney": "GROSS POLOWY, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00211723",
+  "current_status": "Settled",
+  "defendant": "VERNICE PETERS AND UNITED STATES OF AMERICA",
+  "description": "LOT 416 BLOCK 13",
+  "extracted": {
+    "block": "13",
+    "lot": "416"
+  },
+  "fields": {
+    "Address": "136-138 ELM STREET\nELIZABETH NJ 07208",
+    "Approx. Upset*": "$338,109.00",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Court Case #": "F00211723",
+    "Defendant": "VERNICE PETERS AND UNITED STATES OF AMERICA",
+    "Description": "LOT 416 BLOCK 13",
+    "Parcel #": "LOT 416 BLOCK 13",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "3/16/2026",
+    "Sheriff #": "CH-25001674"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "136-138 ELM STREET ELIZABETH NJ 07208",
+    "defendant": "VERNICE PETERS AND UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2026-03-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 416 BLOCK 13",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-03-16",
+  "sheriff_number": "CH-25001674",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Vacated"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 338109.0,
+  "upset_amount_label": "Approx. Upset*"
+}

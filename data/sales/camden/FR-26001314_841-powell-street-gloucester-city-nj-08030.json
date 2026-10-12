@@ -1,0 +1,65 @@
+{
+  "address": "841 POWELL STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "215-855-9521 NORTH WALES",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00130225",
+  "current_status": "Defendant Adjournment",
+  "defendant": "EDWIN A. RUIZ, DISCOVER BANK, MR. OR MRS. RUIZ THE SPOUSE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF EDWIN A. RUIZ, UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "841 POWELL STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$199,274.87",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "215-855-9521 NORTH WALES",
+    "Court Case #": "F00130225",
+    "Defendant": "EDWIN A. RUIZ, DISCOVER BANK, MR. OR\nMRS. RUIZ THE SPOUSE, DOMESTIC\nPARTNER, CIVIL UNION PARTNER OF\nEDWIN A. RUIZ, UNITED STATES OF AMERICA",
+    "Parcel #": "TAX LOT: 83 BLOCK: 136.02",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26001314"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "841 POWELL STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "EDWIN A. RUIZ, DISCOVER BANK, MR. OR \nMRS. RUIZ THE SPOUSE, DOMESTIC \nPARTNER, CIVIL UNION PARTNER OF \nEDWIN A. RUIZ, UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 83 BLOCK: 136.02",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26001314",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 199274.87,
+  "upset_amount_label": "Approx. Upset*"
+}

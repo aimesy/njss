@@ -1,0 +1,60 @@
+{
+  "address": "1707 MOUNTAIN AVENUE SCOTCH PLAINS NJ 07076",
+  "attorney": "PINCUS & TARAB ATTORNEYS AT LAW",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00994324",
+  "current_status": "Defendant Adjournment",
+  "defendant": "KELVIN FRIDY, SR.; MRS. KELVIN FRIDY, SR., HIS WIFE; KISHA FRIDY; MR. FRIDY, HUSBAND OF KISHA FRIDY",
+  "description": "LOT 2 BLOCK 702",
+  "extracted": {
+    "block": "702",
+    "lot": "2"
+  },
+  "fields": {
+    "Address": "1707 MOUNTAIN AVENUE\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$96,159.31",
+    "Attorney": "PINCUS & TARAB ATTORNEYS AT LAW",
+    "Court Case #": "F00994324",
+    "Defendant": "KELVIN FRIDY, SR.; MRS. KELVIN FRIDY, SR., HIS WIFE; KISHA FRIDY; MR. FRIDY, HUSBAND OF KISHA FRIDY",
+    "Description": "LOT 2 BLOCK 702",
+    "Parcel #": "LOT 2 BLOCK 702",
+    "Plaintiff": "GULF HARBOUR INVESTMENTS CORPORATION",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "CH-25001793"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1707 MOUNTAIN AVENUE SCOTCH PLAINS NJ 07076",
+    "defendant": "KELVIN FRIDY, SR.; MRS. KELVIN FRIDY, SR., HIS WIFE; KISHA FRIDY; MR. FRIDY, HUSBAND OF KISHA FRIDY",
+    "listing_status": null,
+    "plaintiff": "GULF HARBOUR INVESTMENTS CORPORATION",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 2 BLOCK 702",
+  "plaintiff": "GULF HARBOUR INVESTMENTS CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "CH-25001793",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 96159.31,
+  "upset_amount_label": "Approx. Upset*"
+}

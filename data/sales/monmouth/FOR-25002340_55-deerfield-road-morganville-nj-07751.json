@@ -1,0 +1,56 @@
+{
+  "address": "55 Deerfield Road Morganville NJ 07751",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F03073416",
+  "current_status": "Scheduled",
+  "defendant": "Sudhir Alankar, et al.",
+  "description": "Approximate dimensions: 150 x 200 Feet\nNearest Cross Street: Edgewood Road\nUPSET PRICE $1,909,062.29\nOccupancy Status: Occupied\nSubject to: Taxes Due 11/1/2026 $9,201.31 OPEN\nSewer-01/01/2026-03/31/2026 $125.00\nOPEN $598.47 OPEN PLUS PENALTY;\nOWED IN ARREARS\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 1909062.29
+  },
+  "fields": {
+    "Address": "55 Deerfield Road\nMorganville NJ 07751",
+    "Approx. Judgment*": "$1,323,662.54",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F03073416",
+    "Defendant": "Sudhir Alankar, et al.",
+    "Description": "Approximate dimensions: 150 x 200 Feet\nNearest Cross Street: Edgewood Road\nUPSET PRICE $1,909,062.29\nOccupancy Status: Occupied\nSubject to: Taxes Due 11/1/2026 $9,201.31 OPEN\nSewer-01/01/2026-03/31/2026 $125.00\nOPEN $598.47 OPEN PLUS PENALTY;\nOWED IN ARREARS\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 83.44, Block 180 Tax Map of the Township of Marlboro",
+    "Plaintiff": "M&T Bank S/B/M Hudson City Savings Bank",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "FOR-25002340"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1323662.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "55 Deerfield Road Morganville NJ 07751",
+    "defendant": "Sudhir Alankar, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "M&T Bank S/B/M Hudson City Savings Bank",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 83.44, Block 180 Tax Map of the Township of Marlboro",
+  "plaintiff": "M&T Bank S/B/M Hudson City Savings Bank",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "FOR-25002340",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-02",
+      "status": "Canceled"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Scheduled"
+    }
+  ]
+}

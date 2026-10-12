@@ -1,0 +1,57 @@
+{
+  "address": "61 Memorial Parkway Atlantic Highlands NJ 07716",
+  "attorney": "Honig & Greenberg LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F199824",
+  "current_status": "Scheduled",
+  "defendant": "Jennifer Brown, et al",
+  "description": "Dimensions: 100x125\nNumber of feet to nearest cross-street: 312 feet to 7th Avenue\nMetes and Bounds Description: This concise description does not constitute a full legal description. The full legal description can be found in the office of the clerk of Monmouth County in Book 8427 at Page 9802\nAmount of Taxes Due and Prior Liens: $2,578.19",
+  "extracted": {},
+  "fields": {
+    "Address": "61 Memorial Parkway\nAtlantic Highlands NJ 07716",
+    "Approx. Judgment*": "$83,598.51",
+    "Attorney": "Honig & Greenberg LLC",
+    "Court Case #": "F199824",
+    "Defendant": "Jennifer Brown, et al",
+    "Description": "Dimensions: 100x125\nNumber of feet to nearest cross-street: 312 feet to 7th Avenue\nMetes and Bounds Description: This concise description does not constitute a full legal description. The full legal description can be found in the office of the clerk of Monmouth County in Book 8427 at Page 9802\nAmount of Taxes Due and Prior Liens: $2,578.19",
+    "Parcel #": "Tax Lot 9, Block 84, Tax Map of Borough of Atlantic Highlands",
+    "Plaintiff": "ATCF II New Jersey LLC",
+    "Property Note": "",
+    "Sales Date": "10/14/2025",
+    "Sheriff #": "FOR-25001437"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 83598.51,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "61 Memorial Parkway Atlantic Highlands NJ 07716",
+    "defendant": "Jennifer Brown, et al",
+    "listing_status": "Settled",
+    "plaintiff": "ATCF II New Jersey LLC",
+    "sale_date": "2025-10-14"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 9, Block 84, Tax Map of Borough of Atlantic Highlands",
+  "plaintiff": "ATCF II New Jersey LLC",
+  "property_note": null,
+  "sale_date": "2025-10-14",
+  "sheriff_number": "FOR-25001437",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-14",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Scheduled"
+    }
+  ]
+}

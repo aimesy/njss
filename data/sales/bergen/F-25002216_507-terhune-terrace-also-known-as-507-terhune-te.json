@@ -1,0 +1,59 @@
+{
+  "address": "507 TERHUNE TERRACE ALSO KNOWN AS 507 TERHUNE TERRACE TOWNSHIP OF WYCKOFF, NJ 07481 WYCKOFF NJ 07481",
+  "attorney": "LAW OFFICES OF WENARSKY AND GOLDSTEIN, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00280625",
+  "current_status": "BANKRUPTCY",
+  "defendant": "LAWRENCE A. LANDSMAN; ALYSON M. COHN, ET AL.",
+  "description": "UPSET PRICE: $772,040.00 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+  "extracted": {
+    "upset_amount": 772040.0
+  },
+  "fields": {
+    "Address": "507 TERHUNE TERRACE\nALSO KNOWN AS 507 TERHUNE TERRACE TOWNSHIP OF WYCKOFF, NJ 07481\nWYCKOFF NJ 07481",
+    "Approx. Upset*": "$716,104.33",
+    "Attorney": "LAW OFFICES OF WENARSKY AND GOLDSTEIN, LLC",
+    "Court Case #": "F00280625",
+    "Defendant": "LAWRENCE A. LANDSMAN; ALYSON M. COHN, ET AL.",
+    "Description": "UPSET PRICE: $772,040.00 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+    "Parcel #": "LOT 19, BLOCK 379",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "1/15/2026",
+    "Sheriff #": "F-25002216"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "507 TERHUNE TERRACE ALSO KNOWN AS 507 TERHUNE TERRACE TOWNSHIP OF WYCKOFF, NJ 07481 WYCKOFF NJ 07481",
+    "defendant": "LAWRENCE A. LANDSMAN; ALYSON M. COHN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-01-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 19, BLOCK 379",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-01-15",
+  "sheriff_number": "F-25002216",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 716104.33,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "7177 ROSEMONT AVE CAMDEN NJ 08105",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00169924",
+  "current_status": "Purchased",
+  "defendant": "BERDINA S BIDDLE, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "7177 ROSEMONT AVE\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$54,635.89",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00169924",
+    "Defendant": "BERDINA S BIDDLE, ET AL.",
+    "Parcel #": "LOT 2, BLOCK 6705",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26001379"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7177 ROSEMONT AVE CAMDEN NJ 08105",
+    "defendant": "BERDINA S BIDDLE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 2, BLOCK 6705",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26001379",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 54635.89,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "1344 SHERIDAN STREET CAMDEN NJ 08104",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00472725",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "SHA-ELI DREAMBUILDERS LLC; ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1344 SHERIDAN STREET\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$111,559.56",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00472725",
+    "Defendant": "SHA-ELI DREAMBUILDERS LLC; ET AL.",
+    "Parcel #": "TAX LOT:55 BLOCK 1365",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF\nTHE RESIDENTIAL, CREDIT OPPORTUNITIES TRUST IX-B,",
+    "Property Note": "",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26001452"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1344 SHERIDAN STREET CAMDEN NJ 08104",
+    "defendant": "SHA-ELI DREAMBUILDERS LLC; ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF \nTHE RESIDENTIAL, CREDIT OPPORTUNITIES TRUST IX-B,",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT:55 BLOCK 1365",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL, CREDIT OPPORTUNITIES TRUST IX-B,",
+  "property_note": null,
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26001452",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 111559.56,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "235 HILLCREST AVENUE BLACKWOOD NJ 08012",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00850923",
+  "current_status": "Settled",
+  "defendant": "LEA M. TESTA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A FRANK TESTA, OCCUPANT,",
+  "extracted": {},
+  "fields": {
+    "Address": "235 HILLCREST AVENUE\nBLACKWOOD NJ 08012",
+    "Approx. Upset*": "$203,043.17",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00850923",
+    "Defendant": "LEA M. TESTA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A FRANK TESTA, OCCUPANT,",
+    "Parcel #": "",
+    "Plaintiff": "TRUMAN 2021 SC9 TITLE TRUST,",
+    "Property Note": "",
+    "Sales Date": "6/16/2026",
+    "Sheriff #": "FR-24000842"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "235 HILLCREST AVENUE BLACKWOOD NJ 08012",
+    "defendant": "LEA M. TESTA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A FRANK TESTA, OCCUPANT,",
+    "listing_status": null,
+    "plaintiff": "TRUMAN 2021 SC9 TITLE TRUST,",
+    "sale_date": "2026-06-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "TRUMAN 2021 SC9 TITLE TRUST,",
+  "property_note": null,
+  "sale_date": "2026-06-16",
+  "sheriff_number": "FR-24000842",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-06-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-16",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 203043.17,
+  "upset_amount_label": "Approx. Upset*"
+}

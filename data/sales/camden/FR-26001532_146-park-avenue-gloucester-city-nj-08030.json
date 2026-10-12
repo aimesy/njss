@@ -1,0 +1,53 @@
+{
+  "address": "146 PARK AVENUE GLOUCESTER CITY NJ 08030",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00621224",
+  "current_status": "Bankruptcy",
+  "defendant": "ROSKO FAMILY LLC; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "146 PARK AVENUE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$1,474,139.62",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00621224",
+    "Defendant": "ROSKO FAMILY LLC; ET AL.,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR\nHOMES MORTGGAE TRUST,",
+    "Property Note": "Tax Certificate\nRecorded•. April 11, 2023\nHolder: Fig 20, LLC FBO SEC PTY\nAmount: $1,268.48\nBook•. 12328\nTax Certificate\nRecorded: April 05, 2021\nHolder: Fig Cust FigNJ19LLC & sec Party\nAmount: $7,689.23\nBook: 11680 Page: 621\nTax Certificate\nRecorded: April 11, 2023\nHolder: Fig 20, LLC FBO SEC PTY\nAmount: $956.19\nBook: 12328\nPage: 253",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26001532"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "146 PARK AVENUE GLOUCESTER CITY NJ 08030",
+    "defendant": "ROSKO FAMILY LLC; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR \nHOMES MORTGGAE TRUST,",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR HOMES MORTGGAE TRUST,",
+  "property_note": "Tax Certificate\nRecorded•. April 11, 2023\nHolder: Fig 20, LLC FBO SEC PTY\nAmount: $1,268.48\nBook•. 12328\nTax Certificate\nRecorded: April 05, 2021\nHolder: Fig Cust FigNJ19LLC & sec Party\nAmount: $7,689.23\nBook: 11680 Page: 621\nTax Certificate\nRecorded: April 11, 2023\nHolder: Fig 20, LLC FBO SEC PTY\nAmount: $956.19\nBook: 12328\nPage: 253",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26001532",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 1474139.62,
+  "upset_amount_label": "Approx. Upset*"
+}

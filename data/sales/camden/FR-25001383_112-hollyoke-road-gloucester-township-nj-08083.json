@@ -1,0 +1,61 @@
+{
+  "address": "112 HOLLYOKE ROAD GLOUCESTER TOWNSHIP NJ 08083",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00446522",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JOSEPH LUCAS; ET. AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "112 HOLLYOKE ROAD\nGLOUCESTER TOWNSHIP NJ 08083",
+    "Approx. Upset*": "$254,404.04",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00446522",
+    "Defendant": "JOSEPH LUCAS; ET. AL.,",
+    "Parcel #": "",
+    "Plaintiff": "AJAX MORTGAGE LOAN TRUST 2023-B, MORTGAGE-BACKED\nSECURITIES, SERIES 2023-B, BY U.S. BANK TRUST COMPANY,\nNATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+    "Property Note": "",
+    "Sales Date": "10/29/2025",
+    "Sheriff #": "FR-25001383"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "112 HOLLYOKE ROAD GLOUCESTER TOWNSHIP NJ 08083",
+    "defendant": "JOSEPH LUCAS; ET. AL.,",
+    "listing_status": null,
+    "plaintiff": "AJAX MORTGAGE LOAN TRUST 2023-B, MORTGAGE-BACKED \nSECURITIES, SERIES 2023-B, BY U.S. BANK TRUST COMPANY, \nNATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "AJAX MORTGAGE LOAN TRUST 2023-B, MORTGAGE-BACKED SECURITIES, SERIES 2023-B, BY U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "FR-25001383",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 254404.04,
+  "upset_amount_label": "Approx. Upset*"
+}

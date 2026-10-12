@@ -1,0 +1,63 @@
+{
+  "address": "362 Erie Avenue Carneys Point NJ 08069",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-002029-24",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "John L. Burns a/k/a/ John Burns; et. al.",
+  "description": "Approximate Dimensions: 69.18*110 Approximate Upset Price: $528,202.01. The upset amount may be subject to further Orders of additional sums. Occupancy Status: Owner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 528202.01
+  },
+  "fields": {
+    "Address": "362 Erie Avenue\nCarneys Point NJ 08069",
+    "Court Case #": "F-002029-24",
+    "Defendant": "John L. Burns a/k/a/ John Burns; et. al.",
+    "Description": "Approximate Dimensions: 69.18*110 Approximate Upset Price: $528,202.01. The upset amount may be subject to further Orders of additional sums. Occupancy Status: Owner Occupied",
+    "Plaintiff": "Gold Pinnacle LLC with 75% undivided interest and Jerry Jones EPSP 401K with 25% undivided interest",
+    "Sales Date": "11/03/2025 02:00 PM",
+    "Sheriff #": "F-25000062"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "362 Erie Avenue Carneys Point NJ 08069",
+    "defendant": "John L. Burns a/k/a/ John Burns; et. al.",
+    "listing_status": null,
+    "plaintiff": "Gold Pinnacle LLC with 75% undivided interest and Jerry Jones EPSP 401K with 25% undivided interest",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Gold Pinnacle LLC with 75% undivided interest and Jerry Jones EPSP 401K with 25% undivided interest",
+  "sale_date": null,
+  "sheriff_number": "F-25000062",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    },
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "address": "87 RENAISSANCE LANE NEW BRUNSWICK NJ 08901",
+  "attorney": "ANSELL GRIMM & AARON, PC",
+  "attorney_file_number": null,
+  "attorney_phone": "888 247-1844",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00751422",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "EDWIN VARGAS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$21,173.21",
+    "Attorney": "ANSELL GRIMM & AARON, PC",
+    "Attorney File #": "",
+    "Attorney Phone": "888 247-1844",
+    "Court Case #": "F00751422",
+    "Defendant": "EDWIN VARGAS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2.06 C0060 BLOCK 237",
+    "Plaintiff": "RENAISSANCE STATION CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "87 RENAISSANCE LANE\nNEW BRUNSWICK NJ 08901",
+    "Property Note": "",
+    "Sale Date": "7/15/2025",
+    "Sheriff #": "F-25001015"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 21173.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "87 RENAISSANCE LANE NEW BRUNSWICK NJ 08901",
+    "defendant": "EDWIN VARGAS, ET ALS.",
+    "listing_status": "Redeemed",
+    "plaintiff": "RENAISSANCE STATION CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2025-07-15"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2.06 C0060 BLOCK 237",
+  "plaintiff": "RENAISSANCE STATION CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2025-07-15",
+  "sheriff_number": "F-25001015",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-07-15",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

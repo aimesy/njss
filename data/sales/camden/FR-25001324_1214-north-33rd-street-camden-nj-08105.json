@@ -1,0 +1,65 @@
+{
+  "address": "1214 NORTH 33RD STREET CAMDEN NJ 08105",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01129724",
+  "current_status": "Court Adjournment",
+  "defendant": "JACQUELINE PEOPLES, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1214 NORTH 33RD STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$34,731.17",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F01129724",
+    "Defendant": "JACQUELINE PEOPLES, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "11/17/2025",
+    "Sheriff #": "FR-25001324"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1214 NORTH 33RD STREET CAMDEN NJ 08105",
+    "defendant": "JACQUELINE PEOPLES, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2025-11-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-11-17",
+  "sheriff_number": "FR-25001324",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-11-17",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 34731.17,
+  "upset_amount_label": "Approx. Upset*"
+}

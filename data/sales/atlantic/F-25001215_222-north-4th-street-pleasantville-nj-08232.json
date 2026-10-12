@@ -1,0 +1,70 @@
+{
+  "address": "222 North 4th Street Pleasantville NJ 08232",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007411-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Debra F. Goods, Kevin Goods",
+  "extracted": {},
+  "fields": {
+    "Address": "222 North 4th Street\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$201,244.76",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-007411-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Debra F. Goods, Kevin Goods",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely as Owner Trustee for GS Mortgage-Backed Securities Trust 2022-RPL2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/16/2026",
+    "Sheriff #": "F-25001215",
+    "Upset Amount": "$224,753.15"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 201244.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "222 North 4th Street Pleasantville NJ 08232",
+    "defendant": "Debra F. Goods, Kevi...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2026-04-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely as Owner Trustee for GS Mortgage-Backed Securities Trust 2022-RPL2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-04-16",
+  "sheriff_number": "F-25001215",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-16",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 224753.15,
+  "upset_amount_label": "Upset Amount"
+}

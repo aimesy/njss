@@ -1,0 +1,60 @@
+{
+  "address": "21 Thorne Place Middletown NJ 07748",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00912722",
+  "current_status": "Scheduled",
+  "defendant": "Dana A. Viola and Santo A. Viola, wife and husband",
+  "description": "Approximate dimensions: 114.00 x 131.00 Feet (IRREGULAR)\nNearest cross street: Woodnut Place\nSubject to: 2024 2nd Quarter in the amount of $2,297.20\nSewer in the amount of $106.00, open and due 3/31/2024\nSewer in the amount of $453.21, open plus penalty; owed in arrears\nUPSET PRICE: $232,185.99\nOCCUPANCY STATUS: OCCUPIED OWNER\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "occupancy": "OCCUPIED OWNER",
+    "upset_amount": 232185.99
+  },
+  "fields": {
+    "Address": "21 Thorne Place\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$220,557.71",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00912722",
+    "Defendant": "Dana A. Viola and Santo A. Viola, wife and husband",
+    "Description": "Approximate dimensions: 114.00 x 131.00 Feet (IRREGULAR)\nNearest cross street: Woodnut Place\nSubject to: 2024 2nd Quarter in the amount of $2,297.20\nSewer in the amount of $106.00, open and due 3/31/2024\nSewer in the amount of $453.21, open plus penalty; owed in arrears\nUPSET PRICE: $232,185.99\nOCCUPANCY STATUS: OCCUPIED OWNER\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "Lot 23 (Formerly Lot 11), Block 541 (Formerly Block 541) Tax Map of Township of Middletown",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Property Note": "",
+    "Sales Date": "10/18/2024",
+    "Sheriff #": "FOR-24000756"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 220557.71,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "21 Thorne Place Middletown NJ 07748",
+    "defendant": "Dana A. Viola and Santo A. Viola, wife and husband",
+    "listing_status": "Settled",
+    "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "sale_date": "2024-10-18"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 23 (Formerly Lot 11), Block 541 (Formerly Block 541) Tax Map of Township of Middletown",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "property_note": null,
+  "sale_date": "2024-10-18",
+  "sheriff_number": "FOR-24000756",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-10-18",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Scheduled"
+    }
+  ]
+}

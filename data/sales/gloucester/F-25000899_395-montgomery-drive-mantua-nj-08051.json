@@ -1,0 +1,64 @@
+{
+  "address": "395 MONTGOMERY DRIVE MANTUA NJ 08051",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-004895-23",
+  "current_status": "Defendant Adjourned to",
+  "defendant": "MARYBETH SCHLECHTER; JOSEPH SCHLECHTER A/K/A JOSEPH W. SCHLECHTER; MIDLAND FUNDING LLC",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $311,363.04\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 311363.04
+  },
+  "fields": {
+    "Address": "395 MONTGOMERY DRIVE\nMANTUA NJ 08051",
+    "Approximate Judgment": "$262,322.81",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-004895-23",
+    "Defendant": "MARYBETH SCHLECHTER; JOSEPH SCHLECHTER A/K/A JOSEPH W. SCHLECHTER; MIDLAND FUNDING LLC",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $311,363.04\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "TAX LOT 13, BLOCK 33",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF THE TIKI SERIES III TRUST",
+    "Property Note": "PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF MANTUA, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY.\nCOMMONLY KNOWN AS: 395 MONTGOMERY DRIVE, MANTUA, NJ 08051\nTAX LOT(S): 13, IN BLOCK: 33\nDIMENSIONS (APPROX.): 79.59 x 161.44 x 66.01 x 166.04\nNEAREST CROSS STREET: JACKSON ROAD\nTAX CERTIFICATE RECORDED: AUGUST 7, 2015\nHOLDER: US BANK CUST PC5 STERLING NAT\nAMOUNT: $712.06\nBOOK: 14395\nPAGE: 310\nCERTIFICATE NUMBER: 12-00016\nTAX CERTIFICATE RECORDED: MARCH 10, 2023\nHOLDER: PRO CAP 8 FBO FIRSTRUST BANK\nAMOUNT: $290.84\nBOOK: 17922\nPAGE: 28\nCERTIFICATE NUMBER: 21-00031\nGOOD FAITH ESTIMATED UPSET PRICE: $311,363.04\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "F-25000899"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 262322.81,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "395 MONTGOMERY DRIVE MANTUA NJ 08051",
+    "defendant": "MARYBETH SCHLECHTER; JOSEPH SCHLECHTER A/K/A JOSEPH W. SCHLECHTER; MIDLAND FUNDING LLC",
+    "listing_status": "Defendant Adjourned to",
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF THE TIKI SERIES III TRUST",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Defendant Adjourned to",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "TAX LOT 13, BLOCK 33",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF THE TIKI SERIES III TRUST",
+  "property_note": "PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF MANTUA, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY.\nCOMMONLY KNOWN AS: 395 MONTGOMERY DRIVE, MANTUA, NJ 08051\nTAX LOT(S): 13, IN BLOCK: 33\nDIMENSIONS (APPROX.): 79.59 x 161.44 x 66.01 x 166.04\nNEAREST CROSS STREET: JACKSON ROAD\nTAX CERTIFICATE RECORDED: AUGUST 7, 2015\nHOLDER: US BANK CUST PC5 STERLING NAT\nAMOUNT: $712.06\nBOOK: 14395\nPAGE: 310\nCERTIFICATE NUMBER: 12-00016\nTAX CERTIFICATE RECORDED: MARCH 10, 2023\nHOLDER: PRO CAP 8 FBO FIRSTRUST BANK\nAMOUNT: $290.84\nBOOK: 17922\nPAGE: 28\nCERTIFICATE NUMBER: 21-00031\nGOOD FAITH ESTIMATED UPSET PRICE: $311,363.04\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25000899",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Settled - Foreclosures"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjourned to"
+    }
+  ]
+}

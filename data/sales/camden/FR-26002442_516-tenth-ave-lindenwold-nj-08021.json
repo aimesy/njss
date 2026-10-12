@@ -1,0 +1,49 @@
+{
+  "address": "516 TENTH AVE LINDENWOLD NJ 08021",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "SWCF01340325",
+  "current_status": "Scheduled",
+  "defendant": "FZ CONTRACTORS LLC; MAYRA Y. SOLANO BONILLA; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "516 TENTH AVE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$344,136.76",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "SWCF01340325",
+    "Defendant": "FZ CONTRACTORS LLC; MAYRA Y. SOLANO BONILLA; STATE OF NEW JERSEY",
+    "Parcel #": "Lot(s) 9 and 10, Block 224",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY IN ITS CAPACITY AS SUBI TRUSTEE FOR NBINV TRUST",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002442"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "516 TENTH AVE LINDENWOLD NJ 08021",
+    "defendant": "FZ CONTRACTORS LLC; MAYRA Y. SOLANO BONILLA; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY IN ITS CAPACITY AS SUBI TRUSTEE FOR NBINV TRUST",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot(s) 9 and 10, Block 224",
+  "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY IN ITS CAPACITY AS SUBI TRUSTEE FOR NBINV TRUST",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002442",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 344136.76,
+  "upset_amount_label": "Approx. Upset*"
+}

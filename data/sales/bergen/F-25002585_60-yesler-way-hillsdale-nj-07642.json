@@ -1,0 +1,51 @@
+{
+  "address": "60 YESLER WAY HILLSDALE NJ 07642",
+  "attorney": "MCCABE WEISBERG AND CONWAY LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00347825",
+  "current_status": "Cancelled",
+  "defendant": "BO YANG; JENNIFER YANG, ET AL.",
+  "description": "APPROX UPSET PRICE: $74,818.69\nPROPERTY STATUS: BORROWER OCCUPIED",
+  "extracted": {
+    "upset_amount": 74818.69
+  },
+  "fields": {
+    "Address": "60 YESLER WAY\nHILLSDALE NJ 07642",
+    "Approx. Upset*": "$67,691.38",
+    "Attorney": "MCCABE WEISBERG AND CONWAY LLC",
+    "Court Case #": "F00347825",
+    "Defendant": "BO YANG; JENNIFER YANG, ET AL.",
+    "Description": "APPROX UPSET PRICE: $74,818.69\nPROPERTY STATUS: BORROWER OCCUPIED",
+    "Parcel #": "13, BLOCK 1106",
+    "Plaintiff": "THE HUNTINGTON NATIONAL BANK",
+    "Property Note": "",
+    "Sales Date": "12/2/2025",
+    "Sheriff #": "F-25002585"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "60 YESLER WAY HILLSDALE NJ 07642",
+    "defendant": "BO YANG; JENNIFER YANG, ET AL.",
+    "listing_status": null,
+    "plaintiff": "THE HUNTINGTON NATIONAL BANK",
+    "sale_date": "2025-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "13, BLOCK 1106",
+  "plaintiff": "THE HUNTINGTON NATIONAL BANK",
+  "property_note": null,
+  "sale_date": "2025-12-02",
+  "sheriff_number": "F-25002585",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-02",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 67691.38,
+  "upset_amount_label": "Approx. Upset*"
+}

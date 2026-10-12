@@ -1,0 +1,51 @@
+{
+  "address": "33 Zabriskie Street Haledon NJ 07508",
+  "attorney": "Brock & Scott PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 009912 25 CTL# 163178",
+  "current_status": "Cancelled",
+  "defendant": "DAMOND A. ANDERSON ET ALS",
+  "description": "Dimensions: .115 AC\nNearest Cross Street: POST STREET\nThe Sheriff hereby reserves the right to adjourn this Sale without further notice by publication.\nThe occupancy status of the property is: OCCUPIED by UNKNOWN\nPlaintiff's good faith estimate of its upset price is: $170,058.75\nPursuant to 28 USC 2410(c) this sale is subject to a 1 year right of redemption held by the United States of America by virtue of its lien:\nNEW JERSEY MORTGAGE: DAMON A. ANDERSON AND DANIELLE C. ANDERSON to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 12/19/2023 and recorded 02/01/2024 in Book M18787, Page 277 as Instrument Number 2024003604, to secure $27,260.52\nB&S File No.: 25-24297 FC01\nDocket No.: F-009912-25",
+  "extracted": {
+    "upset_amount": 170058.75
+  },
+  "fields": {
+    "Address": "33 Zabriskie Street\nHaledon NJ 07508",
+    "Approx. Upset*": "$154,694.42",
+    "Attorney": "Brock & Scott PLLC",
+    "Court Case #": "F 009912 25 CTL# 163178",
+    "Defendant": "DAMOND A. ANDERSON ET ALS",
+    "Description": "Dimensions: .115 AC\nNearest Cross Street: POST STREET\nThe Sheriff hereby reserves the right to adjourn this Sale without further notice by publication.\nThe occupancy status of the property is: OCCUPIED by UNKNOWN\nPlaintiff's good faith estimate of its upset price is: $170,058.75\nPursuant to 28 USC 2410(c) this sale is subject to a 1 year right of redemption held by the United States of America by virtue of its lien:\nNEW JERSEY MORTGAGE: DAMON A. ANDERSON AND DANIELLE C. ANDERSON to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 12/19/2023 and recorded 02/01/2024 in Book M18787, Page 277 as Instrument Number 2024003604, to secure $27,260.52\nB&S File No.: 25-24297 FC01\nDocket No.: F-009912-25",
+    "Parcel #": "Lot 24 Block 90",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "6/22/2026",
+    "Sheriff #": "F-26000586"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "33 Zabriskie Street Haledon NJ 07508",
+    "defendant": "DAMOND A. ANDERSON ET ALS",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-06-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 24 Block 90",
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2026-06-22",
+  "sheriff_number": "F-26000586",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-06-22",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 154694.42,
+  "upset_amount_label": "Approx. Upset*"
+}

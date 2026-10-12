@@ -1,0 +1,74 @@
+{
+  "address": "31 Schanck Street Borough of Freehold NJ 07728",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00621923",
+  "current_status": "Scheduled",
+  "defendant": "George V. Galgano and Jessica C. Galgano, Husband and Wife, et als.",
+  "description": "Dimensions: Approximately: 40X114\nUpset Price: Approximately: $319,928.04 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Morris Street\nBeginning at a point distant 402.12 feet easterly along the northerly right of way of Schanck Street (50 foot right of way) from its intersection with the easterly right of way of Morris Street (50 foot right of way width), said point is the common property corner separating Lots 14.01 & 34 in Block 3.08, and running thence; (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 12/17/2024; 2025 Qtr 1 Due: 02/01/2025 $2,600.57 OPEN. Water Acct: 294 0 06/01/2024 - 08/31/2024 $106.42 PAID Subject to final reading. Sewer: Included in Water Account(s). Rental properties are subject tolandlord registration fees 732 462-4903.",
+  "extracted": {
+    "block": "3.08",
+    "lot": "s",
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 319928.04
+  },
+  "fields": {
+    "Address": "31 Schanck Street\nBorough of Freehold NJ 07728",
+    "Approx. Judgment*": "$296,199.89",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F00621923",
+    "Defendant": "George V. Galgano and Jessica C. Galgano, Husband and Wife, et als.",
+    "Description": "Dimensions: Approximately: 40X114\nUpset Price: Approximately: $319,928.04 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Morris Street\nBeginning at a point distant 402.12 feet easterly along the northerly right of way of Schanck Street (50 foot right of way) from its intersection with the easterly right of way of Morris Street (50 foot right of way width), said point is the common property corner separating Lots 14.01 & 34 in Block 3.08, and running thence; (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 12/17/2024; 2025 Qtr 1 Due: 02/01/2025 $2,600.57 OPEN. Water Acct: 294 0 06/01/2024 - 08/31/2024 $106.42 PAID Subject to final reading. Sewer: Included in Water Account(s). Rental properties are subject tolandlord registration fees 732 462-4903.",
+    "Parcel #": "Tax Lot 34; Block: 3.08 Tax Map of Borough of Freehold",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the Benefit of the Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2019-3",
+    "Property Note": "",
+    "Sales Date": "7/7/2025",
+    "Sheriff #": "FOR-25000037"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 296199.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 Schanck Street Borough of Freehold NJ 07728",
+    "defendant": "George V. Galgano and Jessica C. Galgano, Husband and Wife, et als.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the Benefit of the Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2019-3",
+    "sale_date": "2025-07-07"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 34; Block: 3.08 Tax Map of Borough of Freehold",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the Benefit of the Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2019-3",
+  "property_note": null,
+  "sale_date": "2025-07-07",
+  "sheriff_number": "FOR-25000037",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-07",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Scheduled"
+    }
+  ]
+}

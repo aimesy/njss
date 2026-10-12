@@ -1,0 +1,58 @@
+{
+  "address": "6043 Estelle Avenue Mays Landing (Hamilton Township) NJ 08330",
+  "attorney": "Dembo, Brown & Burns, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-5324-25",
+  "current_status": "Scheduled",
+  "deed": "Beltway Captial, LLC",
+  "deed_address": "11350 McCormick Road EP II Suite 903 Hunt Valley, MD 21031",
+  "defendant": "Hattie E. Shomo, deceased, her unknown heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest; Leroy Shomo, Jr.; Ronald Shomo; State of New Jersey and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "6043 Estelle Avenue\nMays Landing (Hamilton Township) NJ 08330",
+    "Approx. Judgment*": "$347,948.82",
+    "Attorney": "Dembo, Brown & Burns, LLP",
+    "Court Case #": "F-5324-25",
+    "Deed": "Beltway Captial, LLC",
+    "Deed Address": "11350 McCormick Road EP II Suite 903 Hunt Valley, MD 21031",
+    "Defendant": "Hattie E. Shomo, deceased, her unknown heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest; Leroy Shomo, Jr.; Ronald Shomo; State of New Jersey and United States of America",
+    "Plaintiff": "Beltway Capital, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "2/5/2026",
+    "Sheriff #": "F-25001247",
+    "Upset Amount": "$259,900.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 347948.82,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6043 Estelle Avenue Mays Landing (Hamilton Township) NJ 08330",
+    "defendant": "Hattie E. Shomo, dec...",
+    "listing_status": null,
+    "plaintiff": "Beltway Capital, LLC...",
+    "sale_date": "2026-02-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Beltway Capital, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2026-02-05",
+  "sheriff_number": "F-25001247",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-05",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 259900.0,
+  "upset_amount_label": "Upset Amount"
+}

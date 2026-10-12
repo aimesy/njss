@@ -1,0 +1,70 @@
+{
+  "address": "762 Fishers Creek Road (F/K/A 762 E. Fishers Creek Road) Galloway Township NJ 08205",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004395-25",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank National Association, as Trustee for Mortgage Equity Conversion Asset Trust 2011-1 (aka Mortgage Equity Conversion Asset Trust 2011-1, Mortgage-Backed Securities 2011-1)",
+  "deed_address": "1661 Worthington Road Suite 100, West Palm Beach, FL 33409",
+  "defendant": "Patrick D. McKenna a/k/a Patrick McKenna, Individually and Executor of the Estate of Dorothy McKenna a/k/a Dorothy F. McKenna a/k/a Dorthy Frances McKenna; Mrs. McKenna, spouse of Patrick D. McKenna a/k/a Patrick McKenna; State of New Jersey; United State of America; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "762 Fishers Creek Road\n(F/K/A 762 E. Fishers Creek Road)\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$220,357.09",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-004395-25",
+    "Deed": "U.S. Bank National Association, as Trustee for Mortgage Equity Conversion Asset Trust 2011-1 (aka Mortgage Equity Conversion Asset Trust 2011-1, Mortgage-Backed Securities 2011-1)",
+    "Deed Address": "1661 Worthington Road Suite 100, West Palm Beach, FL 33409",
+    "Defendant": "Patrick D. McKenna a/k/a Patrick McKenna, Individually and Executor of the Estate of Dorothy McKenna a/k/a Dorothy F. McKenna a/k/a Dorthy Frances McKenna; Mrs. McKenna, spouse of Patrick D. McKenna a/k/a Patrick McKenna; State of New Jersey; United State of America; United States of America",
+    "Plaintiff": "PHH Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "5/28/2026",
+    "Sheriff #": "F-26000026",
+    "Upset Amount": "$210,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 220357.09,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "762 Fishers Creek Road (F/K/A 762 E. Fishers Creek Road) Galloway Township NJ 08205",
+    "defendant": "Patrick D. McKenna a...",
+    "listing_status": null,
+    "plaintiff": "PHH Mortgage Corpora...",
+    "sale_date": "2026-05-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PHH Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2026-05-28",
+  "sheriff_number": "F-26000026",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-05-28",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-05-28",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 210000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "7411 Black Horse Pike Mays Landing NJ 08330",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002411-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Leon J. Winters; Jane M. Winters; Felicia Catala; Cumberland County Board of Social Services; Harris D Slavick MD PA; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "7411 Black Horse Pike\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$217,354.99",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-002411-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Leon J. Winters; Jane M. Winters; Felicia Catala; Cumberland County Board of Social Services; Harris D Slavick MD PA; State of New Jersey; United States of America",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/22/2026",
+    "Sheriff #": "F-25001181",
+    "Upset Amount": "$241,520.50"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 217354.99,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7411 Black Horse Pike Mays Landing NJ 08330",
+    "defendant": "Leon J. Winters; Jan...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2026-01-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-22",
+  "sheriff_number": "F-25001181",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 241520.5,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,55 @@
+{
+  "address": "26 Murray Lane Keansburg NJ 07734",
+  "attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00748422",
+  "current_status": "Scheduled",
+  "defendant": "Raymond Krysiak, et al",
+  "description": "Approximate dimensions: 60.0' x 125.0'\nNearest cross street: Howard Street\nThe Plaintiff's Upset Bid presently approximates $341,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "26 Murray Lane\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$318,402.67",
+    "Attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+    "Court Case #": "F00748422",
+    "Defendant": "Raymond Krysiak, et al",
+    "Description": "Approximate dimensions: 60.0' x 125.0'\nNearest cross street: Howard Street\nThe Plaintiff's Upset Bid presently approximates $341,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot: 2 Tax Block: 72 Tax Map of Borough of Keansburg",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCAF Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "9/29/2025",
+    "Sheriff #": "FOR-25001574"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 318402.67,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "26 Murray Lane Keansburg NJ 07734",
+    "defendant": "Raymond Krysiak, et al",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCAF Acquisition Trust",
+    "sale_date": "2025-09-29"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 2 Tax Block: 72 Tax Map of Borough of Keansburg",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCAF Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-09-29",
+  "sheriff_number": "FOR-25001574",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-29",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    }
+  ]
+}

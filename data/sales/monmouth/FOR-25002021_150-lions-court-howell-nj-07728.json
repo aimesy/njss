@@ -1,0 +1,62 @@
+{
+  "address": "150 Lions Court Howell NJ 07728",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00259425",
+  "current_status": "Scheduled",
+  "defendant": "Jennifer Horner",
+  "description": "DIMENSIONS: Approximately: 43318SF\nUPSET PRICE: Approximately: $573,783.08 and any additional sums as ordered by the court\nOCCUPANCY STATUS: Occupied by Unknown\nNEAREST CROSS STREET: Five Points Road\nBEING KNOWN AND DESIGNATED AS LOT 48.01 BLOCK 175 AS SHOWN ON A CERTAIN MAP ENTITLED \"FINAL PLAT OF DESAI ESTATES, BLOCK 175, LOTS 46,46.01, 47 AND 48 BLOCK 175 SITUATED IN HOWELL TOWNSHIP, MONMOUTH COUNTY, NEW JERSEY\", WHICH WAS FILED IN THE MONMOUTH COUNTY CLERK'S OFFICE ON DECEMBER 27, 1996 AS CASE 260, SHEET 29. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the at the Office of the Sheriff.)\nPursuant to a tax search of 09/23/2025; 2025 Qtr 4 Due 11/01/2025 $4,433.09 OPEN. Water: Private. Sewer: Private. Vacant lot charge: PROPERTY REGISTRATION FEE $500.00 PAID 1/10/25. SUBJECT TO POSSIBLE RENEWAL FEES. Contact code enforcement/Community development 732 938-4500 ext. 2300 for details. Letter of No interest required on Resales. Contact Construction office 732 938-4500 ext 2401.",
+  "extracted": {
+    "block": "175",
+    "lot": "48.01",
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 573783.08
+  },
+  "fields": {
+    "Address": "150 Lions Court\nHowell NJ 07728",
+    "Approx. Judgment*": "$528,349.21",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F00259425",
+    "Defendant": "Jennifer Horner",
+    "Description": "DIMENSIONS: Approximately: 43318SF\nUPSET PRICE: Approximately: $573,783.08 and any additional sums as ordered by the court\nOCCUPANCY STATUS: Occupied by Unknown\nNEAREST CROSS STREET: Five Points Road\nBEING KNOWN AND DESIGNATED AS LOT 48.01 BLOCK 175 AS SHOWN ON A CERTAIN MAP ENTITLED \"FINAL PLAT OF DESAI ESTATES, BLOCK 175, LOTS 46,46.01, 47 AND 48 BLOCK 175 SITUATED IN HOWELL TOWNSHIP, MONMOUTH COUNTY, NEW JERSEY\", WHICH WAS FILED IN THE MONMOUTH COUNTY CLERK'S OFFICE ON DECEMBER 27, 1996 AS CASE 260, SHEET 29. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the at the Office of the Sheriff.)\nPursuant to a tax search of 09/23/2025; 2025 Qtr 4 Due 11/01/2025 $4,433.09 OPEN. Water: Private. Sewer: Private. Vacant lot charge: PROPERTY REGISTRATION FEE $500.00 PAID 1/10/25. SUBJECT TO POSSIBLE RENEWAL FEES. Contact code enforcement/Community development 732 938-4500 ext. 2300 for details. Letter of No interest required on Resales. Contact Construction office 732 938-4500 ext 2401.",
+    "Parcel #": "Lot: 48.01; Block: 175 Tax Map of Township of Howell",
+    "Plaintiff": "CSMC 2019-NQM1 TRUST,",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "FOR-25002021"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 528349.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "150 Lions Court Howell NJ 07728",
+    "defendant": "Jennifer Horner",
+    "listing_status": "Settled",
+    "plaintiff": "CSMC 2019-NQM1 TRUST,",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 48.01; Block: 175 Tax Map of Township of Howell",
+  "plaintiff": "CSMC 2019-NQM1 TRUST,",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "FOR-25002021",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Scheduled"
+    }
+  ]
+}

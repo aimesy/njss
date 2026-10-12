@@ -1,0 +1,61 @@
+{
+  "address": "307 Van Houten Street Paterson NJ 07501",
+  "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES& NEWBY, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000661 24 CTL#163082",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "307 VAN HOUTEN LLC A/K/A 307 VANHOUTEN LLC, ET ALS.",
+  "description": "Nearest Cross Street: Summer Street\nDimensions (approx.): 2,160 sq. ft.",
+  "extracted": {},
+  "fields": {
+    "Address": "307 Van Houten Street\nPaterson NJ 07501",
+    "Approx. Upset*": "$316,914.80",
+    "Attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES& NEWBY, LLP",
+    "Court Case #": "F 000661 24 CTL#163082",
+    "Defendant": "307 VAN HOUTEN LLC A/K/A 307 VANHOUTEN LLC, ET ALS.",
+    "Description": "Nearest Cross Street: Summer Street\nDimensions (approx.): 2,160 sq. ft.",
+    "Parcel #": "Tax Lot 16 in Block 4305",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 22756",
+    "Property Note": "",
+    "Sales Date": "4/7/2026",
+    "Sheriff #": "F-25001728"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "307 Van Houten Street Paterson NJ 07501",
+    "defendant": "307 VAN HOUTEN LLC A/K/A 307 VANHOUTEN LLC, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 22756",
+    "sale_date": "2026-04-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 16 in Block 4305",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 22756",
+  "property_note": null,
+  "sale_date": "2026-04-07",
+  "sheriff_number": "F-25001728",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-02-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 316914.8,
+  "upset_amount_label": "Approx. Upset*"
+}

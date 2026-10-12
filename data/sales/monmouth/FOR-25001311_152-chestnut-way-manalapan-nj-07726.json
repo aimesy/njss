@@ -1,0 +1,67 @@
+{
+  "address": "152 Chestnut Way Manalapan NJ 07726",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00220519",
+  "current_status": "Scheduled",
+  "defendant": "Judith L. Carr a/k/a Judith Carr, et al;",
+  "description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 229ft to the nearest cross street known as Oak Knolls Drive\nApproximate Dimensions: Property is a Condominium\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Bookk 9201, at page 6313\nAPPROXIMATE UPSET AMOUNT IS $362,708.78 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated June 11, 2025.\nSubject to: 2025 3rd quarter taxes due 8/1/2025, TO BE DETERMINED\n2025 4th quarter taxes due 11/1/2025, TO BE DETERMINED\nSewer: Acct. 17488 0, 8/1/2025-10/31/2025, $125.00 OPEN AND DUE 8/25/2025; $829.37 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "extracted": {
+    "occupancy": "Borrower Occupied"
+  },
+  "fields": {
+    "Address": "152 Chestnut Way\nManalapan NJ 07726",
+    "Approx. Judgment*": "$337,939.39",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00220519",
+    "Defendant": "Judith L. Carr a/k/a Judith Carr, et al;",
+    "Description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 229ft to the nearest cross street known as Oak Knolls Drive\nApproximate Dimensions: Property is a Condominium\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Bookk 9201, at page 6313\nAPPROXIMATE UPSET AMOUNT IS $362,708.78 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated June 11, 2025.\nSubject to: 2025 3rd quarter taxes due 8/1/2025, TO BE DETERMINED\n2025 4th quarter taxes due 11/1/2025, TO BE DETERMINED\nSewer: Acct. 17488 0, 8/1/2025-10/31/2025, $125.00 OPEN AND DUE 8/25/2025; $829.37 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Parcel #": "Lot: 1; Qual: C15-2; Block: 1438 Tax Map of the Township of Manalapan",
+    "Plaintiff": "US Bank Trust National Association, not in its Individual Capacity but Solely as OwnerTrustee for VRMTG Asset TrustFor VRMTG Asset Trust",
+    "Property Note": "",
+    "Sales Date": "11/10/2025",
+    "Sheriff #": "FOR-25001311"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 337939.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "152 Chestnut Way Manalapan NJ 07726",
+    "defendant": "Judith L. Carr a/k/a Judith Carr, et al;",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "US Bank Trust National Association, not in its Individual Capacity but Solely as OwnerTrustee for VRMTG Asset TrustFor VRMTG Asset Trust",
+    "sale_date": "2025-11-10"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 1; Qual: C15-2; Block: 1438 Tax Map of the Township of Manalapan",
+  "plaintiff": "US Bank Trust National Association, not in its Individual Capacity but Solely as OwnerTrustee for VRMTG Asset TrustFor VRMTG Asset Trust",
+  "property_note": null,
+  "sale_date": "2025-11-10",
+  "sheriff_number": "FOR-25001311",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-10",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "address": "31 Roosevelt Avenue Northfield NJ 08225",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006669-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "William Shellhorn; Brenda Shellhorn, husband and wife",
+  "extracted": {},
+  "fields": {
+    "Address": "31 Roosevelt Avenue\nNorthfield NJ 08225",
+    "Approx. Judgment*": "$191,549.46",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-006669-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "William Shellhorn; Brenda Shellhorn, husband and wife",
+    "Plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/10/2025",
+    "Sheriff #": "F-25000037",
+    "Upset Amount": "$211,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 191549.46,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 Roosevelt Avenue Northfield NJ 08225",
+    "defendant": "William Shellhorn; B...",
+    "listing_status": null,
+    "plaintiff": "New Jersey Housing a...",
+    "sale_date": "2025-04-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-04-10",
+  "sheriff_number": "F-25000037",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-10",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 211500.0,
+  "upset_amount_label": "Upset Amount"
+}

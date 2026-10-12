@@ -1,0 +1,80 @@
+{
+  "address": "77 Brookside Terrace North Haledon NJ 07508-2906",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003230 24 CTL# 163084",
+  "current_status": "Rescheduled",
+  "defendant": "SLADIMIR CONTENT",
+  "description": "Dimensions of Lot: 190 feet wide by 165 feet long\nNearest Cross Street: Romaine Road\nEstimated upset bid amount: $750,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2026 Qtr 4 Due: 11/01/2026 $3,390.20 OPEN\n2027 Qtr 1 Due: 02/01/2027 $3,193.00 OPEN\n2027 Qtr 2 Due: 05/01/2027 $3,193.00 OPEN",
+  "extracted": {
+    "lot": "190",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "77 Brookside Terrace\nNorth Haledon NJ 07508-2906",
+    "Approx. Upset*": "$624,750.93",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 003230 24 CTL# 163084",
+    "Defendant": "SLADIMIR CONTENT",
+    "Description": "Dimensions of Lot: 190 feet wide by 165 feet long\nNearest Cross Street: Romaine Road\nEstimated upset bid amount: $750,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2026 Qtr 4 Due: 11/01/2026 $3,390.20 OPEN\n2027 Qtr 1 Due: 02/01/2027 $3,193.00 OPEN\n2027 Qtr 2 Due: 05/01/2027 $3,193.00 OPEN",
+    "Parcel #": "Tax LOT 3.09 BLOCK 68",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "2/2/2027",
+    "Sheriff #": "F-25001744"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "77 Brookside Terrace North Haledon NJ 07508-2906",
+    "defendant": "SLADIMIR CONTENT",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2027-02-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax LOT 3.09 BLOCK 68",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2027-02-02",
+  "sheriff_number": "F-25001744",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-02-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-07-14",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-07-14",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2027-02-02",
+      "status": "Rescheduled"
+    }
+  ],
+  "upset_amount": 624750.93,
+  "upset_amount_label": "Approx. Upset*"
+}

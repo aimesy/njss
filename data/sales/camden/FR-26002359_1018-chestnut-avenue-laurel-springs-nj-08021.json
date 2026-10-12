@@ -1,0 +1,49 @@
+{
+  "address": "1018 CHESTNUT AVENUE LAUREL SPRINGS NJ 08021",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01394125",
+  "current_status": "Scheduled",
+  "defendant": "KELLY A. KRAWCHUK, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1018 CHESTNUT AVENUE\nLAUREL SPRINGS NJ 08021",
+    "Approx. Upset*": "$223,878.55",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F01394125",
+    "Defendant": "KELLY A. KRAWCHUK, ET AL.",
+    "Parcel #": "Block 8, Lot 1",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC.",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002359"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1018 CHESTNUT AVENUE LAUREL SPRINGS NJ 08021",
+    "defendant": "KELLY A. KRAWCHUK, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC.",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 8, Lot 1",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC.",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002359",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 223878.55,
+  "upset_amount_label": "Approx. Upset*"
+}

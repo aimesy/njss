@@ -1,0 +1,76 @@
+{
+  "address": "317 Bath Avenue Unit 43 Long Branch NJ 07740",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00616923",
+  "current_status": "Scheduled",
+  "defendant": "Gloria Lopez et al.",
+  "description": "Nearest Cross Street: Westwood Avenue\nApproximate Dimensions: 2.2756 The full legal description can be found at the Office of the Register\nUpset Price: $249,076.37, good through July 25, 2025,and any additional sums as ordered by the court.\nOccupancy Status: Occupancy Status at the property is unknown\nTaxes and other Encumbrances:\nTaxes current through 1st quarter of 2025\nSewer/Water – Plaintiff is unable to confirm these accounts. Prospective purchasers must conduct their own investigation to determine the same.\n* Plus, interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:b-21(b)(1), if any.\nSUBJECT TO THE CONDITIONS OF SALE AS SET FORTH BY THE SHERIFF WHO RESERVES THE RIGHT TO ADJOURN THE/THIS SALE WITHOUT FUTHER NOTICE THROUGH PUBLICATION",
+  "extracted": {
+    "occupancy": "Occupancy Status at the property is unknown",
+    "upset_amount": 249076.37
+  },
+  "fields": {
+    "Address": "317 Bath Avenue\nUnit 43\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$220,118.37",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F00616923",
+    "Defendant": "Gloria Lopez et al.",
+    "Description": "Nearest Cross Street: Westwood Avenue\nApproximate Dimensions: 2.2756 The full legal description can be found at the Office of the Register\nUpset Price: $249,076.37, good through July 25, 2025,and any additional sums as ordered by the court.\nOccupancy Status: Occupancy Status at the property is unknown\nTaxes and other Encumbrances:\nTaxes current through 1st quarter of 2025\nSewer/Water – Plaintiff is unable to confirm these accounts. Prospective purchasers must conduct their own investigation to determine the same.\n* Plus, interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:b-21(b)(1), if any.\nSUBJECT TO THE CONDITIONS OF SALE AS SET FORTH BY THE SHERIFF WHO RESERVES THE RIGHT TO ADJOURN THE/THIS SALE WITHOUT FUTHER NOTICE THROUGH PUBLICATION",
+    "Parcel #": "Tax Lot: #6.43 Block: #186 Located on the tax map of the City of Long Branch",
+    "Plaintiff": "U.S. Bank National Association as trustee, for J.P. Morgan Alternative Loan Trust 2006-A6 Mortgage Pass-Through Certificates",
+    "Property Note": "",
+    "Sales Date": "7/14/2025",
+    "Sheriff #": "FOR-24001975"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 220118.37,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "317 Bath Avenue Unit 43 Long Branch NJ 07740",
+    "defendant": "Gloria Lopez et al.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank National Association as trustee, for J.P. Morgan Alternative Loan Trust 2006-A6 Mortgage Pass-Through Certificates",
+    "sale_date": "2025-07-14"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: #6.43 Block: #186 Located on the tax map of the City of Long Branch",
+  "plaintiff": "U.S. Bank National Association as trustee, for J.P. Morgan Alternative Loan Trust 2006-A6 Mortgage Pass-Through Certificates",
+  "property_note": null,
+  "sale_date": "2025-07-14",
+  "sheriff_number": "FOR-24001975",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-14",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "address": "52 MCADOO AVENUE JERSEY CITY NJ 07305",
+  "attorney": "KML LAW GROUP, P.C",
+  "attorney_phone": "215-627-1322",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-000824-26",
+  "current_status": "Scheduled",
+  "defendant": "LYDIA R. BANTILAN, ET AL",
+  "description": "TAX LOT NO. 20 FKA 96 BLOCK 27001 FKA 1356\nDIMENSIONS OF LOT: (APPROXIMATELY) 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: OLD BERGEN ROAD\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $279,192.65.\nTHE UPSET PRICE IS NOT THE SAME AS THE PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS VACANT/SECURED",
+  "extracted": {
+    "block": "27001",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "52 MCADOO AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "KML LAW GROUP, P.C",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-000824-26",
+    "Defendant": "LYDIA R. BANTILAN, ET AL",
+    "Description": "TAX LOT NO. 20 FKA 96 BLOCK 27001 FKA 1356\nDIMENSIONS OF LOT: (APPROXIMATELY) 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: OLD BERGEN ROAD\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $279,192.65.\nTHE UPSET PRICE IS NOT THE SAME AS THE PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS VACANT/SECURED",
+    "Good Faith Upset*": "$279,192.65",
+    "Judgment": "$253,799.65",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TRUSTEE TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES I TRUST 2006-HE10, ASSET-BACKED CERTIFICATES SERIES 2006-HE10",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20064104"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 253799.65,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "52 MCADOO AVENUE JERSEY CITY NJ 07305",
+    "defendant": "LYDIA R. BANTILAN, ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TRUSTEE TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES I TRUST 2006-HE10, ASSET-BACKED CERTIFICATES SERIES 2006-HE10",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TRUSTEE TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES I TRUST 2006-HE10, ASSET-BACKED CERTIFICATES SERIES 2006-HE10",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20064104",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 279192.65,
+  "upset_amount_label": "Good Faith Upset*"
+}

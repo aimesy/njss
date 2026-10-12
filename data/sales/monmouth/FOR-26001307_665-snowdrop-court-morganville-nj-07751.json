@@ -1,0 +1,64 @@
+{
+  "address": "665 Snowdrop Court Morganville NJ 07751",
+  "attorney": "Snellings Law LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "L00353723",
+  "current_status": "Scheduled",
+  "defendant": "Ryan Lai",
+  "description": "Lot Size: 609 Square Feet\nNearest Cross Street: Boulevard DeJardin\nYear Built: 1992\nUpset Bid Amount: $80,674.46\nOccupancy Status:UNKNOWN\nProperty is being sold subject to the following encumbraces:\nMortgages:\nFrom Ryan M. Lai to PennyMac Loan Services LLC: $248,000.00\nFrom Ryan M. Lai to Unison Migard Holdings LLC: $70,000.00\nFrom Ryan M. Lai to Unlock Partnership Solutions AO1, Inc.:$39,110.00\nFrom Ryan M. Lai to Hometap Investment Partners III SPV, LLC: $67,790.00\nFrom Ryan M. Lai to New Jersey Housing and Mortgage Finance Agency: $13,873.18\nTOTAL: $438,773.18\nCondo Liens:\n12/18/2024 (Pointe De Jardin Condominium Association): $4,120.03\n10/14/2025 (Pointe De Jardin Condominium Association): $2,694.20\nTOTAL: $6,814.23\nJudgments:\nDebtor: Ryan Lai // Creditor: Eric Rabinowitz: $70,512.88\nDebtor: Ryan Lai // Creditor: Auric Investment Holdings 2, LLC: $180,519.57\nDebtor: Ryan M. Lai // Creditor: Motor Vehicle Commission: $190.00\nDebtor: Ryan M. Lai // Creditor: Dr. Kevin Debiparshad: $1,900,000.00\nTOTAL: $2,151,222.45",
+  "extracted": {
+    "lot": "Size",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "665 Snowdrop Court\nMorganville NJ 07751",
+    "Approx. Judgment*": "$76,243.74",
+    "Attorney": "Snellings Law LLC",
+    "Court Case #": "L00353723",
+    "Defendant": "Ryan Lai",
+    "Description": "Lot Size: 609 Square Feet\nNearest Cross Street: Boulevard DeJardin\nYear Built: 1992\nUpset Bid Amount: $80,674.46\nOccupancy Status:UNKNOWN\nProperty is being sold subject to the following encumbraces:\nMortgages:\nFrom Ryan M. Lai to PennyMac Loan Services LLC: $248,000.00\nFrom Ryan M. Lai to Unison Migard Holdings LLC: $70,000.00\nFrom Ryan M. Lai to Unlock Partnership Solutions AO1, Inc.:$39,110.00\nFrom Ryan M. Lai to Hometap Investment Partners III SPV, LLC: $67,790.00\nFrom Ryan M. Lai to New Jersey Housing and Mortgage Finance Agency: $13,873.18\nTOTAL: $438,773.18\nCondo Liens:\n12/18/2024 (Pointe De Jardin Condominium Association): $4,120.03\n10/14/2025 (Pointe De Jardin Condominium Association): $2,694.20\nTOTAL: $6,814.23\nJudgments:\nDebtor: Ryan Lai // Creditor: Eric Rabinowitz: $70,512.88\nDebtor: Ryan Lai // Creditor: Auric Investment Holdings 2, LLC: $180,519.57\nDebtor: Ryan M. Lai // Creditor: Motor Vehicle Commission: $190.00\nDebtor: Ryan M. Lai // Creditor: Dr. Kevin Debiparshad: $1,900,000.00\nTOTAL: $2,151,222.45",
+    "Parcel #": "Tax Lot: 7 Block: 176 Located on the tax map of the Township of Morganville",
+    "Plaintiff": "Eric Rabinowitz",
+    "Property Note": "",
+    "Sales Date": "11/9/2026",
+    "Sheriff #": "FOR-26001307"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 76243.74,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "665 Snowdrop Court Morganville NJ 07751",
+    "defendant": "Ryan Lai",
+    "listing_status": "Adjournment Defendant",
+    "plaintiff": "Eric Rabinowitz",
+    "sale_date": "2026-11-09"
+  },
+  "listing_status": "Adjournment Defendant",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 7 Block: 176 Located on the tax map of the Township of Morganville",
+  "plaintiff": "Eric Rabinowitz",
+  "property_note": null,
+  "sale_date": "2026-11-09",
+  "sheriff_number": "FOR-26001307",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-11-09",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "address": "234 GREENWOOD AVENUE GLOUCESTER CITY NJ 08030",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00702525",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "BITTANY BARR, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "234 GREENWOOD AVENUE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$274,739.45",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00702525",
+    "Defendant": "BITTANY BARR, ET AL",
+    "Parcel #": "TAX LOT: 10 TAX BLOCK:246",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "Priority tax lien holder: American tax lien fund LLC holds tax sale certificate NO. 26–00244 in the amount of $2,931.62 as of 01/15/2026.\nLien amount is subject to subsequent taxes + interest. Must call the local tax collector for the amount (the “redemption sum”) necessary to redeem.",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26001342"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "234 GREENWOOD AVENUE GLOUCESTER CITY NJ 08030",
+    "defendant": "BITTANY BARR, ET AL",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 10 TAX BLOCK:246",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "Priority tax lien holder: American tax lien fund LLC holds tax sale certificate NO. 26–00244 in the amount of $2,931.62 as of 01/15/2026.\nLien amount is subject to subsequent taxes + interest. Must call the local tax collector for the amount (the “redemption sum”) necessary to redeem.",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26001342",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 274739.45,
+  "upset_amount_label": "Approx. Upset*"
+}

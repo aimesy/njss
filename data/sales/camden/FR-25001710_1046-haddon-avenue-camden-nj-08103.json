@@ -1,0 +1,65 @@
+{
+  "address": "1046 HADDON AVENUE CAMDEN NJ 08103",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F1253024",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "KEVIN BAYLOR, ET ALS.",
+  "extracted": {},
+  "fields": {
+    "Address": "1046 HADDON AVENUE\nCAMDEN NJ 08103",
+    "Approx. Upset*": "$37,278.25",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F1253024",
+    "Defendant": "KEVIN BAYLOR, ET ALS.",
+    "Parcel #": "",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "FR-25001710"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1046 HADDON AVENUE CAMDEN NJ 08103",
+    "defendant": "KEVIN BAYLOR, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "FR-25001710",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 37278.25,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,62 @@
+{
+  "address": "403 West Flower Street Landisville NJ 08326",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-013423-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Darrell S. Banks A/K/A Darrell Banks; Mrs. Banks, Spouse of Darrell S. Banks A/K/A Darrell Banks; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "403 West Flower Street\nLandisville NJ 08326",
+    "Approx. Judgment*": "$160,793.12",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-013423-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Darrell S. Banks A/K/A Darrell Banks; Mrs. Banks, Spouse of Darrell S. Banks A/K/A Darrell Banks; State of New Jersey; United States of America",
+    "Plaintiff": "U.S. Bank National Association, As Trustee for Residential Asset Mortgage Products, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2005-EFC5",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER",
+    "Sales Date": "3/23/2026",
+    "Sheriff #": "F-24000450",
+    "Upset Amount": "$176,900.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 160793.12,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "403 West Flower Street Landisville NJ 08326",
+    "defendant": "Darrell S. Banks A/K...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2026-03-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association, As Trustee for Residential Asset Mortgage Products, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2005-EFC5",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER",
+  "sale_date": "2026-03-23",
+  "sheriff_number": "F-24000450",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-03-23",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-06-06",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-06-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 176900.0,
+  "upset_amount_label": "Upset Amount"
+}

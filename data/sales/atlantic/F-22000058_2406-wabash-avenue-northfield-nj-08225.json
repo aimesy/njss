@@ -1,0 +1,62 @@
+{
+  "address": "2406 Wabash Avenue Northfield NJ 08225",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-019243-19 Alias",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Michael S. Flaherty Sr. a/k/a Michael S. Flaherty a/k/a Michael Flaherty; Barbara Flaherty a/k/a Barbara C. Flaherty; Midland Funding LLC; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "2406 Wabash Avenue\nNorthfield NJ 08225",
+    "Approx. Judgment*": "$282,732.89",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-019243-19 Alias",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Michael S. Flaherty Sr. a/k/a Michael S. Flaherty a/k/a Michael Flaherty; Barbara Flaherty a/k/a Barbara C. Flaherty; Midland Funding LLC; State of New Jersey",
+    "Plaintiff": "Nationstar Mortgage LLC d/b/a Mr. Cooper",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "4/20/2026",
+    "Sheriff #": "F-22000058",
+    "Upset Amount": "$282,732.89"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 282732.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2406 Wabash Avenue Northfield NJ 08225",
+    "defendant": "Michael S. Flaherty ...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2026-04-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC d/b/a Mr. Cooper",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2026-04-20",
+  "sheriff_number": "F-22000058",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-20",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-07-11",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-07-11",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 282732.89,
+  "upset_amount_label": "Upset Amount"
+}

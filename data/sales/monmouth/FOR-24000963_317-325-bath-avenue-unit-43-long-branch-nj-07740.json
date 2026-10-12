@@ -1,0 +1,75 @@
+{
+  "address": "317-325 Bath Avenue Unit 43 Long Branch NJ 07740",
+  "attorney": "McGovern Legal Services, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00252923",
+  "current_status": "Scheduled",
+  "defendant": "Gloria Lopez, et al",
+  "description": "Upon information and belief, the premises is owner-occupied\nFinal upset price $14,260.38",
+  "extracted": {
+    "upset_amount": 14260.38
+  },
+  "fields": {
+    "Address": "317-325 Bath Avenue\nUnit 43\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$12,261.18",
+    "Attorney": "McGovern Legal Services, LLC",
+    "Court Case #": "F00252923",
+    "Defendant": "Gloria Lopez, et al",
+    "Description": "Upon information and belief, the premises is owner-occupied\nFinal upset price $14,260.38",
+    "Parcel #": "Tax Lot 6.43 Block 186 as shown on the City of Long Branch Tax Map",
+    "Plaintiff": "Kensington Court Association, Inc.",
+    "Property Note": "",
+    "Sales Date": "7/17/2025",
+    "Sheriff #": "FOR-24000963"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 12261.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "317-325 Bath Avenue Unit 43 Long Branch NJ 07740",
+    "defendant": "Gloria Lopez, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Kensington Court Association, Inc.",
+    "sale_date": "2025-07-17"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 6.43 Block 186 as shown on the City of Long Branch Tax Map",
+  "plaintiff": "Kensington Court Association, Inc.",
+  "property_note": null,
+  "sale_date": "2025-07-17",
+  "sheriff_number": "FOR-24000963",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-17",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-09",
+      "status": "Scheduled"
+    }
+  ]
+}

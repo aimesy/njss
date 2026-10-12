@@ -1,0 +1,55 @@
+{
+  "address": "171 Daffodil Drive Freehold NJ 07728",
+  "attorney": "McGovern Legal Services, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F1144424",
+  "current_status": "Scheduled",
+  "defendant": "Mark H. Richtmyer",
+  "description": "The property to be sold consists of the tract described below and as more particularly described in the description to the Writ of Execution on file with the Sheriff of Monmouth County pursuant to which this sale is being held.\nUpon information and belief, the premises is vacant.\nFinal upset price was $15,861.02",
+  "extracted": {
+    "upset_amount": 15861.02
+  },
+  "fields": {
+    "Address": "171 Daffodil Drive\nFreehold NJ 07728",
+    "Approx. Judgment*": "$6,325.67",
+    "Attorney": "McGovern Legal Services, LLC",
+    "Court Case #": "F1144424",
+    "Defendant": "Mark H. Richtmyer",
+    "Description": "The property to be sold consists of the tract described below and as more particularly described in the description to the Writ of Execution on file with the Sheriff of Monmouth County pursuant to which this sale is being held.\nUpon information and belief, the premises is vacant.\nFinal upset price was $15,861.02",
+    "Parcel #": "Tax Lot 1, 171 (S08), Block 86.30 Tax Map of Township of Freehold",
+    "Plaintiff": "Olde Oaks Homeowners Association, Inc.",
+    "Property Note": "",
+    "Sales Date": "10/23/2025",
+    "Sheriff #": "FOR-25001645"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 6325.67,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "171 Daffodil Drive Freehold NJ 07728",
+    "defendant": "Mark H. Richtmyer",
+    "listing_status": "Settled",
+    "plaintiff": "Olde Oaks Homeowners Association, Inc.",
+    "sale_date": "2025-10-23"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 1, 171 (S08), Block 86.30 Tax Map of Township of Freehold",
+  "plaintiff": "Olde Oaks Homeowners Association, Inc.",
+  "property_note": null,
+  "sale_date": "2025-10-23",
+  "sheriff_number": "FOR-25001645",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-23",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Scheduled"
+    }
+  ]
+}

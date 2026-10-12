@@ -1,0 +1,68 @@
+{
+  "address": "3110 West Bangs Avenue Neptune NJ 07753",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00610525",
+  "current_status": "Scheduled",
+  "defendant": "Santi Rodriguez, et. al.",
+  "description": "Approximate dimensions: 100' x 100'\nNearest Cross Street: East Lawn Drive\nTaxes and Other Encumbrances:\nTaxes current through 4th Quarter of 2025\nWater/Sewer-Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $428,506.61, good through May 30, 2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nSUBJECT TO THE CONDITIONS OF SALE AS SET FORTH BY THE SHERIFF WHO RESERVES THE RIGHT TO ADJOURN THE SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown.",
+    "upset_amount": 428506.61
+  },
+  "fields": {
+    "Address": "3110 West Bangs Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$400,178.05",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F00610525",
+    "Defendant": "Santi Rodriguez, et. al.",
+    "Description": "Approximate dimensions: 100' x 100'\nNearest Cross Street: East Lawn Drive\nTaxes and Other Encumbrances:\nTaxes current through 4th Quarter of 2025\nWater/Sewer-Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $428,506.61, good through May 30, 2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nSUBJECT TO THE CONDITIONS OF SALE AS SET FORTH BY THE SHERIFF WHO RESERVES THE RIGHT TO ADJOURN THE SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION",
+    "Parcel #": "Lot and Block: Lot 14 f/k/a 1.14, Block 2601 f/k/a 8000",
+    "Plaintiff": "U.S. Bank National Association, as Trustee for Structered Asset Securities Corporation, Mortgage Pass-Through Certificates, Series 2006-Z",
+    "Property Note": "",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FOR-26000114"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 400178.05,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3110 West Bangs Avenue Neptune NJ 07753",
+    "defendant": "Santi Rodriguez, et. al.",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank National Association, as Trustee for Structered Asset Securities Corporation, Mortgage Pass-Through Certificates, Series 2006-Z",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 14 f/k/a 1.14, Block 2601 f/k/a 8000",
+  "plaintiff": "U.S. Bank National Association, as Trustee for Structered Asset Securities Corporation, Mortgage Pass-Through Certificates, Series 2006-Z",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FOR-26000114",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Canceled"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-05-11",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Scheduled"
+    }
+  ]
+}

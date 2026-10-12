@@ -1,0 +1,60 @@
+{
+  "address": "187 PEARSALL AVE JERSEY CITY NJ 07305",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "401-217-8701",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-008838-23",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "DWAYNE THOMAS, ET AL.",
+  "description": "Lot 29, Block 29201\nDimensions: 25FT X IOO FT\nNearest Cross Street: OLD BERGEN ROAD\nThe occupancy status of the property is: OCCUPIED - UNKNOWN\nPlaintiffs good faith estimate of its upset price is: $824,908.38\nPursuant to 28 USC 24 IO(c) this sale is subject to a I year right of redemption held by the United States of America by virtue of its lien:\nMORTGAGE: DWAYNE THOMAS TO SECRETARY OF HOUSING AND URBAN\nDEVELOPMENT ON MAY 6, 2022, IN THE AMOUNT OF $57,090.26, RECORDED IN THE\nOFFICE OF THE CLERK OF HUDSON COLNTY ON JULY 1, 2022, IN BOOK 20303 PAGE 338.\nSubject to open water in the amount of $1,996.08 open plus penalty.",
+  "extracted": {
+    "block": "29201",
+    "lot": "29",
+    "upset_amount": 824908.38
+  },
+  "fields": {
+    "Address": "187 PEARSALL AVE\nJERSEY CITY NJ 07305",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "401-217-8701",
+    "Court Case #": "F-008838-23",
+    "Defendant": "DWAYNE THOMAS, ET AL.",
+    "Description": "Lot 29, Block 29201\nDimensions: 25FT X IOO FT\nNearest Cross Street: OLD BERGEN ROAD\nThe occupancy status of the property is: OCCUPIED - UNKNOWN\nPlaintiffs good faith estimate of its upset price is: $824,908.38\nPursuant to 28 USC 24 IO(c) this sale is subject to a I year right of redemption held by the United States of America by virtue of its lien:\nMORTGAGE: DWAYNE THOMAS TO SECRETARY OF HOUSING AND URBAN\nDEVELOPMENT ON MAY 6, 2022, IN THE AMOUNT OF $57,090.26, RECORDED IN THE\nOFFICE OF THE CLERK OF HUDSON COLNTY ON JULY 1, 2022, IN BOOK 20303 PAGE 338.\nSubject to open water in the amount of $1,996.08 open plus penalty.",
+    "Good Faith Upset*": "$824,908.38",
+    "Judgment": "$667,497.14",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "**Def used 8 wks ADJ. Please see 20059439.**",
+    "Sales Date": "9/10/2026",
+    "Sheriff #": "20063632"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 667497.14,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "187 PEARSALL AVE JERSEY CITY NJ 07305",
+    "defendant": "DWAYNE THOMAS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-09-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "M&T BANK",
+  "property_note": "**Def used 8 wks ADJ. Please see 20059439.**",
+  "sale_date": "2026-09-10",
+  "sheriff_number": "20063632",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-09-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": 824908.38,
+  "upset_amount_label": "Good Faith Upset*"
+}

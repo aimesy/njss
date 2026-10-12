@@ -1,0 +1,51 @@
+{
+  "address": "27 Cherry Tree Circle a/k/a 27 Cherry Tree Circle Howell NJ 07731",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01063122",
+  "current_status": "Canceled",
+  "defendant": "Virginia Sforza, et al",
+  "description": "Approximate dimensions: 75.00' x 106.67'\nNearest cross street: Friendship Road\nThe Plaintiff's Upset Bid presently approximates $500,000.00\nOccupancy Status: UNKNOWN\nIf after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "27 Cherry Tree Circle\na/k/a 27 Cherry Tree Circle\nHowell NJ 07731",
+    "Approx. Judgment*": "$447,938.30",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F01063122",
+    "Defendant": "Virginia Sforza, et al",
+    "Description": "Approximate dimensions: 75.00' x 106.67'\nNearest cross street: Friendship Road\nThe Plaintiff's Upset Bid presently approximates $500,000.00\nOccupancy Status: UNKNOWN\nIf after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+    "Parcel #": "Tax Lot: 7 Tax Block: 78.09 Tax Map of Township of Howell",
+    "Plaintiff": "CrossCountry Mortgage, LLC",
+    "Property Note": "",
+    "Sales Date": "12/3/2024",
+    "Sheriff #": "FOR-24002135"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 447938.3,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "27 Cherry Tree Circle a/k/a 27 Cherry Tree Circle Howell NJ 07731",
+    "defendant": "Virginia Sforza, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "CrossCountry Mortgage, LLC",
+    "sale_date": "2024-12-03"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 7 Tax Block: 78.09 Tax Map of Township of Howell",
+  "plaintiff": "CrossCountry Mortgage, LLC",
+  "property_note": null,
+  "sale_date": "2024-12-03",
+  "sheriff_number": "FOR-24002135",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-03",
+      "status": "Canceled"
+    }
+  ]
+}

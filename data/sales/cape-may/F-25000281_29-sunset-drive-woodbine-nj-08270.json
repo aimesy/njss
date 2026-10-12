@@ -1,0 +1,60 @@
+{
+  "address": "29 SUNSET Drive Woodbine NJ 08270",
+  "attorney": "McCalla Raymer Leibert & Pierce, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "732-902-5399",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-003224-21",
+  "current_status": "Cancelled",
+  "defendant": "KENNETH J EDWARDS, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$373,535.57",
+    "Attorney": "McCalla Raymer Leibert & Pierce, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F-003224-21",
+    "Defendant": "KENNETH J EDWARDS, ET AL",
+    "Description": "",
+    "Minimum Bid": "$419,912.60",
+    "Parcel #": "LOT 20, BLOCK 414",
+    "Plaintiff": "**CANCELLED**CASCADE FUNDING MORTGAGE TRUST HB4",
+    "Property Address": "29 SUNSET Drive\nWoodbine NJ 08270",
+    "Property Note": "",
+    "Sale Date": "10/29/2025",
+    "Sheriff #": "F-25000281"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 373535.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "29 SUNSET Drive Woodbine NJ 08270",
+    "defendant": "KENNETH J EDWARDS, ET AL",
+    "listing_status": null,
+    "plaintiff": "**CANCELLED**CASCADE FUNDING MORTGAGE TRUST HB4",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 20, BLOCK 414",
+  "plaintiff": "**CANCELLED**CASCADE FUNDING MORTGAGE TRUST HB4",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25000281",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-21",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 419912.6,
+  "upset_amount_label": "Minimum Bid"
+}

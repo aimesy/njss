@@ -1,0 +1,80 @@
+{
+  "address": "334 E MIAMI Avenue Villas NJ 08251",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "973-325-8800",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-010938-24",
+  "current_status": "Scheduled",
+  "defendant": "KAITLYN MOGEY, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$210,304.72",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "973-325-8800",
+    "Court Case #": "F-010938-24",
+    "Defendant": "KAITLYN MOGEY, ET AL",
+    "Description": "",
+    "Minimum Bid": "$213,400.00",
+    "Parcel #": "LOT 17, 18, & 19, BLOCK 21",
+    "Plaintiff": "**SETTLED**PENNYMAC LOAN SERVICES, LLC",
+    "Property Address": "334 E MIAMI Avenue\nVillas NJ 08251",
+    "Property Note": "",
+    "Sale Date": "1/7/2026",
+    "Sheriff #": "F-25000165"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 210304.72,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "334 E MIAMI Avenue Villas NJ 08251",
+    "defendant": "KAITLYN MOGEY, ET AL",
+    "listing_status": null,
+    "plaintiff": "**SETTLED**PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 17, 18, & 19, BLOCK 21",
+  "plaintiff": "**SETTLED**PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25000165",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 213400.0,
+  "upset_amount_label": "Minimum Bid"
+}

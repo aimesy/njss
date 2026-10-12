@@ -1,0 +1,66 @@
+{
+  "address": "119 East Collings Drive Collings Lakes (Williamstown) NJ 08094",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004994-23 ALIAS",
+  "current_status": "Scheduled",
+  "deed": "Waqas Akhtar",
+  "deed_address": "410 Montrose Lane, Galloway, NJ 08205",
+  "defendant": "Regis P. Derringer, Jr.; Mrs. Regis P. Derringer, Jr., His Wife; Collings Lakes Civic Association, Inc; Andrea Derringer",
+  "extracted": {},
+  "fields": {
+    "Address": "119 East Collings Drive\nCollings Lakes (Williamstown) NJ 08094",
+    "Approx. Judgment*": "$267,273.65",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-004994-23 ALIAS",
+    "Deed": "Waqas Akhtar",
+    "Deed Address": "410 Montrose Lane, Galloway, NJ 08205",
+    "Defendant": "Regis P. Derringer, Jr.; Mrs. Regis P. Derringer, Jr., His Wife; Collings Lakes Civic Association, Inc; Andrea Derringer",
+    "Plaintiff": "Gateway Mortgage, A Division of Gateway First Bank",
+    "Priors": "COLLINGS LAKES CIVIC ASSOCIATION, INC. $1,123.10-ORIGINAL AMOUNT",
+    "Property Note": "OCCUPANCY STATUS: IT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY",
+    "Sales Date": "5/1/2025",
+    "Sheriff #": "F-24000152",
+    "Upset Amount": "$100,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 267273.65,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "119 East Collings Drive Collings Lakes (Williamstown) NJ 08094",
+    "defendant": "Regis P. Derringer, ...",
+    "listing_status": null,
+    "plaintiff": "Gateway Mortgage, A ...",
+    "sale_date": "2025-05-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Gateway Mortgage, A Division of Gateway First Bank",
+  "priors": "COLLINGS LAKES CIVIC ASSOCIATION, INC. $1,123.10-ORIGINAL AMOUNT",
+  "property_note": "OCCUPANCY STATUS: IT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY",
+  "sale_date": "2025-05-01",
+  "sheriff_number": "F-24000152",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-01",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 100000.0,
+  "upset_amount_label": "Upset Amount"
+}

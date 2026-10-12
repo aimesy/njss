@@ -1,0 +1,60 @@
+{
+  "address": null,
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00828814",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JUDITH A. DEPHILLIPS A/K/A JUDITH A. DEPHILIPS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$254,060.84",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00828814",
+    "Defendant": "JUDITH A. DEPHILLIPS A/K/A JUDITH A. DEPHILIPS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "Lot 7 Block 59.01 fka 59.A",
+    "Plaintiff": "BAYVIEW LOAN SERVICING, LLC",
+    "Property Address": "",
+    "Property Note": "",
+    "Sale Date": "11/20/2024",
+    "Sheriff #": "F-776136"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 254060.84,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "",
+    "defendant": "JUDITH A. DEPHILLIPS A/K/A JUDITH A. DEPHILIPS",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "BAYVIEW LOAN SERVICING, LLC",
+    "sale_date": "2024-11-20"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "Lot 7 Block 59.01 fka 59.A",
+  "plaintiff": "BAYVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2024-11-20",
+  "sheriff_number": "F-776136",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-11-20",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-11-20",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

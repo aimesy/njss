@@ -1,0 +1,68 @@
+{
+  "address": "650 Woodgate Avenue Long Branch NJ 07740",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00512022",
+  "current_status": "Scheduled",
+  "defendant": "Ann Kaplan, Donald Kaplan, et al",
+  "description": "Approximate dimensions: 274.36 x 156.58 x 85.00 x 217.92 x 225.08 x 28.79 x 226.89 ft (Irregular)\nNearest cross street: Hollywood Avenue\nSubject to: 2024 2nd quarter in the amount of $8767.46 open\nSewer in the amount of $2.86 open plus penalty\nUpset Price: $1,591,336.74\nOccupancy Status: Occupied\n**To the best of this firm's knowledge, the property is a not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 1591336.74
+  },
+  "fields": {
+    "Address": "650 Woodgate Avenue\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$1,441,455.54",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00512022",
+    "Defendant": "Ann Kaplan, Donald Kaplan, et al",
+    "Description": "Approximate dimensions: 274.36 x 156.58 x 85.00 x 217.92 x 225.08 x 28.79 x 226.89 ft (Irregular)\nNearest cross street: Hollywood Avenue\nSubject to: 2024 2nd quarter in the amount of $8767.46 open\nSewer in the amount of $2.86 open plus penalty\nUpset Price: $1,591,336.74\nOccupancy Status: Occupied\n**To the best of this firm's knowledge, the property is a not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 38, Block 100 Tax Map of municipality of Long Branch",
+    "Plaintiff": "US Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For VRMTG Asset Trust",
+    "Property Note": "",
+    "Sales Date": "3/18/2025",
+    "Sheriff #": "FOR-24000601"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1441455.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "650 Woodgate Avenue Long Branch NJ 07740",
+    "defendant": "Ann Kaplan, Donald Kaplan, et al",
+    "listing_status": "Settled",
+    "plaintiff": "US Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For VRMTG Asset Trust",
+    "sale_date": "2025-03-18"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 38, Block 100 Tax Map of municipality of Long Branch",
+  "plaintiff": "US Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For VRMTG Asset Trust",
+  "property_note": null,
+  "sale_date": "2025-03-18",
+  "sheriff_number": "FOR-24000601",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-18",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Scheduled"
+    }
+  ]
+}

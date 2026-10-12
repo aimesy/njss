@@ -1,0 +1,53 @@
+{
+  "address": "400 CYPRESS AVENUE OAKLYN NJ 08107",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00080624",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ADH MANAGEMENT LLC; ROBERT M. BRADIS; PARKWEST HOLDINGS LLC; LOAN FUNDER LLC, SERIES 40039; UNKNOWN OCCUPANTS #1-10 N/K/A KIANA CLARK, TENANT",
+  "extracted": {},
+  "fields": {
+    "Address": "400 CYPRESS AVENUE\nOAKLYN NJ 08107",
+    "Approx. Upset*": "$373,746.21",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00080624",
+    "Defendant": "ADH MANAGEMENT LLC; ROBERT M. BRADIS;\nPARKWEST HOLDINGS LLC; LOAN FUNDER LLC,\nSERIES 40039; UNKNOWN OCCUPANTS #1-10\nN/K/A KIANA CLARK, TENANT",
+    "Parcel #": "Tax Lot(s): 1, in Block: 810",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION,\nNOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY\nAS TRUSTEE OF GROVE FUNDING II TRUST,",
+    "Property Note": "This is a commercial property not subject to the Community Wealth Preservation Program Bill.",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26002057"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "400 CYPRESS AVENUE OAKLYN NJ 08107",
+    "defendant": "ADH MANAGEMENT LLC; ROBERT M. BRADIS; \nPARKWEST HOLDINGS LLC; LOAN FUNDER LLC, \nSERIES 40039; UNKNOWN OCCUPANTS #1-10 \nN/K/A KIANA CLARK, TENANT",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, \nNOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY \nAS TRUSTEE OF GROVE FUNDING II TRUST,",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot(s): 1, in Block: 810",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GROVE FUNDING II TRUST,",
+  "property_note": "This is a commercial property not subject to the Community Wealth Preservation Program Bill.",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26002057",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 373746.21,
+  "upset_amount_label": "Approx. Upset*"
+}

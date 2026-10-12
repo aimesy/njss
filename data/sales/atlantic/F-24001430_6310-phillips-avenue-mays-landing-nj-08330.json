@@ -1,0 +1,78 @@
+{
+  "address": "6310 Phillips Avenue Mays Landing NJ 08330",
+  "attorney": "Gross Polowy, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011518-22",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Joseph V. Ruiz and Tayvahn Alicea",
+  "extracted": {},
+  "fields": {
+    "Address": "6310 Phillips Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$181,313.63",
+    "Attorney": "Gross Polowy, LLC",
+    "Court Case #": "F-011518-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Joseph V. Ruiz and Tayvahn Alicea",
+    "Plaintiff": "Servbank, SB",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANY STATUS: UNKNOWN",
+    "Sales Date": "6/19/2025",
+    "Sheriff #": "F-24001430",
+    "Upset Amount": "$187,709.66"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 181313.63,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6310 Phillips Avenue Mays Landing NJ 08330",
+    "defendant": "Joseph V. Ruiz and T...",
+    "listing_status": null,
+    "plaintiff": "Servbank, SB...",
+    "sale_date": "2025-06-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Servbank, SB",
+  "priors": "NONE",
+  "property_note": "OCCUPANY STATUS: UNKNOWN",
+  "sale_date": "2025-06-19",
+  "sheriff_number": "F-24001430",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-19",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-06-19",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 187709.66,
+  "upset_amount_label": "Upset Amount"
+}

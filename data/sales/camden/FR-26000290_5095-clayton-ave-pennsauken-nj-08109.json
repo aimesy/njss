@@ -1,0 +1,61 @@
+{
+  "address": "5095 CLAYTON AVE PENNSAUKEN NJ 08109",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00472925",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "LISA ROBERTS; RUBEN T. AMEGATCHER; HSBC FINANCE CORPORATION F/K/A HOUSEHOLD FINANCE CORPORATION III; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "5095 CLAYTON AVE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$324,607.65",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00472925",
+    "Defendant": "LISA ROBERTS; RUBEN T. AMEGATCHER; HSBC FINANCE\nCORPORATION F/K/A HOUSEHOLD FINANCE CORPORATION III;\nUNITED STATES OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK N.A.",
+    "Property Note": "",
+    "Sales Date": "6/22/2026",
+    "Sheriff #": "FR-26000290"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "5095 CLAYTON AVE PENNSAUKEN NJ 08109",
+    "defendant": "LISA ROBERTS; RUBEN T. AMEGATCHER; HSBC FINANCE \nCORPORATION F/K/A HOUSEHOLD FINANCE CORPORATION III; \nUNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK N.A.",
+    "sale_date": "2026-06-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK N.A.",
+  "property_note": null,
+  "sale_date": "2026-06-22",
+  "sheriff_number": "FR-26000290",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 324607.65,
+  "upset_amount_label": "Approx. Upset*"
+}

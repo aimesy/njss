@@ -1,0 +1,85 @@
+{
+  "address": "183 BLOOM STREET HACKENSACK NJ 07601",
+  "attorney": "EISENBERG GOLD AGRAWAL PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00763623",
+  "current_status": "Cancelled",
+  "defendant": "HYBRID BLOOM LLC",
+  "description": "UPSET BID ESTIMATE $551,000.00 AS OF SEPTEMBER 15, 2025.\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUINITY WEALTH PRESERVATION PROGRAM.",
+  "extracted": {},
+  "fields": {
+    "Address": "183 BLOOM STREET\nHACKENSACK NJ 07601",
+    "Approx. Upset*": "$496,196.75",
+    "Attorney": "EISENBERG GOLD AGRAWAL PC",
+    "Court Case #": "F00763623",
+    "Defendant": "HYBRID BLOOM LLC",
+    "Description": "UPSET BID ESTIMATE $551,000.00 AS OF SEPTEMBER 15, 2025.\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUINITY WEALTH PRESERVATION PROGRAM.",
+    "Parcel #": "LOT 10.05, BLOCK 45",
+    "Plaintiff": "TEJ VAKTA",
+    "Property Note": "",
+    "Sales Date": "7/9/2026",
+    "Sheriff #": "F-25001549"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "183 BLOOM STREET HACKENSACK NJ 07601",
+    "defendant": "HYBRID BLOOM LLC",
+    "listing_status": null,
+    "plaintiff": "TEJ VAKTA",
+    "sale_date": "2026-07-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 10.05, BLOCK 45",
+  "plaintiff": "TEJ VAKTA",
+  "property_note": null,
+  "sale_date": "2026-07-09",
+  "sheriff_number": "F-25001549",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-08-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Adjourned - Joint"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-07-09",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 496196.75,
+  "upset_amount_label": "Approx. Upset*"
+}

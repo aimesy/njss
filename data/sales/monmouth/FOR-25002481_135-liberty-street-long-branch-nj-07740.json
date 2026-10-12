@@ -1,0 +1,68 @@
+{
+  "address": "135 Liberty Street Long Branch NJ 07740",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00814925",
+  "current_status": "Scheduled",
+  "defendant": "Mary F. Stovall Lomans, et.al.",
+  "description": "Dimensions of Lot: 43 feet wide by 151 feet long\nNearest Cross Street: Central Avenue\nEstimated upset bid amount: $185,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 1 Due: 02/01/2026 $1,876.50 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,876.50 OPEN\nSewer: Long Branch Sewer Auth. 150 Joline Avenue Long Branch, NJ 07740 732-222-0500\nAcct: 8754 0 10/01/2025-12/31/2025 $184.00 OPEN PLUS PENALTY\nLiens: Year: 2024 Type: 3rd Party Sewer Amount: $1,066.35 Cert No.:25-00198 Sold: 09/16/2025 To: Trystone Capital Assets, LLC Lien amount is subject to subsequent taxes+interest. Must call prior to settlement for redemption figures.\nThe Redemption of Liens is outlined in N.J.S.A 54:5-54",
+  "extracted": {
+    "lot": "43",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "135 Liberty Street\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$167,233.95",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00814925",
+    "Defendant": "Mary F. Stovall Lomans, et.al.",
+    "Description": "Dimensions of Lot: 43 feet wide by 151 feet long\nNearest Cross Street: Central Avenue\nEstimated upset bid amount: $185,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 1 Due: 02/01/2026 $1,876.50 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,876.50 OPEN\nSewer: Long Branch Sewer Auth. 150 Joline Avenue Long Branch, NJ 07740 732-222-0500\nAcct: 8754 0 10/01/2025-12/31/2025 $184.00 OPEN PLUS PENALTY\nLiens: Year: 2024 Type: 3rd Party Sewer Amount: $1,066.35 Cert No.:25-00198 Sold: 09/16/2025 To: Trystone Capital Assets, LLC Lien amount is subject to subsequent taxes+interest. Must call prior to settlement for redemption figures.\nThe Redemption of Liens is outlined in N.J.S.A 54:5-54",
+    "Parcel #": "Lot and Block: Lot 5, Block 399 Tax Map of City of Long Branch",
+    "Plaintiff": "Wells Fargo Bank, N.A>",
+    "Property Note": "",
+    "Sales Date": "6/10/2026",
+    "Sheriff #": "FOR-25002481"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 167233.95,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "135 Liberty Street Long Branch NJ 07740",
+    "defendant": "Mary F. Stovall Lomans, et.al.",
+    "listing_status": "Reinstated",
+    "plaintiff": "Wells Fargo Bank, N.A>",
+    "sale_date": "2026-06-10"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 5, Block 399 Tax Map of City of Long Branch",
+  "plaintiff": "Wells Fargo Bank, N.A>",
+  "property_note": null,
+  "sale_date": "2026-06-10",
+  "sheriff_number": "FOR-25002481",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-06-10",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-04-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Scheduled"
+    }
+  ]
+}

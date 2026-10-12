@@ -1,0 +1,70 @@
+{
+  "address": "1101 Dolphin Avenue Northfield NJ 08225",
+  "attorney": "Hyberg, White & Mann",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "ATL-DC-000279-24 / DC-110395-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Thomas E. Hauck",
+  "extracted": {},
+  "fields": {
+    "Address": "1101 Dolphin Avenue\nNorthfield NJ 08225",
+    "Approx. Judgment*": "$12,266.98",
+    "Attorney": "Hyberg, White & Mann",
+    "Court Case #": "ATL-DC-000279-24 / DC-110395-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Thomas E. Hauck",
+    "Plaintiff": "Four Seasons Condominium Assocation, Inc.",
+    "Priors": "Trident Mortgage Company LP $78,655.00\nLVNV Funding, LLC $696.53\nFour Seasons Condominium Lien #2019005507 $7,004.14\nFour Seasons Condominium Lien #2021002903 $14,652.81\nTotal: $101,008.48",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "6/12/2025",
+    "Sheriff #": "L-25000066",
+    "Upset Amount": "$13,997.45"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 12266.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1101 Dolphin Avenue Northfield NJ 08225",
+    "defendant": "Thomas E. Hauck...",
+    "listing_status": null,
+    "plaintiff": "Four Seasons Condomi...",
+    "sale_date": "2025-06-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Four Seasons Condominium Assocation, Inc.",
+  "priors": "Trident Mortgage Company LP $78,655.00 LVNV Funding, LLC $696.53 Four Seasons Condominium Lien #2019005507 $7,004.14 Four Seasons Condominium Lien #2021002903 $14,652.81 Total: $101,008.48",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-06-12",
+  "sheriff_number": "L-25000066",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-12",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-06-12",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-17",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 13997.45,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,61 @@
+{
+  "address": "601 BEVERLY DRIVE WITH A MAILING ADDRESS OF 601 BERVERLY DRIVE, MAGNOLIA, NEW JERSEY 08049 TOWNSHIP OF GLOUCESTER NJ 08049",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "attorney_phone": "(973) 325-8800",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01298724",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "SARAH LEMASNEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "601 BEVERLY DRIVE\nWITH A MAILING ADDRESS OF 601 BERVERLY DRIVE, MAGNOLIA, NEW JERSEY 08049\nTOWNSHIP OF GLOUCESTER NJ 08049",
+    "Approx. Upset*": "$272,806.03",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F01298724",
+    "Defendant": "SARAH LEMASNEY,",
+    "Parcel #": "",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
+    "Property Note": "",
+    "Sales Date": "11/5/2025",
+    "Sheriff #": "FR-25001357"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "601 BEVERLY DRIVE WITH A MAILING ADDRESS OF 601 BERVERLY DRIVE, MAGNOLIA, NEW JERSEY 08049 TOWNSHIP OF GLOUCESTER NJ 08049",
+    "defendant": "SARAH LEMASNEY,",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "FR-25001357",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 272806.03,
+  "upset_amount_label": "Approx. Upset*"
+}

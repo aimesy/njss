@@ -1,0 +1,61 @@
+{
+  "address": "15 ACADIA DRIVE VOORHEES TOWNSHIP NJ 08043",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F04231614",
+  "current_status": "Redeemed",
+  "defendant": "THERESA SCHREYER, ET. AL",
+  "extracted": {},
+  "fields": {
+    "Address": "15 ACADIA DRIVE\nVOORHEES TOWNSHIP NJ 08043",
+    "Approx. Upset*": "$185,642.60",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F04231614",
+    "Defendant": "THERESA SCHREYER, ET. AL",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL\nASSOCIATION AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO\nU.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR\nCITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-\nTHROUGH CERTIFICATES, SERIES 2007-AMC2",
+    "Property Note": "",
+    "Sales Date": "6/22/2026",
+    "Sheriff #": "FR-26000050"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "15 ACADIA DRIVE VOORHEES TOWNSHIP NJ 08043",
+    "defendant": "THERESA SCHREYER, ET. AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL \nASSOCIATION AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO \nU.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR \nCITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS- \nTHROUGH CERTIFICATES, SERIES 2007-AMC2",
+    "sale_date": "2026-06-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS- THROUGH CERTIFICATES, SERIES 2007-AMC2",
+  "property_note": null,
+  "sale_date": "2026-06-22",
+  "sheriff_number": "FR-26000050",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 185642.6,
+  "upset_amount_label": "Approx. Upset*"
+}

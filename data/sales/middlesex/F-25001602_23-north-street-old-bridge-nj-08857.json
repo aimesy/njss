@@ -1,0 +1,71 @@
+{
+  "address": "23 NORTH STREET OLD BRIDGE NJ 08857",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00287324",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "RICHARD PELLICANE, ET ALS.",
+  "description": "LOT 21.11 BLOCK 26012 N/K/A 26012.12",
+  "extracted": {
+    "block": "26012",
+    "lot": "21.11"
+  },
+  "fields": {
+    "Approx. Judgment*": "$417,798.01",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F00287324",
+    "Defendant": "RICHARD PELLICANE, ET ALS.",
+    "Description": "LOT 21.11 BLOCK 26012 N/K/A 26012.12",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A., AS SUCCESSOR TO JPMORGAN CHASE BANK N.A., AS TRUSTEE FOR RAMP 2004-RS8",
+    "Property Address": "23 NORTH STREET\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-25001602"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 417798.01,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "23 NORTH STREET OLD BRIDGE NJ 08857",
+    "defendant": "RICHARD PELLICANE, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A., AS SUCCESSOR TO JPMORGAN CHASE BANK N.A., AS TRUSTEE FOR RAMP 2004-RS8",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A., AS SUCCESSOR TO JPMORGAN CHASE BANK N.A., AS TRUSTEE FOR RAMP 2004-RS8",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-25001602",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

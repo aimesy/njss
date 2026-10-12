@@ -1,0 +1,63 @@
+{
+  "address": "42 OAKWOOD AVENUE BOGOTA NJ 07603",
+  "attorney": "KNUCKLES & MANFRO LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00691024",
+  "current_status": "Cancelled",
+  "defendant": "JUAN P CALDERON AND JANET B CALDERON, HUSBAND AND WIFE; BERNARD BERKLEY; ET AL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $356,000.00, IN ADDITION TO LAWFUL INTEREST ACCRUING DAILY AT THE RATE ALLOWED BY LAW, UP TO AND INCLUDING THE ACTUAL DAY OF SALE PLUS ANY ADDITIONAL SHERIFF FEES, COSTS, AND/OR COMMISSION, AND/OR ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. BID AMOUNT IS SUBJECT TO CHANGE DUE TO UNFORESEEN CIRCUMSTANCES AND/OR ADJOURNMENT.\nPROPERTY OCCUPANCY: THE PROPERTY IS CURRENTLY REPORTED TO BE OWNER OCCUPIED.",
+  "extracted": {
+    "occupancy": "THE PROPERTY IS CURRENTLY REPORTED TO BE OWNER OCCUPIED."
+  },
+  "fields": {
+    "Address": "42 OAKWOOD AVENUE\nBOGOTA NJ 07603",
+    "Approx. Upset*": "$327,704.85",
+    "Attorney": "KNUCKLES & MANFRO LLP",
+    "Court Case #": "F00691024",
+    "Defendant": "JUAN P CALDERON AND JANET B CALDERON, HUSBAND AND WIFE; BERNARD BERKLEY; ET AL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $356,000.00, IN ADDITION TO LAWFUL INTEREST ACCRUING DAILY AT THE RATE ALLOWED BY LAW, UP TO AND INCLUDING THE ACTUAL DAY OF SALE PLUS ANY ADDITIONAL SHERIFF FEES, COSTS, AND/OR COMMISSION, AND/OR ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. BID AMOUNT IS SUBJECT TO CHANGE DUE TO UNFORESEEN CIRCUMSTANCES AND/OR ADJOURNMENT.\nPROPERTY OCCUPANCY: THE PROPERTY IS CURRENTLY REPORTED TO BE OWNER OCCUPIED.",
+    "Parcel #": "LOT 6, BLOCK 102",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST I",
+    "Property Note": "",
+    "Sales Date": "10/15/2025",
+    "Sheriff #": "F-25001158"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "42 OAKWOOD AVENUE BOGOTA NJ 07603",
+    "defendant": "JUAN P CALDERON AND JANET B CALDERON, HUSBAND AND WIFE; BERNARD BERKLEY; ET AL",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST I",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 6, BLOCK 102",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST I",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-25001158",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-06-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 327704.85,
+  "upset_amount_label": "Approx. Upset*"
+}

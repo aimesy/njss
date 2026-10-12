@@ -1,0 +1,56 @@
+{
+  "address": "56 PRINCETON ST MAPLEWOOD NJ 07040",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732 902-5399",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00952625",
+  "current_status": "Scheduled",
+  "defendant": "REGNY CHARLES; ET. ALS.",
+  "description": "LOT: 578 BLOCK: 49.04\nAPPROXIMATE DIMENSIONS 100.00 X 50.00 FEET\nNEAREST CROSS STREET: CONCORD AVENUE\nSUBJECT TO: STORMWATER-01/01/2026-12/31/2026 $70.00 OPEN PLUS PENALTY; OWED IN ARREARS SEWER-01/01/2026-12/31/2026 $314.60 OPEN PLUS PENALTY $300.00 OPEN PLUS PENALTY; OWED IN ARREARS\nUPSET PRICE $525,578.82\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "block": "49.04",
+    "lot": "578",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 525578.82
+  },
+  "fields": {
+    "Address": "56 PRINCETON ST\nMAPLEWOOD NJ 07040",
+    "Approx. Upset*": "$531,757.03",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732 902-5399",
+    "Court Case #": "F00952625",
+    "Defendant": "REGNY CHARLES; ET. ALS.",
+    "Description": "LOT: 578 BLOCK: 49.04\nAPPROXIMATE DIMENSIONS 100.00 X 50.00 FEET\nNEAREST CROSS STREET: CONCORD AVENUE\nSUBJECT TO: STORMWATER-01/01/2026-12/31/2026 $70.00 OPEN PLUS PENALTY; OWED IN ARREARS SEWER-01/01/2026-12/31/2026 $314.60 OPEN PLUS PENALTY $300.00 OPEN PLUS PENALTY; OWED IN ARREARS\nUPSET PRICE $525,578.82\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "10/27/2026",
+    "Sheriff #": "F-26004032"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "56 PRINCETON ST MAPLEWOOD NJ 07040",
+    "defendant": "REGNY CHARLES; ET. ALS.",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "sale_date": "2026-10-27"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-10-27",
+  "sheriff_number": "F-26004032",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-10-27",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 531757.03,
+  "upset_amount_label": "Approx. Upset*"
+}

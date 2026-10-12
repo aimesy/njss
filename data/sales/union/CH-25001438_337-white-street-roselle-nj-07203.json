@@ -1,0 +1,68 @@
+{
+  "address": "337 WHITE STREET ROSELLE NJ 07203",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F02035019",
+  "current_status": "Purchased",
+  "defendant": "SIDLEY O'NEAL, DECEASED, HER HEIRS, DEVISES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE, AND INTEREST; JINNELL O'NEAL, AS HER OF SIDLEY O'NEAL; JONATHAN O'NEAL; ASHLEY PRATHER; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "LOT 25 BLOCK 2301",
+  "extracted": {
+    "block": "2301",
+    "lot": "25"
+  },
+  "fields": {
+    "Address": "337 WHITE STREET\nROSELLE NJ 07203",
+    "Approx. Upset*": "$414,245.64",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F02035019",
+    "Defendant": "SIDLEY O'NEAL, DECEASED, HER HEIRS, DEVISES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE, AND INTEREST; JINNELL O'NEAL, AS HER OF SIDLEY O'NEAL; JONATHAN O'NEAL; ASHLEY PRATHER; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "LOT 25 BLOCK 2301",
+    "Parcel #": "LOT 25 BLOCK 2301",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V",
+    "Property Note": "",
+    "Sales Date": "10/22/2025",
+    "Sheriff #": "CH-25001438"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "337 WHITE STREET ROSELLE NJ 07203",
+    "defendant": "SIDLEY O'NEAL, DECEASED, HER HEIRS, DEVISES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE, AND INTEREST; JINNELL O'NEAL, AS HER OF SIDLEY O'NEAL; JONATHAN O'NEAL; ASHLEY PRATHER; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V",
+    "sale_date": "2025-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 25 BLOCK 2301",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V",
+  "property_note": null,
+  "sale_date": "2025-10-22",
+  "sheriff_number": "CH-25001438",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-24",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-22",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-22",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 414245.64,
+  "upset_amount_label": "Approx. Upset*"
+}

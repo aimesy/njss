@@ -1,0 +1,53 @@
+{
+  "address": "93 HAZEL AVENUE SICKLERVILLE (GLOUCESTER TWP) NJ 08081",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01249224",
+  "current_status": "Scheduled",
+  "defendant": "ELIZIA MARIA TRUJILLO; STATE OF NEW JERSEY;",
+  "extracted": {},
+  "fields": {
+    "Address": "93 HAZEL AVENUE\nSICKLERVILLE (GLOUCESTER TWP) NJ 08081",
+    "Approx. Upset*": "$15,749.69",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F01249224",
+    "Defendant": "ELIZIA MARIA TRUJILLO; STATE OF NEW JERSEY;",
+    "Parcel #": "TAX LOT 23 BLOCK 16005",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "THE SALE IS SUBJECT TO UNPAID TAXES AND ASSESSMENTS, TAX, WATER AND SEWER LIENS AND OTHER MUNICIPAL ASSESSMENTS. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY SUBJECT TO RESTRICTIONS, REVERSIONS, RESERVATIONS, AND EASEMENTS OF THE RECORD.",
+    "Sales Date": "8/4/2026",
+    "Sheriff #": "FR-26001426"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "93 HAZEL AVENUE SICKLERVILLE (GLOUCESTER TWP) NJ 08081",
+    "defendant": "ELIZIA MARIA TRUJILLO; STATE OF NEW JERSEY;",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-08-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 23 BLOCK 16005",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": "THE SALE IS SUBJECT TO UNPAID TAXES AND ASSESSMENTS, TAX, WATER AND SEWER LIENS AND OTHER MUNICIPAL ASSESSMENTS. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY SUBJECT TO RESTRICTIONS, REVERSIONS, RESERVATIONS, AND EASEMENTS OF THE RECORD.",
+  "sale_date": "2026-08-04",
+  "sheriff_number": "FR-26001426",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-04",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 15749.69,
+  "upset_amount_label": "Approx. Upset*"
+}

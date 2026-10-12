@@ -1,0 +1,55 @@
+{
+  "address": "1911 Rutherford Avenue Neptune NJ 07753",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00467725",
+  "current_status": "Scheduled",
+  "defendant": "Jocelyn Sainvilus",
+  "description": "Approximate Dimensions: 75 x 125\nNearest Cross Street: Bloomfield Avenue\nUpset Price: $402,459.44 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsuquent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:8B-21(b)(1), if any.",
+  "extracted": {
+    "upset_amount": 402459.44
+  },
+  "fields": {
+    "Address": "1911 Rutherford Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$366,225.16",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F00467725",
+    "Defendant": "Jocelyn Sainvilus",
+    "Description": "Approximate Dimensions: 75 x 125\nNearest Cross Street: Bloomfield Avenue\nUpset Price: $402,459.44 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsuquent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:8B-21(b)(1), if any.",
+    "Parcel #": "Tax Lot # 3 (f/k/a Lot 59.01) Block # 1001 (f/k/a Block 262) Tax Map Township of Neptune",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity but solely As Owner Trustee For Rcf 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "1/5/2026",
+    "Sheriff #": "FOR-25002038"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 366225.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1911 Rutherford Avenue Neptune NJ 07753",
+    "defendant": "Jocelyn Sainvilus",
+    "listing_status": "Bankrupt",
+    "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity but solely As Owner Trustee For Rcf 2 Acquisition Trust",
+    "sale_date": "2026-01-05"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot # 3 (f/k/a Lot 59.01) Block # 1001 (f/k/a Block 262) Tax Map Township of Neptune",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity but solely As Owner Trustee For Rcf 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2026-01-05",
+  "sheriff_number": "FOR-25002038",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-05",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "address": "137 BROADWAY CRESSKILL NJ 07626",
+  "attorney": "POWERS KIRN LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00266925",
+  "current_status": "Redeemed",
+  "defendant": "ROBERT RUMMEL AKA ROBERT J RUMMEL, KATHY SCHULTZ-RUMMEL AKA KATHEY M SCHULTZ-RUMMEL",
+  "description": "PLAINTIFF'S UPSET BID IS $445,132.19 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE PROPERTY IS REPORTED TO BE OWNER OCCUPIED.",
+  "extracted": {},
+  "fields": {
+    "Address": "137 BROADWAY\nCRESSKILL NJ 07626",
+    "Approx. Upset*": "$412,524.05",
+    "Attorney": "POWERS KIRN LLC",
+    "Court Case #": "F00266925",
+    "Defendant": "ROBERT RUMMEL AKA ROBERT J RUMMEL, KATHY SCHULTZ-RUMMEL AKA KATHEY M SCHULTZ-RUMMEL",
+    "Description": "PLAINTIFF'S UPSET BID IS $445,132.19 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE PROPERTY IS REPORTED TO BE OWNER OCCUPIED.",
+    "Parcel #": "LOT 2, QUALIFIER CT035, BLOCK 181",
+    "Plaintiff": "1ST 2ND MORTGAGE CO OF NJ, INC",
+    "Property Note": "",
+    "Sales Date": "10/14/2025",
+    "Sheriff #": "F-25002064"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "137 BROADWAY CRESSKILL NJ 07626",
+    "defendant": "ROBERT RUMMEL AKA ROBERT J RUMMEL, KATHY SCHULTZ-RUMMEL AKA KATHEY M SCHULTZ-RUMMEL",
+    "listing_status": null,
+    "plaintiff": "1ST 2ND MORTGAGE CO OF NJ, INC",
+    "sale_date": "2025-10-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2, QUALIFIER CT035, BLOCK 181",
+  "plaintiff": "1ST 2ND MORTGAGE CO OF NJ, INC",
+  "property_note": null,
+  "sale_date": "2025-10-14",
+  "sheriff_number": "F-25002064",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-03",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 412524.05,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,63 @@
+{
+  "address": "30 LINDALE Court Clifton NJ 07013",
+  "attorney": "LOGS LEGAL GROUP, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 011740 23 CTL# 162998",
+  "current_status": "Cancelled",
+  "defendant": "HARLEY D. GIGLIO ET ALS",
+  "description": "Dimensions of the Lot are (Approximately) 91.52 feet x 115.69 feet x 129,32 feet x 35.12\nNearest Cross Street: Sunnycrest Avenue\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/homeowner association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record. The occupancy status of the subject property is unknown.\nThe approximate upset sum is $748,105.80 calculated through June 16, 2025 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "30 LINDALE Court\nClifton NJ 07013",
+    "Approx. Upset*": "$701,257.58",
+    "Attorney": "LOGS LEGAL GROUP, LLC",
+    "Court Case #": "F 011740 23 CTL# 162998",
+    "Defendant": "HARLEY D. GIGLIO ET ALS",
+    "Description": "Dimensions of the Lot are (Approximately) 91.52 feet x 115.69 feet x 129,32 feet x 35.12\nNearest Cross Street: Sunnycrest Avenue\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/homeowner association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record. The occupancy status of the subject property is unknown.\nThe approximate upset sum is $748,105.80 calculated through June 16, 2025 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+    "Parcel #": "Tax Lot 49 Block 41.01",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "10/28/2025",
+    "Sheriff #": "F-25001148"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "30 LINDALE Court Clifton NJ 07013",
+    "defendant": "HARLEY D. GIGLIO ET ALS",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2025-10-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 49 Block 41.01",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2025-10-28",
+  "sheriff_number": "F-25001148",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-30",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 701257.58,
+  "upset_amount_label": "Approx. Upset*"
+}

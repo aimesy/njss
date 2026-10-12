@@ -1,0 +1,66 @@
+{
+  "address": "216 Fairbanks Avenue Northfield NJ 08225",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004211-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Michael Vincent Cottrell and Mrs. Michael Vincent Cottrell",
+  "extracted": {},
+  "fields": {
+    "Address": "216 Fairbanks Avenue\nNorthfield NJ 08225",
+    "Approx. Judgment*": "$167,393.85",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-004211-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Michael Vincent Cottrell and Mrs. Michael Vincent Cottrell",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "9/8/2026",
+    "Sheriff #": "F-24001328",
+    "Upset Amount": "$181,521.23"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 167393.85,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "216 Fairbanks Avenue Northfield NJ 08225",
+    "defendant": "Michael Vincent Cott...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2026-09-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2026-09-08",
+  "sheriff_number": "F-24001328",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-09-08",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 181521.23,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,79 @@
+{
+  "address": "117 Field Street Carneys Point NJ 08069",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-016353-19",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "Paula Jackson; Gary Jackson; United States of America; Michael L. Blackhurst, DDS; Robert M. Kern; Dainawati A. Green; Baki Kahbirm",
+  "description": "Approximate Dimensions:105X105 Approximate Upset Price: $329,200.00. The upset amount may be subject to further Orders of additional sums. Occupancy Status: Owner Occupied\n2026 Qtr 1 Due: 02/01/2026 $1,868.36 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,868.35 OPEN\nSewer: Penns Grove Sewer Auth. 81 Beach Ave. Penns Grove, NJ 08069 856-299-3103\nAcct: 1042117 0 12/01/2025-02/28/2026 $155.00 OPEN AND DUE 01/01/2026 $667.01 OPEN\nLiens:\nYear: 2024 Type: 3rd PARTY SEWER Amount: $924.67\nCert No.: 25-00017 Sold: 11/17/2025 To: CHANGSHENG LU\nLien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A. 54:5-54",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 329200.0
+  },
+  "fields": {
+    "Address": "117 Field Street\nCarneys Point NJ 08069",
+    "Court Case #": "F-016353-19",
+    "Defendant": "Paula Jackson; Gary Jackson; United States of America; Michael L. Blackhurst, DDS; Robert M. Kern; Dainawati A. Green; Baki Kahbirm",
+    "Description": "Approximate Dimensions:105X105 Approximate Upset Price: $329,200.00. The upset amount may be subject to further Orders of additional sums. Occupancy Status: Owner Occupied\n2026 Qtr 1 Due: 02/01/2026 $1,868.36 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,868.35 OPEN\nSewer: Penns Grove Sewer Auth. 81 Beach Ave. Penns Grove, NJ 08069 856-299-3103\nAcct: 1042117 0 12/01/2025-02/28/2026 $155.00 OPEN AND DUE 01/01/2026 $667.01 OPEN\nLiens:\nYear: 2024 Type: 3rd PARTY SEWER Amount: $924.67\nCert No.: 25-00017 Sold: 11/17/2025 To: CHANGSHENG LU\nLien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A. 54:5-54",
+    "Plaintiff": "PHH Mortgage Corporation",
+    "Sales Date": "03/02/2026 02:00 PM",
+    "Sheriff #": "F-25000032"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "117 Field Street Carneys Point NJ 08069",
+    "defendant": "Paula Jackson; Gary Jackson; United States of America; Michael L. Blackhurst, DDS; Robert M. Kern; Dainawati A. Green; Baki Kahbirm",
+    "listing_status": null,
+    "plaintiff": "PHH Mortgage Corporation",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "PHH Mortgage Corporation",
+  "sale_date": null,
+  "sheriff_number": "F-25000032",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    },
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    },
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Per Sheriff"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

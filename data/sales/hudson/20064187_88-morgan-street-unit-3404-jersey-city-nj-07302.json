@@ -1,0 +1,56 @@
+{
+  "address": "88 MORGAN STREET UNIT 3404 JERSEY CITY NJ 07302",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005597-25",
+  "current_status": "Scheduled",
+  "defendant": "LIUXIN YE, ET AL.",
+  "description": "TAX LOT: 1 C3404 & 1 C3404X F/K/A 154. W & 154.WX C3404 TAX BLOCK: 11608F/K/A 75\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: WASHINGTON STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $511,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "11608F",
+    "lot": "1",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "88 MORGAN STREET UNIT 3404\nJERSEY CITY NJ 07302",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-005597-25",
+    "Defendant": "LIUXIN YE, ET AL.",
+    "Description": "TAX LOT: 1 C3404 & 1 C3404X F/K/A 154. W & 154.WX C3404 TAX BLOCK: 11608F/K/A 75\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: WASHINGTON STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $511,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Good Faith Upset*": "$511,000.00",
+    "Judgment": "$478,214.69",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "11/5/2026",
+    "Sheriff #": "20064187"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 478214.69,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "88 MORGAN STREET UNIT 3404 JERSEY CITY NJ 07302",
+    "defendant": "LIUXIN YE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-11-05",
+  "sheriff_number": "20064187",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-11-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 511000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

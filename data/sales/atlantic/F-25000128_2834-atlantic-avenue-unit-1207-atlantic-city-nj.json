@@ -1,0 +1,58 @@
+{
+  "address": "2834 Atlantic Avenue Unit 1207 Atlantic City NJ 08401",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004146-24",
+  "current_status": "Scheduled",
+  "deed": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "deed_address": "8950 Cypress Waters Blvd, Coppell, TX 75019",
+  "defendant": "Vijaya Pathak, His/Her Heirs, Devisees and Personal Representatives and His, Hers, Their or Any of Their Successors in Right, Title and Interest; Sanjana Rimal; Arun Rimal; Atlantic County Improvement Authority; Brighton Towers Condominium Association A/K/A Brighton Towers Condominium; State of New Jersey; United States of America; Fidelity National Title Insurance Company",
+  "extracted": {},
+  "fields": {
+    "Address": "2834 Atlantic Avenue\nUnit 1207\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$76,339.51",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-004146-24",
+    "Deed": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Deed Address": "8950 Cypress Waters Blvd, Coppell, TX 75019",
+    "Defendant": "Vijaya Pathak, His/Her Heirs, Devisees and Personal Representatives and His, Hers, Their or Any of Their Successors in Right, Title and Interest; Sanjana Rimal; Arun Rimal; Atlantic County Improvement Authority; Brighton Towers Condominium Association A/K/A Brighton Towers Condominium; State of New Jersey; United States of America; Fidelity National Title Insurance Company",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "4/3/2025",
+    "Sheriff #": "F-25000128",
+    "Upset Amount": "$86,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 76339.51,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2834 Atlantic Avenue Unit 1207 Atlantic City NJ 08401",
+    "defendant": "Vijaya Pathak, His/H...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2025-04-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-04-03",
+  "sheriff_number": "F-25000128",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-03",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 86500.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,57 @@
+{
+  "address": "34 POPLAR STREET SICKLERVILLE NJ 08081",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01334125",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "FREDDY RODRIGUEZ; MRS. OR MR. RODRIGUEZ SPOUSE OF FREDDY RODRIGUEZ SAID NAME BEING FICTITIOUS; EDUARDO RODRIGUEZ; MRS. OR MR. RODRIGUEZ SPOUSE OF EDUARDO RODRIGUEZ SAID NAME BEING FICTITIOUS; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT PARAGANO DEVELOPMENT LLC; MARK MAGNUSSON; PUBLIC SERVICE ELECTRIC & GAS COMPANY; MIDLAND CREDIT MANAGEMENT, INC.; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "34 POPLAR STREET\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$171,571.92",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F01334125",
+    "Defendant": "FREDDY RODRIGUEZ; MRS. OR MR. RODRIGUEZ SPOUSE OF FREDDY RODRIGUEZ SAID NAME BEING FICTITIOUS; EDUARDO RODRIGUEZ; MRS. OR MR. RODRIGUEZ SPOUSE OF EDUARDO RODRIGUEZ SAID NAME BEING FICTITIOUS; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT PARAGANO DEVELOPMENT LLC; MARK MAGNUSSON; PUBLIC SERVICE ELECTRIC & GAS COMPANY; MIDLAND CREDIT MANAGEMENT, INC.; UNITED STATES OF AMERICA",
+    "Parcel #": "Block 14701 Lot 17 Township of Gloucester; County of Camden",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "9/17/2026",
+    "Sheriff #": "FR-26001842"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "34 POPLAR STREET SICKLERVILLE NJ 08081",
+    "defendant": "FREDDY RODRIGUEZ; MRS. OR MR. RODRIGUEZ SPOUSE OF FREDDY RODRIGUEZ SAID NAME BEING FICTITIOUS; EDUARDO RODRIGUEZ; MRS. OR MR. RODRIGUEZ SPOUSE OF EDUARDO RODRIGUEZ SAID NAME BEING FICTITIOUS; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT PARAGANO DEVELOPMENT LLC; MARK MAGNUSSON; PUBLIC SERVICE ELECTRIC & GAS COMPANY; MIDLAND CREDIT MANAGEMENT, INC.; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-09-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 14701 Lot 17 Township of Gloucester; County of Camden",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-09-17",
+  "sheriff_number": "FR-26001842",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-17",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 171571.92,
+  "upset_amount_label": "Approx. Upset*"
+}

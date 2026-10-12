@@ -1,0 +1,57 @@
+{
+  "address": "101 Hudson Avenue Keansburg NJ 07734",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00119422",
+  "current_status": "Scheduled",
+  "defendant": "Catherine A. Dazinski et al.",
+  "description": "Dimensions of Lot: (Approximate) 50feet by 100 feet\nNearest Cross Street: This is a cost - it will have to be changed on the ledger\nThe estimated upset amount for the scheduled sheriff sale is currently $419,465.77.\nThe upset price is not the same as a payoff or judgement redemption amount.\nThe property is Vacant.",
+  "extracted": {},
+  "fields": {
+    "Address": "101 Hudson Avenue\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$388,947.60",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00119422",
+    "Defendant": "Catherine A. Dazinski et al.",
+    "Description": "Dimensions of Lot: (Approximate) 50feet by 100 feet\nNearest Cross Street: This is a cost - it will have to be changed on the ledger\nThe estimated upset amount for the scheduled sheriff sale is currently $419,465.77.\nThe upset price is not the same as a payoff or judgement redemption amount.\nThe property is Vacant.",
+    "Parcel #": "Tax Lot No. 4 Block: 154 Located on the tax map of the township of Hazlet",
+    "Plaintiff": "Mortgage Assets Management, LLC",
+    "Property Note": "",
+    "Sales Date": "2/3/2025",
+    "Sheriff #": "FOR-24001971"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 388947.6,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "101 Hudson Avenue Keansburg NJ 07734",
+    "defendant": "Catherine A. Dazinski et al.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Mortgage Assets Management, LLC",
+    "sale_date": "2025-02-03"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 4 Block: 154 Located on the tax map of the township of Hazlet",
+  "plaintiff": "Mortgage Assets Management, LLC",
+  "property_note": null,
+  "sale_date": "2025-02-03",
+  "sheriff_number": "FOR-24001971",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-03",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

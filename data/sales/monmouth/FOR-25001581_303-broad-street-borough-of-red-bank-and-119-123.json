@@ -1,0 +1,55 @@
+{
+  "address": "303 Broad Street, Borough of Red Bank and 119, 123 and 127 East Bergen Place Borough of Red Bank NJ 07701",
+  "attorney": "Brach Eichler LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01149124",
+  "current_status": "Scheduled",
+  "defendant": "Grace Aquisitions NJ LLC d/b/a Grace Aquisitions NJ LLC",
+  "description": "The Premises is a vacant three-story retail/office building formerly occupied by Wells Fargo as a bank branch. It is currently configured with drive-thru and three points of ingress/egress at a signalized intersection.\nThe Plaintiff's good faith estimate of the upset price is $8,126,347.59 as of August 5, 2025. Interest continues to accrue on this Judgment at the rate prescribed by $. 4:42-aa, which is 7.5% through December 31, 2025. This upset price does not include Sheriff's fees/commissions, which shall be borne solely exclusively by any bona fide purchaser for value (or the holder of the equity of redemption at the statutory rate applicable to the holder of the equity of redemption), who shall be solely and exclusively liable for the same to the Sheriff of Monmouth County.",
+  "extracted": {
+    "upset_amount": 8126347.59
+  },
+  "fields": {
+    "Address": "303 Broad Street, Borough of Red Bank\nand 119, 123 and 127 East Bergen Place\nBorough of Red Bank NJ 07701",
+    "Approx. Judgment*": "$8,039,553.33",
+    "Attorney": "Brach Eichler LLC",
+    "Court Case #": "F01149124",
+    "Defendant": "Grace Aquisitions NJ LLC d/b/a Grace Aquisitions NJ LLC",
+    "Description": "The Premises is a vacant three-story retail/office building formerly occupied by Wells Fargo as a bank branch. It is currently configured with drive-thru and three points of ingress/egress at a signalized intersection.\nThe Plaintiff's good faith estimate of the upset price is $8,126,347.59 as of August 5, 2025. Interest continues to accrue on this Judgment at the rate prescribed by $. 4:42-aa, which is 7.5% through December 31, 2025. This upset price does not include Sheriff's fees/commissions, which shall be borne solely exclusively by any bona fide purchaser for value (or the holder of the equity of redemption at the statutory rate applicable to the holder of the equity of redemption), who shall be solely and exclusively liable for the same to the Sheriff of Monmouth County.",
+    "Parcel #": "Block 115, Lots 1.01, 7, 8 and 9 Tax Map of the Borough of Red Bank",
+    "Plaintiff": "JTS Capital 3 LLC assignee of Sterling National Bank",
+    "Property Note": "",
+    "Sales Date": "10/8/2025",
+    "Sheriff #": "FOR-25001581"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 8039553.33,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "303 Broad Street, Borough of Red Bank and 119, 123 and 127 East Bergen Place Borough of Red Bank NJ 07701",
+    "defendant": "Grace Aquisitions NJ LLC d/b/a Grace Aquisitions NJ LLC",
+    "listing_status": "Settled",
+    "plaintiff": "JTS Capital 3 LLC assignee of Sterling National Bank",
+    "sale_date": "2025-10-08"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 115, Lots 1.01, 7, 8 and 9 Tax Map of the Borough of Red Bank",
+  "plaintiff": "JTS Capital 3 LLC assignee of Sterling National Bank",
+  "property_note": null,
+  "sale_date": "2025-10-08",
+  "sheriff_number": "FOR-25001581",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-08",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    }
+  ]
+}

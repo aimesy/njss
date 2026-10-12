@@ -1,0 +1,53 @@
+{
+  "address": "7 LILY COURT ATCO NJ 08004",
+  "attorney": "STERN & EISENBERG, PC",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00360225",
+  "current_status": "Scheduled",
+  "defendant": "MELISSA A. BATES, ET. AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "7 LILY COURT\nATCO NJ 08004",
+    "Approx. Upset*": "$104,968.75",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00360225",
+    "Defendant": "MELISSA A. BATES, ET. AL.",
+    "Parcel #": "TAX LOT # 19 Block # 2401.01",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "Taxes current through 2ND Quarter of 2026\nWater open balance in the amount of $115.41, good through May 30, 2026*\nSewer- Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nTax Sale Certificate # 25-00416 due in the amount of $1,091.67, good through July 20, 2026*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.",
+    "Sales Date": "9/1/2026",
+    "Sheriff #": "FR-26001660"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7 LILY COURT ATCO NJ 08004",
+    "defendant": "MELISSA A. BATES, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2026-09-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT # 19 Block # 2401.01",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": "Taxes current through 2ND Quarter of 2026\nWater open balance in the amount of $115.41, good through May 30, 2026*\nSewer- Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nTax Sale Certificate # 25-00416 due in the amount of $1,091.67, good through July 20, 2026*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.",
+  "sale_date": "2026-09-01",
+  "sheriff_number": "FR-26001660",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-01",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 104968.75,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,66 @@
+{
+  "address": "1002 Richards Avenue Linwood NJ 08221",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "SWC-F-007659-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "James M. Barrett; Mrs. Barrett, Wife of James M. Barrett and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "1002 Richards Avenue\nLinwood NJ 08221",
+    "Approx. Judgment*": "$305,667.59",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "SWC-F-007659-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "James M. Barrett; Mrs. Barrett, Wife of James M. Barrett and United States of America",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "7/24/2025",
+    "Sheriff #": "F-25000337",
+    "Upset Amount": "$318,206.70"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 305667.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1002 Richards Avenue Linwood NJ 08221",
+    "defendant": "James M. Barrett; Mr...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2025-07-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-07-24",
+  "sheriff_number": "F-25000337",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-24",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 318206.7,
+  "upset_amount_label": "Upset Amount"
+}

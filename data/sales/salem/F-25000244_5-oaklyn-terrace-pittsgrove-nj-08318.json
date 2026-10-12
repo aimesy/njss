@@ -1,0 +1,47 @@
+{
+  "address": "5 Oaklyn Terrace Pittsgrove NJ 08318",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-007539-22",
+  "current_status": "Cancelled",
+  "defendant": "Krista M. Riley, et al.",
+  "description": "Approximate Dimensions: 39.27' x 186.70' x 148.40' x 180.10' x 120'. Approximate Upset Price: $311,828.75. The upset amount may be subject to further orders of additional sums. Occupancy Status: Owner Occupied.",
+  "extracted": {
+    "occupancy": "Owner Occupied.",
+    "upset_amount": 311828.75
+  },
+  "fields": {
+    "Address": "5 Oaklyn Terrace\nPittsgrove NJ 08318",
+    "Court Case #": "F-007539-22",
+    "Defendant": "Krista M. Riley, et al.",
+    "Description": "Approximate Dimensions: 39.27' x 186.70' x 148.40' x 180.10' x 120'. Approximate Upset Price: $311,828.75. The upset amount may be subject to further orders of additional sums. Occupancy Status: Owner Occupied.",
+    "Plaintiff": "The Money Source Inc.",
+    "Sales Date": "12/05/2025 02:00 PM",
+    "Sheriff #": "F-25000244"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "5 Oaklyn Terrace Pittsgrove NJ 08318",
+    "defendant": "Krista M. Riley, et al.",
+    "listing_status": null,
+    "plaintiff": "The Money Source Inc.",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "The Money Source Inc.",
+  "sale_date": null,
+  "sheriff_number": "F-25000244",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

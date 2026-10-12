@@ -1,0 +1,71 @@
+{
+  "address": "64 REEVE Avenue Bloomingdale NJ 07403",
+  "attorney": "KNUCKLES & MANFRO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 007607 25 CTL # 163105",
+  "current_status": "Cancelled",
+  "defendant": "WILLIAM T. VELLA, ET AL",
+  "description": "Dimensions (approx): 100' x 232'\nNearest Cross Street: Pleasant View Ave (approx 389 ft/119m)\nEstimated Upset Bid Amount: $384,000.00, in addition to lawful interest accuring dailt at the rate allowed by law, up to and including the actual dat of sale plus any additional Sheriff fees, costs and/or commission, and/or any additional sums as ordered by the court. Bid amount is subject to change due to unforseen circumstances and/or adjournment.\nProperty Occupancy: The property is currently reported to be owner occupied\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded in the Office of the Register/Clerk of Passaic County in Book M4027, Page 234, and the Writ of Execution on file with the Sheriff of Passaic County.",
+  "extracted": {
+    "occupancy": "The property is currently reported to be owner occupied"
+  },
+  "fields": {
+    "Address": "64 REEVE Avenue\nBloomingdale NJ 07403",
+    "Approx. Upset*": "$347,021.09",
+    "Attorney": "KNUCKLES & MANFRO, LLP",
+    "Court Case #": "F 007607 25 CTL # 163105",
+    "Defendant": "WILLIAM T. VELLA, ET AL",
+    "Description": "Dimensions (approx): 100' x 232'\nNearest Cross Street: Pleasant View Ave (approx 389 ft/119m)\nEstimated Upset Bid Amount: $384,000.00, in addition to lawful interest accuring dailt at the rate allowed by law, up to and including the actual dat of sale plus any additional Sheriff fees, costs and/or commission, and/or any additional sums as ordered by the court. Bid amount is subject to change due to unforseen circumstances and/or adjournment.\nProperty Occupancy: The property is currently reported to be owner occupied\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded in the Office of the Register/Clerk of Passaic County in Book M4027, Page 234, and the Writ of Execution on file with the Sheriff of Passaic County.",
+    "Parcel #": "Tax lot 4 Block 5066 f/k/a lot 17.05 Block 92.A",
+    "Plaintiff": "MCLP ASSET COMPANY, INC.",
+    "Property Note": "",
+    "Sales Date": "9/3/2026",
+    "Sheriff #": "F-25001859"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "64 REEVE Avenue Bloomingdale NJ 07403",
+    "defendant": "WILLIAM T. VELLA, ET AL",
+    "listing_status": null,
+    "plaintiff": "MCLP ASSET COMPANY, INC.",
+    "sale_date": "2026-09-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot 4 Block 5066 f/k/a lot 17.05 Block 92.A",
+  "plaintiff": "MCLP ASSET COMPANY, INC.",
+  "property_note": null,
+  "sale_date": "2026-09-03",
+  "sheriff_number": "F-25001859",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-03-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-08-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-09-03",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 347021.09,
+  "upset_amount_label": "Approx. Upset*"
+}

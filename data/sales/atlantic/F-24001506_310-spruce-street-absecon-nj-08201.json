@@ -1,0 +1,58 @@
+{
+  "address": "310 Spruce Street Absecon NJ 08201",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002661-24",
+  "current_status": "Scheduled",
+  "deed": "Yogesh Patel, Rakesh Patel, Harshad Patel, Vishal BrahmBhatt",
+  "deed_address": "466A Damson Ave Galloway, NJ 08205",
+  "defendant": "Stephanie K. Wolcott, Individually and as Administratrix of The Estate of Paul Guenther A/K/A Paul Donald Guenther A/K/A Paul D. Guenther; Donald R. Guenther; Daria M. Guenther; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "310 Spruce Street\nAbsecon NJ 08201",
+    "Approx. Judgment*": "$130,345.21",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-002661-24",
+    "Deed": "Yogesh Patel, Rakesh Patel, Harshad Patel, Vishal BrahmBhatt",
+    "Deed Address": "466A Damson Ave Galloway, NJ 08205",
+    "Defendant": "Stephanie K. Wolcott, Individually and as Administratrix of The Estate of Paul Guenther A/K/A Paul Donald Guenther A/K/A Paul D. Guenther; Donald R. Guenther; Daria M. Guenther; State of New Jersey; United States of America",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/16/2025",
+    "Sheriff #": "F-24001506",
+    "Upset Amount": "$143,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 130345.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "310 Spruce Street Absecon NJ 08201",
+    "defendant": "Stephanie K. Wolcott...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2025-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-01-16",
+  "sheriff_number": "F-24001506",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-16",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 143500.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,63 @@
+{
+  "address": "860 RIVERVALE ROAD RIVER VALE NJ 07675",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01213617",
+  "current_status": "BANKRUPTCY",
+  "defendant": "STEVEN C REMICK ET AL",
+  "description": "Estimated upset bid amount: $500,000.00____,plus any additional sums as ordered by the court.\nOccupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "860 RIVERVALE ROAD\nRIVER VALE NJ 07675",
+    "Approx. Upset*": "$447,670.56",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F01213617",
+    "Defendant": "STEVEN C REMICK ET AL",
+    "Description": "Estimated upset bid amount: $500,000.00____,plus any additional sums as ordered by the court.\nOccupancy Status: Unknown",
+    "Parcel #": "LOT 2, BLOCK 301.01",
+    "Plaintiff": "REVERSE MORTGAGE SOLUTIONS INC",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "F-23003590"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "860 RIVERVALE ROAD RIVER VALE NJ 07675",
+    "defendant": "STEVEN C REMICK ET AL",
+    "listing_status": null,
+    "plaintiff": "REVERSE MORTGAGE SOLUTIONS INC",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2, BLOCK 301.01",
+  "plaintiff": "REVERSE MORTGAGE SOLUTIONS INC",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-23003590",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2024-01-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-06-28",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-09-19",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 447670.56,
+  "upset_amount_label": "Approx. Upset*"
+}

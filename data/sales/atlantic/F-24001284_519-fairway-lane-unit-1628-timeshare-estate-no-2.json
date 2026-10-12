@@ -1,0 +1,58 @@
+{
+  "address": "519 Fairway Lane Unit 1628, Timeshare Estate No. 29 Galloway Township NJ 08205",
+  "attorney": "Fein, Such, Kahn & Shepard P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-11594-23",
+  "current_status": "Scheduled",
+  "deed": "Marriott Ownership Resort, Inc",
+  "deed_address": "1200 U.S. Highway 98 S, Lake Land, FL 33801",
+  "defendant": "Fabio Arturo Gomez Sanabria; Ana Josefa Suarez Rangel' Monica Alexandra Gomez Suarez; Fabio Andres Gomez Suarez",
+  "extracted": {},
+  "fields": {
+    "Address": "519 Fairway Lane\nUnit 1628, Timeshare Estate No. 29\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$4,107.20",
+    "Attorney": "Fein, Such, Kahn & Shepard P.C.",
+    "Court Case #": "F-11594-23",
+    "Deed": "Marriott Ownership Resort, Inc",
+    "Deed Address": "1200 U.S. Highway 98 S, Lake Land, FL 33801",
+    "Defendant": "Fabio Arturo Gomez Sanabria; Ana Josefa Suarez Rangel' Monica Alexandra Gomez Suarez; Fabio Andres Gomez Suarez",
+    "Plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-24001284",
+    "Upset Amount": "$10,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 4107.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "519 Fairway Lane Unit 1628, Timeshare Estate No. 29 Galloway Township NJ 08205",
+    "defendant": "Fabio Arturo Gomez S...",
+    "listing_status": null,
+    "plaintiff": "Fairway Villas At Se...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24001284",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 10000.0,
+  "upset_amount_label": "Upset Amount"
+}

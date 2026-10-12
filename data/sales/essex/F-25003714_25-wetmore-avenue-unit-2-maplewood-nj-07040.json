@@ -1,0 +1,91 @@
+{
+  "address": "25 WETMORE AVENUE UNIT 2 MAPLEWOOD NJ 07040",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00051725",
+  "current_status": "Buy Back",
+  "defendant": "DAVID C. BROOMFIELD, ET. AL",
+  "description": "LOT(S) : 89.01, IN BLOCK: 37.01\nDIMENSIONS (APPROX.): 50 X 100\nNEAREST CROSS STREET: SOUTH 4TH STREET.\nGOOD FAITH ESTIMATED UPSET PRICE: $400,000.00. OCCUPANCY STATUS: OWNER OCCUPIED.\nTAX CERTIFICATE RECORDED: DECEMBER 10, 2012, HOLDER: VIRGO MUNICIPAL FINANCE FUND, AMOUNT: $40.99, BOOK: 12405, PAGE: 797, INSTRUMENT NUMBER: CERT. NO: 11-00066",
+  "extracted": {
+    "block": "37.01",
+    "occupancy": "OWNER OCCUPIED.",
+    "upset_amount": 400000.0
+  },
+  "fields": {
+    "Address": "25 WETMORE AVENUE\nUNIT 2\nMAPLEWOOD NJ 07040",
+    "Approx. Upset*": "$426,860.44",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00051725",
+    "Defendant": "DAVID C. BROOMFIELD, ET. AL",
+    "Description": "LOT(S) : 89.01, IN BLOCK: 37.01\nDIMENSIONS (APPROX.): 50 X 100\nNEAREST CROSS STREET: SOUTH 4TH STREET.\nGOOD FAITH ESTIMATED UPSET PRICE: $400,000.00. OCCUPANCY STATUS: OWNER OCCUPIED.\nTAX CERTIFICATE RECORDED: DECEMBER 10, 2012, HOLDER: VIRGO MUNICIPAL FINANCE FUND, AMOUNT: $40.99, BOOK: 12405, PAGE: 797, INSTRUMENT NUMBER: CERT. NO: 11-00066",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "9/1/2026",
+    "Sheriff #": "F-25003714"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "25 WETMORE AVENUE UNIT 2 MAPLEWOOD NJ 07040",
+    "defendant": "DAVID C. BROOMFIELD, ET. AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-09-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-09-01",
+  "sheriff_number": "F-25003714",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-12-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-30",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-01-27",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Open"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 426860.44,
+  "upset_amount_label": "Approx. Upset*"
+}

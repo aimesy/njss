@@ -1,0 +1,56 @@
+{
+  "address": "134 9TH STREET PISCATAWAY NJ 08854",
+  "attorney": "ROMANO GARUBO & ARGENTIERI",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00249825",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "LEONA H. FASANO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$401,698.89",
+    "Attorney": "ROMANO GARUBO & ARGENTIERI",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00249825",
+    "Defendant": "LEONA H. FASANO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 19.01 BLOCK 807",
+    "Plaintiff": "SAFEGUARD CREDIT COUNSELING SERVICES INC.",
+    "Property Address": "134 9TH STREET\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "10/15/2025",
+    "Sheriff #": "F-25002133"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 401698.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "134 9TH STREET PISCATAWAY NJ 08854",
+    "defendant": "LEONA H. FASANO, ET ALS.",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "SAFEGUARD CREDIT COUNSELING SERVICES INC.",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 19.01 BLOCK 807",
+  "plaintiff": "SAFEGUARD CREDIT COUNSELING SERVICES INC.",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-25002133",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

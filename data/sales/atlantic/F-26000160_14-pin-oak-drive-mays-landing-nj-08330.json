@@ -1,0 +1,74 @@
+{
+  "address": "14 Pin Oak Drive Mays Landing NJ 08330",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003397-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Errol Andre Richards; Mrs. Errol Andre Richards, wife of Errol Andre Richards; Oak Woods Homeowners' Association, Inc.; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "14 Pin Oak Drive\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$403,430.55",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-003397-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Errol Andre Richards; Mrs. Errol Andre Richards, wife of Errol Andre Richards; Oak Woods Homeowners' Association, Inc.; State of New Jersey; United States of America",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "7/30/2026",
+    "Sheriff #": "F-26000160",
+    "Upset Amount": "$439,426.53"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 403430.55,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "14 Pin Oak Drive Mays Landing NJ 08330",
+    "defendant": "Errol Andre Richards...",
+    "listing_status": null,
+    "plaintiff": "Carrington Mortgage ...",
+    "sale_date": "2026-07-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-07-30",
+  "sheriff_number": "F-26000160",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-07-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-07-30",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-07-02",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-06-04",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 439426.53,
+  "upset_amount_label": "Upset Amount"
+}

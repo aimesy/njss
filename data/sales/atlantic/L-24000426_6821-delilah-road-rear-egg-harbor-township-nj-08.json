@@ -1,0 +1,54 @@
+{
+  "address": "6821 Delilah Road Rear Egg Harbor Township NJ 08234",
+  "attorney": "Offit & Kurman",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "ATL-L-3022-22",
+  "current_status": "Purchased - 3rd Party",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Paul Phillippy",
+  "extracted": {},
+  "fields": {
+    "Address": "6821 Delilah Road Rear\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$263,240.65",
+    "Attorney": "Offit & Kurman",
+    "Court Case #": "ATL-L-3022-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Paul Phillippy",
+    "Plaintiff": "Offit Kurman, P.A.",
+    "Priors": "N/A",
+    "Property Note": "",
+    "Sales Date": "8/13/2025",
+    "Sheriff #": "L-24000426",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 263240.65,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6821 Delilah Road Rear Egg Harbor Township NJ 08234",
+    "defendant": "Paul Phillippy...",
+    "listing_status": null,
+    "plaintiff": "Offit Kurman, P.A....",
+    "sale_date": "2025-08-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Offit Kurman, P.A.",
+  "priors": "N/A",
+  "property_note": null,
+  "sale_date": "2025-08-13",
+  "sheriff_number": "L-24000426",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-13",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

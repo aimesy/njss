@@ -1,0 +1,56 @@
+{
+  "address": "47 LORI STREET MONROE NJ 08831",
+  "attorney": "KML LAW GROUP P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01085822",
+  "current_status": "Bankruptcy",
+  "defendant": "ANN WAN WAH CHAN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$879,418.58",
+    "Attorney": "KML LAW GROUP P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F01085822",
+    "Defendant": "ANN WAN WAH CHAN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 38.15 BLOCK 148",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE ON BEHALF OF THE HOLDERS OF THE CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-6",
+    "Property Address": "47 LORI STREET\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "1/8/2025",
+    "Sheriff #": "F-24000051"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 879418.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "47 LORI STREET MONROE NJ 08831",
+    "defendant": "ANN WAN WAH CHAN, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE ON BEHALF OF THE HOLDERS OF THE CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-6",
+    "sale_date": "2025-01-08"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 38.15 BLOCK 148",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE ON BEHALF OF THE HOLDERS OF THE CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-6",
+  "property_note": null,
+  "sale_date": "2025-01-08",
+  "sheriff_number": "F-24000051",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-01-08",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

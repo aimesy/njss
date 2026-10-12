@@ -1,0 +1,84 @@
+{
+  "address": "316-318 JOHN STREET ELIZABETH NJ 07201",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01261119",
+  "current_status": "Cancelled",
+  "defendant": "JOSE VASQUEZ A/K/A JOSE VAZQUEZ; EDITH EZE; STATE FARM INDEMITY COMPANY O/B/O ULBERTO CABRERA; NORTH JERSEY FEDERAL CREDIT; COUNTY OF CAMDEN; COUNTY OF CUMBERLAND; STATE OF NEW JEESEY; UNITED STATES OF AMERICA",
+  "description": "LOT 812 BLOCK 9",
+  "extracted": {
+    "block": "9",
+    "lot": "812"
+  },
+  "fields": {
+    "Address": "316-318 JOHN STREET\nELIZABETH NJ 07201",
+    "Approx. Upset*": "$275,121.15",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+    "Court Case #": "F01261119",
+    "Defendant": "JOSE VASQUEZ A/K/A JOSE VAZQUEZ; EDITH EZE; STATE FARM INDEMITY COMPANY O/B/O ULBERTO CABRERA; NORTH JERSEY FEDERAL CREDIT; COUNTY OF CAMDEN; COUNTY OF CUMBERLAND; STATE OF NEW JEESEY; UNITED STATES OF AMERICA",
+    "Description": "LOT 812 BLOCK 9",
+    "Parcel #": "LOT 812 BLOCK 9",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC B/B/A MR. COOPER",
+    "Property Note": "",
+    "Sales Date": "5/8/2026",
+    "Sheriff #": "CH-20000416"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "316-318 JOHN STREET ELIZABETH NJ 07201",
+    "defendant": "JOSE VASQUEZ A/K/A JOSE VAZQUEZ; EDITH EZE; STATE FARM INDEMITY COMPANY O/B/O ULBERTO CABRERA; NORTH JERSEY FEDERAL CREDIT; COUNTY OF CAMDEN; COUNTY OF CUMBERLAND; STATE OF NEW JEESEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC B/B/A MR. COOPER",
+    "sale_date": "2026-05-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 812 BLOCK 9",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC B/B/A MR. COOPER",
+  "property_note": null,
+  "sale_date": "2026-05-08",
+  "sheriff_number": "CH-20000416",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2020-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2020-03-18",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2022-08-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-08-10",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2023-09-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-20",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-05-08",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 275121.15,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,80 @@
+{
+  "address": "38 Herbert Road Robbinsville NJ 08691",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00269422",
+  "current_status": "Scheduled",
+  "defendant": "Stephen Zielinski, et al",
+  "description": "Approximate Dimensions: 7.03 AC\nNearest Cross Street: Sharon Station-East Branch Road\nUpset Price: $1,000,662.26, good through September 13, 2025 and any additional sums as ordered by the court\nOccupancy status: Occupancy status at the property Unknown\nTaxes and Other Emcumbrances:\nTaxes current through 1st Quarter of 2025\nWater/Sewer- Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nSUBJECT TO ADDITIONAL ADVANCES MADE BY PLAINTIFF FOR TAXES, INSURANCE, INSPECTIONS, ETC., AFTER FINAL JUGJEMENT WAS ENTERED. THE AMOUNT ADVANCED WAS $41,572.41 AND THE PLAINFIFF HAS OBTAINED AN ORDER TO BE REIMBURSED FOR THESE MONIES OR TO MAKE FIRST CLAIM FOR ANY SURPLUS MONIES REALIZED FROM THIS SALE.\nA full legal description can be found in the Office of the Register",
+  "extracted": {
+    "occupancy": "Occupancy status at the property Unknown",
+    "upset_amount": 1000662.26
+  },
+  "fields": {
+    "Address": "38 Herbert Road\nRobbinsville NJ 08691",
+    "Approx. Judgment*": "$845,941.94",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F00269422",
+    "Defendant": "Stephen Zielinski, et al",
+    "Description": "Approximate Dimensions: 7.03 AC\nNearest Cross Street: Sharon Station-East Branch Road\nUpset Price: $1,000,662.26, good through September 13, 2025 and any additional sums as ordered by the court\nOccupancy status: Occupancy status at the property Unknown\nTaxes and Other Emcumbrances:\nTaxes current through 1st Quarter of 2025\nWater/Sewer- Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nSUBJECT TO ADDITIONAL ADVANCES MADE BY PLAINTIFF FOR TAXES, INSURANCE, INSPECTIONS, ETC., AFTER FINAL JUGJEMENT WAS ENTERED. THE AMOUNT ADVANCED WAS $41,572.41 AND THE PLAINFIFF HAS OBTAINED AN ORDER TO BE REIMBURSED FOR THESE MONIES OR TO MAKE FIRST CLAIM FOR ANY SURPLUS MONIES REALIZED FROM THIS SALE.\nA full legal description can be found in the Office of the Register",
+    "Parcel #": "Lot 22.02 & 22.02 Qual: QFARM, Block 13 Tax Map of the Township of Upper Freehold",
+    "Plaintiff": "Deutsche Bank Trust Company Americas, as Trustee for Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2006-QA10",
+    "Property Note": "",
+    "Sales Date": "6/9/2025",
+    "Sheriff #": "FOR-23001116"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 845941.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "38 Herbert Road Robbinsville NJ 08691",
+    "defendant": "Stephen Zielinski, et al",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Deutsche Bank Trust Company Americas, as Trustee for Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2006-QA10",
+    "sale_date": "2025-06-09"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 22.02 & 22.02 Qual: QFARM, Block 13 Tax Map of the Township of Upper Freehold",
+  "plaintiff": "Deutsche Bank Trust Company Americas, as Trustee for Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2006-QA10",
+  "property_note": null,
+  "sale_date": "2025-06-09",
+  "sheriff_number": "FOR-23001116",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-09",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-15",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-05",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-09-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-08-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-07-10",
+      "status": "Scheduled"
+    }
+  ]
+}

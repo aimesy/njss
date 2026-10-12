@@ -1,0 +1,56 @@
+{
+  "address": "128 RAINTREE LANE MAHWAH NJ 07430",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00782824",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "PAUL W. PIEKEN DECEASED, HIS HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; VICTORIA BECCHINA AS ADMINISTRATRIX OF THE ESTATE OF PAUL W. PIEKEN; ET AL",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE : $438,557.61\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 438557.61
+  },
+  "fields": {
+    "Address": "128 RAINTREE LANE\nMAHWAH NJ 07430",
+    "Approx. Upset*": "$403,133.50",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00782824",
+    "Defendant": "PAUL W. PIEKEN DECEASED, HIS HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; VICTORIA BECCHINA AS ADMINISTRATRIX OF THE ESTATE OF PAUL W. PIEKEN; ET AL",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE : $438,557.61\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 128, BLOCK 139",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE FOR THE IGLOO SERIES IV TRUST",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "F-25002921"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "128 RAINTREE LANE MAHWAH NJ 07430",
+    "defendant": "PAUL W. PIEKEN DECEASED, HIS HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; VICTORIA BECCHINA AS ADMINISTRATRIX OF THE ESTATE OF PAUL W. PIEKEN; ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE FOR THE IGLOO SERIES IV TRUST",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 128, BLOCK 139",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE FOR THE IGLOO SERIES IV TRUST",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "F-25002921",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 403133.5,
+  "upset_amount_label": "Approx. Upset*"
+}

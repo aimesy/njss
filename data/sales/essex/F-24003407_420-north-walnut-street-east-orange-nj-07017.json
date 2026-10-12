@@ -1,0 +1,79 @@
+{
+  "address": "420 NORTH WALNUT STREET EAST ORANGE NJ 07017",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_phone": null,
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "*F01007811",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "LESTER B. SMITH, ET AL.",
+  "description": "TAX LOT:26 BLOCK:330\nDIMENSIONS OF LOT: (APPROXIMATELY) 62 FEET BY 175 FEET\nNEAREST CROSS STREET: RUTLEDGE AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $668,278.65\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF JUDGEMENT REDEMPTION AMOUNT.\nTHIS PROPERTY IS VACANT\nNAME OF SECURED PARTY CURRENT AMOUNT DUE\nTHE PLAINTIFF HAS OBTAINED A LETTER OF INDEMNIFICATION WHICH WILL INSURE THE SUCCESSFUL BIDDER AT SALE IN RESPECT TO:\nMORTGAGE RECORDED FEBRUARY 13, 2001 IN BOOK 7683, PAGE 205 $93,000.00\nCHILD SUPPORT6 JUDGMENT J-083421-1999 CASE CS 221458 50A $DEBT AMOUNT\nTOTAL $93,000.00",
+  "extracted": {
+    "block": "330",
+    "lot": "26",
+    "upset_amount": 93000.0
+  },
+  "fields": {
+    "Address": "420 NORTH WALNUT STREET\nEAST ORANGE NJ 07017",
+    "Approx. Upset*": "$473,265.81",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney Phone": "",
+    "Court Case #": "*F01007811",
+    "Defendant": "LESTER B. SMITH, ET AL.",
+    "Description": "TAX LOT:26 BLOCK:330\nDIMENSIONS OF LOT: (APPROXIMATELY) 62 FEET BY 175 FEET\nNEAREST CROSS STREET: RUTLEDGE AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $668,278.65\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF JUDGEMENT REDEMPTION AMOUNT.\nTHIS PROPERTY IS VACANT\nNAME OF SECURED PARTY CURRENT AMOUNT DUE\nTHE PLAINTIFF HAS OBTAINED A LETTER OF INDEMNIFICATION WHICH WILL INSURE THE SUCCESSFUL BIDDER AT SALE IN RESPECT TO:\nMORTGAGE RECORDED FEBRUARY 13, 2001 IN BOOK 7683, PAGE 205 $93,000.00\nCHILD SUPPORT6 JUDGMENT J-083421-1999 CASE CS 221458 50A $DEBT AMOUNT\nTOTAL $93,000.00",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE, FOR NEW CENTURY HOME EQUITY LOAN TRUST 2006-2",
+    "Property Note": "",
+    "Sales Date": "7/17/2026",
+    "Sheriff #": "F-24003407"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "420 NORTH WALNUT STREET EAST ORANGE NJ 07017",
+    "defendant": "LESTER B. SMITH, ET AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE, FOR NEW CENTURY HOME EQUITY LOAN TRUST 2006-2",
+    "sale_date": "2026-07-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE, FOR NEW CENTURY HOME EQUITY LOAN TRUST 2006-2",
+  "property_note": null,
+  "sale_date": "2026-07-17",
+  "sheriff_number": "F-24003407",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2024-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-10-15",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-17",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 473265.81,
+  "upset_amount_label": "Approx. Upset*"
+}

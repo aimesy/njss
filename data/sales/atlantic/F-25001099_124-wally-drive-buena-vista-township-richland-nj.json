@@ -1,0 +1,58 @@
+{
+  "address": "124 Wally Drive (Buena Vista Township) Richland NJ 08350",
+  "attorney": "Stern Lavinthal & Frankenberg LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001427-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Margarette C. Burroughs; New Jersey Housing and Mortgage Finance Agency; University of Penn New Bolton Center; State of New Jersey; Midland Funding LLC; LVNV Funding LLC and LVNV Funding LLC, Assignee",
+  "extracted": {},
+  "fields": {
+    "Address": "124 Wally Drive\n(Buena Vista Township)\nRichland NJ 08350",
+    "Approx. Judgment*": "$541,055.51",
+    "Attorney": "Stern Lavinthal & Frankenberg LLC",
+    "Court Case #": "F-001427-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Margarette C. Burroughs; New Jersey Housing and Mortgage Finance Agency; University of Penn New Bolton Center; State of New Jersey; Midland Funding LLC; LVNV Funding LLC and LVNV Funding LLC, Assignee",
+    "Plaintiff": "Deutsche Bank National Trust Company, As Indenture Trustee For New Century Home Equity Loan Trust 2006-2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "F-25001099",
+    "Upset Amount": "$584,019.76"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 541055.51,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "124 Wally Drive (Buena Vista Township) Richland NJ 08350",
+    "defendant": "Margarette C. Burrou...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Nation...",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company, As Indenture Trustee For New Century Home Equity Loan Trust 2006-2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-01-08",
+  "sheriff_number": "F-25001099",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-08",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 584019.76,
+  "upset_amount_label": "Upset Amount"
+}

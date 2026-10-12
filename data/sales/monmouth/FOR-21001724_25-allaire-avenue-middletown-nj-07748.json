@@ -1,0 +1,92 @@
+{
+  "address": "25 Allaire Avenue Middletown NJ 07748",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01038418",
+  "current_status": "Scheduled",
+  "defendant": "Michael J. Martin and Lynette A. Martin, husband and wife, et al",
+  "description": "Dimensions of Lot: 122 x 190 IRR\nNearest Cross Street: Quaker Road\nEstimated upset bid amount: $712,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2024 Qtr. 4 Due: 11/01/2024 $3,827.55 OPEN\n2025 Qtr. 1 Due: 02/01/2025 $3,651.90 OPEN\n2025 Qtr. 2 Due: 05/01/2025 $3,651.90 OPEN\nSewer: Township of Middletown Sewerage Authority PO Box 281 Middletown, NJ 07748 732 495 1010\nAcct: 25928 0 08/01/2024-10/31/2024 $106.00 OPEN\n$255.76 OPEN PLUS PENALTY; OWED IN APPEARS",
+  "extracted": {
+    "lot": "122",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "25 Allaire Avenue\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$595,279.42",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F01038418",
+    "Defendant": "Michael J. Martin and Lynette A. Martin, husband and wife, et al",
+    "Description": "Dimensions of Lot: 122 x 190 IRR\nNearest Cross Street: Quaker Road\nEstimated upset bid amount: $712,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2024 Qtr. 4 Due: 11/01/2024 $3,827.55 OPEN\n2025 Qtr. 1 Due: 02/01/2025 $3,651.90 OPEN\n2025 Qtr. 2 Due: 05/01/2025 $3,651.90 OPEN\nSewer: Township of Middletown Sewerage Authority PO Box 281 Middletown, NJ 07748 732 495 1010\nAcct: 25928 0 08/01/2024-10/31/2024 $106.00 OPEN\n$255.76 OPEN PLUS PENALTY; OWED IN APPEARS",
+    "Parcel #": "Lot 6, fka 20, Block 993 fka 37.01 Tax Map of the Township of Middletown",
+    "Plaintiff": "Caliber Home Loans, Inc.",
+    "Property Note": "",
+    "Sales Date": "3/26/2025",
+    "Sheriff #": "FOR-21001724"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 595279.42,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "25 Allaire Avenue Middletown NJ 07748",
+    "defendant": "Michael J. Martin and Lynette A. Martin, husband and wife, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Caliber Home Loans, Inc.",
+    "sale_date": "2025-03-26"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 6, fka 20, Block 993 fka 37.01 Tax Map of the Township of Middletown",
+  "plaintiff": "Caliber Home Loans, Inc.",
+  "property_note": null,
+  "sale_date": "2025-03-26",
+  "sheriff_number": "FOR-21001724",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-26",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-04-22",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-04-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-09-26",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-09-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-03-28",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-03-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-02-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-01-31",
+      "status": "Scheduled"
+    }
+  ]
+}

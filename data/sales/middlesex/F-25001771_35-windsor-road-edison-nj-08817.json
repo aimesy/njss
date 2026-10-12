@@ -1,0 +1,64 @@
+{
+  "address": "35 WINDSOR ROAD EDISON NJ 08817",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00120225",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "LINDA M. STOKES-JACKSON AKA LINDA STOKES-JACKSON, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$190,008.75",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00120225",
+    "Defendant": "LINDA M. STOKES-JACKSON AKA LINDA STOKES-JACKSON, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 3 BLOCK 1132",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Address": "35 WINDSOR ROAD\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-25001771"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 190008.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "35 WINDSOR ROAD EDISON NJ 08817",
+    "defendant": "LINDA M. STOKES-JACKSON AKA LINDA STOKES-JACKSON, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 3 BLOCK 1132",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-25001771",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

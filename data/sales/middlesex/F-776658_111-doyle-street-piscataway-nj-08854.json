@@ -1,0 +1,56 @@
+{
+  "address": "111 DOYLE STREET PISCATAWAY NJ 08854",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "732-456-8728",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00042124",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "HILARY FRANZOI, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$174,158.00",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "732-456-8728",
+    "Court Case #": "F00042124",
+    "Defendant": "HILARY FRANZOI, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 25 BLOCK 2905",
+    "Plaintiff": "PENTAGON FEDERAL CREDIT UNION",
+    "Property Address": "111 DOYLE STREET\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "12/18/2024",
+    "Sheriff #": "F-776658"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 174158.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "111 DOYLE STREET PISCATAWAY NJ 08854",
+    "defendant": "HILARY FRANZOI, ET ALS",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "PENTAGON FEDERAL CREDIT UNION",
+    "sale_date": "2024-12-18"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 25 BLOCK 2905",
+  "plaintiff": "PENTAGON FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2024-12-18",
+  "sheriff_number": "F-776658",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-12-18",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

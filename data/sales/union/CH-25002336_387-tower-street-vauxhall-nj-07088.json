@@ -1,0 +1,60 @@
+{
+  "address": "387 TOWER STREET VAUXHALL NJ 07088",
+  "attorney": "LEOPOLD & ASSOCIATES, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00142224",
+  "current_status": "Buy Back",
+  "defendant": "387 TOWER LLC; MYRIAM DESIR, GUARANTOR",
+  "description": "LOT 6 BLOCK 5702",
+  "extracted": {
+    "block": "5702",
+    "lot": "6"
+  },
+  "fields": {
+    "Address": "387 TOWER STREET\nVAUXHALL NJ 07088",
+    "Approx. Upset*": "$405,962.66",
+    "Attorney": "LEOPOLD & ASSOCIATES, PLLC",
+    "Court Case #": "F00142224",
+    "Defendant": "387 TOWER LLC; MYRIAM DESIR, GUARANTOR",
+    "Description": "LOT 6 BLOCK 5702",
+    "Parcel #": "LOT 6 BLOCK 5702",
+    "Plaintiff": "LHOME MORTGAGE TRUST 2021-RTL2",
+    "Property Note": "",
+    "Sales Date": "2/11/2026",
+    "Sheriff #": "CH-25002336"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "387 TOWER STREET VAUXHALL NJ 07088",
+    "defendant": "387 TOWER LLC; MYRIAM DESIR, GUARANTOR",
+    "listing_status": null,
+    "plaintiff": "LHOME MORTGAGE TRUST 2021-RTL2",
+    "sale_date": "2026-02-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 6 BLOCK 5702",
+  "plaintiff": "LHOME MORTGAGE TRUST 2021-RTL2",
+  "property_note": null,
+  "sale_date": "2026-02-11",
+  "sheriff_number": "CH-25002336",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 405962.66,
+  "upset_amount_label": "Approx. Upset*"
+}

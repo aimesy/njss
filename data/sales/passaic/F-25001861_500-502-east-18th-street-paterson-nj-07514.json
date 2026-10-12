@@ -1,0 +1,68 @@
+{
+  "address": "500-502 EAST 18TH Street Paterson NJ 07514",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 012239 24 CTL # 163106",
+  "current_status": "Cancelled",
+  "defendant": "ARELYS NUNEZ DE TAVERAS, ET AL.",
+  "description": "Approximate Dimensions 101.08 x 27.50 x 107.20 x 38.00 feet irregular\nNearest Cross Street: Harrison Street\nSubject to : Sewer in the amount of $89.75, open plus penalty. Sewer in the amount of $269.25 open plus penalty, owed in arrears\nUpset Price: $208,120.76\nOccupancy Status: Occupied\n*To the best of this firms knowledge, the property is not an affordable unit subject to the Fair Housing Act",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 208120.76
+  },
+  "fields": {
+    "Address": "500-502 EAST 18TH Street\nPaterson NJ 07514",
+    "Approx. Upset*": "$192,008.25",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 012239 24 CTL # 163106",
+    "Defendant": "ARELYS NUNEZ DE TAVERAS, ET AL.",
+    "Description": "Approximate Dimensions 101.08 x 27.50 x 107.20 x 38.00 feet irregular\nNearest Cross Street: Harrison Street\nSubject to : Sewer in the amount of $89.75, open plus penalty. Sewer in the amount of $269.25 open plus penalty, owed in arrears\nUpset Price: $208,120.76\nOccupancy Status: Occupied\n*To the best of this firms knowledge, the property is not an affordable unit subject to the Fair Housing Act",
+    "Parcel #": "Tax Lot 4 fka 7 Block 3207 fka E0566",
+    "Plaintiff": "CITIMORTGAGE, INC.",
+    "Property Note": "",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "F-25001861"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "500-502 EAST 18TH Street Paterson NJ 07514",
+    "defendant": "ARELYS NUNEZ DE TAVERAS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIMORTGAGE, INC.",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 4 fka 7 Block 3207 fka E0566",
+  "plaintiff": "CITIMORTGAGE, INC.",
+  "property_note": null,
+  "sale_date": "2026-06-17",
+  "sheriff_number": "F-25001861",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-03-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 192008.25,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,84 @@
+{
+  "address": "122 SALEM ROAD UNIT 122 NORTH BRUNSWICK NJ 08902",
+  "attorney": "MCCABE, WEISBERG & CONWAY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 802-4300",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00525119",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "SANJIT RAY, ET ALS.",
+  "description": "SUCCESSFULLY POSTED 03/18/2024 AREA 1",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$451,112.61",
+    "Attorney": "MCCABE, WEISBERG & CONWAY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 802-4300",
+    "Court Case #": "F00525119",
+    "Defendant": "SANJIT RAY, ET ALS.",
+    "Description": "SUCCESSFULLY POSTED 03/18/2024 AREA 1",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 46.122 BLOCK 148.02",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Address": "122 SALEM ROAD UNIT 122\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "CHAPTER 13 BK CASE NO. 24-16139 DISMISSED 03/26/2025",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-776427"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 451112.61,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "122 SALEM ROAD UNIT 122 NORTH BRUNSWICK NJ 08902",
+    "defendant": "SANJIT RAY, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 46.122 BLOCK 148.02",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "CHAPTER 13 BK CASE NO. 24-16139 DISMISSED 03/26/2025",
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-776427",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-06-19",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-06-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-05-22",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "125 and 127 Shadeland Avenue Pleasantville NJ 08232",
+  "attorney": "Law Offices of Tae H. Whang, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-14426-23",
+  "current_status": "Scheduled",
+  "deed": "Ahasan Realty LLC",
+  "deed_address": "410 Montrose Lane, Galloway, NJ 08205",
+  "defendant": "Salad Chef LLC; State of New Jersey; Richard Green, Executor of the Estate of Francis J. Green",
+  "extracted": {},
+  "fields": {
+    "Address": "125 and 127 Shadeland Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$97,873.26",
+    "Attorney": "Law Offices of Tae H. Whang, LLC",
+    "Court Case #": "F-14426-23",
+    "Deed": "Ahasan Realty LLC",
+    "Deed Address": "410 Montrose Lane, Galloway, NJ 08205",
+    "Defendant": "Salad Chef LLC; State of New Jersey; Richard Green, Executor of the Estate of Francis J. Green",
+    "Plaintiff": "KEB HANA Bank USA, NA",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: COMMERICAL",
+    "Sales Date": "1/23/2025",
+    "Sheriff #": "F-24001535",
+    "Upset Amount": "$110,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 97873.26,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "125 and 127 Shadeland Avenue Pleasantville NJ 08232",
+    "defendant": "Salad Chef LLC; Stat...",
+    "listing_status": null,
+    "plaintiff": "KEB HANA Bank USA, N...",
+    "sale_date": "2025-01-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "KEB HANA Bank USA, NA",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: COMMERICAL",
+  "sale_date": "2025-01-23",
+  "sheriff_number": "F-24001535",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-23",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-01-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 110000.0,
+  "upset_amount_label": "Upset Amount"
+}

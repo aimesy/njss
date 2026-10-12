@@ -1,0 +1,53 @@
+{
+  "address": "33 HAVERFORD ROAD RUNNEMEDE NJ 08078",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00642525",
+  "current_status": "Scheduled",
+  "defendant": "MELISSA REYES, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "33 HAVERFORD ROAD\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$143,337.51",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00642525",
+    "Defendant": "MELISSA REYES, ET AL",
+    "Parcel #": "",
+    "Plaintiff": "AMERIHOME MORTGAGE COMPANY, LLC",
+    "Property Note": "",
+    "Sales Date": "3/12/2026",
+    "Sheriff #": "FR-25002734"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "33 HAVERFORD ROAD RUNNEMEDE NJ 08078",
+    "defendant": "MELISSA REYES, ET AL",
+    "listing_status": null,
+    "plaintiff": "AMERIHOME MORTGAGE COMPANY, LLC",
+    "sale_date": "2026-03-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "AMERIHOME MORTGAGE COMPANY, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-12",
+  "sheriff_number": "FR-25002734",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-12",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 143337.51,
+  "upset_amount_label": "Approx. Upset*"
+}

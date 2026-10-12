@@ -1,0 +1,61 @@
+{
+  "address": "51 HARMER Terrace Wayne NJ 07470",
+  "attorney": "GREENSPOON MARDER",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004278 24 CTL #163054",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "CATHERINE ANN PAYNE, ET AL",
+  "description": "Dimensions of Lot (approximately): .383AC\nNearest Cross Street: Ballard Drive\nThe Plaintiffs Good Faith Estimate is $715,016.51. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is Occupied.",
+  "extracted": {},
+  "fields": {
+    "Address": "51 HARMER Terrace\nWayne NJ 07470",
+    "Approx. Upset*": "$695,451.69",
+    "Attorney": "GREENSPOON MARDER",
+    "Court Case #": "F 004278 24 CTL #163054",
+    "Defendant": "CATHERINE ANN PAYNE, ET AL",
+    "Description": "Dimensions of Lot (approximately): .383AC\nNearest Cross Street: Ballard Drive\nThe Plaintiffs Good Faith Estimate is $715,016.51. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is Occupied.",
+    "Parcel #": "Tax Lot 9 Block 187-C NKA 1115",
+    "Plaintiff": "MORTGAGE ASSESTS MANAGEMENT, LLC F/K/A REVERSE MORTGAGE SOLUTIONS, INC",
+    "Property Note": "",
+    "Sales Date": "2/3/2026",
+    "Sheriff #": "F-25001524"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "51 HARMER Terrace Wayne NJ 07470",
+    "defendant": "CATHERINE ANN PAYNE, ET AL",
+    "listing_status": null,
+    "plaintiff": "MORTGAGE ASSESTS MANAGEMENT, LLC F/K/A REVERSE MORTGAGE SOLUTIONS, INC",
+    "sale_date": "2026-02-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 9 Block 187-C NKA 1115",
+  "plaintiff": "MORTGAGE ASSESTS MANAGEMENT, LLC F/K/A REVERSE MORTGAGE SOLUTIONS, INC",
+  "property_note": null,
+  "sale_date": "2026-02-03",
+  "sheriff_number": "F-25001524",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-12-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 695451.69,
+  "upset_amount_label": "Approx. Upset*"
+}

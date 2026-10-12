@@ -1,0 +1,68 @@
+{
+  "address": "185 CHESTNUT STREET AVENEL NJ 07001",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00194225",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "GEORGEANNE WAKEFIELD, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$480,316.66",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00194225",
+    "Defendant": "GEORGEANNE WAKEFIELD, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 335 BLOCK 935",
+    "Plaintiff": "LEGACY MORTGAGE ASSET TRUST 2018-RPL4",
+    "Property Address": "185 CHESTNUT STREET\nAVENEL NJ 07001",
+    "Property Note": "",
+    "Sale Date": "4/8/2026",
+    "Sheriff #": "F-25003187"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 480316.66,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "185 CHESTNUT STREET AVENEL NJ 07001",
+    "defendant": "GEORGEANNE WAKEFIELD, ET ALS.",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2018-RPL4",
+    "sale_date": "2026-04-08"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 335 BLOCK 935",
+  "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2018-RPL4",
+  "property_note": null,
+  "sale_date": "2026-04-08",
+  "sheriff_number": "F-25003187",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-04-08",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

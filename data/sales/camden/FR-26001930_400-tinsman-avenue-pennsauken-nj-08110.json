@@ -1,0 +1,53 @@
+{
+  "address": "400 TINSMAN AVENUE PENNSAUKEN NJ 08110",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00123626",
+  "current_status": "Defendant Adjournment",
+  "defendant": "SHARION WATERS; U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY ASTRUSTEE OF NRZ RECOVERY TRUST; PNC BANK, NATIONAL ASSOCIATION; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; SERVHL UNDERLYING TRUST 2019-1;",
+  "extracted": {},
+  "fields": {
+    "Address": "400 TINSMAN AVENUE\nPENNSAUKEN NJ 08110",
+    "Approx. Upset*": "$102,443.81",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00123626",
+    "Defendant": "SHARION WATERS; U.S. BANK NATIONAL\nASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY,\nBUT SOLELY ASTRUSTEE OF NRZ RECOVERY TRUST; PNC BANK,\nNATIONAL ASSOCIATION; STATE OF NEW JERSEY;\nUNITED STATES OF AMERICA; SERVHL UNDERLYING\nTRUST 2019-1;",
+    "Parcel #": "Lot: 22; Block: 405",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2022-RPL1",
+    "Property Note": "Pursuant to a municipal tax search dated July 27, 2026. Subject to:2026 3 rd quarter taxes due 8/1/2026, $1,729.64 OPEN",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001930"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "400 TINSMAN AVENUE PENNSAUKEN NJ 08110",
+    "defendant": "SHARION WATERS; U.S. BANK NATIONAL \nASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, \nBUT SOLELY ASTRUSTEE OF NRZ RECOVERY TRUST; PNC BANK, \nNATIONAL ASSOCIATION; STATE OF NEW JERSEY; \nUNITED STATES OF AMERICA; SERVHL UNDERLYING \nTRUST 2019-1;",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2022-RPL1",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot: 22; Block: 405",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2022-RPL1",
+  "property_note": "Pursuant to a municipal tax search dated July 27, 2026. Subject to:2026 3 rd quarter taxes due 8/1/2026, $1,729.64 OPEN",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001930",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 102443.81,
+  "upset_amount_label": "Approx. Upset*"
+}

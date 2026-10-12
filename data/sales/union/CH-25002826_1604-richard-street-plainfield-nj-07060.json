@@ -1,0 +1,76 @@
+{
+  "address": "1604 RICHARD STREET PLAINFIELD NJ 07060",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00449225",
+  "current_status": "Adjourned per Court Order",
+  "defendant": "DENISE M. JOHNSON-DRAKE; MR. OR MRS. HOHNSON-DRAKE, THE SPOUSE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF DENISE M JOHSON-DRAKE; MIDDLESEX COUNTY BOARD OF SOCIAL SERVICES",
+  "description": "LOT 23 BLOCK 212",
+  "extracted": {
+    "block": "212",
+    "lot": "23"
+  },
+  "fields": {
+    "Address": "1604 RICHARD STREET\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$101,142.30",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Court Case #": "F00449225",
+    "Defendant": "DENISE M. JOHNSON-DRAKE; MR. OR MRS. HOHNSON-DRAKE, THE SPOUSE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF DENISE M JOHSON-DRAKE; MIDDLESEX COUNTY BOARD OF SOCIAL SERVICES",
+    "Description": "LOT 23 BLOCK 212",
+    "Parcel #": "LOT 23 BLOCK 212",
+    "Plaintiff": "UNION COUNTY SAVINGS BANK",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "CH-25002826"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1604 RICHARD STREET PLAINFIELD NJ 07060",
+    "defendant": "DENISE M. JOHNSON-DRAKE; MR. OR MRS. HOHNSON-DRAKE, THE SPOUSE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF DENISE M JOHSON-DRAKE; MIDDLESEX COUNTY BOARD OF SOCIAL SERVICES",
+    "listing_status": null,
+    "plaintiff": "UNION COUNTY SAVINGS BANK",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 23 BLOCK 212",
+  "plaintiff": "UNION COUNTY SAVINGS BANK",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "CH-25002826",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Adjourned per Court Order"
+    }
+  ],
+  "upset_amount": 101142.3,
+  "upset_amount_label": "Approx. Upset*"
+}

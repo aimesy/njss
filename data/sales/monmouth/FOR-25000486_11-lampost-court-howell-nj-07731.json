@@ -1,0 +1,63 @@
+{
+  "address": "11 Lampost Court Howell NJ 07731",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00498124",
+  "current_status": "Scheduled",
+  "defendant": "Richard G. Devine",
+  "description": "Dimensions of Lot (approximately): 105' x 107.71'\nNearest Cross Street: Glen Arden Drive\nApprox Upset Price - $39,048.84\nProperty Status - Borrower Occupied\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\n**All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 39048.84
+  },
+  "fields": {
+    "Address": "11 Lampost Court\nHowell NJ 07731",
+    "Approx. Judgment*": "$34,423.25",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F00498124",
+    "Defendant": "Richard G. Devine",
+    "Description": "Dimensions of Lot (approximately): 105' x 107.71'\nNearest Cross Street: Glen Arden Drive\nApprox Upset Price - $39,048.84\nProperty Status - Borrower Occupied\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\n**All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Block 84.04, Lot 11 Tax Map of Township of Howell",
+    "Plaintiff": "Citizens Bank N.A.",
+    "Property Note": "",
+    "Sales Date": "7/22/2025",
+    "Sheriff #": "FOR-25000486"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 34423.25,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 Lampost Court Howell NJ 07731",
+    "defendant": "Richard G. Devine",
+    "listing_status": "Settled",
+    "plaintiff": "Citizens Bank N.A.",
+    "sale_date": "2025-07-22"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 84.04, Lot 11 Tax Map of Township of Howell",
+  "plaintiff": "Citizens Bank N.A.",
+  "property_note": null,
+  "sale_date": "2025-07-22",
+  "sheriff_number": "FOR-25000486",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-22",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Scheduled"
+    }
+  ]
+}

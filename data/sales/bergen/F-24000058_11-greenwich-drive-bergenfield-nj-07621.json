@@ -1,0 +1,91 @@
+{
+  "address": "11 GREENWICH DRIVE BERGENFIELD NJ 07621",
+  "attorney": "GEIST LAW",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01368322",
+  "current_status": "Cancelled",
+  "defendant": "JENILEE GARAYGAY INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF MILAGROS K GARAYGAY ET AL",
+  "description": "APPROXIMATE UPSET AMOUNT IS $419,729.31 FOR THE SHERIFF SALE.\nOCCUPANCY STATUS: BORROWER OCCUPIED",
+  "extracted": {
+    "occupancy": "BORROWER OCCUPIED"
+  },
+  "fields": {
+    "Address": "11 GREENWICH DRIVE\nBERGENFIELD NJ 07621",
+    "Approx. Upset*": "$353,565.32",
+    "Attorney": "GEIST LAW",
+    "Court Case #": "F01368322",
+    "Defendant": "JENILEE GARAYGAY INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF MILAGROS K GARAYGAY ET AL",
+    "Description": "APPROXIMATE UPSET AMOUNT IS $419,729.31 FOR THE SHERIFF SALE.\nOCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Parcel #": "LOT 42, BLOCK 229",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS INDENTURE TRUSTEE FOR NEW CENTURY HOME EQUITY LOAN TRUST 2005 3",
+    "Property Note": "",
+    "Sales Date": "11/30/2025",
+    "Sheriff #": "F-24000058"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "11 GREENWICH DRIVE BERGENFIELD NJ 07621",
+    "defendant": "JENILEE GARAYGAY INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF MILAGROS K GARAYGAY ET AL",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS INDENTURE TRUSTEE FOR NEW CENTURY HOME EQUITY LOAN TRUST 2005 3",
+    "sale_date": "2025-11-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 42, BLOCK 229",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS INDENTURE TRUSTEE FOR NEW CENTURY HOME EQUITY LOAN TRUST 2005 3",
+  "property_note": null,
+  "sale_date": "2025-11-30",
+  "sheriff_number": "F-24000058",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2024-02-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-26",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2024-09-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-10-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-12-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-01-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-06-27",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-30",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 353565.32,
+  "upset_amount_label": "Approx. Upset*"
+}

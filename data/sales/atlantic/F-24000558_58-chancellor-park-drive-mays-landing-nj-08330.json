@@ -1,0 +1,78 @@
+{
+  "address": "58 Chancellor Park Drive Mays Landing NJ 08330",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004933-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "John J. Nappi, Mrs. John J. Nappi, Wife of John J. Nappi; Cynthia Mullen; TD Bank, National Association and Donald B. Mark, Esq.",
+  "extracted": {},
+  "fields": {
+    "Address": "58 Chancellor Park Drive\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$26,867.18",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-004933-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "John J. Nappi, Mrs. John J. Nappi, Wife of John J. Nappi; Cynthia Mullen; TD Bank, National Association and Donald B. Mark, Esq.",
+    "Plaintiff": "MEB Loan Trust II",
+    "Priors": "First Mortgage recorded on 03.11.14, Amount: $276,068.00",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/6/2026",
+    "Sheriff #": "F-24000558",
+    "Upset Amount": "$32,061.52"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 26867.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "58 Chancellor Park Drive Mays Landing NJ 08330",
+    "defendant": "John J. Nappi, Mrs. ...",
+    "listing_status": null,
+    "plaintiff": "MEB Loan Trust II...",
+    "sale_date": "2026-04-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "MEB Loan Trust II",
+  "priors": "First Mortgage recorded on 03.11.14, Amount: $276,068.00",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-04-06",
+  "sheriff_number": "F-24000558",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-06",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-19",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-22",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-07-25",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-06-27",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 32061.52,
+  "upset_amount_label": "Upset Amount"
+}

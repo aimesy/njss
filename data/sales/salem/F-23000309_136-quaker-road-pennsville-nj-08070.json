@@ -1,0 +1,56 @@
+{
+  "address": "136 Quaker Road Pennsville NJ 08070",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-011169-22",
+  "current_status": "Cancelled",
+  "defendant": "Michael J. Bond; Jennifer-Ann Bond; U.S. Bank National Association Not in its individual capacity, but solely as trustee for the RMAC Trust, Series 2016-CTT; State of New Jersey; Cardiology Consultants; Robert W. Deatrick Jr, DDS; Pennsville Radiology Inc.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "136 Quaker Road\nPennsville NJ 08070",
+    "Court Case #": "F-011169-22",
+    "Defendant": "Michael J. Bond; Jennifer-Ann Bond; U.S. Bank National Association Not in its individual capacity, but solely as trustee for the RMAC Trust, Series 2016-CTT; State of New Jersey; Cardiology Consultants; Robert W. Deatrick Jr, DDS; Pennsville Radiology Inc.",
+    "Description": "",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for RCF 2 Acquisition Trust",
+    "Sales Date": "05/26/2026 02:00 PM",
+    "Sheriff #": "F-23000309"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "136 Quaker Road Pennsville NJ 08070",
+    "defendant": "Michael J. Bond; Jennifer-Ann Bond; U.S. Bank National Association Not in its individual capacity, but solely as trustee for the RMAC Trust, Series 2016-CTT; State of New Jersey; Cardiology Consultants; Robert W. Deatrick Jr, DDS; Pennsville Radiology Inc.",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for RCF 2 Acquisition Trust",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for RCF 2 Acquisition Trust",
+  "sale_date": null,
+  "sheriff_number": "F-23000309",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

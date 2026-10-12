@@ -1,0 +1,69 @@
+{
+  "address": "170 PLYMOUTH ROAD SICKLERVILLE NJ 08081",
+  "attorney": "SCHILLER, KNAPP, LEFKOWITZ & HERTZEL, LLP*DO NOT USE*",
+  "attorney_phone": "(518) 786-9069",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F02018319",
+  "current_status": "Settled",
+  "defendant": "PATRICK J. MURPHY; MRS. PATRICK J MURPHY, SPOUSE OF PATRICK J MURPHY; GARY J SCHMIDT; MAIN STREET ASSETS LLC; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "170 PLYMOUTH ROAD\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$240,526.05",
+    "Attorney": "SCHILLER, KNAPP, LEFKOWITZ & HERTZEL, LLP*DO NOT USE*",
+    "Attorney Phone": "(518) 786-9069",
+    "Court Case #": "F02018319",
+    "Defendant": "PATRICK J. MURPHY; MRS. PATRICK J MURPHY, SPOUSE OF PATRICK J MURPHY;\nGARY J SCHMIDT; MAIN STREET ASSETS LLC; STATE OF NEW JERSEY",
+    "Parcel #": "",
+    "Plaintiff": "ROUNDPOINT MORTGAGE SERVICING CORPORATION",
+    "Property Note": "",
+    "Sales Date": "4/29/2026",
+    "Sheriff #": "FR-21001870"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "170 PLYMOUTH ROAD SICKLERVILLE NJ 08081",
+    "defendant": "PATRICK J. MURPHY; MRS. PATRICK J MURPHY, SPOUSE OF PATRICK J MURPHY; \nGARY J SCHMIDT; MAIN STREET ASSETS LLC; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "ROUNDPOINT MORTGAGE SERVICING CORPORATION",
+    "sale_date": "2026-04-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "ROUNDPOINT MORTGAGE SERVICING CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-04-29",
+  "sheriff_number": "FR-21001870",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2022-01-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-02-09",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-03-09",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-07-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-29",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 240526.05,
+  "upset_amount_label": "Approx. Upset*"
+}

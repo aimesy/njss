@@ -1,0 +1,59 @@
+{
+  "address": "46 Collins Avenue Port Monmouth NJ 07758",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00644624",
+  "current_status": "Scheduled",
+  "defendant": "Edward J. Hahn, IV, et al",
+  "description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 100ft to the nearest cross street known as Susan Avenue\nApproximate Dimensions: 50.00ft x 104.70ft x 50.00ft x 104.70ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 5942, at Page 945\nAPPROXIMATE UPSET AMOUNT IS $362,935.81 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated June 18,2025.\nSubject to: 2025 3rd quarter taxes due 8/1/2025, TO BE DETERMINED\n2025 4th quarter taxes due 11/1/2025, TO BE DETERMINED\nSewer: Acct: 13816 0, 4/1/2025-6/30/2025, $120.00 OPEN AND DUE 6/30/2025\nMortgage to Michael Leskov and Patricia Leskov from Barry Markowitz dated March 2, 1993 in the original principal amount of $10,000.00*\n*Subject to letter of Indemnification dated Joly 18, 2024 from Chicago Title Insurance Company\nLien: 2024 3rd Party Tax and Sewer Lien, Cert No. 24-00033, $8,494.83, Sold 12/18/2024 to TRYSTONE CAPITAL ASSETS LLC\nSubject to subsequent Taxes + Interest",
+  "extracted": {
+    "occupancy": "Borrower Occupied"
+  },
+  "fields": {
+    "Address": "46 Collins Avenue\nPort Monmouth NJ 07758",
+    "Approx. Judgment*": "$342,205.03",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00644624",
+    "Defendant": "Edward J. Hahn, IV, et al",
+    "Description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 100ft to the nearest cross street known as Susan Avenue\nApproximate Dimensions: 50.00ft x 104.70ft x 50.00ft x 104.70ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 5942, at Page 945\nAPPROXIMATE UPSET AMOUNT IS $362,935.81 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated June 18,2025.\nSubject to: 2025 3rd quarter taxes due 8/1/2025, TO BE DETERMINED\n2025 4th quarter taxes due 11/1/2025, TO BE DETERMINED\nSewer: Acct: 13816 0, 4/1/2025-6/30/2025, $120.00 OPEN AND DUE 6/30/2025\nMortgage to Michael Leskov and Patricia Leskov from Barry Markowitz dated March 2, 1993 in the original principal amount of $10,000.00*\n*Subject to letter of Indemnification dated Joly 18, 2024 from Chicago Title Insurance Company\nLien: 2024 3rd Party Tax and Sewer Lien, Cert No. 24-00033, $8,494.83, Sold 12/18/2024 to TRYSTONE CAPITAL ASSETS LLC\nSubject to subsequent Taxes + Interest",
+    "Parcel #": "Tax Lot No. 11 Block 269 Tax Map of Township of Middletown",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner Trustee for RAF Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "10/7/2025",
+    "Sheriff #": "FOR-25001234"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 342205.03,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "46 Collins Avenue Port Monmouth NJ 07758",
+    "defendant": "Edward J. Hahn, IV, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner Trustee for RAF Acquisition Trust",
+    "sale_date": "2025-10-07"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 11 Block 269 Tax Map of Township of Middletown",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner Trustee for RAF Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-10-07",
+  "sheriff_number": "FOR-25001234",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-07",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Scheduled"
+    }
+  ]
+}

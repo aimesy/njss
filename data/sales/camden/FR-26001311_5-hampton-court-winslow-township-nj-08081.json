@@ -1,0 +1,53 @@
+{
+  "address": "5 HAMPTON COURT WINSLOW TOWNSHIP NJ 08081",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00004726",
+  "current_status": "Scheduled",
+  "defendant": "ANTHONY E. SLOCUM, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "5 HAMPTON COURT\nWINSLOW TOWNSHIP NJ 08081",
+    "Approx. Upset*": "$155,491.07",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00004726",
+    "Defendant": "ANTHONY E. SLOCUM, ET AL.",
+    "Parcel #": "BLOCK: 11801 LOT:12",
+    "Plaintiff": "AMERICAN HERITAGE FEDERAL CREDIT UNION",
+    "Property Note": "Township of Winslow holds a claim in the amount of 188.00 for water; $110.00 for sewer as of 04/17/2026.\nCCMUA holds a claim in the amount of $93.00 and $185.69 plus penalty as of 04/17/2026\nProperty registration fee exist – contact code enforcement at 609–567–0700 X 7002 for information.\nThe full legal description can be found at the office of the clerk of Camden County and mortgage book 11768 page 736.",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26001311"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "5 HAMPTON COURT WINSLOW TOWNSHIP NJ 08081",
+    "defendant": "ANTHONY E. SLOCUM, ET AL.",
+    "listing_status": null,
+    "plaintiff": "AMERICAN HERITAGE FEDERAL CREDIT UNION",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK: 11801 LOT:12",
+  "plaintiff": "AMERICAN HERITAGE FEDERAL CREDIT UNION",
+  "property_note": "Township of Winslow holds a claim in the amount of 188.00 for water; $110.00 for sewer as of 04/17/2026.\nCCMUA holds a claim in the amount of $93.00 and $185.69 plus penalty as of 04/17/2026\nProperty registration fee exist – contact code enforcement at 609–567–0700 X 7002 for information.\nThe full legal description can be found at the office of the clerk of Camden County and mortgage book 11768 page 736.",
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26001311",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-13",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 155491.07,
+  "upset_amount_label": "Approx. Upset*"
+}

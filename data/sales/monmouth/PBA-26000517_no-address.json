@@ -1,0 +1,49 @@
+{
+  "address": null,
+  "attorney": "Steven Mitnick, Law, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "L444925",
+  "current_status": "Scheduled",
+  "defendant": "Nature's Choice Corporation",
+  "description": "960 Holmdel Road\nBuilding 2, Suite D\nHolmdel, NJ 07733",
+  "extracted": {},
+  "fields": {
+    "Address": "",
+    "Approx. Judgment*": "$9,090.00",
+    "Attorney": "Steven Mitnick, Law, PC",
+    "Court Case #": "L444925",
+    "Defendant": "Nature's Choice Corporation",
+    "Description": "960 Holmdel Road\nBuilding 2, Suite D\nHolmdel, NJ 07733",
+    "Parcel #": "",
+    "Plaintiff": "Steven Mitnick, As Assignee For The Benefit Of Creditors of Sussman Enterprises, Inc.,",
+    "Property Note": "",
+    "Sales Date": "7/17/2026",
+    "Sheriff #": "PBA-26000517"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 9090.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "",
+    "defendant": "Nature's Choice Corporation",
+    "listing_status": "Scheduled",
+    "plaintiff": "Steven Mitnick, As Assignee For The Benefit Of Creditors of Sussman Enterprises, Inc.,",
+    "sale_date": "2026-07-17"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": null,
+  "plaintiff": "Steven Mitnick, As Assignee For The Benefit Of Creditors of Sussman Enterprises, Inc.,",
+  "property_note": null,
+  "sale_date": "2026-07-17",
+  "sheriff_number": "PBA-26000517",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-07-17",
+      "status": "Scheduled"
+    }
+  ]
+}

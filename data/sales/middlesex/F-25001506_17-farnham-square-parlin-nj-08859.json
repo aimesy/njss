@@ -1,0 +1,63 @@
+{
+  "address": "17 FARNHAM SQUARE PARLIN NJ 08859",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-924-0808",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01091224",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "FERN L. SEWARD AKA FERN L. GREER, ET ALS.",
+  "description": "LOT 2 QUAL C0217 BLOCK 368.06",
+  "extracted": {
+    "block": "368.06",
+    "lot": "2"
+  },
+  "fields": {
+    "Approx. Judgment*": "$218,893.23",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F01091224",
+    "Defendant": "FERN L. SEWARD AKA FERN L. GREER, ET ALS.",
+    "Description": "LOT 2 QUAL C0217 BLOCK 368.06",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF THE NRZ PASS-THROUGH TRUST XI",
+    "Property Address": "17 FARNHAM SQUARE\nPARLIN NJ 08859",
+    "Property Note": "",
+    "Sale Date": "9/3/2025",
+    "Sheriff #": "F-25001506"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 218893.23,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "17 FARNHAM SQUARE PARLIN NJ 08859",
+    "defendant": "FERN L. SEWARD AKA FERN L. GREER, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF THE NRZ PASS-THROUGH TRUST XI",
+    "sale_date": "2025-09-03"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF THE NRZ PASS-THROUGH TRUST XI",
+  "property_note": null,
+  "sale_date": "2025-09-03",
+  "sheriff_number": "F-25001506",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-09-03",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

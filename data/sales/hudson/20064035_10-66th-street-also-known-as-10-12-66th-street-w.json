@@ -1,0 +1,56 @@
+{
+  "address": "10 66TH STREET ALSO KNOWN AS 10-12 66TH STREET WEST NEW YORK NJ 07093",
+  "attorney": "MICHAEL A. MARK LAW FIRM, LLC",
+  "attorney_phone": "973-423-9000",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-012397-23 (CWPP INELIGIBLE)",
+  "current_status": "Scheduled",
+  "defendant": "LYNDA K. KWON, A/K/A LINDA KWON, CHRISTINA KWON, CHRISTOPHER KWON, MONICA KWON, ET AL.",
+  "description": "TAX LOT 2, BLOCK 13\nTHIS APARTMENT BUILDING HAS 6 UNITS. ALL 6 UNITS ARE RENTED.\nTHE NEAREST CROSS-STREET TO 66TH STREET IS BOULEVARD EAST\nTHE UPSET PRICE IS $3,179,998.00\nTAXED COSTS AND COUNSEL FEES: $7,500.00",
+  "extracted": {
+    "block": "13",
+    "lot": "2",
+    "upset_amount": 3179998.0
+  },
+  "fields": {
+    "Address": "10 66TH STREET\nALSO KNOWN AS 10-12 66TH STREET\nWEST NEW YORK NJ 07093",
+    "Attorney": "MICHAEL A. MARK LAW FIRM, LLC",
+    "Attorney Phone": "973-423-9000",
+    "Court Case #": "F-012397-23 (CWPP INELIGIBLE)",
+    "Defendant": "LYNDA K. KWON, A/K/A LINDA KWON, CHRISTINA KWON, CHRISTOPHER KWON, MONICA KWON, ET AL.",
+    "Description": "TAX LOT 2, BLOCK 13\nTHIS APARTMENT BUILDING HAS 6 UNITS. ALL 6 UNITS ARE RENTED.\nTHE NEAREST CROSS-STREET TO 66TH STREET IS BOULEVARD EAST\nTHE UPSET PRICE IS $3,179,998.00\nTAXED COSTS AND COUNSEL FEES: $7,500.00",
+    "Good Faith Upset*": "$3,179,998.00",
+    "Judgment": "$3,189,895.66",
+    "Plaintiff": "CAROL JACOBY, EXECUTRIX OF THE ESTATE OF JOSEPH DESALVO",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20064035"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 3189895.66,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "10 66TH STREET ALSO KNOWN AS 10-12 66TH STREET WEST NEW YORK NJ 07093",
+    "defendant": "LYNDA K. KWON, A/K/A LINDA KWON, CHRISTINA KWON, CHRISTOPHER KWON, MONICA KWON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CAROL JACOBY, EXECUTRIX OF THE ESTATE OF JOSEPH DESALVO",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "CAROL JACOBY, EXECUTRIX OF THE ESTATE OF JOSEPH DESALVO",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20064035",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 3179998.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "1156 GRUBER AVENUE UNION NJ 07083",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00108324",
+  "current_status": "Buy Back",
+  "defendant": "SHAWN BAKER, INDIVIDUALLY AND AS TRUSTEE OF BAKER LEGACY PRESERVATION TRUST, DATED NOVEMBER 10, 2023; BAKER LEGACY PRESERVATION TRUST, DATED NOVEMBER 10, 2023",
+  "description": "LOT 8 BLOCK 5005",
+  "extracted": {
+    "block": "5005",
+    "lot": "8"
+  },
+  "fields": {
+    "Address": "1156 GRUBER AVENUE\nUNION NJ 07083",
+    "Approx. Upset*": "$462,915.37",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00108324",
+    "Defendant": "SHAWN BAKER, INDIVIDUALLY AND AS TRUSTEE OF BAKER LEGACY PRESERVATION TRUST, DATED NOVEMBER 10, 2023; BAKER LEGACY PRESERVATION TRUST, DATED NOVEMBER 10, 2023",
+    "Description": "LOT 8 BLOCK 5005",
+    "Parcel #": "LOT 8 BLOCK 5005",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-IGLOO SERIES VI TRUST",
+    "Property Note": "",
+    "Sales Date": "12/17/2025",
+    "Sheriff #": "CH-25001988"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1156 GRUBER AVENUE UNION NJ 07083",
+    "defendant": "SHAWN BAKER, INDIVIDUALLY AND AS TRUSTEE OF BAKER LEGACY PRESERVATION TRUST, DATED NOVEMBER 10, 2023; BAKER LEGACY PRESERVATION TRUST, DATED NOVEMBER 10, 2023",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-IGLOO SERIES VI TRUST",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 8 BLOCK 5005",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-IGLOO SERIES VI TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "CH-25001988",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 462915.37,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "5 Dutch Court Holmdel NJ 07733",
+  "attorney": "Ansell Grimm & Aaron P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00047225",
+  "current_status": "Scheduled",
+  "defendant": "Rosanne Plati,",
+  "description": "The property to be sold constitutes the tract described below and as more particularly described in the Writ of Execution filed with the Sheriff of Monmouth County pursuant to which this sale is being held.\nBeing Lot 129, Block 58.13, as shown on the Official Tax Map of Holmdel, said Unit being more specifically described in the Master Deed, recorded on September 16, 1993, in the Office of the Clerk of Monmouth in Deed Book 5247, page 721, et seq, as amended, et seq., as amended from time to time; and\nUpset amount is currently $27,962.29\nProperty is occupied",
+  "extracted": {
+    "block": "58.13",
+    "lot": "129"
+  },
+  "fields": {
+    "Address": "5 Dutch Court\nHolmdel NJ 07733",
+    "Approx. Judgment*": "$19,011.79",
+    "Attorney": "Ansell Grimm & Aaron P.C.",
+    "Court Case #": "F00047225",
+    "Defendant": "Rosanne Plati,",
+    "Description": "The property to be sold constitutes the tract described below and as more particularly described in the Writ of Execution filed with the Sheriff of Monmouth County pursuant to which this sale is being held.\nBeing Lot 129, Block 58.13, as shown on the Official Tax Map of Holmdel, said Unit being more specifically described in the Master Deed, recorded on September 16, 1993, in the Office of the Clerk of Monmouth in Deed Book 5247, page 721, et seq, as amended, et seq., as amended from time to time; and\nUpset amount is currently $27,962.29\nProperty is occupied",
+    "Parcel #": "Lot 129, Block 58.13 Tax Map of Holmdel",
+    "Plaintiff": "The Orchards at Holmdel Condominium Association",
+    "Property Note": "",
+    "Sales Date": "2/20/2026",
+    "Sheriff #": "FOR-25001627"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 19011.79,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 Dutch Court Holmdel NJ 07733",
+    "defendant": "Rosanne Plati,",
+    "listing_status": "Canceled",
+    "plaintiff": "The Orchards at Holmdel Condominium Association",
+    "sale_date": "2026-02-20"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 129, Block 58.13 Tax Map of Holmdel",
+  "plaintiff": "The Orchards at Holmdel Condominium Association",
+  "property_note": null,
+  "sale_date": "2026-02-20",
+  "sheriff_number": "FOR-25001627",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-20",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "address": "220 North First Street Pleasantville NJ 08232",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010819-24",
+  "current_status": "Scheduled",
+  "deed": "SRKR Holdings LLC",
+  "deed_address": "P.O. Box 115, Pomona, NJ 08240",
+  "defendant": "S Amir Kedar, Individually and as Executor of The Estate of Sallie A. Self Stewart; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "220 North First Street\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$178,742.75",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-010819-24",
+    "Deed": "SRKR Holdings LLC",
+    "Deed Address": "P.O. Box 115, Pomona, NJ 08240",
+    "Defendant": "S Amir Kedar, Individually and as Executor of The Estate of Sallie A. Self Stewart; State of New Jersey; United States of America",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "8/21/2025",
+    "Sheriff #": "F-25000695",
+    "Upset Amount": "$132,100.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 178742.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "220 North First Street Pleasantville NJ 08232",
+    "defendant": "S Amir Kedar, Indivi...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, N....",
+    "sale_date": "2025-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-08-21",
+  "sheriff_number": "F-25000695",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-21",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 132100.0,
+  "upset_amount_label": "Upset Amount"
+}

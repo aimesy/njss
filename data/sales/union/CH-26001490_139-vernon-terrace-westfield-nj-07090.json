@@ -1,0 +1,61 @@
+{
+  "address": "139 VERNON TERRACE WESTFIELD NJ 07090",
+  "attorney": "PINCUS & TARAB ATTORNEYS AT LAW",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00763925",
+  "current_status": "Bankuptcy",
+  "defendant": "YEKATERINA DYUKOVA; PAVEL VODOLAGIN",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "139 VERNON TERRACE\nWESTFIELD NJ 07090",
+    "Approx. Upset*": "$1,595,774.90",
+    "Attorney": "PINCUS & TARAB ATTORNEYS AT LAW",
+    "Court Case #": "F00763925",
+    "Defendant": "YEKATERINA DYUKOVA; PAVEL VODOLAGIN",
+    "Description": "",
+    "Parcel #": "LOT 19 BLOCK 5602",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+    "Property Note": "Dimensions: 168.78FT X 62.50FT X 168.74FTX 62.50FT\nNearest Cross Street: PINE GROVE AVENUE\nThe Sheriff hereby reserves the right to adjourn this sale without further notice by publication.\nPlease be advised that definitive occupancy information is not available and Plaintiff makes no representation regarding occupancy.\nGood Faith Estimated Upset:\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n* *If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return ofthe deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***After the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment ofthe surplus money. The Sheriffor other person conducting the sale will have information regarding the surplus, if any.",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "CH-26001490"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "139 VERNON TERRACE WESTFIELD NJ 07090",
+    "defendant": "YEKATERINA DYUKOVA; PAVEL VODOLAGIN",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 19 BLOCK 5602",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+  "property_note": "Dimensions: 168.78FT X 62.50FT X 168.74FTX 62.50FT\nNearest Cross Street: PINE GROVE AVENUE\nThe Sheriff hereby reserves the right to adjourn this sale without further notice by publication.\nPlease be advised that definitive occupancy information is not available and Plaintiff makes no representation regarding occupancy.\nGood Faith Estimated Upset:\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n* *If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return ofthe deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***After the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment ofthe surplus money. The Sheriffor other person conducting the sale will have information regarding the surplus, if any.",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "CH-26001490",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-08-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-09",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 1595774.9,
+  "upset_amount_label": "Approx. Upset*"
+}

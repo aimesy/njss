@@ -1,0 +1,60 @@
+{
+  "address": "419 INSLEE STREET PERTH AMBOY NJ 08861",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00276725",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "FLORRINE SLEDD A/K/A PENNY S. SLEDD A/K/A PENNY SLEDD, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$120,914.70",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00276725",
+    "Defendant": "FLORRINE SLEDD A/K/A PENNY S. SLEDD A/K/A PENNY SLEDD, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 37.01 BLOCK 448",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF LONG BEACH MORTGAGE LOAN TRUST 2005-WL2, ASSET-BACKED CERTIFICATES, SERIES 2005-WL2",
+    "Property Address": "419 INSLEE STREET\nPERTH AMBOY NJ 08861",
+    "Property Note": "",
+    "Sale Date": "10/20/2025",
+    "Sheriff #": "F-25001943"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 120914.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "419 INSLEE STREET PERTH AMBOY NJ 08861",
+    "defendant": "FLORRINE SLEDD A/K/A PENNY S. SLEDD A/K/A PENNY SLEDD, ET ALS.",
+    "listing_status": "Bidder Paid",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF LONG BEACH MORTGAGE LOAN TRUST 2005-WL2, ASSET-BACKED CERTIFICATES, SERIES 2005-WL2",
+    "sale_date": "2025-10-20"
+  },
+  "listing_status": "Bidder Paid",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 37.01 BLOCK 448",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF LONG BEACH MORTGAGE LOAN TRUST 2005-WL2, ASSET-BACKED CERTIFICATES, SERIES 2005-WL2",
+  "property_note": null,
+  "sale_date": "2025-10-20",
+  "sheriff_number": "F-25001943",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-20",
+      "status": "Bidder Paid"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

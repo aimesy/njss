@@ -1,0 +1,76 @@
+{
+  "address": "90 Monmouth Avenue Middletown NJ 07748",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00301523",
+  "current_status": "Scheduled",
+  "defendant": "Peter Chostak, et als.",
+  "description": "Dimension of Lot Approximately: 40 X 123\nNearest Cross Street: Bray Avenue\nBEGINNING AT A POINT ON THE SOUTHERLY LINE OF MONMOUTH AVENUE SAID POINT BEING A DISTANCE OF 99.96 FEET WESTERLY FROM THE INTERSECTION OF THE WESTERLY LINE OF BRAY AVENUE AND THE SOUTHERLY LINE OF MONMOUTH AVENUE AND RUNNING; THENCE.\nGood faith estimate of upset price: $455,000.00\nThe occupancy status of the property being foreclosed herein is presently unknown.\nPrior Liens/Encumbrances\n3rd Qtr Taxes Open: $2,145.79\nSewer Open and Due: $120.00\nTotal as of December 4, 2024: $2,385.79",
+  "extracted": {
+    "lot": "Approximately",
+    "upset_amount": 455000.0
+  },
+  "fields": {
+    "Address": "90 Monmouth Avenue\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$504,739.31",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F00301523",
+    "Defendant": "Peter Chostak, et als.",
+    "Description": "Dimension of Lot Approximately: 40 X 123\nNearest Cross Street: Bray Avenue\nBEGINNING AT A POINT ON THE SOUTHERLY LINE OF MONMOUTH AVENUE SAID POINT BEING A DISTANCE OF 99.96 FEET WESTERLY FROM THE INTERSECTION OF THE WESTERLY LINE OF BRAY AVENUE AND THE SOUTHERLY LINE OF MONMOUTH AVENUE AND RUNNING; THENCE.\nGood faith estimate of upset price: $455,000.00\nThe occupancy status of the property being foreclosed herein is presently unknown.\nPrior Liens/Encumbrances\n3rd Qtr Taxes Open: $2,145.79\nSewer Open and Due: $120.00\nTotal as of December 4, 2024: $2,385.79",
+    "Parcel #": "Tax Lot No. 5.01 in Block No. 14 Tax Map of the Township of Middletown",
+    "Plaintiff": "Wells Fargo Bank, National Association As Trustee For Structured Asset Mortgage Investments II Inc. Structured Asset Mortgage Investments II Trust 2007-AR4, Mortgage Pass-Through Certificates Series 2007-AR-4",
+    "Property Note": "",
+    "Sales Date": "9/15/2025",
+    "Sheriff #": "FOR-24002492"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 504739.31,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "90 Monmouth Avenue Middletown NJ 07748",
+    "defendant": "Peter Chostak, et als.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Wells Fargo Bank, National Association As Trustee For Structured Asset Mortgage Investments II Inc. Structured Asset Mortgage Investments II Trust 2007-AR4, Mortgage Pass-Through Certificates Series 2007-AR-4",
+    "sale_date": "2025-09-15"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 5.01 in Block No. 14 Tax Map of the Township of Middletown",
+  "plaintiff": "Wells Fargo Bank, National Association As Trustee For Structured Asset Mortgage Investments II Inc. Structured Asset Mortgage Investments II Trust 2007-AR4, Mortgage Pass-Through Certificates Series 2007-AR-4",
+  "property_note": null,
+  "sale_date": "2025-09-15",
+  "sheriff_number": "FOR-24002492",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-15",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Scheduled"
+    }
+  ]
+}

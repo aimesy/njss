@@ -1,0 +1,64 @@
+{
+  "address": "88 6th Street Clifton NJ 07011",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 2899 25 CTL#163083",
+  "current_status": "Cancelled",
+  "defendant": "GLADSTONE A. ROJAS, ET ALS",
+  "description": "Dimensions of lot approximately: 50 x 125\nnearest cross street: Washington Avenue\nBeginning at a point on the southerly R.O.W. line of Washington Avenue (60 feet R.O.W.), said point being a distance of 387.00 feet from its intersection with the westerly R.O.W. line of fifth street (60 feet R.O.W.). And running, thence\nThe sheriff herby reserves the right to adjourn this sale without further notice through publication\nPrior liens/encumbrances:\nSewer open and due $170.53\nSewer open plus penalty $453.37\nWater open plus penalty $377.03\nTotal as of October 14, 2025: $1,000.93\nGood faith estimate of upset price: $408,265.54\nThe occupancy status of the property foreclosed herein is presently unknown",
+  "extracted": {
+    "lot": "approximately",
+    "upset_amount": 408265.54
+  },
+  "fields": {
+    "Address": "88 6th Street\nClifton NJ 07011",
+    "Approx. Upset*": "$375,988.03",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Court Case #": "F 2899 25 CTL#163083",
+    "Defendant": "GLADSTONE A. ROJAS, ET ALS",
+    "Description": "Dimensions of lot approximately: 50 x 125\nnearest cross street: Washington Avenue\nBeginning at a point on the southerly R.O.W. line of Washington Avenue (60 feet R.O.W.), said point being a distance of 387.00 feet from its intersection with the westerly R.O.W. line of fifth street (60 feet R.O.W.). And running, thence\nThe sheriff herby reserves the right to adjourn this sale without further notice through publication\nPrior liens/encumbrances:\nSewer open and due $170.53\nSewer open plus penalty $453.37\nWater open plus penalty $377.03\nTotal as of October 14, 2025: $1,000.93\nGood faith estimate of upset price: $408,265.54\nThe occupancy status of the property foreclosed herein is presently unknown",
+    "Parcel #": "Tax Lot No. 1 in Block No. 18.10",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "5/4/2026",
+    "Sheriff #": "F-25001732"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "88 6th Street Clifton NJ 07011",
+    "defendant": "GLADSTONE A. ROJAS, ET ALS",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-05-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot No. 1 in Block No. 18.10",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-05-04",
+  "sheriff_number": "F-25001732",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-02-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 375988.03,
+  "upset_amount_label": "Approx. Upset*"
+}

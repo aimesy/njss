@@ -1,0 +1,72 @@
+{
+  "address": "622 Washington Avenue Union Beach NJ 07735",
+  "attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01332023",
+  "current_status": "Scheduled",
+  "defendant": "Bogdan Cieluch; Eva Cieluch,",
+  "description": "Dimensions; Approximately: 40X100\nUpset Price: Approximately: $285, 224.75 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Ocean Avenue\nBeginning at a point in the southerly side of Washington Avenue, said point being 200 feet easterly measured along the southerly side of Washington Avenue from the intersection of the southerly side of Washington Avenue with the easterly side of Ocean Avenue; thence\nPursuant to a tax search of 05/07/2024; 2024 Qtr 2 Due: 05/01/2024 $1,932.95 PAID, 2024 Qtr 3 Due: 08/01/2024 TO BE DETERMINED. Sewer Acct: 1418 0 04/01/2024 - 06/30/2024 $114.89 OPEN PLUS PENALTY $0.11 PAID. Water: PRIVATE - NJ American Water Co. P.O. BOX 371331 PITTSBURGH, PA 15250 800-652-6987. General Remark: 2024 SECOND HALF TAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTED ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 285.0
+  },
+  "fields": {
+    "Address": "622 Washington Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$284,441.36",
+    "Attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+    "Court Case #": "F01332023",
+    "Defendant": "Bogdan Cieluch; Eva Cieluch,",
+    "Description": "Dimensions; Approximately: 40X100\nUpset Price: Approximately: $285, 224.75 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Ocean Avenue\nBeginning at a point in the southerly side of Washington Avenue, said point being 200 feet easterly measured along the southerly side of Washington Avenue from the intersection of the southerly side of Washington Avenue with the easterly side of Ocean Avenue; thence\nPursuant to a tax search of 05/07/2024; 2024 Qtr 2 Due: 05/01/2024 $1,932.95 PAID, 2024 Qtr 3 Due: 08/01/2024 TO BE DETERMINED. Sewer Acct: 1418 0 04/01/2024 - 06/30/2024 $114.89 OPEN PLUS PENALTY $0.11 PAID. Water: PRIVATE - NJ American Water Co. P.O. BOX 371331 PITTSBURGH, PA 15250 800-652-6987. General Remark: 2024 SECOND HALF TAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTED ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)",
+    "Parcel #": "Tax Lot: 4; Block: 168 Tax Map of Borough of Union Beach",
+    "Plaintiff": "Legacy Mortgage Asset Trust 2021-GS3",
+    "Property Note": "",
+    "Sales Date": "1/6/2025",
+    "Sheriff #": "FOR-24000996"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 284441.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "622 Washington Avenue Union Beach NJ 07735",
+    "defendant": "Bogdan Cieluch; Eva Cieluch,",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Legacy Mortgage Asset Trust 2021-GS3",
+    "sale_date": "2025-01-06"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 4; Block: 168 Tax Map of Borough of Union Beach",
+  "plaintiff": "Legacy Mortgage Asset Trust 2021-GS3",
+  "property_note": null,
+  "sale_date": "2025-01-06",
+  "sheriff_number": "FOR-24000996",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-06",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Scheduled"
+    }
+  ]
+}

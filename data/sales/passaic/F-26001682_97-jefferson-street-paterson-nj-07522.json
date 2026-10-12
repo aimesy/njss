@@ -1,0 +1,52 @@
+{
+  "address": "97 Jefferson Street Paterson NJ 07522",
+  "attorney": "Hill Wallack, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000647 26 CTL# 163282",
+  "current_status": "Scheduled",
+  "defendant": "GWENDLYNN N. GROVER ET ALS",
+  "description": "Occupancy Status: Borrower Occupied\nNeareast Cross Street: Approximately 30.20 to the nearest cross street known as Garfield Avenue\nApproximate Dimensions: 25.00ft x 100.00ft x 25.00ft x 100.00ft\nBeing more commonly known as:\n97 Jefferson Street\nPaterson, New Jersey 07522\nThe full legal description can be found in the Office of the Clerk of Passaic County in Deed Book D1637, at Page 41\nAPPROXIMATE UPSET PRICE IS $356,065.94 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated September 1, 2026\nSubject to: 2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\n2027 1st quarter taxes due 2/1/2027, TO BE DETERMINED\nSewer: Acct. 10004066 0, 10/1/2026 - 12/31/2026, $96.75 OPEN AND DUE 11/1/2026; $628.25 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading",
+  "extracted": {
+    "occupancy": "Borrower Occupied",
+    "upset_amount": 356065.94
+  },
+  "fields": {
+    "Address": "97 Jefferson Street\nPaterson NJ 07522",
+    "Approx. Upset*": "$324,533.76",
+    "Attorney": "Hill Wallack, LLP",
+    "Court Case #": "F 000647 26 CTL# 163282",
+    "Defendant": "GWENDLYNN N. GROVER ET ALS",
+    "Description": "Occupancy Status: Borrower Occupied\nNeareast Cross Street: Approximately 30.20 to the nearest cross street known as Garfield Avenue\nApproximate Dimensions: 25.00ft x 100.00ft x 25.00ft x 100.00ft\nBeing more commonly known as:\n97 Jefferson Street\nPaterson, New Jersey 07522\nThe full legal description can be found in the Office of the Clerk of Passaic County in Deed Book D1637, at Page 41\nAPPROXIMATE UPSET PRICE IS $356,065.94 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated September 1, 2026\nSubject to: 2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\n2027 1st quarter taxes due 2/1/2027, TO BE DETERMINED\nSewer: Acct. 10004066 0, 10/1/2026 - 12/31/2026, $96.75 OPEN AND DUE 11/1/2026; $628.25 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading",
+    "Parcel #": "Lot 3 Block 205",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "Property Note": "",
+    "Sales Date": "2/2/2027",
+    "Sheriff #": "F-26001682"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "97 Jefferson Street Paterson NJ 07522",
+    "defendant": "GWENDLYNN N. GROVER ET ALS",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "sale_date": "2027-02-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 3 Block 205",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+  "property_note": null,
+  "sale_date": "2027-02-02",
+  "sheriff_number": "F-26001682",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-02-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 324533.76,
+  "upset_amount_label": "Approx. Upset*"
+}

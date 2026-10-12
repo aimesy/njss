@@ -1,0 +1,85 @@
+{
+  "address": "7 DEVONSHIRE COURT WINSLOW TOWNSHIP NJ 08081",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "SWCF00461424",
+  "current_status": "Scheduled",
+  "defendant": "MICHAEL HEATH; MARIA HEATH",
+  "extracted": {},
+  "fields": {
+    "Address": "7 DEVONSHIRE COURT\nWINSLOW TOWNSHIP NJ 08081",
+    "Approx. Upset*": "$143,428.85",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "SWCF00461424",
+    "Defendant": "MICHAEL HEATH; MARIA HEATH",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MERRILL\nLYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED\nCERTIFICATES, SERIES 2007-MLN1",
+    "Property Note": "",
+    "Sales Date": "2/3/2026",
+    "Sheriff #": "FR-24002640"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7 DEVONSHIRE COURT WINSLOW TOWNSHIP NJ 08081",
+    "defendant": "MICHAEL HEATH; MARIA HEATH",
+    "listing_status": null,
+    "plaintiff": "DEUTSHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MERRILL \nLYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED \nCERTIFICATES, SERIES 2007-MLN1",
+    "sale_date": "2026-02-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-MLN1",
+  "property_note": null,
+  "sale_date": "2026-02-03",
+  "sheriff_number": "FR-24002640",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-01-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-05-21",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-06-18",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-07-16",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-07-16",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 143428.85,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,72 @@
+{
+  "address": "11 FIRST STREET EAST BRUNSWICK NJ 08816",
+  "attorney": "MELLINGER KARTZMAN LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973 267-0220",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "DJ1157522/DJ14657012",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "EVELYN F. GARCIA, ESQ., ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$170,930.00",
+    "Attorney": "MELLINGER KARTZMAN LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973 267-0220",
+    "Court Case #": "DJ1157522/DJ14657012",
+    "Defendant": "EVELYN F. GARCIA, ESQ., ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 11 BLOCK 78",
+    "Plaintiff": "CHARLES FORMAN, AS CHAPTER 7 TRUSTEE",
+    "Property Address": "11 FIRST STREET\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "SUCCESSFULLY POSTED BY: D. HARVATT, AUGUST 20, 2024 AREA3",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-776577"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 170930.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 FIRST STREET EAST BRUNSWICK NJ 08816",
+    "defendant": "EVELYN F. GARCIA, ESQ., ET ALS.",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "CHARLES FORMAN, AS CHAPTER 7 TRUSTEE",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 11 BLOCK 78",
+  "plaintiff": "CHARLES FORMAN, AS CHAPTER 7 TRUSTEE",
+  "property_note": "SUCCESSFULLY POSTED BY: D. HARVATT, AUGUST 20, 2024 AREA3",
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-776577",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-01-17",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

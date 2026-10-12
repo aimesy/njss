@@ -1,0 +1,67 @@
+{
+  "address": "42 McClellan Drive Middletown NJ 07748",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00388723",
+  "current_status": "Scheduled",
+  "defendant": "Peter Johnson et al.",
+  "description": "Approximate Dimensions: 115 x 133 IRR\nNearest Cross Street: kearney Drive\nUpset price: $382,967.88 (Note, this is a Good Faith Estimated of the Upset price at Sheriff’s sale that is being provided to you Pursuant to N.J.S.A. 2A:50-64 (as amended)\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+  "extracted": {
+    "upset_amount": 382967.88
+  },
+  "fields": {
+    "Address": "42 McClellan Drive\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$354,455.18",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F00388723",
+    "Defendant": "Peter Johnson et al.",
+    "Description": "Approximate Dimensions: 115 x 133 IRR\nNearest Cross Street: kearney Drive\nUpset price: $382,967.88 (Note, this is a Good Faith Estimated of the Upset price at Sheriff’s sale that is being provided to you Pursuant to N.J.S.A. 2A:50-64 (as amended)\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+    "Parcel #": "Tax Lot: # 2 Block: # 580 Located on the tax map of the township of Middletown",
+    "Plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+    "Property Note": "",
+    "Sales Date": "2/25/2026",
+    "Sheriff #": "FOR-24001895"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 354455.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "42 McClellan Drive Middletown NJ 07748",
+    "defendant": "Peter Johnson et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+    "sale_date": "2026-02-25"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: # 2 Block: # 580 Located on the tax map of the township of Middletown",
+  "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+  "property_note": null,
+  "sale_date": "2026-02-25",
+  "sheriff_number": "FOR-24001895",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-25",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    }
+  ]
+}

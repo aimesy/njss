@@ -1,0 +1,70 @@
+{
+  "address": "1508 7th Avenue Pleasantville NJ 08232",
+  "attorney": "Eisenberg, Gold & Agrawal, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004209-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Salvatore Archetto, Jr a/k/a Salvatore Archetto; Mrs. Archetto, Fictitious Spouse of Salvatore Archetto, Jr a/k/a Salvatore; Sharon Archetto; Sunnova TEP II Manager LLC; Midland Funding LLC; LVNV Funding LLC c/o Resurgent Capital Services LP; Midland Credit Management Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "1508 7th Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$38,503.04",
+    "Attorney": "Eisenberg, Gold & Agrawal, P.C.",
+    "Court Case #": "F-004209-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Salvatore Archetto, Jr a/k/a Salvatore Archetto; Mrs. Archetto, Fictitious Spouse of Salvatore Archetto, Jr a/k/a Salvatore; Sharon Archetto; Sunnova TEP II Manager LLC; Midland Funding LLC; LVNV Funding LLC c/o Resurgent Capital Services LP; Midland Credit Management Inc",
+    "Plaintiff": "Fulton Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/16/2026",
+    "Sheriff #": "F-25001179",
+    "Upset Amount": "$49,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 38503.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1508 7th Avenue Pleasantville NJ 08232",
+    "defendant": "Salvatore Archetto, ...",
+    "listing_status": null,
+    "plaintiff": "Fulton Bank, N.A....",
+    "sale_date": "2026-04-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Fulton Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-04-16",
+  "sheriff_number": "F-25001179",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-16",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 49000.0,
+  "upset_amount_label": "Upset Amount"
+}

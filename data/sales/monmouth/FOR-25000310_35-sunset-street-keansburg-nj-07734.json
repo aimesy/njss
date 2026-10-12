@@ -1,0 +1,68 @@
+{
+  "address": "35 Sunset Street Keansburg NJ 07734",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01385423",
+  "current_status": "Scheduled",
+  "defendant": "Sheri A. Miranda, et al",
+  "description": "Dimensions of Lot: 50 feet wide by 100 feet long.\nNearest Cross Street: Crescent Street\nEstimated upset bid amount: $522,000.00 plus additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 1 Due: 02/01/2025 $1,726.45 OPEN\n2025 Qtr 2 Due: 05/01/2025 $1,726.45 OPEN\nWater: Keansburg MUA 29 Church St Keansburg, NJ 07734 732-787-0215\nAcct: 1421 0 10/01/2024 - 12/31/2024 $159.22 OPEN PLUS PENALTY $247.78 OPEN PLUS PENALTY\nSewer: Keansburg MUA 29 Church St Keansburg, NJ 07734 732-787-0215\nAcct: 1421 0 10/01/2024 - 12/31/2024 $144.69 OPEN PLUS PENALTY $207.51 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "50",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "35 Sunset Street\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$481,682.99",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F01385423",
+    "Defendant": "Sheri A. Miranda, et al",
+    "Description": "Dimensions of Lot: 50 feet wide by 100 feet long.\nNearest Cross Street: Crescent Street\nEstimated upset bid amount: $522,000.00 plus additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 1 Due: 02/01/2025 $1,726.45 OPEN\n2025 Qtr 2 Due: 05/01/2025 $1,726.45 OPEN\nWater: Keansburg MUA 29 Church St Keansburg, NJ 07734 732-787-0215\nAcct: 1421 0 10/01/2024 - 12/31/2024 $159.22 OPEN PLUS PENALTY $247.78 OPEN PLUS PENALTY\nSewer: Keansburg MUA 29 Church St Keansburg, NJ 07734 732-787-0215\nAcct: 1421 0 10/01/2024 - 12/31/2024 $144.69 OPEN PLUS PENALTY $207.51 OPEN PLUS PENALTY",
+    "Parcel #": "Tax Lot 21 Block 143 Tax Map of Borough of Keansburg",
+    "Plaintiff": "DLJ Mortgage Capital, Inc.",
+    "Property Note": "",
+    "Sales Date": "7/30/2025",
+    "Sheriff #": "FOR-25000310"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 481682.99,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "35 Sunset Street Keansburg NJ 07734",
+    "defendant": "Sheri A. Miranda, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "DLJ Mortgage Capital, Inc.",
+    "sale_date": "2025-07-30"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 21 Block 143 Tax Map of Borough of Keansburg",
+  "plaintiff": "DLJ Mortgage Capital, Inc.",
+  "property_note": null,
+  "sale_date": "2025-07-30",
+  "sheriff_number": "FOR-25000310",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-30",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    }
+  ]
+}

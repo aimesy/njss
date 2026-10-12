@@ -1,0 +1,62 @@
+{
+  "address": "28 Ables Run Drive Absecon NJ 08201",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009205-24",
+  "current_status": "Scheduled",
+  "deed": "Ahasan Realty LLC",
+  "deed_address": "410 Montrose Lane, Galloway, NJ 08205",
+  "defendant": "Grace M. Mooney; John F. Mooney; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "28 Ables Run Drive\nAbsecon NJ 08201",
+    "Approx. Judgment*": "$163,853.96",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F-009205-24",
+    "Deed": "Ahasan Realty LLC",
+    "Deed Address": "410 Montrose Lane, Galloway, NJ 08205",
+    "Defendant": "Grace M. Mooney; John F. Mooney; United States of America",
+    "Plaintiff": "Bank of America, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "7/17/2025",
+    "Sheriff #": "F-25000424",
+    "Upset Amount": "$182,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 163853.96,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "28 Ables Run Drive Absecon NJ 08201",
+    "defendant": "Grace M. Mooney; Joh...",
+    "listing_status": null,
+    "plaintiff": "Bank of America, N.A...",
+    "sale_date": "2025-07-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank of America, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-07-17",
+  "sheriff_number": "F-25000424",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-17",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-17",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-06-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 182000.0,
+  "upset_amount_label": "Upset Amount"
+}

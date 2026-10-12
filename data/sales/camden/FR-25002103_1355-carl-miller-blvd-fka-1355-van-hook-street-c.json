@@ -1,0 +1,61 @@
+{
+  "address": "1355 CARL MILLER BLVD FKA 1355 VAN HOOK STREET, CAMDEN, NJ 08104 CAMDEN NJ 08104",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00659025",
+  "current_status": "Purchased",
+  "defendant": "JAMES HIGHTOWER; MRS.HIGHTOWER, SPOUCE OF JAMES HGHTOWER; LVNV FUNDING LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "1355 CARL MILLER BLVD\nFKA 1355 VAN HOOK STREET, CAMDEN, NJ 08104\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$22,203.71",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00659025",
+    "Defendant": "JAMES HIGHTOWER; MRS.HIGHTOWER, SPOUCE OF JAMES HGHTOWER; LVNV FUNDING LLC",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25002103"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1355 CARL MILLER BLVD FKA 1355 VAN HOOK STREET, CAMDEN, NJ 08104 CAMDEN NJ 08104",
+    "defendant": "JAMES HIGHTOWER; MRS.HIGHTOWER, SPOUCE OF JAMES HGHTOWER; LVNV FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25002103",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 22203.71,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "84 10TH STREET PISCATAWAY NJ 08854",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00164125",
+  "current_status": "Bankruptcy",
+  "defendant": "VICKI ZUPKO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$191,612.48",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00164125",
+    "Defendant": "VICKI ZUPKO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 32.01 BLOCK 809",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2023-1",
+    "Property Address": "84 10TH STREET\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "11/5/2025",
+    "Sheriff #": "F-25002359"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 191612.48,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "84 10TH STREET PISCATAWAY NJ 08854",
+    "defendant": "VICKI ZUPKO, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2023-1",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 32.01 BLOCK 809",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2023-1",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "F-25002359",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

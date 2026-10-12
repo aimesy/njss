@@ -1,0 +1,56 @@
+{
+  "address": "121 IVY LANE MANTUA NJ 08051",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-003065-23",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "HEATHER ROBINSON, ET AL.",
+  "description": "ESTIMATED UPSET PRICE: $260,084.56\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 260084.56
+  },
+  "fields": {
+    "Address": "121 IVY LANE\nMANTUA NJ 08051",
+    "Approximate Judgment": "$236,102.49",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-003065-23",
+    "Defendant": "HEATHER ROBINSON, ET AL.",
+    "Description": "ESTIMATED UPSET PRICE: $260,084.56\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT: 6 BLOCK: 431",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR THE HOLDERS OF THE CIM TRUST 2020-R6, MORTGAGE-BACKED NOTES SERIES 2020-R6",
+    "Property Note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n121 IVY LANE MANTUA, NJ 08051\nLOT: 6 BLOCK: 431\nAPPROXIMATE DIMENSIONS: 75x75\nNEAREST CROSS STREET: GLENSIDE DRIVE\nESTIMATED UPSET PRICE: $260,084.56\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "F-25001449"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 236102.49,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "121 IVY LANE MANTUA NJ 08051",
+    "defendant": "HEATHER ROBINSON, ET AL.",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR THE HOLDERS OF THE CIM TRUST 2020-R6, MORTGAGE-BACKED NOTES SERIES 2020-R6",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 6 BLOCK: 431",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR THE HOLDERS OF THE CIM TRUST 2020-R6, MORTGAGE-BACKED NOTES SERIES 2020-R6",
+  "property_note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n121 IVY LANE MANTUA, NJ 08051\nLOT: 6 BLOCK: 431\nAPPROXIMATE DIMENSIONS: 75x75\nNEAREST CROSS STREET: GLENSIDE DRIVE\nESTIMATED UPSET PRICE: $260,084.56\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-02-18",
+  "sheriff_number": "F-25001449",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

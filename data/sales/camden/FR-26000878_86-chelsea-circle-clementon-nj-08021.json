@@ -1,0 +1,57 @@
+{
+  "address": "86 CHELSEA CIRCLE CLEMENTON NJ 08021",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "215-572-5095 JENKINTOWN",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00985625",
+  "current_status": "Defendant Adjournment",
+  "defendant": "ANDRE JUSTICE, HERITAGE SQUARE ASSOCIATION, MR. OR MRS. JUSTICE, THE SPOUCE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF ANDRE JUSTICE, SOUTH JERSEY GAS",
+  "extracted": {},
+  "fields": {
+    "Address": "86 CHELSEA CIRCLE\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$55,414.58",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "215-572-5095 JENKINTOWN",
+    "Court Case #": "F00985625",
+    "Defendant": "ANDRE JUSTICE, HERITAGE SQUARE ASSOCIATION, MR. OR MRS. JUSTICE,\nTHE SPOUCE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF ANDRE JUSTICE,\nSOUTH JERSEY GAS",
+    "Parcel #": "TAX LOT 1.101 BLOCK 59",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2022-RP3",
+    "Property Note": "",
+    "Sales Date": "8/4/2026",
+    "Sheriff #": "FR-26000878"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "86 CHELSEA CIRCLE CLEMENTON NJ 08021",
+    "defendant": "ANDRE JUSTICE, HERITAGE SQUARE ASSOCIATION, MR. OR MRS. JUSTICE, \nTHE SPOUCE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF ANDRE JUSTICE, \nSOUTH JERSEY GAS",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2022-RP3",
+    "sale_date": "2026-08-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 1.101 BLOCK 59",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2022-RP3",
+  "property_note": null,
+  "sale_date": "2026-08-04",
+  "sheriff_number": "FR-26000878",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 55414.58,
+  "upset_amount_label": "Approx. Upset*"
+}

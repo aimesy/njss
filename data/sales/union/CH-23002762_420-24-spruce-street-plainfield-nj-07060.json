@@ -1,0 +1,80 @@
+{
+  "address": "420-24 SPRUCE STREET PLAINFIELD NJ 07060",
+  "attorney": "PARKER McCAY P.A.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F02265017",
+  "current_status": "Cancelled",
+  "defendant": "DARRYL HICK; KEB HANA BANK USA, NATIONAL ASSOCIATION; BANK OF AMERICA, N.A.",
+  "description": "LOT 34 BLOCK 502",
+  "extracted": {
+    "block": "502",
+    "lot": "34"
+  },
+  "fields": {
+    "Address": "420-24 SPRUCE STREET\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$381,973.31",
+    "Attorney": "PARKER McCAY P.A.",
+    "Court Case #": "F02265017",
+    "Defendant": "DARRYL HICK; KEB HANA BANK USA, NATIONAL ASSOCIATION; BANK OF AMERICA, N.A.",
+    "Description": "LOT 34 BLOCK 502",
+    "Parcel #": "LOT 34 BLOCK 502",
+    "Plaintiff": "CITIBANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "CH-23002762"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "420-24 SPRUCE STREET PLAINFIELD NJ 07060",
+    "defendant": "DARRYL HICK; KEB HANA BANK USA, NATIONAL ASSOCIATION; BANK OF AMERICA, N.A.",
+    "listing_status": null,
+    "plaintiff": "CITIBANK, N.A.",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 34 BLOCK 502",
+  "plaintiff": "CITIBANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "CH-23002762",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-02-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-03-06",
+      "status": "Sheriff Adjournment"
+    },
+    {
+      "date": "2024-05-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-05-01",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 381973.31,
+  "upset_amount_label": "Approx. Upset*"
+}

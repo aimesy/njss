@@ -1,0 +1,64 @@
+{
+  "address": "65 GREEN STREET WOODBRIDGE NJ 07095",
+  "attorney": "RAGAN & RAGAN",
+  "attorney_file_number": null,
+  "attorney_phone": "732-280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "L0101011 J17744311",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JAMES E. OLGREN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$353,908.08",
+    "Attorney": "RAGAN & RAGAN",
+    "Attorney File #": "",
+    "Attorney Phone": "732-280-4100",
+    "Court Case #": "L0101011 J17744311",
+    "Defendant": "JAMES E. OLGREN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 7 BLOCK 549",
+    "Plaintiff": "SURENDER GROVER, BY ASSIGNEE MMU, LLC",
+    "Property Address": "65 GREEN STREET\nWOODBRIDGE NJ 07095",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25001977"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 353908.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "65 GREEN STREET WOODBRIDGE NJ 07095",
+    "defendant": "JAMES E. OLGREN, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "SURENDER GROVER, BY ASSIGNEE MMU, LLC",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 7 BLOCK 549",
+  "plaintiff": "SURENDER GROVER, BY ASSIGNEE MMU, LLC",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25001977",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

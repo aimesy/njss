@@ -1,0 +1,56 @@
+{
+  "address": "1005 Emory Street Asbury Park NJ 07712",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00757425",
+  "current_status": "Scheduled",
+  "defendant": "Edgar Murray, et. al.",
+  "description": "Dimensions of Lot:\n25 feet wide by 100 feet long\nNearest Cross Street: 2nd Avenue\nEstimated upset bid amount: $348,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 1 Due: 02/01/2026 $3,675.70 OPEN\n2026 Qtr 2 Due: 05/01/2026 $3,675.69 OPEN",
+  "extracted": {
+    "lot": "25",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "1005 Emory Street\nAsbury Park NJ 07712",
+    "Approx. Judgment*": "$315,413.20",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00757425",
+    "Defendant": "Edgar Murray, et. al.",
+    "Description": "Dimensions of Lot:\n25 feet wide by 100 feet long\nNearest Cross Street: 2nd Avenue\nEstimated upset bid amount: $348,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 1 Due: 02/01/2026 $3,675.70 OPEN\n2026 Qtr 2 Due: 05/01/2026 $3,675.69 OPEN",
+    "Parcel #": "Tax Lot 23 NKA 12 Block 166 NKA 2704 Tax Map of City of Asbury Park",
+    "Plaintiff": "PHH Mortgage Corporation",
+    "Property Note": "",
+    "Sales Date": "3/10/2026",
+    "Sheriff #": "FOR-25002366"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 315413.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1005 Emory Street Asbury Park NJ 07712",
+    "defendant": "Edgar Murray, et. al.",
+    "listing_status": "Settled",
+    "plaintiff": "PHH Mortgage Corporation",
+    "sale_date": "2026-03-10"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 23 NKA 12 Block 166 NKA 2704 Tax Map of City of Asbury Park",
+  "plaintiff": "PHH Mortgage Corporation",
+  "property_note": null,
+  "sale_date": "2026-03-10",
+  "sheriff_number": "FOR-25002366",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-10",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    }
+  ]
+}

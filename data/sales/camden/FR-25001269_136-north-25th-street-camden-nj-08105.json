@@ -1,0 +1,61 @@
+{
+  "address": "136 NORTH 25TH STREET CAMDEN NJ 08105",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00445123",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "ERNESTINE JONES A/K/A ERNESTIN JONES, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS/HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "136 NORTH 25TH STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$99,604.56",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00445123",
+    "Defendant": "ERNESTINE JONES A/K/A ERNESTIN JONES, HIS HEIRS, DEVISEES AND PERSONAL\nREPRESENTATIVES AND HIS/HER, THEIR OR ANY OF THEIR SUCCESSORS IN\nRIGHT, TITLE AND INTEREST ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS3",
+    "Property Note": "",
+    "Sales Date": "10/10/2025",
+    "Sheriff #": "FR-25001269"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "136 NORTH 25TH STREET CAMDEN NJ 08105",
+    "defendant": "ERNESTINE JONES A/K/A ERNESTIN JONES, HIS HEIRS, DEVISEES AND PERSONAL \nREPRESENTATIVES AND HIS/HER, THEIR OR ANY OF THEIR SUCCESSORS IN \nRIGHT, TITLE AND INTEREST ET AL.",
+    "listing_status": null,
+    "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS3",
+    "sale_date": "2025-10-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS3",
+  "property_note": null,
+  "sale_date": "2025-10-10",
+  "sheriff_number": "FR-25001269",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-10",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 99604.56,
+  "upset_amount_label": "Approx. Upset*"
+}

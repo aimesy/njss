@@ -1,0 +1,78 @@
+{
+  "address": "6054 Wilmington Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Gross Polowy, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007600-23",
+  "current_status": "Scheduled",
+  "deed": "SRKR Holdings LLC",
+  "deed_address": "P.O. BOX 115, Pomona, NJ 08240",
+  "defendant": "Andrea S. Blake as Administrator and Heir to the Estate of Tommie R. Blake; Joseph D. Blake as Heir to the Estate of Tommie R. Blake; Azmirah S. Blake as Heir to the Estate of Tommie R. Blake; Amanda C. Blake as Heir to the Estate of Tommie R. Blake; Joshua A. Blake as Heir to the Estate of Tommie R. Blake; State of New Jersey; Virginia Walker; Jack Georges; Robin Gathers",
+  "extracted": {},
+  "fields": {
+    "Address": "6054 Wilmington Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$346,935.39",
+    "Attorney": "Gross Polowy, LLC",
+    "Court Case #": "F-007600-23",
+    "Deed": "SRKR Holdings LLC",
+    "Deed Address": "P.O. BOX 115, Pomona, NJ 08240",
+    "Defendant": "Andrea S. Blake as Administrator and Heir to the Estate of Tommie R. Blake; Joseph D. Blake as Heir to the Estate of Tommie R. Blake; Azmirah S. Blake as Heir to the Estate of Tommie R. Blake; Amanda C. Blake as Heir to the Estate of Tommie R. Blake; Joshua A. Blake as Heir to the Estate of Tommie R. Blake; State of New Jersey; Virginia Walker; Jack Georges; Robin Gathers",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "7/3/2025",
+    "Sheriff #": "F-24001342",
+    "Upset Amount": "$297,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 346935.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6054 Wilmington Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Andrea S. Blake as A...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2025-07-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-07-03",
+  "sheriff_number": "F-24001342",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-03",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-03",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Adjourned Indefinitely"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 297000.0,
+  "upset_amount_label": "Upset Amount"
+}

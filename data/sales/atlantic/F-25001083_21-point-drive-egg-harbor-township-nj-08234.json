@@ -1,0 +1,78 @@
+{
+  "address": "21 Point Drive Egg Harbor Township NJ 08234",
+  "attorney": "Leopold & Associates, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000348-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Cynthia A. Markowski; John Dunne; Community Development Block Grant Diaster Recovery (CDBG-DR); Discover Bank; Cavalry Portfolio Services, LLC; Midland LLC; First American Acceptance CO LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "21 Point Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$70,581.82",
+    "Attorney": "Leopold & Associates, PLLC",
+    "Court Case #": "F-000348-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Cynthia A. Markowski; John Dunne; Community Development Block Grant Diaster Recovery (CDBG-DR); Discover Bank; Cavalry Portfolio Services, LLC; Midland LLC; First American Acceptance CO LLC",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as a trustee for the benefit of the Freddie Mac seasoned credit risk transfer trust, series 2022-1",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "4/23/2026",
+    "Sheriff #": "F-25001083",
+    "Upset Amount": "$82,900.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 70581.82,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "21 Point Drive Egg Harbor Township NJ 08234",
+    "defendant": "Cynthia A. Markowski...",
+    "listing_status": null,
+    "plaintiff": "Federal Home Loan Mo...",
+    "sale_date": "2026-04-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as a trustee for the benefit of the Freddie Mac seasoned credit risk transfer trust, series 2022-1",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-04-23",
+  "sheriff_number": "F-25001083",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 82900.0,
+  "upset_amount_label": "Upset Amount"
+}

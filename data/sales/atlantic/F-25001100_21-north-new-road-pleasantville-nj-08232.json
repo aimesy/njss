@@ -1,0 +1,58 @@
+{
+  "address": "21 North New Road Pleasantville NJ 08232",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005377-25",
+  "current_status": "Scheduled",
+  "deed": "Plaza House LLC",
+  "deed_address": "206 W. Plaza Place Pleasantville, NJ 08232",
+  "defendant": "Thomas Louis Ballard; Christine J. Nasreldin; Goodleap, LLC; LVNV Funding LLC; United States of America; Discover Bank",
+  "extracted": {},
+  "fields": {
+    "Address": "21 North New Road\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$136,515.95",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-005377-25",
+    "Deed": "Plaza House LLC",
+    "Deed Address": "206 W. Plaza Place Pleasantville, NJ 08232",
+    "Defendant": "Thomas Louis Ballard; Christine J. Nasreldin; Goodleap, LLC; LVNV Funding LLC; United States of America; Discover Bank",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "US Bank Cust/PC8 Firstrust Bank Cert No. 21-00132, amount: $320.57\nFIG 20 LLC, FIG 20 FBO SEC PTY Cert No. 22-00159, amount: $592.24\nFIG 20 LLC, FIG 20 FBO SEC PTY Cert No. 23-00129, amount: $328.79\nFig 20 LLC, FIG 20 FBO SEC PTY Cert No. 24-00138, amount: $464.30\nTotal: $1,705.90",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "F-25001100",
+    "Upset Amount": "$113,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 136515.95,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "21 North New Road Pleasantville NJ 08232",
+    "defendant": "Thomas Louis Ballard...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "US Bank Cust/PC8 Firstrust Bank Cert No. 21-00132, amount: $320.57 FIG 20 LLC, FIG 20 FBO SEC PTY Cert No. 22-00159, amount: $592.24 FIG 20 LLC, FIG 20 FBO SEC PTY Cert No. 23-00129, amount: $328.79 Fig 20 LLC, FIG 20 FBO SEC PTY Cert No. 24-00138, amount: $464.30 Total: $1,705.90",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-08",
+  "sheriff_number": "F-25001100",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-08",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 113500.0,
+  "upset_amount_label": "Upset Amount"
+}

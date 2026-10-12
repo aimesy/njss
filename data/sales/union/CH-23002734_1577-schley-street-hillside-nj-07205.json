@@ -1,0 +1,68 @@
+{
+  "address": "1577 SCHLEY STREET HILLSIDE NJ 07205",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00444219",
+  "current_status": "Cancelled",
+  "defendant": "EUGENE HAWKINS, INDIVIDUALY AND AS EXECUTOR OF THE ESTATE OF EVA HAWKINS A/K/A EVA M. HAWKINS; UNION COUNTY MULTI JURISDICTIONAL REHABILITATION PROGRAM; NEW CENTURY FINANCIAL SERVICES; DARYL HAWKINS A/K/A DARYL DARYL ELAINE HAWKINS A/K/A DARYL E. HAWKINS A/K/A EDWARD HAWKINS; GREATE BAY HOTEL AND CASINO T/A SANDS HOTEL AND CASINO; COUNTRY EDUCATORS FEDCRED UNION; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "LOT 7 BLOCK 305",
+  "extracted": {
+    "block": "305",
+    "lot": "7"
+  },
+  "fields": {
+    "Address": "1577 SCHLEY STREET\nHILLSIDE NJ 07205",
+    "Approx. Upset*": "$582,448.65",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00444219",
+    "Defendant": "EUGENE HAWKINS, INDIVIDUALY AND AS EXECUTOR OF THE ESTATE OF EVA HAWKINS A/K/A EVA M. HAWKINS; UNION COUNTY MULTI JURISDICTIONAL REHABILITATION PROGRAM; NEW CENTURY FINANCIAL SERVICES; DARYL HAWKINS A/K/A DARYL DARYL ELAINE HAWKINS A/K/A DARYL E. HAWKINS A/K/A EDWARD HAWKINS; GREATE BAY HOTEL AND CASINO T/A SANDS HOTEL AND CASINO; COUNTRY EDUCATORS FEDCRED UNION; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "LOT 7 BLOCK 305",
+    "Parcel #": "LOT 7 BLOCK 305",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES I TRUST",
+    "Property Note": "",
+    "Sales Date": "11/13/2025",
+    "Sheriff #": "CH-23002734"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1577 SCHLEY STREET HILLSIDE NJ 07205",
+    "defendant": "EUGENE HAWKINS, INDIVIDUALY AND AS EXECUTOR OF THE ESTATE OF EVA HAWKINS A/K/A EVA M. HAWKINS; UNION COUNTY MULTI JURISDICTIONAL REHABILITATION PROGRAM; NEW CENTURY FINANCIAL SERVICES; DARYL HAWKINS A/K/A DARYL DARYL ELAINE HAWKINS A/K/A DARYL E. HAWKINS A/K/A EDWARD HAWKINS; GREATE BAY HOTEL AND CASINO T/A SANDS HOTEL AND CASINO; COUNTRY EDUCATORS FEDCRED UNION; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES I TRUST",
+    "sale_date": "2025-11-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 7 BLOCK 305",
+  "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES I TRUST",
+  "property_note": null,
+  "sale_date": "2025-11-13",
+  "sheriff_number": "CH-23002734",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-01-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-02-28",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-03-27",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-03-27",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 582448.65,
+  "upset_amount_label": "Approx. Upset*"
+}

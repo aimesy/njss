@@ -1,0 +1,60 @@
+{
+  "address": "6 WAYNE Avenue Cape May Court House NJ 08210",
+  "attorney": "Ras Citron, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-575-0707",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-004140-25",
+  "current_status": "Settled",
+  "defendant": "PAUL THOMAS GASS, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$104,401.03",
+    "Attorney": "Ras Citron, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-004140-25",
+    "Defendant": "PAUL THOMAS GASS, ET AL",
+    "Description": "",
+    "Minimum Bid": "$116,000.00",
+    "Parcel #": "LOT 3, BLOCK 56.05",
+    "Plaintiff": "**SETTLED**SELENE FINANCE, LP",
+    "Property Address": "6 WAYNE Avenue\nCape May Court House NJ 08210",
+    "Property Note": "",
+    "Sale Date": "12/10/2025",
+    "Sheriff #": "F-25000318"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 104401.03,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 WAYNE Avenue Cape May Court House NJ 08210",
+    "defendant": "PAUL THOMAS GASS, ET AL",
+    "listing_status": null,
+    "plaintiff": "**SETTLED**SELENE FINANCE, LP",
+    "sale_date": "2025-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 3, BLOCK 56.05",
+  "plaintiff": "**SETTLED**SELENE FINANCE, LP",
+  "property_note": null,
+  "sale_date": "2025-12-10",
+  "sheriff_number": "F-25000318",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-12-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 116000.0,
+  "upset_amount_label": "Minimum Bid"
+}

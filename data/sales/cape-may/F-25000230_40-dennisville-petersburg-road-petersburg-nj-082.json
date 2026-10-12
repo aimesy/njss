@@ -1,0 +1,68 @@
+{
+  "address": "40 DENNISVILLE PETERSBURG Road Petersburg NJ 08270",
+  "attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-007577-24",
+  "current_status": "Scheduled",
+  "defendant": "KATRINA N DORE, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$255,008.27",
+    "Attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-007577-24",
+    "Defendant": "KATRINA N DORE, ET AL",
+    "Description": "",
+    "Minimum Bid": "$276,700.00",
+    "Parcel #": "LOT 16.04, BLOCK 476",
+    "Plaintiff": "**BANKRUPTCY HOLD**NATIONSTAR MORTGAGE LLC",
+    "Property Address": "40 DENNISVILLE PETERSBURG Road\nPetersburg NJ 08270",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25000230"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 255008.27,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40 DENNISVILLE PETERSBURG Road Petersburg NJ 08270",
+    "defendant": "KATRINA N DORE, ET AL",
+    "listing_status": null,
+    "plaintiff": "**BANKRUPTCY HOLD**NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 16.04, BLOCK 476",
+  "plaintiff": "**BANKRUPTCY HOLD**NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25000230",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 276700.0,
+  "upset_amount_label": "Minimum Bid"
+}

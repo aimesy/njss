@@ -1,0 +1,58 @@
+{
+  "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+  "attorney": "K&L Gates, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002708-24",
+  "current_status": "Scheduled",
+  "deed": "Wyndham Vacation Resorts, Inc",
+  "deed_address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+  "defendant": "Mark Hesselton; Michael Daum and Alcira Marquez; Ramprasad Anne and Manju Paladugu; Scott Ervin and Tracy Ervin",
+  "extracted": {},
+  "fields": {
+    "Address": "100 South North Carolina Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$63,944.80",
+    "Attorney": "K&L Gates, LLP",
+    "Court Case #": "F-002708-24",
+    "Deed": "Wyndham Vacation Resorts, Inc",
+    "Deed Address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+    "Defendant": "Mark Hesselton; Michael Daum and Alcira Marquez; Ramprasad Anne and Manju Paladugu; Scott Ervin and Tracy Ervin",
+    "Plaintiff": "Wyndham Vacation Resorts, Inc. f/k/a Fairfield Resorts, Inc",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: Property is not vacant, tenant-occupied or owner occupied but instead is a timeshare vacation property",
+    "Sales Date": "1/16/2025",
+    "Sheriff #": "F-24001505",
+    "Upset Amount": "$8,680.28"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 63944.8,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+    "defendant": "Mark Hesselton; Mich...",
+    "listing_status": null,
+    "plaintiff": "Wyndham Vacation Res...",
+    "sale_date": "2025-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wyndham Vacation Resorts, Inc. f/k/a Fairfield Resorts, Inc",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: Property is not vacant, tenant-occupied or owner occupied but instead is a timeshare vacation property",
+  "sale_date": "2025-01-16",
+  "sheriff_number": "F-24001505",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-16",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 8680.28,
+  "upset_amount_label": "Upset Amount"
+}

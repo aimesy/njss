@@ -1,0 +1,85 @@
+{
+  "address": "3 Rand Court Marlboro NJ 07746-2215",
+  "attorney": "Stern & Eisenberg",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02047816",
+  "current_status": "Scheduled",
+  "defendant": "Thomas Mondello, et al.",
+  "description": "Dimensions: 120ft x 170ft\nNearest Cross Street: MITCHELL COURT\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.",
+  "extracted": {},
+  "fields": {
+    "Address": "3 Rand Court\nMarlboro NJ 07746-2215",
+    "Approx. Judgment*": "$737,589.65",
+    "Attorney": "Stern & Eisenberg",
+    "Court Case #": "F02047816",
+    "Defendant": "Thomas Mondello, et al.",
+    "Description": "Dimensions: 120ft x 170ft\nNearest Cross Street: MITCHELL COURT\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.",
+    "Parcel #": "LOT 185, BLOCK 225 Tax Map of the Township of Marlboro",
+    "Plaintiff": "JPMorgan Chase Bank, National Association",
+    "Property Note": "",
+    "Sales Date": "3/19/2026",
+    "Sheriff #": "FOR-19001292"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 737589.65,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 Rand Court Marlboro NJ 07746-2215",
+    "defendant": "Thomas Mondello, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "JPMorgan Chase Bank, National Association",
+    "sale_date": "2026-03-19"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "LOT 185, BLOCK 225 Tax Map of the Township of Marlboro",
+  "plaintiff": "JPMorgan Chase Bank, National Association",
+  "property_note": null,
+  "sale_date": "2026-03-19",
+  "sheriff_number": "FOR-19001292",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-19",
+      "status": "Canceled"
+    },
+    {
+      "date": "2020-01-21",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2020-01-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2019-12-09",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2019-11-12",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2019-10-15",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2019-09-16",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2019-08-19",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2019-07-15",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2019-06-10",
+      "status": "Scheduled"
+    }
+  ]
+}

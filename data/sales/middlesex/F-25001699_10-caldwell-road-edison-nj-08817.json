@@ -1,0 +1,64 @@
+{
+  "address": "10 CALDWELL ROAD EDISON NJ 08817",
+  "attorney": "KML LAW GROUP P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01224622",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "MARTHA J. CONNOR A/K/A MARTHA CONNOR",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$380,823.20",
+    "Attorney": "KML LAW GROUP P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F01224622",
+    "Defendant": "MARTHA J. CONNOR A/K/A MARTHA CONNOR",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 43 BLOCK 1114",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR TOWD POINT MORTGAGE TRUST ASSET-BACKED SCURITIES, SERIES 2015-1",
+    "Property Address": "10 CALDWELL ROAD\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "10/29/2025",
+    "Sheriff #": "F-25001699"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 380823.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 CALDWELL ROAD EDISON NJ 08817",
+    "defendant": "MARTHA J. CONNOR A/K/A MARTHA CONNOR",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR TOWD POINT MORTGAGE TRUST ASSET-BACKED SCURITIES, SERIES 2015-1",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 43 BLOCK 1114",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR TOWD POINT MORTGAGE TRUST ASSET-BACKED SCURITIES, SERIES 2015-1",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25001699",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

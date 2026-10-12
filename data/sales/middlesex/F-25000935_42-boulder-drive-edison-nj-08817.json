@@ -1,0 +1,68 @@
+{
+  "address": "42 BOULDER DRIVE EDISON NJ 08817",
+  "attorney": "PLUESE BECKER SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00523524",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ALLAN W. ARAMBULO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$201,223.87",
+    "Attorney": "PLUESE BECKER SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00523524",
+    "Defendant": "ALLAN W. ARAMBULO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP4",
+    "Property Address": "42 BOULDER DRIVE\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "7/7/2026",
+    "Sheriff #": "F-25000935"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 201223.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "42 BOULDER DRIVE EDISON NJ 08817",
+    "defendant": "ALLAN W. ARAMBULO, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP4",
+    "sale_date": "2026-07-07"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP4",
+  "property_note": null,
+  "sale_date": "2026-07-07",
+  "sheriff_number": "F-25000935",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-07-07",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

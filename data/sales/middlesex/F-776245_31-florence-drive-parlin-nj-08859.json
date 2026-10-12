@@ -1,0 +1,64 @@
+{
+  "address": "31 FLORENCE DRIVE PARLIN NJ 08859",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00079120",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JOHN ISHOLA, ET ALS.",
+  "description": "SUCCESSFULLY POSTED 10/02/2023 BY MARKGRAF",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$474,518.86",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F00079120",
+    "Defendant": "JOHN ISHOLA, ET ALS.",
+    "Description": "SUCCESSFULLY POSTED 10/02/2023 BY MARKGRAF",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 263 BLOCK 442.10",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BANC OF AMERICA FUNDING CORPORATION, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-G",
+    "Property Address": "31 FLORENCE DRIVE\nPARLIN NJ 08859",
+    "Property Note": "",
+    "Sale Date": "7/23/2025",
+    "Sheriff #": "F-776245"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 474518.86,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 FLORENCE DRIVE PARLIN NJ 08859",
+    "defendant": "JOHN ISHOLA, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BANC OF AMERICA FUNDING CORPORATION, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-G",
+    "sale_date": "2025-07-23"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 263 BLOCK 442.10",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BANC OF AMERICA FUNDING CORPORATION, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-G",
+  "property_note": null,
+  "sale_date": "2025-07-23",
+  "sheriff_number": "F-776245",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-07-23",
+      "status": "Settled"
+    },
+    {
+      "date": "2023-12-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2023-12-06",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

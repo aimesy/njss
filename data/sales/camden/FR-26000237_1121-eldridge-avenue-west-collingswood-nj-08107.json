@@ -1,0 +1,53 @@
+{
+  "address": "1121 ELDRIDGE AVENUE WEST COLLINGSWOOD NJ 08107",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00346824",
+  "current_status": "Scheduled",
+  "defendant": "DESIREE ANNE SHERWOOD N/K/A DESIREE ANNE BAGNELL; WILLIAM PAUL BAGNELL; PETRO HEATING & OIL SERVICES AND SOUTH JERSEY RADIOLOGY,",
+  "extracted": {},
+  "fields": {
+    "Address": "1121 ELDRIDGE AVENUE\nWEST COLLINGSWOOD NJ 08107",
+    "Approx. Upset*": "$203,142.70",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00346824",
+    "Defendant": "DESIREE ANNE SHERWOOD N/K/A DESIREE ANNE BAGNELL;\nWILLIAM PAUL BAGNELL; PETRO HEATING & OIL SERVICES\nAND SOUTH JERSEY RADIOLOGY,",
+    "Parcel #": "",
+    "Plaintiff": "CITIMORTGAGE. INC.,",
+    "Property Note": "",
+    "Sales Date": "4/21/2026",
+    "Sheriff #": "FR-26000237"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1121 ELDRIDGE AVENUE WEST COLLINGSWOOD NJ 08107",
+    "defendant": "DESIREE ANNE SHERWOOD N/K/A DESIREE ANNE BAGNELL; \nWILLIAM PAUL BAGNELL; PETRO HEATING & OIL SERVICES \nAND SOUTH JERSEY RADIOLOGY,",
+    "listing_status": null,
+    "plaintiff": "CITIMORTGAGE. INC.,",
+    "sale_date": "2026-04-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIMORTGAGE. INC.,",
+  "property_note": null,
+  "sale_date": "2026-04-21",
+  "sheriff_number": "FR-26000237",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-21",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 203142.7,
+  "upset_amount_label": "Approx. Upset*"
+}

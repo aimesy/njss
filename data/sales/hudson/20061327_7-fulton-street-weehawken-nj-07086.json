@@ -1,0 +1,84 @@
+{
+  "address": "7 FULTON STREET WEEHAWKEN NJ 07086",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011067-24",
+  "current_status": "Adjourned - Plaintiff - New Sale Date:",
+  "defendant": "THOMAS J. WALL, ESQ., EXECUTOR OF THE ESTATE OF RENE F. RACLI, ET AL.",
+  "description": "BLOCK 56 LOT 8.02\nDIMENSIONS OF LOT (APPROXIMATELY): 50X100\nNEAREST CROSS STREET: JFK BVLD E\nAPPROX UPSET PRICE - $1,290,182.68\nPROPERTY STATUS - VACANT\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNERS ASSOCIATION LIENS WHICH MAY EXIST.",
+  "extracted": {
+    "block": "56",
+    "lot": "8.02",
+    "upset_amount": 1290182.68
+  },
+  "fields": {
+    "Address": "7 FULTON STREET\nWEEHAWKEN NJ 07086",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F-011067-24",
+    "Defendant": "THOMAS J. WALL, ESQ., EXECUTOR OF THE ESTATE OF RENE F. RACLI, ET AL.",
+    "Description": "BLOCK 56 LOT 8.02\nDIMENSIONS OF LOT (APPROXIMATELY): 50X100\nNEAREST CROSS STREET: JFK BVLD E\nAPPROX UPSET PRICE - $1,290,182.68\nPROPERTY STATUS - VACANT\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNERS ASSOCIATION LIENS WHICH MAY EXIST.",
+    "Good Faith Upset*": "$1,290,182.68",
+    "Judgment": "$1,194,199.33",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF FINANCE OF AMERICA SELECT MASTER TRUST",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20061327"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1194199.33,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "7 FULTON STREET WEEHAWKEN NJ 07086",
+    "defendant": "THOMAS J. WALL, ESQ., EXECUTOR OF THE ESTATE OF RENE F. RACLI, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF FINANCE OF AMERICA SELECT MASTER TRUST",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF FINANCE OF AMERICA SELECT MASTER TRUST",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20061327",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-03-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    }
+  ],
+  "upset_amount": 1290182.68,
+  "upset_amount_label": "Good Faith Upset*"
+}

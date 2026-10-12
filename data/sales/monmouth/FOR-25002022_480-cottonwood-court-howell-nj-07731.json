@@ -1,0 +1,57 @@
+{
+  "address": "480 Cottonwood Court Howell NJ 07731",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F116025",
+  "current_status": "Scheduled",
+  "defendant": "Marion F. Connelly, et al",
+  "description": "Dimensions of lot Approximately: 34 x 115\nNearest Cross Street: Laurelwood Court\nBEGINNING at a point in the Northerly line of Cottonwood Court said point being in the dividing line between lot 170.32 and Lot 170.33 in Block 138 as shown on the above referenced map and running; thence\nPRIOR LIENS/ENCUMBRANCES\nTOTAL AS OF October 14, 2025:\nGood faith estimate of upset price: $369,283.84\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+  "extracted": {
+    "block": "138",
+    "lot": "Approximately",
+    "upset_amount": 369283.84
+  },
+  "fields": {
+    "Address": "480 Cottonwood Court\nHowell NJ 07731",
+    "Approx. Judgment*": "$333,871.12",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F116025",
+    "Defendant": "Marion F. Connelly, et al",
+    "Description": "Dimensions of lot Approximately: 34 x 115\nNearest Cross Street: Laurelwood Court\nBEGINNING at a point in the Northerly line of Cottonwood Court said point being in the dividing line between lot 170.32 and Lot 170.33 in Block 138 as shown on the above referenced map and running; thence\nPRIOR LIENS/ENCUMBRANCES\nTOTAL AS OF October 14, 2025:\nGood faith estimate of upset price: $369,283.84\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+    "Parcel #": "Tax Lot No. 170.33 in Block No. 138.08 Tax Map Township of Howell",
+    "Plaintiff": "U.S. Bank Trust National Association, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUSITION TRUST",
+    "Property Note": "",
+    "Sales Date": "12/8/2025",
+    "Sheriff #": "FOR-25002022"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 333871.12,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "480 Cottonwood Court Howell NJ 07731",
+    "defendant": "Marion F. Connelly, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "U.S. Bank Trust National Association, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUSITION TRUST",
+    "sale_date": "2025-12-08"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 170.33 in Block No. 138.08 Tax Map Township of Howell",
+  "plaintiff": "U.S. Bank Trust National Association, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUSITION TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-08",
+  "sheriff_number": "FOR-25002022",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-12-08",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Scheduled"
+    }
+  ]
+}

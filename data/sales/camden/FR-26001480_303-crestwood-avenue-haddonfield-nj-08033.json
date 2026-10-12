@@ -1,0 +1,53 @@
+{
+  "address": "303 CRESTWOOD AVENUE HADDONFIELD NJ 08033",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+  "attorney_phone": "(973) 797-1100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00920525",
+  "current_status": "Scheduled",
+  "defendant": "JOHN R. MORLINO; MARY MORLINO, HIS WIFE AND UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "303 CRESTWOOD AVENUE\nHADDONFIELD NJ 08033",
+    "Approx. Upset*": "$270,349.38",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+    "Attorney Phone": "(973) 797-1100",
+    "Court Case #": "F00920525",
+    "Defendant": "JOHN R. MORLINO; MARY MORLINO, HIS WIFE AND UNITED STATES OF AMERICA",
+    "Parcel #": "Block 17.04, Lot 9.",
+    "Plaintiff": "FLAGSTAR BANK, N.A.",
+    "Property Note": "Prior lien(s): 2026 (1 ST & 2ND QUARTER) TAXES past due in the approx. amount of $5,572.54\nWATER/SEWER ACCOUNT past due in the approx. amount of $662.29\nCCMUA ACCOUNT past due in the approx. amount of $327.49",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26001480"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "303 CRESTWOOD AVENUE HADDONFIELD NJ 08033",
+    "defendant": "JOHN R. MORLINO; MARY MORLINO, HIS WIFE AND UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "FLAGSTAR BANK, N.A.",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 17.04, Lot 9.",
+  "plaintiff": "FLAGSTAR BANK, N.A.",
+  "property_note": "Prior lien(s): 2026 (1 ST & 2ND QUARTER) TAXES past due in the approx. amount of $5,572.54\nWATER/SEWER ACCOUNT past due in the approx. amount of $662.29\nCCMUA ACCOUNT past due in the approx. amount of $327.49",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26001480",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-06",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 270349.38,
+  "upset_amount_label": "Approx. Upset*"
+}

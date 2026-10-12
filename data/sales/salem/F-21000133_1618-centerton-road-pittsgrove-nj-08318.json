@@ -1,0 +1,48 @@
+{
+  "address": "1618 Centerton Road Pittsgrove NJ 08318",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-006454-20",
+  "current_status": "Cancelled",
+  "defendant": "Andrew Zarin, Jr.; Patricia Anne Zarin a/k/a Patricia Zarin; Beneficial New Jersey Inc. d/b/a Beneficial Mortgage Co.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "1618 Centerton Road\nPittsgrove NJ 08318",
+    "Court Case #": "F-006454-20",
+    "Defendant": "Andrew Zarin, Jr.; Patricia Anne Zarin a/k/a Patricia Zarin; Beneficial New Jersey Inc. d/b/a Beneficial Mortgage Co.",
+    "Description": "",
+    "Plaintiff": "Deutsche Bank National Trust Company, as Trustee for Morgan Stanley ABS Capital I Inc. Trust 2003-NC8",
+    "Sales Date": "05/22/2026 02:00 PM",
+    "Sheriff #": "F-21000133"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1618 Centerton Road Pittsgrove NJ 08318",
+    "defendant": "Andrew Zarin, Jr.; Patricia Anne Zarin a/k/a Patricia Zarin; Beneficial New Jersey Inc. d/b/a Beneficial Mortgage Co.",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank National Trust Company, as Trustee for Morgan Stanley ABS Capital I Inc. Trust 2003-NC8",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company, as Trustee for Morgan Stanley ABS Capital I Inc. Trust 2003-NC8",
+  "sale_date": null,
+  "sheriff_number": "F-21000133",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

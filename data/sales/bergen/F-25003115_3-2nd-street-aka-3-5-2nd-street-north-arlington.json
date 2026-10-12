@@ -1,0 +1,73 @@
+{
+  "address": "3 2ND STREET AKA 3-5 2ND STREET NORTH ARLINGTON NJ 07031",
+  "attorney": "STERN LAVINTHAL AND FRANKENBERG LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00747825",
+  "current_status": "BANKRUPTCY",
+  "defendant": "IRBIN HUMBERTO GARCIA; MARIA F. ZUNIGA, HIS WIFE, ET AL.",
+  "description": "THE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS 12/8/2025 IS $574,267.05.\nPROPERTY IS OCCUPIED BY UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "3 2ND STREET\nAKA 3-5 2ND STREET\nNORTH ARLINGTON NJ 07031",
+    "Approx. Upset*": "$545,125.56",
+    "Attorney": "STERN LAVINTHAL AND FRANKENBERG LLC",
+    "Court Case #": "F00747825",
+    "Defendant": "IRBIN HUMBERTO GARCIA; MARIA F. ZUNIGA, HIS WIFE, ET AL.",
+    "Description": "THE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS 12/8/2025 IS $574,267.05.\nPROPERTY IS OCCUPIED BY UNKNOWN.",
+    "Parcel #": "LOT 13, BLOCK 159",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "8/11/2026",
+    "Sheriff #": "F-25003115"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3 2ND STREET AKA 3-5 2ND STREET NORTH ARLINGTON NJ 07031",
+    "defendant": "IRBIN HUMBERTO GARCIA; MARIA F. ZUNIGA, HIS WIFE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-08-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 13, BLOCK 159",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-08-11",
+  "sheriff_number": "F-25003115",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-02-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-10",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-05-08",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Joint"
+    },
+    {
+      "date": "2026-07-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-08-11",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 545125.56,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "46 West Secluded Lane Rio Grande NJ 08242",
+  "attorney": "FEIN, SUCH, KAHN, & SHEPARD, P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "973-538-4700",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-10950-18",
+  "current_status": "Scheduled",
+  "defendant": "John G. Goch, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$198,627.25",
+    "Attorney": "FEIN, SUCH, KAHN, & SHEPARD, P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "973-538-4700",
+    "Court Case #": "F-10950-18",
+    "Defendant": "John G. Goch, ET AL",
+    "Description": "",
+    "Minimum Bid": "$225,037.90",
+    "Parcel #": "LOT 10 FKA 13, BLOCK 1411",
+    "Plaintiff": "**CANCELLED**PENNYMAC LOAN SERVICES, LLC",
+    "Property Address": "46 West Secluded Lane\nRio Grande NJ 08242",
+    "Property Note": "",
+    "Sale Date": "4/9/2026",
+    "Sheriff #": "F-24000242"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 198627.25,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "46 West Secluded Lane Rio Grande NJ 08242",
+    "defendant": "John G. Goch, ET AL",
+    "listing_status": null,
+    "plaintiff": "**CANCELLED**PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-04-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 10 FKA 13, BLOCK 1411",
+  "plaintiff": "**CANCELLED**PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-04-09",
+  "sheriff_number": "F-24000242",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2026-04-09",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-08-07",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2024-08-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 225037.9,
+  "upset_amount_label": "Minimum Bid"
+}

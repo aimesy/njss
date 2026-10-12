@@ -1,0 +1,74 @@
+{
+  "address": "296 Wheat Road Buena NJ 08310",
+  "attorney": "Goldenberg, Mackler, Sayegh, Mintz, Pfeffer, Bonchi & Gill",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-013410-23 AMENDED",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jonathan Stevens",
+  "extracted": {},
+  "fields": {
+    "Address": "296 Wheat Road\nBuena NJ 08310",
+    "Approx. Judgment*": "$90,072.52",
+    "Attorney": "Goldenberg, Mackler, Sayegh, Mintz, Pfeffer, Bonchi & Gill",
+    "Court Case #": "F-013410-23 AMENDED",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jonathan Stevens",
+    "Plaintiff": "Aulcove Properties, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: ABANDONED COMMERCIAL PROPERTY",
+    "Sales Date": "10/17/2024",
+    "Sheriff #": "F-24000714",
+    "Upset Amount": "$102,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 90072.52,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "296 Wheat Road Buena NJ 08310",
+    "defendant": "Jonathan Stevens...",
+    "listing_status": null,
+    "plaintiff": "Aulcove Properties, ...",
+    "sale_date": "2024-10-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Aulcove Properties, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: ABANDONED COMMERCIAL PROPERTY",
+  "sale_date": "2024-10-17",
+  "sheriff_number": "F-24000714",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-10-17",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-09-19",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-08-22",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-07-25",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 102000.0,
+  "upset_amount_label": "Upset Amount"
+}

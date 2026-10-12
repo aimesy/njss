@@ -1,0 +1,88 @@
+{
+  "address": "75 HARMON STREET JERSEY CITY NJ 07304",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-034091-16",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "DOROTHY GREEN; UNITED STATES OF AMERICA",
+  "description": "TAX LOT 15 FKA 17 BLOCK 18705 FKA 1940\nDIMENSIONS OF LOT: 20X108.19 IRR\nNEAREST CROSS STREET: CRESCENT AVENUE\nESTIMATED UPSET BID AMOUNT: $553,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN\n2026 QTR 3 DUE: 08/01/2026 $1,927.55 OPEN\nWATER: VEOLIA WATER NEW JERSEY - JCMUA 500 FRANK W. BURR BLVD. TEANECK, NJ 07666 800-422-5987 ACCT: 30302635440000 TO: 08/05/2026 $2,361.49 OPEN",
+  "extracted": {
+    "block": "18705",
+    "lot": "15",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "75 HARMON STREET\nJERSEY CITY NJ 07304",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-034091-16",
+    "Defendant": "DOROTHY GREEN; UNITED STATES OF AMERICA",
+    "Description": "TAX LOT 15 FKA 17 BLOCK 18705 FKA 1940\nDIMENSIONS OF LOT: 20X108.19 IRR\nNEAREST CROSS STREET: CRESCENT AVENUE\nESTIMATED UPSET BID AMOUNT: $553,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN\n2026 QTR 3 DUE: 08/01/2026 $1,927.55 OPEN\nWATER: VEOLIA WATER NEW JERSEY - JCMUA 500 FRANK W. BURR BLVD. TEANECK, NJ 07666 800-422-5987 ACCT: 30302635440000 TO: 08/05/2026 $2,361.49 OPEN",
+    "Good Faith Upset*": "$553,000.00",
+    "Judgment": "$433,316.41",
+    "Plaintiff": "OCEANFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "11/5/2026",
+    "Sheriff #": "20050620"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 433316.41,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "75 HARMON STREET JERSEY CITY NJ 07304",
+    "defendant": "DOROTHY GREEN; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "OCEANFIRST BANK",
+    "sale_date": "2026-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "OCEANFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-11-05",
+  "sheriff_number": "20050620",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2023-04-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-04-27",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2023-05-11",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2023-09-21",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2023-10-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2023-10-18",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 553000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

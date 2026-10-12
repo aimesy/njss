@@ -1,0 +1,60 @@
+{
+  "address": "16 LAKESIDE DRIVE SOUTH PISCATAWAY NJ 08854",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-867-4541",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F1984019",
+  "current_status": "Bankruptcy",
+  "defendant": "FRANCIS T. KELLY, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$411,659.48",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-867-4541",
+    "Court Case #": "F1984019",
+    "Defendant": "FRANCIS T. KELLY, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 25.01 BLOCK 7914 FKA 654",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2018-1",
+    "Property Address": "16 LAKESIDE DRIVE SOUTH\nPISCATAWAY NJ 08854",
+    "Property Note": "SUCCESSFULLY POSTED 10/02/2023 AREA 4 BY R. WALKO",
+    "Sale Date": "12/20/2024",
+    "Sheriff #": "F-776233"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 411659.48,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "16 LAKESIDE DRIVE SOUTH PISCATAWAY NJ 08854",
+    "defendant": "FRANCIS T. KELLY, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2018-1",
+    "sale_date": "2024-12-20"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 25.01 BLOCK 7914 FKA 654",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2018-1",
+  "property_note": "SUCCESSFULLY POSTED 10/02/2023 AREA 4 BY R. WALKO",
+  "sale_date": "2024-12-20",
+  "sheriff_number": "F-776233",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-12-20",
+      "status": "Settled"
+    },
+    {
+      "date": "2023-11-08",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

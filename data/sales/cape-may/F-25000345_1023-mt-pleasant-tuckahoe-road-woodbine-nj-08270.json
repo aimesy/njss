@@ -1,0 +1,60 @@
+{
+  "address": "1023 MT PLEASANT-TUCKAHOE Road Woodbine NJ 08270",
+  "attorney": "Ras Citron, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-575-0707",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-005342-25",
+  "current_status": "Settled",
+  "defendant": "JEFFREY J SCHNELL, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$243,365.71",
+    "Attorney": "Ras Citron, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-005342-25",
+    "Defendant": "JEFFREY J SCHNELL, ET AL",
+    "Description": "",
+    "Minimum Bid": "$268,000.00",
+    "Parcel #": "LOT 4.07, BLOCK 414",
+    "Plaintiff": "**SETTLED**U.S. BANK NATIONAL ASSOCIATION",
+    "Property Address": "1023 MT PLEASANT-TUCKAHOE Road\nWoodbine NJ 08270",
+    "Property Note": "",
+    "Sale Date": "1/7/2026",
+    "Sheriff #": "F-25000345"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 243365.71,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1023 MT PLEASANT-TUCKAHOE Road Woodbine NJ 08270",
+    "defendant": "JEFFREY J SCHNELL, ET AL",
+    "listing_status": null,
+    "plaintiff": "**SETTLED**U.S. BANK NATIONAL ASSOCIATION",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 4.07, BLOCK 414",
+  "plaintiff": "**SETTLED**U.S. BANK NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25000345",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-01",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 268000.0,
+  "upset_amount_label": "Minimum Bid"
+}

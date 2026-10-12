@@ -1,0 +1,64 @@
+{
+  "address": "1512 Van Houten Avenue Clifton NJ 07013-2343",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 002666 20 CTL#163059",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "ANTHONY TEDESCO ET ALS",
+  "description": "Dimensions of Lot: 57 feet wide by 129 feet long\nNearest Cross Street: Kozy Ln\nEstimated upset bid amount: $642,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\nSewer: Clifton City 900 Clifton Ave. Clifton, NJ 07013 973-470-5833 Acct: 104430 0 07/01/2025 - 12/31/2025 $127.66 OPEN AND DUE 09/10/2025 $127.66 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton, NJ 07011 973-340-4300 Acct: 0151527-039686 To: 08/15/2025 $1,264.18 OPEN PLUS PENALTY.",
+  "extracted": {
+    "lot": "57",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "1512 Van Houten Avenue\nClifton NJ 07013-2343",
+    "Approx. Upset*": "$529,356.08",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 002666 20 CTL#163059",
+    "Defendant": "ANTHONY TEDESCO ET ALS",
+    "Description": "Dimensions of Lot: 57 feet wide by 129 feet long\nNearest Cross Street: Kozy Ln\nEstimated upset bid amount: $642,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\nSewer: Clifton City 900 Clifton Ave. Clifton, NJ 07013 973-470-5833 Acct: 104430 0 07/01/2025 - 12/31/2025 $127.66 OPEN AND DUE 09/10/2025 $127.66 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton, NJ 07011 973-340-4300 Acct: 0151527-039686 To: 08/15/2025 $1,264.18 OPEN PLUS PENALTY.",
+    "Parcel #": "Tax LOT 72 BLOCK 32.02",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, ETC.",
+    "Property Note": "",
+    "Sales Date": "2/10/2026",
+    "Sheriff #": "F-25001562"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1512 Van Houten Avenue Clifton NJ 07013-2343",
+    "defendant": "ANTHONY TEDESCO ET ALS",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, ETC.",
+    "sale_date": "2026-02-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax LOT 72 BLOCK 32.02",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, ETC.",
+  "property_note": null,
+  "sale_date": "2026-02-10",
+  "sheriff_number": "F-25001562",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-12-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-10",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 529356.08,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,79 @@
+{
+  "address": "580 Patten Avenue Unit 52 Long Branch NJ 07740",
+  "attorney": "McGovern Legal Services, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00083122",
+  "current_status": "Scheduled",
+  "defendant": "Michael Rubel and Marion Rubel",
+  "description": "The property to be sold consists of the tract described below and as more particularly described in the description to the Writ of Execution on file with the Sheriff of Monmouth County pursuant to which this sale is being held.\nFINAL UPSET PRICE: $33,187.54\nUpon information and belief., the premises is owner-occupied (choose one which is applicable)",
+  "extracted": {
+    "upset_amount": 33187.54
+  },
+  "fields": {
+    "Address": "580 Patten Avenue\nUnit 52\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$31,187.54",
+    "Attorney": "McGovern Legal Services, LLC",
+    "Court Case #": "F00083122",
+    "Defendant": "Michael Rubel and Marion Rubel",
+    "Description": "The property to be sold consists of the tract described below and as more particularly described in the description to the Writ of Execution on file with the Sheriff of Monmouth County pursuant to which this sale is being held.\nFINAL UPSET PRICE: $33,187.54\nUpon information and belief., the premises is owner-occupied (choose one which is applicable)",
+    "Parcel #": "Tax Lot 9.52, Block 489 Tax Map of City of Long Branch",
+    "Plaintiff": "Marina Bay Club Condominium Association, Inc.",
+    "Property Note": "",
+    "Sales Date": "10/31/2024",
+    "Sheriff #": "FOR-22001635"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 31187.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "580 Patten Avenue Unit 52 Long Branch NJ 07740",
+    "defendant": "Michael Rubel and Marion Rubel",
+    "listing_status": "Reinstated",
+    "plaintiff": "Marina Bay Club Condominium Association, Inc.",
+    "sale_date": "2024-10-31"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 9.52, Block 489 Tax Map of City of Long Branch",
+  "plaintiff": "Marina Bay Club Condominium Association, Inc.",
+  "property_note": null,
+  "sale_date": "2024-10-31",
+  "sheriff_number": "FOR-22001635",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-10-31",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-03-06",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-03-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-12-12",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-12-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-11-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-10-17",
+      "status": "Scheduled"
+    }
+  ]
+}

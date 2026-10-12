@@ -1,0 +1,57 @@
+{
+  "address": "28 VAN RIPER AVENUE ELMWOOD PARK NJ 07407",
+  "attorney": "LEOPOLD AND ASSOCIATES PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01033624",
+  "current_status": "Cancelled",
+  "defendant": "DOMINGA D. LUNA; ANNE A. ARCILA, ET AL.",
+  "description": "THE ESTIMATED UPSET AMOUNT AT TIME OF SALE IS $247,936.93 WHICH AMOUNT IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONTETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION.\nUPON INFORMATION AND BELIEF, PROPERTY IS CURRENTLY OWNER OCCUPIED.",
+  "extracted": {},
+  "fields": {
+    "Address": "28 VAN RIPER AVENUE\nELMWOOD PARK NJ 07407",
+    "Approx. Upset*": "$240,680.60",
+    "Attorney": "LEOPOLD AND ASSOCIATES PLLC",
+    "Court Case #": "F01033624",
+    "Defendant": "DOMINGA D. LUNA; ANNE A. ARCILA, ET AL.",
+    "Description": "THE ESTIMATED UPSET AMOUNT AT TIME OF SALE IS $247,936.93 WHICH AMOUNT IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONTETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION.\nUPON INFORMATION AND BELIEF, PROPERTY IS CURRENTLY OWNER OCCUPIED.",
+    "Parcel #": "LOT 4, BLOCK 1016",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE ON BEHALF OF AND WITH RESPECT TO AJAX MORTGAGE LOAN TRUST 2022-B, MORTGAGE-BACKED SECURITIES, SERIES 2022-B",
+    "Property Note": "",
+    "Sales Date": "1/5/2026",
+    "Sheriff #": "F-25002081"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "28 VAN RIPER AVENUE ELMWOOD PARK NJ 07407",
+    "defendant": "DOMINGA D. LUNA; ANNE A. ARCILA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE ON BEHALF OF AND WITH RESPECT TO AJAX MORTGAGE LOAN TRUST 2022-B, MORTGAGE-BACKED SECURITIES, SERIES 2022-B",
+    "sale_date": "2026-01-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 4, BLOCK 1016",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE ON BEHALF OF AND WITH RESPECT TO AJAX MORTGAGE LOAN TRUST 2022-B, MORTGAGE-BACKED SECURITIES, SERIES 2022-B",
+  "property_note": null,
+  "sale_date": "2026-01-05",
+  "sheriff_number": "F-25002081",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 240680.6,
+  "upset_amount_label": "Approx. Upset*"
+}

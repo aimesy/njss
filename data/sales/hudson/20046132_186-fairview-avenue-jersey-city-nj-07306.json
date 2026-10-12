@@ -1,0 +1,108 @@
+{
+  "address": "186 FAIRVIEW AVENUE JERSEY CITY NJ 07306",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-023445-14",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "ALAA A. IBRAHIM; ET AL",
+  "description": "TAX LOT(S): 53 F/K/A 15, IN BLOCK: 16302 F/K/A 1825\nDIMENSIONS (APPROX.): 25 X 132\nNEAREST CROSS STREET: WEST SIDE AVE.\nTax Certificate\nRecorded: January 17, 2006\nAmount: $216.87\nBook: 13899\nPage: 235\nInstrument Number Cert No. 2005-1737\nTax Certificate\nRecorded: January 29, 2014\nAmount: $2,020.74\nBook: 18305\nPage: 422\nInstrument Number: Cert No. 2013-1086\nTax Certificate\nRecorded: February 24, 2020\nAmount: $973.52\nBook: 19562\nPage: 566\nInstrument Number: Cert No. 2019-1153\nJudgment\nRecorded: May 22, 2008\nHolder: Amin, Rinku\nAmount: $45,125.92\nInstrument Number: J-125850-2008\nJudgment\nRecorded: May 22, 2008\nHolder: Amin, Rajendra\nAmount: $45,125.92\nInstrument Number: J-125850-2008\nJudgment\nRecorded: December 29, 2009\nHolder: Ramiro & Silva LLC\nAmount: $33,435.75\nInstrument Number: J-314655-2009\nJudgment\nRecorded: January 21, 2010\nHolder: Ramiro & Silva LLC\nAmount: $33,435.75\nInstrument Number: J-022016-2010\nJudgment\nRecorded: March 07, 2011\nHolder: ELAVON INC\nAmount: $4,183.44\nInstrument Number: DJ-068876-2011\nGood Faith Estimated Upset Price: $412,816.06\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "block": "16302",
+    "occupancy": "Owner Occupied",
+    "upset_amount": 412816.06
+  },
+  "fields": {
+    "Address": "186 FAIRVIEW AVENUE\nJERSEY CITY NJ 07306",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-023445-14",
+    "Defendant": "ALAA A. IBRAHIM; ET AL",
+    "Description": "TAX LOT(S): 53 F/K/A 15, IN BLOCK: 16302 F/K/A 1825\nDIMENSIONS (APPROX.): 25 X 132\nNEAREST CROSS STREET: WEST SIDE AVE.\nTax Certificate\nRecorded: January 17, 2006\nAmount: $216.87\nBook: 13899\nPage: 235\nInstrument Number Cert No. 2005-1737\nTax Certificate\nRecorded: January 29, 2014\nAmount: $2,020.74\nBook: 18305\nPage: 422\nInstrument Number: Cert No. 2013-1086\nTax Certificate\nRecorded: February 24, 2020\nAmount: $973.52\nBook: 19562\nPage: 566\nInstrument Number: Cert No. 2019-1153\nJudgment\nRecorded: May 22, 2008\nHolder: Amin, Rinku\nAmount: $45,125.92\nInstrument Number: J-125850-2008\nJudgment\nRecorded: May 22, 2008\nHolder: Amin, Rajendra\nAmount: $45,125.92\nInstrument Number: J-125850-2008\nJudgment\nRecorded: December 29, 2009\nHolder: Ramiro & Silva LLC\nAmount: $33,435.75\nInstrument Number: J-314655-2009\nJudgment\nRecorded: January 21, 2010\nHolder: Ramiro & Silva LLC\nAmount: $33,435.75\nInstrument Number: J-022016-2010\nJudgment\nRecorded: March 07, 2011\nHolder: ELAVON INC\nAmount: $4,183.44\nInstrument Number: DJ-068876-2011\nGood Faith Estimated Upset Price: $412,816.06\nOccupancy Status: Owner Occupied",
+    "Good Faith Upset*": "$412,816.06",
+    "Judgment": "$298,278.79",
+    "Plaintiff": "FEDERAL NATIONAL MORTGAGE ASSOCIATION (\"FANNIE MAE\"), A CORPORATION ORGANIZED AND EXISTING UNDER THE LAWS OF THE UNITED STATES OF AMERICA",
+    "Property Note": "",
+    "Sales Date": "9/10/2026",
+    "Sheriff #": "20046132"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 298278.79,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "186 FAIRVIEW AVENUE JERSEY CITY NJ 07306",
+    "defendant": "ALAA A. IBRAHIM; ET AL",
+    "listing_status": null,
+    "plaintiff": "FEDERAL NATIONAL MORTGAGE ASSOCIATION (\"FANNIE MAE\"), A CORPORATION ORGANIZED AND EXISTING UNDER THE LAWS OF THE UNITED STATES OF AMERICA",
+    "sale_date": "2026-09-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "FEDERAL NATIONAL MORTGAGE ASSOCIATION (\"FANNIE MAE\"), A CORPORATION ORGANIZED AND EXISTING UNDER THE LAWS OF THE UNITED STATES OF AMERICA",
+  "property_note": null,
+  "sale_date": "2026-09-10",
+  "sheriff_number": "20046132",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2022-01-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-02-17",
+      "status": "ADJOURNED SHERIFF - New Sale Date:"
+    },
+    {
+      "date": "2022-03-17",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2022-04-28",
+      "status": "Adjourned - Defendant 2nd (4 WEEKS)"
+    },
+    {
+      "date": "2022-05-12",
+      "status": "ADJOURNED SHERIFF - New Sale Date:"
+    },
+    {
+      "date": "2022-05-26",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2022-06-23",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2022-07-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2022-07-20",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-07-30",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 412816.06,
+  "upset_amount_label": "Good Faith Upset*"
+}

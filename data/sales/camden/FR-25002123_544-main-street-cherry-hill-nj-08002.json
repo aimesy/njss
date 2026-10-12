@@ -1,0 +1,53 @@
+{
+  "address": "544 MAIN STREET CHERRY HILL NJ 08002",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+  "attorney_phone": "(973) 797-1100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01281624",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "EID A. ABDALLA; MRS. EID A. ABDALLA, HIS WIFE UNITED STATES OF AMERICAN; CATHLEEN WALD ; PETRO HEATING OIL AND SERVICES",
+  "extracted": {},
+  "fields": {
+    "Address": "544 MAIN STREET\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$299,228.81",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+    "Attorney Phone": "(973) 797-1100",
+    "Court Case #": "F01281624",
+    "Defendant": "EID A. ABDALLA; MRS. EID A. ABDALLA, HIS WIFE UNITED STATES OF AMERICAN;\nCATHLEEN WALD ; PETRO HEATING OIL AND SERVICES",
+    "Parcel #": "",
+    "Plaintiff": "NATIONAL STAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25002123"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "544 MAIN STREET CHERRY HILL NJ 08002",
+    "defendant": "EID A. ABDALLA; MRS. EID A. ABDALLA, HIS WIFE UNITED STATES OF AMERICAN; \n CATHLEEN WALD ; PETRO HEATING OIL AND SERVICES",
+    "listing_status": null,
+    "plaintiff": "NATIONAL STAR MORTGAGE LLC",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NATIONAL STAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25002123",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 299228.81,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,65 @@
+{
+  "address": "290 SOUTH ROUTE 73 HAMMONTON NJ 08037",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "(856) 858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00774324",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "LYDIA LIBERTO, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "290 SOUTH ROUTE 73\nHAMMONTON NJ 08037",
+    "Approx. Upset*": "$125,576.58",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "(856) 858-7080",
+    "Court Case #": "F00774324",
+    "Defendant": "LYDIA LIBERTO, ET AL.",
+    "Parcel #": "BLOCK 6901, LOT 1",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "10/6/2026",
+    "Sheriff #": "FR-26001283"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "290 SOUTH ROUTE 73 HAMMONTON NJ 08037",
+    "defendant": "LYDIA LIBERTO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2026-10-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 6901, LOT 1",
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-10-06",
+  "sheriff_number": "FR-26001283",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 125576.58,
+  "upset_amount_label": "Approx. Upset*"
+}

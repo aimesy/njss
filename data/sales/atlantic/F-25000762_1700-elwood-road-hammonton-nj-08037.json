@@ -1,0 +1,58 @@
+{
+  "address": "1700 Elwood Road Hammonton NJ 08037",
+  "attorney": "Hladik, Onorato & Federman, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002736-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Susan M. LeClair; Mr. or Mrs. LeClair, the Spouse, Domestic Partner, Civil Union Partner of Susan M. LeClair; John Todd",
+  "extracted": {},
+  "fields": {
+    "Address": "1700 Elwood Road\nHammonton NJ 08037",
+    "Approx. Judgment*": "$134,566.65",
+    "Attorney": "Hladik, Onorato & Federman, LLP",
+    "Court Case #": "F-002736-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Susan M. LeClair; Mr. or Mrs. LeClair, the Spouse, Domestic Partner, Civil Union Partner of Susan M. LeClair; John Todd",
+    "Plaintiff": "Citibank, N.A. not in its individual capacity but solely as Owner Trustee of New Residential Mortgage Loan Trust 2019-RPL3",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "9/11/2025",
+    "Sheriff #": "F-25000762",
+    "Upset Amount": "$153,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 134566.65,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1700 Elwood Road Hammonton NJ 08037",
+    "defendant": "Susan M. LeClair; Mr...",
+    "listing_status": null,
+    "plaintiff": "Citibank, N.A. not i...",
+    "sale_date": "2025-09-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Citibank, N.A. not in its individual capacity but solely as Owner Trustee of New Residential Mortgage Loan Trust 2019-RPL3",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-09-11",
+  "sheriff_number": "F-25000762",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-11",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-09-11",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 153000.0,
+  "upset_amount_label": "Upset Amount"
+}

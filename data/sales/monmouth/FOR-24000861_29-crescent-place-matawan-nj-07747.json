@@ -1,0 +1,67 @@
+{
+  "address": "29 Crescent Place Matawan NJ 07747",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00074423",
+  "current_status": "Scheduled",
+  "defendant": "John Certo et al",
+  "description": "Approximate Dimensions: 237.07 x 80.00 x 45.68 x 173.88 x 87.46\nNearest Cross Street: Nish Routh No. 34\nUPSET PRICE $122,057.00\nOCCUPANCY STATUS UNKNOWN\nSubject to: 2024 2nd Quarter in the amount of $4,158.86 open, First Mortgage in the amount of $320,000.00 recorded on 02/23/2004\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "upset_amount": 122057.0
+  },
+  "fields": {
+    "Address": "29 Crescent Place\nMatawan NJ 07747",
+    "Approx. Judgment*": "$110,090.40",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00074423",
+    "Defendant": "John Certo et al",
+    "Description": "Approximate Dimensions: 237.07 x 80.00 x 45.68 x 173.88 x 87.46\nNearest Cross Street: Nish Routh No. 34\nUPSET PRICE $122,057.00\nOCCUPANCY STATUS UNKNOWN\nSubject to: 2024 2nd Quarter in the amount of $4,158.86 open, First Mortgage in the amount of $320,000.00 recorded on 02/23/2004\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "Lot 7.02 (Formerly Lot 7.2) Block 110 on the tax map of The Borough of Matawan",
+    "Plaintiff": "The Bank of New York Mellon f/k/a The Bank of New York as successor Indenture trustee to JP Morgan Chase Bank, National Association for CWHEQ Revolving Home Equity Loan Trust, Series 2005-C",
+    "Property Note": "",
+    "Sales Date": "12/27/2024",
+    "Sheriff #": "FOR-24000861"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 110090.4,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "29 Crescent Place Matawan NJ 07747",
+    "defendant": "John Certo et al",
+    "listing_status": "Canceled",
+    "plaintiff": "The Bank of New York Mellon f/k/a The Bank of New York as successor Indenture trustee to JP Morgan Chase Bank, National Association for CWHEQ Revolving Home Equity Loan Trust, Series 2005-C",
+    "sale_date": "2024-12-27"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 7.02 (Formerly Lot 7.2) Block 110 on the tax map of The Borough of Matawan",
+  "plaintiff": "The Bank of New York Mellon f/k/a The Bank of New York as successor Indenture trustee to JP Morgan Chase Bank, National Association for CWHEQ Revolving Home Equity Loan Trust, Series 2005-C",
+  "property_note": null,
+  "sale_date": "2024-12-27",
+  "sheriff_number": "FOR-24000861",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-27",
+      "status": "Canceled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Scheduled"
+    }
+  ]
+}

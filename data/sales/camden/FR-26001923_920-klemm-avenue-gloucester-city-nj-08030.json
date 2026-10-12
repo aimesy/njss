@@ -1,0 +1,57 @@
+{
+  "address": "920 KLEMM AVENUE GLOUCESTER CITY NJ 08030",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00015026",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "STACEY L. STEWART A/K/A STACEY LYNNE STEWART, HEIR AND AS EXECUTRIX OF THE ESTATE OF BARBARA WAMBOLD, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "920 KLEMM AVENUE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$101,315.38",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00015026",
+    "Defendant": "STACEY L. STEWART A/K/A STACEY LYNNE STEWART, HEIR\nAND AS EXECUTRIX OF THE ESTATE OF BARBARA WAMBOLD, ET AL.",
+    "Parcel #": "Tax Lot: 16\nTax Block: 262",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "Priority Tax Lien Holder: AMERICAN TAX LIEN FUND LLC holds Tax sale Certificate No. 26-00255 in the amount of $879.44 as of 01/15/2026.\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "FR-26001923"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "920 KLEMM AVENUE GLOUCESTER CITY NJ 08030",
+    "defendant": "STACEY L. STEWART A/K/A STACEY LYNNE STEWART, HEIR \nAND AS EXECUTRIX OF THE ESTATE OF BARBARA WAMBOLD, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot: 16 Tax Block: 262",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "Priority Tax Lien Holder: AMERICAN TAX LIEN FUND LLC holds Tax sale Certificate No. 26-00255 in the amount of $879.44 as of 01/15/2026.\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "FR-26001923",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 101315.38,
+  "upset_amount_label": "Approx. Upset*"
+}

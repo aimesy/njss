@@ -1,0 +1,78 @@
+{
+  "address": "113 South Washington Street Hammonton NJ 08037",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009671-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "David Dorfman a/k/a David M. Dorfman; Wendy Dorfman a/k/a Wendy L. Dorfman; Sherry J. Dorfman; Sherry L. Ferguson; Capital One Bank; U.S. Bank Trust, N.A., As Trustee For LSF9 Master Participation Trust",
+  "extracted": {},
+  "fields": {
+    "Address": "113 South Washington Street\nHammonton NJ 08037",
+    "Approx. Judgment*": "$262,371.25",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-009671-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "David Dorfman a/k/a David M. Dorfman; Wendy Dorfman a/k/a Wendy L. Dorfman; Sherry J. Dorfman; Sherry L. Ferguson; Capital One Bank; U.S. Bank Trust, N.A., As Trustee For LSF9 Master Participation Trust",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER",
+    "Sales Date": "2/5/2026",
+    "Sheriff #": "F-24000621",
+    "Upset Amount": "$313,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 262371.25,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "113 South Washington Street Hammonton NJ 08037",
+    "defendant": "David Dorfman a/k/a ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2026-02-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER",
+  "sale_date": "2026-02-05",
+  "sheriff_number": "F-24000621",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-05",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 313500.0,
+  "upset_amount_label": "Upset Amount"
+}

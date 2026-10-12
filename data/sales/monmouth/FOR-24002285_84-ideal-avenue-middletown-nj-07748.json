@@ -1,0 +1,67 @@
+{
+  "address": "84 Ideal Avenue Middletown NJ 07748",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00576524",
+  "current_status": "Scheduled",
+  "defendant": "Michael Rivera, et al.",
+  "description": "Dimensions: 50X100\nNearest Cross Street: Hudson Avenue\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: Occupied by Mortgagor\nPlaintiff's good faith estimate of its upset price is: $210,549.85\nSubject to Tax Sale December 18, 2024, in the amount of $1,464.24 plus penalties and interest for open sewer.",
+  "extracted": {
+    "upset_amount": 210549.85
+  },
+  "fields": {
+    "Address": "84 Ideal Avenue\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$193,377.32",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F00576524",
+    "Defendant": "Michael Rivera, et al.",
+    "Description": "Dimensions: 50X100\nNearest Cross Street: Hudson Avenue\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: Occupied by Mortgagor\nPlaintiff's good faith estimate of its upset price is: $210,549.85\nSubject to Tax Sale December 18, 2024, in the amount of $1,464.24 plus penalties and interest for open sewer.",
+    "Parcel #": "Lot 11, Block 13 Tax Map of Middletown Township",
+    "Plaintiff": "Wells Fargo Bank N.A.",
+    "Property Note": "",
+    "Sales Date": "6/13/2025",
+    "Sheriff #": "FOR-24002285"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 193377.32,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "84 Ideal Avenue Middletown NJ 07748",
+    "defendant": "Michael Rivera, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Wells Fargo Bank N.A.",
+    "sale_date": "2025-06-13"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 11, Block 13 Tax Map of Middletown Township",
+  "plaintiff": "Wells Fargo Bank N.A.",
+  "property_note": null,
+  "sale_date": "2025-06-13",
+  "sheriff_number": "FOR-24002285",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-13",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "address": "53 SYLVAN Terrace Wayne NJ 07470",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000018 25 CTL#163031",
+  "current_status": "Cancelled",
+  "defendant": "CHOWDHURY MEDIA & MARKETING LLC, ET AL",
+  "description": "Approximate Dimensions: 105.00' X 150.00'\nNearest Cross Street: Woodstock Drive\nThe Plaintiff's upset bid presently approximates $502,700.00\nOccupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "53 SYLVAN Terrace\nWayne NJ 07470",
+    "Approx. Upset*": "$470,900.05",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC.",
+    "Court Case #": "F 000018 25 CTL#163031",
+    "Defendant": "CHOWDHURY MEDIA & MARKETING LLC, ET AL",
+    "Description": "Approximate Dimensions: 105.00' X 150.00'\nNearest Cross Street: Woodstock Drive\nThe Plaintiff's upset bid presently approximates $502,700.00\nOccupancy Status: Unknown",
+    "Parcel #": "TAX LOT 15 BLOCK 1833",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS THE TRUSTEE OF IMPERIAL FUND MORTGAGE TRUST 2022-NQM5",
+    "Property Note": "",
+    "Sales Date": "1/12/2026",
+    "Sheriff #": "F-25001434"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "53 SYLVAN Terrace Wayne NJ 07470",
+    "defendant": "CHOWDHURY MEDIA & MARKETING LLC, ET AL",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS THE TRUSTEE OF IMPERIAL FUND MORTGAGE TRUST 2022-NQM5",
+    "sale_date": "2026-01-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 15 BLOCK 1833",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS THE TRUSTEE OF IMPERIAL FUND MORTGAGE TRUST 2022-NQM5",
+  "property_note": null,
+  "sale_date": "2026-01-12",
+  "sheriff_number": "F-25001434",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 470900.05,
+  "upset_amount_label": "Approx. Upset*"
+}

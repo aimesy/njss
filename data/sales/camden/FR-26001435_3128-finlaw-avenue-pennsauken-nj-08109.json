@@ -1,0 +1,61 @@
+{
+  "address": "3128 FINLAW AVENUE PENNSAUKEN NJ 08109",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00965125",
+  "current_status": "Defendant Adjournment",
+  "defendant": "DANIEL L. KREBER, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "3128 FINLAW AVENUE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$304,013.24",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00965125",
+    "Defendant": "DANIEL L. KREBER, ET AL.",
+    "Parcel #": "TAX LOT: 11 TAX BLOCK 3203",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "Priority Tax Lien Holder: FIG 20, LLC FBO SEC PTY holds Tax Sale Certificate No. 25-00189 in the amount of $633.10 + Subsequent Charges in the amount of $160.66 in total of $793.76 as of 10/07/2025.",
+    "Sales Date": "10/6/2026",
+    "Sheriff #": "FR-26001435"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3128 FINLAW AVENUE PENNSAUKEN NJ 08109",
+    "defendant": "DANIEL L. KREBER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-10-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 11 TAX BLOCK 3203",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "Priority Tax Lien Holder: FIG 20, LLC FBO SEC PTY holds Tax Sale Certificate No. 25-00189 in the amount of $633.10 + Subsequent Charges in the amount of $160.66 in total of $793.76 as of 10/07/2025.",
+  "sale_date": "2026-10-06",
+  "sheriff_number": "FR-26001435",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 304013.24,
+  "upset_amount_label": "Approx. Upset*"
+}

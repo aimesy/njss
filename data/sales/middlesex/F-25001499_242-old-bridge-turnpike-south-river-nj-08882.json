@@ -1,0 +1,63 @@
+{
+  "address": "242 OLD BRIDGE TURNPIKE SOUTH RIVER NJ 08882",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00020625",
+  "current_status": "Adjourned - Court",
+  "defendant": "MARIO VARGAS, JR. AKA MARIO E. VARGAS, ET ALS.",
+  "description": "LOT 7 BLOCK 176",
+  "extracted": {
+    "block": "176",
+    "lot": "7"
+  },
+  "fields": {
+    "Approx. Judgment*": "$200,363.57",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00020625",
+    "Defendant": "MARIO VARGAS, JR. AKA MARIO E. VARGAS, ET ALS.",
+    "Description": "LOT 7 BLOCK 176",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BC3",
+    "Property Address": "242 OLD BRIDGE TURNPIKE\nSOUTH RIVER NJ 08882",
+    "Property Note": "",
+    "Sale Date": "8/20/2025",
+    "Sheriff #": "F-25001499"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 200363.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "242 OLD BRIDGE TURNPIKE SOUTH RIVER NJ 08882",
+    "defendant": "MARIO VARGAS, JR. AKA MARIO E. VARGAS, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BC3",
+    "sale_date": "2025-08-20"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BC3",
+  "property_note": null,
+  "sale_date": "2025-08-20",
+  "sheriff_number": "F-25001499",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

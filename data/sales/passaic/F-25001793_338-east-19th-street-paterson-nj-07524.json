@@ -1,0 +1,49 @@
+{
+  "address": "338 EAST 19TH Street Paterson NJ 07524",
+  "attorney": "GREENSPOON MARDER",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000286 25 CTL # 163095",
+  "current_status": "Cancelled",
+  "defendant": "CHARITY VEAL, ET AL.",
+  "description": "Dimensions of lot (approximately) 37x100\nNearest Cross Street: Greenwood 8th Ave\nThe Plaintiffs Good Faith Estimate is $202,256.55. The upset amount may be subject to further orders of additional sums.\nThe current occupancy status is occupied.",
+  "extracted": {},
+  "fields": {
+    "Address": "338 EAST 19TH Street\nPaterson NJ 07524",
+    "Approx. Upset*": "$198,525.29",
+    "Attorney": "GREENSPOON MARDER",
+    "Court Case #": "F 000286 25 CTL # 163095",
+    "Defendant": "CHARITY VEAL, ET AL.",
+    "Description": "Dimensions of lot (approximately) 37x100\nNearest Cross Street: Greenwood 8th Ave\nThe Plaintiffs Good Faith Estimate is $202,256.55. The upset amount may be subject to further orders of additional sums.\nThe current occupancy status is occupied.",
+    "Parcel #": "Tax Lot 23 Block 2702",
+    "Plaintiff": "OCEANFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "12/19/2025",
+    "Sheriff #": "F-25001793"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "338 EAST 19TH Street Paterson NJ 07524",
+    "defendant": "CHARITY VEAL, ET AL.",
+    "listing_status": null,
+    "plaintiff": "OCEANFIRST BANK",
+    "sale_date": "2025-12-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 23 Block 2702",
+  "plaintiff": "OCEANFIRST BANK",
+  "property_note": null,
+  "sale_date": "2025-12-19",
+  "sheriff_number": "F-25001793",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-12-19",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 198525.29,
+  "upset_amount_label": "Approx. Upset*"
+}

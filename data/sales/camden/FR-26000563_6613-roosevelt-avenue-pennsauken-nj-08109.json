@@ -1,0 +1,53 @@
+{
+  "address": "6613 ROOSEVELT AVENUE PENNSAUKEN NJ 08109",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00821524",
+  "current_status": "Scheduled",
+  "defendant": "ALLEN JONES AND THE STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "6613 ROOSEVELT AVENUE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$161,519.96",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00821524",
+    "Defendant": "ALLEN JONES AND THE STATE OF NEW JERSEY,",
+    "Parcel #": "LOT 4 FKA 8.A, BLOCK 5836 FKA 407",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "TAX SALE CERTIFICATE NO. 25-00.74 IN THE AMOUNT OF $1,156.19",
+    "Sales Date": "5/28/2026",
+    "Sheriff #": "FR-26000563"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "6613 ROOSEVELT AVENUE PENNSAUKEN NJ 08109",
+    "defendant": "ALLEN JONES AND THE STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-05-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 4 FKA 8.A, BLOCK 5836 FKA 407",
+  "plaintiff": "M&T BANK",
+  "property_note": "TAX SALE CERTIFICATE NO. 25-00.74 IN THE AMOUNT OF $1,156.19",
+  "sale_date": "2026-05-28",
+  "sheriff_number": "FR-26000563",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-28",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 161519.96,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,69 @@
+{
+  "address": "167 WALNUT STREET TEANECK NJ 07666",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00668224",
+  "current_status": "BANKRUPTCY",
+  "defendant": "CLYDE GOINS, HIS HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; MILDRED G GOINS, HIS HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ET AL",
+  "description": "THE APPROXIMATE UPSET SUM IS $344,959.55 CALCULATED THROUGH APRIL 4, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "167 WALNUT STREET\nTEANECK NJ 07666",
+    "Approx. Upset*": "$323,219.01",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F00668224",
+    "Defendant": "CLYDE GOINS, HIS HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; MILDRED G GOINS, HIS HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ET AL",
+    "Description": "THE APPROXIMATE UPSET SUM IS $344,959.55 CALCULATED THROUGH APRIL 4, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 3, BLOCK 3305",
+    "Plaintiff": "WELLS FARGO BANK, NA",
+    "Property Note": "",
+    "Sales Date": "12/4/2025",
+    "Sheriff #": "F-25000976"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "167 WALNUT STREET TEANECK NJ 07666",
+    "defendant": "CLYDE GOINS, HIS HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; MILDRED G GOINS, HIS HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ET AL",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, NA",
+    "sale_date": "2025-12-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, BLOCK 3305",
+  "plaintiff": "WELLS FARGO BANK, NA",
+  "property_note": null,
+  "sale_date": "2025-12-04",
+  "sheriff_number": "F-25000976",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-06-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-18",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-09-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 323219.01,
+  "upset_amount_label": "Approx. Upset*"
+}

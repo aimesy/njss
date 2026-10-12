@@ -1,0 +1,72 @@
+{
+  "address": "430 Division Street Long Branch NJ 07740",
+  "attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01194424",
+  "current_status": "Scheduled",
+  "defendant": "Michael J. Scalzo et als.",
+  "description": "Dimensions: Approximately: 50X178\nUpset Price: Approximately: $251,376.47 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Exchange Place\nBEGINNING AT A POINT THE SOUTHEASTERLY LINE OF DIVISION STREET SAID POINT BEING DISTANT 99.00 FEET SOUTHWESTERLY FROM THE INTERSECTION OF THE SAME AND THE SOUTHWESTERLY LINE OF EXCHANGE PLACE; THENCE (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 11/11/2025; 2026 Qtr. 1 Due: 02/01/2026 $1,992.00 OPEN. Sewer Acct: 4443 0 10/01/2025-12/31/2025 $92.00 OPEN PLUS PENALTY. Water: PRIVATE-NJ American Water Co. P.O BOX 371331 PITTSBURGH, PA 15250 800 652 6987. Liens: Year: 2024 Type: 3RD PARTY SEWER Amount: $662.60 Cert No.: 25-00090 Sold: 09/16/2025 To: PRO CAP 8 FBO FIRSTRUST BANK Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54. New owner must obtain tax bill from Tax Office.",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 251376.47
+  },
+  "fields": {
+    "Address": "430 Division Street\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$248,571.55",
+    "Attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+    "Court Case #": "F01194424",
+    "Defendant": "Michael J. Scalzo et als.",
+    "Description": "Dimensions: Approximately: 50X178\nUpset Price: Approximately: $251,376.47 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Exchange Place\nBEGINNING AT A POINT THE SOUTHEASTERLY LINE OF DIVISION STREET SAID POINT BEING DISTANT 99.00 FEET SOUTHWESTERLY FROM THE INTERSECTION OF THE SAME AND THE SOUTHWESTERLY LINE OF EXCHANGE PLACE; THENCE (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 11/11/2025; 2026 Qtr. 1 Due: 02/01/2026 $1,992.00 OPEN. Sewer Acct: 4443 0 10/01/2025-12/31/2025 $92.00 OPEN PLUS PENALTY. Water: PRIVATE-NJ American Water Co. P.O BOX 371331 PITTSBURGH, PA 15250 800 652 6987. Liens: Year: 2024 Type: 3RD PARTY SEWER Amount: $662.60 Cert No.: 25-00090 Sold: 09/16/2025 To: PRO CAP 8 FBO FIRSTRUST BANK Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54. New owner must obtain tax bill from Tax Office.",
+    "Parcel #": "Lot and Block: Lot 12, Block 182 on the official Tax Map of the Township of Long Branch.",
+    "Plaintiff": "The Bank of New York Mellon,",
+    "Property Note": "",
+    "Sales Date": "5/11/2026",
+    "Sheriff #": "FOR-25002238"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 248571.55,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "430 Division Street Long Branch NJ 07740",
+    "defendant": "Michael J. Scalzo et als.",
+    "listing_status": "Canceled",
+    "plaintiff": "The Bank of New York Mellon,",
+    "sale_date": "2026-05-11"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 12, Block 182 on the official Tax Map of the Township of Long Branch.",
+  "plaintiff": "The Bank of New York Mellon,",
+  "property_note": null,
+  "sale_date": "2026-05-11",
+  "sheriff_number": "FOR-25002238",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-05-11",
+      "status": "Canceled"
+    },
+    {
+      "date": "2026-05-11",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Scheduled"
+    }
+  ]
+}

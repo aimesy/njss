@@ -1,0 +1,62 @@
+{
+  "address": "15 Lighthouse Court Unit F, Building 27 Atlantic City NJ 08401",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-032843-15 PLURIES",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Anita Spratley, The Cove at Gardner's Basin Condominium Association, Inc. and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "15 Lighthouse Court\nUnit F, Building 27\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$240,580.41",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "F-032843-15 PLURIES",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Anita Spratley, The Cove at Gardner's Basin Condominium Association, Inc. and United States of America",
+    "Plaintiff": "Nationstar HECM Acquisition Trust 2015-1, Wilmington Savings Fund Society, FSB, Not Individually, But Solely as Trustee",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "9/23/2025",
+    "Sheriff #": "F-19001657",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 240580.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "15 Lighthouse Court Unit F, Building 27 Atlantic City NJ 08401",
+    "defendant": "Anita Spratley, The ...",
+    "listing_status": null,
+    "plaintiff": "Nationstar HECM Acqu...",
+    "sale_date": "2025-09-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar HECM Acquisition Trust 2015-1, Wilmington Savings Fund Society, FSB, Not Individually, But Solely as Trustee",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2025-09-23",
+  "sheriff_number": "F-19001657",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-23",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-01-25",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-01-25",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

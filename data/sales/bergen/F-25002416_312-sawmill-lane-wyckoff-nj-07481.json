@@ -1,0 +1,76 @@
+{
+  "address": "312 SAWMILL LANE WYCKOFF NJ 07481",
+  "attorney": "STERN AND EISENBERG PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01190024",
+  "current_status": "Redeemed",
+  "defendant": "KEVIN CASSIDY A/K/A KEVIN M CASSIDY; MRS CASSIDY, UNKNOWN SPOUSE OF KEVIN CASSIDY A/K/A KEVIN M CASSIDY; DEBORAH D CASSIDY; ET AL",
+  "description": "UPSET PRICE: $518,511.06, GOOD THROUGH FEBRUARY 9, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+  "extracted": {
+    "occupancy": "OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "upset_amount": 518511.06
+  },
+  "fields": {
+    "Address": "312 SAWMILL LANE\nWYCKOFF NJ 07481",
+    "Approx. Upset*": "$471,020.50",
+    "Attorney": "STERN AND EISENBERG PC",
+    "Court Case #": "F01190024",
+    "Defendant": "KEVIN CASSIDY A/K/A KEVIN M CASSIDY; MRS CASSIDY, UNKNOWN SPOUSE OF KEVIN CASSIDY A/K/A KEVIN M CASSIDY; DEBORAH D CASSIDY; ET AL",
+    "Description": "UPSET PRICE: $518,511.06, GOOD THROUGH FEBRUARY 9, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 59, BLOCK 354",
+    "Plaintiff": "EVERBANK, N.A. F/K/A TIAA FSB F/K/A EVERBANK",
+    "Property Note": "",
+    "Sales Date": "5/11/2026",
+    "Sheriff #": "F-25002416"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "312 SAWMILL LANE WYCKOFF NJ 07481",
+    "defendant": "KEVIN CASSIDY A/K/A KEVIN M CASSIDY; MRS CASSIDY, UNKNOWN SPOUSE OF KEVIN CASSIDY A/K/A KEVIN M CASSIDY; DEBORAH D CASSIDY; ET AL",
+    "listing_status": null,
+    "plaintiff": "EVERBANK, N.A. F/K/A TIAA FSB F/K/A EVERBANK",
+    "sale_date": "2026-05-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 59, BLOCK 354",
+  "plaintiff": "EVERBANK, N.A. F/K/A TIAA FSB F/K/A EVERBANK",
+  "property_note": null,
+  "sale_date": "2026-05-11",
+  "sheriff_number": "F-25002416",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-04-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-01",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-11",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 471020.5,
+  "upset_amount_label": "Approx. Upset*"
+}

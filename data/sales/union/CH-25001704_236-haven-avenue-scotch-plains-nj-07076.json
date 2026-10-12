@@ -1,0 +1,60 @@
+{
+  "address": "236 HAVEN AVENUE SCOTCH PLAINS NJ 07076",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00614016",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "WILMA J. LOCKHART, MR. WILMA J. LOCKHART, HUSBAND OF WILMA J. LOCKHART, UNITED STATES OF AMERICA, AND NEW CENTURY FINANCIAL SERVICES",
+  "description": "LOT 18 BLOCK 705",
+  "extracted": {
+    "block": "705",
+    "lot": "18"
+  },
+  "fields": {
+    "Address": "236 HAVEN AVENUE\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$295,260.13",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F00614016",
+    "Defendant": "WILMA J. LOCKHART, MR. WILMA J. LOCKHART, HUSBAND OF WILMA J. LOCKHART, UNITED STATES OF AMERICA, AND NEW CENTURY FINANCIAL SERVICES",
+    "Description": "LOT 18 BLOCK 705",
+    "Parcel #": "LOT 18 BLOCK 705",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC D/B/A CHAMPION MORTGAGE COMPANY",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "CH-25001704"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "236 HAVEN AVENUE SCOTCH PLAINS NJ 07076",
+    "defendant": "WILMA J. LOCKHART, MR. WILMA J. LOCKHART, HUSBAND OF WILMA J. LOCKHART, UNITED STATES OF AMERICA, AND NEW CENTURY FINANCIAL SERVICES",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC D/B/A CHAMPION MORTGAGE COMPANY",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 18 BLOCK 705",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC D/B/A CHAMPION MORTGAGE COMPANY",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "CH-25001704",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-06",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 295260.13,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,68 @@
+{
+  "address": "1453 LAMBERT STREET RAHWAY NJ 07065",
+  "attorney": "GROSS POLOWY, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01020924",
+  "current_status": "Redeemed",
+  "defendant": "GOLDIE HOROWITZ",
+  "description": "BLOCK 195 LOT 16",
+  "extracted": {
+    "block": "195",
+    "lot": "16"
+  },
+  "fields": {
+    "Address": "1453 LAMBERT STREET\nRAHWAY NJ 07065",
+    "Approx. Upset*": "$423,723.34",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Court Case #": "F01020924",
+    "Defendant": "GOLDIE HOROWITZ",
+    "Description": "BLOCK 195 LOT 16",
+    "Parcel #": "BLOCK 195 LOT 16",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "2/25/2026",
+    "Sheriff #": "CH-25002342"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1453 LAMBERT STREET RAHWAY NJ 07065",
+    "defendant": "GOLDIE HOROWITZ",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-02-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "BLOCK 195 LOT 16",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-25",
+  "sheriff_number": "CH-25002342",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 423723.34,
+  "upset_amount_label": "Approx. Upset*"
+}

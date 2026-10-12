@@ -1,0 +1,60 @@
+{
+  "address": "291 COLUMBUS PLACE NEW BRUNSWICK NJ 08901",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00591318",
+  "current_status": "Bankruptcy",
+  "defendant": "TAMI HOWARD-SANDERS AKA TAMI HOWARD SANDERS, ET ALS",
+  "description": "SUCCESSFULLY POSTED 04/17/2023 BY JEFF BUKSAR",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$305,846.17",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00591318",
+    "Defendant": "TAMI HOWARD-SANDERS AKA TAMI HOWARD SANDERS, ET ALS",
+    "Description": "SUCCESSFULLY POSTED 04/17/2023 BY JEFF BUKSAR",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 5.01 FKA LOTS 5 AND 6 BLOCK 261",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE UNDER SECURITIZATION SERVICING AGREEMENT DATED AS OF FEBRUARY 1, 2007 STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BC2",
+    "Property Address": "291 COLUMBUS PLACE\nNEW BRUNSWICK NJ 08901",
+    "Property Note": "CHAPTER 13 BK CASE NO. 23-14348 FILED 05/22/2023",
+    "Sale Date": "7/7/2026",
+    "Sheriff #": "F-776020"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 305846.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "291 COLUMBUS PLACE NEW BRUNSWICK NJ 08901",
+    "defendant": "TAMI HOWARD-SANDERS AKA TAMI HOWARD SANDERS, ET ALS",
+    "listing_status": "Cancelled",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE UNDER SECURITIZATION SERVICING AGREEMENT DATED AS OF FEBRUARY 1, 2007 STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BC2",
+    "sale_date": "2026-07-07"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 5.01 FKA LOTS 5 AND 6 BLOCK 261",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE UNDER SECURITIZATION SERVICING AGREEMENT DATED AS OF FEBRUARY 1, 2007 STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BC2",
+  "property_note": "CHAPTER 13 BK CASE NO. 23-14348 FILED 05/22/2023",
+  "sale_date": "2026-07-07",
+  "sheriff_number": "F-776020",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-07-07",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-05-24",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

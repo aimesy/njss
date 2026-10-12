@@ -1,0 +1,71 @@
+{
+  "address": "11 Elm Drive Neptune NJ 07753",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00926522",
+  "current_status": "Scheduled",
+  "defendant": "Deirdre A. Matthews F/K/A Deirdre A. Mahon A/K/A Deirdre Mahon A/K/A Deirdre A. Matthews-Mahon",
+  "description": "Dimensions of the Lot are (Approximately) 75 x 100 x 75 x 100\nNearest Cross Street: Hamilton-Glendola Road\nThe approximate upset sum is $434,986.57 calculated through October 25, 2024, plus any additional advance, interest, Sheriff’s cost and commissions to the date of sale.\nThe occupancy states of the subject property is unknown.\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "11 Elm Drive\nNeptune NJ 07753",
+    "Approx. Judgment*": "$399,094.59",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F00926522",
+    "Defendant": "Deirdre A. Matthews F/K/A Deirdre A. Mahon A/K/A Deirdre Mahon A/K/A Deirdre A. Matthews-Mahon",
+    "Description": "Dimensions of the Lot are (Approximately) 75 x 100 x 75 x 100\nNearest Cross Street: Hamilton-Glendola Road\nThe approximate upset sum is $434,986.57 calculated through October 25, 2024, plus any additional advance, interest, Sheriff’s cost and commissions to the date of sale.\nThe occupancy states of the subject property is unknown.\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.",
+    "Parcel #": "Tax Lot 8 Block 4302 f/k/a Lot 13 Block 1301 Tax Map of the Township of Neptune",
+    "Plaintiff": "MCLP Asset Company, Inc.",
+    "Property Note": "",
+    "Sales Date": "1/6/2025",
+    "Sheriff #": "FOR-23001448"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 399094.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 Elm Drive Neptune NJ 07753",
+    "defendant": "Deirdre A. Matthews F/K/A Deirdre A. Mahon A/K/A Deirdre Mahon A/K/A Deirdre A. Matthews-Mahon",
+    "listing_status": "Canceled",
+    "plaintiff": "MCLP Asset Company, Inc.",
+    "sale_date": "2025-01-06"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 8 Block 4302 f/k/a Lot 13 Block 1301 Tax Map of the Township of Neptune",
+  "plaintiff": "MCLP Asset Company, Inc.",
+  "property_note": null,
+  "sale_date": "2025-01-06",
+  "sheriff_number": "FOR-23001448",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-06",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-10-16",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-10-16",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-09-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-08-21",
+      "status": "Scheduled"
+    }
+  ]
+}

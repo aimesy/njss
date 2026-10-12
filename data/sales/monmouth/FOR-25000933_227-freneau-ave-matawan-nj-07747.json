@@ -1,0 +1,61 @@
+{
+  "address": "227 Freneau Ave Matawan NJ 07747",
+  "attorney": "Sherman, Atlas, Sylvester & Stamelman",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F294224",
+  "current_status": "Scheduled",
+  "defendant": "Sterling Gardens Realty LLC and Hudson Square Hospitality Group Inc.",
+  "description": "Nearest Cross Street: Ryers Lane\nDimensions (approx.): 299.05 x 366.30 x 278.62 x 279.63 feet\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded in the Office of the Monmouth County Clerk/Register on September 1, 2022 in Mortgage Book 9613, page 4772, and the Writ of Execution on file with the Sheriff of Monmouth County.",
+  "extracted": {},
+  "fields": {
+    "Address": "227 Freneau Ave\nMatawan NJ 07747",
+    "Approx. Judgment*": "$2,743,307.46",
+    "Attorney": "Sherman, Atlas, Sylvester & Stamelman",
+    "Court Case #": "F294224",
+    "Defendant": "Sterling Gardens Realty LLC and Hudson Square Hospitality Group Inc.",
+    "Description": "Nearest Cross Street: Ryers Lane\nDimensions (approx.): 299.05 x 366.30 x 278.62 x 279.63 feet\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded in the Office of the Monmouth County Clerk/Register on September 1, 2022 in Mortgage Book 9613, page 4772, and the Writ of Execution on file with the Sheriff of Monmouth County.",
+    "Parcel #": "Tax Lots 33 and 33.16, Tax Block 123 Tax Map of the Borough of Matawan",
+    "Plaintiff": "Peapack-Gladstone Bank",
+    "Property Note": "",
+    "Sales Date": "8/18/2025",
+    "Sheriff #": "FOR-25000933"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 2743307.46,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "227 Freneau Ave Matawan NJ 07747",
+    "defendant": "Sterling Gardens Realty LLC and Hudson Square Hospitality Group Inc.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Peapack-Gladstone Bank",
+    "sale_date": "2025-08-18"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lots 33 and 33.16, Tax Block 123 Tax Map of the Borough of Matawan",
+  "plaintiff": "Peapack-Gladstone Bank",
+  "property_note": null,
+  "sale_date": "2025-08-18",
+  "sheriff_number": "FOR-25000933",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-08-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Scheduled"
+    }
+  ]
+}

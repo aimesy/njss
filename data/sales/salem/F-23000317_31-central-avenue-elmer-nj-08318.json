@@ -1,0 +1,48 @@
+{
+  "address": "31 Central Avenue Elmer NJ 08318",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-003441-23",
+  "current_status": "Cancelled",
+  "defendant": "Linda L. Ortega, et al.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "31 Central Avenue\nElmer NJ 08318",
+    "Court Case #": "F-003441-23",
+    "Defendant": "Linda L. Ortega, et al.",
+    "Description": "",
+    "Plaintiff": "Ajax Mortgage Loan Trust 2020-C, Mortgage-Backed Securities, Series 2020-C, by U.S. Bank National Association, as Indenture Trustee",
+    "Sales Date": "05/26/2026 02:00 PM",
+    "Sheriff #": "F-23000317"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "31 Central Avenue Elmer NJ 08318",
+    "defendant": "Linda L. Ortega, et al.",
+    "listing_status": null,
+    "plaintiff": "Ajax Mortgage Loan Trust 2020-C, Mortgage-Backed Securities, Series 2020-C, by U.S. Bank National Association, as Indenture Trustee",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Ajax Mortgage Loan Trust 2020-C, Mortgage-Backed Securities, Series 2020-C, by U.S. Bank National Association, as Indenture Trustee",
+  "sale_date": null,
+  "sheriff_number": "F-23000317",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "address": "3 Italy Terrace Atlantic City NJ 08401",
+  "attorney": "Duane Morris LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-018004-19",
+  "current_status": "Scheduled",
+  "deed": "Steven Freeman",
+  "deed_address": "120 N. Mississippi Ave Atlantic City, NJ 08401",
+  "defendant": "Joaquin C. Santiago and Mrs. Joaquin C. Santiago, his wife",
+  "extracted": {},
+  "fields": {
+    "Address": "3 Italy Terrace\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$158,444.83",
+    "Attorney": "Duane Morris LLP",
+    "Court Case #": "F-018004-19",
+    "Deed": "Steven Freeman",
+    "Deed Address": "120 N. Mississippi Ave Atlantic City, NJ 08401",
+    "Defendant": "Joaquin C. Santiago and Mrs. Joaquin C. Santiago, his wife",
+    "Plaintiff": "TD Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANY STATUS: VACANT",
+    "Sales Date": "1/15/2026",
+    "Sheriff #": "F-25001106",
+    "Upset Amount": "$68,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 158444.83,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 Italy Terrace Atlantic City NJ 08401",
+    "defendant": "Joaquin C. Santiago ...",
+    "listing_status": null,
+    "plaintiff": "TD Bank, N.A....",
+    "sale_date": "2026-01-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "TD Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANY STATUS: VACANT",
+  "sale_date": "2026-01-15",
+  "sheriff_number": "F-25001106",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-15",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 68000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,81 @@
+{
+  "address": "42 E GIBBSBORO RD CLEMENTON NJ 08021",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00288424",
+  "current_status": "Purchased",
+  "defendant": "ANTIONE A. SPEARMAN, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "42 E GIBBSBORO RD\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$156,771.64",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00288424",
+    "Defendant": "ANTIONE A. SPEARMAN, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "REGIONS BANK D/B/A REGIONS MORTGAGE",
+    "Property Note": "",
+    "Sales Date": "10/15/2025",
+    "Sheriff #": "FR-24002812"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "42 E GIBBSBORO RD CLEMENTON NJ 08021",
+    "defendant": "ANTIONE A. SPEARMAN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "REGIONS BANK D/B/A REGIONS MORTGAGE",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "REGIONS BANK D/B/A REGIONS MORTGAGE",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "FR-24002812",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-07-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 156771.64,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "4-46 BOYD AVENUE FAIR LAWN NJ 07410",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00245325",
+  "current_status": "BANKRUPTCY",
+  "defendant": "ARIEL SANTIAGO, YOVANNA CORPORAN; ET AL",
+  "description": "UPSET PRICE: $606,075.18\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 606075.18
+  },
+  "fields": {
+    "Address": "4-46 BOYD AVENUE\nFAIR LAWN NJ 07410",
+    "Approx. Upset*": "$562,333.48",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Court Case #": "F00245325",
+    "Defendant": "ARIEL SANTIAGO, YOVANNA CORPORAN; ET AL",
+    "Description": "UPSET PRICE: $606,075.18\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 7, BLOCK 4401",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "12/2/2025",
+    "Sheriff #": "F-25002051"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "4-46 BOYD AVENUE FAIR LAWN NJ 07410",
+    "defendant": "ARIEL SANTIAGO, YOVANNA CORPORAN; ET AL",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2025-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 7, BLOCK 4401",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2025-12-02",
+  "sheriff_number": "F-25002051",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 562333.48,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,60 @@
+{
+  "address": "45 EAST PROSPECT Street Hawthorne NJ 07506",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004791 25 CTL# 163089",
+  "current_status": "Cancelled",
+  "defendant": "DAVID ALGERA A/K/A DAVID P. ALGERA",
+  "description": "Dimensions (approx): 35.00 x 80.00 x 35.00 x 100.00\nNearest Cross Street: Karl Avenue\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99- Summit Bank vs. Dennis Thiel (A-58-98)\nJudgement : Recorded: August 18, 2008\nHolder: Midland Funding LLC\nAmount: $1,811.29\nInstrument Number: DJ-192985-2008\nGood Faith Estimated Upset Price: $118,564.69\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 118564.69
+  },
+  "fields": {
+    "Address": "45 EAST PROSPECT Street\nHawthorne NJ 07506",
+    "Approx. Upset*": "$109,380.80",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 004791 25 CTL# 163089",
+    "Defendant": "DAVID ALGERA A/K/A DAVID P. ALGERA",
+    "Description": "Dimensions (approx): 35.00 x 80.00 x 35.00 x 100.00\nNearest Cross Street: Karl Avenue\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99- Summit Bank vs. Dennis Thiel (A-58-98)\nJudgement : Recorded: August 18, 2008\nHolder: Midland Funding LLC\nAmount: $1,811.29\nInstrument Number: DJ-192985-2008\nGood Faith Estimated Upset Price: $118,564.69\nOccupancy Status: Owner Occupied",
+    "Parcel #": "Tax Lot 2 Block 79",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "3/17/2026",
+    "Sheriff #": "F-25001761"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "45 EAST PROSPECT Street Hawthorne NJ 07506",
+    "defendant": "DAVID ALGERA A/K/A DAVID P. ALGERA",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2026-03-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 2 Block 79",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-17",
+  "sheriff_number": "F-25001761",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 109380.8,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "32 TAMARACK DRIVE WOODCLIFF LAKE NJ 07677",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01052824",
+  "current_status": "BANKRUPTCY",
+  "defendant": "AMY KOVATIS; PAUL KOVATIS, ET AL.",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $1,011,982.50\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 1011982.5
+  },
+  "fields": {
+    "Address": "32 TAMARACK DRIVE\nWOODCLIFF LAKE NJ 07677",
+    "Approx. Upset*": "$942,847.07",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F01052824",
+    "Defendant": "AMY KOVATIS; PAUL KOVATIS, ET AL.",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $1,011,982.50\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 10.13, BLOCK 1601",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2019-R2, MORTGAGE-BACKED NOTES, SERIES 2019-R2",
+    "Property Note": "",
+    "Sales Date": "9/17/2026",
+    "Sheriff #": "F-26000234"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "32 TAMARACK DRIVE WOODCLIFF LAKE NJ 07677",
+    "defendant": "AMY KOVATIS; PAUL KOVATIS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2019-R2, MORTGAGE-BACKED NOTES, SERIES 2019-R2",
+    "sale_date": "2026-09-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 10.13, BLOCK 1601",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2019-R2, MORTGAGE-BACKED NOTES, SERIES 2019-R2",
+  "property_note": null,
+  "sale_date": "2026-09-17",
+  "sheriff_number": "F-26000234",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-08-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-09-17",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 942847.07,
+  "upset_amount_label": "Approx. Upset*"
+}

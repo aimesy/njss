@@ -1,0 +1,78 @@
+{
+  "address": "135 Walnut Avenue Pleasantville NJ 08232",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009608-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jose L. Aleman a/k/a Jose Aleman; Terri Davis a/k/a Terri M. Davis a/k/a Terri Ellis a/k/a Terrie M. Davis; New Century Financial Services, Inc.",
+  "extracted": {},
+  "fields": {
+    "Address": "135 Walnut Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$106,683.68",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-009608-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jose L. Aleman a/k/a Jose Aleman; Terri Davis a/k/a Terri M. Davis a/k/a Terri Ellis a/k/a Terrie M. Davis; New Century Financial Services, Inc.",
+    "Plaintiff": "U.S. Bank National Association, As Trustee, Successor In Interest To Bank of America, National Association, As Trustee, Successor By Merger To Lasalle National Bank, As Trustee For BCF L.L.C. Mortgage Pass-Through Certificates, Series 1996-R1",
+    "Priors": "Liens: Year: 2024 Type: 3rd Party Sewer Cert No.: 24-00356 Sold 12/19/2024 To: Fig 20 LLC Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. The redemption of liens is outlined in N.J.S.A 54:5-54\nTotal: $676.56",
+    "Property Note": "OCCUPANY STATUS: OWNER OCCUPIED",
+    "Sales Date": "8/21/2025",
+    "Sheriff #": "F-25000062",
+    "Upset Amount": "$119,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 106683.68,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "135 Walnut Avenue Pleasantville NJ 08232",
+    "defendant": "Jose L. Aleman a/k/a...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2025-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association, As Trustee, Successor In Interest To Bank of America, National Association, As Trustee, Successor By Merger To Lasalle National Bank, As Trustee For BCF L.L.C. Mortgage Pass-Through Certificates, Series 1996-R1",
+  "priors": "Liens: Year: 2024 Type: 3rd Party Sewer Cert No.: 24-00356 Sold 12/19/2024 To: Fig 20 LLC Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. The redemption of liens is outlined in N.J.S.A 54:5-54 Total: $676.56",
+  "property_note": "OCCUPANY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-08-21",
+  "sheriff_number": "F-25000062",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-21",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-07-03",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 119000.0,
+  "upset_amount_label": "Upset Amount"
+}

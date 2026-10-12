@@ -1,0 +1,87 @@
+{
+  "address": "903 Leonardville Road Leonardo (Middletown Township) NJ 07737",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02289318",
+  "current_status": "Scheduled",
+  "defendant": "Bernard Matysczak, et al",
+  "description": "Dimensions of the Lot are (Approximately): 125 X 75 X 125 X 75.\nNearest Cross Street: Bellevue Avenue\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/homeowner association liens which may exist.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "903 Leonardville Road\nLeonardo (Middletown Township) NJ 07737",
+    "Approx. Judgment*": "$308,990.16",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F02289318",
+    "Defendant": "Bernard Matysczak, et al",
+    "Description": "Dimensions of the Lot are (Approximately): 125 X 75 X 125 X 75.\nNearest Cross Street: Bellevue Avenue\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/homeowner association liens which may exist.",
+    "Parcel #": "Lot 31, Block 436 f/k/a Lot 1, Block 1275 Tax Map of the Township of Middletown",
+    "Plaintiff": "U.S. Bank National Association, Not In Its Individual Capacity But Solely As Trustee For The RMAC Trust, Series 2016-CTT",
+    "Property Note": "",
+    "Sales Date": "4/25/2025",
+    "Sheriff #": "FOR-20000473"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 308990.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "903 Leonardville Road Leonardo (Middletown Township) NJ 07737",
+    "defendant": "Bernard Matysczak, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank National Association, Not In Its Individual Capacity But Solely As Trustee For The RMAC Trust, Series 2016-CTT",
+    "sale_date": "2025-04-25"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 31, Block 436 f/k/a Lot 1, Block 1275 Tax Map of the Township of Middletown",
+  "plaintiff": "U.S. Bank National Association, Not In Its Individual Capacity But Solely As Trustee For The RMAC Trust, Series 2016-CTT",
+  "property_note": null,
+  "sale_date": "2025-04-25",
+  "sheriff_number": "FOR-20000473",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-25",
+      "status": "Canceled"
+    },
+    {
+      "date": "2022-08-08",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-08-08",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-07-11",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-06-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-03-14",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-03-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2021-10-12",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2021-10-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2020-03-30",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "address": "6301 Quinn Avenue Mays Landing NJ 08330",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012282-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Samantha Ernst,; Mr. or Mrs. Ernst, husband or wife of Samantha Ernst, the spouse, domestic partner or civil union partner of Samantha Ernst; United States of America; New Jersey Housing and Mortgage Finance Agency; Discover Bank",
+  "extracted": {},
+  "fields": {
+    "Address": "6301 Quinn Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$143,653.32",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-012282-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Samantha Ernst,; Mr. or Mrs. Ernst, husband or wife of Samantha Ernst, the spouse, domestic partner or civil union partner of Samantha Ernst; United States of America; New Jersey Housing and Mortgage Finance Agency; Discover Bank",
+    "Plaintiff": "FirstBank",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "10/23/2025",
+    "Sheriff #": "F-25000951",
+    "Upset Amount": "$161,617.97"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 143653.32,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6301 Quinn Avenue Mays Landing NJ 08330",
+    "defendant": "Samantha Ernst,; Mr....",
+    "listing_status": null,
+    "plaintiff": "FirstBank...",
+    "sale_date": "2025-10-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "FirstBank",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-10-23",
+  "sheriff_number": "F-25000951",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-23",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 161617.97,
+  "upset_amount_label": "Upset Amount"
+}

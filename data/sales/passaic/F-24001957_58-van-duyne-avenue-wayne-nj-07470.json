@@ -1,0 +1,88 @@
+{
+  "address": "58 VAN DUYNE Avenue Wayne NJ 07470",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 010336 23 #162882",
+  "current_status": "Cancelled",
+  "defendant": "RAGY HANNA; ET. AL.",
+  "description": "DIMENSIONS OF LOT:\n.696 AC\nNEAREST CROSS STREET: HOLY CROSS WAY\nESTIMATED UPSET BID AMOUNT: $402,100.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2025 QTR 1 DUE: 02/01/2025 $2,538.95 OPEN\n2025 QTR 2 DUE: 05/01/2025 $2,538.94 OPEN\nWATER: WAYNE TWP MUA 475 VALLEY RD. WAYNE, NJ 07470 973-694-1800\nACCT: 71135700 0\n03/16/2024 - 06/16/2024 $28.00 OPEN PLUS PENALTY $178.92 OPEN PLUS PENALTY\nSEWER: WAYNE TWP MUA 475 VALLEY RD. WAYNE, NJ 07470 973-694-1800\nACCT: 71135700 0\n03/16/2024 - 06/16/2024 $118.00 OPEN PLUS PENALTY $708.00 OPEN PLUS PENALTY\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "lot": ".696",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "58 VAN DUYNE Avenue\nWayne NJ 07470",
+    "Approx. Upset*": "$362,260.78",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 010336 23 #162882",
+    "Defendant": "RAGY HANNA; ET. AL.",
+    "Description": "DIMENSIONS OF LOT:\n.696 AC\nNEAREST CROSS STREET: HOLY CROSS WAY\nESTIMATED UPSET BID AMOUNT: $402,100.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2025 QTR 1 DUE: 02/01/2025 $2,538.95 OPEN\n2025 QTR 2 DUE: 05/01/2025 $2,538.94 OPEN\nWATER: WAYNE TWP MUA 475 VALLEY RD. WAYNE, NJ 07470 973-694-1800\nACCT: 71135700 0\n03/16/2024 - 06/16/2024 $28.00 OPEN PLUS PENALTY $178.92 OPEN PLUS PENALTY\nSEWER: WAYNE TWP MUA 475 VALLEY RD. WAYNE, NJ 07470 973-694-1800\nACCT: 71135700 0\n03/16/2024 - 06/16/2024 $118.00 OPEN PLUS PENALTY $708.00 OPEN PLUS PENALTY\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "TAX LOT 43 F/K/A/ LOT 10 BLOCK 701 F/K/A BLOCK 162",
+    "Plaintiff": "CMG MORTGAGE, INC.,",
+    "Property Note": "",
+    "Sales Date": "11/20/2025",
+    "Sheriff #": "F-24001957"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "58 VAN DUYNE Avenue Wayne NJ 07470",
+    "defendant": "RAGY HANNA; ET. AL.",
+    "listing_status": null,
+    "plaintiff": "CMG MORTGAGE, INC.,",
+    "sale_date": "2025-11-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 43 F/K/A/ LOT 10 BLOCK 701 F/K/A BLOCK 162",
+  "plaintiff": "CMG MORTGAGE, INC.,",
+  "property_note": null,
+  "sale_date": "2025-11-20",
+  "sheriff_number": "F-24001957",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-07-01",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-08-26",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-09-23",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 362260.78,
+  "upset_amount_label": "Approx. Upset*"
+}

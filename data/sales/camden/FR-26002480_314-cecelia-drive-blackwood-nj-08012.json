@@ -1,0 +1,49 @@
+{
+  "address": "314 CECELIA DRIVE BLACKWOOD NJ 08012",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00146726",
+  "current_status": "Scheduled",
+  "defendant": "DAMIEN M. TAYLOR,, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "314 CECELIA DRIVE\nBLACKWOOD NJ 08012",
+    "Approx. Upset*": "$241,407.72",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00146726",
+    "Defendant": "DAMIEN M. TAYLOR,, ET AL",
+    "Parcel #": "Lot No. 25 Block 11903",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002480"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "314 CECELIA DRIVE BLACKWOOD NJ 08012",
+    "defendant": "DAMIEN M. TAYLOR,, ET AL",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot No. 25 Block 11903",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002480",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 241407.72,
+  "upset_amount_label": "Approx. Upset*"
+}

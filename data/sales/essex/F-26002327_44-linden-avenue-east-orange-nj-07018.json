@@ -1,0 +1,70 @@
+{
+  "address": "44 LINDEN AVENUE EAST ORANGE NJ 07018",
+  "attorney": "HONIG & GREENBERG, L.L.C.",
+  "attorney_phone": "856 770 0990",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F1058124",
+  "current_status": "Redeemed - Foreclosure",
+  "defendant": "DONALD CUNNINGHAM; ET AL.",
+  "description": "LOT: 24 BLOCK: 423\nAPPROXIMATE DIMENSIONS: 50 X 150\nNEAREST CROSS STREET: 217 FT TO SHEPARD AVE.\nAPPROXIMATE UPSET: $94,000.00.\nMETES AND BOUNDS DESCRIPTION: THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY AS INSTRUMENT NO. 2019025116. AMOUNT OF TAXES DUE AND PRIOR LIENS: $4,530.96.",
+  "extracted": {
+    "block": "423",
+    "lot": "24"
+  },
+  "fields": {
+    "Address": "44 LINDEN AVENUE\nEAST ORANGE NJ 07018",
+    "Approx. Upset*": "$87,137.85",
+    "Attorney": "HONIG & GREENBERG, L.L.C.",
+    "Attorney Phone": "856 770 0990",
+    "Court Case #": "F1058124",
+    "Defendant": "DONALD CUNNINGHAM; ET AL.",
+    "Description": "LOT: 24 BLOCK: 423\nAPPROXIMATE DIMENSIONS: 50 X 150\nNEAREST CROSS STREET: 217 FT TO SHEPARD AVE.\nAPPROXIMATE UPSET: $94,000.00.\nMETES AND BOUNDS DESCRIPTION: THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY AS INSTRUMENT NO. 2019025116. AMOUNT OF TAXES DUE AND PRIOR LIENS: $4,530.96.",
+    "Parcel #": "",
+    "Plaintiff": "PINE VALLEY ONE REAL ESTATE LLC",
+    "Property Note": "",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "F-26002327"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "44 LINDEN AVENUE EAST ORANGE NJ 07018",
+    "defendant": "DONALD CUNNINGHAM; ET AL.",
+    "listing_status": null,
+    "plaintiff": "PINE VALLEY ONE REAL ESTATE LLC",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "PINE VALLEY ONE REAL ESTATE LLC",
+  "property_note": null,
+  "sale_date": "2026-09-15",
+  "sheriff_number": "F-26002327",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-07-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Purchased - Foreclosure"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Redeemed - Foreclosure"
+    }
+  ],
+  "upset_amount": 87137.85,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,51 @@
+{
+  "address": "41 FERGUSON PLACE RAMSEY NJ 07446",
+  "attorney": "MCCABE WEISBERG AND CONWAY LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00365425",
+  "current_status": "Cancelled",
+  "defendant": "MICHAEL TOSNEY AND STACEY TAYLOR",
+  "description": "APPROX UPSET PRICE: $87,094.49\nPROPERTY STATUS: BORROWER OCCUPIED",
+  "extracted": {
+    "upset_amount": 87094.49
+  },
+  "fields": {
+    "Address": "41 FERGUSON PLACE\nRAMSEY NJ 07446",
+    "Approx. Upset*": "$77,920.17",
+    "Attorney": "MCCABE WEISBERG AND CONWAY LLC",
+    "Court Case #": "F00365425",
+    "Defendant": "MICHAEL TOSNEY AND STACEY TAYLOR",
+    "Description": "APPROX UPSET PRICE: $87,094.49\nPROPERTY STATUS: BORROWER OCCUPIED",
+    "Parcel #": "LOT 7, BLOCK 3801",
+    "Plaintiff": "CITIZENS BANK, NA",
+    "Property Note": "",
+    "Sales Date": "11/13/2025",
+    "Sheriff #": "F-25002590"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "41 FERGUSON PLACE RAMSEY NJ 07446",
+    "defendant": "MICHAEL TOSNEY AND STACEY TAYLOR",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, NA",
+    "sale_date": "2025-11-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 7, BLOCK 3801",
+  "plaintiff": "CITIZENS BANK, NA",
+  "property_note": null,
+  "sale_date": "2025-11-13",
+  "sheriff_number": "F-25002590",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-13",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 77920.17,
+  "upset_amount_label": "Approx. Upset*"
+}

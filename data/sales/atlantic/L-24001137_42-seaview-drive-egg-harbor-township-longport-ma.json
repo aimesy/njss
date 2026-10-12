@@ -1,0 +1,58 @@
+{
+  "address": "42 Seaview Drive Egg Harbor Township (Longport Mailing Address) NJ 08234",
+  "attorney": "Perskie Mairone Brog Barrera & Baylinson, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "ATL-C-1-24",
+  "current_status": "Scheduled",
+  "deed": "TBA",
+  "deed_address": "TBA",
+  "defendant": "Thaddeus J. Bartkowski, III, As Trustee of Longport Waterfront Revocable Trust Under Agreement Dated 8/21/08 and Thaddeus J. Bartkowski, III, Individually",
+  "extracted": {},
+  "fields": {
+    "Address": "42 Seaview Drive\nEgg Harbor Township (Longport Mailing Address) NJ 08234",
+    "Approx. Judgment*": "$139,485.62",
+    "Attorney": "Perskie Mairone Brog Barrera & Baylinson, P.C.",
+    "Court Case #": "ATL-C-1-24",
+    "Deed": "TBA",
+    "Deed Address": "TBA",
+    "Defendant": "Thaddeus J. Bartkowski, III, As Trustee of Longport Waterfront Revocable Trust Under Agreement Dated 8/21/08 and Thaddeus J. Bartkowski, III, Individually",
+    "Plaintiff": "The Great Room, Inc.",
+    "Priors": "JP MORGAN CHASE BANK, NATIONAL ASSOCIATION $UNKNOWN",
+    "Property Note": "",
+    "Sales Date": "10/24/2024",
+    "Sheriff #": "L-24001137",
+    "Upset Amount": "$110,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 139485.62,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "42 Seaview Drive Egg Harbor Township (Longport Mailing Address) NJ 08234",
+    "defendant": "Thaddeus J. Bartkows...",
+    "listing_status": null,
+    "plaintiff": "The Great Room, Inc....",
+    "sale_date": "2024-10-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "The Great Room, Inc.",
+  "priors": "JP MORGAN CHASE BANK, NATIONAL ASSOCIATION $UNKNOWN",
+  "property_note": null,
+  "sale_date": "2024-10-24",
+  "sheriff_number": "L-24001137",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-10-24",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 110000.0,
+  "upset_amount_label": "Upset Amount"
+}

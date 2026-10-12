@@ -1,0 +1,68 @@
+{
+  "address": "2766 ALICE TERRACE UNION NJ 07083",
+  "attorney": "ROMANO GARUBO & ARGENTIERI COUNSELORS AT LAW LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00433320",
+  "current_status": "Cancelled",
+  "defendant": "ISAAC DICKERSON; MRS. ISAAC DICKERSON, HIS WIFE",
+  "description": "LOT 37 BLOCK 4509",
+  "extracted": {
+    "block": "4509",
+    "lot": "37"
+  },
+  "fields": {
+    "Address": "2766 ALICE TERRACE\nUNION NJ 07083",
+    "Approx. Upset*": "$283,370.64",
+    "Attorney": "ROMANO GARUBO & ARGENTIERI COUNSELORS AT LAW LLC",
+    "Court Case #": "F00433320",
+    "Defendant": "ISAAC DICKERSON; MRS. ISAAC DICKERSON, HIS WIFE",
+    "Description": "LOT 37 BLOCK 4509",
+    "Parcel #": "LOT 37 BLOCK 4509",
+    "Plaintiff": "TRUMAN 2021 SC9 TITLE TRUST",
+    "Property Note": "",
+    "Sales Date": "10/27/2025",
+    "Sheriff #": "CH-23000293"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2766 ALICE TERRACE UNION NJ 07083",
+    "defendant": "ISAAC DICKERSON; MRS. ISAAC DICKERSON, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "TRUMAN 2021 SC9 TITLE TRUST",
+    "sale_date": "2025-10-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 37 BLOCK 4509",
+  "plaintiff": "TRUMAN 2021 SC9 TITLE TRUST",
+  "property_note": null,
+  "sale_date": "2025-10-27",
+  "sheriff_number": "CH-23000293",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2023-03-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-04-12",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-05-10",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-05-10",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 283370.64,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,66 @@
+{
+  "address": "3417 Bargaintown Road Egg Harbor Township NJ 08234",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001260-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Anthony F. Palmieri; Nicole Palmieri; New Jersey Property Liability Insurance Guaranty Association; Newark Beth Israel Medical Center and Carlton Club Apartments, LLC D/B/A Carlton Club Apartments",
+  "extracted": {},
+  "fields": {
+    "Address": "3417 Bargaintown Road\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$187,701.98",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-001260-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Anthony F. Palmieri; Nicole Palmieri; New Jersey Property Liability Insurance Guaranty Association; Newark Beth Israel Medical Center and Carlton Club Apartments, LLC D/B/A Carlton Club Apartments",
+    "Plaintiff": "Deutsche Bank National Trust Company, as Trustee, in trust for the registered holders of Morgan Stanley ABS Capital I Inc. Trust 2007-HE5, Mortgage Pass-Through Certificates, Series 2007-HE5",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "4/2/2026",
+    "Sheriff #": "F-25001279",
+    "Upset Amount": "$209,393.97"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 187701.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3417 Bargaintown Road Egg Harbor Township NJ 08234",
+    "defendant": "Anthony F. Palmieri;...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Nation...",
+    "sale_date": "2026-04-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company, as Trustee, in trust for the registered holders of Morgan Stanley ABS Capital I Inc. Trust 2007-HE5, Mortgage Pass-Through Certificates, Series 2007-HE5",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2026-04-02",
+  "sheriff_number": "F-25001279",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-02",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 209393.97,
+  "upset_amount_label": "Upset Amount"
+}

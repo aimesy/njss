@@ -1,0 +1,66 @@
+{
+  "address": "19 Tower Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012552-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Barry P. Jaffe and Ultralight 2 Residential Solar, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "19 Tower Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$209,647.18",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-012552-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Barry P. Jaffe and Ultralight 2 Residential Solar, LLC",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY TENANT",
+    "Sales Date": "9/18/2025",
+    "Sheriff #": "F-25000556",
+    "Upset Amount": "$228,973.45"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 209647.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "19 Tower Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Barry P. Jaffe and U...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, N....",
+    "sale_date": "2025-09-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY TENANT",
+  "sale_date": "2025-09-18",
+  "sheriff_number": "F-25000556",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-18",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-09-18",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 228973.45,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,70 @@
+{
+  "address": "55-57 FRANKLIN STREET BLOOMFIELD NJ 07003",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+  "attorney_phone": "973 797-1100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F01295722",
+  "current_status": "Settled - Foreclosure",
+  "defendant": "MELVIN VALENTIN, ET. AL",
+  "description": "BLOCK 424, LOT 3.\nTHE DIMENSIONS ARE APPROXIMATELY: 75' X 150'\nNEAREST CROSS STREET: HARRISON STREET\nTHE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 7/7/25 IS $64,161.52. PROPERTY IS OCCUPIED BY UNKNOWN\nPRIOR LIEN(S): SUBJECT TO PRIOR MORTGAGE IN THE AMOUNT OF $230,632.00 DATED 11/26/2012 AND OF RECORD 12/5/2012 IN BOOK 12404 PAGE 2357. WATER ACCOUNT PAST DUE IN THE APPROX. AMOUNT OF $2,561.94\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+  "extracted": {
+    "block": "424",
+    "lot": "3"
+  },
+  "fields": {
+    "Address": "55-57 FRANKLIN STREET\nBLOOMFIELD NJ 07003",
+    "Approx. Upset*": "$57,303.52",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+    "Attorney Phone": "973 797-1100",
+    "Court Case #": "F01295722",
+    "Defendant": "MELVIN VALENTIN, ET. AL",
+    "Description": "BLOCK 424, LOT 3.\nTHE DIMENSIONS ARE APPROXIMATELY: 75' X 150'\nNEAREST CROSS STREET: HARRISON STREET\nTHE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 7/7/25 IS $64,161.52. PROPERTY IS OCCUPIED BY UNKNOWN\nPRIOR LIEN(S): SUBJECT TO PRIOR MORTGAGE IN THE AMOUNT OF $230,632.00 DATED 11/26/2012 AND OF RECORD 12/5/2012 IN BOOK 12404 PAGE 2357. WATER ACCOUNT PAST DUE IN THE APPROX. AMOUNT OF $2,561.94\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+    "Parcel #": "",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "8/4/2026",
+    "Sheriff #": "F-25003879"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "55-57 FRANKLIN STREET BLOOMFIELD NJ 07003",
+    "defendant": "MELVIN VALENTIN, ET. AL",
+    "listing_status": null,
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2026-08-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-08-04",
+  "sheriff_number": "F-25003879",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-12-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-07",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Settled - Foreclosure"
+    }
+  ],
+  "upset_amount": 57303.52,
+  "upset_amount_label": "Approx. Upset*"
+}

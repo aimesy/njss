@@ -1,0 +1,66 @@
+{
+  "address": "19 Bayberry Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003404-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "William Zeltman III a/k/a William M. Zeltmann III; Karen M. Zeltman a/k/a Karen Zeltman a/k/a Karen M. Ciasca; United States of America; NJR Clean Energy Ventures Corporation; Fictitious Spouse or Civil Union Partner of Karen M. Zeltman, a/k/a Karen Zeltman a/k/a Karen M. Ciasca",
+  "extracted": {},
+  "fields": {
+    "Address": "19 Bayberry Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$282,758.39",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-003404-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "William Zeltman III a/k/a William M. Zeltmann III; Karen M. Zeltman a/k/a Karen Zeltman a/k/a Karen M. Ciasca; United States of America; NJR Clean Energy Ventures Corporation; Fictitious Spouse or Civil Union Partner of Karen M. Zeltman, a/k/a Karen Zeltman a/k/a Karen M. Ciasca",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "10/9/2025",
+    "Sheriff #": "F-25000646",
+    "Upset Amount": "$315,486.28"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 282758.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "19 Bayberry Avenue Egg Harbor Township NJ 08234",
+    "defendant": "William Zeltman III ...",
+    "listing_status": null,
+    "plaintiff": "Carrington Mortgage ...",
+    "sale_date": "2025-10-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2025-10-09",
+  "sheriff_number": "F-25000646",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-09",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-10-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-09-11",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-08-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 315486.28,
+  "upset_amount_label": "Upset Amount"
+}

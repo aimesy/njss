@@ -1,0 +1,60 @@
+{
+  "address": "51 RANDOLPH STREET CARTERET NJ 07008",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00941325",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "VICTOR OSORIO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$246,523.76",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F00941325",
+    "Defendant": "VICTOR OSORIO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 11 BLOCK 5701",
+    "Plaintiff": "WINTRUST MORTGAGE, A DIVISION OF BARRINGTON BANK & TRUST COMPANY, N.A.",
+    "Property Address": "51 RANDOLPH STREET\nCARTERET NJ 07008",
+    "Property Note": "Property to be sold is located in the BOROUGH OF CARTERET, County of MIDDLESEX,\nState of New Jersey.\nPremises commonly known as: 51 RANDOLPH STREET, CARTERET, NJ 07008\nBeing Known as: Lot 11, Block 5701 on the official Tax Map of the BOROUGH OF\nCARTERET.\nDimensions: 25FT. X 100FT.\nNearest Cross Street: PERSHING AVE.\nThe Sheriff hereby reserves the right to adjourn this sale without further notice by publication.\nThe occupancy status of the property is: OWNER OCCUPIED.\nPlaintiff's good faith estimate of its upset price is: $267,222.74",
+    "Sale Date": "12/2/2026",
+    "Sheriff #": "F-26002456"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 246523.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "51 RANDOLPH STREET CARTERET NJ 07008",
+    "defendant": "VICTOR OSORIO, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "WINTRUST MORTGAGE, A DIVISION OF BARRINGTON BANK & TRUST COMPANY, N.A.",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 11 BLOCK 5701",
+  "plaintiff": "WINTRUST MORTGAGE, A DIVISION OF BARRINGTON BANK & TRUST COMPANY, N.A.",
+  "property_note": "Property to be sold is located in the BOROUGH OF CARTERET, County of MIDDLESEX,\nState of New Jersey.\nPremises commonly known as: 51 RANDOLPH STREET, CARTERET, NJ 07008\nBeing Known as: Lot 11, Block 5701 on the official Tax Map of the BOROUGH OF\nCARTERET.\nDimensions: 25FT. X 100FT.\nNearest Cross Street: PERSHING AVE.\nThe Sheriff hereby reserves the right to adjourn this sale without further notice by publication.\nThe occupancy status of the property is: OWNER OCCUPIED.\nPlaintiff's good faith estimate of its upset price is: $267,222.74",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-26002456",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "164 HUTTON STREET #3L JERSEY CITY NJ 07307",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006212-25",
+  "current_status": "Adjourned - Court",
+  "defendant": "CARLA A. STEWART, ET AL.",
+  "description": "TAX LOT: 48 C0301 F/K/A 417T.3L TAX BLOCK: 3601 F/K/A 859\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: SUMMIT AVENUE\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $209,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "3601",
+    "lot": "48",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "164 HUTTON STREET #3L\nJERSEY CITY NJ 07307",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-006212-25",
+    "Defendant": "CARLA A. STEWART, ET AL.",
+    "Description": "TAX LOT: 48 C0301 F/K/A 417T.3L TAX BLOCK: 3601 F/K/A 859\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: SUMMIT AVENUE\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $209,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Good Faith Upset*": "$209,000.00",
+    "Judgment": "$191,640.94",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP5",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "20062768"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 191640.94,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "164 HUTTON STREET #3L JERSEY CITY NJ 07307",
+    "defendant": "CARLA A. STEWART, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP5",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP5",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "20062768",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-07-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": 209000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

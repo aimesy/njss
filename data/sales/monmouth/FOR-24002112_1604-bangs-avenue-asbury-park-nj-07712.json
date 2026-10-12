@@ -1,0 +1,49 @@
+{
+  "address": "1604 Bangs Avenue Asbury Park NJ 07712",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00638222",
+  "current_status": "Canceled",
+  "defendant": "Baron Thompson, et al",
+  "description": "Dimensions of Lot: (Approximately) 43.42 feet By 141.40 feet\nNearest Cross Street: Ridge Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $325,669.91.\nThe upset price is not the same as a payoff or judgment redemption amount.\nThis property is tenant occupied",
+  "extracted": {},
+  "fields": {
+    "Address": "1604 Bangs Avenue\nAsbury Park NJ 07712",
+    "Approx. Judgment*": "$299,262.21",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00638222",
+    "Defendant": "Baron Thompson, et al",
+    "Description": "Dimensions of Lot: (Approximately) 43.42 feet By 141.40 feet\nNearest Cross Street: Ridge Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $325,669.91.\nThe upset price is not the same as a payoff or judgment redemption amount.\nThis property is tenant occupied",
+    "Parcel #": "Tax Lot No. Lot 9 FKA 11 Block 1002 FKA 72 in Asbury Park Block Lot 4 FKA 1101 Block 601 fka 180 in Neptune Township Tax Map of City of Asbury Park",
+    "Plaintiff": "GS Mortgage-Backed Securities Trust 2018-RPL1",
+    "Property Note": "",
+    "Sales Date": "12/24/2024",
+    "Sheriff #": "FOR-24002112"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 299262.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1604 Bangs Avenue Asbury Park NJ 07712",
+    "defendant": "Baron Thompson, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "GS Mortgage-Backed Securities Trust 2018-RPL1",
+    "sale_date": "2024-12-24"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. Lot 9 FKA 11 Block 1002 FKA 72 in Asbury Park Block Lot 4 FKA 1101 Block 601 fka 180 in Neptune Township Tax Map of City of Asbury Park",
+  "plaintiff": "GS Mortgage-Backed Securities Trust 2018-RPL1",
+  "property_note": null,
+  "sale_date": "2024-12-24",
+  "sheriff_number": "FOR-24002112",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-24",
+      "status": "Canceled"
+    }
+  ]
+}

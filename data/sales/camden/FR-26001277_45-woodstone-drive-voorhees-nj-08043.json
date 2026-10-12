@@ -1,0 +1,61 @@
+{
+  "address": "45 WOODSTONE DRIVE VOORHEES NJ 08043",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00533625",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "FRANK T. WITHERSPOON, JR. A/K/A FRANK WITHERSPOON A/K/A FRANK T. WITHERSPOON A/K/A TROY WITHERSPOON; STEPHEN HERMAN; FORD MOTOR CREDIT COMPANY, LLC; UNITED STATES OF AMERIC,",
+  "extracted": {},
+  "fields": {
+    "Address": "45 WOODSTONE DRIVE\nVOORHEES NJ 08043",
+    "Approx. Upset*": "$988,100.46",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00533625",
+    "Defendant": "FRANK T. WITHERSPOON, JR. A/K/A\nFRANK WITHERSPOON A/K/A FRANK T.\nWITHERSPOON A/K/A TROY\nWITHERSPOON; STEPHEN HERMAN;\nFORD MOTOR CREDIT COMPANY, LLC;\nUNITED STATES OF AMERIC,",
+    "Parcel #": "DIMENSIONS: 0.8 ACRES\nNEAREST CROSS STREET: EDGE HILL LANE\nESTIMATED UPSET BID AMOUNT: $1,071,000.00, PLUS ANY ADDITON SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION,\nAS TRUSTEE, ON BEHALF OF THE\nHOLDERS OF THE ASSET BACKED\nSECURITIES CORPORATION HOME\nEQUITY LOAN TRUST, SERIES AMQ\n2006-HE7 ASSET BACKED PASSTHROUGH\nCERTIFICATES, SERIES AMQ 2006-HE7",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26001277"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "45 WOODSTONE DRIVE VOORHEES NJ 08043",
+    "defendant": "FRANK T. WITHERSPOON, JR. A/K/A \nFRANK WITHERSPOON A/K/A FRANK T. \nWITHERSPOON A/K/A TROY \nWITHERSPOON; STEPHEN HERMAN; \nFORD MOTOR CREDIT COMPANY, LLC; \nUNITED STATES OF AMERIC,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, \nAS TRUSTEE, ON BEHALF OF THE \nHOLDERS OF THE ASSET BACKED \nSECURITIES CORPORATION HOME \nEQUITY LOAN TRUST, SERIES AMQ \n2006-HE7 ASSET BACKED PASSTHROUGH \nCERTIFICATES, SERIES AMQ 2006-HE7",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "DIMENSIONS: 0.8 ACRES NEAREST CROSS STREET: EDGE HILL LANE ESTIMATED UPSET BID AMOUNT: $1,071,000.00, PLUS ANY ADDITON SUMS AS ORDERED BY THE COURT OCCUPANCY STATUS: OWNER OCCUPIED",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF THE ASSET BACKED SECURITIES CORPORATION HOME EQUITY LOAN TRUST, SERIES AMQ 2006-HE7 ASSET BACKED PASSTHROUGH CERTIFICATES, SERIES AMQ 2006-HE7",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26001277",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 988100.46,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,84 @@
+{
+  "address": "515 JACKSON AVENUE ELIZABETH NJ 07201",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00910824",
+  "current_status": "Adjourned per Court Order",
+  "defendant": "515 JACKSON AVE LLC AND CLENNY PEREZ",
+  "description": "LOT 5 FKA 954 BLOCK 250 FKA 8",
+  "extracted": {
+    "block": "250",
+    "lot": "5"
+  },
+  "fields": {
+    "Address": "515 JACKSON AVENUE\nELIZABETH NJ 07201",
+    "Approx. Upset*": "$345,729.75",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F00910824",
+    "Defendant": "515 JACKSON AVE LLC AND CLENNY PEREZ",
+    "Description": "LOT 5 FKA 954 BLOCK 250 FKA 8",
+    "Parcel #": "LOT 5 FKA 954 BLOCK 250 FKA 8",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR VCC 2022-MC1 TRUST",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "CH-25001895"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "515 JACKSON AVENUE ELIZABETH NJ 07201",
+    "defendant": "515 JACKSON AVE LLC AND CLENNY PEREZ",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR VCC 2022-MC1 TRUST",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 5 FKA 954 BLOCK 250 FKA 8",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR VCC 2022-MC1 TRUST",
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "CH-25001895",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2026-06-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Adjourned per Court Order"
+    }
+  ],
+  "upset_amount": 345729.75,
+  "upset_amount_label": "Approx. Upset*"
+}

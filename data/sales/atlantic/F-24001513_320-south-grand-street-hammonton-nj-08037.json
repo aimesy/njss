@@ -1,0 +1,70 @@
+{
+  "address": "320 South Grand Street Hammonton NJ 08037",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007655-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Frank Guerrier, III; Steffane Guerrier; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "320 South Grand Street\nHammonton NJ 08037",
+    "Approx. Judgment*": "$540,767.27",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-007655-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Frank Guerrier, III; Steffane Guerrier; State of New Jersey",
+    "Plaintiff": "Legacy Mortgage Asset Trust 2017-RPL2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/10/2025",
+    "Sheriff #": "F-24001513",
+    "Upset Amount": "$587,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 540767.27,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "320 South Grand Street Hammonton NJ 08037",
+    "defendant": "Frank Guerrier, III;...",
+    "listing_status": null,
+    "plaintiff": "Legacy Mortgage Asse...",
+    "sale_date": "2025-04-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Legacy Mortgage Asset Trust 2017-RPL2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-04-10",
+  "sheriff_number": "F-24001513",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-10",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 587000.0,
+  "upset_amount_label": "Upset Amount"
+}

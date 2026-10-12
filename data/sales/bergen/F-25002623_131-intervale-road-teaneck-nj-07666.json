@@ -1,0 +1,59 @@
+{
+  "address": "131 INTERVALE ROAD TEANECK NJ 07666",
+  "attorney": "GROSS POLOWY LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00130525",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "EDNA M. BROWN, ROGER L. BROWN, UNITED STATES OF AMERICA, AND HOLY NAME MEDICAL CENTER",
+  "description": "UPSET BID AMOUNT: $313,334.65\nOCCUPANCY STATUS: VACANT",
+  "extracted": {
+    "occupancy": "VACANT"
+  },
+  "fields": {
+    "Address": "131 INTERVALE ROAD\nTEANECK NJ 07666",
+    "Approx. Upset*": "$299,724.71",
+    "Attorney": "GROSS POLOWY LLC",
+    "Court Case #": "F00130525",
+    "Defendant": "EDNA M. BROWN, ROGER L. BROWN, UNITED STATES OF AMERICA, AND HOLY NAME MEDICAL CENTER",
+    "Description": "UPSET BID AMOUNT: $313,334.65\nOCCUPANCY STATUS: VACANT",
+    "Parcel #": "LOT 3, BLOCK 5502",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS OWNER TRUSTEE FOR CASCADE FUNDING MORTGAGE TRUST AB2",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "F-25002623"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "131 INTERVALE ROAD TEANECK NJ 07666",
+    "defendant": "EDNA M. BROWN, ROGER L. BROWN, UNITED STATES OF AMERICA, AND HOLY NAME MEDICAL CENTER",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS OWNER TRUSTEE FOR CASCADE FUNDING MORTGAGE TRUST AB2",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, BLOCK 5502",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS OWNER TRUSTEE FOR CASCADE FUNDING MORTGAGE TRUST AB2",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "F-25002623",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 299724.71,
+  "upset_amount_label": "Approx. Upset*"
+}

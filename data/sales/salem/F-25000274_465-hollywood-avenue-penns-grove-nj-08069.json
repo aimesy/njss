@@ -1,0 +1,50 @@
+{
+  "address": "465 Hollywood Avenue Penns Grove NJ 08069",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-006508-25",
+  "current_status": "Cancelled",
+  "defendant": "Walter Hardy V, et al.",
+  "description": "Approximate Dimensions: 50FT. x 150FT. Approximate Upset Price: $248,769.40. The upset amount may be subject to further orders of additional sums. The occupancy status of the property is: Occupied by unknown",
+  "extracted": {
+    "upset_amount": 248769.4
+  },
+  "fields": {
+    "Address": "465 Hollywood Avenue\nPenns Grove NJ 08069",
+    "Court Case #": "F-006508-25",
+    "Defendant": "Walter Hardy V, et al.",
+    "Description": "Approximate Dimensions: 50FT. x 150FT. Approximate Upset Price: $248,769.40. The upset amount may be subject to further orders of additional sums. The occupancy status of the property is: Occupied by unknown",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Sales Date": "01/26/2026 02:00 PM",
+    "Sheriff #": "F-25000274"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "465 Hollywood Avenue Penns Grove NJ 08069",
+    "defendant": "Walter Hardy V, et al.",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Corporation",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "sale_date": null,
+  "sheriff_number": "F-25000274",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "address": "54-56 CENTRAL AVENUE ENGLEWOOD NJ 07631",
+  "attorney": "KESSLER LAW LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00186823",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "IFEOMA EZEKWO; SAMUEL EZEKWO A/K/A SAMUEL I EZEKWO; ET AL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $932,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "54-56 CENTRAL AVENUE\nENGLEWOOD NJ 07631",
+    "Approx. Upset*": "$836,427.29",
+    "Attorney": "KESSLER LAW LLC",
+    "Court Case #": "F00186823",
+    "Defendant": "IFEOMA EZEKWO; SAMUEL EZEKWO A/K/A SAMUEL I EZEKWO; ET AL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $932,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 14, BLOCK 606",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "10/24/2025",
+    "Sheriff #": "F-25001727"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "54-56 CENTRAL AVENUE ENGLEWOOD NJ 07631",
+    "defendant": "IFEOMA EZEKWO; SAMUEL EZEKWO A/K/A SAMUEL I EZEKWO; ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2025-10-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 14, BLOCK 606",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2025-10-24",
+  "sheriff_number": "F-25001727",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-08-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 836427.29,
+  "upset_amount_label": "Approx. Upset*"
+}

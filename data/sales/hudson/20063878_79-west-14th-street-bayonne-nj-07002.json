@@ -1,0 +1,60 @@
+{
+  "address": "79 WEST 14TH STREET BAYONNE NJ 07002",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "401-217-8701",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-000009-26",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "JENNIFER SENA",
+  "description": "LOT 12, BLOCK 251\nDIMENSIONS: 25FT. X 113.10FT\nNEAREST CROSS STREET: AVENUE C\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $275,599.32\nSUBJECT TO OPEN WATER IN THE AMOUNT OF $1,562.91 PLUS PENALTIES AND COSTS.",
+  "extracted": {
+    "block": "251",
+    "lot": "12",
+    "upset_amount": 275599.32
+  },
+  "fields": {
+    "Address": "79 WEST 14TH STREET\nBAYONNE NJ 07002",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "401-217-8701",
+    "Court Case #": "F-000009-26",
+    "Defendant": "JENNIFER SENA",
+    "Description": "LOT 12, BLOCK 251\nDIMENSIONS: 25FT. X 113.10FT\nNEAREST CROSS STREET: AVENUE C\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $275,599.32\nSUBJECT TO OPEN WATER IN THE AMOUNT OF $1,562.91 PLUS PENALTIES AND COSTS.",
+    "Good Faith Upset*": "$275,599.32",
+    "Judgment": "$256,891.95",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20063878"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 256891.95,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "79 WEST 14TH STREET BAYONNE NJ 07002",
+    "defendant": "JENNIFER SENA",
+    "listing_status": null,
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20063878",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 275599.32,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "435 West White Horse Pike Egg Harbor City NJ 08215",
+  "attorney": "Duane Morris LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004757-22",
+  "current_status": "Scheduled",
+  "deed": "Hard Money NJ LLC c/o HMB Servicing LLC",
+  "deed_address": "10015 Old Columbia Rd, Ste H125, Columbia MD 21046",
+  "defendant": "Burt N. Mentone II; Ashley Nicole Robertson; The State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "435 West White Horse Pike\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$130,609.80",
+    "Attorney": "Duane Morris LLP",
+    "Court Case #": "F-004757-22",
+    "Deed": "Hard Money NJ LLC c/o HMB Servicing LLC",
+    "Deed Address": "10015 Old Columbia Rd, Ste H125, Columbia MD 21046",
+    "Defendant": "Burt N. Mentone II; Ashley Nicole Robertson; The State of New Jersey",
+    "Plaintiff": "Hard Money NJ LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: COMMERICAL",
+    "Sales Date": "1/15/2026",
+    "Sheriff #": "F-25001123",
+    "Upset Amount": "$89,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 130609.8,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "435 West White Horse Pike Egg Harbor City NJ 08215",
+    "defendant": "Burt N. Mentone II; ...",
+    "listing_status": null,
+    "plaintiff": "Hard Money NJ LLC...",
+    "sale_date": "2026-01-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Hard Money NJ LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: COMMERICAL",
+  "sale_date": "2026-01-15",
+  "sheriff_number": "F-25001123",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-15",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 89000.0,
+  "upset_amount_label": "Upset Amount"
+}

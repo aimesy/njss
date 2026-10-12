@@ -1,0 +1,61 @@
+{
+  "address": "7753 MARION AVENUE PENNSAUKEN NJ 08109",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00532125",
+  "current_status": "Bankruptcy",
+  "defendant": "WILLIAM GARCIA A/K/A WILLIAM O. GARCIA A/K/A PAPO; ELIZABETH GARCIA; ANAMARIE M. CORTES A/K/A CORTES ANNA; HOLY NAME MEDICAL CENTER, INC., F/K/A HOLY NAMEHOSPITAL; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+  "extracted": {},
+  "fields": {
+    "Address": "7753 MARION AVENUE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$188,514.01",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00532125",
+    "Defendant": "WILLIAM GARCIA A/K/A WILLIAM O. GARCIA A/K/A PAPO; ELIZABETH\nGARCIA; ANAMARIE M. CORTES A/K/A CORTES ANNA; HOLY NAME\nMEDICAL CENTER, INC., F/K/A HOLY NAMEHOSPITAL; STATE OF\nNEW JERSEY; UNITED STATES OF AMERICA; UNITED\nSTATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING\nAND URBAN DEVELOPMENT",
+    "Parcel #": "",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "FR-26000032"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7753 MARION AVENUE PENNSAUKEN NJ 08109",
+    "defendant": "WILLIAM GARCIA A/K/A WILLIAM O. GARCIA A/K/A PAPO; ELIZABETH \nGARCIA; ANAMARIE M. CORTES A/K/A CORTES ANNA; HOLY NAME \nMEDICAL CENTER, INC., F/K/A HOLY NAMEHOSPITAL; STATE OF \nNEW JERSEY; UNITED STATES OF AMERICA; UNITED \nSTATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING \nAND URBAN DEVELOPMENT",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "FR-26000032",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 188514.01,
+  "upset_amount_label": "Approx. Upset*"
+}

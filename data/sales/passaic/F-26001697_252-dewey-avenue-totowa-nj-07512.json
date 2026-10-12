@@ -1,0 +1,49 @@
+{
+  "address": "252 Dewey Avenue Totowa NJ 07512",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 001168 26 CTL# 163284",
+  "current_status": "Scheduled",
+  "defendant": "VICTOR MAGALLANES ET ALS",
+  "description": "The dimensions are approximately - 40' x 100'\nNearest cross street: Bogert Street\nProperty is Occupied by Unknown\nThe Good Faith Estimate of the Upset Bid amount as of 10/2/2026 is $178,003.17\nPrior lien(s): WATER ACCOUNT past due in the approx. amount of $97.97\nOn January 26, 2026, Old Republic National Title Insurance Company issued an indemnification letter regarding Prior judgement: DJ-006176-2007 against Lucia Polmeni Iao under Case No.DC 017178 05 date: 01/05/07.",
+  "extracted": {},
+  "fields": {
+    "Address": "252 Dewey Avenue\nTotowa NJ 07512",
+    "Approx. Upset*": "$165,390.54",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+    "Court Case #": "F 001168 26 CTL# 163284",
+    "Defendant": "VICTOR MAGALLANES ET ALS",
+    "Description": "The dimensions are approximately - 40' x 100'\nNearest cross street: Bogert Street\nProperty is Occupied by Unknown\nThe Good Faith Estimate of the Upset Bid amount as of 10/2/2026 is $178,003.17\nPrior lien(s): WATER ACCOUNT past due in the approx. amount of $97.97\nOn January 26, 2026, Old Republic National Title Insurance Company issued an indemnification letter regarding Prior judgement: DJ-006176-2007 against Lucia Polmeni Iao under Case No.DC 017178 05 date: 01/05/07.",
+    "Parcel #": "Block 117 Lot 9",
+    "Plaintiff": "MISSION SERVICING RESIDENTIAL INC",
+    "Property Note": "",
+    "Sales Date": "2/2/2027",
+    "Sheriff #": "F-26001697"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "252 Dewey Avenue Totowa NJ 07512",
+    "defendant": "VICTOR MAGALLANES ET ALS",
+    "listing_status": null,
+    "plaintiff": "MISSION SERVICING RESIDENTIAL INC",
+    "sale_date": "2027-02-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Block 117 Lot 9",
+  "plaintiff": "MISSION SERVICING RESIDENTIAL INC",
+  "property_note": null,
+  "sale_date": "2027-02-02",
+  "sheriff_number": "F-26001697",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-02-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 165390.54,
+  "upset_amount_label": "Approx. Upset*"
+}

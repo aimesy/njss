@@ -1,0 +1,53 @@
+{
+  "address": "5 CHAPEL CIRCLE SICKLERVILLE NJ 08081",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "215-855-9521 NORTH WALES",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01057524",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "TOY & ASSOCIATES LLC, EMILY TOY, JILL TOY, SUNNOVA MANAGEMENT, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "5 CHAPEL CIRCLE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$405,849.87",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "215-855-9521 NORTH WALES",
+    "Court Case #": "F01057524",
+    "Defendant": "TOY & ASSOCIATES LLC, EMILY TOY, JILL TOY, SUNNOVA MANAGEMENT, LLC",
+    "Parcel #": "",
+    "Plaintiff": "RFLF 4, LLC",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25002109"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "5 CHAPEL CIRCLE SICKLERVILLE NJ 08081",
+    "defendant": "TOY & ASSOCIATES LLC, EMILY TOY, JILL TOY, SUNNOVA MANAGEMENT, LLC",
+    "listing_status": null,
+    "plaintiff": "RFLF 4, LLC",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "RFLF 4, LLC",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25002109",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 405849.87,
+  "upset_amount_label": "Approx. Upset*"
+}

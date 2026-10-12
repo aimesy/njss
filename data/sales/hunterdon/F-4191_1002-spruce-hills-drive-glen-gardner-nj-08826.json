@@ -1,0 +1,57 @@
+{
+  "address": "1002 SPRUCE HILLS DRIVE GLEN GARDNER NJ 08826",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hunterdon County, NJ",
+  "county_id": 32,
+  "court_case_number": "F-002244-26",
+  "current_status": "Scheduled",
+  "defendant": "GEORGE CRUZ ;ET AL.",
+  "description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $274,900.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "1002 SPRUCE HILLS DRIVE\nGLEN GARDNER NJ 08826",
+    "Approx Judgment": "$247,581.48",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-002244-26",
+    "Defendant": "GEORGE CRUZ ;ET AL.",
+    "Parcel #": "8 C1002 BLOCK 1",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Details": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $274,900.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Property Note": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $274,900.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "F-4191"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 247581.48,
+  "judgment_amount_label": "Approx Judgment",
+  "listing": {
+    "address": "1002 SPRUCE HILLS DRIVE GLEN GARDNER NJ 08826",
+    "defendant": "GEORGE CRUZ ;ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
+  "parcel": "8 C1002 BLOCK 1",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $274,900.00\nOCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-4191",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-10-19",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "address": "2568 Route 50 Mays Landing NJ 08330",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002493-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Mark T. Miller; Gina M. Miller; United States of America; Solarcity Corporation; Telsa, Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "2568 Route 50\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$165,654.93",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-002493-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Mark T. Miller; Gina M. Miller; United States of America; Solarcity Corporation; Telsa, Inc",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB as Trustee of Discovery Mortgage Loan Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "6/26/2025",
+    "Sheriff #": "F-25000440",
+    "Upset Amount": "$185,131.34"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 165654.93,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2568 Route 50 Mays Landing NJ 08330",
+    "defendant": "Mark T. Miller; Gina...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Savings F...",
+    "sale_date": "2025-06-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Savings Fund Society, FSB as Trustee of Discovery Mortgage Loan Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2025-06-26",
+  "sheriff_number": "F-25000440",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-26",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 185131.34,
+  "upset_amount_label": "Upset Amount"
+}

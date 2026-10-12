@@ -1,0 +1,63 @@
+{
+  "address": "1438 HUBERT TERRACE TEANECK NJ 07666",
+  "attorney": "ZAZELLA & SINGER ATTORNEYS AT LAW",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00088125",
+  "current_status": "BANKRUPTCY",
+  "defendant": "JACQUELIN SILVER A/K/A JACQUELIN LYNCH; ET AL",
+  "description": "UPSET PRICE: $408,693.27 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+  "extracted": {
+    "upset_amount": 408693.27
+  },
+  "fields": {
+    "Address": "1438 HUBERT TERRACE\nTEANECK NJ 07666",
+    "Approx. Upset*": "$375,340.18",
+    "Attorney": "ZAZELLA & SINGER ATTORNEYS AT LAW",
+    "Court Case #": "F00088125",
+    "Defendant": "JACQUELIN SILVER A/K/A JACQUELIN LYNCH; ET AL",
+    "Description": "UPSET PRICE: $408,693.27 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+    "Parcel #": "LOT 8, BLOCK 5704",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "4/6/2026",
+    "Sheriff #": "F-25001978"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1438 HUBERT TERRACE TEANECK NJ 07666",
+    "defendant": "JACQUELIN SILVER A/K/A JACQUELIN LYNCH; ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-04-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 8, BLOCK 5704",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-04-06",
+  "sheriff_number": "F-25001978",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-06",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 375340.18,
+  "upset_amount_label": "Approx. Upset*"
+}

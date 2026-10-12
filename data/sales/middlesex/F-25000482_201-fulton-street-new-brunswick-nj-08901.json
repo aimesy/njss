@@ -1,0 +1,56 @@
+{
+  "address": "201 FULTON STREET NEW BRUNSWICK NJ 08901",
+  "attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-840-5000",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00788124",
+  "current_status": "Settled",
+  "defendant": "JANE E. CURRY, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$56,796.45",
+    "Attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-840-5000",
+    "Court Case #": "F00788124",
+    "Defendant": "JANE E. CURRY, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 5.01 FKA LOTS 5 & 7 BLOCK 288",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Address": "201 FULTON STREET\nNEW BRUNSWICK NJ 08901",
+    "Property Note": "",
+    "Sale Date": "5/14/2025",
+    "Sheriff #": "F-25000482"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 56796.45,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "201 FULTON STREET NEW BRUNSWICK NJ 08901",
+    "defendant": "JANE E. CURRY, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2025-05-14"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 5.01 FKA LOTS 5 & 7 BLOCK 288",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2025-05-14",
+  "sheriff_number": "F-25000482",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-05-14",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

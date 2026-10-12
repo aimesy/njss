@@ -1,0 +1,72 @@
+{
+  "address": "86 WESTSIDE AVENUE BERGENFIELD NJ 07621",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01211624",
+  "current_status": "Cancelled",
+  "defendant": "STANLEY ROBINSON; AMECIA ROBINSON; ET AL",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $234,782.29\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 234782.29
+  },
+  "fields": {
+    "Address": "86 WESTSIDE AVENUE\nBERGENFIELD NJ 07621",
+    "Approx. Upset*": "$209,797.95",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F01211624",
+    "Defendant": "STANLEY ROBINSON; AMECIA ROBINSON; ET AL",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $234,782.29\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 14 FKA 342, BLOCK 231 FKA 122",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "3/26/2026",
+    "Sheriff #": "F-25001717"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "86 WESTSIDE AVENUE BERGENFIELD NJ 07621",
+    "defendant": "STANLEY ROBINSON; AMECIA ROBINSON; ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2026-03-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 14 FKA 342, BLOCK 231 FKA 122",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-26",
+  "sheriff_number": "F-25001717",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-08-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 209797.95,
+  "upset_amount_label": "Approx. Upset*"
+}

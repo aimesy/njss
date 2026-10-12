@@ -1,0 +1,53 @@
+{
+  "address": "41 ALEXANDER ROAD MERCHANTVILLE NJ 08109",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01056724",
+  "current_status": "Purchased",
+  "defendant": "CHRISTINA FLANAGAN; FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF CHRISTINA FLANAGAN",
+  "extracted": {},
+  "fields": {
+    "Address": "41 ALEXANDER ROAD\nMERCHANTVILLE NJ 08109",
+    "Approx. Upset*": "$293,948.87",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F01056724",
+    "Defendant": "CHRISTINA FLANAGAN; FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF CHRISTINA FLANAGAN",
+    "Parcel #": "Lot: 9.03; Block: 22",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "Property Note": "Pursuant to a municipal tax search dated June 1, 2026.\nSubject to: 2026 3 rd quarter taxes due 8/1/2026, TO BE DETERMINED\n2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\nWater: Acct. 3154130 0, To: 4/3/2026, $97.90 OPEN PLUS PENALTY; $61.30 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading\nSewer: Acct. 1257 0, 7/1/2026-12/31/2026, $140.00 OPEN; $279.32 OPEN\nPLUS PENALTY; OWED IN ARREARS\nCCMUA: Acct. 240013052, 311/2026-5131/2026, $93.00 OPEN PLUS\nPENALTY; $474.81 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26001530"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "41 ALEXANDER ROAD MERCHANTVILLE NJ 08109",
+    "defendant": "CHRISTINA FLANAGAN; FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF CHRISTINA FLANAGAN",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot: 9.03; Block: 22",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+  "property_note": "Pursuant to a municipal tax search dated June 1, 2026.\nSubject to: 2026 3 rd quarter taxes due 8/1/2026, TO BE DETERMINED\n2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\nWater: Acct. 3154130 0, To: 4/3/2026, $97.90 OPEN PLUS PENALTY; $61.30 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading\nSewer: Acct. 1257 0, 7/1/2026-12/31/2026, $140.00 OPEN; $279.32 OPEN\nPLUS PENALTY; OWED IN ARREARS\nCCMUA: Acct. 240013052, 311/2026-5131/2026, $93.00 OPEN PLUS\nPENALTY; $474.81 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26001530",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 293948.87,
+  "upset_amount_label": "Approx. Upset*"
+}

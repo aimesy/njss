@@ -1,0 +1,76 @@
+{
+  "address": "2 Richards Way Holmdel NJ 07733",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00716523",
+  "current_status": "Scheduled",
+  "defendant": "William Sakoutis, et al",
+  "description": "Approximate Dimensions: 463.84ft x 150.69ft x 190.00ft x 228.45ft x 449.00ft x 76.02ft x 638.00ft x 20.00ft\nNearest Cross Street: Approximately 20.95ft to the nearest cross street known as Van Brackle Road\nOccupancy Status: Borrower Occupied\nApproximate Upset Price is $595,186.26 For The Sheriff's Sale\nPursuant to municipal tax search dated December 11, 2025.\nSubject to: 2026 1st quarter taxes due 2/1/2026, $4,778.21 OPEN;\n2026 2nd quarter taxes due 5/1/2026, $4,778.21 OPEN\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Book OR9177, at Page 2409",
+  "extracted": {
+    "occupancy": "Borrower Occupied",
+    "upset_amount": 595186.26
+  },
+  "fields": {
+    "Address": "2 Richards Way\nHolmdel NJ 07733",
+    "Approx. Judgment*": "$505,311.24",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00716523",
+    "Defendant": "William Sakoutis, et al",
+    "Description": "Approximate Dimensions: 463.84ft x 150.69ft x 190.00ft x 228.45ft x 449.00ft x 76.02ft x 638.00ft x 20.00ft\nNearest Cross Street: Approximately 20.95ft to the nearest cross street known as Van Brackle Road\nOccupancy Status: Borrower Occupied\nApproximate Upset Price is $595,186.26 For The Sheriff's Sale\nPursuant to municipal tax search dated December 11, 2025.\nSubject to: 2026 1st quarter taxes due 2/1/2026, $4,778.21 OPEN;\n2026 2nd quarter taxes due 5/1/2026, $4,778.21 OPEN\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Book OR9177, at Page 2409",
+    "Parcel #": "Lot: 22.01; Block: 30 Tax Map of Township of Holmdel",
+    "Plaintiff": "New Rez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Property Note": "",
+    "Sales Date": "10/1/2026",
+    "Sheriff #": "FOR-24001591"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 505311.24,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2 Richards Way Holmdel NJ 07733",
+    "defendant": "William Sakoutis, et al",
+    "listing_status": "Settled",
+    "plaintiff": "New Rez LLC d/b/a Shellpoint Mortgage Servicing",
+    "sale_date": "2026-10-01"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 22.01; Block: 30 Tax Map of Township of Holmdel",
+  "plaintiff": "New Rez LLC d/b/a Shellpoint Mortgage Servicing",
+  "property_note": null,
+  "sale_date": "2026-10-01",
+  "sheriff_number": "FOR-24001591",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-10-01",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    }
+  ]
+}

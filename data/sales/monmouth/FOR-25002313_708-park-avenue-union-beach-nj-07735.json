@@ -1,0 +1,60 @@
+{
+  "address": "708 Park Avenue Union Beach NJ 07735",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00664025",
+  "current_status": "Scheduled",
+  "defendant": "Patrick C. Devenny; et. al.",
+  "description": "Dimensions (Approx.): 50*100\nNearest Cross Street: Union Ave.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upset Price: $300,005.16\nOccupancy Status:\nOwner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 300005.16
+  },
+  "fields": {
+    "Address": "708 Park Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$276,226.56",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00664025",
+    "Defendant": "Patrick C. Devenny; et. al.",
+    "Description": "Dimensions (Approx.): 50*100\nNearest Cross Street: Union Ave.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upset Price: $300,005.16\nOccupancy Status:\nOwner Occupied",
+    "Parcel #": "Tax Lot(s): 12, in Block: 213 Tax Map of Borough of Union Beach",
+    "Plaintiff": "U.S. Bank National Association, Not in its individual capacity, but solely as Trustee for RMTP Trust, Series 2021 Cottage -TT-V,",
+    "Property Note": "",
+    "Sales Date": "3/19/2026",
+    "Sheriff #": "FOR-25002313"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 276226.56,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "708 Park Avenue Union Beach NJ 07735",
+    "defendant": "Patrick C. Devenny; et. al.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank National Association, Not in its individual capacity, but solely as Trustee for RMTP Trust, Series 2021 Cottage -TT-V,",
+    "sale_date": "2026-03-19"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 12, in Block: 213 Tax Map of Borough of Union Beach",
+  "plaintiff": "U.S. Bank National Association, Not in its individual capacity, but solely as Trustee for RMTP Trust, Series 2021 Cottage -TT-V,",
+  "property_note": null,
+  "sale_date": "2026-03-19",
+  "sheriff_number": "FOR-25002313",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-19",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Scheduled"
+    }
+  ]
+}

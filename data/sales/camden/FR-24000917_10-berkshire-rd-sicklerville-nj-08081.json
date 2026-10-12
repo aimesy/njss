@@ -1,0 +1,89 @@
+{
+  "address": "10 BERKSHIRE RD SICKLERVILLE NJ 08081",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00177323",
+  "current_status": "Settled",
+  "defendant": "TODD J MILLER; MONIQUE E. WHITE,",
+  "extracted": {},
+  "fields": {
+    "Address": "10 BERKSHIRE RD\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$136,890.55",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00177323",
+    "Defendant": "TODD J MILLER; MONIQUE E. WHITE,",
+    "Parcel #": "",
+    "Plaintiff": "SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2006-NC1,\nMORTGAGES PASS-THROUGH CERTIFICATES, SERIES 2006-NC1,\nU.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE,",
+    "Property Note": "",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "FR-24000917"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "10 BERKSHIRE RD SICKLERVILLE NJ 08081",
+    "defendant": "TODD J MILLER; MONIQUE E. WHITE,",
+    "listing_status": null,
+    "plaintiff": "SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2006-NC1, \nMORTGAGES PASS-THROUGH CERTIFICATES, SERIES 2006-NC1, \nU.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE,",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2006-NC1, MORTGAGES PASS-THROUGH CERTIFICATES, SERIES 2006-NC1, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE,",
+  "property_note": null,
+  "sale_date": "2026-06-17",
+  "sheriff_number": "FR-24000917",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-06-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 136890.55,
+  "upset_amount_label": "Approx. Upset*"
+}

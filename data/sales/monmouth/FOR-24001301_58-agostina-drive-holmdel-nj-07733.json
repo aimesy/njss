@@ -1,0 +1,71 @@
+{
+  "address": "58 Agostina Drive Holmdel NJ 07733",
+  "attorney": "McGovern Legal Services, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00114424",
+  "current_status": "Scheduled",
+  "defendant": "Irene Gallagher",
+  "description": "Upon information and belief, the premises is owner-occupied.\nFinal upset price $13,528.70",
+  "extracted": {
+    "upset_amount": 13528.7
+  },
+  "fields": {
+    "Address": "58 Agostina Drive\nHolmdel NJ 07733",
+    "Approx. Judgment*": "$12,898.03",
+    "Attorney": "McGovern Legal Services, LLC",
+    "Court Case #": "F00114424",
+    "Defendant": "Irene Gallagher",
+    "Description": "Upon information and belief, the premises is owner-occupied.\nFinal upset price $13,528.70",
+    "Parcel #": "Tax Lot 2 C0250, Block 52 Tax Map of Township of Holmdel",
+    "Plaintiff": "Fox Chase At Holmdel Condominium Association, Inc.",
+    "Property Note": "",
+    "Sales Date": "3/3/2025",
+    "Sheriff #": "FOR-24001301"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 12898.03,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "58 Agostina Drive Holmdel NJ 07733",
+    "defendant": "Irene Gallagher",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Fox Chase At Holmdel Condominium Association, Inc.",
+    "sale_date": "2025-03-03"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 2 C0250, Block 52 Tax Map of Township of Holmdel",
+  "plaintiff": "Fox Chase At Holmdel Condominium Association, Inc.",
+  "property_note": null,
+  "sale_date": "2025-03-03",
+  "sheriff_number": "FOR-24001301",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-03",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Scheduled"
+    }
+  ]
+}

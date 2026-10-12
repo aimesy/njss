@@ -1,0 +1,57 @@
+{
+  "address": "221 BAYVIEW AVENUE JERSEY CITY NJ 07305",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "860-241-2806",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-001244-26",
+  "current_status": "Scheduled",
+  "defendant": "DAVID GOTTLIEB; TD BANK NA; AND FIRST NATIONAL BANK OF OMAHA",
+  "description": "LOT 18 FKA 38, BLOCK 23403 FKA 1315\nAPPROXIMATE DIMENSIONS: 100.00 X 25.00 FEET\nNEAREST CROSS STREET: MARTIN LUTHER KING DRIVE\nSUBJECT TO: TAX SALE CERTIFICATE NO. 2024-1293 IN THE AMOUNT OF $3,362.21. 2026 3RD QUARTER TAXES IN THE AMOUNT OF $4,410.17, OPEN PLUS PENALTY. WATER IN THE AMOUNT OF $687.30, OPEN PLUS PENALTY.\nUPSET PRICE: $576,910.38\nOCCUPANCY STATUS: VACANT\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "23403",
+    "lot": "18",
+    "occupancy": "VACANT",
+    "upset_amount": 576910.38
+  },
+  "fields": {
+    "Address": "221 BAYVIEW AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "860-241-2806",
+    "Court Case #": "F-001244-26",
+    "Defendant": "DAVID GOTTLIEB; TD BANK NA; AND FIRST NATIONAL BANK OF OMAHA",
+    "Description": "LOT 18 FKA 38, BLOCK 23403 FKA 1315\nAPPROXIMATE DIMENSIONS: 100.00 X 25.00 FEET\nNEAREST CROSS STREET: MARTIN LUTHER KING DRIVE\nSUBJECT TO: TAX SALE CERTIFICATE NO. 2024-1293 IN THE AMOUNT OF $3,362.21. 2026 3RD QUARTER TAXES IN THE AMOUNT OF $4,410.17, OPEN PLUS PENALTY. WATER IN THE AMOUNT OF $687.30, OPEN PLUS PENALTY.\nUPSET PRICE: $576,910.38\nOCCUPANCY STATUS: VACANT\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Good Faith Upset*": "$576,910.38",
+    "Judgment": "$534,657.41",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "11/5/2026",
+    "Sheriff #": "20064155"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 534657.41,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "221 BAYVIEW AVENUE JERSEY CITY NJ 07305",
+    "defendant": "DAVID GOTTLIEB; TD BANK NA; AND FIRST NATIONAL BANK OF OMAHA",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-11-05",
+  "sheriff_number": "20064155",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-11-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 576910.38,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,71 @@
+{
+  "address": "447 Manchester Avenue North Haledon NJ 07508",
+  "attorney": "Brock & Scott PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 010594 22 CTL#162445",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "ALAN TRAINO INC, ET AL.",
+  "description": "Dimensions: 70FT. X 103FT.\nNearest Cross Street: Grandview Ave\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order firecting payment of the surplus money. The sheriff or other person condutcing the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: Occupied by owner\nPlaintiffs good faith estimate of its upset price: $334,613.00\nSubject to prior mortgage to Bank of America. NA in the amount of $250,000.00 recorded on 11/23/2005. Said mortgage was assigned to Specialized Loan Serving, LLC recorded on 6/23/22 in Book, Page INST# AS804/116. The payoff is good through 8-18-25 is $238,431.36 Purchaser is responsible for obtaining a current payoff",
+  "extracted": {
+    "upset_amount": 334613.0
+  },
+  "fields": {
+    "Address": "447 Manchester Avenue\nNorth Haledon NJ 07508",
+    "Approx. Upset*": "$281,665.93",
+    "Attorney": "Brock & Scott PLLC",
+    "Court Case #": "F 010594 22 CTL#162445",
+    "Defendant": "ALAN TRAINO INC, ET AL.",
+    "Description": "Dimensions: 70FT. X 103FT.\nNearest Cross Street: Grandview Ave\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order firecting payment of the surplus money. The sheriff or other person condutcing the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: Occupied by owner\nPlaintiffs good faith estimate of its upset price: $334,613.00\nSubject to prior mortgage to Bank of America. NA in the amount of $250,000.00 recorded on 11/23/2005. Said mortgage was assigned to Specialized Loan Serving, LLC recorded on 6/23/22 in Book, Page INST# AS804/116. The payoff is good through 8-18-25 is $238,431.36 Purchaser is responsible for obtaining a current payoff",
+    "Parcel #": "Tax Lot: 11 in Block: 66",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "12/2/2025",
+    "Sheriff #": "F-23000539"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "447 Manchester Avenue North Haledon NJ 07508",
+    "defendant": "ALAN TRAINO INC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2025-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 11 in Block: 66",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-12-02",
+  "sheriff_number": "F-23000539",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2023-05-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-05-30",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-05-30",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 281665.93,
+  "upset_amount_label": "Approx. Upset*"
+}

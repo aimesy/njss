@@ -1,0 +1,53 @@
+{
+  "address": "8 HATHAWAY DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00752225",
+  "current_status": "Scheduled",
+  "defendant": "MICHELLE MOORE-GREEN, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "8 HATHAWAY DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$100,138.15",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00752225",
+    "Defendant": "MICHELLE MOORE-GREEN, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS\nTRUSTEE FOR MASTR SPECIALIZED LOAN TRUST\n2007-01 MORTGAGE PASS- THROUGH CERTIFICATES",
+    "Property Note": "",
+    "Sales Date": "1/29/2026",
+    "Sheriff #": "FR-25002683"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "8 HATHAWAY DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "MICHELLE MOORE-GREEN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS \nTRUSTEE FOR MASTR SPECIALIZED LOAN TRUST \n2007-01 MORTGAGE PASS- THROUGH CERTIFICATES",
+    "sale_date": "2026-01-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MASTR SPECIALIZED LOAN TRUST 2007-01 MORTGAGE PASS- THROUGH CERTIFICATES",
+  "property_note": null,
+  "sale_date": "2026-01-29",
+  "sheriff_number": "FR-25002683",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-29",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 100138.15,
+  "upset_amount_label": "Approx. Upset*"
+}

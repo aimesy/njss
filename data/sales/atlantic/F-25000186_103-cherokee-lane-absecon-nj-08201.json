@@ -1,0 +1,66 @@
+{
+  "address": "103 Cherokee Lane Absecon NJ 08201",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007505-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Natalie Merlino; Justin Freeman; Mr. Natalie Merlino, husband of Natalie Merlino; Mrs. Justin Freeman, wife of Justin Freeman; Jessica Beckleyandaloro; Adamar of New Jersey Inc; Discover Bank; New Jersey Housing and Mortgage Finance Agency and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "103 Cherokee Lane\nAbsecon NJ 08201",
+    "Approx. Judgment*": "$170,794.14",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-007505-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Natalie Merlino; Justin Freeman; Mr. Natalie Merlino, husband of Natalie Merlino; Mrs. Justin Freeman, wife of Justin Freeman; Jessica Beckleyandaloro; Adamar of New Jersey Inc; Discover Bank; New Jersey Housing and Mortgage Finance Agency and United States of America",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "1/22/2026",
+    "Sheriff #": "F-25000186",
+    "Upset Amount": "$208,241.04"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 170794.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "103 Cherokee Lane Absecon NJ 08201",
+    "defendant": "Natalie Merlino; Jus...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2026-01-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2026-01-22",
+  "sheriff_number": "F-25000186",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-04-17",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-04-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 208241.04,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,84 @@
+{
+  "address": "38 WOODFERN STREET EDISON NJ 08820",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01409816",
+  "current_status": "Adjourned - Court",
+  "defendant": "NELSON TORRES, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$355,774.38",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F01409816",
+    "Defendant": "NELSON TORRES, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 33.C AKA LOT 33.03 Block 425",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTINA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
+    "Property Address": "38 WOODFERN STREET\nEDISON NJ 08820",
+    "Property Note": "",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-775865"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 355774.38,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "38 WOODFERN STREET EDISON NJ 08820",
+    "defendant": "NELSON TORRES, ET ALS",
+    "listing_status": "Cancelled",
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTINA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 33.C AKA LOT 33.03 Block 425",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTINA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-775865",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-09-13",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2023-09-13",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-08-30",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-07-19",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-04-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-02-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-01-18",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

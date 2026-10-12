@@ -1,0 +1,64 @@
+{
+  "address": "134 GATES AVENUE JERSEY CITY NJ 07305",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-013831-25",
+  "current_status": "Adjourned - Plaintiff - New Sale Date:",
+  "defendant": "GEORGE NGUYEN, ET AL.",
+  "description": "BLOCK 29602, LOT 30.01 C0010\nDIMENSIONS OF LOT (APPROXIMATELY): CONDO\nNEAREST CROSS STREET: OLD BERGEN ROAD\nAPPROX UPSET PRICE $181,000.00\nPROPERTY STATUS - BORROWER OCCUPIED\nPRIOR MORTGAGE, NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY RECORDED 4/5/17 BK 18933, PG 356 IN THE AMOUNT OF $187,900.00\nPRIOR MORTGAGE, NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY RECORDED 4/24/17 BK 18942, PG 733 IN THE AMOUNT OF $50,000.00\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO N.J.S.A. 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNERS ASSOCIATION LIENS WHICH MAY EXIST.",
+  "extracted": {
+    "block": "29602",
+    "lot": "30.01",
+    "upset_amount": 181000.0
+  },
+  "fields": {
+    "Address": "134 GATES AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F-013831-25",
+    "Defendant": "GEORGE NGUYEN, ET AL.",
+    "Description": "BLOCK 29602, LOT 30.01 C0010\nDIMENSIONS OF LOT (APPROXIMATELY): CONDO\nNEAREST CROSS STREET: OLD BERGEN ROAD\nAPPROX UPSET PRICE $181,000.00\nPROPERTY STATUS - BORROWER OCCUPIED\nPRIOR MORTGAGE, NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY RECORDED 4/5/17 BK 18933, PG 356 IN THE AMOUNT OF $187,900.00\nPRIOR MORTGAGE, NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY RECORDED 4/24/17 BK 18942, PG 733 IN THE AMOUNT OF $50,000.00\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO N.J.S.A. 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNERS ASSOCIATION LIENS WHICH MAY EXIST.",
+    "Good Faith Upset*": "$181,000.00",
+    "Judgment": "$162,786.22",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "11/5/2026",
+    "Sheriff #": "20063181"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 162786.22,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "134 GATES AVENUE JERSEY CITY NJ 07305",
+    "defendant": "GEORGE NGUYEN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2026-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-11-05",
+  "sheriff_number": "20063181",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-08",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    }
+  ],
+  "upset_amount": 181000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

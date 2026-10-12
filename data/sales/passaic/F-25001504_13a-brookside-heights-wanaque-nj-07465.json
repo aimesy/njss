@@ -1,0 +1,52 @@
+{
+  "address": "13A BROOKSIDE HEIGHTS Wanaque NJ 07465",
+  "attorney": "Hill Wallack, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 002389 25 CTL# 163050",
+  "current_status": "Cancelled",
+  "defendant": "WILLIAM J. KRAFTON, ET AL.",
+  "description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 745ft to the nearest cross street known as Conklintown Road.\nApproximate Dimensions: Property is a Condominium\nThe full legal description can be found in the Office of the Clerk of Passaic County in Deed Book D821, Page 182\nApproximate Upset Price is $297,929.41 for the Sheriff's Sale\nPursuant to a municipal tax search dated August 8,2025\nSubject to: 2025 4th quarter taxes due 11/1/2025, $2,513.27 OPEN\n2026 1st quarter taxes due 2/1/2026, $2,369.27 OPEN",
+  "extracted": {
+    "occupancy": "Borrower Occupied",
+    "upset_amount": 297929.41
+  },
+  "fields": {
+    "Address": "13A BROOKSIDE HEIGHTS\nWanaque NJ 07465",
+    "Approx. Upset*": "$273,784.21",
+    "Attorney": "Hill Wallack, LLP",
+    "Court Case #": "F 002389 25 CTL# 163050",
+    "Defendant": "WILLIAM J. KRAFTON, ET AL.",
+    "Description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 745ft to the nearest cross street known as Conklintown Road.\nApproximate Dimensions: Property is a Condominium\nThe full legal description can be found in the Office of the Clerk of Passaic County in Deed Book D821, Page 182\nApproximate Upset Price is $297,929.41 for the Sheriff's Sale\nPursuant to a municipal tax search dated August 8,2025\nSubject to: 2025 4th quarter taxes due 11/1/2025, $2,513.27 OPEN\n2026 1st quarter taxes due 2/1/2026, $2,369.27 OPEN",
+    "Parcel #": "Lot 3 Qual: C0040; Block 200.18",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "11/20/2025",
+    "Sheriff #": "F-25001504"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "13A BROOKSIDE HEIGHTS Wanaque NJ 07465",
+    "defendant": "WILLIAM J. KRAFTON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "sale_date": "2025-11-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 3 Qual: C0040; Block 200.18",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2025-11-20",
+  "sheriff_number": "F-25001504",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-11-20",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 273784.21,
+  "upset_amount_label": "Approx. Upset*"
+}

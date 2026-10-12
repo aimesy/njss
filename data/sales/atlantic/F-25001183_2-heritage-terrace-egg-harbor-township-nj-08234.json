@@ -1,0 +1,58 @@
+{
+  "address": "2 Heritage Terrace Egg Harbor Township NJ 08234",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001695-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jose D. Campos; Bernice Feliciano; Goodleap, LLC; Marino Ware Industries Inc; Palisades Medical Center",
+  "extracted": {},
+  "fields": {
+    "Address": "2 Heritage Terrace\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$308,559.81",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-001695-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jose D. Campos; Bernice Feliciano; Goodleap, LLC; Marino Ware Industries Inc; Palisades Medical Center",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/22/2026",
+    "Sheriff #": "F-25001183",
+    "Upset Amount": "$336,190.52"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 308559.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2 Heritage Terrace Egg Harbor Township NJ 08234",
+    "defendant": "Jose D. Campos; Bern...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2026-01-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-22",
+  "sheriff_number": "F-25001183",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 336190.52,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,55 @@
+{
+  "address": "200 MUNN AVE IRVINGTON NJ 07111",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00218726",
+  "current_status": "Scheduled",
+  "defendant": "200 MUNN AVE LLC; ET. AL.",
+  "description": "LOT(S): 33 BLOCK: 60\nDIMENSIONS (APPROX.): 33.00 X 100.00\nNEAREST CROSS STREET: GROVE TERRACE\nGOOD FAITH ESTIMATED UPSET PRICE: $795,350.80\nOCCUPANCY STATUS: OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "block": "60",
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 795350.8
+  },
+  "fields": {
+    "Address": "200 MUNN AVE\nIRVINGTON NJ 07111",
+    "Approx. Upset*": "$741,030.38",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00218726",
+    "Defendant": "200 MUNN AVE LLC; ET. AL.",
+    "Description": "LOT(S): 33 BLOCK: 60\nDIMENSIONS (APPROX.): 33.00 X 100.00\nNEAREST CROSS STREET: GROVE TERRACE\nGOOD FAITH ESTIMATED UPSET PRICE: $795,350.80\nOCCUPANCY STATUS: OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26004108"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "200 MUNN AVE IRVINGTON NJ 07111",
+    "defendant": "200 MUNN AVE LLC; ET. AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26004108",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 741030.38,
+  "upset_amount_label": "Approx. Upset*"
+}

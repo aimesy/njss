@@ -1,0 +1,74 @@
+{
+  "address": "4801 Hawthorne Lane Mays Landing NJ 08330",
+  "attorney": "McGovern Legal Services, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "ATL-DC-005885-23 / DJ-080891-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Kathryn Gilliam",
+  "extracted": {},
+  "fields": {
+    "Address": "4801 Hawthorne Lane\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$11,151.94",
+    "Attorney": "McGovern Legal Services, LLC",
+    "Court Case #": "ATL-DC-005885-23 / DJ-080891-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Kathryn Gilliam",
+    "Plaintiff": "The Village at Hardings Run Condominium Association, Inc.",
+    "Priors": "Commerce Bank N.A. $135,107.00\nDiscover Bank $4,565.65\nShore Medical Center $719.63\nVillage at Hardings Run Lien Claim #2023030275 $1,957.70\nVillage at Hardings Run Lien Claim #2024033300 $10,709.70\nTotal $153,059.68",
+    "Property Note": "OCCUPANY STATUS: OWNER OCCUPIED",
+    "Sales Date": "10/29/2026",
+    "Sheriff #": "L-25001132",
+    "Upset Amount": "$16,578.44"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 11151.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4801 Hawthorne Lane Mays Landing NJ 08330",
+    "defendant": "Kathryn Gilliam...",
+    "listing_status": null,
+    "plaintiff": "The Village at Hardi...",
+    "sale_date": "2026-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "The Village at Hardings Run Condominium Association, Inc.",
+  "priors": "Commerce Bank N.A. $135,107.00 Discover Bank $4,565.65 Shore Medical Center $719.63 Village at Hardings Run Lien Claim #2023030275 $1,957.70 Village at Hardings Run Lien Claim #2024033300 $10,709.70 Total $153,059.68",
+  "property_note": "OCCUPANY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-10-29",
+  "sheriff_number": "L-25001132",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-10-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-14",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 16578.44,
+  "upset_amount_label": "Upset Amount"
+}

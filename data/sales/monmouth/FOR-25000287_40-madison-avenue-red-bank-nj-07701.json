@@ -1,0 +1,60 @@
+{
+  "address": "40 Madison Avenue Red Bank NJ 07701",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00679224",
+  "current_status": "Scheduled",
+  "defendant": "Nancy J. Bunn",
+  "description": "Dimensions (Approx.): 50* 138\nNearest Cross Street: St. Nicholas Place\nGood Faith Estimated Upset Price: $370,243.33\nOccupancy Status: OCCUPIED\nIMPORTANT:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99- Summit Bank vs. Dennis Thiel (A-58-98)",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 370243.33
+  },
+  "fields": {
+    "Address": "40 Madison Avenue\nRed Bank NJ 07701",
+    "Approx. Judgment*": "$339,824.82",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00679224",
+    "Defendant": "Nancy J. Bunn",
+    "Description": "Dimensions (Approx.): 50* 138\nNearest Cross Street: St. Nicholas Place\nGood Faith Estimated Upset Price: $370,243.33\nOccupancy Status: OCCUPIED\nIMPORTANT:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99- Summit Bank vs. Dennis Thiel (A-58-98)",
+    "Parcel #": "Tax Lot(s): 16 Block: 114 Located on the tax map of the Borough of Red Bank",
+    "Plaintiff": "U.S. Bank Trust National Association, as Trustee of The Bungalow Series IV Trust",
+    "Property Note": "",
+    "Sales Date": "5/12/2025",
+    "Sheriff #": "FOR-25000287"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 339824.82,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40 Madison Avenue Red Bank NJ 07701",
+    "defendant": "Nancy J. Bunn",
+    "listing_status": "Bankrupt",
+    "plaintiff": "U.S. Bank Trust National Association, as Trustee of The Bungalow Series IV Trust",
+    "sale_date": "2025-05-12"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 16 Block: 114 Located on the tax map of the Borough of Red Bank",
+  "plaintiff": "U.S. Bank Trust National Association, as Trustee of The Bungalow Series IV Trust",
+  "property_note": null,
+  "sale_date": "2025-05-12",
+  "sheriff_number": "FOR-25000287",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-12",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "address": "2400 HARTFORD DRIVE GLENDORA NJ 08029",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00355025",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "BRYAN STIPPICK A/K/A BRYAN S. STIPPICK; KRISTINE DIPRIZITO A/K/A KRISTINE M. DIPRIZITO A/K/A KRISTINE M. STIPPICK A/K/A KRISTINE STIPPICK A/K/A KRISTINE DIPRIZITO-STIPPICK; UNITED STATES OF AMERICA; GLOUCESTER TOWNSHIP GRANTS ADMINISTRATION OFFICE; SUNNOVA MANAGEMENT, LLC; DISCOVER BANK",
+  "extracted": {},
+  "fields": {
+    "Address": "2400 HARTFORD DRIVE\nGLENDORA NJ 08029",
+    "Approx. Upset*": "$220,662.91",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F00355025",
+    "Defendant": "BRYAN STIPPICK A/K/A BRYAN S. STIPPICK; KRISTINE\nDIPRIZITO A/K/A KRISTINE M. DIPRIZITO A/K/A KRISTINE\nM. STIPPICK A/K/A KRISTINE STIPPICK A/K/A KRISTINE\nDIPRIZITO-STIPPICK; UNITED STATES OF AMERICA;\nGLOUCESTER TOWNSHIP GRANTS ADMINISTRATION\nOFFICE; SUNNOVA MANAGEMENT, LLC; DISCOVER BANK",
+    "Parcel #": "",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "3/31/2026",
+    "Sheriff #": "FR-25002013"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2400 HARTFORD DRIVE GLENDORA NJ 08029",
+    "defendant": "BRYAN STIPPICK A/K/A BRYAN S. STIPPICK; KRISTINE \nDIPRIZITO A/K/A KRISTINE M. DIPRIZITO A/K/A KRISTINE \nM. STIPPICK A/K/A KRISTINE STIPPICK A/K/A KRISTINE \nDIPRIZITO-STIPPICK; UNITED STATES OF AMERICA; \nGLOUCESTER TOWNSHIP GRANTS ADMINISTRATION \nOFFICE; SUNNOVA MANAGEMENT, LLC; DISCOVER BANK",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-03-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-03-31",
+  "sheriff_number": "FR-25002013",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 220662.91,
+  "upset_amount_label": "Approx. Upset*"
+}

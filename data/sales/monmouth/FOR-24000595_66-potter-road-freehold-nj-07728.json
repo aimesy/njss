@@ -1,0 +1,67 @@
+{
+  "address": "66 Potter Road Freehold NJ 07728",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00822322",
+  "current_status": "Scheduled",
+  "defendant": "Vincent Naimo, et al",
+  "description": "Dimensions: .79AC\nNearest Cross Street: Indian Hill Road\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nPlaintiff's good faith estimate of its upset price is : $960,383.70.\nThe occupancy status of the property is : Owner Occupied.",
+  "extracted": {
+    "upset_amount": 960383.7
+  },
+  "fields": {
+    "Address": "66 Potter Road\nFreehold NJ 07728",
+    "Approx. Judgment*": "$903,057.18",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F00822322",
+    "Defendant": "Vincent Naimo, et al",
+    "Description": "Dimensions: .79AC\nNearest Cross Street: Indian Hill Road\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nPlaintiff's good faith estimate of its upset price is : $960,383.70.\nThe occupancy status of the property is : Owner Occupied.",
+    "Parcel #": "Lot 7.06, Block 85.36 Tax Map of the Township of Freehold",
+    "Plaintiff": "U.S. Bank National Association, As Trustee For Asset Backed Securities Corporation Home Equity Loan Trust, Series OOMC 2006-HE3, Asset Backed Pass-Through Certificates, Series OOMC 2006-HE3",
+    "Property Note": "",
+    "Sales Date": "11/4/2024",
+    "Sheriff #": "FOR-24000595"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 903057.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "66 Potter Road Freehold NJ 07728",
+    "defendant": "Vincent Naimo, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "U.S. Bank National Association, As Trustee For Asset Backed Securities Corporation Home Equity Loan Trust, Series OOMC 2006-HE3, Asset Backed Pass-Through Certificates, Series OOMC 2006-HE3",
+    "sale_date": "2024-11-04"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 7.06, Block 85.36 Tax Map of the Township of Freehold",
+  "plaintiff": "U.S. Bank National Association, As Trustee For Asset Backed Securities Corporation Home Equity Loan Trust, Series OOMC 2006-HE3, Asset Backed Pass-Through Certificates, Series OOMC 2006-HE3",
+  "property_note": null,
+  "sale_date": "2024-11-04",
+  "sheriff_number": "FOR-24000595",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-04",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Scheduled"
+    }
+  ]
+}

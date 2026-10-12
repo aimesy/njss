@@ -1,0 +1,91 @@
+{
+  "address": "31 Heritage Drive Englishtown NJ 07726",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00865823",
+  "current_status": "Scheduled",
+  "defendant": "James Muzio, et al.",
+  "description": "Approximate Dimensions: 110.58' x 77.75' x 110.70' x 4.13' x 70.07'\nNearest Cross Street: South Main Street\nThe Plaintiff's Upset Bid presently approximates $584,000.00\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "31 Heritage Drive\nEnglishtown NJ 07726",
+    "Approx. Judgment*": "$489,719.21",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00865823",
+    "Defendant": "James Muzio, et al.",
+    "Description": "Approximate Dimensions: 110.58' x 77.75' x 110.70' x 4.13' x 70.07'\nNearest Cross Street: South Main Street\nThe Plaintiff's Upset Bid presently approximates $584,000.00\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+    "Parcel #": "Tax Lot: 45 Tax Block: 26.02 on the Tax map of The Borough of Englishtown",
+    "Plaintiff": "US Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "2/27/2026",
+    "Sheriff #": "FOR-24000608"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 489719.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 Heritage Drive Englishtown NJ 07726",
+    "defendant": "James Muzio, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "US Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "sale_date": "2026-02-27"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 45 Tax Block: 26.02 on the Tax map of The Borough of Englishtown",
+  "plaintiff": "US Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2026-02-27",
+  "sheriff_number": "FOR-24000608",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-27",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Scheduled"
+    }
+  ]
+}

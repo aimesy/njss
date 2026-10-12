@@ -1,0 +1,58 @@
+{
+  "address": "4640 Ocean Heights Avenue Mays Landing NJ 08330",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012640-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Steven G. Randall; Heather L. Randall",
+  "extracted": {},
+  "fields": {
+    "Address": "4640 Ocean Heights Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$250,101.43",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-012640-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Steven G. Randall; Heather L. Randall",
+    "Plaintiff": "Planet Home Lending, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS:OWNER OCCUPIED",
+    "Sales Date": "6/19/2025",
+    "Sheriff #": "F-25000423",
+    "Upset Amount": "$277,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 250101.43,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4640 Ocean Heights Avenue Mays Landing NJ 08330",
+    "defendant": "Steven G. Randall; H...",
+    "listing_status": null,
+    "plaintiff": "Planet Home Lending,...",
+    "sale_date": "2025-06-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Planet Home Lending, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS:OWNER OCCUPIED",
+  "sale_date": "2025-06-19",
+  "sheriff_number": "F-25000423",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-19",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-06-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 277000.0,
+  "upset_amount_label": "Upset Amount"
+}

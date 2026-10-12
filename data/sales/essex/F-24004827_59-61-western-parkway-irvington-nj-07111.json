@@ -1,0 +1,70 @@
+{
+  "address": "59-61 WESTERN PARKWAY IRVINGTON NJ 07111",
+  "attorney": "PELLEGRINO & FELDSTEIN, LLC",
+  "attorney_phone": "(973) 586-2300",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00257724",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "NORTH JERSEY TIRE; ET AL.",
+  "description": "LOT: 22 BLOCK: 62\nAPPROXIMTE DIMENSIONS: 58 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: SITUATE ON THE WEST SIDE OF WESTERN PARKWAY, ON THE WEST SIDE OF THE INTERSECTION OF WESTERN PARKWAY AND EIGHTEENTH AVENUE\nTHIS IS A TAX SALE.\nSHERIFF SALE SUBJECT TO: 2024 OPEN TAXES IN THE APPORXIMATE AOUNT OF $1,628.23; 2025 OPEN TAXES IN THE APPROXIMATE AMOUNT OF $3,141.88. TOTAL: $4,.4770.11 PLUS POSSIBLE SUBSEQUENT TAXES, CHARGES, INTEREST AND PENALITIES.\nALL LIENS AND ENCUMBRANCES KNOWN (ACTUAL AND CONSTRUCTIVE) THAT EXIST AGAINST THE PROPERTY, WITH THE APPROXIMATE AMOUNT OF SUCH LIEN(S) AND ENCUMBRANCES. THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.",
+  "extracted": {
+    "block": "62",
+    "lot": "22"
+  },
+  "fields": {
+    "Address": "59-61 WESTERN PARKWAY\nIRVINGTON NJ 07111",
+    "Approx. Upset*": "$106,705.86",
+    "Attorney": "PELLEGRINO & FELDSTEIN, LLC",
+    "Attorney Phone": "(973) 586-2300",
+    "Court Case #": "F00257724",
+    "Defendant": "NORTH JERSEY TIRE; ET AL.",
+    "Description": "LOT: 22 BLOCK: 62\nAPPROXIMTE DIMENSIONS: 58 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: SITUATE ON THE WEST SIDE OF WESTERN PARKWAY, ON THE WEST SIDE OF THE INTERSECTION OF WESTERN PARKWAY AND EIGHTEENTH AVENUE\nTHIS IS A TAX SALE.\nSHERIFF SALE SUBJECT TO: 2024 OPEN TAXES IN THE APPORXIMATE AOUNT OF $1,628.23; 2025 OPEN TAXES IN THE APPROXIMATE AMOUNT OF $3,141.88. TOTAL: $4,.4770.11 PLUS POSSIBLE SUBSEQUENT TAXES, CHARGES, INTEREST AND PENALITIES.\nALL LIENS AND ENCUMBRANCES KNOWN (ACTUAL AND CONSTRUCTIVE) THAT EXIST AGAINST THE PROPERTY, WITH THE APPROXIMATE AMOUNT OF SUCH LIEN(S) AND ENCUMBRANCES. THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.",
+    "Parcel #": "",
+    "Plaintiff": "ARYMING ASSET MANAAGEMENT LLC",
+    "Property Note": "",
+    "Sales Date": "10/30/2026",
+    "Sheriff #": "F-24004827"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "59-61 WESTERN PARKWAY IRVINGTON NJ 07111",
+    "defendant": "NORTH JERSEY TIRE; ET AL.",
+    "listing_status": null,
+    "plaintiff": "ARYMING ASSET MANAAGEMENT LLC",
+    "sale_date": "2026-10-30"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "ARYMING ASSET MANAAGEMENT LLC",
+  "property_note": null,
+  "sale_date": "2026-10-30",
+  "sheriff_number": "F-24004827",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-30",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 106705.86,
+  "upset_amount_label": "Approx. Upset*"
+}

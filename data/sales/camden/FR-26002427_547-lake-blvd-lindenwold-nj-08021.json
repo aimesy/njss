@@ -1,0 +1,49 @@
+{
+  "address": "547 LAKE BLVD LINDENWOLD NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00386826",
+  "current_status": "Scheduled",
+  "defendant": "JOSHUA E. GONZALEZ RIOS A/K/A JOSHUA GONZALEZ; DATA INC.; ABATECH INDUSTRIES INC.",
+  "extracted": {},
+  "fields": {
+    "Address": "547 LAKE BLVD\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$294,198.41",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00386826",
+    "Defendant": "JOSHUA E. GONZALEZ RIOS A/K/A JOSHUA GONZALEZ; DATA INC.; ABATECH INDUSTRIES INC.",
+    "Parcel #": "Tax LOT 5 ADDL 6 BLOCK 211",
+    "Plaintiff": "ROCKET MORTGAGE LLC,",
+    "Property Note": "2026 Qtr 4 Due: 11/01/2026 $3,184.73 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,812.75 OPEN\n2027 Qtr 2 Due: 05/01/2027 $2,812.75 OPEN\nSewer: Lindenwold Boro 2001 Egg Harbor Rd. Lindenwold, NJ 08021 856-783-2121 Acct: 2140 0\n10/01/2026 - 12/31/202650.00 OPEN AND DUE 10/01/2026 $150.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 220024087 07/01/2026 09/30/2026$93,00 OPEN PLUS PENALTY $556.28 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002427"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "547 LAKE BLVD LINDENWOLD NJ 08021",
+    "defendant": "JOSHUA E. GONZALEZ RIOS A/K/A JOSHUA GONZALEZ; DATA INC.; ABATECH INDUSTRIES INC.",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE LLC,",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax LOT 5 ADDL 6 BLOCK 211",
+  "plaintiff": "ROCKET MORTGAGE LLC,",
+  "property_note": "2026 Qtr 4 Due: 11/01/2026 $3,184.73 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,812.75 OPEN\n2027 Qtr 2 Due: 05/01/2027 $2,812.75 OPEN\nSewer: Lindenwold Boro 2001 Egg Harbor Rd. Lindenwold, NJ 08021 856-783-2121 Acct: 2140 0\n10/01/2026 - 12/31/202650.00 OPEN AND DUE 10/01/2026 $150.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 220024087 07/01/2026 09/30/2026$93,00 OPEN PLUS PENALTY $556.28 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002427",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 294198.41,
+  "upset_amount_label": "Approx. Upset*"
+}

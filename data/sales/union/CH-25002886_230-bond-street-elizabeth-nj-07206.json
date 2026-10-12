@@ -1,0 +1,64 @@
+{
+  "address": "230 BOND STREET ELIZABETH NJ 07206",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00713125",
+  "current_status": "Bankuptcy",
+  "defendant": "230 BOND ST LLC BY ERAN SHEMESH IN HIS CAPACITY AS MEMBER, ERAN SHEMESH INDIVIDUALLY AND IN THEIR CAPACITY AS GUARANTOR,; MR. OR MRS. SHEMESH; STATE OF NJ",
+  "description": "LOT 903 FKA 10 BLOCK 1 FKA 810",
+  "extracted": {
+    "block": "1",
+    "lot": "903"
+  },
+  "fields": {
+    "Address": "230 BOND STREET\nELIZABETH NJ 07206",
+    "Approx. Upset*": "$364,460.52",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F00713125",
+    "Defendant": "230 BOND ST LLC BY ERAN SHEMESH IN HIS CAPACITY AS MEMBER, ERAN SHEMESH INDIVIDUALLY AND IN THEIR CAPACITY AS GUARANTOR,; MR. OR MRS. SHEMESH; STATE OF NJ",
+    "Description": "LOT 903 FKA 10 BLOCK 1 FKA 810",
+    "Parcel #": "LOT 903 FKA 10 BLOCK 1 FKA 810",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF NFMP TRUST, SERIES 2023-C",
+    "Property Note": "",
+    "Sales Date": "5/6/2026",
+    "Sheriff #": "CH-25002886"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "230 BOND STREET ELIZABETH NJ 07206",
+    "defendant": "230 BOND ST LLC BY ERAN SHEMESH IN HIS CAPACITY AS MEMBER, ERAN SHEMESH INDIVIDUALLY AND IN THEIR CAPACITY AS GUARANTOR,; MR. OR MRS. SHEMESH; STATE OF NJ",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF NFMP TRUST, SERIES 2023-C",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 903 FKA 10 BLOCK 1 FKA 810",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF NFMP TRUST, SERIES 2023-C",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "CH-25002886",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 364460.52,
+  "upset_amount_label": "Approx. Upset*"
+}

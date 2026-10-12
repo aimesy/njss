@@ -1,0 +1,53 @@
+{
+  "address": "301 LOTUS AVE VOORHEES NJ 08043",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00726425",
+  "current_status": "Scheduled",
+  "defendant": "WILLIAM J. DOYLE JR A/K/A WILLIAM DOYLE A/K/A WILLIAM J. DOYLE; EAN SERVICES, LLC; OCEANFIRST BANK, NA F/K/A OCEAN CITY HOME BANK,",
+  "extracted": {},
+  "fields": {
+    "Address": "301 LOTUS AVE\nVOORHEES NJ 08043",
+    "Approx. Upset*": "$145,613.78",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00726425",
+    "Defendant": "WILLIAM J. DOYLE JR A/K/A WILLIAM DOYLE A/K/A WILLIAM J.\nDOYLE; EAN SERVICES, LLC; OCEANFIRST BANK, NA F/K/A OCEAN\nCITY HOME BANK,",
+    "Parcel #": "",
+    "Plaintiff": "SELENE FINANCE, LP",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-25002247"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "301 LOTUS AVE VOORHEES NJ 08043",
+    "defendant": "WILLIAM J. DOYLE JR A/K/A WILLIAM DOYLE A/K/A WILLIAM J. \nDOYLE; EAN SERVICES, LLC; OCEANFIRST BANK, NA F/K/A OCEAN \nCITY HOME BANK,",
+    "listing_status": null,
+    "plaintiff": "SELENE FINANCE, LP",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "SELENE FINANCE, LP",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-25002247",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-14",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 145613.78,
+  "upset_amount_label": "Approx. Upset*"
+}

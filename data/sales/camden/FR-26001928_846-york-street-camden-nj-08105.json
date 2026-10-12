@@ -1,0 +1,53 @@
+{
+  "address": "846 YORK STREET CAMDEN NJ 08105",
+  "attorney": "FEIN SUCH KAHN & SHEPARD P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F657325",
+  "current_status": "Bankruptcy",
+  "defendant": "JRM PROPERTY MANAGEMENT , LLC, ET ALS.",
+  "extracted": {},
+  "fields": {
+    "Address": "846 YORK STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$1,285,259.30",
+    "Attorney": "FEIN SUCH KAHN & SHEPARD P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F657325",
+    "Defendant": "JRM PROPERTY MANAGEMENT , LLC, ET ALS.",
+    "Parcel #": "TAX LOT NO. 96 IN BLOCK NO. 765",
+    "Plaintiff": "SILVER HILL CAPITAL, LLC",
+    "Property Note": "PRIOR LIENS/ENCUMBRANCES\nCCMUA OPEN AND DUE $59.75\nWATER OPEN PLUS PENALTY $0.21\nTOTAL AS OF July 29, 2026: $59.96",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001928"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "846 YORK STREET CAMDEN NJ 08105",
+    "defendant": "JRM PROPERTY MANAGEMENT , LLC, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "SILVER HILL CAPITAL, LLC",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT NO. 96 IN BLOCK NO. 765",
+  "plaintiff": "SILVER HILL CAPITAL, LLC",
+  "property_note": "PRIOR LIENS/ENCUMBRANCES\nCCMUA OPEN AND DUE $59.75\nWATER OPEN PLUS PENALTY $0.21\nTOTAL AS OF July 29, 2026: $59.96",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001928",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 1285259.3,
+  "upset_amount_label": "Approx. Upset*"
+}

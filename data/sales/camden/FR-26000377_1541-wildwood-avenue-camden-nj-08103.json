@@ -1,0 +1,65 @@
+{
+  "address": "1541 WILDWOOD AVENUE CAMDEN NJ 08103",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00408725",
+  "current_status": "Settled",
+  "defendant": "PANSY FLOWERS, INDIVINDUALLY, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "1541 WILDWOOD AVENUE\nCAMDEN NJ 08103",
+    "Approx. Upset*": "$28,927.05",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00408725",
+    "Defendant": "PANSY FLOWERS, INDIVINDUALLY, ET AL",
+    "Parcel #": "",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "9/3/2026",
+    "Sheriff #": "FR-26000377"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1541 WILDWOOD AVENUE CAMDEN NJ 08103",
+    "defendant": "PANSY FLOWERS, INDIVINDUALLY, ET AL",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-09-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-09-03",
+  "sheriff_number": "FR-26000377",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-09-03",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 28927.05,
+  "upset_amount_label": "Approx. Upset*"
+}

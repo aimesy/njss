@@ -1,0 +1,62 @@
+{
+  "address": "4521 Concord Place Mays Landing NJ 08330",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005666-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Lynda Longley a/k/a Lynda L. Longley, her heirs, devisees and personal representatives and her or their successors in rights, title and interest, et al; Kenneth T. McGowan, Sr., individually and as Executor of the Estate of Lynda Longley a/k/a Linda L. Longley; Julia E. McGowan, Known Heir; State of New Jersey; United States of America; Hardings Run Condominium Association, Inc.; Palisades Acquisition IVI LLC assignee of Centurion Captial Corporation; Hudson and Keyse LLC assignee of Bank of America NA USA a/k/a Hudson Keyse Limited Liability Company; The Communities of Concordia Homeowner's Association I/P/A Communiter Of Concordia Homeo Association Inc.; New Century Financial Services Inc., Midland Funding LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "4521 Concord Place\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$23,187.36",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-005666-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Lynda Longley a/k/a Lynda L. Longley, her heirs, devisees and personal representatives and her or their successors in rights, title and interest, et al; Kenneth T. McGowan, Sr., individually and as Executor of the Estate of Lynda Longley a/k/a Linda L. Longley; Julia E. McGowan, Known Heir; State of New Jersey; United States of America; Hardings Run Condominium Association, Inc.; Palisades Acquisition IVI LLC assignee of Centurion Captial Corporation; Hudson and Keyse LLC assignee of Bank of America NA USA a/k/a Hudson Keyse Limited Liability Company; The Communities of Concordia Homeowner's Association I/P/A Communiter Of Concordia Homeo Association Inc.; New Century Financial Services Inc., Midland Funding LLC",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/9/2026",
+    "Sheriff #": "F-26000043",
+    "Upset Amount": "$27,432.63"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 23187.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4521 Concord Place Mays Landing NJ 08330",
+    "defendant": "Lynda Longley a/k/a ...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2026-04-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-04-09",
+  "sheriff_number": "F-26000043",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-09",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 27432.63,
+  "upset_amount_label": "Upset Amount"
+}

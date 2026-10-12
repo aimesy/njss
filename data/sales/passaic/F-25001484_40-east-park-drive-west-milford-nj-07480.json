@@ -1,0 +1,67 @@
+{
+  "address": "40 EAST PARK Drive West Milford NJ 07480",
+  "attorney": "KNUCKLES & MANFRO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 010807 24 CTL# 163045",
+  "current_status": "Bankruptcy",
+  "defendant": "PETER WEBER AND DEBORAH WEBER, HUSBAND AND WIFE, ET AL.",
+  "description": "Dimensions (approx) 0.203 AC\nNearest Cross Street: Otterhole Road (approx 943 ft/288m)\nEstimated Upset Bid Amount: $288,000.00, in addition to lawful interest accuring daily at the rate allowed by law, up to and including the actual day of sale plus any additional Sheriff fees, costs, and/or commission, and/or any additional sums as ordered by the court. Bid amount is subject to change due to unforseen circumstances and/or adjournment.\nProperty Occupancy: The property is currently reported to be owner occupied.\nAs the above description does not constitute a full legal description, said full legal desscription is annexed to that certain mortgage recorded in the Office of the Register/ Clerk of Passaic County in Book M6549, Page 22 and the Writ of Execution on file with the Sheriff of Passaic County.",
+  "extracted": {
+    "occupancy": "The property is currently reported to be owner occupied."
+  },
+  "fields": {
+    "Address": "40 EAST PARK Drive\nWest Milford NJ 07480",
+    "Approx. Upset*": "$258,137.85",
+    "Attorney": "KNUCKLES & MANFRO, LLP",
+    "Court Case #": "F 010807 24 CTL# 163045",
+    "Defendant": "PETER WEBER AND DEBORAH WEBER, HUSBAND AND WIFE, ET AL.",
+    "Description": "Dimensions (approx) 0.203 AC\nNearest Cross Street: Otterhole Road (approx 943 ft/288m)\nEstimated Upset Bid Amount: $288,000.00, in addition to lawful interest accuring daily at the rate allowed by law, up to and including the actual day of sale plus any additional Sheriff fees, costs, and/or commission, and/or any additional sums as ordered by the court. Bid amount is subject to change due to unforseen circumstances and/or adjournment.\nProperty Occupancy: The property is currently reported to be owner occupied.\nAs the above description does not constitute a full legal description, said full legal desscription is annexed to that certain mortgage recorded in the Office of the Register/ Clerk of Passaic County in Book M6549, Page 22 and the Writ of Execution on file with the Sheriff of Passaic County.",
+    "Parcel #": "Tax Lot 4 Block 12302",
+    "Plaintiff": "MCLP ASSET COMPANY, INC.",
+    "Property Note": "",
+    "Sales Date": "2/10/2026",
+    "Sheriff #": "F-25001484"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "40 EAST PARK Drive West Milford NJ 07480",
+    "defendant": "PETER WEBER AND DEBORAH WEBER, HUSBAND AND WIFE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "MCLP ASSET COMPANY, INC.",
+    "sale_date": "2026-02-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 4 Block 12302",
+  "plaintiff": "MCLP ASSET COMPANY, INC.",
+  "property_note": null,
+  "sale_date": "2026-02-10",
+  "sheriff_number": "F-25001484",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-11-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-10",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-02-10",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 258137.85,
+  "upset_amount_label": "Approx. Upset*"
+}

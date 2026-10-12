@@ -1,0 +1,60 @@
+{
+  "address": "619 37TH STREET UNION CITY NJ 07087",
+  "attorney": "NORGAARD O'BOYLE & HANNON",
+  "attorney_phone": "201-871-1333",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-8757-20",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "JOHANNA VELAZQUEZ",
+  "description": "LOT 45, BLOCK 260.01\nDIMENSIONS (APPROX.): 25 X 75\nAPPROXIMATE UPSET: $104,489.18\nOCCUPANCY STATUS: UNKNOWN\nAs of June 23, 2026, the first and second quarter taxes for tax year 2026 are due and owing in the amount of $6,199.03.",
+  "extracted": {
+    "block": "260.01",
+    "lot": "45",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "619 37TH STREET\nUNION CITY NJ 07087",
+    "Attorney": "NORGAARD O'BOYLE & HANNON",
+    "Attorney Phone": "201-871-1333",
+    "Court Case #": "F-8757-20",
+    "Defendant": "JOHANNA VELAZQUEZ",
+    "Description": "LOT 45, BLOCK 260.01\nDIMENSIONS (APPROX.): 25 X 75\nAPPROXIMATE UPSET: $104,489.18\nOCCUPANCY STATUS: UNKNOWN\nAs of June 23, 2026, the first and second quarter taxes for tax year 2026 are due and owing in the amount of $6,199.03.",
+    "Good Faith Upset*": "$104,489.18",
+    "Judgment": "$102,096.61",
+    "Plaintiff": "MORRIS MOTORS, INC.",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "20063688"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 102096.61,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "619 37TH STREET UNION CITY NJ 07087",
+    "defendant": "JOHANNA VELAZQUEZ",
+    "listing_status": null,
+    "plaintiff": "MORRIS MOTORS, INC.",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "MORRIS MOTORS, INC.",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "20063688",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 104489.18,
+  "upset_amount_label": "Good Faith Upset*"
+}

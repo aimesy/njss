@@ -1,0 +1,66 @@
+{
+  "address": "217 Spring Mill Drive Galloway Township NJ 08205",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008223-18 Alias",
+  "current_status": "Scheduled",
+  "deed": "Citigroup Mortgage Loan Trust, Inc. Mortgage Pass-Through Certificates, Series 2006-WFI, U.S. Bank National Association, as Trustee, c/o Shellpoint Mortgage Servicing",
+  "deed_address": "55 Beattie Place, MS #005, Greenville, SC 29601",
+  "defendant": "Gregory Tillman, his/her heirs, devisees, and personal representatives and his/her, their, or any of their successors in right, title and interest; First American Title Insurance Company-Lenders Advantage; WSFS Bank fka Alliance Bank; United States of America; Bank of America, NA; Inland Finance Co.; Jersey Shore FCU; State of New Jersey; National Loan Recoveries, LLC; New Century Financial Services, Inc.; State of New Jersey (Prosecutor of Atlantic County)",
+  "extracted": {},
+  "fields": {
+    "Address": "217 Spring Mill Drive\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$301,276.16",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F-008223-18 Alias",
+    "Deed": "Citigroup Mortgage Loan Trust, Inc. Mortgage Pass-Through Certificates, Series 2006-WFI, U.S. Bank National Association, as Trustee, c/o Shellpoint Mortgage Servicing",
+    "Deed Address": "55 Beattie Place, MS #005, Greenville, SC 29601",
+    "Defendant": "Gregory Tillman, his/her heirs, devisees, and personal representatives and his/her, their, or any of their successors in right, title and interest; First American Title Insurance Company-Lenders Advantage; WSFS Bank fka Alliance Bank; United States of America; Bank of America, NA; Inland Finance Co.; Jersey Shore FCU; State of New Jersey; National Loan Recoveries, LLC; New Century Financial Services, Inc.; State of New Jersey (Prosecutor of Atlantic County)",
+    "Plaintiff": "US Bank National Association, as Trustee for Citigroup Mortgage Loan Trust Inc., Mortgage Pass-Through Certificates, Series 2006-WF1",
+    "Priors": "None",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/23/2025",
+    "Sheriff #": "F-19000146",
+    "Upset Amount": "$329,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 301276.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "217 Spring Mill Drive Galloway Township NJ 08205",
+    "defendant": "Gregory Tillman, his...",
+    "listing_status": null,
+    "plaintiff": "US Bank National Ass...",
+    "sale_date": "2025-01-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "US Bank National Association, as Trustee for Citigroup Mortgage Loan Trust Inc., Mortgage Pass-Through Certificates, Series 2006-WF1",
+  "priors": "None",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-01-23",
+  "sheriff_number": "F-19000146",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-23",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-01-23",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2023-05-25",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2023-05-25",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 329000.0,
+  "upset_amount_label": "Upset Amount"
+}

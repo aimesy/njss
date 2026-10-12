@@ -1,0 +1,60 @@
+{
+  "address": "40 TIMBER RIDGE ROAD NORTH BRUNSWICK NJ 08902",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01889319",
+  "current_status": "Bankruptcy",
+  "defendant": "MARGALIE TORRES",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$875,211.77",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01889319",
+    "Defendant": "MARGALIE TORRES",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 22 BLOCK 148.03",
+    "Plaintiff": "DLJ MORTGAGE CAPITAL, INC.",
+    "Property Address": "40 TIMBER RIDGE ROAD\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-776052"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 875211.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40 TIMBER RIDGE ROAD NORTH BRUNSWICK NJ 08902",
+    "defendant": "MARGALIE TORRES",
+    "listing_status": "Cancelled",
+    "plaintiff": "DLJ MORTGAGE CAPITAL, INC.",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 22 BLOCK 148.03",
+  "plaintiff": "DLJ MORTGAGE CAPITAL, INC.",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-776052",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-09-13",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

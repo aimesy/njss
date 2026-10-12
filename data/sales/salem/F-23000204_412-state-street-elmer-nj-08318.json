@@ -1,0 +1,48 @@
+{
+  "address": "412 State Street Elmer NJ 08318",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-014059-22",
+  "current_status": "Cancelled",
+  "defendant": "Roger D. Harrell; Mrs. Roger D. Harrell, His Wife,",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "412 State Street\nElmer NJ 08318",
+    "Court Case #": "F-014059-22",
+    "Defendant": "Roger D. Harrell; Mrs. Roger D. Harrell, His Wife,",
+    "Description": "",
+    "Plaintiff": "US Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+    "Sales Date": "06/16/2026 02:00 PM",
+    "Sheriff #": "F-23000204"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "412 State Street Elmer NJ 08318",
+    "defendant": "Roger D. Harrell; Mrs. Roger D. Harrell, His Wife,",
+    "listing_status": null,
+    "plaintiff": "US Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "US Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+  "sale_date": null,
+  "sheriff_number": "F-23000204",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

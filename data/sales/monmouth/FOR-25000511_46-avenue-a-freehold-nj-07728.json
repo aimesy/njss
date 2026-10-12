@@ -1,0 +1,64 @@
+{
+  "address": "46 Avenue A Freehold NJ 07728",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01242623",
+  "current_status": "Scheduled",
+  "defendant": "Vanessa Denise McCrae, Administratrix of the Estate of Hubert S. Blacknall, et al",
+  "description": "Dimensions of Lot: 108 feet wide by 120 feet long\nNearest Cross Street: Rhea Street\nEstimated upset bid amount: $467,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2024 Taxes: $6,894.05 BILLED, $5,140.35 OPEN PLUS PENALTY; $1,753.70 PAID\n2025 Qtr 1 Due: 02/01/2025 $1,723.52 OPEN PLUS PENALTY\n2025 Qtr 2 Due: 05/01/2025 $1,723.51 OPEN\nWater: Freehold Boro Water + Sewer Dept 51 West Main St Freehold, NJ 07728 732-462-1410\nAcct: 446 0 09/01/2024 - 11/30/2024 $254.40 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.\nGeneral Remark: 2025 TAXES WILL REFLECT CHANGE IN ASSESSED VALUE",
+  "extracted": {
+    "lot": "108",
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "46 Avenue A\nFreehold NJ 07728",
+    "Approx. Judgment*": "$424,675.84",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F01242623",
+    "Defendant": "Vanessa Denise McCrae, Administratrix of the Estate of Hubert S. Blacknall, et al",
+    "Description": "Dimensions of Lot: 108 feet wide by 120 feet long\nNearest Cross Street: Rhea Street\nEstimated upset bid amount: $467,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2024 Taxes: $6,894.05 BILLED, $5,140.35 OPEN PLUS PENALTY; $1,753.70 PAID\n2025 Qtr 1 Due: 02/01/2025 $1,723.52 OPEN PLUS PENALTY\n2025 Qtr 2 Due: 05/01/2025 $1,723.51 OPEN\nWater: Freehold Boro Water + Sewer Dept 51 West Main St Freehold, NJ 07728 732-462-1410\nAcct: 446 0 09/01/2024 - 11/30/2024 $254.40 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.\nGeneral Remark: 2025 TAXES WILL REFLECT CHANGE IN ASSESSED VALUE",
+    "Parcel #": "Tax Lot 16.02 Block 8 Tax Map of the Boro of Freehold",
+    "Plaintiff": "Bank of New York Mellon Trust Company, N.A. as Trustee for Mortgage Assets Management Series I Trust",
+    "Property Note": "",
+    "Sales Date": "7/7/2025",
+    "Sheriff #": "FOR-25000511"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 424675.84,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "46 Avenue A Freehold NJ 07728",
+    "defendant": "Vanessa Denise McCrae, Administratrix of the Estate of Hubert S. Blacknall, et al",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Bank of New York Mellon Trust Company, N.A. as Trustee for Mortgage Assets Management Series I Trust",
+    "sale_date": "2025-07-07"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 16.02 Block 8 Tax Map of the Boro of Freehold",
+  "plaintiff": "Bank of New York Mellon Trust Company, N.A. as Trustee for Mortgage Assets Management Series I Trust",
+  "property_note": null,
+  "sale_date": "2025-07-07",
+  "sheriff_number": "FOR-25000511",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-07",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Scheduled"
+    }
+  ]
+}

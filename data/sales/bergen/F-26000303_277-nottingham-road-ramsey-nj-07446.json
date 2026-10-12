@@ -1,0 +1,59 @@
+{
+  "address": "277 NOTTINGHAM ROAD RAMSEY NJ 07446",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01087025",
+  "current_status": "Cancelled",
+  "defendant": "JOHN M. NUNZIATA A/K/A JOHN NUNZIATA; BRIDGET NUNZIATA; ET AL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $418,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "277 NOTTINGHAM ROAD\nRAMSEY NJ 07446",
+    "Approx. Upset*": "$384,842.57",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F01087025",
+    "Defendant": "JOHN M. NUNZIATA A/K/A JOHN NUNZIATA; BRIDGET NUNZIATA; ET AL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $418,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 24, BLOCK 5502",
+    "Plaintiff": "CSMC 2018-SP3 TRUST",
+    "Property Note": "",
+    "Sales Date": "7/8/2026",
+    "Sheriff #": "F-26000303"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "277 NOTTINGHAM ROAD RAMSEY NJ 07446",
+    "defendant": "JOHN M. NUNZIATA A/K/A JOHN NUNZIATA; BRIDGET NUNZIATA; ET AL",
+    "listing_status": null,
+    "plaintiff": "CSMC 2018-SP3 TRUST",
+    "sale_date": "2026-07-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 24, BLOCK 5502",
+  "plaintiff": "CSMC 2018-SP3 TRUST",
+  "property_note": null,
+  "sale_date": "2026-07-08",
+  "sheriff_number": "F-26000303",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-08",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 384842.57,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,63 @@
+{
+  "address": "40 Reeds Road Tinton Falls NJ 07724",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01045723",
+  "current_status": "Scheduled",
+  "defendant": "SNP Enterprises LLC and Lambert Fraser",
+  "description": "Approximate dimensions - 175.00 x 322.52 x 157.70 x 18.68 Feet (Irregular)\nNearest cross street - Sycamore Avenue\nSubject to - 2023 Taxes in the amount of $6,503.09, open plus penalty.\n2024 Taxes in the amount of $7,592.93, open plus penalty.\nSewer in the amount of $736.89, open plus penalty.\nUpset Price - $582,648.64\nOccupancy Status - Unknown",
+  "extracted": {
+    "upset_amount": 582648.64
+  },
+  "fields": {
+    "Address": "40 Reeds Road\nTinton Falls NJ 07724",
+    "Approx. Judgment*": "$538,069.54",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F01045723",
+    "Defendant": "SNP Enterprises LLC and Lambert Fraser",
+    "Description": "Approximate dimensions - 175.00 x 322.52 x 157.70 x 18.68 Feet (Irregular)\nNearest cross street - Sycamore Avenue\nSubject to - 2023 Taxes in the amount of $6,503.09, open plus penalty.\n2024 Taxes in the amount of $7,592.93, open plus penalty.\nSewer in the amount of $736.89, open plus penalty.\nUpset Price - $582,648.64\nOccupancy Status - Unknown",
+    "Parcel #": "Lot 5, Block 51 Tax Map of Borough of Tinton Falls",
+    "Plaintiff": "CAFL 2022-RTL1 ISSUER, LLC",
+    "Property Note": "",
+    "Sales Date": "6/13/2025",
+    "Sheriff #": "FOR-24002022"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 538069.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40 Reeds Road Tinton Falls NJ 07724",
+    "defendant": "SNP Enterprises LLC and Lambert Fraser",
+    "listing_status": "Redeemed",
+    "plaintiff": "CAFL 2022-RTL1 ISSUER, LLC",
+    "sale_date": "2025-06-13"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 5, Block 51 Tax Map of Borough of Tinton Falls",
+  "plaintiff": "CAFL 2022-RTL1 ISSUER, LLC",
+  "property_note": null,
+  "sale_date": "2025-06-13",
+  "sheriff_number": "FOR-24002022",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-13",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

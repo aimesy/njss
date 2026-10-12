@@ -1,0 +1,69 @@
+{
+  "address": "511 HOBART DRIVE 511 HOBART DRIVE, CLEMENTON, NJ 08021 TOWNSHIP OF GLOUCESTER NJ 08021",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00729925",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MAUREEN LAZARO; MR. MAUREEN LAZARO, HUSBAND OF MAUREEN LAZARO AND SUNRUN, INC.,",
+  "extracted": {},
+  "fields": {
+    "Address": "511 HOBART DRIVE\n511 HOBART DRIVE, CLEMENTON, NJ 08021\nTOWNSHIP OF GLOUCESTER NJ 08021",
+    "Approx. Upset*": "$198,720.35",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00729925",
+    "Defendant": "MAUREEN LAZARO; MR. MAUREEN LAZARO, HUSBAND\nOF MAUREEN LAZARO AND SUNRUN, INC.,",
+    "Parcel #": "LOT 10 BLOCK 11207",
+    "Plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+    "Property Note": "2026 FIRST QUARTER TAXES IN THE AMOUNT OF $2,306.42, OPEN PLUS PENALTY. SEWER IN THE AMOUNT OF $46.00, OPEN AND DUE 2/1/2026. CCMUA IN THE AMOUNT OF $93.00, OPEN PLUS PENALTY. CCMUA IN THE AMOUNT OF $196.28, OPEN PLUS PENALTY; OWED IN ARREARS.",
+    "Sales Date": "9/4/2026",
+    "Sheriff #": "FR-26000387"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "511 HOBART DRIVE 511 HOBART DRIVE, CLEMENTON, NJ 08021 TOWNSHIP OF GLOUCESTER NJ 08021",
+    "defendant": "MAUREEN LAZARO; MR. MAUREEN LAZARO, HUSBAND \nOF MAUREEN LAZARO AND SUNRUN, INC.,",
+    "listing_status": null,
+    "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+    "sale_date": "2026-09-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 10 BLOCK 11207",
+  "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+  "property_note": "2026 FIRST QUARTER TAXES IN THE AMOUNT OF $2,306.42, OPEN PLUS PENALTY. SEWER IN THE AMOUNT OF $46.00, OPEN AND DUE 2/1/2026. CCMUA IN THE AMOUNT OF $93.00, OPEN PLUS PENALTY. CCMUA IN THE AMOUNT OF $196.28, OPEN PLUS PENALTY; OWED IN ARREARS.",
+  "sale_date": "2026-09-04",
+  "sheriff_number": "FR-26000387",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-04",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 198720.35,
+  "upset_amount_label": "Approx. Upset*"
+}

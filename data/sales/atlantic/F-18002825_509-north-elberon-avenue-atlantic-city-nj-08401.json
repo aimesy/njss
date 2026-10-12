@@ -1,0 +1,82 @@
+{
+  "address": "509 North Elberon Avenue Atlantic City NJ 08401",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003185-18 PLURIES",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Carmelo A. Ortiz; Jessica M. Perez a/k/a Jessica Sanchez a/k/a Jessica Ortiz",
+  "extracted": {},
+  "fields": {
+    "Address": "509 North Elberon Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$532,558.22",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-003185-18 PLURIES",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Carmelo A. Ortiz; Jessica M. Perez a/k/a Jessica Sanchez a/k/a Jessica Ortiz",
+    "Plaintiff": "GMAT Legal Title Trust 2013-1, U.S. Bank National Association, as Legal Title Trustee",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/27/2025",
+    "Sheriff #": "F-18002825",
+    "Upset Amount": "$682,600.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 532558.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "509 North Elberon Avenue Atlantic City NJ 08401",
+    "defendant": "Carmelo A. Ortiz; Je...",
+    "listing_status": null,
+    "plaintiff": "GMAT Legal Title Tru...",
+    "sale_date": "2025-01-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "GMAT Legal Title Trust 2013-1, U.S. Bank National Association, as Legal Title Trustee",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-01-27",
+  "sheriff_number": "F-18002825",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-27",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 682600.0,
+  "upset_amount_label": "Upset Amount"
+}

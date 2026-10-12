@@ -1,0 +1,51 @@
+{
+  "address": "205 Newark Avenue Union Beach NJ 07735",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00840622",
+  "current_status": "Settled",
+  "defendant": "Ken Davis, et al",
+  "description": "Approximate dimensions: 61.75' x 100.00'\nNearest cross street: Stone Road\nThe Plaintiff's Upset Bid presently approximates $365,000\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "205 Newark Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$343,325.79",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00840622",
+    "Defendant": "Ken Davis, et al",
+    "Description": "Approximate dimensions: 61.75' x 100.00'\nNearest cross street: Stone Road\nThe Plaintiff's Upset Bid presently approximates $365,000\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+    "Parcel #": "Tax Lot: 3 Tax Block: 125 Tax Map of Borough of Union Beach",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "12/23/2024",
+    "Sheriff #": "FOR-24002003"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 343325.79,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "205 Newark Avenue Union Beach NJ 07735",
+    "defendant": "Ken Davis, et al",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+    "sale_date": "2024-12-23"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 3 Tax Block: 125 Tax Map of Borough of Union Beach",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2024-12-23",
+  "sheriff_number": "FOR-24002003",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-23",
+      "status": "Settled"
+    }
+  ]
+}

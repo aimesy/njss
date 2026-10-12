@@ -1,0 +1,53 @@
+{
+  "address": "1273 EVERETT STREET CAMDEN NJ 08104",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00679525",
+  "current_status": "Purchased",
+  "defendant": "JAN C. ENRIQUEZ, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1273 EVERETT STREET\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$127,294.02",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00679525",
+    "Defendant": "JAN C. ENRIQUEZ, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "FR-26000457"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1273 EVERETT STREET CAMDEN NJ 08104",
+    "defendant": "JAN C. ENRIQUEZ, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "FR-26000457",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 127294.02,
+  "upset_amount_label": "Approx. Upset*"
+}

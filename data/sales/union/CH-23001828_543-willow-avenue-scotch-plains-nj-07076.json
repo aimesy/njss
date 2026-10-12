@@ -1,0 +1,60 @@
+{
+  "address": "543 WILLOW AVENUE SCOTCH PLAINS NJ 07076",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01096122",
+  "current_status": "Cancelled",
+  "defendant": "LINDA JENKINS-DAVIS A/K/A LINDA L. DAVIS A/K/A LINDA DAVIS INDIVIDUALLY AND AS ADMINISTRATIX OF THE ESTATE OF GEORGE DAVIS A/K/A GEORGE D. DAVIS JR.; SANTANDER BANK, N.A. F/K/A SOVEREIGN BANK; CAMPUS POINT PLAZA LLC",
+  "description": "LOT 3 BLOCK 1201",
+  "extracted": {
+    "block": "1201",
+    "lot": "3"
+  },
+  "fields": {
+    "Address": "543 WILLOW AVENUE\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$213,773.75",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F01096122",
+    "Defendant": "LINDA JENKINS-DAVIS A/K/A LINDA L. DAVIS A/K/A LINDA DAVIS INDIVIDUALLY AND AS ADMINISTRATIX OF THE ESTATE OF GEORGE DAVIS A/K/A GEORGE D. DAVIS JR.; SANTANDER BANK, N.A. F/K/A SOVEREIGN BANK; CAMPUS POINT PLAZA LLC",
+    "Description": "LOT 3 BLOCK 1201",
+    "Parcel #": "LOT 3 BLOCK 1201",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ARGENT SECURITIES INC., ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-M1",
+    "Property Note": "",
+    "Sales Date": "4/7/2026",
+    "Sheriff #": "CH-23001828"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "543 WILLOW AVENUE SCOTCH PLAINS NJ 07076",
+    "defendant": "LINDA JENKINS-DAVIS A/K/A LINDA L. DAVIS A/K/A LINDA DAVIS INDIVIDUALLY AND AS ADMINISTRATIX OF THE ESTATE OF GEORGE DAVIS A/K/A GEORGE D. DAVIS JR.; SANTANDER BANK, N.A. F/K/A SOVEREIGN BANK; CAMPUS POINT PLAZA LLC",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ARGENT SECURITIES INC., ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-M1",
+    "sale_date": "2026-04-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 3 BLOCK 1201",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ARGENT SECURITIES INC., ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-M1",
+  "property_note": null,
+  "sale_date": "2026-04-07",
+  "sheriff_number": "CH-23001828",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2023-09-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-20",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 213773.75,
+  "upset_amount_label": "Approx. Upset*"
+}

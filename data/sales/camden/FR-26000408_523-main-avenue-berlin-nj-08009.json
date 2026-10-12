@@ -1,0 +1,57 @@
+{
+  "address": "523 MAIN AVENUE BERLIN NJ 08009",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00479524",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "BRYAN SANCHEZ; KEYSHA RODRIGUEZ; STATE OF NEW JERSEY; FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF BRYAN SANCHEZ; UNITED STATES OF AMERICA;",
+  "extracted": {},
+  "fields": {
+    "Address": "523 MAIN AVENUE\nBERLIN NJ 08009",
+    "Approx. Upset*": "$262,429.03",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00479524",
+    "Defendant": "BRYAN SANCHEZ; KEYSHA RODRIGUEZ; STATE\nOF NEW JERSEY; FICTITIOUS SPOUSE OR CIVIL\nUNION PARTNER OF BRYAN SANCHEZ; UNITED\nSTATES OF AMERICA;",
+    "Parcel #": "",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "Property Note": "",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "FR-26000408"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "523 MAIN AVENUE BERLIN NJ 08009",
+    "defendant": "BRYAN SANCHEZ; KEYSHA RODRIGUEZ; STATE \nOF NEW JERSEY; FICTITIOUS SPOUSE OR CIVIL \nUNION PARTNER OF BRYAN SANCHEZ; UNITED \nSTATES OF AMERICA;",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+  "property_note": null,
+  "sale_date": "2026-06-17",
+  "sheriff_number": "FR-26000408",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 262429.03,
+  "upset_amount_label": "Approx. Upset*"
+}

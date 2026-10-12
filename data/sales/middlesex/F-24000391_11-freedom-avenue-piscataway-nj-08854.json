@@ -1,0 +1,72 @@
+{
+  "address": "11 FREEDOM AVENUE PISCATAWAY NJ 08854",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01407423",
+  "current_status": "Bankruptcy",
+  "defendant": "JOSE V. BARRERA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$401,688.12",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F01407423",
+    "Defendant": "JOSE V. BARRERA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 26.03 BLOCK 8801 FKA 710",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ARGENT SECURITIES INC., ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-W4",
+    "Property Address": "11 FREEDOM AVENUE\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "10/1/2025",
+    "Sheriff #": "F-24000391"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 401688.12,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 FREEDOM AVENUE PISCATAWAY NJ 08854",
+    "defendant": "JOSE V. BARRERA, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ARGENT SECURITIES INC., ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-W4",
+    "sale_date": "2025-10-01"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 26.03 BLOCK 8801 FKA 710",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ARGENT SECURITIES INC., ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-W4",
+  "property_note": null,
+  "sale_date": "2025-10-01",
+  "sheriff_number": "F-24000391",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-01-31",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

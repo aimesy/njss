@@ -1,0 +1,60 @@
+{
+  "address": "74 Marcellus Avenue Woodland Park NJ 07424",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003089 25 CTL# 163020",
+  "current_status": "Cancelled",
+  "defendant": "FERNANDO ANDRES RODRIGUEZ ET ALS",
+  "description": "Dimensions of Lot: 40 feet wide by 100 feet long\nNearest Cross Street: W 35th Street\nEstimated upset bid amount: $478,400.00 plus any additional sums as ordered by the court.\nOccupancy Status: Vacant\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 3 Due: 08/01/2025 $2,447.61 OPEN\n2025 Qtr 4 Due: 11/01/2025 $2,447.60 OPEN\n2025 Qtr 1 Due: 02/01/2026 $2,386.47 OPEN\n2025 Qtr 2 Due: 05/01/2026 $2,386.47 OPEN",
+  "extracted": {
+    "lot": "40",
+    "occupancy": "Vacant"
+  },
+  "fields": {
+    "Address": "74 Marcellus Avenue\nWoodland Park NJ 07424",
+    "Approx. Upset*": "$436,703.55",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 003089 25 CTL# 163020",
+    "Defendant": "FERNANDO ANDRES RODRIGUEZ ET ALS",
+    "Description": "Dimensions of Lot: 40 feet wide by 100 feet long\nNearest Cross Street: W 35th Street\nEstimated upset bid amount: $478,400.00 plus any additional sums as ordered by the court.\nOccupancy Status: Vacant\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 3 Due: 08/01/2025 $2,447.61 OPEN\n2025 Qtr 4 Due: 11/01/2025 $2,447.60 OPEN\n2025 Qtr 1 Due: 02/01/2026 $2,386.47 OPEN\n2025 Qtr 2 Due: 05/01/2026 $2,386.47 OPEN",
+    "Parcel #": "Tax Lot 40 Block 13",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "12/5/2025",
+    "Sheriff #": "F-25001346"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "74 Marcellus Avenue Woodland Park NJ 07424",
+    "defendant": "FERNANDO ANDRES RODRIGUEZ ET ALS",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2025-12-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 40 Block 13",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2025-12-05",
+  "sheriff_number": "F-25001346",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 436703.55,
+  "upset_amount_label": "Approx. Upset*"
+}

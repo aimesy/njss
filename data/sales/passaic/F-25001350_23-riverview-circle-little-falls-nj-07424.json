@@ -1,0 +1,68 @@
+{
+  "address": "23 RIVERVIEW Circle Little Falls NJ 07424",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003466 24 CTL# 163022",
+  "current_status": "Cancelled",
+  "defendant": "FERNANDO BRICENO; ROXANA MARTINEZ, WIFE OF FERNANDO BRICENO AND MIDLAND FUNDING LLC",
+  "description": "Municipality: Township of Little Falls\nApproximate dimensions: 50.63 x 123.01 x 50.00 x 130.99 Feet (IRREGULAR)\nNearest cross street: Parkway\nSubject to: n/a\nUpset Price: $226,199.67\nOccupancy Status: Occupied\n** To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act**",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 226199.67
+  },
+  "fields": {
+    "Address": "23 RIVERVIEW Circle\nLittle Falls NJ 07424",
+    "Approx. Upset*": "$211,951.74",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 003466 24 CTL# 163022",
+    "Defendant": "FERNANDO BRICENO; ROXANA MARTINEZ, WIFE OF FERNANDO BRICENO AND MIDLAND FUNDING LLC",
+    "Description": "Municipality: Township of Little Falls\nApproximate dimensions: 50.63 x 123.01 x 50.00 x 130.99 Feet (IRREGULAR)\nNearest cross street: Parkway\nSubject to: n/a\nUpset Price: $226,199.67\nOccupancy Status: Occupied\n** To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act**",
+    "Parcel #": "Lot 43 Block 86",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+    "Property Note": "",
+    "Sales Date": "1/28/2026",
+    "Sheriff #": "F-25001350"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "23 RIVERVIEW Circle Little Falls NJ 07424",
+    "defendant": "FERNANDO BRICENO; ROXANA MARTINEZ, WIFE OF FERNANDO BRICENO AND MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+    "sale_date": "2026-01-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 43 Block 86",
+  "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+  "property_note": null,
+  "sale_date": "2026-01-28",
+  "sheriff_number": "F-25001350",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 211951.74,
+  "upset_amount_label": "Approx. Upset*"
+}

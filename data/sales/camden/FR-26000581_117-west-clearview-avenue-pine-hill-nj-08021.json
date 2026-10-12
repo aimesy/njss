@@ -1,0 +1,69 @@
+{
+  "address": "117 WEST CLEARVIEW AVENUE PINE HILL NJ 08021",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00857125",
+  "current_status": "Court Adjournment",
+  "defendant": "SHANNON CEPHAS, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "117 WEST CLEARVIEW AVENUE\nPINE HILL NJ 08021",
+    "Approx. Upset*": "$151,690.53",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00857125",
+    "Defendant": "SHANNON CEPHAS, ET AL",
+    "Parcel #": "TAX LOT:88 TAX BLOCK: 28",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "9/28/2026",
+    "Sheriff #": "FR-26000581"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "117 WEST CLEARVIEW AVENUE PINE HILL NJ 08021",
+    "defendant": "SHANNON CEPHAS, ET AL",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-09-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT:88 TAX BLOCK: 28",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-09-28",
+  "sheriff_number": "FR-26000581",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-28",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 151690.53,
+  "upset_amount_label": "Approx. Upset*"
+}

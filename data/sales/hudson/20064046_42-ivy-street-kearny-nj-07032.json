@@ -1,0 +1,56 @@
+{
+  "address": "42 IVY STREET KEARNY NJ 07032",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "401-217-8701",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-010577-24",
+  "current_status": "Scheduled",
+  "defendant": "RUPERTO HERNANDEZ JR, ET AL.",
+  "description": "LOT 31, BLOCK 251\nDIMENSIONS: 25FT. X 100FT.\nNEAREST CROSS STREET: BERGEN AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED.\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $576,503.28\nPURSUANT TO 28 USC 2410(C) THIS SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN:\nPARTIAL CLAIM MORTGAGE: RUPERTO HERNANDEZ JR AND RUPERTO HERNANDEZ TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 01/16/2024 AND RECORDED ON 02/05/2024, IN BOOK 20556, PAGE 162, TO SECURE $36,143.19.",
+  "extracted": {
+    "block": "251",
+    "lot": "31",
+    "upset_amount": 576503.28
+  },
+  "fields": {
+    "Address": "42 IVY STREET\nKEARNY NJ 07032",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "401-217-8701",
+    "Court Case #": "F-010577-24",
+    "Defendant": "RUPERTO HERNANDEZ JR, ET AL.",
+    "Description": "LOT 31, BLOCK 251\nDIMENSIONS: 25FT. X 100FT.\nNEAREST CROSS STREET: BERGEN AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED.\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $576,503.28\nPURSUANT TO 28 USC 2410(C) THIS SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN:\nPARTIAL CLAIM MORTGAGE: RUPERTO HERNANDEZ JR AND RUPERTO HERNANDEZ TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 01/16/2024 AND RECORDED ON 02/05/2024, IN BOOK 20556, PAGE 162, TO SECURE $36,143.19.",
+    "Good Faith Upset*": "$576,503.28",
+    "Judgment": "$532,984.94",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20064046"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 532984.94,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "42 IVY STREET KEARNY NJ 07032",
+    "defendant": "RUPERTO HERNANDEZ JR, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20064046",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 576503.28,
+  "upset_amount_label": "Good Faith Upset*"
+}

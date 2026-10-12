@@ -1,0 +1,59 @@
+{
+  "address": "307 HANCOCK COURT EDGEWATER NJ 07020",
+  "attorney": "CUTOLO BARROS LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01079924",
+  "current_status": "Cancelled",
+  "defendant": "SEUNG KOO LEE; SOO YEON KIM",
+  "description": "THE APPROXIMATE AMOUNT OF THE UPSET PRICE IS $44,883.54, MORE OR LESS, WHICH CONSISTS OF THE FINAL JUDGMENT AMOUNT OF $25,730.98, PLUS AN ORDER DIRECTING THE SHERIFF TO COLLECT ADDITIONAL SUMS IN THE AMOUNT OF $19,152.56 PLUS INTEREST TOGETHER WITH THE COSTS OF THIS SALE.\nTHE PROPERTY IS CURRENTLY VACANT.",
+  "extracted": {
+    "upset_amount": 44883.54
+  },
+  "fields": {
+    "Address": "307 HANCOCK COURT\nEDGEWATER NJ 07020",
+    "Approx. Upset*": "$44,883.54",
+    "Attorney": "CUTOLO BARROS LLC",
+    "Court Case #": "F01079924",
+    "Defendant": "SEUNG KOO LEE; SOO YEON KIM",
+    "Description": "THE APPROXIMATE AMOUNT OF THE UPSET PRICE IS $44,883.54, MORE OR LESS, WHICH CONSISTS OF THE FINAL JUDGMENT AMOUNT OF $25,730.98, PLUS AN ORDER DIRECTING THE SHERIFF TO COLLECT ADDITIONAL SUMS IN THE AMOUNT OF $19,152.56 PLUS INTEREST TOGETHER WITH THE COSTS OF THIS SALE.\nTHE PROPERTY IS CURRENTLY VACANT.",
+    "Parcel #": "LOT 2 QUAL. CM307, BLOCK 85.01",
+    "Plaintiff": "INDEPENDENCE HARBOR I CODOMINIUM ASSOCIATION, INC.",
+    "Property Note": "",
+    "Sales Date": "11/6/2025",
+    "Sheriff #": "F-25001860"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "307 HANCOCK COURT EDGEWATER NJ 07020",
+    "defendant": "SEUNG KOO LEE; SOO YEON KIM",
+    "listing_status": null,
+    "plaintiff": "INDEPENDENCE HARBOR I CODOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2025-11-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2 QUAL. CM307, BLOCK 85.01",
+  "plaintiff": "INDEPENDENCE HARBOR I CODOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2025-11-06",
+  "sheriff_number": "F-25001860",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 44883.54,
+  "upset_amount_label": "Approx. Upset*"
+}

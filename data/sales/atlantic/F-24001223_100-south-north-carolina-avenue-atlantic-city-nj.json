@@ -1,0 +1,58 @@
+{
+  "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+  "attorney": "K&L Gates, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000694-24",
+  "current_status": "Scheduled",
+  "deed": "Wyndham Vacation Resorts, Inc",
+  "deed_address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+  "defendant": "Dollene Bonner, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Joseph N. Mcrae, Deceased, His Devisees and Personal Representatives, and His Their or Any of Their Successors in Right, Title and Interest",
+  "extracted": {},
+  "fields": {
+    "Address": "100 South North Carolina Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$31,485.26",
+    "Attorney": "K&L Gates, LLP",
+    "Court Case #": "F-000694-24",
+    "Deed": "Wyndham Vacation Resorts, Inc",
+    "Deed Address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+    "Defendant": "Dollene Bonner, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Joseph N. Mcrae, Deceased, His Devisees and Personal Representatives, and His Their or Any of Their Successors in Right, Title and Interest",
+    "Plaintiff": "Wyndham Vacation Resorts, Inc. f/k/a Fairfield Resorts, Inc",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: Property is not vacant, tenant-occupied or owner occupied but instead is a timeshare vacation property.",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24001223",
+    "Upset Amount": "$8,966.60"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 31485.26,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+    "defendant": "Dollene Bonner, Dece...",
+    "listing_status": null,
+    "plaintiff": "Wyndham Vacation Res...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wyndham Vacation Resorts, Inc. f/k/a Fairfield Resorts, Inc",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: Property is not vacant, tenant-occupied or owner occupied but instead is a timeshare vacation property.",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24001223",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 8966.6,
+  "upset_amount_label": "Upset Amount"
+}

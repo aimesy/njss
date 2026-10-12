@@ -1,0 +1,68 @@
+{
+  "address": "316 HARRISON AVENUE HIGHLAND PARK NJ 08904",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-924-0808",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01062223",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "WILLIAM R. YOUNG, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$248,040.13",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F01062223",
+    "Defendant": "WILLIAM R. YOUNG, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 45 BLOCK 801 FKA 168",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C",
+    "Property Address": "316 HARRISON AVENUE\nHIGHLAND PARK NJ 08904",
+    "Property Note": "",
+    "Sale Date": "7/23/2025",
+    "Sheriff #": "F-25000875"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 248040.13,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "316 HARRISON AVENUE HIGHLAND PARK NJ 08904",
+    "defendant": "WILLIAM R. YOUNG, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C",
+    "sale_date": "2025-07-23"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 45 BLOCK 801 FKA 168",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C",
+  "property_note": null,
+  "sale_date": "2025-07-23",
+  "sheriff_number": "F-25000875",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-07-23",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "25 OAKEY DRIVE KENDALL PARK NJ 08824",
+  "attorney": "MCCABE, WEISBERG & CONWAY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 802-4300",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00897324",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "GAIL V. MILLER, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$131,533.22",
+    "Attorney": "MCCABE, WEISBERG & CONWAY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 802-4300",
+    "Court Case #": "F00897324",
+    "Defendant": "GAIL V. MILLER, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 16 BLOCK 404",
+    "Plaintiff": "FINANCE OF AMERICA REVERSE LLC.",
+    "Property Address": "25 OAKEY DRIVE\nKENDALL PARK NJ 08824",
+    "Property Note": "",
+    "Sale Date": "6/11/2025",
+    "Sheriff #": "F-25000448"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 131533.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "25 OAKEY DRIVE KENDALL PARK NJ 08824",
+    "defendant": "GAIL V. MILLER, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "FINANCE OF AMERICA REVERSE LLC.",
+    "sale_date": "2025-06-11"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 16 BLOCK 404",
+  "plaintiff": "FINANCE OF AMERICA REVERSE LLC.",
+  "property_note": null,
+  "sale_date": "2025-06-11",
+  "sheriff_number": "F-25000448",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-06-11",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-05-14",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

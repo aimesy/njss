@@ -1,0 +1,53 @@
+{
+  "address": "30 STABLE COURT SICKLERVILLE NJ 08081",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00700925",
+  "current_status": "Scheduled",
+  "defendant": "JUDITH M. PEKANYANDE; WILTON'S CORNER PROPRIETARY ASSOCIATION, INC.; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "30 STABLE COURT\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$234,581.75",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00700925",
+    "Defendant": "JUDITH M. PEKANYANDE; WILTON'S CORNER PROPRIETARY\nASSOCIATION, INC.; STATE OF NEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN\nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER\nTRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "FR-25002384"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "30 STABLE COURT SICKLERVILLE NJ 08081",
+    "defendant": "JUDITH M. PEKANYANDE; WILTON'S CORNER PROPRIETARY \nASSOCIATION, INC.; STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN \nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER \nTRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "FR-25002384",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-14",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 234581.75,
+  "upset_amount_label": "Approx. Upset*"
+}

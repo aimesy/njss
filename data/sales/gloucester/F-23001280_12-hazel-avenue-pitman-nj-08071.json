@@ -1,0 +1,88 @@
+{
+  "address": "12 HAZEL AVENUE PITMAN NJ 08071",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-008876-19",
+  "current_status": "Court Adjourned to",
+  "defendant": "RICHARD REDROW",
+  "description": "UPSET PRICE: $63,849.16\nOCCUPANCY STATUS: OCCUPIED OWNER",
+  "extracted": {
+    "occupancy": "OCCUPIED OWNER",
+    "upset_amount": 63849.16
+  },
+  "fields": {
+    "Address": "12 HAZEL AVENUE\nPITMAN NJ 08071",
+    "Approximate Judgment": "$44,025.52",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-008876-19",
+    "Defendant": "RICHARD REDROW",
+    "Description": "UPSET PRICE: $63,849.16\nOCCUPANCY STATUS: OCCUPIED OWNER",
+    "Parcel #": "BLOCK: 113 LOT: 13",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Note": "BOROUGH OF PITMAN\nCOUNTY OF GLOUCESTER\n12 HAZEL AVENUE PITMAN, NJ 08071\nBLOCK: 113 LOT: 13\nAPPROXIMATE DIMENSIONS: 33.29 x 100.00 x 39.29 x 50.00 x 6.00 x 50.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: MONTGOMERY AVENUE\nUPSET PRICE: $63,849.16\nOCCUPANCY STATUS: OCCUPIED OWNER\nSUBJECT TO: SPECIAL CHARGES FOR SEWER IN THE AMOUNT OF $718.94, OPEN PLUS PENALTY",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "F-23001280"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 44025.52,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "12 HAZEL AVENUE PITMAN NJ 08071",
+    "defendant": "RICHARD REDROW",
+    "listing_status": "Court Adjourned to",
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Court Adjourned to",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 113 LOT: 13",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": "BOROUGH OF PITMAN\nCOUNTY OF GLOUCESTER\n12 HAZEL AVENUE PITMAN, NJ 08071\nBLOCK: 113 LOT: 13\nAPPROXIMATE DIMENSIONS: 33.29 x 100.00 x 39.29 x 50.00 x 6.00 x 50.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: MONTGOMERY AVENUE\nUPSET PRICE: $63,849.16\nOCCUPANCY STATUS: OCCUPIED OWNER\nSUBJECT TO: SPECIAL CHARGES FOR SEWER IN THE AMOUNT OF $718.94, OPEN PLUS PENALTY",
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-23001280",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2023-11-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-11-09",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2024-07-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Settled - Foreclosures"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Court Adjourned to"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "address": "4049 Ocean Heights Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005622-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Susan Gunther A/K/A Susan E. Gunther, Individually and as Executrix of The Estate of Martha Akerman A/K/A Anna Martha Akermann A/K/A A. Martha Akermann A/K/A Martha Akermann A/K/A Anna Akermann; Robert Gunther A/K/A Robert C. Gunther; Egg Harbor Township; Americap Financial; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "4049 Ocean Heights Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$129,575.80",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-005622-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Susan Gunther A/K/A Susan E. Gunther, Individually and as Executrix of The Estate of Martha Akerman A/K/A Anna Martha Akermann A/K/A A. Martha Akermann A/K/A Martha Akermann A/K/A Anna Akermann; Robert Gunther A/K/A Robert C. Gunther; Egg Harbor Township; Americap Financial; State of New Jersey; United States of America",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its individual Capacity but Solely as Owner Trustee for RCF2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "3/13/2025",
+    "Sheriff #": "F-24001461",
+    "Upset Amount": "$143,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 129575.8,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4049 Ocean Heights Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Susan Gunther A/K/A ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-03-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its individual Capacity but Solely as Owner Trustee for RCF2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-03-13",
+  "sheriff_number": "F-24001461",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-13",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 143500.0,
+  "upset_amount_label": "Upset Amount"
+}

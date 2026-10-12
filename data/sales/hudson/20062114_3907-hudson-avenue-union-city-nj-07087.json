@@ -1,0 +1,67 @@
+{
+  "address": "3907 HUDSON AVENUE UNION CITY NJ 07087",
+  "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRE & NEWBY LLP",
+  "attorney_phone": "856-667-9111",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-009828-25 (CWPP INELIGIBLE)",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "PORTFOLIO VENTURE NJ, LLC, STEVEN P. CARLESS, THE BUREAU OF HOUSING INSPECTION, M. AGUIRRE, RAY PEREZ AND MR. YANZA",
+  "description": "LOT 021 IN BLOCK 232\nDIMENSIONS (APPROX.): 24X75\nNEAREST CROSS STREET: 39TH STREET",
+  "extracted": {
+    "block": "232",
+    "lot": "021"
+  },
+  "fields": {
+    "Address": "3907 HUDSON AVENUE\nUNION CITY NJ 07087",
+    "Attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRE & NEWBY LLP",
+    "Attorney Phone": "856-667-9111",
+    "Court Case #": "F-009828-25 (CWPP INELIGIBLE)",
+    "Defendant": "PORTFOLIO VENTURE NJ, LLC, STEVEN P. CARLESS, THE BUREAU OF HOUSING INSPECTION, M. AGUIRRE, RAY PEREZ AND MR. YANZA",
+    "Description": "LOT 021 IN BLOCK 232\nDIMENSIONS (APPROX.): 24X75\nNEAREST CROSS STREET: 39TH STREET",
+    "Good Faith Upset*": "",
+    "Judgment": "$725,019.13",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 62553",
+    "Property Note": "",
+    "Sales Date": "9/9/2026",
+    "Sheriff #": "20062114"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 725019.13,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "3907 HUDSON AVENUE UNION CITY NJ 07087",
+    "defendant": "PORTFOLIO VENTURE NJ, LLC, STEVEN P. CARLESS, THE BUREAU OF HOUSING INSPECTION, M. AGUIRRE, RAY PEREZ AND MR. YANZA",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 62553",
+    "sale_date": "2026-09-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 62553",
+  "property_note": null,
+  "sale_date": "2026-09-09",
+  "sheriff_number": "20062114",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-05-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-09-09",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

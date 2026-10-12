@@ -1,0 +1,53 @@
+{
+  "address": "463 RARITAN STREET CAMDEN NJ 08105",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00646225",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JOSE RAFAEL TEJADA, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "463 RARITAN STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$185,222.60",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00646225",
+    "Defendant": "JOSE RAFAEL TEJADA, ET AL.",
+    "Parcel #": "Tax Lot: 83 Tax Block: 1243",
+    "Plaintiff": "AMERIHOME MORTGAGE COMPANY, LLC",
+    "Property Note": "Priorit Tax Lien Holder: FIG 25 LLC FBO SEC PTY holds Tax sale Certificate\nNo. 26-01768 m the amount of $596.49 + Subsequent Charges in the amount of $3.32 in total of $599.81 as of 04/06/2026.\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26001785"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "463 RARITAN STREET CAMDEN NJ 08105",
+    "defendant": "JOSE RAFAEL TEJADA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "AMERIHOME MORTGAGE COMPANY, LLC",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot: 83 Tax Block: 1243",
+  "plaintiff": "AMERIHOME MORTGAGE COMPANY, LLC",
+  "property_note": "Priorit Tax Lien Holder: FIG 25 LLC FBO SEC PTY holds Tax sale Certificate\nNo. 26-01768 m the amount of $596.49 + Subsequent Charges in the amount of $3.32 in total of $599.81 as of 04/06/2026.\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26001785",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 185222.6,
+  "upset_amount_label": "Approx. Upset*"
+}

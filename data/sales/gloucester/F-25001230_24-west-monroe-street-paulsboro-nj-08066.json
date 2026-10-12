@@ -1,0 +1,59 @@
+{
+  "address": "24 WEST MONROE STREET PAULSBORO NJ 08066",
+  "attorney": "Honig & Greenberg, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-000270-25",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "OWEN C. HAYNES, SR.",
+  "description": "ESTIMATED UPSET AMOUNT: $63,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "24 WEST MONROE STREET\nPAULSBORO NJ 08066",
+    "Approximate Judgment": "$53,349.67",
+    "Attorney": "Honig & Greenberg, LLC",
+    "Court Case #": "F-000270-25",
+    "Defendant": "OWEN C. HAYNES, SR.",
+    "Description": "ESTIMATED UPSET AMOUNT: $63,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "BLOCK: 63 LOT: 3",
+    "Plaintiff": "TFS AS CUSTODIAN FOR FIG NJ13, LLC",
+    "Property Note": "BOROUGH OF PAULSBORO\nCOUNTY OF GLOUCESTER\n24 WEST MONROE STREET PAULSBORO, NJ 08066\nBLOCK: 63 LOT: 3\nAPPROXIMATE DIMENSIONS: 29x93\nNUMBER OF FEET TO NEAREST CROSS-STREET: 103 FEET TO SPRUCE STREET\nESTIMATED UPSET AMOUNT: $63,000.00\nOCCUPANCY STATUS: UNKNOWN\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $50,316.72",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "F-25001230"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 53349.67,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "24 WEST MONROE STREET PAULSBORO NJ 08066",
+    "defendant": "OWEN C. HAYNES, SR.",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "TFS AS CUSTODIAN FOR FIG NJ13, LLC",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 63 LOT: 3",
+  "plaintiff": "TFS AS CUSTODIAN FOR FIG NJ13, LLC",
+  "property_note": "BOROUGH OF PAULSBORO\nCOUNTY OF GLOUCESTER\n24 WEST MONROE STREET PAULSBORO, NJ 08066\nBLOCK: 63 LOT: 3\nAPPROXIMATE DIMENSIONS: 29x93\nNUMBER OF FEET TO NEAREST CROSS-STREET: 103 FEET TO SPRUCE STREET\nESTIMATED UPSET AMOUNT: $63,000.00\nOCCUPANCY STATUS: UNKNOWN\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $50,316.72",
+  "sale_date": "2026-02-18",
+  "sheriff_number": "F-25001230",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "address": "824 CHESTNUT STREET ROSELLE NJ 07203",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F1224624",
+  "current_status": "Buy Back",
+  "defendant": "GLENN L. ABSON, JR.; KALISHA R. ABSON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "description": "LOT 22 BLOCK 4201",
+  "extracted": {
+    "block": "4201",
+    "lot": "22"
+  },
+  "fields": {
+    "Address": "824 CHESTNUT STREET\nROSELLE NJ 07203",
+    "Approx. Upset*": "$417,018.08",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Court Case #": "F1224624",
+    "Defendant": "GLENN L. ABSON, JR.; KALISHA R. ABSON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Description": "LOT 22 BLOCK 4201",
+    "Parcel #": "LOT 22 BLOCK 4201",
+    "Plaintiff": "SUN WEST MORTGAGE COMPANY, INC.",
+    "Property Note": "",
+    "Sales Date": "10/22/2025",
+    "Sheriff #": "CH-25002006"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "824 CHESTNUT STREET ROSELLE NJ 07203",
+    "defendant": "GLENN L. ABSON, JR.; KALISHA R. ABSON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "listing_status": null,
+    "plaintiff": "SUN WEST MORTGAGE COMPANY, INC.",
+    "sale_date": "2025-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 22 BLOCK 4201",
+  "plaintiff": "SUN WEST MORTGAGE COMPANY, INC.",
+  "property_note": null,
+  "sale_date": "2025-10-22",
+  "sheriff_number": "CH-25002006",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-22",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 417018.08,
+  "upset_amount_label": "Approx. Upset*"
+}

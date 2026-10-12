@@ -1,0 +1,64 @@
+{
+  "address": "122 DAWES HIGHWAY Pompton Lakes NJ 07442",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 014516 23 CTL # 163012",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "KHALED TARABEY, ET AL",
+  "description": "DIMENSIONS (APPROX): 86.91 X 32.09 X 23.84 X 101.16 X 54.02\nNEAREST CROSS STREET: WASHINGTON AVE.\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/23/99-SUMMIT BANK VS. DENNIS THIEL (A-58-97)\nGOOD FAITH ESTIMATED UPSET PRICE: $394,501.11\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 394501.11
+  },
+  "fields": {
+    "Address": "122 DAWES HIGHWAY\nPompton Lakes NJ 07442",
+    "Approx. Upset*": "$341,449.87",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 014516 23 CTL # 163012",
+    "Defendant": "KHALED TARABEY, ET AL",
+    "Description": "DIMENSIONS (APPROX): 86.91 X 32.09 X 23.84 X 101.16 X 54.02\nNEAREST CROSS STREET: WASHINGTON AVE.\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/23/99-SUMMIT BANK VS. DENNIS THIEL (A-58-97)\nGOOD FAITH ESTIMATED UPSET PRICE: $394,501.11\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "TAX LOT 4 BLOCK 9517 FKA 95-Q",
+    "Plaintiff": "ELIZON MASTER PARTICIPATION TRUST 1, U.S. BANK TRUST NATIONAL ASSOCIATION, AS OWNER TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "11/18/2025",
+    "Sheriff #": "F-25001281"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "122 DAWES HIGHWAY Pompton Lakes NJ 07442",
+    "defendant": "KHALED TARABEY, ET AL",
+    "listing_status": null,
+    "plaintiff": "ELIZON MASTER PARTICIPATION TRUST 1, U.S. BANK TRUST NATIONAL ASSOCIATION, AS OWNER TRUSTEE",
+    "sale_date": "2025-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 4 BLOCK 9517 FKA 95-Q",
+  "plaintiff": "ELIZON MASTER PARTICIPATION TRUST 1, U.S. BANK TRUST NATIONAL ASSOCIATION, AS OWNER TRUSTEE",
+  "property_note": null,
+  "sale_date": "2025-11-18",
+  "sheriff_number": "F-25001281",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-09-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 341449.87,
+  "upset_amount_label": "Approx. Upset*"
+}

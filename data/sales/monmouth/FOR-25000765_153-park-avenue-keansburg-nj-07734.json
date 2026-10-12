@@ -1,0 +1,72 @@
+{
+  "address": "153 Park Avenue Keansburg NJ 07734",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00782924",
+  "current_status": "Scheduled",
+  "defendant": "Catherine Picone, et al",
+  "description": "Dimensions of Lot:\n90 feet wide by 100 feet long\nNearest Cross Street: Orchard Street\nEstimated upset bid amount: $285,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 2 Due: 05/01/2025 $1,732.50 OPEN\nWater: Keansburg MUA 29 Church St Keansburg, NJ 07734 732-787-0215\nAcct: 1205 0 01/01/2025 - 03/31/2025 $97.20 OPEN PLUS PENALTY $235.53 OPEN PLUS PENALTY\nSewer: Keansburg MUA 29 Church St Keansburg, NJ07734 732-787-0215\nAcct: 1205 0 01/01/2025 - 03/31/2025 $130.43 OPEN PLUS PENALTY $379.23 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+  "extracted": {
+    "lot": "90",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "153 Park Avenue\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$259,919.16",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00782924",
+    "Defendant": "Catherine Picone, et al",
+    "Description": "Dimensions of Lot:\n90 feet wide by 100 feet long\nNearest Cross Street: Orchard Street\nEstimated upset bid amount: $285,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 2 Due: 05/01/2025 $1,732.50 OPEN\nWater: Keansburg MUA 29 Church St Keansburg, NJ 07734 732-787-0215\nAcct: 1205 0 01/01/2025 - 03/31/2025 $97.20 OPEN PLUS PENALTY $235.53 OPEN PLUS PENALTY\nSewer: Keansburg MUA 29 Church St Keansburg, NJ07734 732-787-0215\nAcct: 1205 0 01/01/2025 - 03/31/2025 $130.43 OPEN PLUS PENALTY $379.23 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+    "Parcel #": "Tax Lot 24, Block 123 Tax Map of the Borough of Keansburg",
+    "Plaintiff": "LSF9 Master Participation Trust",
+    "Property Note": "",
+    "Sales Date": "9/29/2025",
+    "Sheriff #": "FOR-25000765"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 259919.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "153 Park Avenue Keansburg NJ 07734",
+    "defendant": "Catherine Picone, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "LSF9 Master Participation Trust",
+    "sale_date": "2025-09-29"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 24, Block 123 Tax Map of the Borough of Keansburg",
+  "plaintiff": "LSF9 Master Participation Trust",
+  "property_note": null,
+  "sale_date": "2025-09-29",
+  "sheriff_number": "FOR-25000765",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-29",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Scheduled"
+    }
+  ]
+}

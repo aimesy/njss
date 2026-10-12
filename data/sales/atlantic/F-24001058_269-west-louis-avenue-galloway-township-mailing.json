@@ -1,0 +1,66 @@
+{
+  "address": "269 West Louis Avenue Galloway Township (Mailing Address of Egg Harbor City) NJ 08215",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002296-20",
+  "current_status": "Scheduled",
+  "deed": "Deutsche Bank National Trust Company, As Trustee, In Trust For The Registered Holders of Morgan Stanley ABS Capital I Inc. Trust 2007-HE2, Mortgage Pass-Through Certificates, Series 2007-HE2",
+  "deed_address": "c/o Select Portfolio Servicing, Inc, 3217 S. Decker Lake Dr, Salt Lake City, UT 84119",
+  "defendant": "Cecilia M. Williams, her unknown heirs, devisees and personal representatives and her, their or any of their successors in right, title and interest; Jason Williams, Individually and as Administrator of the Estate of Cecilia M. Williams; Karen Benz; Michael Williams; Hudson Cove Homeowners Association Inc; Ford Motor Credit Company LLC d/b/a Land Rover Capital Group; Hanover Insurance Company, Subrogee of Lavern R. Myles, Hibu Inc.; Alethia Owens; Liberty Mutual Insurance Company; Affinity Federal Credit Union f/k/a AT&T Employees; Federal Credit Union; Neal M. Pomper, Esq; Stephanie Williams; Atlantic Neurosurgical Specialists; Public Service Electric & Gas Company; County of Passaic; Pleasant Dental Center; Tutor Time; Atlantic City Electric; McAllister Service Company; State of New Jersey and United States of AMerica",
+  "extracted": {},
+  "fields": {
+    "Address": "269 West Louis Avenue\nGalloway Township (Mailing Address of Egg Harbor City) NJ 08215",
+    "Approx. Judgment*": "$299,208.35",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-002296-20",
+    "Deed": "Deutsche Bank National Trust Company, As Trustee, In Trust For The Registered Holders of Morgan Stanley ABS Capital I Inc. Trust 2007-HE2, Mortgage Pass-Through Certificates, Series 2007-HE2",
+    "Deed Address": "c/o Select Portfolio Servicing, Inc, 3217 S. Decker Lake Dr, Salt Lake City, UT 84119",
+    "Defendant": "Cecilia M. Williams, her unknown heirs, devisees and personal representatives and her, their or any of their successors in right, title and interest; Jason Williams, Individually and as Administrator of the Estate of Cecilia M. Williams; Karen Benz; Michael Williams; Hudson Cove Homeowners Association Inc; Ford Motor Credit Company LLC d/b/a Land Rover Capital Group; Hanover Insurance Company, Subrogee of Lavern R. Myles, Hibu Inc.; Alethia Owens; Liberty Mutual Insurance Company; Affinity Federal Credit Union f/k/a AT&T Employees; Federal Credit Union; Neal M. Pomper, Esq; Stephanie Williams; Atlantic Neurosurgical Specialists; Public Service Electric & Gas Company; County of Passaic; Pleasant Dental Center; Tutor Time; Atlantic City Electric; McAllister Service Company; State of New Jersey and United States of AMerica",
+    "Plaintiff": "Deutsche Bank National Trust Company, as Trustee, in Trust for the Registered holders of Morgan Stanley ABS Capital I Inc. Trust 2007-HE2, Mortgage Pass-Through Certificates, Series 2007-HE2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-24001058",
+    "Upset Amount": "$315,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 299208.35,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "269 West Louis Avenue Galloway Township (Mailing Address of Egg Harbor City) NJ 08215",
+    "defendant": "Cecilia M. Williams,...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Nation...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company, as Trustee, in Trust for the Registered holders of Morgan Stanley ABS Capital I Inc. Trust 2007-HE2, Mortgage Pass-Through Certificates, Series 2007-HE2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24001058",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 315000.0,
+  "upset_amount_label": "Upset Amount"
+}

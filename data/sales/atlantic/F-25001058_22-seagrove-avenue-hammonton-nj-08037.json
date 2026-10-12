@@ -1,0 +1,66 @@
+{
+  "address": "22 Seagrove Avenue Hammonton NJ 08037",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004427-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Frank R Guerrier, III; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "22 Seagrove Avenue\nHammonton NJ 08037",
+    "Approx. Judgment*": "$116,994.34",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-004427-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Frank R Guerrier, III; State of New Jersey; United States of America",
+    "Plaintiff": "Deutsche Bank National Trust Company as Trustee for HSI Asset Securitization Corporation 2006-OPT1 Mortgage Pass-Through Certificates, Series 2006-OPT1",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "2/5/2026",
+    "Sheriff #": "F-25001058",
+    "Upset Amount": "$129,122.79"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 116994.34,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "22 Seagrove Avenue Hammonton NJ 08037",
+    "defendant": "Frank R Guerrier, II...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Nation...",
+    "sale_date": "2026-02-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company as Trustee for HSI Asset Securitization Corporation 2006-OPT1 Mortgage Pass-Through Certificates, Series 2006-OPT1",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2026-02-05",
+  "sheriff_number": "F-25001058",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-05",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 129122.79,
+  "upset_amount_label": "Upset Amount"
+}

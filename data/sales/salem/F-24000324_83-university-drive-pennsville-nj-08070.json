@@ -1,0 +1,51 @@
+{
+  "address": "83 University Drive Pennsville NJ 08070",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-006823-24",
+  "current_status": "Cancelled",
+  "defendant": "Douglas J. Dybus; Mrs. Douglas J. Dybus, His Wife, New Jersey Housing and Mortgage Finance Agency; State of New Jersey and Erica T. Dybus",
+  "description": "Approximate Dimensions: 100' x 100' Approximate Upset Price as of 11/18/24 $262,164.85. The upset amount may be subject to further Orders of additional sums. Occupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 262164.85
+  },
+  "fields": {
+    "Address": "83 University Drive\nPennsville NJ 08070",
+    "Court Case #": "F-006823-24",
+    "Defendant": "Douglas J. Dybus; Mrs. Douglas J. Dybus, His Wife, New Jersey Housing and Mortgage Finance Agency; State of New Jersey and Erica T. Dybus",
+    "Description": "Approximate Dimensions: 100' x 100' Approximate Upset Price as of 11/18/24 $262,164.85. The upset amount may be subject to further Orders of additional sums. Occupancy Status: Unknown",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Sales Date": "12/15/2025 02:00 PM",
+    "Sheriff #": "F-24000324"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "83 University Drive Pennsville NJ 08070",
+    "defendant": "Douglas J. Dybus; Mrs. Douglas J. Dybus, His Wife, New Jersey Housing and Mortgage Finance Agency; State of New Jersey and Erica T. Dybus",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servicing, LLC",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "sale_date": null,
+  "sheriff_number": "F-24000324",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

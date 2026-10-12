@@ -1,0 +1,60 @@
+{
+  "address": "1199 South Broadway Pennsville NJ 08070",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-001093-23",
+  "current_status": "Cancelled",
+  "defendant": "1199 South Broadway, LLC; Patrick Stanton; Jill D. Stanton; Stantons Marina and Marine Services, LLC and The State of New Jersey",
+  "description": "Approximate Dimensions: 8.4 Acres This is a Commercial Property. Occupancy of the property is unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "1199 South Broadway\nPennsville NJ 08070",
+    "Court Case #": "F-001093-23",
+    "Defendant": "1199 South Broadway, LLC; Patrick Stanton; Jill D. Stanton; Stantons Marina and Marine Services, LLC and The State of New Jersey",
+    "Description": "Approximate Dimensions: 8.4 Acres This is a Commercial Property. Occupancy of the property is unknown.",
+    "Plaintiff": "Salem River Marina, LLC",
+    "Sales Date": "04/10/2026 02:00 PM",
+    "Sheriff #": "F-25000259"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1199 South Broadway Pennsville NJ 08070",
+    "defendant": "1199 South Broadway, LLC; Patrick Stanton; Jill D. Stanton; Stantons Marina and Marine Services, LLC and The State of New Jersey",
+    "listing_status": null,
+    "plaintiff": "Salem River Marina, LLC",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Salem River Marina, LLC",
+  "sale_date": null,
+  "sheriff_number": "F-25000259",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Per Sheriff"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

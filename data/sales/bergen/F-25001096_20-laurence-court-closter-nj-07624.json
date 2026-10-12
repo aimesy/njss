@@ -1,0 +1,67 @@
+{
+  "address": "20 LAURENCE COURT CLOSTER NJ 07624",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01220024",
+  "current_status": "Cancelled",
+  "defendant": "JEFFREY L GASMAN AKA JEFFREY GASMAN; DEBRA J GASMAN; ET AL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $477,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "20 LAURENCE COURT\nCLOSTER NJ 07624",
+    "Approx. Upset*": "$437,588.11",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F01220024",
+    "Defendant": "JEFFREY L GASMAN AKA JEFFREY GASMAN; DEBRA J GASMAN; ET AL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $477,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 46, BLOCK 2302",
+    "Plaintiff": "WELLS FARGO BANK, NA",
+    "Property Note": "",
+    "Sales Date": "1/2/2026",
+    "Sheriff #": "F-25001096"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "20 LAURENCE COURT CLOSTER NJ 07624",
+    "defendant": "JEFFREY L GASMAN AKA JEFFREY GASMAN; DEBRA J GASMAN; ET AL",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, NA",
+    "sale_date": "2026-01-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 46, BLOCK 2302",
+  "plaintiff": "WELLS FARGO BANK, NA",
+  "property_note": null,
+  "sale_date": "2026-01-02",
+  "sheriff_number": "F-25001096",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-06-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-02",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 437588.11,
+  "upset_amount_label": "Approx. Upset*"
+}

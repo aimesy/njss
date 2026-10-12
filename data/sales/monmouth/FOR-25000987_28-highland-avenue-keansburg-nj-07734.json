@@ -1,0 +1,52 @@
+{
+  "address": "28 Highland Avenue Keansburg NJ 07734",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01262423",
+  "current_status": "Settled",
+  "defendant": "JD Property Brothers LLC; James Renard; Domenick Mastrocola, et. als.",
+  "description": "Dimensions (Approx): 50* 100\nNearest Cross Street: Seabreeze Way\nGood Faith Estimated Upset Price: $695,454.50\nOccupancy Status: NON-OWNER OCCUPIED\nIMPORTANT:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98)\nTAX CERTIFICATE recoded: January 10,2023\nHolder: Christiana T C/F CE1/Firstrust\nAmount: $4,881.50\nBook: 9630, Page: 2639 Instrument Number: 2023002100\nThis is a Commercial property not subject to the Community Wealth Preservation Program Bill.",
+  "extracted": {
+    "occupancy": "NON-OWNER OCCUPIED",
+    "upset_amount": 695454.5
+  },
+  "fields": {
+    "Address": "28 Highland Avenue\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$632,306.76",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F01262423",
+    "Defendant": "JD Property Brothers LLC; James Renard; Domenick Mastrocola, et. als.",
+    "Description": "Dimensions (Approx): 50* 100\nNearest Cross Street: Seabreeze Way\nGood Faith Estimated Upset Price: $695,454.50\nOccupancy Status: NON-OWNER OCCUPIED\nIMPORTANT:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98)\nTAX CERTIFICATE recoded: January 10,2023\nHolder: Christiana T C/F CE1/Firstrust\nAmount: $4,881.50\nBook: 9630, Page: 2639 Instrument Number: 2023002100\nThis is a Commercial property not subject to the Community Wealth Preservation Program Bill.",
+    "Parcel #": "Tax Lot (s): 10 Block: 11 Located on the tax map of the Borough of Keansburg",
+    "Plaintiff": "ERL Holdings LLC",
+    "Property Note": "",
+    "Sales Date": "7/3/2025",
+    "Sheriff #": "FOR-25000987"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 632306.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "28 Highland Avenue Keansburg NJ 07734",
+    "defendant": "JD Property Brothers LLC; James Renard; Domenick Mastrocola, et. als.",
+    "listing_status": "Settled",
+    "plaintiff": "ERL Holdings LLC",
+    "sale_date": "2025-07-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot (s): 10 Block: 11 Located on the tax map of the Borough of Keansburg",
+  "plaintiff": "ERL Holdings LLC",
+  "property_note": null,
+  "sale_date": "2025-07-03",
+  "sheriff_number": "FOR-25000987",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-03",
+      "status": "Settled"
+    }
+  ]
+}

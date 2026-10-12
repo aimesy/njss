@@ -1,0 +1,65 @@
+{
+  "address": "648 EAST 3RD AVENUE ROSELLE NJ 07203",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00692125",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "CARLOS S. CASTANO; UNITED STATES OF AMERICA",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "648 EAST 3RD AVENUE\nROSELLE NJ 07203",
+    "Approx. Upset*": "$377,219.57",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F00692125",
+    "Defendant": "CARLOS S. CASTANO; UNITED STATES OF AMERICA",
+    "Description": "",
+    "Parcel #": "",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "5/6/2026",
+    "Sheriff #": "CH-25002525"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "648 EAST 3RD AVENUE ROSELLE NJ 07203",
+    "defendant": "CARLOS S. CASTANO; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": null,
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "CH-25002525",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 377219.57,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "101 GOLDEN MEADOW LANE TOWNSHIP WINSLOW NJ 08081",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01202425",
+  "current_status": "Scheduled",
+  "defendant": "TYSON HARRIS AND AGGELLA BOURDEAU-HARRIS, HUSBAND AND WIFE; STATE OF NEW JERSEY; UNITED STATES OF AMERICA AND NEW JERSEY HOUSING AND MORTGAGE FINANCE ANGENCY,",
+  "extracted": {},
+  "fields": {
+    "Address": "101 GOLDEN MEADOW LANE\nTOWNSHIP WINSLOW NJ 08081",
+    "Approx. Upset*": "$341,429.30",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01202425",
+    "Defendant": "TYSON HARRIS AND AGGELLA BOURDEAU-HARRIS, HUSBAND AND WIFE;\nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA AND NEW JERSEY\nHOUSING AND MORTGAGE FINANCE ANGENCY,",
+    "Parcel #": "LOT 2, BLOCK 5107",
+    "Plaintiff": "LAKEVIEW LAON SERVICING, LLC,",
+    "Property Note": "Taxes — Due 8/1/2026 $3,765.16 Open\nWater - To: 07/01/2026 $242.50 open Plus Penalty; $1,013.00 open Plus Penalty;\nSewer- Acct 294836 0 07/01/2026 - 09/30/2026 $110.00 open Plus Penalty; $620.00 Open Plus Penalty; Owed In Arrears\nCcmua : Acct 360149801 09/01/2026 - 11/30/2026 $93.00 open And Due 10/15/2026; $651.00 Open Plus Penalty; Owed In Arrears\nVacant Lot Charge : Property Registration Fee $2,500.00 Open Please Contact Code Enforcement Department At\n609-567-0700 Ex 7002.",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26000643"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "101 GOLDEN MEADOW LANE TOWNSHIP WINSLOW NJ 08081",
+    "defendant": "TYSON HARRIS AND AGGELLA BOURDEAU-HARRIS, HUSBAND AND WIFE; \nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA AND NEW JERSEY \nHOUSING AND MORTGAGE FINANCE ANGENCY,",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LAON SERVICING, LLC,",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 2, BLOCK 5107",
+  "plaintiff": "LAKEVIEW LAON SERVICING, LLC,",
+  "property_note": "Taxes — Due 8/1/2026 $3,765.16 Open\nWater - To: 07/01/2026 $242.50 open Plus Penalty; $1,013.00 open Plus Penalty;\nSewer- Acct 294836 0 07/01/2026 - 09/30/2026 $110.00 open Plus Penalty; $620.00 Open Plus Penalty; Owed In Arrears\nCcmua : Acct 360149801 09/01/2026 - 11/30/2026 $93.00 open And Due 10/15/2026; $651.00 Open Plus Penalty; Owed In Arrears\nVacant Lot Charge : Property Registration Fee $2,500.00 Open Please Contact Code Enforcement Department At\n609-567-0700 Ex 7002.",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26000643",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 341429.3,
+  "upset_amount_label": "Approx. Upset*"
+}

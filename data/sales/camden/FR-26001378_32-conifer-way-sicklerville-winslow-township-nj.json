@@ -1,0 +1,61 @@
+{
+  "address": "32 CONIFER WAY SICKLERVILLE (WINSLOW TOWNSHIP) NJ 08081",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00261219",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "DELORES A. MOORE, HER HUSBAND; MEYERS OUTFITTERS; MIDLAND FUNDING LLC; DENISE BING; BAKER FEDERAL CREDIT UNION; VIRTUA BURLINGTON HOSPITAL ; ALLEGHENY UNIVERSITY HOSPITAL A/K/A ZURBRUGG HOSPITAL",
+  "extracted": {},
+  "fields": {
+    "Address": "32 CONIFER WAY\nSICKLERVILLE (WINSLOW TOWNSHIP) NJ 08081",
+    "Approx. Upset*": "$286,233.98",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F00261219",
+    "Defendant": "DELORES A. MOORE, HER HUSBAND; MEYERS OUTFITTERS;\nMIDLAND FUNDING LLC; DENISE BING; BAKER FEDERAL CREDIT\nUNION; VIRTUA BURLINGTON HOSPITAL ; ALLEGHENY\nUNIVERSITY HOSPITAL A/K/A ZURBRUGG HOSPITAL",
+    "Parcel #": "TAX LOT 9 BLOCK 2901.06",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE\nFOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001378"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "32 CONIFER WAY SICKLERVILLE (WINSLOW TOWNSHIP) NJ 08081",
+    "defendant": "DELORES A. MOORE, HER HUSBAND; MEYERS OUTFITTERS; \nMIDLAND FUNDING LLC; DENISE BING; BAKER FEDERAL CREDIT \nUNION; VIRTUA BURLINGTON HOSPITAL ; ALLEGHENY \nUNIVERSITY HOSPITAL A/K/A ZURBRUGG HOSPITAL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE \nFOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 9 BLOCK 2901.06",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001378",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 286233.98,
+  "upset_amount_label": "Approx. Upset*"
+}

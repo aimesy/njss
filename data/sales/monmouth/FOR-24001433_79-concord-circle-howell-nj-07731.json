@@ -1,0 +1,60 @@
+{
+  "address": "79 Concord Circle Howell NJ 07731",
+  "attorney": "Duane Morris LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01863910",
+  "current_status": "Scheduled",
+  "defendant": "Tim Hanley A/K/A Timothy R. Hanley, et al.",
+  "description": "Nearest Cross Street: Hancock Court\nApproximate Dimensions: 80 X 120\nGood Faith Estimate of Upset Price: $378,000.00\nOccupancy Status: Owner-Occupied\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon. **If the sale is set aside for any reason, the Purchaser at the sale shall only be entitled to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagee or the Mortgagee's attorney.\nAdditional Requirements: Purchaser must certify that Purchaser is not employed by the Toronto-Dominion Bank, or any of its subsidiaries or affiliated corporations (the “Bank”), nor is Purchaser related in any way with solicitors or agents retained by or on behalf of the Bank in relation to the property that is the subject of this transaction and confirming that Purchaser is dealing at arm’s length with the aforementioned parties.\nThe property is sold subject to unpaid taxes, and any other municipal liens or assessments.",
+  "extracted": {
+    "occupancy": "Owner-Occupied",
+    "upset_amount": 378000.0
+  },
+  "fields": {
+    "Address": "79 Concord Circle\nHowell NJ 07731",
+    "Approx. Judgment*": "$781,861.82",
+    "Attorney": "Duane Morris LLP",
+    "Court Case #": "F01863910",
+    "Defendant": "Tim Hanley A/K/A Timothy R. Hanley, et al.",
+    "Description": "Nearest Cross Street: Hancock Court\nApproximate Dimensions: 80 X 120\nGood Faith Estimate of Upset Price: $378,000.00\nOccupancy Status: Owner-Occupied\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon. **If the sale is set aside for any reason, the Purchaser at the sale shall only be entitled to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagee or the Mortgagee's attorney.\nAdditional Requirements: Purchaser must certify that Purchaser is not employed by the Toronto-Dominion Bank, or any of its subsidiaries or affiliated corporations (the “Bank”), nor is Purchaser related in any way with solicitors or agents retained by or on behalf of the Bank in relation to the property that is the subject of this transaction and confirming that Purchaser is dealing at arm’s length with the aforementioned parties.\nThe property is sold subject to unpaid taxes, and any other municipal liens or assessments.",
+    "Parcel #": "Tax Block #84.18, Lot #66 Tax Map of Township of Howell",
+    "Plaintiff": "TD Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/3/2025",
+    "Sheriff #": "FOR-24001433"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 781861.82,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "79 Concord Circle Howell NJ 07731",
+    "defendant": "Tim Hanley A/K/A Timothy R. Hanley, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "TD Bank, N.A.",
+    "sale_date": "2025-01-03"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Block #84.18, Lot #66 Tax Map of Township of Howell",
+  "plaintiff": "TD Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2025-01-03",
+  "sheriff_number": "FOR-24001433",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-03",
+      "status": "Canceled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Scheduled"
+    }
+  ]
+}

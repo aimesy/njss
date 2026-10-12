@@ -1,0 +1,80 @@
+{
+  "address": "52 Homestead Circle Marlboro NJ 07746",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00245623",
+  "current_status": "Scheduled",
+  "defendant": "Saul Roffe and Shelley Roffe et al.",
+  "description": "Dimensions Approximate: 100 x 200\nNearest Cross Street: Weathervane Way\nUpset Price:Approximately: $686,466.90 and any additional sums as ordered by the court.\nOccupancy Status: Occupied by Unknown\nBeginning at an iron pin along the southerly line of Homestead Circle (formerly Weathervane Way), westerly 487.28 feet from the projected intersection of the southerly line of Weathervane Way with the southerly line of Homestead Circle; thence running (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff)\nPursuant to tax search of 12/03/2024; 2025 Qtr. 1 Due: 02/01/2025 $3,569.00 OPEN. Sewer Acct. 11466 0 12/01/2024 - 02/28/2025 $125.00 OPEN and DUE 12/26/2024 $376.83 OPEN PLUS PENALTY; OWED IN ARREARS. Water: Private",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 686466.9
+  },
+  "fields": {
+    "Address": "52 Homestead Circle\nMarlboro NJ 07746",
+    "Approx. Judgment*": "$630,168.11",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F00245623",
+    "Defendant": "Saul Roffe and Shelley Roffe et al.",
+    "Description": "Dimensions Approximate: 100 x 200\nNearest Cross Street: Weathervane Way\nUpset Price:Approximately: $686,466.90 and any additional sums as ordered by the court.\nOccupancy Status: Occupied by Unknown\nBeginning at an iron pin along the southerly line of Homestead Circle (formerly Weathervane Way), westerly 487.28 feet from the projected intersection of the southerly line of Weathervane Way with the southerly line of Homestead Circle; thence running (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff)\nPursuant to tax search of 12/03/2024; 2025 Qtr. 1 Due: 02/01/2025 $3,569.00 OPEN. Sewer Acct. 11466 0 12/01/2024 - 02/28/2025 $125.00 OPEN and DUE 12/26/2024 $376.83 OPEN PLUS PENALTY; OWED IN ARREARS. Water: Private",
+    "Parcel #": "Lot: 67; Block: 371 Located on the Tax map of The Township of Marlboro",
+    "Plaintiff": "Towd Point Mortgage Trust 2019-HY3, U.S. Bank National Association, as Indenture Trustee",
+    "Property Note": "",
+    "Sales Date": "9/2/2025",
+    "Sheriff #": "FOR-24002490"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 630168.11,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "52 Homestead Circle Marlboro NJ 07746",
+    "defendant": "Saul Roffe and Shelley Roffe et al.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Towd Point Mortgage Trust 2019-HY3, U.S. Bank National Association, as Indenture Trustee",
+    "sale_date": "2025-09-02"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 67; Block: 371 Located on the Tax map of The Township of Marlboro",
+  "plaintiff": "Towd Point Mortgage Trust 2019-HY3, U.S. Bank National Association, as Indenture Trustee",
+  "property_note": null,
+  "sale_date": "2025-09-02",
+  "sheriff_number": "FOR-24002490",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-02",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Scheduled"
+    }
+  ]
+}

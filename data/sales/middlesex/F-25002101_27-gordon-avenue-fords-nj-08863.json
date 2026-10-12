@@ -1,0 +1,56 @@
+{
+  "address": "27 GORDON AVENUE FORDS NJ 08863",
+  "attorney": "GROSS POLOWY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00217925",
+  "current_status": "Cancelled",
+  "defendant": "MICHAEL J. BROWN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$224,526.05",
+    "Attorney": "GROSS POLOWY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00217925",
+    "Defendant": "MICHAEL J. BROWN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 14 BLOCK 181.03",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Address": "27 GORDON AVENUE\nFORDS NJ 08863",
+    "Property Note": "",
+    "Sale Date": "10/15/2025",
+    "Sheriff #": "F-25002101"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 224526.05,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "27 GORDON AVENUE FORDS NJ 08863",
+    "defendant": "MICHAEL J. BROWN, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 14 BLOCK 181.03",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-25002101",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

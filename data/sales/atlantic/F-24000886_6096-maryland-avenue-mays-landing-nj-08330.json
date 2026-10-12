@@ -1,0 +1,58 @@
+{
+  "address": "6096 Maryland Avenue Mays Landing NJ 08330",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001089-23 ALIAS",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Alysia J. Remaley; James L. Gould; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "6096 Maryland Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$294,307.87",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F-001089-23 ALIAS",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Alysia J. Remaley; James L. Gould; State of New Jersey",
+    "Plaintiff": "Flagstar Bank NA",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "2/6/2025",
+    "Sheriff #": "F-24000886",
+    "Upset Amount": "$333,703.80"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 294307.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6096 Maryland Avenue Mays Landing NJ 08330",
+    "defendant": "Alysia J. Remaley; J...",
+    "listing_status": null,
+    "plaintiff": "Flagstar Bank NA...",
+    "sale_date": "2025-02-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Flagstar Bank NA",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-02-06",
+  "sheriff_number": "F-24000886",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-06",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 333703.8,
+  "upset_amount_label": "Upset Amount"
+}

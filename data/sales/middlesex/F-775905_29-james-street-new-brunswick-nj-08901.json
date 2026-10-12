@@ -1,0 +1,64 @@
+{
+  "address": "29 JAMES STREET NEW BRUNSWICK NJ 08901",
+  "attorney": "EISENBERG, GOLD & AGRAWAL",
+  "attorney_file_number": null,
+  "attorney_phone": "856-330-6200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00639822",
+  "current_status": "Bankruptcy",
+  "defendant": "JENNIFER ORTIZ",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$149,020.89",
+    "Attorney": "EISENBERG, GOLD & AGRAWAL",
+    "Attorney File #": "",
+    "Attorney Phone": "856-330-6200",
+    "Court Case #": "F00639822",
+    "Defendant": "JENNIFER ORTIZ",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 16.01 BLOCK 96",
+    "Plaintiff": "BRUNSWICK BANK & TRUST",
+    "Property Address": "29 JAMES STREET\nNEW BRUNSWICK NJ 08901",
+    "Property Note": "",
+    "Sale Date": "6/25/2025",
+    "Sheriff #": "F-775905"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 149020.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "29 JAMES STREET NEW BRUNSWICK NJ 08901",
+    "defendant": "JENNIFER ORTIZ",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "BRUNSWICK BANK & TRUST",
+    "sale_date": "2025-06-25"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 16.01 BLOCK 96",
+  "plaintiff": "BRUNSWICK BANK & TRUST",
+  "property_note": null,
+  "sale_date": "2025-06-25",
+  "sheriff_number": "F-775905",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-06-25",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2024-03-27",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

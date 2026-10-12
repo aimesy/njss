@@ -1,0 +1,71 @@
+{
+  "address": "4415-4421 NEW YORK AVENUE UNION CITY NJ 07087",
+  "attorney": "MARGOLIN, WEINREB & NIERER, LLP",
+  "attorney_phone": "516-921-3838",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "SWC-F-001651-24",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "4415-4421 NY AVE LLC",
+  "description": "TAX LOT NO. 29 IN BLOCK NO. 256\nDIMENSION OF LOT APPROXIMATELY: 25 FEET X 100 FEET\nNEAREST CROSS STREET: FULTON STREET\nALL THAT CERTAIN LOT, PIECE OR PARCEL OF LAND, WITH THE BUILDINGS AND IMPROVEMENTS THEREON ERECTED, SITUATE, LYING AND BEING IN THE CITY OF UNION CITY, COUNTY OF HUDSON, STATE OF NEW JERSEY\nBEING PART OF A TRACT OF LAND KNOWN BY THE NAME OF NORTH HOBOKEN, AND WHICH ON A MAP OF SAID NORTH HOBOKEN, MADE BY CHARLES HEARING AND FILED IN THE CLERK'S (NOW REGISTER'S) OFFICE OF SAID COUNTY OF HUDSON ON THE FOURTH DAY OF JUNE, IN THE YEAR 1852, IS DESIGNATED AND LAID DOWN AS LOT NUMBER 8 IN BLOCK NUMBER 25 AND FRONTING ON THE SOUTHERLY SIDE OF FULTON STREET, AS LAID DOWN ON SAID MAP, THAT SAID LOT BEING 25.00 FEET WIDE IN FRONT AND REAR AND 100.00 FEET DEEP.",
+  "extracted": {
+    "block": "NO",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "4415-4421 NEW YORK AVENUE\nUNION CITY NJ 07087",
+    "Attorney": "MARGOLIN, WEINREB & NIERER, LLP",
+    "Attorney Phone": "516-921-3838",
+    "Court Case #": "SWC-F-001651-24",
+    "Defendant": "4415-4421 NY AVE LLC",
+    "Description": "TAX LOT NO. 29 IN BLOCK NO. 256\nDIMENSION OF LOT APPROXIMATELY: 25 FEET X 100 FEET\nNEAREST CROSS STREET: FULTON STREET\nALL THAT CERTAIN LOT, PIECE OR PARCEL OF LAND, WITH THE BUILDINGS AND IMPROVEMENTS THEREON ERECTED, SITUATE, LYING AND BEING IN THE CITY OF UNION CITY, COUNTY OF HUDSON, STATE OF NEW JERSEY\nBEING PART OF A TRACT OF LAND KNOWN BY THE NAME OF NORTH HOBOKEN, AND WHICH ON A MAP OF SAID NORTH HOBOKEN, MADE BY CHARLES HEARING AND FILED IN THE CLERK'S (NOW REGISTER'S) OFFICE OF SAID COUNTY OF HUDSON ON THE FOURTH DAY OF JUNE, IN THE YEAR 1852, IS DESIGNATED AND LAID DOWN AS LOT NUMBER 8 IN BLOCK NUMBER 25 AND FRONTING ON THE SOUTHERLY SIDE OF FULTON STREET, AS LAID DOWN ON SAID MAP, THAT SAID LOT BEING 25.00 FEET WIDE IN FRONT AND REAR AND 100.00 FEET DEEP.",
+    "Good Faith Upset*": "",
+    "Judgment": "$2,544,434.62",
+    "Plaintiff": "1S REO OPPORTUNITY 1, LLC",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "20060188"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 2544434.62,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "4415-4421 NEW YORK AVENUE UNION CITY NJ 07087",
+    "defendant": "4415-4421 NY AVE LLC",
+    "listing_status": null,
+    "plaintiff": "1S REO OPPORTUNITY 1, LLC",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "1S REO OPPORTUNITY 1, LLC",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "20060188",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-10-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

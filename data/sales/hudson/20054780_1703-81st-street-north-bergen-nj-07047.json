@@ -1,0 +1,81 @@
+{
+  "address": "1703 81ST STREET NORTH BERGEN NJ 07047",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "860-241-2806",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011805-23",
+  "current_status": "Cancelled",
+  "defendant": "KAREN TIERRA",
+  "description": "LOT 9, BLOCK 332\nAPPROXIMATE DIMENSIONS: 50.00 X 100.00 FEET\nNEAREST CROSS STREET: GRAND AVENUE\nRECORDING INFO: BOOK: 514, PAGE: 21\nUPSET PRICE: $524,144.41\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "332",
+    "lot": "9",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 524144.41
+  },
+  "fields": {
+    "Address": "1703 81ST STREET\nNORTH BERGEN NJ 07047",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "860-241-2806",
+    "Court Case #": "F-011805-23",
+    "Defendant": "KAREN TIERRA",
+    "Description": "LOT 9, BLOCK 332\nAPPROXIMATE DIMENSIONS: 50.00 X 100.00 FEET\nNEAREST CROSS STREET: GRAND AVENUE\nRECORDING INFO: BOOK: 514, PAGE: 21\nUPSET PRICE: $524,144.41\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Good Faith Upset*": "$524,144.41",
+    "Judgment": "$441,474.23",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "20054780"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 441474.23,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1703 81ST STREET NORTH BERGEN NJ 07047",
+    "defendant": "KAREN TIERRA",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "20054780",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-06-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-06-06",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 524144.41,
+  "upset_amount_label": "Good Faith Upset*"
+}

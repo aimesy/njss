@@ -1,0 +1,64 @@
+{
+  "address": "13 Morris Place Oceanport NJ 07757",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01187423",
+  "current_status": "Scheduled",
+  "defendant": "Thomas M Wenner; Amy A. Wenner, husband and wife, et al",
+  "description": "Dimensions: Approximately: 10X93\nUpset Price: Approximately: $450,358.45 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Branchport Avenue\nBeginning at a point in the north line of Morris Place, distant 223.8 feet easterly from the east line of Branchport Avenue and from said point running; (This concise description does not constitute a legal descriptioon. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 12/16/2024; 2024 Qtr 4 Due: 11/01/2024 $2,286.56 OPEN PLUS PENALTY, 2025 Qtr 1 Due: 02/01/2025 $2,235.08 OPEN. Sewer Acct: 4035811 0 10/01/2024 - 12/31/2024 $100.00 OPEN PLUS PENALTY $100.00 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVATE - NJ American Water Co. P.O. BOX 371331 PITTSBURGH, PA 15250 800-652-6987. Please Contact Signature 3 Business days prior to settlement for Sewer contiuation.",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 450358.45
+  },
+  "fields": {
+    "Address": "13 Morris Place\nOceanport NJ 07757",
+    "Approx. Judgment*": "$408,997.17",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F01187423",
+    "Defendant": "Thomas M Wenner; Amy A. Wenner, husband and wife, et al",
+    "Description": "Dimensions: Approximately: 10X93\nUpset Price: Approximately: $450,358.45 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Branchport Avenue\nBeginning at a point in the north line of Morris Place, distant 223.8 feet easterly from the east line of Branchport Avenue and from said point running; (This concise description does not constitute a legal descriptioon. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 12/16/2024; 2024 Qtr 4 Due: 11/01/2024 $2,286.56 OPEN PLUS PENALTY, 2025 Qtr 1 Due: 02/01/2025 $2,235.08 OPEN. Sewer Acct: 4035811 0 10/01/2024 - 12/31/2024 $100.00 OPEN PLUS PENALTY $100.00 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVATE - NJ American Water Co. P.O. BOX 371331 PITTSBURGH, PA 15250 800-652-6987. Please Contact Signature 3 Business days prior to settlement for Sewer contiuation.",
+    "Parcel #": "Tax Lot: 14; Block: 60 Tax Map of Borough of Oceanport",
+    "Plaintiff": "Legacy Mortgage Asset Trust 2021-GS2",
+    "Property Note": "",
+    "Sales Date": "5/12/2025",
+    "Sheriff #": "FOR-25000039"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 408997.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "13 Morris Place Oceanport NJ 07757",
+    "defendant": "Thomas M Wenner; Amy A. Wenner, husband and wife, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Legacy Mortgage Asset Trust 2021-GS2",
+    "sale_date": "2025-05-12"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 14; Block: 60 Tax Map of Borough of Oceanport",
+  "plaintiff": "Legacy Mortgage Asset Trust 2021-GS2",
+  "property_note": null,
+  "sale_date": "2025-05-12",
+  "sheriff_number": "FOR-25000039",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-12",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Scheduled"
+    }
+  ]
+}

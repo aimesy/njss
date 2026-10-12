@@ -1,0 +1,71 @@
+{
+  "address": "402 Atkins Avenue Neptune NJ 07753",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00022723",
+  "current_status": "Scheduled",
+  "defendant": "Teofilo Ramos-Vasquez, et al",
+  "description": "Approximate Dimensions: 50 X 150\nNearest Cross Street: 9th Avenue\nUpset price: $321,401.58 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively knownat this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nTHE SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT",
+  "extracted": {
+    "upset_amount": 321401.58
+  },
+  "fields": {
+    "Address": "402 Atkins Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$297,130.44",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F00022723",
+    "Defendant": "Teofilo Ramos-Vasquez, et al",
+    "Description": "Approximate Dimensions: 50 X 150\nNearest Cross Street: 9th Avenue\nUpset price: $321,401.58 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively knownat this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nTHE SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT",
+    "Parcel #": "Tax Lot #15 (f/k/a 7) Block #405 (f/k/a 162) Tax Map of Township of Neptune",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, D/B/A Christiana Trust, Not Individually But As Trustee For Pretium Mortgage Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "10/17/2024",
+    "Sheriff #": "FOR-24000322"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 297130.44,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "402 Atkins Avenue Neptune NJ 07753",
+    "defendant": "Teofilo Ramos-Vasquez, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Wilmington Savings Fund Society, FSB, D/B/A Christiana Trust, Not Individually But As Trustee For Pretium Mortgage Acquisition Trust",
+    "sale_date": "2024-10-17"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot #15 (f/k/a 7) Block #405 (f/k/a 162) Tax Map of Township of Neptune",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, D/B/A Christiana Trust, Not Individually But As Trustee For Pretium Mortgage Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2024-10-17",
+  "sheriff_number": "FOR-24000322",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-10-17",
+      "status": "Canceled"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-06-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-05-20",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-04-22",
+      "status": "Scheduled"
+    }
+  ]
+}

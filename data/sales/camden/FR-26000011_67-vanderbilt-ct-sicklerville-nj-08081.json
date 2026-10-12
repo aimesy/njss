@@ -1,0 +1,65 @@
+{
+  "address": "67 VANDERBILT CT SICKLERVILLE NJ 08081",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00301925",
+  "current_status": "Purchased",
+  "defendant": "VALERIE L. NASH ET, AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "67 VANDERBILT CT\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$145,341.39",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00301925",
+    "Defendant": "VALERIE L. NASH ET, AL.",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-26000011"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "67 VANDERBILT CT SICKLERVILLE NJ 08081",
+    "defendant": "VALERIE L. NASH ET, AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-26000011",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 145341.39,
+  "upset_amount_label": "Approx. Upset*"
+}

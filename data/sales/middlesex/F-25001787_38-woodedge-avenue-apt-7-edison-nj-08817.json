@@ -1,0 +1,64 @@
+{
+  "address": "38 WOODEDGE AVENUE APT. 7 EDISON NJ 08817",
+  "attorney": "LEOPOLD & ASSOCIATES PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 795-2200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00698024",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ELISA HOLDINGS LLC. ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$225,125.88",
+    "Attorney": "LEOPOLD & ASSOCIATES PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 795-2200",
+    "Court Case #": "F00698024",
+    "Defendant": "ELISA HOLDINGS LLC. ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "LHOME MORTGAGE TRUST 2023-RTL4",
+    "Property Address": "38 WOODEDGE AVENUE APT. 7\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-25001787"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 225125.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "38 WOODEDGE AVENUE APT. 7 EDISON NJ 08817",
+    "defendant": "ELISA HOLDINGS LLC. ET ALS.",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "LHOME MORTGAGE TRUST 2023-RTL4",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "LHOME MORTGAGE TRUST 2023-RTL4",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-25001787",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

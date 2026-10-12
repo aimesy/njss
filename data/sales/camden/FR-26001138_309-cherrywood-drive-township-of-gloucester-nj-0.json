@@ -1,0 +1,53 @@
+{
+  "address": "309 CHERRYWOOD DRIVE TOWNSHIP OF GLOUCESTER NJ 08021",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "SWCF00281122",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "REGINA RILLERA; DISCOVER BANK; STATE OF NEW JERSEY ; UNITED STATES OF AMERICA; WILIMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF THE ASPEN GROWTH IV TRUAT, A DELAWARE STATUTORY TRUST",
+  "extracted": {},
+  "fields": {
+    "Address": "309 CHERRYWOOD DRIVE\nTOWNSHIP OF GLOUCESTER NJ 08021",
+    "Approx. Upset*": "$192,007.85",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "SWCF00281122",
+    "Defendant": "REGINA RILLERA; DISCOVER BANK;\nSTATE OF NEW JERSEY ; UNITED\nSTATES OF AMERICA; WILIMINGTON\nSAVINGS FUND SOCIETY, FSB, NOT IN\nITS INDIVIDUAL CAPACITY BUT\nSOLELY AS OWNER TRUSTEE OF THE\nASPEN GROWTH IV TRUAT, A\nDELAWARE STATUTORY TRUST",
+    "Parcel #": "lot(s) 62 block 13601",
+    "Plaintiff": "US BANK TRUST NATIONAL\nASSOCIATION, NOT IN ITS INDIVIDUAL\nCAPACITY BUT SOLELY AS OWNER\nTRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26001138"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "309 CHERRYWOOD DRIVE TOWNSHIP OF GLOUCESTER NJ 08021",
+    "defendant": "REGINA RILLERA; DISCOVER BANK; \nSTATE OF NEW JERSEY ; UNITED \nSTATES OF AMERICA; WILIMINGTON \nSAVINGS FUND SOCIETY, FSB, NOT IN \nITS INDIVIDUAL CAPACITY BUT \nSOLELY AS OWNER TRUSTEE OF THE \nASPEN GROWTH IV TRUAT, A \nDELAWARE STATUTORY TRUST",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL \nASSOCIATION, NOT IN ITS INDIVIDUAL \nCAPACITY BUT SOLELY AS OWNER \nTRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "lot(s) 62 block 13601",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26001138",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 192007.85,
+  "upset_amount_label": "Approx. Upset*"
+}

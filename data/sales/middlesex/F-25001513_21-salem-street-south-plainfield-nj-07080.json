@@ -1,0 +1,75 @@
+{
+  "address": "21 SALEM STREET SOUTH PLAINFIELD NJ 07080",
+  "attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 325-8800",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01137124",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "ROBERT HUNTER, ET ALS.",
+  "description": "LOT 9 AND 2 BLOCK 48 AND 50",
+  "extracted": {
+    "block": "48",
+    "lot": "9"
+  },
+  "fields": {
+    "Approx. Judgment*": "$424,295.21",
+    "Attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F01137124",
+    "Defendant": "ROBERT HUNTER, ET ALS.",
+    "Description": "LOT 9 AND 2 BLOCK 48 AND 50",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC.",
+    "Property Address": "21 SALEM STREET\nSOUTH PLAINFIELD NJ 07080",
+    "Property Note": "",
+    "Sale Date": "10/29/2025",
+    "Sheriff #": "F-25001513"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 424295.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "21 SALEM STREET SOUTH PLAINFIELD NJ 07080",
+    "defendant": "ROBERT HUNTER, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC.",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC.",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25001513",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

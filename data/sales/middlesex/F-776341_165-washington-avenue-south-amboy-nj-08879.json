@@ -1,0 +1,68 @@
+{
+  "address": "165 WASHINGTON AVENUE SOUTH AMBOY NJ 08879",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01509019",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "SAMIR W. IBRAHIM, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$441,752.74",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F01509019",
+    "Defendant": "SAMIR W. IBRAHIM, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 44 BLOCK 4000.17",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Address": "165 WASHINGTON AVENUE\nSOUTH AMBOY NJ 08879",
+    "Property Note": "",
+    "Sale Date": "5/22/2024",
+    "Sheriff #": "F-776341"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 441752.74,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "165 WASHINGTON AVENUE SOUTH AMBOY NJ 08879",
+    "defendant": "SAMIR W. IBRAHIM, ET ALS",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2024-05-22"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 44 BLOCK 4000.17",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2024-05-22",
+  "sheriff_number": "F-776341",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-05-22",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-04-10",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-03-27",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-02-28",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

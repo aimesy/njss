@@ -1,0 +1,61 @@
+{
+  "address": "49 PAYSON AVENUE AUDUBON NJ 08106",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00505625",
+  "current_status": "Defendant Adjournment",
+  "defendant": "TIMOTHY M. BRYSON A/K/A TIMOTHY BRYSON; TRISHA L. BRYSON; STATE OF NEW JERSEY; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+  "extracted": {},
+  "fields": {
+    "Address": "49 PAYSON AVENUE\nAUDUBON NJ 08106",
+    "Approx. Upset*": "$215,898.68",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00505625",
+    "Defendant": "TIMOTHY M. BRYSON A/K/A TIMOTHY BRYSON; TRISHA L. BRYSON;\nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA ON BEHALF OF\nTHE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+    "Parcel #": "Tax LOT 5 BLOCK 112",
+    "Plaintiff": "PHH MORTGAGE CORPORATION,",
+    "Property Note": "*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH\nTAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF\nPRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR\nOWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\nSewer: Audubon Sewer Dept. 606 West Nicholson Rd. Audubon, NJ 08106 856-547-0710\nAcct: 2450000 0 07/01/2026 - 12/31/202660.00 OPEN AND DUE 10/01/2026\nCCMUA: CCMUA 1645 Feny Ave. Camden, NJ 08104 856-541-3700 Acct: 010024073\n04/01/2026 - 06/30/2026$93.00 OPEN PLUS PENALTY $465.00 OPEN PLUS PENALTY\nLiens: Year: 2024 Type: 3RD PARTY SEWER,CCMUA Amount: $735.30 Cert No.: 25-00061 Sold: 12/04/2025 To: PRO CAP 8 FBO FIRSTRUST BANK Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J .s.A 54:5-54",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26001574"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "49 PAYSON AVENUE AUDUBON NJ 08106",
+    "defendant": "TIMOTHY M. BRYSON A/K/A TIMOTHY BRYSON; TRISHA L. BRYSON; \nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA ON BEHALF OF \n THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION,",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax LOT 5 BLOCK 112",
+  "plaintiff": "PHH MORTGAGE CORPORATION,",
+  "property_note": "*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH\nTAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF\nPRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR\nOWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\nSewer: Audubon Sewer Dept. 606 West Nicholson Rd. Audubon, NJ 08106 856-547-0710\nAcct: 2450000 0 07/01/2026 - 12/31/202660.00 OPEN AND DUE 10/01/2026\nCCMUA: CCMUA 1645 Feny Ave. Camden, NJ 08104 856-541-3700 Acct: 010024073\n04/01/2026 - 06/30/2026$93.00 OPEN PLUS PENALTY $465.00 OPEN PLUS PENALTY\nLiens: Year: 2024 Type: 3RD PARTY SEWER,CCMUA Amount: $735.30 Cert No.: 25-00061 Sold: 12/04/2025 To: PRO CAP 8 FBO FIRSTRUST BANK Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J .s.A 54:5-54",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26001574",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-21",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 215898.68,
+  "upset_amount_label": "Approx. Upset*"
+}

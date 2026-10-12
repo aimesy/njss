@@ -1,0 +1,69 @@
+{
+  "address": "101 MEWS LANE CHERRY HILL NJ 08003",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00341724",
+  "current_status": "Bankruptcy",
+  "defendant": "CHARLES N. ARENA, JR., ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "101 MEWS LANE\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$537,014.02",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00341724",
+    "Defendant": "CHARLES N. ARENA, JR., ET AL.",
+    "Parcel #": "TAX LOT #10 BLOCK# 412.02",
+    "Plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR MERRILL\nLYNCH MORTGAGE INVESTORS TRUST MORTGAGE LOAN\nASSET-BACKED CERTICATES, SERIES 2004-WMC3",
+    "Property Note": "Taxes current through 2ND quarter of 2026\nWater – plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer open balance in the amount of $96.29, good through April 1, 2026.\nTax sale scheduled for June 29, 2026, CCMUA in the amount of $533.16, good through June 16, 2026\nPlus, interest on these figures through date of pay payoff in any and also subsequent taxes, water, and sewer amounts.",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-25001151"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "101 MEWS LANE CHERRY HILL NJ 08003",
+    "defendant": "CHARLES N. ARENA, JR., ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR MERRILL \nLYNCH MORTGAGE INVESTORS TRUST MORTGAGE LOAN \nASSET-BACKED CERTICATES, SERIES 2004-WMC3",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT #10 BLOCK# 412.02",
+  "plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST MORTGAGE LOAN ASSET-BACKED CERTICATES, SERIES 2004-WMC3",
+  "property_note": "Taxes current through 2ND quarter of 2026\nWater – plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer open balance in the amount of $96.29, good through April 1, 2026.\nTax sale scheduled for June 29, 2026, CCMUA in the amount of $533.16, good through June 16, 2026\nPlus, interest on these figures through date of pay payoff in any and also subsequent taxes, water, and sewer amounts.",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-25001151",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-08-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 537014.02,
+  "upset_amount_label": "Approx. Upset*"
+}

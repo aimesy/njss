@@ -1,0 +1,63 @@
+{
+  "address": "11 WASHINGTON AVENUE MIDDLESEX NJ 08846",
+  "attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-840-5000",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00554924",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JOHN MOSQUERA, ET ALS.",
+  "description": "LOT 10 BLOCK 65",
+  "extracted": {
+    "block": "65",
+    "lot": "10"
+  },
+  "fields": {
+    "Approx. Judgment*": "$355,062.37",
+    "Attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-840-5000",
+    "Court Case #": "F00554924",
+    "Defendant": "JOHN MOSQUERA, ET ALS.",
+    "Description": "LOT 10 BLOCK 65",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "11 WASHINGTON AVENUE\nMIDDLESEX NJ 08846",
+    "Property Note": "",
+    "Sale Date": "9/8/2025",
+    "Sheriff #": "F-25001541"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 355062.37,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 WASHINGTON AVENUE MIDDLESEX NJ 08846",
+    "defendant": "JOHN MOSQUERA, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-09-08"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2025-09-08",
+  "sheriff_number": "F-25001541",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-09-08",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,65 @@
+{
+  "address": "2645 MANALL AVENUE PENNSAUKEN NJ 08109",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00410025",
+  "current_status": "Scheduled",
+  "defendant": "JOAN F. TAYLOR, INDIVIDUALLY AND AS ADMINISTRATRIX OF THE ESTATE OF LAWRENCE A. TAYLOR; SR. A/K/A LAWRENCE A. TAYLOR, II; PENNY LYNN HARTKA; TERRI ANN KATZ; MICHAEL HARTKA; ERIC KATZ; JAMES A. KEY JR., ESQ; NEW JERSEY PROPERTY LIABILITY INSURANCE GUARANTY ASSOCIATION; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "2645 MANALL AVENUE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$201,183.79",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00410025",
+    "Defendant": "JOAN F. TAYLOR, INDIVIDUALLY AND AS ADMINISTRATRIX OF\nTHE ESTATE OF LAWRENCE A. TAYLOR; SR. A/K/A LAWRENCE\nA. TAYLOR, II; PENNY LYNN HARTKA; TERRI ANN KATZ; MICHAEL\nHARTKA; ERIC KATZ; JAMES A. KEY JR., ESQ; NEW JERSEY PROPERTY\nLIABILITY INSURANCE GUARANTY ASSOCIATION; STATE OF\nNEW JERSEY; UNITED STATES OF AMERICA",
+    "Parcel #": "Tax LOT 8 BLOCK 2907",
+    "Plaintiff": "PLANET HOMES LENDING, LLC",
+    "Property Note": "2026 Qtr 4 Due: 11/01/2026 $2,120.11 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,134.78 OPEN\n2027 Qtr 2 Due: 05/01/2027 $2,134.78 OPEN\nWater: Merchantville-Pennsauken Water Co. 6751 Westfield Ave. Pennsauken,NJ 08110 856-663-0043 Acct: 4116630 0 To: 08/17/2026 $51.35 OPEN AND DUE 09/18/2026 $48.30 OPEN\nCCMVA: CCMUA 1645 Ferry Ave. Camden,NJ 08104 856-541-3700 Acct: 270125982 09/01/2026 11/30/2026 $93.00 OPEN AND DUE 10/15/2026 $651.00 OPEN\nSewer: Pennsauken Sewer Auth, 1250 John Tipton Blvd Pennsauken,NJ 08110 856-663-5542 Acct:\n40660000 0 08/01/2026 - 10/31/2026$51.50 OPEN AND DUE 10/01/2026 $52.28 OPEN",
+    "Sales Date": "8/14/2026",
+    "Sheriff #": "FR-26000063"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2645 MANALL AVENUE PENNSAUKEN NJ 08109",
+    "defendant": "JOAN F. TAYLOR, INDIVIDUALLY AND AS ADMINISTRATRIX OF \nTHE ESTATE OF LAWRENCE A. TAYLOR; SR. A/K/A LAWRENCE \nA. TAYLOR, II; PENNY LYNN HARTKA; TERRI ANN KATZ; MICHAEL \nHARTKA; ERIC KATZ; JAMES A. KEY JR., ESQ; NEW JERSEY PROPERTY \nLIABILITY INSURANCE GUARANTY ASSOCIATION; STATE OF \nNEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "PLANET HOMES LENDING, LLC",
+    "sale_date": "2026-08-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax LOT 8 BLOCK 2907",
+  "plaintiff": "PLANET HOMES LENDING, LLC",
+  "property_note": "2026 Qtr 4 Due: 11/01/2026 $2,120.11 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,134.78 OPEN\n2027 Qtr 2 Due: 05/01/2027 $2,134.78 OPEN\nWater: Merchantville-Pennsauken Water Co. 6751 Westfield Ave. Pennsauken,NJ 08110 856-663-0043 Acct: 4116630 0 To: 08/17/2026 $51.35 OPEN AND DUE 09/18/2026 $48.30 OPEN\nCCMVA: CCMUA 1645 Ferry Ave. Camden,NJ 08104 856-541-3700 Acct: 270125982 09/01/2026 11/30/2026 $93.00 OPEN AND DUE 10/15/2026 $651.00 OPEN\nSewer: Pennsauken Sewer Auth, 1250 John Tipton Blvd Pennsauken,NJ 08110 856-663-5542 Acct:\n40660000 0 08/01/2026 - 10/31/2026$51.50 OPEN AND DUE 10/01/2026 $52.28 OPEN",
+  "sale_date": "2026-08-14",
+  "sheriff_number": "FR-26000063",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-14",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 201183.79,
+  "upset_amount_label": "Approx. Upset*"
+}

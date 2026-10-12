@@ -1,0 +1,49 @@
+{
+  "address": "110 YALE AVENUE STRATFORD NJ 08084",
+  "attorney": "FEIN SUCH KAHN & SHEPARD P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F645124",
+  "current_status": "Scheduled",
+  "defendant": "BENJAMIN R VUKICEVICH, ET ALS.",
+  "extracted": {},
+  "fields": {
+    "Address": "110 YALE AVENUE\nSTRATFORD NJ 08084",
+    "Approx. Upset*": "$217,409.13",
+    "Attorney": "FEIN SUCH KAHN & SHEPARD P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F645124",
+    "Defendant": "BENJAMIN R VUKICEVICH, ET ALS.",
+    "Parcel #": "Tax Lot No. 3 in Block No. 30",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "PRIOR LIENS/ENCUMBRANCES\nSEWER OPEN AND DUE $62.50 CCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY\n3 RD PARTY TAX, SEWER, CCMUA CERT NO. 25-00014 $29,634.46 TOTAL AS OF September 16, 2026: $29,790.47",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26002345"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "110 YALE AVENUE STRATFORD NJ 08084",
+    "defendant": "BENJAMIN R VUKICEVICH, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot No. 3 in Block No. 30",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": "PRIOR LIENS/ENCUMBRANCES\nSEWER OPEN AND DUE $62.50 CCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY\n3 RD PARTY TAX, SEWER, CCMUA CERT NO. 25-00014 $29,634.46 TOTAL AS OF September 16, 2026: $29,790.47",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26002345",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 217409.13,
+  "upset_amount_label": "Approx. Upset*"
+}

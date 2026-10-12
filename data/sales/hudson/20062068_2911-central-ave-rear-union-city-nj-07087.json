@@ -1,0 +1,75 @@
+{
+  "address": "2911 CENTRAL AVE/REAR UNION CITY NJ 07087",
+  "attorney": "TAYLOR AND KEYSER",
+  "attorney_phone": "609-803-2180",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-10906-24",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "PERRY REALTY CORP. AND THE STATE OF NEW JERSEY",
+  "description": "TAX BLOCK 162, LOT 19.02\nNEAREST CROSS STREET: 30TH STREET (FORMERLY WALNUT STREET)\nTHE SALE IS SUBJECT TO THE FOLLOWING PRIOR LIEN(S): NONE",
+  "extracted": {
+    "block": "162",
+    "lot": "19.02"
+  },
+  "fields": {
+    "Address": "2911 CENTRAL AVE/REAR\nUNION CITY NJ 07087",
+    "Attorney": "TAYLOR AND KEYSER",
+    "Attorney Phone": "609-803-2180",
+    "Court Case #": "F-10906-24",
+    "Defendant": "PERRY REALTY CORP. AND THE STATE OF NEW JERSEY",
+    "Description": "TAX BLOCK 162, LOT 19.02\nNEAREST CROSS STREET: 30TH STREET (FORMERLY WALNUT STREET)\nTHE SALE IS SUBJECT TO THE FOLLOWING PRIOR LIEN(S): NONE",
+    "Good Faith Upset*": "",
+    "Judgment": "$69,399.19",
+    "Plaintiff": "ISAAC MORADI",
+    "Property Note": "",
+    "Sales Date": "8/27/2026",
+    "Sheriff #": "20062068"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 69399.19,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "2911 CENTRAL AVE/REAR UNION CITY NJ 07087",
+    "defendant": "PERRY REALTY CORP. AND THE STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "ISAAC MORADI",
+    "sale_date": "2026-08-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "ISAAC MORADI",
+  "property_note": null,
+  "sale_date": "2026-08-27",
+  "sheriff_number": "20062068",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-05-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Purchased at Auction by 3rd Party"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "VACATED"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "80 CHERRY CIRCLE BLACKWOOD NJ 08012",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00997825",
+  "current_status": "Scheduled",
+  "defendant": "MICHAELA R. BRADBURY A/K/A MICHAELA R.TONER; MR./MRS. BRADBURY, SPOUCE OR CIVIL UNION PARTNER OF MICHAELA R. BRADBURY; MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, IN., AS NOMINEE FOR COUNRTYWIDE HOME LOANS, INC.; BANK OF AMERICA, N.A.; LVNV FUNDING LLC ASSIGNEE NEW CENTURY FINANCIAL SERVICES;",
+  "extracted": {},
+  "fields": {
+    "Address": "80 CHERRY CIRCLE\nBLACKWOOD NJ 08012",
+    "Approx. Upset*": "$186,606.70",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00997825",
+    "Defendant": "MICHAELA R. BRADBURY A/K/A MICHAELA R.TONER;\nMR./MRS. BRADBURY, SPOUCE OR CIVIL UNION PARTNER\nOF MICHAELA R. BRADBURY; MORTGAGE ELECTRONIC\nREGISTRATION SYSTEMS, IN., AS NOMINEE FOR\nCOUNRTYWIDE HOME LOANS, INC.; BANK OF AMERICA,\nN.A.; LVNV FUNDING LLC ASSIGNEE NEW CENTURY\nFINANCIAL SERVICES;",
+    "Parcel #": "",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF\nNEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS\nOF CWALT, INC., ALTERNATIVE LOAN TRUST 2005-81,\nMORTGAGE PASS-THROUGH CERTIFICATES,\nSERIES 2005-81",
+    "Property Note": "",
+    "Sales Date": "3/20/2026",
+    "Sheriff #": "FR-26000386"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "80 CHERRY CIRCLE BLACKWOOD NJ 08012",
+    "defendant": "MICHAELA R. BRADBURY A/K/A MICHAELA R.TONER; \nMR./MRS. BRADBURY, SPOUCE OR CIVIL UNION PARTNER \nOF MICHAELA R. BRADBURY; MORTGAGE ELECTRONIC \nREGISTRATION SYSTEMS, IN., AS NOMINEE FOR \nCOUNRTYWIDE HOME LOANS, INC.; BANK OF AMERICA, \nN.A.; LVNV FUNDING LLC ASSIGNEE NEW CENTURY \nFINANCIAL SERVICES;",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF \nNEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS \nOF CWALT, INC., ALTERNATIVE LOAN TRUST 2005-81, \nMORTGAGE PASS-THROUGH CERTIFICATES, \nSERIES 2005-81",
+    "sale_date": "2026-03-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 2005-81, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-81",
+  "property_note": null,
+  "sale_date": "2026-03-20",
+  "sheriff_number": "FR-26000386",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-20",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 186606.7,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "3520 COLES MILL ROAD FRANKLINVILLE NJ 08322",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-007662-25",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "SHEILA DIZENZO; UNKNOWN OCCUPANTS #1-10 N/K/A ROBERT STEIN, OCCUPANT",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $319,376.49\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 319376.49
+  },
+  "fields": {
+    "Address": "3520 COLES MILL ROAD\nFRANKLINVILLE NJ 08322",
+    "Approximate Judgment": "$294,339.55",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-007662-25",
+    "Defendant": "SHEILA DIZENZO; UNKNOWN OCCUPANTS #1-10 N/K/A ROBERT STEIN, OCCUPANT",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $319,376.49\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT: 53 BLOCK: 1001",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF BKPL-EG BASKET TRUST",
+    "Property Note": "TOWNSHIP OF FRANKLIN\nCOUNTY OF GLOUCESTER\n3520 COLES MILL ROAD FRANKLINVILLE, NJ 08322\nLOT: 53 BLOCK: 1001\nAPPROXIMATE DIMENSIONS: 1.00AC\nNEAREST CROSS STREET: AUTUMN DRIVE\nGOOD FAITH ESTIMATED UPSET PRICE: $319,376.49\nOCCUPANCY STATUS: OCCUPIED\nTAX CERTIFICATE\nRECORDED: APRIL 07, 2017\nHOLDER: TRYSTONE CAPITAL ASSETS LLC\nAMOUNT: $8,331.48\nBOOK: 15034\nPAGE: 221\nINSTRUMENT NUMBER: CERT. NO: 16-00032",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "F-26000008"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 294339.55,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "3520 COLES MILL ROAD FRANKLINVILLE NJ 08322",
+    "defendant": "SHEILA DIZENZO; UNKNOWN OCCUPANTS #1-10 N/K/A ROBERT STEIN, OCCUPANT",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF BKPL-EG BASKET TRUST",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 53 BLOCK: 1001",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF BKPL-EG BASKET TRUST",
+  "property_note": "TOWNSHIP OF FRANKLIN\nCOUNTY OF GLOUCESTER\n3520 COLES MILL ROAD FRANKLINVILLE, NJ 08322\nLOT: 53 BLOCK: 1001\nAPPROXIMATE DIMENSIONS: 1.00AC\nNEAREST CROSS STREET: AUTUMN DRIVE\nGOOD FAITH ESTIMATED UPSET PRICE: $319,376.49\nOCCUPANCY STATUS: OCCUPIED\nTAX CERTIFICATE\nRECORDED: APRIL 07, 2017\nHOLDER: TRYSTONE CAPITAL ASSETS LLC\nAMOUNT: $8,331.48\nBOOK: 15034\nPAGE: 221\nINSTRUMENT NUMBER: CERT. NO: 16-00032",
+  "sale_date": "2026-03-04",
+  "sheriff_number": "F-26000008",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

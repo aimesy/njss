@@ -1,0 +1,67 @@
+{
+  "address": "458 Tivoli Court Marlboro NJ 07746",
+  "attorney": "McKenna DuPont Stone & Washburne, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02416114",
+  "current_status": "Scheduled",
+  "defendant": "Arlene E Fallon, et al",
+  "description": "Dimension of Lot Approximately: 75 feet by 100 feet\nNearest intersection is Boulevard of de Jardin\nSale is subject to a prior mortgage with an approximate balance of $188,000.00, a tax sale certificate no. 2023-014 with a redemption amount through 8/31/23 of $916, and outstanding condo fees/assessments as may be due and owing to Pointe Jardin Condominium Association.",
+  "extracted": {
+    "lot": "Approximately"
+  },
+  "fields": {
+    "Address": "458 Tivoli Court\nMarlboro NJ 07746",
+    "Approx. Judgment*": "$61,135.54",
+    "Attorney": "McKenna DuPont Stone & Washburne, PC",
+    "Court Case #": "F02416114",
+    "Defendant": "Arlene E Fallon, et al",
+    "Description": "Dimension of Lot Approximately: 75 feet by 100 feet\nNearest intersection is Boulevard of de Jardin\nSale is subject to a prior mortgage with an approximate balance of $188,000.00, a tax sale certificate no. 2023-014 with a redemption amount through 8/31/23 of $916, and outstanding condo fees/assessments as may be due and owing to Pointe Jardin Condominium Association.",
+    "Parcel #": "Tax Lot No. 7, Block No. 176, Qual. C0458 Tax Map of Township of Marlboro",
+    "Plaintiff": "Pinnacle Federal Credit Union",
+    "Property Note": "",
+    "Sales Date": "2/4/2025",
+    "Sheriff #": "FOR-23001750"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 61135.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "458 Tivoli Court Marlboro NJ 07746",
+    "defendant": "Arlene E Fallon, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Pinnacle Federal Credit Union",
+    "sale_date": "2025-02-04"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 7, Block No. 176, Qual. C0458 Tax Map of Township of Marlboro",
+  "plaintiff": "Pinnacle Federal Credit Union",
+  "property_note": null,
+  "sale_date": "2025-02-04",
+  "sheriff_number": "FOR-23001750",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-04",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-01-02",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-01-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-11-20",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-10-23",
+      "status": "Scheduled"
+    }
+  ]
+}

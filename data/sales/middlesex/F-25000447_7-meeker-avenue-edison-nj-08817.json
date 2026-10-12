@@ -1,0 +1,72 @@
+{
+  "address": "7 MEEKER AVENUE EDISON NJ 08817",
+  "attorney": "GROSS POLOWY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00895122",
+  "current_status": "Adjourned - Court",
+  "defendant": "PAULETTE LORENTZEN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$314,159.03",
+    "Attorney": "GROSS POLOWY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00895122",
+    "Defendant": "PAULETTE LORENTZEN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.H BLOCK 337.K",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Address": "7 MEEKER AVENUE\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "7/9/2025",
+    "Sheriff #": "F-25000447"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 314159.03,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 MEEKER AVENUE EDISON NJ 08817",
+    "defendant": "PAULETTE LORENTZEN, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2025-07-09"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.H BLOCK 337.K",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-07-09",
+  "sheriff_number": "F-25000447",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-07-09",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-05-28",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

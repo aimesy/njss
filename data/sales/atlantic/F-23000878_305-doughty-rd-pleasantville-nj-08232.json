@@ -1,0 +1,62 @@
+{
+  "address": "305 Doughty Rd Pleasantville NJ 08232",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002864-22 ALIAS",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jader A. Muriel a/k/a Jader Muriel; his/her heirs; Devisees, and personal representatives, and his, her, their or any of their successors in right; Title and Interest; Yaneth D. Muriel a/k/a Yaneth Muriel a/k/a Yaneth Flores; Mr. or Mrs. Muriel; husband or wife Jader A. Muriel a/k/a Jader Muriel; the spouse; Domestic partner or Civil union partner of Jader A. Muriel a/k/a Jader Muriel",
+  "extracted": {},
+  "fields": {
+    "Address": "305 Doughty Rd\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$237,506.76",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-002864-22 ALIAS",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jader A. Muriel a/k/a Jader Muriel; his/her heirs; Devisees, and personal representatives, and his, her, their or any of their successors in right; Title and Interest; Yaneth D. Muriel a/k/a Yaneth Muriel a/k/a Yaneth Flores; Mr. or Mrs. Muriel; husband or wife Jader A. Muriel a/k/a Jader Muriel; the spouse; Domestic partner or Civil union partner of Jader A. Muriel a/k/a Jader Muriel",
+    "Plaintiff": "U.S Bank Trust National Association, not in its individual capacity, but solely as Trustee of LSF9 Master Participation Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "2/10/2026",
+    "Sheriff #": "F-23000878",
+    "Upset Amount": "$264,213.91"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 237506.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "305 Doughty Rd Pleasantville NJ 08232",
+    "defendant": "Jader A. Muriel a/k/...",
+    "listing_status": null,
+    "plaintiff": "U.S Bank Trust Natio...",
+    "sale_date": "2026-02-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S Bank Trust National Association, not in its individual capacity, but solely as Trustee of LSF9 Master Participation Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2026-02-10",
+  "sheriff_number": "F-23000878",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-10",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-05-09",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-05-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 264213.91,
+  "upset_amount_label": "Upset Amount"
+}

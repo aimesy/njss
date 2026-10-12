@@ -1,0 +1,64 @@
+{
+  "address": "34 WALNUT Avenue Pompton Lakes NJ 07442",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000838 25 CTL# 163008",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "ISABEL J. GILL, ET AL",
+  "description": "Dimensions of lot: 0.23 AC\nNearest Cross Street: Riverdale Blvd\nEstimated Upset bid amount: $172,200.00 plus any additional sums as ordered by the court.\nOccupancy Status: Vacant\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon\nVacant lot Charge: Property registration fees exist. Please contact township clerk at 973-835-0143 ext 238",
+  "extracted": {
+    "lot": "0.23",
+    "occupancy": "Vacant"
+  },
+  "fields": {
+    "Address": "34 WALNUT Avenue\nPompton Lakes NJ 07442",
+    "Approx. Upset*": "$200,090.65",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 000838 25 CTL# 163008",
+    "Defendant": "ISABEL J. GILL, ET AL",
+    "Description": "Dimensions of lot: 0.23 AC\nNearest Cross Street: Riverdale Blvd\nEstimated Upset bid amount: $172,200.00 plus any additional sums as ordered by the court.\nOccupancy Status: Vacant\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon\nVacant lot Charge: Property registration fees exist. Please contact township clerk at 973-835-0143 ext 238",
+    "Parcel #": "TAX LOT 13 BLOCK 10300",
+    "Plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "Property Note": "",
+    "Sales Date": "11/18/2025",
+    "Sheriff #": "F-25001208"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "34 WALNUT Avenue Pompton Lakes NJ 07442",
+    "defendant": "ISABEL J. GILL, ET AL",
+    "listing_status": null,
+    "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "sale_date": "2025-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 13 BLOCK 10300",
+  "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+  "property_note": null,
+  "sale_date": "2025-11-18",
+  "sheriff_number": "F-25001208",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-09-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 200090.65,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,61 @@
+{
+  "address": "664 ANDREA RD RUNNEMEDE NJ 08078",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00279625",
+  "current_status": "Settled",
+  "defendant": "PATRICIA MARY DRAKE A/K/A PATRICIA DRAKE A/K/A PATRICIA SALVATORE A/K/A PATRICIA M. DRAKE; SAVERIO GAROFALO; NEW CENTURY FINANCIAL SERVICES; CAVALRY PORTFOLIO SERVICES LLC ASSIGNEE OF CAVALRY SPV I LLC ASSIGNEE OF HSBC BANK NEVADA NA; MIDLAND FUNDING LLC; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "664 ANDREA RD\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$175,522.50",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00279625",
+    "Defendant": "PATRICIA MARY DRAKE A/K/A PATRICIA DRAKE A/K/A\nPATRICIA SALVATORE A/K/A PATRICIA M. DRAKE; SAVERIO\nGAROFALO; NEW CENTURY FINANCIAL SERVICES; CAVALRY\nPORTFOLIO SERVICES LLC ASSIGNEE OF CAVALRY SPV I LLC\nASSIGNEE OF HSBC BANK NEVADA NA; MIDLAND FUNDING LLC;\nSTATE OF NEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "CITIBANK, N.A., AS TRUSTEE, IN TRUST FOR REGISTERED\nHOLDERS OF WAMU ASSET-BACKED CERTIFICATES WAMU\nSERIES 2007-HE2 TRUST,",
+    "Property Note": "",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "FR-25002569"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "664 ANDREA RD RUNNEMEDE NJ 08078",
+    "defendant": "PATRICIA MARY DRAKE A/K/A PATRICIA DRAKE A/K/A \nPATRICIA SALVATORE A/K/A PATRICIA M. DRAKE; SAVERIO \nGAROFALO; NEW CENTURY FINANCIAL SERVICES; CAVALRY \nPORTFOLIO SERVICES LLC ASSIGNEE OF CAVALRY SPV I LLC \nASSIGNEE OF HSBC BANK NEVADA NA; MIDLAND FUNDING LLC; \nSTATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "CITIBANK, N.A., AS TRUSTEE, IN TRUST FOR REGISTERED \nHOLDERS OF WAMU ASSET-BACKED CERTIFICATES WAMU \nSERIES 2007-HE2 TRUST,",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIBANK, N.A., AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF WAMU ASSET-BACKED CERTIFICATES WAMU SERIES 2007-HE2 TRUST,",
+  "property_note": null,
+  "sale_date": "2026-04-15",
+  "sheriff_number": "FR-25002569",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 175522.5,
+  "upset_amount_label": "Approx. Upset*"
+}

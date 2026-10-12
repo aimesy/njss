@@ -1,0 +1,63 @@
+{
+  "address": "76 Whitefield Ave Unit 317 Ocean Grove NJ 07756",
+  "attorney": "Becker New York, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01379323",
+  "current_status": "Scheduled",
+  "defendant": "John F. Smolinski",
+  "description": "ALL that certain lot, parcel or tract of land, situate, lying and being in the Township of Neptune, County of Monmouth, State of New Jersey, and being more particularly described as follows:\nBEING KNOWN AND DESIGNATED AS Unit 317 in \"Embury Arms Condominium,\" together with an undivided 0.9390 percentage interest in and to the common elements appurtenant thereto, in accordance with, and subject to the terms, conditions, provisions, covenants, restrictions, easements, and other matters contained in the Master Deed for said Embury Arms Condominium, which Master Deed was date 4/1/1981, and recorded on 4/7/1981 in the Clerks' Office of the County of Monmouth, in Deed Book 4290, Page 531, as the same may hereafter be lawfully amended.\nUpset price: (Note, this is a good faith estimate of the upset price at the sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nOccupancy: Unknown",
+  "extracted": {
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "76 Whitefield Ave\nUnit 317\nOcean Grove NJ 07756",
+    "Approx. Judgment*": "$10,517.76",
+    "Attorney": "Becker New York, PC",
+    "Court Case #": "F01379323",
+    "Defendant": "John F. Smolinski",
+    "Description": "ALL that certain lot, parcel or tract of land, situate, lying and being in the Township of Neptune, County of Monmouth, State of New Jersey, and being more particularly described as follows:\nBEING KNOWN AND DESIGNATED AS Unit 317 in \"Embury Arms Condominium,\" together with an undivided 0.9390 percentage interest in and to the common elements appurtenant thereto, in accordance with, and subject to the terms, conditions, provisions, covenants, restrictions, easements, and other matters contained in the Master Deed for said Embury Arms Condominium, which Master Deed was date 4/1/1981, and recorded on 4/7/1981 in the Clerks' Office of the County of Monmouth, in Deed Book 4290, Page 531, as the same may hereafter be lawfully amended.\nUpset price: (Note, this is a good faith estimate of the upset price at the sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nOccupancy: Unknown",
+    "Parcel #": "Tax Lot 1 C217, Block 126.01 Tax Map of Township of Neptune",
+    "Plaintiff": "Embury Arms Condominium Association Inc",
+    "Property Note": "",
+    "Sales Date": "1/5/2026",
+    "Sheriff #": "FOR-25001726"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 10517.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "76 Whitefield Ave Unit 317 Ocean Grove NJ 07756",
+    "defendant": "John F. Smolinski",
+    "listing_status": "Settled",
+    "plaintiff": "Embury Arms Condominium Association Inc",
+    "sale_date": "2026-01-05"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 1 C217, Block 126.01 Tax Map of Township of Neptune",
+  "plaintiff": "Embury Arms Condominium Association Inc",
+  "property_note": null,
+  "sale_date": "2026-01-05",
+  "sheriff_number": "FOR-25001726",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-05",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Scheduled"
+    }
+  ]
+}

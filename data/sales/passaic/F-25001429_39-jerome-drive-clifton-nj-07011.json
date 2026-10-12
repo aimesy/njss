@@ -1,0 +1,60 @@
+{
+  "address": "39 Jerome Drive Clifton NJ 07011",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 005664 23 CTL# 163029",
+  "current_status": "Cancelled",
+  "defendant": "KEITH S. BROTHERSON ET ALS",
+  "description": "Municipality: City of Clifton\nApproximate dimensions: 35.00 x 100.00 x 50.00 x 85.00 x 23.56 Feet IRREGULAR\nNearest cross street: Edward Court\nSubject to: Taxes - Due 8/1/2025 $2,481.78 Open; Estimated Tax Bill\nSewer - Due 9/10/2025 $98.50 Open, $2.35\nOpen Plus Penalty; Owed in Arrears\nWater - Due 7/11/2025 $131.90 Open\nUpset Price: $421,088.43\nOccupancy Status: Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 421088.43
+  },
+  "fields": {
+    "Address": "39 Jerome Drive\nClifton NJ 07011",
+    "Approx. Upset*": "$360,601.06",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 005664 23 CTL# 163029",
+    "Defendant": "KEITH S. BROTHERSON ET ALS",
+    "Description": "Municipality: City of Clifton\nApproximate dimensions: 35.00 x 100.00 x 50.00 x 85.00 x 23.56 Feet IRREGULAR\nNearest cross street: Edward Court\nSubject to: Taxes - Due 8/1/2025 $2,481.78 Open; Estimated Tax Bill\nSewer - Due 9/10/2025 $98.50 Open, $2.35\nOpen Plus Penalty; Owed in Arrears\nWater - Due 7/11/2025 $131.90 Open\nUpset Price: $421,088.43\nOccupancy Status: Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 1, Block 16.03",
+    "Plaintiff": "CITIMORTGAGE, INC",
+    "Property Note": "",
+    "Sales Date": "12/12/2025",
+    "Sheriff #": "F-25001429"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "39 Jerome Drive Clifton NJ 07011",
+    "defendant": "KEITH S. BROTHERSON ET ALS",
+    "listing_status": null,
+    "plaintiff": "CITIMORTGAGE, INC",
+    "sale_date": "2025-12-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 1, Block 16.03",
+  "plaintiff": "CITIMORTGAGE, INC",
+  "property_note": null,
+  "sale_date": "2025-12-12",
+  "sheriff_number": "F-25001429",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 360601.06,
+  "upset_amount_label": "Approx. Upset*"
+}

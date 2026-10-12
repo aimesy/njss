@@ -1,0 +1,81 @@
+{
+  "address": "1303 MASON RUN PINE HILL NJ 08021",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00314323",
+  "current_status": "Court Adjournment",
+  "defendant": "ANTOINETTE EDMONDSON; MR. ANTOINETTE EDMONDSON, HUSBAND OF ANTOINETTE EDMONDSON; HOUSEHOLD FINANCE CORPORATION III: MASON RUN CONDOMINIUM ASSOCIATION AND JOYFUL LIVING LLC,",
+  "extracted": {},
+  "fields": {
+    "Address": "1303 MASON RUN\nPINE HILL NJ 08021",
+    "Approx. Upset*": "$140,282.98",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00314323",
+    "Defendant": "ANTOINETTE EDMONDSON; MR. ANTOINETTE EDMONDSON,\nHUSBAND OF ANTOINETTE EDMONDSON; HOUSEHOLD FINANCE\nCORPORATION III: MASON RUN CONDOMINIUM ASSOCIATION\nAND JOYFUL LIVING LLC,",
+    "Parcel #": "",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK,\nAS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS INC.,\nASSET-BACKED CERTIFICATES, SERIES 2005-16,",
+    "Property Note": "",
+    "Sales Date": "10/30/2025",
+    "Sheriff #": "FR-24001077"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1303 MASON RUN PINE HILL NJ 08021",
+    "defendant": "ANTOINETTE EDMONDSON; MR. ANTOINETTE EDMONDSON, \nHUSBAND OF ANTOINETTE EDMONDSON; HOUSEHOLD FINANCE \nCORPORATION III: MASON RUN CONDOMINIUM ASSOCIATION \nAND JOYFUL LIVING LLC,",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, \nAS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS INC., \nASSET-BACKED CERTIFICATES, SERIES 2005-16,",
+    "sale_date": "2025-10-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS INC., ASSET-BACKED CERTIFICATES, SERIES 2005-16,",
+  "property_note": null,
+  "sale_date": "2025-10-30",
+  "sheriff_number": "FR-24001077",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-06-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-17",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-08-21",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-01-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 140282.98,
+  "upset_amount_label": "Approx. Upset*"
+}

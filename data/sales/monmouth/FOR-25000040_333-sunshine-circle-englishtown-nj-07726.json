@@ -1,0 +1,63 @@
+{
+  "address": "333 Sunshine Circle Englishtown NJ 07726",
+  "attorney": "McGovern Legal Services, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00065024",
+  "current_status": "Scheduled",
+  "defendant": "Susan Cytryn",
+  "description": "Upon information and belief, the premises is vacant\nFinal upset price $30,664.00.",
+  "extracted": {
+    "upset_amount": 30664.0
+  },
+  "fields": {
+    "Address": "333 Sunshine Circle\nEnglishtown NJ 07726",
+    "Approx. Judgment*": "$28,664.00",
+    "Attorney": "McGovern Legal Services, LLC",
+    "Court Case #": "F00065024",
+    "Defendant": "Susan Cytryn",
+    "Description": "Upon information and belief, the premises is vacant\nFinal upset price $30,664.00.",
+    "Parcel #": "Tax Lot 29 (C0333), Block 288 as shown on the Township of Marlboro tax map.",
+    "Plaintiff": "Marlboro Greens Condominium Association, Inc.",
+    "Property Note": "",
+    "Sales Date": "5/20/2025",
+    "Sheriff #": "FOR-25000040"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 28664.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "333 Sunshine Circle Englishtown NJ 07726",
+    "defendant": "Susan Cytryn",
+    "listing_status": "Redeemed",
+    "plaintiff": "Marlboro Greens Condominium Association, Inc.",
+    "sale_date": "2025-05-20"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 29 (C0333), Block 288 as shown on the Township of Marlboro tax map.",
+  "plaintiff": "Marlboro Greens Condominium Association, Inc.",
+  "property_note": null,
+  "sale_date": "2025-05-20",
+  "sheriff_number": "FOR-25000040",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-20",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Scheduled"
+    }
+  ]
+}

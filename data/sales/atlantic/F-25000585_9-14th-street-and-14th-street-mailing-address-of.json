@@ -1,0 +1,74 @@
+{
+  "address": "9 14th Street AND 14th Street (mailing address of Williamstown) Folsom NJ 08094",
+  "attorney": "Dembo, Brown & Burns, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-8643-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Paul Madison; Carol Madison; Rene Madison, Deceased her unknown heirs, devisees and personal representatives, and his, her, their or any of their successors in right, title and interest; Alan A. Madison; Charles H. Madison; Edward L. Madison; Innova Health and Rehab at Hammonton; Equity One, Inc.; Capital One Bank; New Century Financial Services; Midland Funding, LLC; Collings Lakes Civic Association; Vanz LLC APR10 Series01, RJN; Calvary SPV I, LLC on behalf of Synchrony Bank; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "9 14th Street\nAND 14th Street (mailing address of Williamstown)\nFolsom NJ 08094",
+    "Approx. Judgment*": "$118,934.70",
+    "Attorney": "Dembo, Brown & Burns, LLP",
+    "Court Case #": "F-8643-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Paul Madison; Carol Madison; Rene Madison, Deceased her unknown heirs, devisees and personal representatives, and his, her, their or any of their successors in right, title and interest; Alan A. Madison; Charles H. Madison; Edward L. Madison; Innova Health and Rehab at Hammonton; Equity One, Inc.; Capital One Bank; New Century Financial Services; Midland Funding, LLC; Collings Lakes Civic Association; Vanz LLC APR10 Series01, RJN; Calvary SPV I, LLC on behalf of Synchrony Bank; State of New Jersey; United States of America",
+    "Plaintiff": "D.A.N. Joint Venture III, L.P.",
+    "Priors": "As to Block 2008, Lot 9 Folsom Borough-1st and 2nd qtr. 2025 taxes as of 5-6-25, amount: $62.03",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "11/20/2025",
+    "Sheriff #": "F-25000585",
+    "Upset Amount": "$55,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 118934.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "9 14th Street AND 14th Street (mailing address of Williamstown) Folsom NJ 08094",
+    "defendant": "Paul Madison; Carol ...",
+    "listing_status": null,
+    "plaintiff": "D.A.N. Joint Venture...",
+    "sale_date": "2025-11-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "D.A.N. Joint Venture III, L.P.",
+  "priors": "As to Block 2008, Lot 9 Folsom Borough-1st and 2nd qtr. 2025 taxes as of 5-6-25, amount: $62.03",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-11-20",
+  "sheriff_number": "F-25000585",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-11-20",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-09-25",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-08-28",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-07-31",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 55000.0,
+  "upset_amount_label": "Upset Amount"
+}

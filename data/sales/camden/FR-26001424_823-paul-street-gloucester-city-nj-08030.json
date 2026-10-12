@@ -1,0 +1,61 @@
+{
+  "address": "823 PAUL STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00778625",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "SHERKERA MCNEILL, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "823 PAUL STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$123,453.12",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00778625",
+    "Defendant": "SHERKERA MCNEILL, ET AL.",
+    "Parcel #": "TAX LOT: 37 BLOCK:174",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "PROIORITY TAX LIEN HOLDER: PRO CAP 8 FBO FIRSTRUST BANK HOLDS TAX SALE CERTIFICATE NO. 26-00187 IN THE AMOUNT OF $1,082.79 AS OF 01/15/2026.\nLIEN AMOUNT IS SUBJUCT TO SUBSEQUENT TAXES + INTEREST. MUST CALL LOCAL TAX COLLECTOR FOR THE AMOUNT (THE \"REDEMTION SUM\") NECESSARY TO REDEEM.",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001424"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "823 PAUL STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "SHERKERA MCNEILL, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 37 BLOCK:174",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "PROIORITY TAX LIEN HOLDER: PRO CAP 8 FBO FIRSTRUST BANK HOLDS TAX SALE CERTIFICATE NO. 26-00187 IN THE AMOUNT OF $1,082.79 AS OF 01/15/2026.\nLIEN AMOUNT IS SUBJUCT TO SUBSEQUENT TAXES + INTEREST. MUST CALL LOCAL TAX COLLECTOR FOR THE AMOUNT (THE \"REDEMTION SUM\") NECESSARY TO REDEEM.",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001424",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 123453.12,
+  "upset_amount_label": "Approx. Upset*"
+}

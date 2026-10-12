@@ -1,0 +1,64 @@
+{
+  "address": "73 DEANS LANE MONMOUTH JUNCTION NJ 08852",
+  "attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 325-8800",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00366121",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "DARYL MARTIN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$308,930.65",
+    "Attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00366121",
+    "Defendant": "DARYL MARTIN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 20.05 BLOCK 90.03",
+    "Plaintiff": "MEB LOAN TRUST IV",
+    "Property Address": "73 DEANS LANE\nMONMOUTH JUNCTION NJ 08852",
+    "Property Note": "",
+    "Sale Date": "1/7/2026",
+    "Sheriff #": "F-25002228"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 308930.65,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "73 DEANS LANE MONMOUTH JUNCTION NJ 08852",
+    "defendant": "DARYL MARTIN, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "MEB LOAN TRUST IV",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 20.05 BLOCK 90.03",
+  "plaintiff": "MEB LOAN TRUST IV",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25002228",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

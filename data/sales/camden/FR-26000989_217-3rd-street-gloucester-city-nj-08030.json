@@ -1,0 +1,65 @@
+{
+  "address": "217 3RD STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01414625",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "RYAN M. STRANAHAN A/K/A RYAN STRANAHAN; MEGAN STRANAHAN",
+  "extracted": {},
+  "fields": {
+    "Address": "217 3RD STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$237,165.09",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01414625",
+    "Defendant": "RYAN M. STRANAHAN A/K/A RYAN STRANAHAN; MEGAN STRANAHAN",
+    "Parcel #": "TAX LOT 1 BLOCK 77",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Note": "QTR 2 DUE: 05/01/2026 $1,235.91 OPEN\nWATER:GLOUCESTER CITY 512 MONMOUTH STREET GLOUCESTER CITY, NJ 08030 856-456-1250 ACCT: 11838 0 04/01/2026-06/30/2026 $82.00 OPEN\nSEWER: GLOUCESTER CITY 512 MONMOUTH STREET GLOUCESTER CITY, NJ 08030 856-456-1250 ACCT: 11838 0 04/01/2026-06/30/2026 $105\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT: 140012733 03/01/2026-05/31/2026 $93.00 OPEN $93.00 OPEN PLUS PENALTY",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26000989"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "217 3RD STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "RYAN M. STRANAHAN A/K/A RYAN STRANAHAN; MEGAN STRANAHAN",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 1 BLOCK 77",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": "QTR 2 DUE: 05/01/2026 $1,235.91 OPEN\nWATER:GLOUCESTER CITY 512 MONMOUTH STREET GLOUCESTER CITY, NJ 08030 856-456-1250 ACCT: 11838 0 04/01/2026-06/30/2026 $82.00 OPEN\nSEWER: GLOUCESTER CITY 512 MONMOUTH STREET GLOUCESTER CITY, NJ 08030 856-456-1250 ACCT: 11838 0 04/01/2026-06/30/2026 $105\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT: 140012733 03/01/2026-05/31/2026 $93.00 OPEN $93.00 OPEN PLUS PENALTY",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26000989",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-05",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 237165.09,
+  "upset_amount_label": "Approx. Upset*"
+}

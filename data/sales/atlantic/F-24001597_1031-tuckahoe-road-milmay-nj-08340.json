@@ -1,0 +1,58 @@
+{
+  "address": "1031 Tuckahoe Road Milmay NJ 08340",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000758-24",
+  "current_status": "Scheduled",
+  "deed": "West Waterview LLC",
+  "deed_address": "1 Arosa Hill Lakewood, NJ 08701",
+  "defendant": "Edna Muntz Wilkins Bowman; John A. Richardson",
+  "extracted": {},
+  "fields": {
+    "Address": "1031 Tuckahoe Road\nMilmay NJ 08340",
+    "Approx. Judgment*": "$126,828.09",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-000758-24",
+    "Deed": "West Waterview LLC",
+    "Deed Address": "1 Arosa Hill Lakewood, NJ 08701",
+    "Defendant": "Edna Muntz Wilkins Bowman; John A. Richardson",
+    "Plaintiff": "Truist Bank",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "2/13/2025",
+    "Sheriff #": "F-24001597",
+    "Upset Amount": "$126,800.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 126828.09,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1031 Tuckahoe Road Milmay NJ 08340",
+    "defendant": "Edna Muntz Wilkins B...",
+    "listing_status": null,
+    "plaintiff": "Truist Bank...",
+    "sale_date": "2025-02-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Truist Bank",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-02-13",
+  "sheriff_number": "F-24001597",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-13",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 126800.0,
+  "upset_amount_label": "Upset Amount"
+}

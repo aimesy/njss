@@ -1,0 +1,57 @@
+{
+  "address": "920 Wayside Road Tinton Falls NJ 07712",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00245024",
+  "current_status": "Scheduled",
+  "defendant": "Vira Pavlenko, et al",
+  "description": "Dimensions of Lot: (Approximately) 111.46 feet By 176.81 feet\nNearest Cross Street: West Park Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $495,452.28.\nThe upset price is not the same as a payoff or judgment redemption amount.\nThis property is occupied by unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "920 Wayside Road\nTinton Falls NJ 07712",
+    "Approx. Judgment*": "$457,641.78",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00245024",
+    "Defendant": "Vira Pavlenko, et al",
+    "Description": "Dimensions of Lot: (Approximately) 111.46 feet By 176.81 feet\nNearest Cross Street: West Park Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $495,452.28.\nThe upset price is not the same as a payoff or judgment redemption amount.\nThis property is occupied by unknown.",
+    "Parcel #": "Tax Lot No. 7 Block 122 Tax Map of Borough of Tinton Falls",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, not in its individually capacity but solely as Trustee for CHNGE Mortgage Trust 2023-1",
+    "Property Note": "",
+    "Sales Date": "3/24/2025",
+    "Sheriff #": "FOR-24002489"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 457641.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "920 Wayside Road Tinton Falls NJ 07712",
+    "defendant": "Vira Pavlenko, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Wilmington Savings Fund Society, FSB, not in its individually capacity but solely as Trustee for CHNGE Mortgage Trust 2023-1",
+    "sale_date": "2025-03-24"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 7 Block 122 Tax Map of Borough of Tinton Falls",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, not in its individually capacity but solely as Trustee for CHNGE Mortgage Trust 2023-1",
+  "property_note": null,
+  "sale_date": "2025-03-24",
+  "sheriff_number": "FOR-24002489",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-24",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Scheduled"
+    }
+  ]
+}

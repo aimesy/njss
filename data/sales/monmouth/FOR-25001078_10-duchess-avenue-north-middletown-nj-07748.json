@@ -1,0 +1,67 @@
+{
+  "address": "10 Duchess Avenue North Middletown NJ 07748",
+  "attorney": "Knuckles & Manfro LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01295524",
+  "current_status": "Scheduled",
+  "defendant": "Michael Imbriale, et al",
+  "description": "Dimensions (Approx.): 100' x 105'\nNearest Cross Street: Rustic Pl (approx 83 ft/25m)\nEstimated Upset Bid Amount: $564,000.00, in addition to lawful interest accruing daily at the rate allowed by law, up to and including the actual day of sale plus any additional Sheriff fees, cost, and/or commission, and/or any additional sums as ordered by the court. Bid amount is subject to change due to unforeseen circumstances and/or adjournment.\nProperty Occupancy: The property is currently reported to be owner occupied\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded in the Office of the Register/Clerk of Monmouth County in Book 9221, Page 2977, and the Writ of Execution on file with the Sheriff of Monmouth County.",
+  "extracted": {
+    "occupancy": "The property is currently reported to be owner occupied"
+  },
+  "fields": {
+    "Address": "10 Duchess Avenue\nNorth Middletown NJ 07748",
+    "Approx. Judgment*": "$508,105.24",
+    "Attorney": "Knuckles & Manfro LLP",
+    "Court Case #": "F01295524",
+    "Defendant": "Michael Imbriale, et al",
+    "Description": "Dimensions (Approx.): 100' x 105'\nNearest Cross Street: Rustic Pl (approx 83 ft/25m)\nEstimated Upset Bid Amount: $564,000.00, in addition to lawful interest accruing daily at the rate allowed by law, up to and including the actual day of sale plus any additional Sheriff fees, cost, and/or commission, and/or any additional sums as ordered by the court. Bid amount is subject to change due to unforeseen circumstances and/or adjournment.\nProperty Occupancy: The property is currently reported to be owner occupied\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded in the Office of the Register/Clerk of Monmouth County in Book 9221, Page 2977, and the Writ of Execution on file with the Sheriff of Monmouth County.",
+    "Parcel #": "Lot 9, Block 216 Tax Map of the Township of Middletown",
+    "Plaintiff": "MCLP Asset Company, Inc.",
+    "Property Note": "",
+    "Sales Date": "10/31/2025",
+    "Sheriff #": "FOR-25001078"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 508105.24,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 Duchess Avenue North Middletown NJ 07748",
+    "defendant": "Michael Imbriale, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "MCLP Asset Company, Inc.",
+    "sale_date": "2025-10-31"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 9, Block 216 Tax Map of the Township of Middletown",
+  "plaintiff": "MCLP Asset Company, Inc.",
+  "property_note": null,
+  "sale_date": "2025-10-31",
+  "sheriff_number": "FOR-25001078",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-31",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Scheduled"
+    }
+  ]
+}

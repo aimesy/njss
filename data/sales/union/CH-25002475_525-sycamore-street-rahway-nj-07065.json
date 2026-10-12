@@ -1,0 +1,60 @@
+{
+  "address": "525 SYCAMORE STREET RAHWAY NJ 07065",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00233319",
+  "current_status": "Buy Back",
+  "defendant": "BARRY STERLING, TERESA STERLING, BENEFICIAL NEW JERSEY INC., MSW CAPITAL LLC, AND MIDLAND FUNDING LLC",
+  "description": "LOT 577 BLOCK 12",
+  "extracted": {
+    "block": "12",
+    "lot": "577"
+  },
+  "fields": {
+    "Address": "525 SYCAMORE STREET\nRAHWAY NJ 07065",
+    "Approx. Upset*": "$658,667.36",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F00233319",
+    "Defendant": "BARRY STERLING, TERESA STERLING, BENEFICIAL NEW JERSEY INC., MSW CAPITAL LLC, AND MIDLAND FUNDING LLC",
+    "Description": "LOT 577 BLOCK 12",
+    "Parcel #": "LOT 577 BLOCK 12",
+    "Plaintiff": "WELLS FARGO BANK N.A. AS TRUSTEE FOR THE MASTR ASSET BACKED SECURITIES TRUST 2007-NCW MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2007-NCW",
+    "Property Note": "",
+    "Sales Date": "2/25/2026",
+    "Sheriff #": "CH-25002475"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "525 SYCAMORE STREET RAHWAY NJ 07065",
+    "defendant": "BARRY STERLING, TERESA STERLING, BENEFICIAL NEW JERSEY INC., MSW CAPITAL LLC, AND MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK N.A. AS TRUSTEE FOR THE MASTR ASSET BACKED SECURITIES TRUST 2007-NCW MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2007-NCW",
+    "sale_date": "2026-02-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 577 BLOCK 12",
+  "plaintiff": "WELLS FARGO BANK N.A. AS TRUSTEE FOR THE MASTR ASSET BACKED SECURITIES TRUST 2007-NCW MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2007-NCW",
+  "property_note": null,
+  "sale_date": "2026-02-25",
+  "sheriff_number": "CH-25002475",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 658667.36,
+  "upset_amount_label": "Approx. Upset*"
+}

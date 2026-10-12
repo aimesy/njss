@@ -1,0 +1,61 @@
+{
+  "address": "312 FOURTH STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01103025",
+  "current_status": "Defendant Adjournment",
+  "defendant": "DEANA M. BONGIOVANNI N/K/A DEANA M. ANDERSON; MR. DEANAN M. BONGIOVANNI N/K/A DEANAN M. ANDERSON, HUSBAND OF DEANA M. BONGIOVANNI N/K/A DEANA M. ANDERSON; PALISADES COLLECTION LLC; LEXINGTON NATIONAL INSURANCE CORPORATION AND UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "312 FOURTH STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$146,840.66",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01103025",
+    "Defendant": "DEANA M. BONGIOVANNI N/K/A DEANA M. ANDERSON; MR. DEANAN M. BONGIOVANNI N/K/A\nDEANAN M. ANDERSON, HUSBAND OF DEANA M. BONGIOVANNI N/K/A\nDEANA M. ANDERSON; PALISADES COLLECTION LLC; LEXINGTON NATIONAL\nINSURANCE CORPORATION AND UNITED STATES OF AMERICA,",
+    "Parcel #": "LOT 31, 41 AND 42, BLOCK 85.01 FKA 85 A",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "Property Note": "SUBJECT TO TAX SALE CERTIFICATE NO. 26-00113 IN THE AMOUNT OF $2,141.02\nTO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT",
+    "Sales Date": "8/6/2026",
+    "Sheriff #": "FR-26000680"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "312 FOURTH STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "DEANA M. BONGIOVANNI N/K/A DEANA M. ANDERSON; MR. DEANAN M. BONGIOVANNI N/K/A \nDEANAN M. ANDERSON, HUSBAND OF DEANA M. BONGIOVANNI N/K/A \nDEANA M. ANDERSON; PALISADES COLLECTION LLC; LEXINGTON NATIONAL \nINSURANCE CORPORATION AND UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "sale_date": "2026-08-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 31, 41 AND 42, BLOCK 85.01 FKA 85 A",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+  "property_note": "SUBJECT TO TAX SALE CERTIFICATE NO. 26-00113 IN THE AMOUNT OF $2,141.02\nTO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT",
+  "sale_date": "2026-08-06",
+  "sheriff_number": "FR-26000680",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 146840.66,
+  "upset_amount_label": "Approx. Upset*"
+}

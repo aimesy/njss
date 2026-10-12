@@ -1,0 +1,56 @@
+{
+  "address": "600 Ocean Park Avenue* Bradley Beach NJ 07720",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F547524",
+  "current_status": "Scheduled",
+  "defendant": "Steven Nagy, et al",
+  "description": "Dimension of Lot Approximately: 50 X 100\nNearest Cross Street: Hammond Avenue\nBeginning at the intersection of the northerly line of Ocean-Park Avenue (75 feet in width) with the westerly line of Hammond Avenue (50 feet in width); thence\nPrior Liens/Encumbrances\n1 Qtr Taxes Open $2,146.01\nSewer Open Plus Penalty $1,075.50\nTotal as of February 5, 2025: $3,221.51\nGood faith estimate of upset price: $138,915.34\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+  "extracted": {
+    "lot": "Approximately",
+    "upset_amount": 138915.34
+  },
+  "fields": {
+    "Address": "600 Ocean Park Avenue*\nBradley Beach NJ 07720",
+    "Approx. Judgment*": "$127,302.04",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F547524",
+    "Defendant": "Steven Nagy, et al",
+    "Description": "Dimension of Lot Approximately: 50 X 100\nNearest Cross Street: Hammond Avenue\nBeginning at the intersection of the northerly line of Ocean-Park Avenue (75 feet in width) with the westerly line of Hammond Avenue (50 feet in width); thence\nPrior Liens/Encumbrances\n1 Qtr Taxes Open $2,146.01\nSewer Open Plus Penalty $1,075.50\nTotal as of February 5, 2025: $3,221.51\nGood faith estimate of upset price: $138,915.34\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+    "Parcel #": "Tax Lot No. 9 in Block No. 20 Tax Map of the Borough of Bradley Beach",
+    "Plaintiff": "Select Portfolio Servicing, Inc.",
+    "Property Note": "",
+    "Sales Date": "4/14/2025",
+    "Sheriff #": "FOR-25000302"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 127302.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "600 Ocean Park Avenue* Bradley Beach NJ 07720",
+    "defendant": "Steven Nagy, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Select Portfolio Servicing, Inc.",
+    "sale_date": "2025-04-14"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 9 in Block No. 20 Tax Map of the Borough of Bradley Beach",
+  "plaintiff": "Select Portfolio Servicing, Inc.",
+  "property_note": null,
+  "sale_date": "2025-04-14",
+  "sheriff_number": "FOR-25000302",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-14",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    }
+  ]
+}

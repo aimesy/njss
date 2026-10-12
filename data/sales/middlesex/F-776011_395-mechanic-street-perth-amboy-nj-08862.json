@@ -1,0 +1,60 @@
+{
+  "address": "395 MECHANIC STREET PERTH AMBOY NJ 08862",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00085421",
+  "current_status": "Bankruptcy",
+  "defendant": "SRP CAPITAL LLC",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$408,915.39",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00085421",
+    "Defendant": "SRP CAPITAL LLC",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 13.01 BLOCK 144",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE ON BEHALF OF ANTLR MORTGAGE TRUST 2021-RTL1",
+    "Property Address": "395 MECHANIC STREET\nPERTH AMBOY NJ 08862",
+    "Property Note": "SUCCESSFULLY POSTED 04/14/2023 AREA3",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-776011"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 408915.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "395 MECHANIC STREET PERTH AMBOY NJ 08862",
+    "defendant": "SRP CAPITAL LLC",
+    "listing_status": "Cancelled",
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE ON BEHALF OF ANTLR MORTGAGE TRUST 2021-RTL1",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 13.01 BLOCK 144",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE ON BEHALF OF ANTLR MORTGAGE TRUST 2021-RTL1",
+  "property_note": "SUCCESSFULLY POSTED 04/14/2023 AREA3",
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-776011",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

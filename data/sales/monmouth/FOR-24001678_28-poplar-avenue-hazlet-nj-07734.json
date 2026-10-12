@@ -1,0 +1,61 @@
+{
+  "address": "28 Poplar Avenue Hazlet NJ 07734",
+  "attorney": "Leopold & Associates, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01271923",
+  "current_status": "Scheduled",
+  "defendant": "Randy Flores, et al",
+  "description": "Dimensions of Lot (Approximately): 65X100 IRR .1492 AC\nNearest Cross Street: 11th Street\nSubject To:\nSEE CONDITIONS OF SALE\n1) \"The short form description provided herein does not constitute a full legal description. A full legal description is available in the office of the MONMOUTH County Sheriff\".\n2) The estimated Upset amount at time of sale is $235,562.17, which amount is subject to change in the event of any Monetary Advances incurred by Plaintiff and/or any Orders for Additional Sums entered by the Court, without further publication.\n3) Upon information and belief, property is currently owner occupied.",
+  "extracted": {},
+  "fields": {
+    "Address": "28 Poplar Avenue\nHazlet NJ 07734",
+    "Approx. Judgment*": "$229,695.40",
+    "Attorney": "Leopold & Associates, PLLC",
+    "Court Case #": "F01271923",
+    "Defendant": "Randy Flores, et al",
+    "Description": "Dimensions of Lot (Approximately): 65X100 IRR .1492 AC\nNearest Cross Street: 11th Street\nSubject To:\nSEE CONDITIONS OF SALE\n1) \"The short form description provided herein does not constitute a full legal description. A full legal description is available in the office of the MONMOUTH County Sheriff\".\n2) The estimated Upset amount at time of sale is $235,562.17, which amount is subject to change in the event of any Monetary Advances incurred by Plaintiff and/or any Orders for Additional Sums entered by the Court, without further publication.\n3) Upon information and belief, property is currently owner occupied.",
+    "Parcel #": "Tax Lot 1/Block 42 Tax Map of Township of Hazlet",
+    "Plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Property Note": "",
+    "Sales Date": "2/26/2025",
+    "Sheriff #": "FOR-24001678"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 229695.4,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "28 Poplar Avenue Hazlet NJ 07734",
+    "defendant": "Randy Flores, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "sale_date": "2025-02-26"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 1/Block 42 Tax Map of Township of Hazlet",
+  "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+  "property_note": null,
+  "sale_date": "2025-02-26",
+  "sheriff_number": "FOR-24001678",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-26",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    }
+  ]
+}

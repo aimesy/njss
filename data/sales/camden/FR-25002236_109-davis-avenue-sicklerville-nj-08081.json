@@ -1,0 +1,65 @@
+{
+  "address": "109 DAVIS AVENUE SICKLERVILLE NJ 08081",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00358325",
+  "current_status": "Bankruptcy",
+  "defendant": "LOUIE T. HERRELL; MRS. LOUIE T. HERRELL, WIFE OF LOUIE T. HERRELL; JOYCE A. DUCKETT; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; TECHNOLOGY CREDIT UNION AND AQUA FINANCE INC,",
+  "extracted": {},
+  "fields": {
+    "Address": "109 DAVIS AVENUE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$230,757.47",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00358325",
+    "Defendant": "LOUIE T. HERRELL; MRS. LOUIE T. HERRELL, WIFE OF LOUIE T.\nHERRELL; JOYCE A. DUCKETT; STATE OF NEW JERSEY; NEW JERSEY\nHOUSING AND MORTGAGE FINANCE AGENCY; TECHNOLOGY\nCREDIT UNION AND AQUA FINANCE INC,",
+    "Parcel #": "LOT 33, BLOCK 5106 FKA 5101",
+    "Plaintiff": "LOANDEPOT.COM, LLC,",
+    "Property Note": "Vacant Lot Charge - Property Registration Fee $500.00 open for 2026",
+    "Sales Date": "9/2/2026",
+    "Sheriff #": "FR-25002236"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "109 DAVIS AVENUE SICKLERVILLE NJ 08081",
+    "defendant": "LOUIE T. HERRELL; MRS. LOUIE T. HERRELL, WIFE OF LOUIE T. \nHERRELL; JOYCE A. DUCKETT; STATE OF NEW JERSEY; NEW JERSEY \nHOUSING AND MORTGAGE FINANCE AGENCY; TECHNOLOGY \nCREDIT UNION AND AQUA FINANCE INC,",
+    "listing_status": null,
+    "plaintiff": "LOANDEPOT.COM, LLC,",
+    "sale_date": "2026-09-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 33, BLOCK 5106 FKA 5101",
+  "plaintiff": "LOANDEPOT.COM, LLC,",
+  "property_note": "Vacant Lot Charge - Property Registration Fee $500.00 open for 2026",
+  "sale_date": "2026-09-02",
+  "sheriff_number": "FR-25002236",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 230757.47,
+  "upset_amount_label": "Approx. Upset*"
+}

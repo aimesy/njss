@@ -1,0 +1,64 @@
+{
+  "address": "305 NEPTUNE AVENUE JERSEY CITY NJ 07305",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-010007-25",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "MARIQUET C. CONEPCION, ET AL.",
+  "description": "BLOCK 28402, LOT 9\nDIMENSIONS OF LOT (APPROXIMATELY): 20X113\nNEAREST CROSS STREET: ROMAR AVENUE\nAPPROX UPSET PRICE $536,000.00\nPROPERTY STATUS - TENANT OCCUPIED",
+  "extracted": {
+    "block": "28402",
+    "lot": "9",
+    "upset_amount": 536000.0
+  },
+  "fields": {
+    "Address": "305 NEPTUNE AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F-010007-25",
+    "Defendant": "MARIQUET C. CONEPCION, ET AL.",
+    "Description": "BLOCK 28402, LOT 9\nDIMENSIONS OF LOT (APPROXIMATELY): 20X113\nNEAREST CROSS STREET: ROMAR AVENUE\nAPPROX UPSET PRICE $536,000.00\nPROPERTY STATUS - TENANT OCCUPIED",
+    "Good Faith Upset*": "$536,000.00",
+    "Judgment": "$490,145.53",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "8/13/2026",
+    "Sheriff #": "20062478"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 490145.53,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "305 NEPTUNE AVENUE JERSEY CITY NJ 07305",
+    "defendant": "MARIQUET C. CONEPCION, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-08-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-08-13",
+  "sheriff_number": "20062478",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-06-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 536000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

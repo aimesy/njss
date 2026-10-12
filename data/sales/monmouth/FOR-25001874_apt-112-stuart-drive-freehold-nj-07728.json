@@ -1,0 +1,64 @@
+{
+  "address": "Apt 112 Stuart Drive Freehold NJ 07728",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00481825",
+  "current_status": "Scheduled",
+  "defendant": "Amber Mayes-Quiles",
+  "description": "Dimensions of Lot:\nTogether with an undivided .3205 percentage interest in and to the common elements of Independence Square condominium\nNearest Cross Street: Whistler Drive\nEstimated upset bid amount: $247,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Vacant\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 4 Due: 11/01/2025 $2,165.34 OPEN\n2026 Qtr 1 Due: 02/01/2026 $1,974.55 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,974.55 OPEN\nWater: Freehold Twp Water + Sewer Dept. 1 Municipal Plaza Freehold, NJ 07728 732-2942021 Acct: 2008089 0 06/01/2025 - 08/31/2025 $29.69 OPEN PLUS PENALTY $125.15 OPEN PLUS PENALTY\nSewer: Freehold Twp Water + sewer Dept. 1 Municipal Plaza Freehold, NJ 07728 732-294-2021 Acct: 2008089 0 09/01/2025 - 11/30/2025 $134.13 OPEN PLUS PENALTY $314.81 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "Together",
+    "occupancy": "Vacant"
+  },
+  "fields": {
+    "Address": "Apt 112 Stuart Drive\nFreehold NJ 07728",
+    "Approx. Judgment*": "$225,797.95",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00481825",
+    "Defendant": "Amber Mayes-Quiles",
+    "Description": "Dimensions of Lot:\nTogether with an undivided .3205 percentage interest in and to the common elements of Independence Square condominium\nNearest Cross Street: Whistler Drive\nEstimated upset bid amount: $247,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Vacant\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 4 Due: 11/01/2025 $2,165.34 OPEN\n2026 Qtr 1 Due: 02/01/2026 $1,974.55 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,974.55 OPEN\nWater: Freehold Twp Water + Sewer Dept. 1 Municipal Plaza Freehold, NJ 07728 732-2942021 Acct: 2008089 0 06/01/2025 - 08/31/2025 $29.69 OPEN PLUS PENALTY $125.15 OPEN PLUS PENALTY\nSewer: Freehold Twp Water + sewer Dept. 1 Municipal Plaza Freehold, NJ 07728 732-294-2021 Acct: 2008089 0 09/01/2025 - 11/30/2025 $134.13 OPEN PLUS PENALTY $314.81 OPEN PLUS PENALTY",
+    "Parcel #": "Tax Lot 12.01 Block 49.36 Tax Map of the Township of Freehold",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for Freddie Mac SLST 2024-2 Participation Interest Trust",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "FOR-25001874"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 225797.95,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "Apt 112 Stuart Drive Freehold NJ 07728",
+    "defendant": "Amber Mayes-Quiles",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for Freddie Mac SLST 2024-2 Participation Interest Trust",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 12.01 Block 49.36 Tax Map of the Township of Freehold",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for Freddie Mac SLST 2024-2 Participation Interest Trust",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "FOR-25001874",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-02",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Scheduled"
+    }
+  ]
+}

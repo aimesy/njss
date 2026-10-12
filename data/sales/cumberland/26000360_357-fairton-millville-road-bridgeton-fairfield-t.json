@@ -1,0 +1,66 @@
+{
+  "address": "357 FAIRTON MILLVILLE ROAD BRIDGETON (FAIRFIELD TOWNSHIP) NJ 08302",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Cumberland County, NJ",
+  "county_id": 6,
+  "court_case_number": "F05003514",
+  "current_status": "Sold to CWPP Next of Kin",
+  "deed": null,
+  "deed_address": "LOT 1.01 BLOCK 11",
+  "defendant": "JOHN L COSSABOON ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "357 FAIRTON MILLVILLE ROAD\nBRIDGETON (FAIRFIELD TOWNSHIP) NJ 08302",
+    "Approx. Judgment*": "$111,210.85",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F05003514",
+    "Deed": "",
+    "Deed Address": "LOT 1.01 BLOCK 11",
+    "Defendant": "JOHN L COSSABOON ET AL",
+    "Plaintiff": "US BANK NATIONAL ASSOCIATION AS TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST INC 2006-HE1 ASSET BACKED PASS THROUGH CERTIFICATES SERIES 2006-HE1",
+    "Priors": "UPSET: $156,000 SOLD: $156,000",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "26000360",
+    "Upset Amount": "$156,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 111210.85,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "357 FAIRTON MILLVILLE ROAD BRIDGETON (FAIRFIELD TOWNSHIP) NJ 08302",
+    "defendant": "JOHN L COSSABOON ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK NATIONAL ASSOCIATION AS TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST INC 2006-HE1 ASSET BACKED PASS THROUGH CERTIFICATES SERIES 2006-HE1",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cumberland County, NJ)",
+  "plaintiff": "US BANK NATIONAL ASSOCIATION AS TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST INC 2006-HE1 ASSET BACKED PASS THROUGH CERTIFICATES SERIES 2006-HE1",
+  "priors": "UPSET: $156,000 SOLD: $156,000",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "26000360",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Sheriff's Adjournment - Medical"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Sold to CWPP Next of Kin"
+    }
+  ],
+  "upset_amount": 156000.0,
+  "upset_amount_label": "Upset Amount"
+}

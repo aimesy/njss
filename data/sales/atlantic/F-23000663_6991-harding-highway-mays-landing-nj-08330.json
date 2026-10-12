@@ -1,0 +1,62 @@
+{
+  "address": "6991 Harding Highway Mays Landing NJ 08330",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011683-22",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jacquelyne Melendez; Tyriek K. Melendez a/k/a Tyriek Melendez; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "6991 Harding Highway\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$188,271.94",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-011683-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jacquelyne Melendez; Tyriek K. Melendez a/k/a Tyriek Melendez; State of New Jersey",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "4/21/2025",
+    "Sheriff #": "F-23000663",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 188271.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6991 Harding Highway Mays Landing NJ 08330",
+    "defendant": "Jacquelyne Melendez;...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2025-04-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2025-04-21",
+  "sheriff_number": "F-23000663",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-21",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2023-07-06",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2023-07-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "364 North South Carolina Avenue Atlantic City NJ 08401",
+  "attorney": "Gary C. Zeitz, L.L.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-1802-25",
+  "current_status": "Scheduled",
+  "deed": "AHASAN Realty LLC",
+  "deed_address": "410 Montrose Lane Galloway NJ 08205",
+  "defendant": "Octavian Ocasio; United States of America; Their Heirs, Devisees and Personal Representatives, and Their or any of Their Successors in Right, Title and Interest",
+  "extracted": {},
+  "fields": {
+    "Address": "364 North South Carolina Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$10,023.90",
+    "Attorney": "Gary C. Zeitz, L.L.C.",
+    "Court Case #": "F-1802-25",
+    "Deed": "AHASAN Realty LLC",
+    "Deed Address": "410 Montrose Lane Galloway NJ 08205",
+    "Defendant": "Octavian Ocasio; United States of America; Their Heirs, Devisees and Personal Representatives, and Their or any of Their Successors in Right, Title and Interest",
+    "Plaintiff": "FIG CUST FIGNJ19LLC & SEC PTY",
+    "Priors": "Open tax quarters (1st and 2nd) and unpaid municipal charges due and owing to the City of Atlantic City as of 8/11/2025, amount: $884.85",
+    "Property Note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+    "Sales Date": "10/16/2025",
+    "Sheriff #": "F-25000929",
+    "Upset Amount": "$18,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 10023.9,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "364 North South Carolina Avenue Atlantic City NJ 08401",
+    "defendant": "Octavian Ocasio; Uni...",
+    "listing_status": null,
+    "plaintiff": "FIG CUST FIGNJ19LLC ...",
+    "sale_date": "2025-10-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "FIG CUST FIGNJ19LLC & SEC PTY",
+  "priors": "Open tax quarters (1st and 2nd) and unpaid municipal charges due and owing to the City of Atlantic City as of 8/11/2025, amount: $884.85",
+  "property_note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+  "sale_date": "2025-10-16",
+  "sheriff_number": "F-25000929",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-16",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 18000.0,
+  "upset_amount_label": "Upset Amount"
+}

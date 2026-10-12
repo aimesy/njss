@@ -1,0 +1,52 @@
+{
+  "address": "15 HIGH STREET EAST RUTHERFORD NJ 07073",
+  "attorney": "STERN AND EISENBERG PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00644023",
+  "current_status": "BANKRUPTCY",
+  "defendant": "JUAN A. REYES; MRS. REYES, UNKNOWN SPOUSE OF JUAN A. REYES, ET AL",
+  "description": "Upset Price: $596,670.94, good through March 15, 2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown.",
+    "upset_amount": 596670.94
+  },
+  "fields": {
+    "Address": "15 HIGH STREET\nEAST RUTHERFORD NJ 07073",
+    "Approx. Upset*": "$491,202.74",
+    "Attorney": "STERN AND EISENBERG PC",
+    "Court Case #": "F00644023",
+    "Defendant": "JUAN A. REYES; MRS. REYES, UNKNOWN SPOUSE OF JUAN A. REYES, ET AL",
+    "Description": "Upset Price: $596,670.94, good through March 15, 2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.",
+    "Parcel #": "LOT 4, BLOCK 55",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR INDYMAC INDX MORTGAGE LOAN TRUST 2006-AR13, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-AR13",
+    "Property Note": "",
+    "Sales Date": "12/17/2025",
+    "Sheriff #": "F-25002663"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "15 HIGH STREET EAST RUTHERFORD NJ 07073",
+    "defendant": "JUAN A. REYES; MRS. REYES, UNKNOWN SPOUSE OF JUAN A. REYES, ET AL",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR INDYMAC INDX MORTGAGE LOAN TRUST 2006-AR13, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-AR13",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 4, BLOCK 55",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR INDYMAC INDX MORTGAGE LOAN TRUST 2006-AR13, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-AR13",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25002663",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 491202.74,
+  "upset_amount_label": "Approx. Upset*"
+}

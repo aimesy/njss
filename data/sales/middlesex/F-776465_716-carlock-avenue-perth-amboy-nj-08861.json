@@ -1,0 +1,72 @@
+{
+  "address": "716 CARLOCK AVENUE PERTH AMBOY NJ 08861",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-867-4541",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F5213114",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JESUS NUNEZ, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$468,868.24",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-867-4541",
+    "Court Case #": "F5213114",
+    "Defendant": "JESUS NUNEZ, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 35-38 BLOCK NO. 301",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF LONG BEACH MORTGAGE LOAN TRUST 2006-9, ASSET-BACKED CERTIFICATES, SERIES 2006-9",
+    "Property Address": "716 CARLOCK AVENUE\nPERTH AMBOY NJ 08861",
+    "Property Note": "BK CASE NO. 24-17518 CHAPTER 13 FILED 7/30/2024\nBK CASE NO. 25-17518 DISMISSED 10/9/2024",
+    "Sale Date": "4/23/2026",
+    "Sheriff #": "F-776465"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 468868.24,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "716 CARLOCK AVENUE PERTH AMBOY NJ 08861",
+    "defendant": "JESUS NUNEZ, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF LONG BEACH MORTGAGE LOAN TRUST 2006-9, ASSET-BACKED CERTIFICATES, SERIES 2006-9",
+    "sale_date": "2026-04-23"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 35-38 BLOCK NO. 301",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF LONG BEACH MORTGAGE LOAN TRUST 2006-9, ASSET-BACKED CERTIFICATES, SERIES 2006-9",
+  "property_note": "BK CASE NO. 24-17518 CHAPTER 13 FILED 7/30/2024\nBK CASE NO. 25-17518 DISMISSED 10/9/2024",
+  "sale_date": "2026-04-23",
+  "sheriff_number": "F-776465",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-11-20",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-11-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-07-31",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-07-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

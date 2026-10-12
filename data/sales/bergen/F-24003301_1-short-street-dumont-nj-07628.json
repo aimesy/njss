@@ -1,0 +1,76 @@
+{
+  "address": "1 SHORT STREET DUMONT NJ 07628",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01122523",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "JAMIE L PAOLACCI; MATTHEW J PAOLACCI",
+  "description": "UPSET PRICE: Approximately: $692,940.76 and any additional sums as ordered by the court.\nOCCUPANCY STATUS: Occupied by Unknown",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 692940.76
+  },
+  "fields": {
+    "Address": "1 SHORT STREET\nDUMONT NJ 07628",
+    "Approx. Upset*": "$640,300.11",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+    "Court Case #": "F01122523",
+    "Defendant": "JAMIE L PAOLACCI; MATTHEW J PAOLACCI",
+    "Description": "UPSET PRICE: Approximately: $692,940.76 and any additional sums as ordered by the court.\nOCCUPANCY STATUS: Occupied by Unknown",
+    "Parcel #": "LOT 16, BLOCK 1219",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS CWALT, INC, ALTERNATIVE LOAN TRUST 2006-23CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-23CB",
+    "Property Note": "",
+    "Sales Date": "11/7/2025",
+    "Sheriff #": "F-24003301"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1 SHORT STREET DUMONT NJ 07628",
+    "defendant": "JAMIE L PAOLACCI; MATTHEW J PAOLACCI",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS CWALT, INC, ALTERNATIVE LOAN TRUST 2006-23CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-23CB",
+    "sale_date": "2025-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 16, BLOCK 1219",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS CWALT, INC, ALTERNATIVE LOAN TRUST 2006-23CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-23CB",
+  "property_note": null,
+  "sale_date": "2025-11-07",
+  "sheriff_number": "F-24003301",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-01-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-28",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-27",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-07-25",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 640300.11,
+  "upset_amount_label": "Approx. Upset*"
+}

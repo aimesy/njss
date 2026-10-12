@@ -1,0 +1,56 @@
+{
+  "address": "40 EISENHOWER DRIVE SAYREVILLE NJ 08872",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F-00021214",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "JAMES CLUNE, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$595,002.84",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-00021214",
+    "Defendant": "JAMES CLUNE, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+    "Property Address": "40 EISENHOWER DRIVE\nSAYREVILLE NJ 08872",
+    "Property Note": "",
+    "Sale Date": "11/20/2024",
+    "Sheriff #": "F-775995"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 595002.84,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40 EISENHOWER DRIVE SAYREVILLE NJ 08872",
+    "defendant": "JAMES CLUNE, ET ALS",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+    "sale_date": "2024-11-20"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+  "property_note": null,
+  "sale_date": "2024-11-20",
+  "sheriff_number": "F-775995",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-11-20",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

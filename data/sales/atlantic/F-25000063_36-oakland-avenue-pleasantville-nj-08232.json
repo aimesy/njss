@@ -1,0 +1,62 @@
+{
+  "address": "36 Oakland Avenue Pleasantville NJ 08232",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004838-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Khendel Ruffin, Individually and as Administrator of the Estate of Sonia Denise Robinson-Ruffin a/k/a Sonia Robinson-Ruffin a/k/a Sonia D. Robinson-Ruffin; Jerlyn Ruffin, Individually and as Administrator of the Estate of Sonia Denise Robinson-Ruffin a/k/a Sonia Robinson-Ruffin a/k/a Sonia D. Robinson-Ruffin; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "36 Oakland Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$126,644.64",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-004838-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Khendel Ruffin, Individually and as Administrator of the Estate of Sonia Denise Robinson-Ruffin a/k/a Sonia Robinson-Ruffin a/k/a Sonia D. Robinson-Ruffin; Jerlyn Ruffin, Individually and as Administrator of the Estate of Sonia Denise Robinson-Ruffin a/k/a Sonia Robinson-Ruffin a/k/a Sonia D. Robinson-Ruffin; State of New Jersey; United States of America",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "5/11/2026",
+    "Sheriff #": "F-25000063",
+    "Upset Amount": "$146,477.91"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 126644.64,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "36 Oakland Avenue Pleasantville NJ 08232",
+    "defendant": "Khendel Ruffin, Indi...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2026-05-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2026-05-11",
+  "sheriff_number": "F-25000063",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-05-11",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 146477.91,
+  "upset_amount_label": "Upset Amount"
+}

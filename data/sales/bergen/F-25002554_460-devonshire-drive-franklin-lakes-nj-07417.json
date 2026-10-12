@@ -1,0 +1,64 @@
+{
+  "address": "460 DEVONSHIRE DRIVE FRANKLIN LAKES NJ 07417",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00701424",
+  "current_status": "Cancelled",
+  "defendant": "460 DEVONSHIRE DRIVE LLC; SUDARSHAN S. RAJAN",
+  "description": "THIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.\nGOOD FAITH ESTIMATED UPSET PRICE: $1,689,616.39\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 1689616.39
+  },
+  "fields": {
+    "Address": "460 DEVONSHIRE DRIVE\nFRANKLIN LAKES NJ 07417",
+    "Approx. Upset*": "$1,558,655.90",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00701424",
+    "Defendant": "460 DEVONSHIRE DRIVE LLC; SUDARSHAN S. RAJAN",
+    "Description": "THIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.\nGOOD FAITH ESTIMATED UPSET PRICE: $1,689,616.39\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 3, BLOCK 3302.02 FKA 3302.B",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "3/3/2026",
+    "Sheriff #": "F-25002554"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "460 DEVONSHIRE DRIVE FRANKLIN LAKES NJ 07417",
+    "defendant": "460 DEVONSHIRE DRIVE LLC; SUDARSHAN S. RAJAN",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-03-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, BLOCK 3302.02 FKA 3302.B",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-03",
+  "sheriff_number": "F-25002554",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 1558655.9,
+  "upset_amount_label": "Approx. Upset*"
+}

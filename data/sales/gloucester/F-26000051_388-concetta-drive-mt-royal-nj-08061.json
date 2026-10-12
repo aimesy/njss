@@ -1,0 +1,64 @@
+{
+  "address": "388 CONCETTA DRIVE MT. ROYAL NJ 08061",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-006113-25",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "ANTONIO AMBROSIO, JR.; ET AL.,",
+  "description": "ESTIMATED UPSET PRICE: $267,282.84\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 267282.84
+  },
+  "fields": {
+    "Address": "388 CONCETTA DRIVE\nMT. ROYAL NJ 08061",
+    "Approximate Judgment": "$246,509.02",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-006113-25",
+    "Defendant": "ANTONIO AMBROSIO, JR.; ET AL.,",
+    "Description": "ESTIMATED UPSET PRICE: $267,282.84\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT: 122 BLOCK: 1403\nLOT: 122 BLOCK: 1403",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG SERIES N TRUST",
+    "Property Note": "TOWNSHIP OF EAST GREENWICH\nCOUNTY OF GLOUCESTER\n388 CONCETTA DRIVE EAST GREENWICH, NJ 08061 WITH A MAILING ADDRESS OF 388 CONCETTA DRIVE MT. ROYAL, NJ 08061\nLOT: 122 BLOCK: 1403\nAPPROXIMATE DIMENSIONS: 30.00 x 99.00\nNEAREST CROSS STREET: CRISTAUDO COURT\nESTIMATED UPSET PRICE: $267,282.84\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "5/13/2026",
+    "Sheriff #": "F-26000051"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 246509.02,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "388 CONCETTA DRIVE MT. ROYAL NJ 08061",
+    "defendant": "ANTONIO AMBROSIO, JR.; ET AL.,",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG SERIES N TRUST",
+    "sale_date": "2026-05-13"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 122 BLOCK: 1403 LOT: 122 BLOCK: 1403",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG SERIES N TRUST",
+  "property_note": "TOWNSHIP OF EAST GREENWICH\nCOUNTY OF GLOUCESTER\n388 CONCETTA DRIVE EAST GREENWICH, NJ 08061 WITH A MAILING ADDRESS OF 388 CONCETTA DRIVE MT. ROYAL, NJ 08061\nLOT: 122 BLOCK: 1403\nAPPROXIMATE DIMENSIONS: 30.00 x 99.00\nNEAREST CROSS STREET: CRISTAUDO COURT\nESTIMATED UPSET PRICE: $267,282.84\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-05-13",
+  "sheriff_number": "F-26000051",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

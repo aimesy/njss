@@ -1,0 +1,79 @@
+{
+  "address": "22 BRIGHT STREET UNIT 1 JERSEY CITY NJ 07302",
+  "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRE & NEWBY LLP",
+  "attorney_phone": "856-667-9111",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005073-25 (CWPP INELIGIBLE)",
+  "current_status": "HOLD",
+  "defendant": "22 BRIGHT ST LLC, ISRAEL WIZNITZER AND SHLOMO MENDLOWITZ",
+  "description": "LOT 36 IN BLOCK 14106, QUALIFIER C0001\nDIMENSIONS (APPROX.): 25X100\nNEAREST CROSS STREET: BARROW STREET",
+  "extracted": {
+    "block": "14106",
+    "lot": "36"
+  },
+  "fields": {
+    "Address": "22 BRIGHT STREET UNIT 1\nJERSEY CITY NJ 07302",
+    "Attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRE & NEWBY LLP",
+    "Attorney Phone": "856-667-9111",
+    "Court Case #": "F-005073-25 (CWPP INELIGIBLE)",
+    "Defendant": "22 BRIGHT ST LLC, ISRAEL WIZNITZER AND SHLOMO MENDLOWITZ",
+    "Description": "LOT 36 IN BLOCK 14106, QUALIFIER C0001\nDIMENSIONS (APPROX.): 25X100\nNEAREST CROSS STREET: BARROW STREET",
+    "Good Faith Upset*": "",
+    "Judgment": "$356,758.71",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 68179",
+    "Property Note": "",
+    "Sales Date": "8/13/2026",
+    "Sheriff #": "20061312"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 356758.71,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "22 BRIGHT STREET UNIT 1 JERSEY CITY NJ 07302",
+    "defendant": "22 BRIGHT ST LLC, ISRAEL WIZNITZER AND SHLOMO MENDLOWITZ",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 68179",
+    "sale_date": "2026-08-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 68179",
+  "property_note": null,
+  "sale_date": "2026-08-13",
+  "sheriff_number": "20061312",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-03-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "Adjourned - Defendant 2nd (4 WEEKS)"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "JOINT ADJOURNMENT"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "HOLD"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

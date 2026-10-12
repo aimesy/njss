@@ -1,0 +1,74 @@
+{
+  "address": "2205 Hamilton Avenue Atlantic City NJ 08401",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "SWC-F-009396-18 SHOULD BE ALIAS",
+  "current_status": "Scheduled",
+  "deed": "Cascade Funding Mortgage Trust HB15",
+  "deed_address": "c/o PHH Mortgage-Reverse, 1 Mortgage Way Mount Laurel, New Jersey 08054",
+  "defendant": "Lucille Tuggle Gant, Her Heirs, Devisees and Personal Representatives, and His, Her, Their or Any of Their Successors in Right, Title and Interest; Janet Davis, Heir; Gary Gant, Heir; State of New Jersey; United States of America; Atlantic County Board of Social Services; Carolyn N. Muhammad; Discover Bank; Jersey Shore FCU",
+  "extracted": {},
+  "fields": {
+    "Address": "2205 Hamilton Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$381,698.69",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "SWC-F-009396-18 SHOULD BE ALIAS",
+    "Deed": "Cascade Funding Mortgage Trust HB15",
+    "Deed Address": "c/o PHH Mortgage-Reverse, 1 Mortgage Way Mount Laurel, New Jersey 08054",
+    "Defendant": "Lucille Tuggle Gant, Her Heirs, Devisees and Personal Representatives, and His, Her, Their or Any of Their Successors in Right, Title and Interest; Janet Davis, Heir; Gary Gant, Heir; State of New Jersey; United States of America; Atlantic County Board of Social Services; Carolyn N. Muhammad; Discover Bank; Jersey Shore FCU",
+    "Plaintiff": "Bank of New York Mellon Trust Company, N.A. As Trustee for Mortgage Assets Management Series 1 Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-19002450",
+    "Upset Amount": "$220,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 381698.69,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2205 Hamilton Avenue Atlantic City NJ 08401",
+    "defendant": "Lucille Tuggle Gant,...",
+    "listing_status": null,
+    "plaintiff": "Bank of New York Mel...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank of New York Mellon Trust Company, N.A. As Trustee for Mortgage Assets Management Series 1 Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-19002450",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-29",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 220000.0,
+  "upset_amount_label": "Upset Amount"
+}

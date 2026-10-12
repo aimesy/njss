@@ -1,0 +1,53 @@
+{
+  "address": "45 VILLANOVA COURT TOWNSHIP OF WINSLOW NJ",
+  "attorney": "HONIG & GREENBERG, L.L.C.",
+  "attorney_phone": "(856) 770-0990",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F1201824",
+  "current_status": "Bankruptcy",
+  "defendant": "SHARON MARSHALL; LORRAINE VELASCO; UNITED STATES OF AMERICA, WILLIAMSTOWN GARDENS,",
+  "extracted": {},
+  "fields": {
+    "Address": "45 VILLANOVA COURT\nTOWNSHIP OF WINSLOW NJ",
+    "Approx. Upset*": "$28,825.74",
+    "Attorney": "HONIG & GREENBERG, L.L.C.",
+    "Attorney Phone": "(856) 770-0990",
+    "Court Case #": "F1201824",
+    "Defendant": "SHARON MARSHALL; LORRAINE VELASCO; UNITED\nSTATES OF AMERICA, WILLIAMSTOWN GARDENS,",
+    "Parcel #": "Tax Lot 66, Block 1 1201, of the Township of Winslow",
+    "Plaintiff": "FIG CUST FIG NJ19, LLC,",
+    "Property Note": "Amount of Taxes Due and Prior Liens: $2,762.30",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001932"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "45 VILLANOVA COURT TOWNSHIP OF WINSLOW NJ",
+    "defendant": "SHARON MARSHALL; LORRAINE VELASCO; UNITED \nSTATES OF AMERICA, WILLIAMSTOWN GARDENS,",
+    "listing_status": null,
+    "plaintiff": "FIG CUST FIG NJ19, LLC,",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot 66, Block 1 1201, of the Township of Winslow",
+  "plaintiff": "FIG CUST FIG NJ19, LLC,",
+  "property_note": "Amount of Taxes Due and Prior Liens: $2,762.30",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001932",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 28825.74,
+  "upset_amount_label": "Approx. Upset*"
+}

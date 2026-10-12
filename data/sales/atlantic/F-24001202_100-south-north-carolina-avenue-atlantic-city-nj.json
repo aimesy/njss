@@ -1,0 +1,58 @@
+{
+  "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+  "attorney": "K&L Gates, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000438-24",
+  "current_status": "Scheduled",
+  "deed": "Wyndham Vacation Resorts, Inc",
+  "deed_address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+  "defendant": "Maryvill L. Leonen and Charlie C. Leonen; Frank K. Reddick, Jr and Linda B. Reddick; Juan A. Byrd and Curlene A. Byrd; Jonathan Buchanan and Jillian Buchanan",
+  "extracted": {},
+  "fields": {
+    "Address": "100 South North Carolina Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$87,458.50",
+    "Attorney": "K&L Gates, LLP",
+    "Court Case #": "F-000438-24",
+    "Deed": "Wyndham Vacation Resorts, Inc",
+    "Deed Address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+    "Defendant": "Maryvill L. Leonen and Charlie C. Leonen; Frank K. Reddick, Jr and Linda B. Reddick; Juan A. Byrd and Curlene A. Byrd; Jonathan Buchanan and Jillian Buchanan",
+    "Plaintiff": "Wyndham Vacation Resorts, Inc. f/k/a Fairfield Resorts, Inc",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: Property is not vacant, tenant-occupied or owner occupied but instead is a timeshare vacation property",
+    "Sales Date": "10/31/2024",
+    "Sheriff #": "F-24001202",
+    "Upset Amount": "$13,231.55"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 87458.5,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+    "defendant": "Maryvill L. Leonen a...",
+    "listing_status": null,
+    "plaintiff": "Wyndham Vacation Res...",
+    "sale_date": "2024-10-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wyndham Vacation Resorts, Inc. f/k/a Fairfield Resorts, Inc",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: Property is not vacant, tenant-occupied or owner occupied but instead is a timeshare vacation property",
+  "sale_date": "2024-10-31",
+  "sheriff_number": "F-24001202",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-10-31",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 13231.55,
+  "upset_amount_label": "Upset Amount"
+}

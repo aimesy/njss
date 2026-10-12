@@ -1,0 +1,53 @@
+{
+  "address": "206 WHITEHALL COURT VOORHEES NJ 08043",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00223226",
+  "current_status": "Defendant Adjournment",
+  "defendant": "LINDA FALCONE HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "206 WHITEHALL COURT\nVOORHEES NJ 08043",
+    "Approx. Upset*": "$216,759.64",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00223226",
+    "Defendant": "LINDA FALCONE HIS/HER HEIRS, DEVISEES, AND PERSONAL\nREPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR\nSUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+    "Parcel #": "TAX LOT NO. 9 BLOCK 227.1",
+    "Plaintiff": "METLIFE SECURITIZATION TRUST 2017-1, WILMINGTON SAVINGS\nFUND SOCIETY, FSB AS INDENTURE TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26001830"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "206 WHITEHALL COURT VOORHEES NJ 08043",
+    "defendant": "LINDA FALCONE HIS/HER HEIRS, DEVISEES, AND PERSONAL \nREPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR \nSUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+    "listing_status": null,
+    "plaintiff": "METLIFE SECURITIZATION TRUST 2017-1, WILMINGTON SAVINGS \nFUND SOCIETY, FSB AS INDENTURE TRUSTEE",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT NO. 9 BLOCK 227.1",
+  "plaintiff": "METLIFE SECURITIZATION TRUST 2017-1, WILMINGTON SAVINGS FUND SOCIETY, FSB AS INDENTURE TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26001830",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 216759.64,
+  "upset_amount_label": "Approx. Upset*"
+}

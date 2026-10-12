@@ -1,0 +1,84 @@
+{
+  "address": "3009 West Bangs Avenue Neptune NJ 07753",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F540822",
+  "current_status": "Scheduled",
+  "defendant": "William W. Wolverton, Individually and as Administrator of the Estate of Gertrude G. Wolverton, et al",
+  "description": "Dimension of Lot Approxiamtely: 90 x 100\nNearest Cross Street: Doris Terrace\nBEGINNING AT A POINT IN THE EASTERLY RIGHT-OF-WAY LINE OF DORIS TERRACE (25 FEET FROM CENTERLINE) SAID POINT BEING THE NORTHERLY TERMINUS OF CURVE CONNECTING SAID EASTERLY LINE OF DORIS TERRACE WITH THE NORTHERLY RIGHT-OF-WAY LIE OF WEST BANGS AVENUE (30 FEET FROM CENTERLINE) AND RUNNING FROM SAID BEGINNING POINT; THENCE\nPRIOR LIENS/ENCUMBRANCES\nSEWER OPEN DUE: $230.00\nSEWER OPEN PLUS PENALTY: $230.00\n3rd PARTY SEWER CERT NO. 2024-130: $363.51\nTOTAL AS OF JULY 26, 2024: $823.51\nGood faith estimate of upset price: $285,111.14\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+  "extracted": {
+    "lot": "Approxiamtely",
+    "upset_amount": 285111.14
+  },
+  "fields": {
+    "Address": "3009 West Bangs Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$264,767.52",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F540822",
+    "Defendant": "William W. Wolverton, Individually and as Administrator of the Estate of Gertrude G. Wolverton, et al",
+    "Description": "Dimension of Lot Approxiamtely: 90 x 100\nNearest Cross Street: Doris Terrace\nBEGINNING AT A POINT IN THE EASTERLY RIGHT-OF-WAY LINE OF DORIS TERRACE (25 FEET FROM CENTERLINE) SAID POINT BEING THE NORTHERLY TERMINUS OF CURVE CONNECTING SAID EASTERLY LINE OF DORIS TERRACE WITH THE NORTHERLY RIGHT-OF-WAY LIE OF WEST BANGS AVENUE (30 FEET FROM CENTERLINE) AND RUNNING FROM SAID BEGINNING POINT; THENCE\nPRIOR LIENS/ENCUMBRANCES\nSEWER OPEN DUE: $230.00\nSEWER OPEN PLUS PENALTY: $230.00\n3rd PARTY SEWER CERT NO. 2024-130: $363.51\nTOTAL AS OF JULY 26, 2024: $823.51\nGood faith estimate of upset price: $285,111.14\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+    "Parcel #": "Lot 15 FKA 11, Block 2505 FKA 9007 Tax Map of the Township of Neptune",
+    "Plaintiff": "PNC Bank, National Association",
+    "Property Note": "",
+    "Sales Date": "8/12/2025",
+    "Sheriff #": "FOR-23001029"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 264767.52,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3009 West Bangs Avenue Neptune NJ 07753",
+    "defendant": "William W. Wolverton, Individually and as Administrator of the Estate of Gertrude G. Wolverton, et al",
+    "listing_status": "Settled",
+    "plaintiff": "PNC Bank, National Association",
+    "sale_date": "2025-08-12"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 15 FKA 11, Block 2505 FKA 9007 Tax Map of the Township of Neptune",
+  "plaintiff": "PNC Bank, National Association",
+  "property_note": null,
+  "sale_date": "2025-08-12",
+  "sheriff_number": "FOR-23001029",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-08-12",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-25",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-09-25",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2023-08-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-07-31",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-07-03",
+      "status": "Scheduled"
+    }
+  ]
+}

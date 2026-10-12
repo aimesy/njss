@@ -1,0 +1,83 @@
+{
+  "address": "482 JORALEMON ST UNIT C-5 PARKING SPACE #482-C5 BELLEVILLE NJ 07109",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973 575-0707",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00645825",
+  "current_status": "Buy Back",
+  "defendant": "CLIFFORD HENDERSON, ET. AL",
+  "description": "LOT 44 AKA LOT 44.17 QUALIFIER C0017 BLOCK 4801\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 1.11742% INTEREST IN THE COMMON ELEMENTS OF THE FAIRWAY VIEW CONDOMINIUMS\nNEAREST CROSS STREET: PASSAIC AVENUE\nESTIMATED UPSET BID AMOUNT: $182,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: TENANT\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2026 QTR 2 DUE: 5/01/2026 $1,118.23 OPEN\nPROSPECTIVE PURCHASERS ARE ON NOTICE THAT THE CONDOMINIUM ASSOCIATION MAY BE ENTITLED TO LIMITED PRIORITY PURSUANT TO STATUTE.",
+  "extracted": {
+    "block": "4801",
+    "lot": "44",
+    "occupancy": "TENANT"
+  },
+  "fields": {
+    "Address": "482 JORALEMON ST UNIT C-5\nPARKING SPACE #482-C5\nBELLEVILLE NJ 07109",
+    "Approx. Upset*": "$162,263.43",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973 575-0707",
+    "Court Case #": "F00645825",
+    "Defendant": "CLIFFORD HENDERSON, ET. AL",
+    "Description": "LOT 44 AKA LOT 44.17 QUALIFIER C0017 BLOCK 4801\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 1.11742% INTEREST IN THE COMMON ELEMENTS OF THE FAIRWAY VIEW CONDOMINIUMS\nNEAREST CROSS STREET: PASSAIC AVENUE\nESTIMATED UPSET BID AMOUNT: $182,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: TENANT\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2026 QTR 2 DUE: 5/01/2026 $1,118.23 OPEN\nPROSPECTIVE PURCHASERS ARE ON NOTICE THAT THE CONDOMINIUM ASSOCIATION MAY BE ENTITLED TO LIMITED PRIORITY PURSUANT TO STATUTE.",
+    "Parcel #": "",
+    "Plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS1,",
+    "Property Note": "",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "F-25004052"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "482 JORALEMON ST UNIT C-5 PARKING SPACE #482-C5 BELLEVILLE NJ 07109",
+    "defendant": "CLIFFORD HENDERSON, ET. AL",
+    "listing_status": null,
+    "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS1,",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS1,",
+  "property_note": null,
+  "sale_date": "2026-09-15",
+  "sheriff_number": "F-25004052",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-01-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 162263.43,
+  "upset_amount_label": "Approx. Upset*"
+}

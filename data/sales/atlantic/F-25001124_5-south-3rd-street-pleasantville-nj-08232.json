@@ -1,0 +1,62 @@
+{
+  "address": "5 South 3rd Street Pleasantville NJ 08232",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004736-25 Revised/Corrected",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Lillian A. Stratton Rhone; Jamal Stratton Tenant/Occupant; Marvella Stratton Tenant/Occupant",
+  "extracted": {},
+  "fields": {
+    "Address": "5 South 3rd Street\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$64,017.14",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-004736-25 Revised/Corrected",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Lillian A. Stratton Rhone; Jamal Stratton Tenant/Occupant; Marvella Stratton Tenant/Occupant",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "2/12/2026",
+    "Sheriff #": "F-25001124",
+    "Upset Amount": "$72,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 64017.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 South 3rd Street Pleasantville NJ 08232",
+    "defendant": "Lillian A. Stratton ...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2026-02-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-02-12",
+  "sheriff_number": "F-25001124",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-12",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-02-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 72500.0,
+  "upset_amount_label": "Upset Amount"
+}

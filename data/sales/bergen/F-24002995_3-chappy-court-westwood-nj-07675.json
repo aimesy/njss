@@ -1,0 +1,63 @@
+{
+  "address": "3 CHAPPY COURT WESTWOOD NJ 07675",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F1125923",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "MICHAEL FASCIANO; KATHERINE FASCIANO, HUSBAND AND WIFE; ET AL",
+  "description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $425,075.51\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+  "extracted": {
+    "upset_amount": 425075.51
+  },
+  "fields": {
+    "Address": "3 CHAPPY COURT\nWESTWOOD NJ 07675",
+    "Approx. Upset*": "$360,161.34",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Court Case #": "F1125923",
+    "Defendant": "MICHAEL FASCIANO; KATHERINE FASCIANO, HUSBAND AND WIFE; ET AL",
+    "Description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $425,075.51\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+    "Parcel #": "LOT 12.05, BLOCK 406",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2021-1, US BANK NATIONAL ASSOCIATION AS INDENTURE TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "10/24/2025",
+    "Sheriff #": "F-24002995"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3 CHAPPY COURT WESTWOOD NJ 07675",
+    "defendant": "MICHAEL FASCIANO; KATHERINE FASCIANO, HUSBAND AND WIFE; ET AL",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2021-1, US BANK NATIONAL ASSOCIATION AS INDENTURE TRUSTEE",
+    "sale_date": "2025-10-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 12.05, BLOCK 406",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2021-1, US BANK NATIONAL ASSOCIATION AS INDENTURE TRUSTEE",
+  "property_note": null,
+  "sale_date": "2025-10-24",
+  "sheriff_number": "F-24002995",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2024-12-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 360161.34,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,69 @@
+{
+  "address": "403 MEMORIAL AVENUE GLOUCESTER CITY NJ 08030",
+  "attorney": "ROMANO GARUBO & ARGENTIERI",
+  "attorney_phone": "(856) 384-1515",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00670324",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "LORRAINE T. HUTCHINSON; MR HUTCHINSON, HUSBAND OF LORRAINE T. HUTINSON; JOHN D. HUTCHINSON; MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC., ACTING SOLELY AS NOMINEE FOR FIRST MAGNUS FINANCIAL CORPORTION, AN ARIZONA CORPORATION; EASTERN SAT TRUST; NEW JERSEY HOUSING ANS MORTGAGE FINANCE AGENCY,",
+  "extracted": {},
+  "fields": {
+    "Address": "403 MEMORIAL AVENUE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$229,482.24",
+    "Attorney": "ROMANO GARUBO & ARGENTIERI",
+    "Attorney Phone": "(856) 384-1515",
+    "Court Case #": "F00670324",
+    "Defendant": "LORRAINE T. HUTCHINSON; MR\nHUTCHINSON, HUSBAND OF\nLORRAINE T. HUTINSON; JOHN D.\nHUTCHINSON; MORTGAGE\nELECTRONIC REGISTRATION\nSYSTEMS, INC., ACTING SOLELY AS\nNOMINEE FOR FIRST MAGNUS\nFINANCIAL CORPORTION, AN\nARIZONA CORPORATION; EASTERN\nSAT TRUST; NEW JERSEY HOUSING\nANS MORTGAGE FINANCE AGENCY,",
+    "Parcel #": "",
+    "Plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2020-RPL2",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-25002735"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "403 MEMORIAL AVENUE GLOUCESTER CITY NJ 08030",
+    "defendant": "LORRAINE T. HUTCHINSON; MR \nHUTCHINSON, HUSBAND OF \nLORRAINE T. HUTINSON; JOHN D. \nHUTCHINSON; MORTGAGE \nELECTRONIC REGISTRATION \nSYSTEMS, INC., ACTING SOLELY AS \nNOMINEE FOR FIRST MAGNUS \nFINANCIAL CORPORTION, AN \nARIZONA CORPORATION; EASTERN \nSAT TRUST; NEW JERSEY HOUSING \nANS MORTGAGE FINANCE AGENCY,",
+    "listing_status": null,
+    "plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2020-RPL2",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2020-RPL2",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-25002735",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 229482.24,
+  "upset_amount_label": "Approx. Upset*"
+}

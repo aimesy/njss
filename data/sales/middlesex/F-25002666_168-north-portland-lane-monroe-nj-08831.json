@@ -1,0 +1,60 @@
+{
+  "address": "168 NORTH PORTLAND LANE MONROE NJ 08831",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01439323",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "MICHAEL D. STEWART, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$60,279.61",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F01439323",
+    "Defendant": "MICHAEL D. STEWART, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 35.01, C168N BLOCK 56",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Address": "168 NORTH PORTLAND LANE\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "1/7/2026",
+    "Sheriff #": "F-25002666"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 60279.61,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "168 NORTH PORTLAND LANE MONROE NJ 08831",
+    "defendant": "MICHAEL D. STEWART, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 35.01, C168N BLOCK 56",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25002666",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

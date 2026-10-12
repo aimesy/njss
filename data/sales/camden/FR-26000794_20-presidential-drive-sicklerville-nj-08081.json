@@ -1,0 +1,53 @@
+{
+  "address": "20 PRESIDENTIAL DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "GARY C. ZEITZ L.L.C.",
+  "attorney_phone": "856-857-1222",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F588025",
+  "current_status": "Purchased",
+  "defendant": "EDWARD J. MAHAN, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "20 PRESIDENTIAL DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$17,887.66",
+    "Attorney": "GARY C. ZEITZ L.L.C.",
+    "Attorney Phone": "856-857-1222",
+    "Court Case #": "F588025",
+    "Defendant": "EDWARD J. MAHAN, ET AL.",
+    "Parcel #": "BLOCK 16603, LOT 8",
+    "Plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "Property Note": "OPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE TOWNSHIP OF GLOUCESTER AS OF MARCH 24, 2026: NONE\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN IN BOOK 4272 AT PAGE 80",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-26000794"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "20 PRESIDENTIAL DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "EDWARD J. MAHAN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 16603, LOT 8",
+  "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+  "property_note": "OPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE TOWNSHIP OF GLOUCESTER AS OF MARCH 24, 2026: NONE\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN IN BOOK 4272 AT PAGE 80",
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-26000794",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 17887.66,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "336 REMSEN AVENUE AVENEL NJ 07001",
+  "attorney": "GROSS POLOWY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00418622",
+  "current_status": "Settled",
+  "defendant": "KAREN ZWONAR, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$213,353.26",
+    "Attorney": "GROSS POLOWY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00418622",
+    "Defendant": "KAREN ZWONAR, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 7 BLOCK 783",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Address": "336 REMSEN AVENUE\nAVENEL NJ 07001",
+    "Property Note": "",
+    "Sale Date": "11/19/2024",
+    "Sheriff #": "F-776652"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 213353.26,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "336 REMSEN AVENUE AVENEL NJ 07001",
+    "defendant": "KAREN ZWONAR, ET ALS",
+    "listing_status": "Settled",
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2024-11-19"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 7 BLOCK 783",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2024-11-19",
+  "sheriff_number": "F-776652",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-11-19",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,51 @@
+{
+  "address": "29 LOWER CROSS ROAD SADDLE RIVER NJ 07458",
+  "attorney": "THE MAZAWEY LAW FIRM",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01073924",
+  "current_status": "Cancelled",
+  "defendant": "ROGER SAHOURY; MRS. ROGER SAHOURY, HIS WIFE",
+  "description": "UPSET PRICE: $2,006,760.34 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+  "extracted": {
+    "upset_amount": 2006760.34
+  },
+  "fields": {
+    "Address": "29 LOWER CROSS ROAD\nSADDLE RIVER NJ 07458",
+    "Approx. Upset*": "$1,862,631.92",
+    "Attorney": "THE MAZAWEY LAW FIRM",
+    "Court Case #": "F01073924",
+    "Defendant": "ROGER SAHOURY; MRS. ROGER SAHOURY, HIS WIFE",
+    "Description": "UPSET PRICE: $2,006,760.34 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+    "Parcel #": "LOT 17.01, BLOCK 1801",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "3/19/2026",
+    "Sheriff #": "F-26000295"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "29 LOWER CROSS ROAD SADDLE RIVER NJ 07458",
+    "defendant": "ROGER SAHOURY; MRS. ROGER SAHOURY, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-03-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 17.01, BLOCK 1801",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-19",
+  "sheriff_number": "F-26000295",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-19",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 1862631.92,
+  "upset_amount_label": "Approx. Upset*"
+}

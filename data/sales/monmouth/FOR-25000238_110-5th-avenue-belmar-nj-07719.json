@@ -1,0 +1,56 @@
+{
+  "address": "110 5th Avenue Belmar NJ 07719",
+  "attorney": "Stern & Eisenberg",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00748124",
+  "current_status": "Scheduled",
+  "defendant": "Vincent R. Dispoto, et al.",
+  "description": "Approximate Dimensions: 50' x 150'\nTaxes and Other Encumbrances:\nTaxes current through 4th Quarter of 2024\nWater open balance in the amount of $1,312.11, good through January 1, 2025*\nSewer-Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amunts\nUpset Price: $724,761.60, good through June 23,2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown.",
+    "upset_amount": 724761.6
+  },
+  "fields": {
+    "Address": "110 5th Avenue\nBelmar NJ 07719",
+    "Approx. Judgment*": "$663,072.13",
+    "Attorney": "Stern & Eisenberg",
+    "Court Case #": "F00748124",
+    "Defendant": "Vincent R. Dispoto, et al.",
+    "Description": "Approximate Dimensions: 50' x 150'\nTaxes and Other Encumbrances:\nTaxes current through 4th Quarter of 2024\nWater open balance in the amount of $1,312.11, good through January 1, 2025*\nSewer-Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amunts\nUpset Price: $724,761.60, good through June 23,2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT",
+    "Parcel #": "Tax Lot #10 Block #40 Tax Map of Borough of Belmar",
+    "Plaintiff": "Deutsche Bank National Trust Company, as Indenture Trustee under the Indenture Relating to IMH Assets Corp., Collateralized Asset-Backed Bonds, Series 2005-7",
+    "Property Note": "",
+    "Sales Date": "4/24/2025",
+    "Sheriff #": "FOR-25000238"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 663072.13,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "110 5th Avenue Belmar NJ 07719",
+    "defendant": "Vincent R. Dispoto, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Deutsche Bank National Trust Company, as Indenture Trustee under the Indenture Relating to IMH Assets Corp., Collateralized Asset-Backed Bonds, Series 2005-7",
+    "sale_date": "2025-04-24"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot #10 Block #40 Tax Map of Borough of Belmar",
+  "plaintiff": "Deutsche Bank National Trust Company, as Indenture Trustee under the Indenture Relating to IMH Assets Corp., Collateralized Asset-Backed Bonds, Series 2005-7",
+  "property_note": null,
+  "sale_date": "2025-04-24",
+  "sheriff_number": "FOR-25000238",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-24",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "address": null,
+  "attorney": "Law Offices of Frederic I. Weinberg & Associates",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "L00026622",
+  "current_status": "Scheduled",
+  "defendant": "Home Decor Warehouse, LLC",
+  "description": "4345 US Highway 9\nFreehold, NJ 07728",
+  "extracted": {},
+  "fields": {
+    "Address": "",
+    "Approx. Judgment*": "$37,884.20",
+    "Attorney": "Law Offices of Frederic I. Weinberg & Associates",
+    "Court Case #": "L00026622",
+    "Defendant": "Home Decor Warehouse, LLC",
+    "Description": "4345 US Highway 9\nFreehold, NJ 07728",
+    "Parcel #": "",
+    "Plaintiff": "Executive Enterprises, Inc. assignee of United Parcel Services, Inc.",
+    "Property Note": "",
+    "Sales Date": "7/22/2025",
+    "Sheriff #": "PAL-24001111"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 37884.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "",
+    "defendant": "Home Decor Warehouse, LLC",
+    "listing_status": "Scheduled",
+    "plaintiff": "Executive Enterprises, Inc. assignee of United Parcel Services, Inc.",
+    "sale_date": "2025-07-22"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": null,
+  "plaintiff": "Executive Enterprises, Inc. assignee of United Parcel Services, Inc.",
+  "property_note": null,
+  "sale_date": "2025-07-22",
+  "sheriff_number": "PAL-24001111",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-22",
+      "status": "Scheduled"
+    }
+  ]
+}

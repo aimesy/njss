@@ -1,0 +1,53 @@
+{
+  "address": "214 VAN BUREN DRIVE PARAMUS NJ 07652",
+  "attorney": "CONSUMER LAW ATTORNEYS",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00689724",
+  "current_status": "Cancelled",
+  "defendant": "VICTORIA COOPER; MR. OR MRS. COOPER, HUSBAND OR WIFE OF VICTORIA COOPER, THE SPOUSE, DOMESTIC PARTNER, OR CIVIL UNION PARTNER OF VICTORIA COOPER; ET AL",
+  "description": "THE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $1,432,675.89.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHE PROPERTY IS OCCUPIED UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "214 VAN BUREN DRIVE\nPARAMUS NJ 07652",
+    "Approx. Upset*": "$1,344,020.43",
+    "Attorney": "CONSUMER LAW ATTORNEYS",
+    "Court Case #": "F00689724",
+    "Defendant": "VICTORIA COOPER; MR. OR MRS. COOPER, HUSBAND OR WIFE OF VICTORIA COOPER, THE SPOUSE, DOMESTIC PARTNER, OR CIVIL UNION PARTNER OF VICTORIA COOPER; ET AL",
+    "Description": "THE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $1,432,675.89.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHE PROPERTY IS OCCUPIED UNKNOWN.",
+    "Parcel #": "LOT 1.24, BLOCK 1503",
+    "Plaintiff": "AMWEST FUNDING CORPORATION",
+    "Property Note": "",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "F-25002303"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "214 VAN BUREN DRIVE PARAMUS NJ 07652",
+    "defendant": "VICTORIA COOPER; MR. OR MRS. COOPER, HUSBAND OR WIFE OF VICTORIA COOPER, THE SPOUSE, DOMESTIC PARTNER, OR CIVIL UNION PARTNER OF VICTORIA COOPER; ET AL",
+    "listing_status": null,
+    "plaintiff": "AMWEST FUNDING CORPORATION",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 1.24, BLOCK 1503",
+  "plaintiff": "AMWEST FUNDING CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-01-08",
+  "sheriff_number": "F-25002303",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 1344020.43,
+  "upset_amount_label": "Approx. Upset*"
+}

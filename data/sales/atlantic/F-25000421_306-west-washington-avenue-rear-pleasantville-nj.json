@@ -1,0 +1,58 @@
+{
+  "address": "306 West Washington Avenue (Rear) Pleasantville NJ 08232",
+  "attorney": "Pellegrino & Feldstein, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007817-23",
+  "current_status": "Scheduled",
+  "deed": "Mary Rose 22, LLC",
+  "deed_address": "1000 Riverside Ave #400, Jacksonville, FL 32204",
+  "defendant": "Equity Trust Company Custodian FBO Sara Gindi, Ira; The Approved Realty Group LLC; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "306 West Washington Avenue\n(Rear)\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$1,811.16",
+    "Attorney": "Pellegrino & Feldstein, LLC",
+    "Court Case #": "F-007817-23",
+    "Deed": "Mary Rose 22, LLC",
+    "Deed Address": "1000 Riverside Ave #400, Jacksonville, FL 32204",
+    "Defendant": "Equity Trust Company Custodian FBO Sara Gindi, Ira; The Approved Realty Group LLC; State of New Jersey",
+    "Plaintiff": "FIG CUST FIGNJ19LLC & SEC PTY",
+    "Priors": "Tax Sale Certificate Number 21-00139 in the approximate amount of $11,164.93\nTax Sale Certificate Number 23-00133 in the approximate amount of $8,413.61\n2024 open taxes in the approximate amount of $2,981.29\n2025 open taxes in the approximate amount of $2,981.29\nTotaling: $25,541.12 plus possible subsequent taxes, charges, interest and penalties",
+    "Property Note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+    "Sales Date": "6/19/2025",
+    "Sheriff #": "F-25000421",
+    "Upset Amount": "$9,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1811.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "306 West Washington Avenue (Rear) Pleasantville NJ 08232",
+    "defendant": "Equity Trust Company...",
+    "listing_status": null,
+    "plaintiff": "FIG CUST FIGNJ19LLC ...",
+    "sale_date": "2025-06-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "FIG CUST FIGNJ19LLC & SEC PTY",
+  "priors": "Tax Sale Certificate Number 21-00139 in the approximate amount of $11,164.93 Tax Sale Certificate Number 23-00133 in the approximate amount of $8,413.61 2024 open taxes in the approximate amount of $2,981.29 2025 open taxes in the approximate amount of $2,981.29 Totaling: $25,541.12 plus possible subsequent taxes, charges, interest and penalties",
+  "property_note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+  "sale_date": "2025-06-19",
+  "sheriff_number": "F-25000421",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-19",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-06-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 9000.0,
+  "upset_amount_label": "Upset Amount"
+}

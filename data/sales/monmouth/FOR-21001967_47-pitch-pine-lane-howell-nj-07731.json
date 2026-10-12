@@ -1,0 +1,100 @@
+{
+  "address": "47 Pitch Pine Lane Howell NJ 07731",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00250617",
+  "current_status": "Scheduled",
+  "defendant": "Christine Mangelli, et al.",
+  "description": "Dimensions of Lot: 10843\nNearest Cross Street: Royal Lane\nEstimated upset bid amount: $624,000.00____, plus any additional sums as ordered by the court\nOccupancy Status: Occupied\nNOTICE THROUGH PUBLICATION\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n* 2025 Qtr. 2 Due: 05/01/2025 $2,877.98 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "10843",
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "47 Pitch Pine Lane\nHowell NJ 07731",
+    "Approx. Judgment*": "$455,635.00",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00250617",
+    "Defendant": "Christine Mangelli, et al.",
+    "Description": "Dimensions of Lot: 10843\nNearest Cross Street: Royal Lane\nEstimated upset bid amount: $624,000.00____, plus any additional sums as ordered by the court\nOccupancy Status: Occupied\nNOTICE THROUGH PUBLICATION\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n* 2025 Qtr. 2 Due: 05/01/2025 $2,877.98 OPEN PLUS PENALTY",
+    "Parcel #": "LOT 10 BLOCK 138.12 Tax Map of the Township of Howell",
+    "Plaintiff": "U.S. Bank Trust, N.A. as Trustee for LSF9 Master Participation Trust",
+    "Property Note": "",
+    "Sales Date": "11/24/2025",
+    "Sheriff #": "FOR-21001967"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 455635.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "47 Pitch Pine Lane Howell NJ 07731",
+    "defendant": "Christine Mangelli, et al.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "U.S. Bank Trust, N.A. as Trustee for LSF9 Master Participation Trust",
+    "sale_date": "2025-11-24"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "LOT 10 BLOCK 138.12 Tax Map of the Township of Howell",
+  "plaintiff": "U.S. Bank Trust, N.A. as Trustee for LSF9 Master Participation Trust",
+  "property_note": null,
+  "sale_date": "2025-11-24",
+  "sheriff_number": "FOR-21001967",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-24",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-04-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-04-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-03-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-02-22",
+      "status": "Scheduled"
+    }
+  ]
+}

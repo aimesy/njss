@@ -1,0 +1,60 @@
+{
+  "address": "30 GLENSIDE ROAD MURRAY HILL (NEW PROVIDENCE BORO) NJ 07974",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00288625",
+  "current_status": "Sheriff Adjournment",
+  "defendant": "JAMES B. CONOVER, SPOUSE OF JAMES B. CONOVER; UNITED STATES OF AMERICA; STATE OF NEW JERSEY",
+  "description": "LOT 2 BLOCK 311",
+  "extracted": {
+    "block": "311",
+    "lot": "2"
+  },
+  "fields": {
+    "Address": "30 GLENSIDE ROAD\nMURRAY HILL (NEW PROVIDENCE BORO) NJ 07974",
+    "Approx. Upset*": "$495,451.93",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F00288625",
+    "Defendant": "JAMES B. CONOVER, SPOUSE OF JAMES B. CONOVER; UNITED STATES OF AMERICA; STATE OF NEW JERSEY",
+    "Description": "LOT 2 BLOCK 311",
+    "Parcel #": "LOT 2 BLOCK 311",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "CH-25002101"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "30 GLENSIDE ROAD MURRAY HILL (NEW PROVIDENCE BORO) NJ 07974",
+    "defendant": "JAMES B. CONOVER, SPOUSE OF JAMES B. CONOVER; UNITED STATES OF AMERICA; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 2 BLOCK 311",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "CH-25002101",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-01",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Sheriff Adjournment"
+    }
+  ],
+  "upset_amount": 495451.93,
+  "upset_amount_label": "Approx. Upset*"
+}

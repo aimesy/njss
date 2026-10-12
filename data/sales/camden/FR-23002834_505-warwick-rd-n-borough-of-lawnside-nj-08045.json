@@ -1,0 +1,65 @@
+{
+  "address": "505 WARWICK RD N BOROUGH OF LAWNSIDE NJ 08045",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00235623",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "LEAH M. LEVIN A/K/A LEAH LEVIN; MR. LEVIN, SPOUSE OF LEAH M. LEVIN A/K/A LEAH LEVIN; AQUA FINANCE, INC.,,",
+  "extracted": {},
+  "fields": {
+    "Address": "505 WARWICK RD N\nBOROUGH OF LAWNSIDE NJ 08045",
+    "Approx. Upset*": "$200,857.62",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00235623",
+    "Defendant": "LEAH M. LEVIN A/K/A LEAH LEVIN; MR. LEVIN, SPOUSE OF LEAH M. LEVIN A/K/A LEAH\nLEVIN; AQUA FINANCE, INC.,,",
+    "Parcel #": "",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT\nSOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "12/22/2025",
+    "Sheriff #": "FR-23002834"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "505 WARWICK RD N BOROUGH OF LAWNSIDE NJ 08045",
+    "defendant": "LEAH M. LEVIN A/K/A LEAH LEVIN; MR. LEVIN, SPOUSE OF LEAH M. LEVIN A/K/A LEAH \nLEVIN; AQUA FINANCE, INC.,,",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT \nSOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2025-12-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-22",
+  "sheriff_number": "FR-23002834",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-01-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-12-22",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 200857.62,
+  "upset_amount_label": "Approx. Upset*"
+}

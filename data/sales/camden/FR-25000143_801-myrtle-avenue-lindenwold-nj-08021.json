@@ -1,0 +1,65 @@
+{
+  "address": "801 MYRTLE AVENUE LINDENWOLD NJ 08021",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01267022",
+  "current_status": "Purchased",
+  "defendant": "IAN MOSLEY, ET. AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "801 MYRTLE AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$117,148.76",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F01267022",
+    "Defendant": "IAN MOSLEY, ET. AL.",
+    "Parcel #": "",
+    "Plaintiff": "HSBC BANK USA, N.A., AS TRUSTEE FOR THE REGISTERED HOLDERS OF RENAISSANCE\nHOME EQUITY LOAN TRUST 2006-1",
+    "Property Note": "",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "FR-25000143"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "801 MYRTLE AVENUE LINDENWOLD NJ 08021",
+    "defendant": "IAN MOSLEY, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, N.A., AS TRUSTEE FOR THE REGISTERED HOLDERS OF RENAISSANCE \nHOME EQUITY LOAN TRUST 2006-1",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "HSBC BANK USA, N.A., AS TRUSTEE FOR THE REGISTERED HOLDERS OF RENAISSANCE HOME EQUITY LOAN TRUST 2006-1",
+  "property_note": null,
+  "sale_date": "2026-04-01",
+  "sheriff_number": "FR-25000143",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 117148.76,
+  "upset_amount_label": "Approx. Upset*"
+}

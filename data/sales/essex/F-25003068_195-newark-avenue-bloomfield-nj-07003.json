@@ -1,0 +1,79 @@
+{
+  "address": "195 NEWARK AVENUE BLOOMFIELD NJ 07003",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732 902-5399",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00330324",
+  "current_status": "Bankruptcy",
+  "defendant": "EILEEN PETRAIN, ET. AL",
+  "description": "LOT 7, BLOCK 306\nAPPROXIMATE DIMENSIONS: 26.66 X 100.00 X 26.66 X 100.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: WEST AVENUE\nSUBJECT TO: WATER-DUE 8/1/2025 $54.69\nUPSETPRICE: $334,028.32\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "306",
+    "lot": "7",
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "195 NEWARK AVENUE\nBLOOMFIELD NJ 07003",
+    "Approx. Upset*": "$305,184.02",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732 902-5399",
+    "Court Case #": "F00330324",
+    "Defendant": "EILEEN PETRAIN, ET. AL",
+    "Description": "LOT 7, BLOCK 306\nAPPROXIMATE DIMENSIONS: 26.66 X 100.00 X 26.66 X 100.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: WEST AVENUE\nSUBJECT TO: WATER-DUE 8/1/2025 $54.69\nUPSETPRICE: $334,028.32\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING LLC,",
+    "Property Note": "",
+    "Sales Date": "8/4/2026",
+    "Sheriff #": "F-25003068"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "195 NEWARK AVENUE BLOOMFIELD NJ 07003",
+    "defendant": "EILEEN PETRAIN, ET. AL",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING LLC,",
+    "sale_date": "2026-08-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING LLC,",
+  "property_note": null,
+  "sale_date": "2026-08-04",
+  "sheriff_number": "F-25003068",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-09-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-11-25",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 305184.02,
+  "upset_amount_label": "Approx. Upset*"
+}

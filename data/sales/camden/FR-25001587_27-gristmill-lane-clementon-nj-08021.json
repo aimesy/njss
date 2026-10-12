@@ -1,0 +1,61 @@
+{
+  "address": "27 GRISTMILL LANE CLEMENTON NJ 08021",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01013223",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "MARK BILDER, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "27 GRISTMILL LANE\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$232,601.39",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F01013223",
+    "Defendant": "MARK BILDER, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "CSMC 2021-RPL5 TRUST",
+    "Property Note": "",
+    "Sales Date": "12/2/2025",
+    "Sheriff #": "FR-25001587"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "27 GRISTMILL LANE CLEMENTON NJ 08021",
+    "defendant": "MARK BILDER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CSMC 2021-RPL5 TRUST",
+    "sale_date": "2025-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CSMC 2021-RPL5 TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-02",
+  "sheriff_number": "FR-25001587",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 232601.39,
+  "upset_amount_label": "Approx. Upset*"
+}

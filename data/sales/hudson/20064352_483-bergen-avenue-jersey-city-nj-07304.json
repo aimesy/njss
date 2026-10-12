@@ -1,0 +1,56 @@
+{
+  "address": "483 BERGEN AVENUE JERSEY CITY NJ 07304",
+  "attorney": "FSKS",
+  "attorney_phone": "(973)538-4700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-3171-25",
+  "current_status": "Scheduled",
+  "defendant": "HOWARD SMITH, JR., ET ALS.",
+  "description": "TAX LOT NO. 22 IN BLOCK NO. 18403\nDIMENSIONS OF LOT APPROXIMATELY: 17.30 X 92\nNEAREST CROSS STREET: CLINTON AVENUE\nBEGINNING AT A POINT IN THE NORTHWESTERLY SIDE OF BERGEN AVENUE, DISTANT THIRTY-FOUR AND SIXTY ONE HUNDRETHS (34.60) FEET SOUTHWESTRLY FROM THE CORNER FORMED BY THE INTERSECTION OF THE NORTHWESTRLY SIDE OF BERGEN AVENUE WITH THE SOUTHWESTERLY SIDE OF CLINTON AVENUE (FORMERLY MANDEVILLE AVENUE); THENCE RUNNING (1) NORTHWESTERLY AND THROUGH THE CENTER OF A PARTY WALL\nPRIOR LIENS/ENCUMBERS: $2,713.44\n3RD QTR TAXES OPEN PLUS PENALTY: $25.59\nWATER OPEN PLUS PENALTY\nTOTAL AS OF SEPTEMBER 16, 2026: 2,739.03\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.\nGOOD FAITH ESRIMATE OF UPSET PRICE: $41,243.46",
+  "extracted": {
+    "block": "NO",
+    "lot": "NO",
+    "upset_amount": 41243.46
+  },
+  "fields": {
+    "Address": "483 BERGEN AVENUE\nJERSEY CITY NJ 07304",
+    "Attorney": "FSKS",
+    "Attorney Phone": "(973)538-4700",
+    "Court Case #": "F-3171-25",
+    "Defendant": "HOWARD SMITH, JR., ET ALS.",
+    "Description": "TAX LOT NO. 22 IN BLOCK NO. 18403\nDIMENSIONS OF LOT APPROXIMATELY: 17.30 X 92\nNEAREST CROSS STREET: CLINTON AVENUE\nBEGINNING AT A POINT IN THE NORTHWESTERLY SIDE OF BERGEN AVENUE, DISTANT THIRTY-FOUR AND SIXTY ONE HUNDRETHS (34.60) FEET SOUTHWESTRLY FROM THE CORNER FORMED BY THE INTERSECTION OF THE NORTHWESTRLY SIDE OF BERGEN AVENUE WITH THE SOUTHWESTERLY SIDE OF CLINTON AVENUE (FORMERLY MANDEVILLE AVENUE); THENCE RUNNING (1) NORTHWESTERLY AND THROUGH THE CENTER OF A PARTY WALL\nPRIOR LIENS/ENCUMBERS: $2,713.44\n3RD QTR TAXES OPEN PLUS PENALTY: $25.59\nWATER OPEN PLUS PENALTY\nTOTAL AS OF SEPTEMBER 16, 2026: 2,739.03\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.\nGOOD FAITH ESRIMATE OF UPSET PRICE: $41,243.46",
+    "Good Faith Upset*": "$41,243.46",
+    "Judgment": "$33,612.81",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "20064352"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 33612.81,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "483 BERGEN AVENUE JERSEY CITY NJ 07304",
+    "defendant": "HOWARD SMITH, JR., ET ALS.",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "20064352",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-11-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 41243.46,
+  "upset_amount_label": "Good Faith Upset*"
+}

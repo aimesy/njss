@@ -1,0 +1,76 @@
+{
+  "address": "655 Norwood Avenue Long Branch NJ 07740",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00326924",
+  "current_status": "Scheduled",
+  "defendant": "Nigel Shamash; Sophia Shamash, et al.",
+  "description": "Dimensions of Lot: 100 feet wide by 100 feet long\nNearest Cross Street: Clarence Avenue\nEstimated upset bid amount: $293,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nSewer: Long Branch Sewer Auth. 150 Joline Avenue Long Branch, NJ 07740 732-222-0500\nAcct: 1011 07/01/2025 - 09/30/2025 $92.00 OPEN AND DUE 08/01/2025 $552.00 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "100",
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "655 Norwood Avenue\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$261,432.69",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00326924",
+    "Defendant": "Nigel Shamash; Sophia Shamash, et al.",
+    "Description": "Dimensions of Lot: 100 feet wide by 100 feet long\nNearest Cross Street: Clarence Avenue\nEstimated upset bid amount: $293,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nSewer: Long Branch Sewer Auth. 150 Joline Avenue Long Branch, NJ 07740 732-222-0500\nAcct: 1011 07/01/2025 - 09/30/2025 $92.00 OPEN AND DUE 08/01/2025 $552.00 OPEN PLUS PENALTY",
+    "Parcel #": "Tax Lot 3 Block 67 Tax Map of City of Long Branch",
+    "Plaintiff": "Fifth Third Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "3/11/2026",
+    "Sheriff #": "FOR-25001368"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 261432.69,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "655 Norwood Avenue Long Branch NJ 07740",
+    "defendant": "Nigel Shamash; Sophia Shamash, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Fifth Third Bank, N.A.",
+    "sale_date": "2026-03-11"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 3 Block 67 Tax Map of City of Long Branch",
+  "plaintiff": "Fifth Third Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2026-03-11",
+  "sheriff_number": "FOR-25001368",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-11",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Scheduled"
+    }
+  ]
+}

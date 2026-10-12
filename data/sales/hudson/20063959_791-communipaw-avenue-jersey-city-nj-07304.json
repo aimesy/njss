@@ -1,0 +1,59 @@
+{
+  "address": "791 COMMUNIPAW AVENUE JERSEY CITY NJ 07304",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-009271-25",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "MB EQUITIES LLC; ET AL.",
+  "description": "TAX LOT(S): 4, IN BLOCK: 18302\nDIMENSIONS (APPROX.): 25*100\nNEAREST CROSS STREET: WEST SIDE AVE.\nOCCUPANCY STATUS: NON OWNER OCCUPIED\nGOOD FAITH ESTIMATED UPOSET PRICE: $696,998.64\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "block": "18302",
+    "occupancy": "NON OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "791 COMMUNIPAW AVENUE\nJERSEY CITY NJ 07304",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-009271-25",
+    "Defendant": "MB EQUITIES LLC; ET AL.",
+    "Description": "TAX LOT(S): 4, IN BLOCK: 18302\nDIMENSIONS (APPROX.): 25*100\nNEAREST CROSS STREET: WEST SIDE AVE.\nOCCUPANCY STATUS: NON OWNER OCCUPIED\nGOOD FAITH ESTIMATED UPOSET PRICE: $696,998.64\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Good Faith Upset*": "$696,998.64",
+    "Judgment": "$687,742.16",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE BINOM SECURITIZATION TRUST 2022-INVI",
+    "Property Note": "",
+    "Sales Date": "9/11/2026",
+    "Sheriff #": "20063959"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 687742.16,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "791 COMMUNIPAW AVENUE JERSEY CITY NJ 07304",
+    "defendant": "MB EQUITIES LLC; ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE BINOM SECURITIZATION TRUST 2022-INVI",
+    "sale_date": "2026-09-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE BINOM SECURITIZATION TRUST 2022-INVI",
+  "property_note": null,
+  "sale_date": "2026-09-11",
+  "sheriff_number": "20063959",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-09-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-11",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 696998.64,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,76 @@
+{
+  "address": "210-3 WEST ELIZABETH AVENUE LINDEN NJ 07036",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00105320",
+  "current_status": "Settled",
+  "defendant": "KEVIN D. KLINGAMAN AND MRS. KEVIN D. KLINGAMAN, HIS WIFE",
+  "description": "LOT 21 C2103 BLOCK 253",
+  "extracted": {
+    "block": "253",
+    "lot": "21"
+  },
+  "fields": {
+    "Address": "210-3 WEST ELIZABETH AVENUE\nLINDEN NJ 07036",
+    "Approx. Upset*": "$171,167.90",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00105320",
+    "Defendant": "KEVIN D. KLINGAMAN AND MRS. KEVIN D. KLINGAMAN, HIS WIFE",
+    "Description": "LOT 21 C2103 BLOCK 253",
+    "Parcel #": "LOT 21 C2103 BLOCK 253",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/28/2026",
+    "Sheriff #": "CH-23001180"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "210-3 WEST ELIZABETH AVENUE LINDEN NJ 07036",
+    "defendant": "KEVIN D. KLINGAMAN AND MRS. KEVIN D. KLINGAMAN, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2026-01-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 21 C2103 BLOCK 253",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-01-28",
+  "sheriff_number": "CH-23001180",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2023-07-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-07-12",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 171167.9,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,80 @@
+{
+  "address": "2766 ALICE TERRACE UNION NJ 07083",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00433320",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "ISAAC DICKERSON; MRS. ISAAC DICKERSON, HIS WIFE",
+  "description": "LOT 37 BLOCK 4509",
+  "extracted": {
+    "block": "4509",
+    "lot": "37"
+  },
+  "fields": {
+    "Address": "2766 ALICE TERRACE\nUNION NJ 07083",
+    "Approx. Upset*": "$302,995.07",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F00433320",
+    "Defendant": "ISAAC DICKERSON; MRS. ISAAC DICKERSON, HIS WIFE",
+    "Description": "LOT 37 BLOCK 4509",
+    "Parcel #": "LOT 37 BLOCK 4509",
+    "Plaintiff": "TRUMAN 2021 SC9 TITLE TRUST",
+    "Property Note": "",
+    "Sales Date": "4/22/2026",
+    "Sheriff #": "CH-25001848"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2766 ALICE TERRACE UNION NJ 07083",
+    "defendant": "ISAAC DICKERSON; MRS. ISAAC DICKERSON, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "TRUMAN 2021 SC9 TITLE TRUST",
+    "sale_date": "2026-04-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 37 BLOCK 4509",
+  "plaintiff": "TRUMAN 2021 SC9 TITLE TRUST",
+  "property_note": null,
+  "sale_date": "2026-04-22",
+  "sheriff_number": "CH-25001848",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Sheriff Adjournment"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 302995.07,
+  "upset_amount_label": "Approx. Upset*"
+}

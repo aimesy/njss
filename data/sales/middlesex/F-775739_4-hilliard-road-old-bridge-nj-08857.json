@@ -1,0 +1,60 @@
+{
+  "address": "4 HILLIARD ROAD OLD BRIDGE NJ 08857",
+  "attorney": "KML LAW GROUP P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00351021",
+  "current_status": "Bankruptcy",
+  "defendant": "WILLIAM L. MEYER",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$320,385.98",
+    "Attorney": "KML LAW GROUP P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00351021",
+    "Defendant": "WILLIAM L. MEYER",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 3 BLOCK 18015",
+    "Plaintiff": "U.S. BANK TRUST, N.A., AS TRUSTEE FOR LSF9 MASTER PARTICIPATION TRUST",
+    "Property Address": "4 HILLIARD ROAD\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-775739"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 320385.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4 HILLIARD ROAD OLD BRIDGE NJ 08857",
+    "defendant": "WILLIAM L. MEYER",
+    "listing_status": "Cancelled",
+    "plaintiff": "U.S. BANK TRUST, N.A., AS TRUSTEE FOR LSF9 MASTER PARTICIPATION TRUST",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 3 BLOCK 18015",
+  "plaintiff": "U.S. BANK TRUST, N.A., AS TRUSTEE FOR LSF9 MASTER PARTICIPATION TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-775739",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-08-16",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

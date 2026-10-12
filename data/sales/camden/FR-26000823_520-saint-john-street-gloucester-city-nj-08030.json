@@ -1,0 +1,61 @@
+{
+  "address": "520 SAINT JOHN STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00441025",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JASON GREEN; MRS. JASON GREEN, WIFE OF JASON GREEN; AND UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "520 SAINT JOHN STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$207,683.66",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00441025",
+    "Defendant": "JASON GREEN; MRS. JASON GREEN, WIFE OF JASON GREEN; AND UNITED STATES OF AMERICA,",
+    "Parcel #": "LOT 11, 21, 22, BLOCK 123",
+    "Plaintiff": "PARAMOUNT RESIDENTIAL MORTGAGE GROUP, INC.,",
+    "Property Note": "TAX SALE CERTIFICATE NO. 26-00134 IN THE AMOUNT OF $1,622.60",
+    "Sales Date": "9/1/2026",
+    "Sheriff #": "FR-26000823"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "520 SAINT JOHN STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "JASON GREEN; MRS. JASON GREEN, WIFE OF JASON GREEN; AND UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "PARAMOUNT RESIDENTIAL MORTGAGE GROUP, INC.,",
+    "sale_date": "2026-09-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 11, 21, 22, BLOCK 123",
+  "plaintiff": "PARAMOUNT RESIDENTIAL MORTGAGE GROUP, INC.,",
+  "property_note": "TAX SALE CERTIFICATE NO. 26-00134 IN THE AMOUNT OF $1,622.60",
+  "sale_date": "2026-09-01",
+  "sheriff_number": "FR-26000823",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 207683.66,
+  "upset_amount_label": "Approx. Upset*"
+}

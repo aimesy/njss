@@ -1,0 +1,66 @@
+{
+  "address": "202 Drexel Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011384-24",
+  "current_status": "Scheduled",
+  "deed": "Waqas Akhtar",
+  "deed_address": "410 Montrose Lane, Galloway, NJ 08205",
+  "defendant": "John Leidy A/K/A John Warren Leidy, His/Her Heirs, Devisees and Personal Representatives and His, Hers, Their or Any of Their Successors in Right, Title and Interest; Sean Leidy; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "202 Drexel Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$135,883.10",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-011384-24",
+    "Deed": "Waqas Akhtar",
+    "Deed Address": "410 Montrose Lane, Galloway, NJ 08205",
+    "Defendant": "John Leidy A/K/A John Warren Leidy, His/Her Heirs, Devisees and Personal Representatives and His, Hers, Their or Any of Their Successors in Right, Title and Interest; Sean Leidy; State of New Jersey; United States of America",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Priors": "Liens: Year: 2024 Type: 3RD PARTY SEWER\nCert No.: 24-00506 Sold: 12/18/2024 To: PRO CAP 8 FBO FIRSTRUST BANK\nLien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. Total: $492.11",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "7/31/2025",
+    "Sheriff #": "F-25000388",
+    "Upset Amount": "$158,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 135883.1,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "202 Drexel Avenue Egg Harbor Township NJ 08234",
+    "defendant": "John Leidy A/K/A Joh...",
+    "listing_status": null,
+    "plaintiff": "Carrington Mortgage ...",
+    "sale_date": "2025-07-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "priors": "Liens: Year: 2024 Type: 3RD PARTY SEWER Cert No.: 24-00506 Sold: 12/18/2024 To: PRO CAP 8 FBO FIRSTRUST BANK Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. Total: $492.11",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-07-31",
+  "sheriff_number": "F-25000388",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-31",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-31",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-07-03",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 158000.0,
+  "upset_amount_label": "Upset Amount"
+}

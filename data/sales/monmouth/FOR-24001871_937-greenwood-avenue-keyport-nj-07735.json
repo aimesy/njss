@@ -1,0 +1,61 @@
+{
+  "address": "937 Greenwood Avenue Keyport NJ 07735",
+  "attorney": "Hladik, Onorato & Federman, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00560823",
+  "current_status": "Scheduled",
+  "defendant": "Alice Williams, et al",
+  "description": "Approximate Dimensions: 100 x 325 x 100 x 425\nNearest Cross Street: Lakeview Way\nEstimated Upset Sheriff's Sale Bid Amount: $318,000.00. Subject to any further Orders of additional sums executed by the court",
+  "extracted": {},
+  "fields": {
+    "Address": "937 Greenwood Avenue\nKeyport NJ 07735",
+    "Approx. Judgment*": "$289,887.30",
+    "Attorney": "Hladik, Onorato & Federman, LLP",
+    "Court Case #": "F00560823",
+    "Defendant": "Alice Williams, et al",
+    "Description": "Approximate Dimensions: 100 x 325 x 100 x 425\nNearest Cross Street: Lakeview Way\nEstimated Upset Sheriff's Sale Bid Amount: $318,000.00. Subject to any further Orders of additional sums executed by the court",
+    "Parcel #": "Tax Lot: 60 Block: 345 located on the tax map of the Township of Aberdeen",
+    "Plaintiff": "Citigroup Mortgage Loan Trust 2021-RP4",
+    "Property Note": "",
+    "Sales Date": "2/3/2025",
+    "Sheriff #": "FOR-24001871"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 289887.3,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "937 Greenwood Avenue Keyport NJ 07735",
+    "defendant": "Alice Williams, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Citigroup Mortgage Loan Trust 2021-RP4",
+    "sale_date": "2025-02-03"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 60 Block: 345 located on the tax map of the Township of Aberdeen",
+  "plaintiff": "Citigroup Mortgage Loan Trust 2021-RP4",
+  "property_note": null,
+  "sale_date": "2025-02-03",
+  "sheriff_number": "FOR-24001871",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-03",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Scheduled"
+    }
+  ]
+}

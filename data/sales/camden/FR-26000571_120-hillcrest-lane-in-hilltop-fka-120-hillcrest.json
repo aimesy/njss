@@ -1,0 +1,65 @@
+{
+  "address": "120 HILLCREST LANE (IN HILLTOP) FKA 120 HILLCREST AVENUE GLOUCESTER TOWNSHIP NJ 08012",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00908322",
+  "current_status": "Court Adjournment",
+  "defendant": "JAMES C. SIMMERMON, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "120 HILLCREST LANE (IN HILLTOP)\nFKA 120 HILLCREST AVENUE\nGLOUCESTER TOWNSHIP NJ 08012",
+    "Approx. Upset*": "$135,838.62",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00908322",
+    "Defendant": "JAMES C. SIMMERMON, ET AL.",
+    "Parcel #": "BLOCK 7803 LOT: 7 & 8",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "SOLAR MOSAIC INC. HOLDS AN INTEREST IN THE PROPERTY DUE TO SOLAR EQUIPMENT AS OF 05/15/2017.\nGLOUCESTER TOWNSHIP SEWER DEPARTMENT HOLDS A CLAIM FOR TAXES DUE AND/OR OTHER MUNICIPAL UTILITIES SUCH AS WATER AND/OR SEWER IN THE AMOUNT OF $46.00 PLUS PENALTY AS OF 03/02/2026\nVACANT LOT CHARGE- CONTACT HERA PROPERTY REGISTRY AT 321-234-5303 FOR ADDITIONAL BILLING INFORMATION, IF ANY HOLDS IN THE AMOUNT OF $ AS OF 03/02/2026. IN THE AMOUNT OF $ AS OF.\nPLAINTIFFS UPSET BID IS $144,002.38 IN ACCORDANCE WITH REQUIREMENTS OF SECTION 12 PF P.L. 1995, C.244 (C.2A\"50-64) AS AMENDED.",
+    "Sales Date": "9/10/2026",
+    "Sheriff #": "FR-26000571"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "120 HILLCREST LANE (IN HILLTOP) FKA 120 HILLCREST AVENUE GLOUCESTER TOWNSHIP NJ 08012",
+    "defendant": "JAMES C. SIMMERMON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-09-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 7803 LOT: 7 & 8",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": "SOLAR MOSAIC INC. HOLDS AN INTEREST IN THE PROPERTY DUE TO SOLAR EQUIPMENT AS OF 05/15/2017.\nGLOUCESTER TOWNSHIP SEWER DEPARTMENT HOLDS A CLAIM FOR TAXES DUE AND/OR OTHER MUNICIPAL UTILITIES SUCH AS WATER AND/OR SEWER IN THE AMOUNT OF $46.00 PLUS PENALTY AS OF 03/02/2026\nVACANT LOT CHARGE- CONTACT HERA PROPERTY REGISTRY AT 321-234-5303 FOR ADDITIONAL BILLING INFORMATION, IF ANY HOLDS IN THE AMOUNT OF $ AS OF 03/02/2026. IN THE AMOUNT OF $ AS OF.\nPLAINTIFFS UPSET BID IS $144,002.38 IN ACCORDANCE WITH REQUIREMENTS OF SECTION 12 PF P.L. 1995, C.244 (C.2A\"50-64) AS AMENDED.",
+  "sale_date": "2026-09-10",
+  "sheriff_number": "FR-26000571",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 135838.62,
+  "upset_amount_label": "Approx. Upset*"
+}

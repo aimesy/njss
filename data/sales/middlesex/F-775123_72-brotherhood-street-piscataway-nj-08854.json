@@ -1,0 +1,111 @@
+{
+  "address": "72 BROTHERHOOD STREET PISCATAWAY NJ 08854",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F-01143915",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "MARIAN B. ELLISON, ET ALS",
+  "description": "LOT 3.02 BLOCK 8802 FKA 709",
+  "extracted": {
+    "block": "8802",
+    "lot": "3.02"
+  },
+  "fields": {
+    "Approx. Judgment*": "$352,866.72",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F-01143915",
+    "Defendant": "MARIAN B. ELLISON, ET ALS",
+    "Description": "LOT 3.02 BLOCK 8802 FKA 709",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "HOMEBRIDGE FINANCIAL SERVICES, INC.",
+    "Property Address": "72 BROTHERHOOD STREET\nPISCATAWAY NJ 08854",
+    "Property Note": "SUCCESSFULLY POSTED 05/15/2023 BY JEFF BUKSAR",
+    "Sale Date": "7/19/2023",
+    "Sheriff #": "F-775123"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 352866.72,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "72 BROTHERHOOD STREET PISCATAWAY NJ 08854",
+    "defendant": "MARIAN B. ELLISON, ET ALS",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "HOMEBRIDGE FINANCIAL SERVICES, INC.",
+    "sale_date": "2023-07-19"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "HOMEBRIDGE FINANCIAL SERVICES, INC.",
+  "property_note": "SUCCESSFULLY POSTED 05/15/2023 BY JEFF BUKSAR",
+  "sale_date": "2023-07-19",
+  "sheriff_number": "F-775123",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2023-07-19",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2023-07-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2021-09-29",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2021-07-28",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2021-05-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2021-03-03",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2021-01-06",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2020-12-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2020-10-28",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2020-09-30",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2020-08-12",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2020-06-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2020-04-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2020-03-25",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

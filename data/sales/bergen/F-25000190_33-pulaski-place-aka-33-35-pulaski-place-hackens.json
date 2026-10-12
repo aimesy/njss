@@ -1,0 +1,67 @@
+{
+  "address": "33 PULASKI PLACE AKA 33-35 PULASKI PLACE HACKENSACK NJ 07601",
+  "attorney": "PLUESE, BECKER, SALTZMAN AND THOMAS, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00617321",
+  "current_status": "BANKRUPTCY",
+  "defendant": "MERCEDES ANDUJAR",
+  "description": "The Plaintiff's Upset Bid presently approximates $450,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "33 PULASKI PLACE\nAKA 33-35 PULASKI PLACE\nHACKENSACK NJ 07601",
+    "Approx. Upset*": "$367,265.55",
+    "Attorney": "PLUESE, BECKER, SALTZMAN AND THOMAS, LLC",
+    "Court Case #": "F00617321",
+    "Defendant": "MERCEDES ANDUJAR",
+    "Description": "The Plaintiff's Upset Bid presently approximates $450,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "LOT 21, BLOCK 12",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2007-1",
+    "Property Note": "",
+    "Sales Date": "3/9/2026",
+    "Sheriff #": "F-25000190"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "33 PULASKI PLACE AKA 33-35 PULASKI PLACE HACKENSACK NJ 07601",
+    "defendant": "MERCEDES ANDUJAR",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2007-1",
+    "sale_date": "2026-03-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 21, BLOCK 12",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2007-1",
+  "property_note": null,
+  "sale_date": "2026-03-09",
+  "sheriff_number": "F-25000190",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-03-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-03-09",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 367265.55,
+  "upset_amount_label": "Approx. Upset*"
+}

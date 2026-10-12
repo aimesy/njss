@@ -1,0 +1,60 @@
+{
+  "address": "2218 BERWYN STREET UNION NJ 07083",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01196723",
+  "current_status": "Bankuptcy",
+  "defendant": "JEANNE SPASSIONE A/K/A JEAN SPASSIONE A/K/A JEAN DOROTHY SPASSIONE; UNITED STATES OF AMERICA",
+  "description": "LOT 4 BLOCK 4218",
+  "extracted": {
+    "block": "4218",
+    "lot": "4"
+  },
+  "fields": {
+    "Address": "2218 BERWYN STREET\nUNION NJ 07083",
+    "Approx. Upset*": "$309,612.14",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+    "Court Case #": "F01196723",
+    "Defendant": "JEANNE SPASSIONE A/K/A JEAN SPASSIONE A/K/A JEAN DOROTHY SPASSIONE; UNITED STATES OF AMERICA",
+    "Description": "LOT 4 BLOCK 4218",
+    "Parcel #": "LOT 4 BLOCK 4218",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "12/17/2025",
+    "Sheriff #": "CH-25002159"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2218 BERWYN STREET UNION NJ 07083",
+    "defendant": "JEANNE SPASSIONE A/K/A JEAN SPASSIONE A/K/A JEAN DOROTHY SPASSIONE; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 4 BLOCK 4218",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "CH-25002159",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-11-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 309612.14,
+  "upset_amount_label": "Approx. Upset*"
+}

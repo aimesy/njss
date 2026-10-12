@@ -1,0 +1,53 @@
+{
+  "address": "1021 COLLINGS AVENUE COLLINGSWOOD NJ 08107",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F03796415",
+  "current_status": "Scheduled",
+  "defendant": "DEBORAH A. MULL; ARNOLD Y. MULL; KENNEDY HEALTH SYSTEM,",
+  "extracted": {},
+  "fields": {
+    "Address": "1021 COLLINGS AVENUE\nCOLLINGSWOOD NJ 08107",
+    "Approx. Upset*": "$282,300.81",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F03796415",
+    "Defendant": "DEBORAH A. MULL; ARNOLD Y. MULL; KENNEDY HEALTH SYSTEM,",
+    "Parcel #": "Tax LOT 17 BLOCK 162",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA\nTRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM\nMORTGAGE ACQUISITION TRUST,",
+    "Property Note": "Water: Collingswood Boro 678 Haddon Ave Collingswood, NJ 08108 856-854-0720 Acct: 4125 0 07/01/2026 09/30/2026$566.25 OPEN AND DUE 08/01/2026 $3,432.65 OPEN PLUS PENALTY\nSewer: Collingswood Boro 678 Haddon Ave Collingswood, NJ 08108 856-854-0720 Acct: 4125 0 07/01/2026 09/30/2026$ 180.50 OPEN AND DUE 08/01/2026 $1,735.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ave. Camden, NJ 08104 856-541-3700 Acct: 120041025 07/01/2026 09/30/2026$186.00 OPEN AND DUE 08/15/2026 $2,016.00 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.",
+    "Sales Date": "9/2/2026",
+    "Sheriff #": "FR-26001841"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1021 COLLINGS AVENUE COLLINGSWOOD NJ 08107",
+    "defendant": "DEBORAH A. MULL; ARNOLD Y. MULL; KENNEDY HEALTH SYSTEM,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA \nTRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM \nMORTGAGE ACQUISITION TRUST,",
+    "sale_date": "2026-09-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax LOT 17 BLOCK 162",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST,",
+  "property_note": "Water: Collingswood Boro 678 Haddon Ave Collingswood, NJ 08108 856-854-0720 Acct: 4125 0 07/01/2026 09/30/2026$566.25 OPEN AND DUE 08/01/2026 $3,432.65 OPEN PLUS PENALTY\nSewer: Collingswood Boro 678 Haddon Ave Collingswood, NJ 08108 856-854-0720 Acct: 4125 0 07/01/2026 09/30/2026$ 180.50 OPEN AND DUE 08/01/2026 $1,735.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ave. Camden, NJ 08104 856-541-3700 Acct: 120041025 07/01/2026 09/30/2026$186.00 OPEN AND DUE 08/15/2026 $2,016.00 OPEN PLUS PENALTY\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.",
+  "sale_date": "2026-09-02",
+  "sheriff_number": "FR-26001841",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-02",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 282300.81,
+  "upset_amount_label": "Approx. Upset*"
+}

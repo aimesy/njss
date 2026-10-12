@@ -1,0 +1,75 @@
+{
+  "address": "2091 Florence Avenue Hazlet NJ 07730",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00525723",
+  "current_status": "Scheduled",
+  "defendant": "Karen M. Stralkus, et al",
+  "description": "Approximate dimensions: 268.5' x 100.00' x 269.07' x 100.00'\nNearest cross street: Willow Street\nThe Plaintiff's Upset Bid presently approximates $459,000.00\nOccupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "2091 Florence Avenue\nHazlet NJ 07730",
+    "Approx. Judgment*": "$388,479.81",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00525723",
+    "Defendant": "Karen M. Stralkus, et al",
+    "Description": "Approximate dimensions: 268.5' x 100.00' x 269.07' x 100.00'\nNearest cross street: Willow Street\nThe Plaintiff's Upset Bid presently approximates $459,000.00\nOccupancy Status: Unknown",
+    "Parcel #": "Tax Lot: 19 Tax Block: 64 Tax Map of Township of Hazlet",
+    "Plaintiff": "AJAX Mortgage Loan Trust 2023-B, Mortgage-Backed Securities, Series 2023-B, By U.S. Bank Trust Company, National Association, As Indenture Trustee",
+    "Property Note": "",
+    "Sales Date": "11/10/2025",
+    "Sheriff #": "FOR-24000623"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 388479.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2091 Florence Avenue Hazlet NJ 07730",
+    "defendant": "Karen M. Stralkus, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "AJAX Mortgage Loan Trust 2023-B, Mortgage-Backed Securities, Series 2023-B, By U.S. Bank Trust Company, National Association, As Indenture Trustee",
+    "sale_date": "2025-11-10"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 19 Tax Block: 64 Tax Map of Township of Hazlet",
+  "plaintiff": "AJAX Mortgage Loan Trust 2023-B, Mortgage-Backed Securities, Series 2023-B, By U.S. Bank Trust Company, National Association, As Indenture Trustee",
+  "property_note": null,
+  "sale_date": "2025-11-10",
+  "sheriff_number": "FOR-24000623",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-10",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-07-01",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-06-03",
+      "status": "Scheduled"
+    }
+  ]
+}

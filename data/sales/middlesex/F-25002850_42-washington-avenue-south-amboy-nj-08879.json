@@ -1,0 +1,56 @@
+{
+  "address": "42 WASHINGTON AVENUE SOUTH AMBOY NJ 08879",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01280324",
+  "current_status": "Cancelled",
+  "defendant": "TERESA DIMINO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$327,416.25",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F01280324",
+    "Defendant": "TERESA DIMINO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 4 BLOCK 4000.31",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Address": "42 WASHINGTON AVENUE\nSOUTH AMBOY NJ 08879",
+    "Property Note": "",
+    "Sale Date": "12/17/2025",
+    "Sheriff #": "F-25002850"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 327416.25,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "42 WASHINGTON AVENUE SOUTH AMBOY NJ 08879",
+    "defendant": "TERESA DIMINO, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 4 BLOCK 4000.31",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25002850",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

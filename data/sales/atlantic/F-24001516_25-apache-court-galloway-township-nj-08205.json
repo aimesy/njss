@@ -1,0 +1,62 @@
+{
+  "address": "25 Apache Court Galloway Township NJ 08205",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002240-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Aimee Marie Gonzalez",
+  "extracted": {},
+  "fields": {
+    "Address": "25 Apache Court\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$151,300.17",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-002240-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Aimee Marie Gonzalez",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "2/20/2025",
+    "Sheriff #": "F-24001516",
+    "Upset Amount": "$168,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 151300.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "25 Apache Court Galloway Township NJ 08205",
+    "defendant": "Aimee Marie Gonzalez...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2025-02-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-02-20",
+  "sheriff_number": "F-24001516",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-20",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-02-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 168000.0,
+  "upset_amount_label": "Upset Amount"
+}

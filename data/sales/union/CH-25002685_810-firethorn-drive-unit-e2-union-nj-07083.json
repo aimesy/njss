@@ -1,0 +1,56 @@
+{
+  "address": "810 FIRETHORN DRIVE UNIT E2 UNION NJ 07083",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F313622",
+  "current_status": "Buy Back",
+  "defendant": "JACQUELINE HEATH; ROLANDO HEATH; TENANT/ OCCUPANT; HICKORY MANOR CONDOMINIUM ASSOCIATION, INC.; HICORY MANOR CONDOMINIUM I ASSOCIATION, INC.",
+  "description": "LOT 6.810 C0810 BLOCK 5009",
+  "extracted": {
+    "block": "5009",
+    "lot": "6.810"
+  },
+  "fields": {
+    "Address": "810 FIRETHORN DRIVE\nUNIT E2\nUNION NJ 07083",
+    "Approx. Upset*": "$512,463.28",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Court Case #": "F313622",
+    "Defendant": "JACQUELINE HEATH; ROLANDO HEATH; TENANT/ OCCUPANT; HICKORY MANOR CONDOMINIUM ASSOCIATION, INC.; HICORY MANOR CONDOMINIUM I ASSOCIATION, INC.",
+    "Description": "LOT 6.810 C0810 BLOCK 5009",
+    "Parcel #": "LOT 6.810 C0810 BLOCK 5009",
+    "Plaintiff": "MCLP ASSET COMPANY, INC",
+    "Property Note": "",
+    "Sales Date": "1/14/2026",
+    "Sheriff #": "CH-25002685"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "810 FIRETHORN DRIVE UNIT E2 UNION NJ 07083",
+    "defendant": "JACQUELINE HEATH; ROLANDO HEATH; TENANT/ OCCUPANT; HICKORY MANOR CONDOMINIUM ASSOCIATION, INC.; HICORY MANOR CONDOMINIUM I ASSOCIATION, INC.",
+    "listing_status": null,
+    "plaintiff": "MCLP ASSET COMPANY, INC",
+    "sale_date": "2026-01-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 6.810 C0810 BLOCK 5009",
+  "plaintiff": "MCLP ASSET COMPANY, INC",
+  "property_note": null,
+  "sale_date": "2026-01-14",
+  "sheriff_number": "CH-25002685",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 512463.28,
+  "upset_amount_label": "Approx. Upset*"
+}

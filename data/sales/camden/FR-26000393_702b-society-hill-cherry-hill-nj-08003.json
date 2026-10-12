@@ -1,0 +1,61 @@
+{
+  "address": "702B SOCIETY HILL CHERRY HILL NJ 08003",
+  "attorney": "MCGOVERN LEGAL SERVICES, LLC",
+  "attorney_phone": "(732) 246-1221",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00784425",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "CAROLE JOHNSON",
+  "extracted": {},
+  "fields": {
+    "Address": "702B SOCIETY HILL\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$6,890.99",
+    "Attorney": "MCGOVERN LEGAL SERVICES, LLC",
+    "Attorney Phone": "(732) 246-1221",
+    "Court Case #": "F00784425",
+    "Defendant": "CAROLE JOHNSON",
+    "Parcel #": "",
+    "Plaintiff": "SOCIETY HILL CONDOMINIUM ASSOCIATION,INC",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26000393"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "702B SOCIETY HILL CHERRY HILL NJ 08003",
+    "defendant": "CAROLE JOHNSON",
+    "listing_status": null,
+    "plaintiff": "SOCIETY HILL CONDOMINIUM ASSOCIATION,INC",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "SOCIETY HILL CONDOMINIUM ASSOCIATION,INC",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26000393",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-09",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 6890.99,
+  "upset_amount_label": "Approx. Upset*"
+}

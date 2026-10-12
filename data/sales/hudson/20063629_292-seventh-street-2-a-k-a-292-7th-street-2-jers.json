@@ -1,0 +1,60 @@
+{
+  "address": "292 SEVENTH STREET # 2 A/K/A 292 7TH STREET # 2 JERSEY CITY NJ 07302",
+  "attorney": "ROGER FAY, ESQ.",
+  "attorney_phone": "856-724-1888",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-009460-25",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "292 7TH STREET LLC, ET AL.",
+  "description": "TAX LOT: 43 C0002 TAX BLOCK: 10006\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: COLES STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $640,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "10006",
+    "lot": "43",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "292 SEVENTH STREET # 2\nA/K/A 292 7TH STREET # 2\nJERSEY CITY NJ 07302",
+    "Attorney": "ROGER FAY, ESQ.",
+    "Attorney Phone": "856-724-1888",
+    "Court Case #": "F-009460-25",
+    "Defendant": "292 7TH STREET LLC, ET AL.",
+    "Description": "TAX LOT: 43 C0002 TAX BLOCK: 10006\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: COLES STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $640,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Good Faith Upset*": "$640,000.00",
+    "Judgment": "$599,240.85",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS THE TRUSTEE OF ADMT 2025-NQM1",
+    "Property Note": "",
+    "Sales Date": "9/10/2026",
+    "Sheriff #": "20063629"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 599240.85,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "292 SEVENTH STREET # 2 A/K/A 292 7TH STREET # 2 JERSEY CITY NJ 07302",
+    "defendant": "292 7TH STREET LLC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS THE TRUSTEE OF ADMT 2025-NQM1",
+    "sale_date": "2026-09-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS THE TRUSTEE OF ADMT 2025-NQM1",
+  "property_note": null,
+  "sale_date": "2026-09-10",
+  "sheriff_number": "20063629",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-09-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 640000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

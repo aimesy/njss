@@ -1,0 +1,103 @@
+{
+  "address": "4 EDGEHILL ROAD WEST ORANGE NJ 07052",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00784918",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "SUNNE RYSE SMITH, ET.AL.",
+  "description": "LOTS: 58 BLOCK: 89\nAPPROXIMATE DIMENSIONS: 157.84 FT X 200.00 FT X 157.8 4FT X 199.6 8FT\nNEAREST CROSS STREET: APPROXIMATELY 196.94 FT TO THE NEAREST CROSS STREET KNOWN AS HONEYSUCKLE AVENUE\nAPPROXIMATE UPSET AMOUNT IS $832,000.00 FOR THE SHERIFF SALE. OCCUPANCY STATUS: BORROWER OCCUPIED\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED APRIL 10, 2026. SUBJECT TO: 2026 2ND QUARTER TAXES DUE 5/1/2026 $6,747.00 OPEN; 2026 3RD QUARTER TAXES DUE 8/1/2026, TO BE DETERMINED.\nSEWER: ACCT. 03799000, 1/1/2025-12/31/2025, $574.30 OPEN PLUS PNALTY. CONFIRMED ASSESSMENT: ORDER: #2323-11, ROADS AND SEWER, CONFIRMED 7/11/2017, $15,417.20, $9,043.01 PAID, $6,374.19 OPEN. SUBJECT TO TAX SALE SUBJECT TO ADDITIONAL FEES.\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN DEED BOOK 6203, AT PAGE 563.",
+  "extracted": {
+    "block": "89",
+    "lot": "S",
+    "occupancy": "BORROWER OCCUPIED"
+  },
+  "fields": {
+    "Address": "4 EDGEHILL ROAD\nWEST ORANGE NJ 07052",
+    "Approx. Upset*": "$740,659.30",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F00784918",
+    "Defendant": "SUNNE RYSE SMITH, ET.AL.",
+    "Description": "LOTS: 58 BLOCK: 89\nAPPROXIMATE DIMENSIONS: 157.84 FT X 200.00 FT X 157.8 4FT X 199.6 8FT\nNEAREST CROSS STREET: APPROXIMATELY 196.94 FT TO THE NEAREST CROSS STREET KNOWN AS HONEYSUCKLE AVENUE\nAPPROXIMATE UPSET AMOUNT IS $832,000.00 FOR THE SHERIFF SALE. OCCUPANCY STATUS: BORROWER OCCUPIED\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED APRIL 10, 2026. SUBJECT TO: 2026 2ND QUARTER TAXES DUE 5/1/2026 $6,747.00 OPEN; 2026 3RD QUARTER TAXES DUE 8/1/2026, TO BE DETERMINED.\nSEWER: ACCT. 03799000, 1/1/2025-12/31/2025, $574.30 OPEN PLUS PNALTY. CONFIRMED ASSESSMENT: ORDER: #2323-11, ROADS AND SEWER, CONFIRMED 7/11/2017, $15,417.20, $9,043.01 PAID, $6,374.19 OPEN. SUBJECT TO TAX SALE SUBJECT TO ADDITIONAL FEES.\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN DEED BOOK 6203, AT PAGE 563.",
+    "Parcel #": "",
+    "Plaintiff": "STERLING NATIONAL BANK,",
+    "Property Note": "",
+    "Sales Date": "9/24/2026",
+    "Sheriff #": "F-24004656"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "4 EDGEHILL ROAD WEST ORANGE NJ 07052",
+    "defendant": "SUNNE RYSE SMITH, ET.AL.",
+    "listing_status": null,
+    "plaintiff": "STERLING NATIONAL BANK,",
+    "sale_date": "2026-09-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "STERLING NATIONAL BANK,",
+  "property_note": null,
+  "sale_date": "2026-09-24",
+  "sheriff_number": "F-24004656",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-07",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2025-06-10",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2025-07-08",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2025-07-08",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-08-27",
+      "status": "Open"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Open"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "SALE-VACATED"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 740659.3,
+  "upset_amount_label": "Approx. Upset*"
+}

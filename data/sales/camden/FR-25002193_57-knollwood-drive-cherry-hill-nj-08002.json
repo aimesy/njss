@@ -1,0 +1,73 @@
+{
+  "address": "57 KNOLLWOOD DRIVE CHERRY HILL NJ 08002",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00489025",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "SOEURETTE GUSTAVE; MR./MRS. GUSTAVE, SPOUSE OF CIVIL PARTNER OF SOEURETTE GUSTAVE; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY;",
+  "extracted": {},
+  "fields": {
+    "Address": "57 KNOLLWOOD DRIVE\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$484,163.00",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00489025",
+    "Defendant": "SOEURETTE GUSTAVE; MR./MRS. GUSTAVE, SPOUSE OF CIVIL PARTNER\nOF SOEURETTE GUSTAVE; NEW JERSEY HOUSING AND MORTGAGE\nFINANCE AGENCY;",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL\nCAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION\nTRUST,",
+    "Property Note": "",
+    "Sales Date": "6/26/2026",
+    "Sheriff #": "FR-25002193"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "57 KNOLLWOOD DRIVE CHERRY HILL NJ 08002",
+    "defendant": "SOEURETTE GUSTAVE; MR./MRS. GUSTAVE, SPOUSE OF CIVIL PARTNER \nOF SOEURETTE GUSTAVE; NEW JERSEY HOUSING AND MORTGAGE \nFINANCE AGENCY;",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL \nCAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION \nTRUST,",
+    "sale_date": "2026-06-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-06-26",
+  "sheriff_number": "FR-25002193",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-06-26",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 484163.0,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,60 @@
+{
+  "address": "90 NEPTUNE AVENUE JERSEY CITY NJ 07305",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "(716) 204-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005819-23",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "INDIA MCRAE; MIDLAND FUNDING LLC; MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC., SOLELY AS NOMINEE FOR NOVASTAR MORTGAGE INC.; YVETTE WILLIAMS",
+  "description": "Block 29401 Lot 52\nDimensions (approx.): 52 feet by 176.08 feet\nNumber of Feet to Nearest Cross Street: Beginning at a point on the northeasterly line of Neptune Avenue approximately 157.25 feet southwesterly from its intersection with the southeasterly line of Ocean Avenue\nUpset Bid Amount: $950,452.57\nOccupancy Status: Occupied by Unknown\nAmount Due for Taxes: Taxes paid and current as of 07/21/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 07/21/26\nWater due and owing in the approximate amount of\n$453.75 as of 07/21/26\nSubject to: All unpaid municipal taxes, assessments, liens and other charges; Any set of facts which an accurate survey would disclose; Any restrictions or covenants on record which run with the land; Rights of the United States of America, if any; Any Condominium lien priority pursuant to NJSA 46:88-21, if any; Any outstanding PUD or Homeowner's Associations dues or fees, if any; Any occupants or persons in possession of the property, if any; Additional municipal charges, liens, taxes or tax sale certificates and insurance, if any; and any such taxes, municipal liens or other charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount of unpaid taxes municipal liens and other charges can be obtained from the local taxing authority. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon. ** If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, Mortgagee or the Mortgagee's Attorney.",
+  "extracted": {
+    "block": "29401",
+    "lot": "52",
+    "occupancy": "Occupied by Unknown"
+  },
+  "fields": {
+    "Address": "90 NEPTUNE AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "(716) 204-1700",
+    "Court Case #": "F-005819-23",
+    "Defendant": "INDIA MCRAE; MIDLAND FUNDING LLC; MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC., SOLELY AS NOMINEE FOR NOVASTAR MORTGAGE INC.; YVETTE WILLIAMS",
+    "Description": "Block 29401 Lot 52\nDimensions (approx.): 52 feet by 176.08 feet\nNumber of Feet to Nearest Cross Street: Beginning at a point on the northeasterly line of Neptune Avenue approximately 157.25 feet southwesterly from its intersection with the southeasterly line of Ocean Avenue\nUpset Bid Amount: $950,452.57\nOccupancy Status: Occupied by Unknown\nAmount Due for Taxes: Taxes paid and current as of 07/21/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 07/21/26\nWater due and owing in the approximate amount of\n$453.75 as of 07/21/26\nSubject to: All unpaid municipal taxes, assessments, liens and other charges; Any set of facts which an accurate survey would disclose; Any restrictions or covenants on record which run with the land; Rights of the United States of America, if any; Any Condominium lien priority pursuant to NJSA 46:88-21, if any; Any outstanding PUD or Homeowner's Associations dues or fees, if any; Any occupants or persons in possession of the property, if any; Additional municipal charges, liens, taxes or tax sale certificates and insurance, if any; and any such taxes, municipal liens or other charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount of unpaid taxes municipal liens and other charges can be obtained from the local taxing authority. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon. ** If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, Mortgagee or the Mortgagee's Attorney.",
+    "Good Faith Upset*": "$950,452.57",
+    "Judgment": "$895,317.07",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO WILMINGTON TRUST COMPANY, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEHMAN XS TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-6",
+    "Property Note": "",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "20063897"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 895317.07,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "90 NEPTUNE AVENUE JERSEY CITY NJ 07305",
+    "defendant": "INDIA MCRAE; MIDLAND FUNDING LLC; MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC., SOLELY AS NOMINEE FOR NOVASTAR MORTGAGE INC.; YVETTE WILLIAMS",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO WILMINGTON TRUST COMPANY, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEHMAN XS TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-6",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO WILMINGTON TRUST COMPANY, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEHMAN XS TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-6",
+  "property_note": null,
+  "sale_date": "2026-10-07",
+  "sheriff_number": "20063897",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-09-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 950452.57,
+  "upset_amount_label": "Good Faith Upset*"
+}

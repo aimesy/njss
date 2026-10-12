@@ -1,0 +1,56 @@
+{
+  "address": "31 MANTUA ROAD EAST GREENWICH NJ 08061",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-001617-25",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "MELISSA AMORIELLO",
+  "description": "ESTIMATED UPSET PRICE: $91,771.23\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 91771.23
+  },
+  "fields": {
+    "Address": "31 MANTUA ROAD\nEAST GREENWICH NJ 08061",
+    "Approximate Judgment": "$83,874.51",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-001617-25",
+    "Defendant": "MELISSA AMORIELLO",
+    "Description": "ESTIMATED UPSET PRICE: $91,771.23\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT: 5 BLOCK: 1604",
+    "Plaintiff": "CITIBANK, N.A., AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF WAMU ASSET-BACKED CERTIFICATES WAMU SERIES 2007-HE4 TRUST",
+    "Property Note": "TOWNSHIP OF EAST GREENWICH\nCOUNTY OF GLOUCESTER\n31 MANTUA ROAD TOWNSHIP OF EAST GREENWICH, NJ 08061 ALSO KNOWN AS 31 MANTUA PAULSBORO ROAD, MOUNT ROYAL, NJ 08061, WITH A MAILING ADDRESS OF 30 MANTUA ROAD, MOUNT ROYAL, NJ 08061\nLOT: 5 BLOCK: 1604\nAPPROXIMATE DIMENSIONS: 40.00 x 96.00 FEET\nNEAREST CROSS STREET: SEASHORE RAILROAD\nESTIMATED UPSET PRICE: $91,771.23\nOCCUPANCY STATUS: OCCUPIED\nTAXES - 11/1/25 $880.03 OPEN\nWATER - TO 6/19/25 $50.00 OPEN PLUS PENALTY;\n$200.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "10/29/2025",
+    "Sheriff #": "F-25000977"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 83874.51,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "31 MANTUA ROAD EAST GREENWICH NJ 08061",
+    "defendant": "MELISSA AMORIELLO",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "CITIBANK, N.A., AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF WAMU ASSET-BACKED CERTIFICATES WAMU SERIES 2007-HE4 TRUST",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 5 BLOCK: 1604",
+  "plaintiff": "CITIBANK, N.A., AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF WAMU ASSET-BACKED CERTIFICATES WAMU SERIES 2007-HE4 TRUST",
+  "property_note": "TOWNSHIP OF EAST GREENWICH\nCOUNTY OF GLOUCESTER\n31 MANTUA ROAD TOWNSHIP OF EAST GREENWICH, NJ 08061 ALSO KNOWN AS 31 MANTUA PAULSBORO ROAD, MOUNT ROYAL, NJ 08061, WITH A MAILING ADDRESS OF 30 MANTUA ROAD, MOUNT ROYAL, NJ 08061\nLOT: 5 BLOCK: 1604\nAPPROXIMATE DIMENSIONS: 40.00 x 96.00 FEET\nNEAREST CROSS STREET: SEASHORE RAILROAD\nESTIMATED UPSET PRICE: $91,771.23\nOCCUPANCY STATUS: OCCUPIED\nTAXES - 11/1/25 $880.03 OPEN\nWATER - TO 6/19/25 $50.00 OPEN PLUS PENALTY;\n$200.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25000977",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

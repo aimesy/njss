@@ -1,0 +1,63 @@
+{
+  "address": "825 Lorillard Avenue Union Beach NJ 07735",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00009724",
+  "current_status": "Scheduled",
+  "defendant": "Jamie Bufano a/k/a Jamie Praschak, et al",
+  "description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 100.00ft to the nearest cross street known as Beachview Avenue\nApproximate Dimensions: 50.00ft x 100.00ft x 50.00ft x 100.00ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8600, at Page 5299\nAPPROXIMATE UPSET AMOUNT IS $344,499.68 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated January 28, 2025.\nSubject to: 2025 1st quarter taxes due 2/1/2025, $1,995.50 OPEN\n2025 2nd quarter taxes due 5/1/2025, $1,995.50 OPEN\nSewer: Acct. 1972 0, 1/1/2025-3/31/2025, $115.00 OPEN PLUS PENALTY; $230.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "extracted": {
+    "occupancy": "Borrower Occupied"
+  },
+  "fields": {
+    "Address": "825 Lorillard Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$317,721.31",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00009724",
+    "Defendant": "Jamie Bufano a/k/a Jamie Praschak, et al",
+    "Description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 100.00ft to the nearest cross street known as Beachview Avenue\nApproximate Dimensions: 50.00ft x 100.00ft x 50.00ft x 100.00ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8600, at Page 5299\nAPPROXIMATE UPSET AMOUNT IS $344,499.68 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated January 28, 2025.\nSubject to: 2025 1st quarter taxes due 2/1/2025, $1,995.50 OPEN\n2025 2nd quarter taxes due 5/1/2025, $1,995.50 OPEN\nSewer: Acct. 1972 0, 1/1/2025-3/31/2025, $115.00 OPEN PLUS PENALTY; $230.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Parcel #": "Lot: 11; Block: 217 Tax Map of Borough of Union Beach",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Property Note": "",
+    "Sales Date": "6/9/2025",
+    "Sheriff #": "FOR-25000353"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 317721.31,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "825 Lorillard Avenue Union Beach NJ 07735",
+    "defendant": "Jamie Bufano a/k/a Jamie Praschak, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Carrington Mortgage Services, LLC",
+    "sale_date": "2025-06-09"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 11; Block: 217 Tax Map of Borough of Union Beach",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "property_note": null,
+  "sale_date": "2025-06-09",
+  "sheriff_number": "FOR-25000353",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-09",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    }
+  ]
+}

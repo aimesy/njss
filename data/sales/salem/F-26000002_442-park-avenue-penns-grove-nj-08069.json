@@ -1,0 +1,50 @@
+{
+  "address": "442 Park Avenue Penns Grove NJ 08069",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-000316-24",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "Melvin J. Ford and Florence Denise Ford, et al.",
+  "description": "Approximate Dimensions: 75' x 110'. Approximate Upset Price: $16,000.00. The upset amount may be subject to further orders of additional sums. The property is vacant land.\nPrior liens and encumbrances not extinguished by sale:\nOpen tax quarters and unpaid municipal charges due and owing to the Borough of Penns Grove: $241.53 as of December 15, 2025. Tax Sale Certificate Number 25-00017 in the face amount of $221.64 as of December 15, 2025.",
+  "extracted": {
+    "upset_amount": 16000.0
+  },
+  "fields": {
+    "Address": "442 Park Avenue\nPenns Grove NJ 08069",
+    "Court Case #": "F-000316-24",
+    "Defendant": "Melvin J. Ford and Florence Denise Ford, et al.",
+    "Description": "Approximate Dimensions: 75' x 110'. Approximate Upset Price: $16,000.00. The upset amount may be subject to further orders of additional sums. The property is vacant land.\nPrior liens and encumbrances not extinguished by sale:\nOpen tax quarters and unpaid municipal charges due and owing to the Borough of Penns Grove: $241.53 as of December 15, 2025. Tax Sale Certificate Number 25-00017 in the face amount of $221.64 as of December 15, 2025.",
+    "Plaintiff": "Spring Hill Horizons, LLC",
+    "Sales Date": "03/02/2026 02:00 PM",
+    "Sheriff #": "F-26000002"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "442 Park Avenue Penns Grove NJ 08069",
+    "defendant": "Melvin J. Ford and Florence Denise Ford, et al.",
+    "listing_status": null,
+    "plaintiff": "Spring Hill Horizons, LLC",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Spring Hill Horizons, LLC",
+  "sale_date": null,
+  "sheriff_number": "F-26000002",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Per Sheriff"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

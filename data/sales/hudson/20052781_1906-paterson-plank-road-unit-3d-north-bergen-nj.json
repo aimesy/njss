@@ -1,0 +1,72 @@
+{
+  "address": "1906 PATERSON PLANK ROAD UNIT 3D NORTH BERGEN NJ 07047",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-003702-23",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "SYED KHABOOR; SAIRA KHABOOR A/K/A SAIRA OZEERBANU ALI; HACKENSACK UNIVERSITY MED CTR",
+  "description": "TAX LOT 3.04 QUALIFIER C0304 FKA C003D BLOCK 40 FKA BLOCK 40.01\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 8.2719% INTEREST IN THE COMMON ELEMENTS OF THE RIVERVIEW CONDOMINIUM.\nNEAREST CROSS STREET: 14TH STREET\nESTIMATED UPSET BID AMOUNT: $55,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN\n2026 QTR 4 DUE: 11/01/2026 $1,628.52 OPEN\n2027 QTR 1 DUE: 02/01/2027 $1,569.77 OPEN\n2027 QTR 2 DUE: 05/01/2027 $1,569.77 OPEN",
+  "extracted": {
+    "block": "40",
+    "lot": "3.04",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "1906 PATERSON PLANK ROAD UNIT 3D\nNORTH BERGEN NJ 07047",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-003702-23",
+    "Defendant": "SYED KHABOOR; SAIRA KHABOOR A/K/A SAIRA OZEERBANU ALI; HACKENSACK UNIVERSITY MED CTR",
+    "Description": "TAX LOT 3.04 QUALIFIER C0304 FKA C003D BLOCK 40 FKA BLOCK 40.01\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 8.2719% INTEREST IN THE COMMON ELEMENTS OF THE RIVERVIEW CONDOMINIUM.\nNEAREST CROSS STREET: 14TH STREET\nESTIMATED UPSET BID AMOUNT: $55,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN\n2026 QTR 4 DUE: 11/01/2026 $1,628.52 OPEN\n2027 QTR 1 DUE: 02/01/2027 $1,569.77 OPEN\n2027 QTR 2 DUE: 05/01/2027 $1,569.77 OPEN",
+    "Good Faith Upset*": "$55,000.00",
+    "Judgment": "$43,507.16",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST C/O U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "20052781"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 43507.16,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1906 PATERSON PLANK ROAD UNIT 3D NORTH BERGEN NJ 07047",
+    "defendant": "SYED KHABOOR; SAIRA KHABOOR A/K/A SAIRA OZEERBANU ALI; HACKENSACK UNIVERSITY MED CTR",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST C/O U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST C/O U.S. BANK TRUST NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "20052781",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2023-10-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-11-16",
+      "status": "ADJOURNED SHERIFF - New Sale Date:"
+    },
+    {
+      "date": "2023-11-16",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2023-12-06",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 55000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

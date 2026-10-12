@@ -1,0 +1,54 @@
+{
+  "address": "82 Castle Heights Avenue Pennsville NJ 08070",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-003441-25",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "Garden Terrace 4, LLC, A New Jersey Limited Liability Company; Rodney Wallen; State of New Jersey",
+  "description": "Approximate Dimensions: 85 feet wide by 100 feet long Occupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "82 Castle Heights Avenue\nPennsville NJ 08070",
+    "Court Case #": "F-003441-25",
+    "Defendant": "Garden Terrace 4, LLC, A New Jersey Limited Liability Company; Rodney Wallen; State of New Jersey",
+    "Description": "Approximate Dimensions: 85 feet wide by 100 feet long Occupancy Status: Unknown",
+    "Plaintiff": "LHome Mortgage Trust 2024-RTL1",
+    "Sales Date": "12/29/2025 02:00 PM",
+    "Sheriff #": "F-25000221"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "82 Castle Heights Avenue Pennsville NJ 08070",
+    "defendant": "Garden Terrace 4, LLC, A New Jersey Limited Liability Company; Rodney Wallen; State of New Jersey",
+    "listing_status": null,
+    "plaintiff": "LHome Mortgage Trust 2024-RTL1",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "LHome Mortgage Trust 2024-RTL1",
+  "sale_date": null,
+  "sheriff_number": "F-25000221",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

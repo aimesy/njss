@@ -1,0 +1,56 @@
+{
+  "address": "1031 DOGWOOD COURT NEW BRUNSWICK NJ 08901",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00259624",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "ANTOINE JOHNSON, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$120,467.07",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00259624",
+    "Defendant": "ANTOINE JOHNSON, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.01 C1031 BLOCK 296.01",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Address": "1031 DOGWOOD COURT\nNEW BRUNSWICK NJ 08901",
+    "Property Note": "",
+    "Sale Date": "10/15/2025",
+    "Sheriff #": "F-25002077"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 120467.07,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1031 DOGWOOD COURT NEW BRUNSWICK NJ 08901",
+    "defendant": "ANTOINE JOHNSON, ET ALS.",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.01 C1031 BLOCK 296.01",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-25002077",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

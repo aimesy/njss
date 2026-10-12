@@ -1,0 +1,58 @@
+{
+  "address": "275 North White Horse Pike Hammonton NJ 08037",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005725-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Theresa M. Macri; Mr. Macri, Husband of Theresa M. Macri; MSW Capital LLC; Capital One Bank (USA), N.A.",
+  "extracted": {},
+  "fields": {
+    "Address": "275 North White Horse Pike\nHammonton NJ 08037",
+    "Approx. Judgment*": "$182,672.59",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-005725-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Theresa M. Macri; Mr. Macri, Husband of Theresa M. Macri; MSW Capital LLC; Capital One Bank (USA), N.A.",
+    "Plaintiff": "HSBC Bank USA, N.A., As Indenture Trustee for the Registered Noteholders of Renaissance Home Equity Loan Trust 2006-2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "1/23/2025",
+    "Sheriff #": "F-24001517",
+    "Upset Amount": "$199,983.15"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 182672.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "275 North White Horse Pike Hammonton NJ 08037",
+    "defendant": "Theresa M. Macri; Mr...",
+    "listing_status": null,
+    "plaintiff": "HSBC Bank USA, N.A.,...",
+    "sale_date": "2025-01-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "HSBC Bank USA, N.A., As Indenture Trustee for the Registered Noteholders of Renaissance Home Equity Loan Trust 2006-2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-01-23",
+  "sheriff_number": "F-24001517",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-23",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-01-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 199983.15,
+  "upset_amount_label": "Upset Amount"
+}

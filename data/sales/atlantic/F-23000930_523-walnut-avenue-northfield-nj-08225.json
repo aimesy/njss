@@ -1,0 +1,74 @@
+{
+  "address": "523 Walnut Avenue Northfield NJ 08225",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004391-22",
+  "current_status": "Scheduled",
+  "deed": "Deutsche Bank National Trust Company, as Trustee for Argent Securities Inc., Asset-Backed Pass-Through Certificates, Series 2005-W2",
+  "deed_address": "1761 East St. Andrew Place, Santa Ana, CA 92705",
+  "defendant": "Henry P. Taylor, His Heirs, Devisees and Personal Representatives and His or Their Successors in Right, Title and Interest; Mrs. Taylor, Unknown Spouse of Henry P. Taylor; Rosyln Eve Taylor, Her Heirs, Devisees and Personal Representatives and Her or Their, Successors in Right, Title and Interest; State of New Jersey; United States of America; Camden County Board of Social Services; Wilma Mischley",
+  "extracted": {},
+  "fields": {
+    "Address": "523 Walnut Avenue\nNorthfield NJ 08225",
+    "Approx. Judgment*": "$291,735.35",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-004391-22",
+    "Deed": "Deutsche Bank National Trust Company, as Trustee for Argent Securities Inc., Asset-Backed Pass-Through Certificates, Series 2005-W2",
+    "Deed Address": "1761 East St. Andrew Place, Santa Ana, CA 92705",
+    "Defendant": "Henry P. Taylor, His Heirs, Devisees and Personal Representatives and His or Their Successors in Right, Title and Interest; Mrs. Taylor, Unknown Spouse of Henry P. Taylor; Rosyln Eve Taylor, Her Heirs, Devisees and Personal Representatives and Her or Their, Successors in Right, Title and Interest; State of New Jersey; United States of America; Camden County Board of Social Services; Wilma Mischley",
+    "Plaintiff": "Deutsche Bank National Trust Company, as Trustee for Argent Securities Inc, Asset-Backed Pass-Through Certificates, Series 2005-W2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-23000930",
+    "Upset Amount": "$306,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 291735.35,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "523 Walnut Avenue Northfield NJ 08225",
+    "defendant": "Henry P. Taylor, His...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Nation...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company, as Trustee for Argent Securities Inc, Asset-Backed Pass-Through Certificates, Series 2005-W2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-23000930",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-29",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 306000.0,
+  "upset_amount_label": "Upset Amount"
+}

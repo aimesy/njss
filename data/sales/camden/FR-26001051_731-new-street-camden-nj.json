@@ -1,0 +1,53 @@
+{
+  "address": "731 NEW STREET CAMDEN NJ",
+  "attorney": "HONIG & GREENBERG, L.L.C.",
+  "attorney_phone": "(856) 770-0990",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F397523",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "DAVID MCQUEEN, HIS UNKNOWN HEIRS, DEVISEES, PERSOANL REPRESENTIVES; MARY MCQUEEN, HER UNKNOWN HEIRS, DEVISEES AND REPRESENTATIVE; KEVIN B. MCQUEEN; DOREEN MCQUEEN; DARYL MCQUEEN; VALERIE RETNER; DAVID MCQUEEN; BERGEN SQUARE COMMUNITY DEVELOPMENT; CAMDEN COUNTY BOARD OF SOCIAL SERVICES; BURLINGTON COUNTY BOARD OF SOCIAL SERVICES; STATE OF PENNSYLVANIA; STATE OF NEW JERSEY;",
+  "extracted": {},
+  "fields": {
+    "Address": "731 NEW STREET\nCAMDEN NJ",
+    "Approx. Upset*": "$94,452.74",
+    "Attorney": "HONIG & GREENBERG, L.L.C.",
+    "Attorney Phone": "(856) 770-0990",
+    "Court Case #": "F397523",
+    "Defendant": "DAVID MCQUEEN, HIS UNKNOWN HEIRS, DEVISEES, PERSOANL REPRESENTIVES; MARY\nMCQUEEN, HER UNKNOWN HEIRS, DEVISEES AND REPRESENTATIVE; KEVIN B. MCQUEEN;\nDOREEN MCQUEEN; DARYL MCQUEEN; VALERIE RETNER; DAVID MCQUEEN;\nBERGEN SQUARE COMMUNITY DEVELOPMENT; CAMDEN COUNTY\nBOARD OF SOCIAL SERVICES; BURLINGTON COUNTY BOARD OF\nSOCIAL SERVICES; STATE OF PENNSYLVANIA; STATE OF NEW JERSEY;",
+    "Parcel #": "tax lot 32, block 1436",
+    "Plaintiff": "PRIME CAPITAL MANAGEMENT, LLC,",
+    "Property Note": "AMOUT OF TAXES DUE AND PRIOR LIENS: $442.50",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26001051"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "731 NEW STREET CAMDEN NJ",
+    "defendant": "DAVID MCQUEEN, HIS UNKNOWN HEIRS, DEVISEES, PERSOANL REPRESENTIVES; MARY \nMCQUEEN, HER UNKNOWN HEIRS, DEVISEES AND REPRESENTATIVE; KEVIN B. MCQUEEN; \nDOREEN MCQUEEN; DARYL MCQUEEN; VALERIE RETNER; DAVID MCQUEEN; \nBERGEN SQUARE COMMUNITY DEVELOPMENT; CAMDEN COUNTY \nBOARD OF SOCIAL SERVICES; BURLINGTON COUNTY BOARD OF \nSOCIAL SERVICES; STATE OF PENNSYLVANIA; STATE OF NEW JERSEY;",
+    "listing_status": null,
+    "plaintiff": "PRIME CAPITAL MANAGEMENT, LLC,",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "tax lot 32, block 1436",
+  "plaintiff": "PRIME CAPITAL MANAGEMENT, LLC,",
+  "property_note": "AMOUT OF TAXES DUE AND PRIOR LIENS: $442.50",
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26001051",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 94452.74,
+  "upset_amount_label": "Approx. Upset*"
+}

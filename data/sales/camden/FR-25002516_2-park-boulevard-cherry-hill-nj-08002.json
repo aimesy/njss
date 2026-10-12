@@ -1,0 +1,57 @@
+{
+  "address": "2 PARK BOULEVARD CHERRY HILL NJ 08002",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "attorney_phone": "(973) 325-8800",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00870824",
+  "current_status": "Defendant Adjournment",
+  "defendant": "HUYEN KIM TRINH; MYDUYEN CAO; TRINH MINH DUC; SOLARCITY CORPORATION; TESLA, INC.,",
+  "extracted": {},
+  "fields": {
+    "Address": "2 PARK BOULEVARD\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$72,469.33",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00870824",
+    "Defendant": "HUYEN KIM TRINH; MYDUYEN CAO; TRINH MINH DUC;\nSOLARCITY CORPORATION; TESLA, INC.,",
+    "Parcel #": "",
+    "Plaintiff": "ABS LOAN TRUST VI",
+    "Property Note": "",
+    "Sales Date": "3/18/2026",
+    "Sheriff #": "FR-25002516"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2 PARK BOULEVARD CHERRY HILL NJ 08002",
+    "defendant": "HUYEN KIM TRINH; MYDUYEN CAO; TRINH MINH DUC; \nSOLARCITY CORPORATION; TESLA, INC.,",
+    "listing_status": null,
+    "plaintiff": "ABS LOAN TRUST VI",
+    "sale_date": "2026-03-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "ABS LOAN TRUST VI",
+  "property_note": null,
+  "sale_date": "2026-03-18",
+  "sheriff_number": "FR-25002516",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 72469.33,
+  "upset_amount_label": "Approx. Upset*"
+}

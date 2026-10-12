@@ -1,0 +1,55 @@
+{
+  "address": "194 NORTH 11TH ST NEWARK NJ 07107",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00133826",
+  "current_status": "Scheduled",
+  "defendant": "ROBERT JAMES GRAHAM; ET. AL.",
+  "description": "LOT: 13 BLOCK: 1939\nOCCUPANCY STATUS: BORROWER OCCUPIED\nNEAREST CROSS STREET: APPROXIMATELY 460.00FT TO THE NEAREST CROSS STREET KNOWN AS PARK AVENUE\nAPPROXIMATE DIMENSIONS: 100.00FT X 27.00FT X 100.00FT X 27.00FT\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN DEED INSTRUMENT NUMBER 2016015896\nAPPROXIMATE UPSET AMOUNT IS $510,314.82 FOR THE SHERIFF SALE\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED AUGUST 26, 2026.\nSUBJECT TO:\n2026 4TH QUARTER TAXES DUE 11/1/2026, TO BE DETERMINED\n2027 1ST QUARTER TAXES DUE 2/1/2027, TO BE DETERMINED\nWATER: ACCT: 4313337454 TO: 8/7/2026, $943.53 OPEN PLUS PENALTY\nSUBJECT TO FINAL READING\nSUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+  "extracted": {
+    "block": "1939",
+    "lot": "13",
+    "occupancy": "BORROWER OCCUPIED"
+  },
+  "fields": {
+    "Address": "194 NORTH 11TH ST\nNEWARK NJ 07107",
+    "Approx. Upset*": "$471,809.04",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F00133826",
+    "Defendant": "ROBERT JAMES GRAHAM; ET. AL.",
+    "Description": "LOT: 13 BLOCK: 1939\nOCCUPANCY STATUS: BORROWER OCCUPIED\nNEAREST CROSS STREET: APPROXIMATELY 460.00FT TO THE NEAREST CROSS STREET KNOWN AS PARK AVENUE\nAPPROXIMATE DIMENSIONS: 100.00FT X 27.00FT X 100.00FT X 27.00FT\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN DEED INSTRUMENT NUMBER 2016015896\nAPPROXIMATE UPSET AMOUNT IS $510,314.82 FOR THE SHERIFF SALE\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED AUGUST 26, 2026.\nSUBJECT TO:\n2026 4TH QUARTER TAXES DUE 11/1/2026, TO BE DETERMINED\n2027 1ST QUARTER TAXES DUE 2/1/2027, TO BE DETERMINED\nWATER: ACCT: 4313337454 TO: 8/7/2026, $943.53 OPEN PLUS PENALTY\nSUBJECT TO FINAL READING\nSUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+    "Parcel #": "",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26004268"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "194 NORTH 11TH ST NEWARK NJ 07107",
+    "defendant": "ROBERT JAMES GRAHAM; ET. AL.",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26004268",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 471809.04,
+  "upset_amount_label": "Approx. Upset*"
+}

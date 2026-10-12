@@ -1,0 +1,66 @@
+{
+  "address": "3817 Ventnor Avenue Apt 1406 Atlantic City NJ 08401",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006427-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Silvana R. Masri A/K/A Silvana Masri; Landmark Towers Condominium Association Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "3817 Ventnor Avenue\nApt 1406\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$63,218.99",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-006427-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Silvana R. Masri A/K/A Silvana Masri; Landmark Towers Condominium Association Inc",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: TENANT OCCUPIED",
+    "Sales Date": "2/6/2025",
+    "Sheriff #": "F-24001389",
+    "Upset Amount": "$71,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 63218.99,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3817 Ventnor Avenue Apt 1406 Atlantic City NJ 08401",
+    "defendant": "Silvana R. Masri A/K...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, N....",
+    "sale_date": "2025-02-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: TENANT OCCUPIED",
+  "sale_date": "2025-02-06",
+  "sheriff_number": "F-24001389",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-06",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-12-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 71000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "487A GRANDIN ROAD MONROE NJ 08831",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-797-1100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00927124",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "KENNETH E. DAWSON, SR. ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$34,990.78",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-797-1100",
+    "Court Case #": "F00927124",
+    "Defendant": "KENNETH E. DAWSON, SR. ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 92-C487A BLOCK 26",
+    "Plaintiff": "CITIMORTGAGE, INC.",
+    "Property Address": "487A GRANDIN ROAD\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "9/17/2025",
+    "Sheriff #": "F-25001767"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 34990.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "487A GRANDIN ROAD MONROE NJ 08831",
+    "defendant": "KENNETH E. DAWSON, SR. ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "CITIMORTGAGE, INC.",
+    "sale_date": "2025-09-17"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 92-C487A BLOCK 26",
+  "plaintiff": "CITIMORTGAGE, INC.",
+  "property_note": null,
+  "sale_date": "2025-09-17",
+  "sheriff_number": "F-25001767",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-09-17",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

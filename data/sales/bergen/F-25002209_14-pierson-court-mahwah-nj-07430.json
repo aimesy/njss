@@ -1,0 +1,53 @@
+{
+  "address": "14 PIERSON COURT MAHWAH NJ 07430",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00521821",
+  "current_status": "BANKRUPTCY",
+  "defendant": "ERIC D SPEER AKA ERIC SPEER AKA E SPEER; JESSICA J SPEER AKA JESSICA SPEER; ET AL",
+  "description": "THE APPROXIMATE UPSET SUM IS $738,306.63 CALCULATED THROUGH SEPTEMBER 10, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "14 PIERSON COURT\nMAHWAH NJ 07430",
+    "Approx. Upset*": "$657,980.90",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F00521821",
+    "Defendant": "ERIC D SPEER AKA ERIC SPEER AKA E SPEER; JESSICA J SPEER AKA JESSICA SPEER; ET AL",
+    "Description": "THE APPROXIMATE UPSET SUM IS $738,306.63 CALCULATED THROUGH SEPTEMBER 10, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 85.19, BLOCK 105 FKA LOT 85, BLOCK 105",
+    "Plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR GSR MORTGAGE LOAN TRUST 2006-1F, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1F",
+    "Property Note": "",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "F-25002209"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "14 PIERSON COURT MAHWAH NJ 07430",
+    "defendant": "ERIC D SPEER AKA ERIC SPEER AKA E SPEER; JESSICA J SPEER AKA JESSICA SPEER; ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR GSR MORTGAGE LOAN TRUST 2006-1F, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1F",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 85.19, BLOCK 105 FKA LOT 85, BLOCK 105",
+  "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR GSR MORTGAGE LOAN TRUST 2006-1F, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1F",
+  "property_note": null,
+  "sale_date": "2026-01-08",
+  "sheriff_number": "F-25002209",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 657980.9,
+  "upset_amount_label": "Approx. Upset*"
+}

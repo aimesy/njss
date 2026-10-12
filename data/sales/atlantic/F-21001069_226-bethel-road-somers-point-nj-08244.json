@@ -1,0 +1,82 @@
+{
+  "address": "226 Bethel Road Somers Point NJ 08244",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001295-21 Alias",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Doreen A. Peterson AKA Doreen Peterson FKA Doreen Bryan; State of New Jersey; Capital One Bank USA NA; Colorado Capital Investments Inc.",
+  "extracted": {},
+  "fields": {
+    "Address": "226 Bethel Road\nSomers Point NJ 08244",
+    "Approx. Judgment*": "$328,997.45",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-001295-21 Alias",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Doreen A. Peterson AKA Doreen Peterson FKA Doreen Bryan; State of New Jersey; Capital One Bank USA NA; Colorado Capital Investments Inc.",
+    "Plaintiff": "Wilmington Trust, National Association not in its individual capacity but solely as Owner Trustee of OSAT Trust 2019-2",
+    "Priors": "None",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "10/29/2024",
+    "Sheriff #": "F-21001069",
+    "Upset Amount": "$390,108.73"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 328997.45,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "226 Bethel Road Somers Point NJ 08244",
+    "defendant": "Doreen A. Peterson A...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Trust, Na...",
+    "sale_date": "2024-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Trust, National Association not in its individual capacity but solely as Owner Trustee of OSAT Trust 2019-2",
+  "priors": "None",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-10-29",
+  "sheriff_number": "F-21001069",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-10-29",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-10-03",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-10-03",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-05",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2023-03-09",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2023-03-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2023-02-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2023-01-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 390108.73,
+  "upset_amount_label": "Upset Amount"
+}

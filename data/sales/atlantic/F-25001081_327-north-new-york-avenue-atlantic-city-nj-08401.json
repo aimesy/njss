@@ -1,0 +1,58 @@
+{
+  "address": "327 North New York Avenue Atlantic City NJ 08401",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012980-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Margeline Crisostomo; Mr. or Mrs. Crisostomo, husband or wife of Margeline Crisostomo, the spouse, domestic partner, or civil union partner or Margeline Crisostomo",
+  "extracted": {},
+  "fields": {
+    "Address": "327 North New York Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$124,083.18",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-012980-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Margeline Crisostomo; Mr. or Mrs. Crisostomo, husband or wife of Margeline Crisostomo, the spouse, domestic partner, or civil union partner or Margeline Crisostomo",
+    "Plaintiff": "Nationstar Mortgage, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "12/11/2025",
+    "Sheriff #": "F-25001081",
+    "Upset Amount": "$128,646.66"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 124083.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "327 North New York Avenue Atlantic City NJ 08401",
+    "defendant": "Margeline Crisostomo...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage,...",
+    "sale_date": "2025-12-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-12-11",
+  "sheriff_number": "F-25001081",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-12-11",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 128646.66,
+  "upset_amount_label": "Upset Amount"
+}

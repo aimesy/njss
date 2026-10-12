@@ -1,0 +1,53 @@
+{
+  "address": "457 DELAIR AVENUE PENNSAUKEN TOWNSHIP NJ 08110",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00759224",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "BLACKSHEAR PROPERTY MANAGEMENT LLC; SCHALOR BLACKSHEAR; UNKNOWN OCCUPANTS #1-10 N/K/A NICHOLAS REUFER, APT. A OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A ANAIS ROSARIO, APT. B, OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A RICHARD RUFER, APT. OCCUPANT",
+  "extracted": {},
+  "fields": {
+    "Address": "457 DELAIR AVENUE\nPENNSAUKEN TOWNSHIP NJ 08110",
+    "Approx. Upset*": "$236,548.92",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00759224",
+    "Defendant": "BLACKSHEAR PROPERTY MANAGEMENT LLC; SCHALOR\nBLACKSHEAR; UNKNOWN OCCUPANTS #1-10 N/K/A NICHOLAS\nREUFER, APT. A OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A\nANAIS ROSARIO, APT. B, OCCUPANT; UNKNOWN OCCUPANTS\n#1-10 N/K/A RICHARD RUFER, APT. OCCUPANT",
+    "Parcel #": "",
+    "Plaintiff": "METROPOLITAN TOWER LIFE INSURANCE COMPANY,",
+    "Property Note": "",
+    "Sales Date": "10/15/2025",
+    "Sheriff #": "FR-25001712"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "457 DELAIR AVENUE PENNSAUKEN TOWNSHIP NJ 08110",
+    "defendant": "BLACKSHEAR PROPERTY MANAGEMENT LLC; SCHALOR \nBLACKSHEAR; UNKNOWN OCCUPANTS #1-10 N/K/A NICHOLAS \nREUFER, APT. A OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A \nANAIS ROSARIO, APT. B, OCCUPANT; UNKNOWN OCCUPANTS \n#1-10 N/K/A RICHARD RUFER, APT. OCCUPANT",
+    "listing_status": null,
+    "plaintiff": "METROPOLITAN TOWER LIFE INSURANCE COMPANY,",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "METROPOLITAN TOWER LIFE INSURANCE COMPANY,",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "FR-25001712",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 236548.92,
+  "upset_amount_label": "Approx. Upset*"
+}

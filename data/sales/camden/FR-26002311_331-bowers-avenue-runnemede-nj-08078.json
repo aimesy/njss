@@ -1,0 +1,53 @@
+{
+  "address": "331 BOWERS AVENUE RUNNEMEDE NJ 08078",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00453726",
+  "current_status": "Scheduled",
+  "defendant": "RUBEN VAZQUEZ; UNITED STATES OF AMERICA O BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+  "extracted": {},
+  "fields": {
+    "Address": "331 BOWERS AVENUE\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$172,818.28",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00453726",
+    "Defendant": "RUBEN VAZQUEZ; UNITED STATES OF AMERICA O BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+    "Parcel #": "Tax LOT 11 BLOCK 58",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+    "Property Note": "2026 Qtr 3 Due: 08/01/2026 $1,491.03 OPEN\n2026 Qtr 4 Due: 11/01/2026 $1,491.02 OPEN\n2027 Qtr 1 Due: 02/01/2027 $1,453.70 OPEN\n2027 Qtr 2 Due: 05/01/2027 $1,453.70 OPEN\nVacant lot charge: Property registration fees exist. Please Contact HERA PROPERTY REGISTRY 321-234-5303 for details.\nSewer: Boro of Runnemede 24 N Black Horse Pk Runnemede, NJ 08078 856-939-4437 Acct: 565 0 07/01/2026 - 12/31/2026101.00 OPEN AND DUE 09/01/2026\nCCMUA: CCMUA 1645 Ave. Camden, NJ 08104 856-541-3700 Acct: 300006467\n06/01/2026 - 08/31/202693.00 OPEN PLUS PENALTY $558.00 OPEN PLUS PENALTY\nLiens: Year: 2024 Type: 3RD PARTY SEWER,CCMUA Amount: $924.57 cert No.: 25-00037 Sold: 10/15/2025 To: PRO CAP 8 FBO FIRST TRUST BANK Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "FR-26002311"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "331 BOWERS AVENUE RUNNEMEDE NJ 08078",
+    "defendant": "RUBEN VAZQUEZ; UNITED STATES OF AMERICA O BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax LOT 11 BLOCK 58",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+  "property_note": "2026 Qtr 3 Due: 08/01/2026 $1,491.03 OPEN\n2026 Qtr 4 Due: 11/01/2026 $1,491.02 OPEN\n2027 Qtr 1 Due: 02/01/2027 $1,453.70 OPEN\n2027 Qtr 2 Due: 05/01/2027 $1,453.70 OPEN\nVacant lot charge: Property registration fees exist. Please Contact HERA PROPERTY REGISTRY 321-234-5303 for details.\nSewer: Boro of Runnemede 24 N Black Horse Pk Runnemede, NJ 08078 856-939-4437 Acct: 565 0 07/01/2026 - 12/31/2026101.00 OPEN AND DUE 09/01/2026\nCCMUA: CCMUA 1645 Ave. Camden, NJ 08104 856-541-3700 Acct: 300006467\n06/01/2026 - 08/31/202693.00 OPEN PLUS PENALTY $558.00 OPEN PLUS PENALTY\nLiens: Year: 2024 Type: 3RD PARTY SEWER,CCMUA Amount: $924.57 cert No.: 25-00037 Sold: 10/15/2025 To: PRO CAP 8 FBO FIRST TRUST BANK Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+  "sale_date": "2026-09-15",
+  "sheriff_number": "FR-26002311",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-15",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 172818.28,
+  "upset_amount_label": "Approx. Upset*"
+}

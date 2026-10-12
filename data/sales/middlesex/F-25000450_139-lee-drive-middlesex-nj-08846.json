@@ -1,0 +1,72 @@
+{
+  "address": "139 LEE DRIVE MIDDLESEX NJ 08846",
+  "attorney": "HONIG & GREENBERG LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-770-0990",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F157124",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "THOMAS M. DUNN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$82,491.90",
+    "Attorney": "HONIG & GREENBERG LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-770-0990",
+    "Court Case #": "F157124",
+    "Defendant": "THOMAS M. DUNN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 33 BLOCK 239",
+    "Plaintiff": "ATCF II NJ LLC TAXSERV AS CUST",
+    "Property Address": "139 LEE DRIVE\nMIDDLESEX NJ 08846",
+    "Property Note": "",
+    "Sale Date": "8/6/2025",
+    "Sheriff #": "F-25000450"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 82491.9,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "139 LEE DRIVE MIDDLESEX NJ 08846",
+    "defendant": "THOMAS M. DUNN, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "ATCF II NJ LLC TAXSERV AS CUST",
+    "sale_date": "2025-08-06"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 33 BLOCK 239",
+  "plaintiff": "ATCF II NJ LLC TAXSERV AS CUST",
+  "property_note": null,
+  "sale_date": "2025-08-06",
+  "sheriff_number": "F-25000450",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-06",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-05-14",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,49 @@
+{
+  "address": "1805 PARK BOULEVARD CAMDEN NJ 08103",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00363325",
+  "current_status": "Scheduled",
+  "defendant": "JONATHAN SIMS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1805 PARK BOULEVARD\nCAMDEN NJ 08103",
+    "Approx. Upset*": "$89,141.43",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00363325",
+    "Defendant": "JONATHAN SIMS, ET AL.",
+    "Parcel #": "Lot 72, Block 1276",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "Pursuant to 28 USC 2410(c) this sale is subject to a I year right of redemption held by the United States of America by virtue of its lien:\nSUBORDINATE MORTGAGE: JONATHAN SIMS to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 08/16/2017 and recorded on 09/26/2017, in Book 10718, Page 473, to secure $9,635.33.\nSubject to tax sale certificate #26-01891 for water, sewer, ccmua in the amount of $938.77. Third Party Purchaser is responsible for obtaining final amount to redeem.",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002358"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1805 PARK BOULEVARD CAMDEN NJ 08103",
+    "defendant": "JONATHAN SIMS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 72, Block 1276",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": "Pursuant to 28 USC 2410(c) this sale is subject to a I year right of redemption held by the United States of America by virtue of its lien:\nSUBORDINATE MORTGAGE: JONATHAN SIMS to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 08/16/2017 and recorded on 09/26/2017, in Book 10718, Page 473, to secure $9,635.33.\nSubject to tax sale certificate #26-01891 for water, sewer, ccmua in the amount of $938.77. Third Party Purchaser is responsible for obtaining final amount to redeem.",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002358",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 89141.43,
+  "upset_amount_label": "Approx. Upset*"
+}

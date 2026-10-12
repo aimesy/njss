@@ -1,0 +1,57 @@
+{
+  "address": "246-248 PEGASUS AVENUE NORTHVALE NJ 07647",
+  "attorney": "ZAZELLA & SINGER ATTORNEYS AT LAW",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00426225",
+  "current_status": "BANKRUPTCY",
+  "defendant": "B&BC ESTATES LLC, BATUHAN CAKMAK, ET AL",
+  "description": "THIS IS A COMMERCIAL PROPERTY – NOT SUBJECT TO CWPP REQUIREMENTS.",
+  "extracted": {},
+  "fields": {
+    "Address": "246-248 PEGASUS AVENUE\nNORTHVALE NJ 07647",
+    "Approx. Upset*": "$4,299,657.84",
+    "Attorney": "ZAZELLA & SINGER ATTORNEYS AT LAW",
+    "Court Case #": "F00426225",
+    "Defendant": "B&BC ESTATES LLC, BATUHAN CAKMAK, ET AL",
+    "Description": "THIS IS A COMMERCIAL PROPERTY – NOT SUBJECT TO CWPP REQUIREMENTS.",
+    "Parcel #": "LOT 5 & 3, BLOCK 301",
+    "Plaintiff": "PROVIDENT BANK",
+    "Property Note": "",
+    "Sales Date": "2/20/2026",
+    "Sheriff #": "F-25002687"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "246-248 PEGASUS AVENUE NORTHVALE NJ 07647",
+    "defendant": "B&BC ESTATES LLC, BATUHAN CAKMAK, ET AL",
+    "listing_status": null,
+    "plaintiff": "PROVIDENT BANK",
+    "sale_date": "2026-02-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 5 & 3, BLOCK 301",
+  "plaintiff": "PROVIDENT BANK",
+  "property_note": null,
+  "sale_date": "2026-02-20",
+  "sheriff_number": "F-25002687",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 4299657.84,
+  "upset_amount_label": "Approx. Upset*"
+}

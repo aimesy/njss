@@ -1,0 +1,80 @@
+{
+  "address": "40 Church Street Keyport NJ 07735",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F2324018",
+  "current_status": "Scheduled",
+  "defendant": "Daniel G. Fox, et al",
+  "description": "Dimension of Lot Approximately: 58 X 98 AVG\nNearest Cross Street: 3RD Street\nTHE PROPERTY CONSISTS OF THE LAND AND ALL THE BLDGS AND STRUCTURES ON THE LAND IN THE BOROUGH OF KEYPORT CO OF MONMOUTH AND STATE OF NEW JERSEY THE LEGAL DESCRIPTION IS BEGINNING AT A POINT IN THE WESTERLY LINE OF CHURCH STREET WHICH POINT IS THE NORTHEASTERLY CORNER OF THEODORE MARKS LOT AS IN JUNE 1834 IN DEED BOOK 258 PG 287 AND FROM SAID POINT OF BEGINNING RUNNING SOUTH 73 DEG 30 MIN WEST 100 FT TO A POINT THENCE NORTH 28 DEG 25 MIN WEST 39.50 FT TO A POINT THENCE NORTH 62 DEG 50 MIN 10 SEC EAST 97.88 FT A POINT IN THE WESTERLY LINE OF CHURCH ST AND FROM THENCE ALONG SAID LINE OF CHURCH ST SO 28 DEG 25 MIN EAST 58 FT TO THE POINT OR PLACE OF BEGINNING.\nPRIOR LIENS/ENCUMBRANCES:\nTotal as of June 5, 2024: $0.00\nGood faith estimate of upset price; $306,046.40\nThe occupancy status of the property being foreclosed herein is presently unknow",
+  "extracted": {
+    "lot": "Approximately",
+    "upset_amount": 306046.4
+  },
+  "fields": {
+    "Address": "40 Church Street\nKeyport NJ 07735",
+    "Approx. Judgment*": "$241,754.06",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F2324018",
+    "Defendant": "Daniel G. Fox, et al",
+    "Description": "Dimension of Lot Approximately: 58 X 98 AVG\nNearest Cross Street: 3RD Street\nTHE PROPERTY CONSISTS OF THE LAND AND ALL THE BLDGS AND STRUCTURES ON THE LAND IN THE BOROUGH OF KEYPORT CO OF MONMOUTH AND STATE OF NEW JERSEY THE LEGAL DESCRIPTION IS BEGINNING AT A POINT IN THE WESTERLY LINE OF CHURCH STREET WHICH POINT IS THE NORTHEASTERLY CORNER OF THEODORE MARKS LOT AS IN JUNE 1834 IN DEED BOOK 258 PG 287 AND FROM SAID POINT OF BEGINNING RUNNING SOUTH 73 DEG 30 MIN WEST 100 FT TO A POINT THENCE NORTH 28 DEG 25 MIN WEST 39.50 FT TO A POINT THENCE NORTH 62 DEG 50 MIN 10 SEC EAST 97.88 FT A POINT IN THE WESTERLY LINE OF CHURCH ST AND FROM THENCE ALONG SAID LINE OF CHURCH ST SO 28 DEG 25 MIN EAST 58 FT TO THE POINT OR PLACE OF BEGINNING.\nPRIOR LIENS/ENCUMBRANCES:\nTotal as of June 5, 2024: $0.00\nGood faith estimate of upset price; $306,046.40\nThe occupancy status of the property being foreclosed herein is presently unknow",
+    "Parcel #": "Lot 17, Block 81 Tax Map of the Borough of Keyport",
+    "Plaintiff": "JPMorgan Chase Bank, National Association",
+    "Property Note": "",
+    "Sales Date": "4/14/2025",
+    "Sheriff #": "FOR-24001334"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 241754.06,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40 Church Street Keyport NJ 07735",
+    "defendant": "Daniel G. Fox, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "JPMorgan Chase Bank, National Association",
+    "sale_date": "2025-04-14"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 17, Block 81 Tax Map of the Borough of Keyport",
+  "plaintiff": "JPMorgan Chase Bank, National Association",
+  "property_note": null,
+  "sale_date": "2025-04-14",
+  "sheriff_number": "FOR-24001334",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-14",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Scheduled"
+    }
+  ]
+}

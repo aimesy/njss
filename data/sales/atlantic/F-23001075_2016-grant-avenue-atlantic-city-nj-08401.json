@@ -1,0 +1,106 @@
+{
+  "address": "2016 Grant Avenue Atlantic City NJ 08401",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009853-22",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Eileen Davis and City of Atlantic City",
+  "extracted": {},
+  "fields": {
+    "Address": "2016 Grant Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$102,785.24",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-009853-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Eileen Davis and City of Atlantic City",
+    "Plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "2/13/2025",
+    "Sheriff #": "F-23001075",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 102785.24,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2016 Grant Avenue Atlantic City NJ 08401",
+    "defendant": "Eileen Davis and Cit...",
+    "listing_status": null,
+    "plaintiff": "New Jersey Housing a...",
+    "sale_date": "2025-02-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2025-02-13",
+  "sheriff_number": "F-23001075",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-13",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-06-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-05-16",
+      "status": "Consensual/Mutual Adjournment"
+    },
+    {
+      "date": "2024-04-18",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-02-15",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2023-12-14",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2023-11-16",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2023-10-26",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2023-09-28",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

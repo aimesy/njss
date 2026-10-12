@@ -1,0 +1,77 @@
+{
+  "address": "8 WAGON WHEEL DRIVE WITH A MAILING ADDRESS OF 8 WAGON WHEEL DRIVE, SICKLERVILLE, NJ 08081 WINSLOW NJ 08081",
+  "attorney": "FEIN SUCH KAHN & SHEPARD P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F931923",
+  "current_status": "Cancelled",
+  "defendant": "KEISHA J. HENRY, ET ALS.",
+  "extracted": {},
+  "fields": {
+    "Address": "8 WAGON WHEEL DRIVE\nWITH A MAILING ADDRESS OF 8 WAGON WHEEL DRIVE, SICKLERVILLE, NJ 08081\nWINSLOW NJ 08081",
+    "Approx. Upset*": "$152,459.81",
+    "Attorney": "FEIN SUCH KAHN & SHEPARD P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F931923",
+    "Defendant": "KEISHA J. HENRY, ET ALS.",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE UNDER SECURITIZATION\nSERVICING AGREEMENT DATED AS OF FEBRUARY 1, 2006 STRUCTURED ASSET\nSECURITES CORPORATION, STRUCTURED ASSET INVESTMENT LOAN TRUST\nMORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-BNC1",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "FR-24002911"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "8 WAGON WHEEL DRIVE WITH A MAILING ADDRESS OF 8 WAGON WHEEL DRIVE, SICKLERVILLE, NJ 08081 WINSLOW NJ 08081",
+    "defendant": "KEISHA J. HENRY, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE UNDER SECURITIZATION \nSERVICING AGREEMENT DATED AS OF FEBRUARY 1, 2006 STRUCTURED ASSET \nSECURITES CORPORATION, STRUCTURED ASSET INVESTMENT LOAN TRUST \nMORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-BNC1",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE UNDER SECURITIZATION SERVICING AGREEMENT DATED AS OF FEBRUARY 1, 2006 STRUCTURED ASSET SECURITES CORPORATION, STRUCTURED ASSET INVESTMENT LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-BNC1",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "FR-24002911",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-07-16",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-07-16",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 152459.81,
+  "upset_amount_label": "Approx. Upset*"
+}

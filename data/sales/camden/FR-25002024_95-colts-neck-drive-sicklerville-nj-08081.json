@@ -1,0 +1,61 @@
+{
+  "address": "95 COLTS NECK DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F753924",
+  "current_status": "Settled",
+  "defendant": "RITA MARTORANO; OIL WORKS INC.,",
+  "extracted": {},
+  "fields": {
+    "Address": "95 COLTS NECK DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$141,899.23",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F753924",
+    "Defendant": "RITA MARTORANO; OIL WORKS INC.,",
+    "Parcel #": "",
+    "Plaintiff": "SAILFISH SERVICING, LLC,",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "FR-25002024"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "95 COLTS NECK DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "RITA MARTORANO; OIL WORKS INC.,",
+    "listing_status": null,
+    "plaintiff": "SAILFISH SERVICING, LLC,",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "SAILFISH SERVICING, LLC,",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "FR-25002024",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 141899.23,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,59 @@
+{
+  "address": "148 W. CENTRE STREET WOODBURY NJ 08096",
+  "attorney": "Eisenberg, Gold & Agrawal, PC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-013986-23",
+  "current_status": "Cancelled",
+  "defendant": "AUDREY L. WHYTE; MR. WHYTE, FICTITIOUS SPOUSE OF AUDREY L. WHYTE",
+  "description": "UPSET BID ESTIMATE: $57,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "148 W. CENTRE STREET\nWOODBURY NJ 08096",
+    "Approximate Judgment": "$49,884.76",
+    "Attorney": "Eisenberg, Gold & Agrawal, PC",
+    "Court Case #": "F-013986-23",
+    "Defendant": "AUDREY L. WHYTE; MR. WHYTE, FICTITIOUS SPOUSE OF AUDREY L. WHYTE",
+    "Description": "UPSET BID ESTIMATE: $57,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "TAX LOT 7, BLOCK 72",
+    "Plaintiff": "FULTON BANK NA",
+    "Property Note": "MUNICIPALITY: CITY OF WOODBURY\nCOUNTY: GLOUCESTER\nSTATE: NEW JERSEY\nSTREET NO.: 148 W. CENTRE STREET, WOODBURY, NJ 08096\nTAX LOT AND BLOCK NOS.: 7 & 72\nTHE DIMENSIONS: 127.49 FEET x 27.94 FEET x 22.71 FEET x 20.86 FEET x 109.62 FEET x 50 FEET\nNO. OF FEET TO THE NEAREST CROSS STREET: 364 FEET TO SOUTH JACKSON STREET\nUPSET BID ESTIMATE: $57,000.00\nOCCUPANCY STATUS: UNKNOWN\nPURSUANT TO N.J.S.A. 2A:50-64, ET. SEQ., PLAINTIFF SETS THE UPSET BID FOR THE FORECLOSED PREMISES AT THE JUDGEMENT AMOUNT ($48,282.14) PLUS ALL POST-JUDGMENT INTEREST, TAXED COSTS AND SHERIFF'S COMMISSIONS AS ACCRUING THROUGH THE DATE OF THE SHERIFF'S SALE AND RESERVES ITS RIGHTS WITH RESPECT TO ANY POST-JUDGMENT MOTION FOR AN ORDER FOR ADDITIONAL SUMS, IF PROCURED FOLLOWING THE DATE OF THE SCHEDULING OF THE SALE.",
+    "Sales Date": "11/10/2025",
+    "Sheriff #": "F-25000866"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 49884.76,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "148 W. CENTRE STREET WOODBURY NJ 08096",
+    "defendant": "AUDREY L. WHYTE; MR. WHYTE, FICTITIOUS SPOUSE OF AUDREY L. WHYTE",
+    "listing_status": "Cancelled",
+    "plaintiff": "FULTON BANK NA",
+    "sale_date": "2025-11-10"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "TAX LOT 7, BLOCK 72",
+  "plaintiff": "FULTON BANK NA",
+  "property_note": "MUNICIPALITY: CITY OF WOODBURY\nCOUNTY: GLOUCESTER\nSTATE: NEW JERSEY\nSTREET NO.: 148 W. CENTRE STREET, WOODBURY, NJ 08096\nTAX LOT AND BLOCK NOS.: 7 & 72\nTHE DIMENSIONS: 127.49 FEET x 27.94 FEET x 22.71 FEET x 20.86 FEET x 109.62 FEET x 50 FEET\nNO. OF FEET TO THE NEAREST CROSS STREET: 364 FEET TO SOUTH JACKSON STREET\nUPSET BID ESTIMATE: $57,000.00\nOCCUPANCY STATUS: UNKNOWN\nPURSUANT TO N.J.S.A. 2A:50-64, ET. SEQ., PLAINTIFF SETS THE UPSET BID FOR THE FORECLOSED PREMISES AT THE JUDGEMENT AMOUNT ($48,282.14) PLUS ALL POST-JUDGMENT INTEREST, TAXED COSTS AND SHERIFF'S COMMISSIONS AS ACCRUING THROUGH THE DATE OF THE SHERIFF'S SALE AND RESERVES ITS RIGHTS WITH RESPECT TO ANY POST-JUDGMENT MOTION FOR AN ORDER FOR ADDITIONAL SUMS, IF PROCURED FOLLOWING THE DATE OF THE SCHEDULING OF THE SALE.",
+  "sale_date": "2025-11-10",
+  "sheriff_number": "F-25000866",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Cancelled"
+    }
+  ]
+}

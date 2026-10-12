@@ -1,0 +1,64 @@
+{
+  "address": "46 PIN OAK DRIVE NORTH BRUNSWICK NJ 08902",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00424424",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "KAREN A. IFILL, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$647,576.94",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00424424",
+    "Defendant": "KAREN A. IFILL, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 46 BLOCK 148.04",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF CSAB MORTGAGE-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-1",
+    "Property Address": "46 PIN OAK DRIVE\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "",
+    "Sale Date": "4/30/2025",
+    "Sheriff #": "F-25000066"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 647576.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "46 PIN OAK DRIVE NORTH BRUNSWICK NJ 08902",
+    "defendant": "KAREN A. IFILL, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF CSAB MORTGAGE-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-1",
+    "sale_date": "2025-04-30"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 46 BLOCK 148.04",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF CSAB MORTGAGE-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-1",
+  "property_note": null,
+  "sale_date": "2025-04-30",
+  "sheriff_number": "F-25000066",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-30",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

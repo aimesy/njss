@@ -1,0 +1,57 @@
+{
+  "address": "3 CIRCLE DR SICKLERVILLE NJ 08081",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01339325",
+  "current_status": "Defendant Adjournment",
+  "defendant": "EBONY CONEY, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "3 CIRCLE DR\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$289,420.95",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F01339325",
+    "Defendant": "EBONY CONEY, ET AL.",
+    "Parcel #": "LOT 3, BLOCK 16505 ON THE OFFICAL TAX MAP OF THE TOWNSHIP OF GLOUCESTER",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "Pursuant to 28 USC 2410(C) the sale is subject to a 1 year right of redemption held by the United States of America by virtue of its lien: subordinate mortgage: Hakeem Whitefield and Ebony Coney to Secretary of Housing and Urban Development, dated 01/23/2024 and recorded 02/15/2024 and book 12519, page 1044 as file number 2024010859, to secure $9,921.49",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-26001174"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3 CIRCLE DR SICKLERVILLE NJ 08081",
+    "defendant": "EBONY CONEY, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 3, BLOCK 16505 ON THE OFFICAL TAX MAP OF THE TOWNSHIP OF GLOUCESTER",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "Pursuant to 28 USC 2410(C) the sale is subject to a 1 year right of redemption held by the United States of America by virtue of its lien: subordinate mortgage: Hakeem Whitefield and Ebony Coney to Secretary of Housing and Urban Development, dated 01/23/2024 and recorded 02/15/2024 and book 12519, page 1044 as file number 2024010859, to secure $9,921.49",
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-26001174",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-30",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 289420.95,
+  "upset_amount_label": "Approx. Upset*"
+}

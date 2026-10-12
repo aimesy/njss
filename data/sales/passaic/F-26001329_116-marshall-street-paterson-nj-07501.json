@@ -1,0 +1,49 @@
+{
+  "address": "116 MARSHALL Street Paterson NJ 07501",
+  "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES& NEWBY, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 012340 25 CTL#163246",
+  "current_status": "Scheduled",
+  "defendant": "116 MARSHALL ST ASSOCIATES LLC, ET AL",
+  "description": "Dimensions (approx): 25x116\nNearest Cross Street: Slater Street",
+  "extracted": {},
+  "fields": {
+    "Address": "116 MARSHALL Street\nPaterson NJ 07501",
+    "Approx. Upset*": "$610,490.61",
+    "Attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES& NEWBY, LLP",
+    "Court Case #": "F 012340 25 CTL#163246",
+    "Defendant": "116 MARSHALL ST ASSOCIATES LLC, ET AL",
+    "Description": "Dimensions (approx): 25x116\nNearest Cross Street: Slater Street",
+    "Parcel #": "Tax Lot 14 Block 5904",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 33228",
+    "Property Note": "",
+    "Sales Date": "11/17/2026",
+    "Sheriff #": "F-26001329"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "116 MARSHALL Street Paterson NJ 07501",
+    "defendant": "116 MARSHALL ST ASSOCIATES LLC, ET AL",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 33228",
+    "sale_date": "2026-11-17"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 14 Block 5904",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 33228",
+  "property_note": null,
+  "sale_date": "2026-11-17",
+  "sheriff_number": "F-26001329",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-11-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 610490.61,
+  "upset_amount_label": "Approx. Upset*"
+}

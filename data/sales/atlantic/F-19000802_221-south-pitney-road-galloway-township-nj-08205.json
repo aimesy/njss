@@ -1,0 +1,58 @@
+{
+  "address": "221 South Pitney Road Galloway Township NJ 08205",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-020569-16 THIRD PLURIES",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Gary I. Conklin; Teresa D Conklin; Jerome Rosman; and State Of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "221 South Pitney Road\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$124,255.46",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-020569-16 THIRD PLURIES",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Gary I. Conklin; Teresa D Conklin; Jerome Rosman; and State Of New Jersey",
+    "Plaintiff": "Bank of America, N.A.,",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "3/20/2025",
+    "Sheriff #": "F-19000802",
+    "Upset Amount": "$225,998.41"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 124255.46,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "221 South Pitney Road Galloway Township NJ 08205",
+    "defendant": "Gary I. Conklin; Ter...",
+    "listing_status": null,
+    "plaintiff": "Bank of America, N.A...",
+    "sale_date": "2025-03-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank of America, N.A.,",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2025-03-20",
+  "sheriff_number": "F-19000802",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-20",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 225998.41,
+  "upset_amount_label": "Upset Amount"
+}

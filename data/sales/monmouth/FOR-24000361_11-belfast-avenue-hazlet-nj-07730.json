@@ -1,0 +1,91 @@
+{
+  "address": "11 Belfast Avenue Hazlet NJ 07730",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00495623",
+  "current_status": "Scheduled",
+  "defendant": "Craig Cannizzaro et al.",
+  "description": "Nearest Cross Street: Line Road\nApproximate Dimensions: 100.00ft x 70.00ft x 100.00ft x 70.00ft\nUPSET PRICE IS $574,514.81\nProperty is Occupied\nPursuant to a municipal tax search dated january 22,2024\nSubject to: 2024 2nd quarter taxes due 5/1/2024, $2,779.17 OPEN\nSewer: $412.81 open and due",
+  "extracted": {
+    "upset_amount": 574514.81
+  },
+  "fields": {
+    "Address": "11 Belfast Avenue\nHazlet NJ 07730",
+    "Approx. Judgment*": "$516,966.75",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00495623",
+    "Defendant": "Craig Cannizzaro et al.",
+    "Description": "Nearest Cross Street: Line Road\nApproximate Dimensions: 100.00ft x 70.00ft x 100.00ft x 70.00ft\nUPSET PRICE IS $574,514.81\nProperty is Occupied\nPursuant to a municipal tax search dated january 22,2024\nSubject to: 2024 2nd quarter taxes due 5/1/2024, $2,779.17 OPEN\nSewer: $412.81 open and due",
+    "Parcel #": "Lot: 6, Block: 244 on the Tax map of The Township of Hazlet",
+    "Plaintiff": "1900 Capital Trust II, by US Bank Trust National Association, not in its individual capacity but solely as Certificate Trustee",
+    "Property Note": "",
+    "Sales Date": "7/15/2025",
+    "Sheriff #": "FOR-24000361"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 516966.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 Belfast Avenue Hazlet NJ 07730",
+    "defendant": "Craig Cannizzaro et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "1900 Capital Trust II, by US Bank Trust National Association, not in its individual capacity but solely as Certificate Trustee",
+    "sale_date": "2025-07-15"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 6, Block: 244 on the Tax map of The Township of Hazlet",
+  "plaintiff": "1900 Capital Trust II, by US Bank Trust National Association, not in its individual capacity but solely as Certificate Trustee",
+  "property_note": null,
+  "sale_date": "2025-07-15",
+  "sheriff_number": "FOR-24000361",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-15",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-06-17",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-06-17",
+      "status": "Scheduled"
+    }
+  ]
+}

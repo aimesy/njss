@@ -1,0 +1,64 @@
+{
+  "address": "1204-06 LENOX AVENUE PLAINFIELD NJ 07060",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01158922",
+  "current_status": "Cancelled",
+  "defendant": "AARON BYNUM",
+  "description": "LOT 2 BLOCK 728",
+  "extracted": {
+    "block": "728",
+    "lot": "2"
+  },
+  "fields": {
+    "Address": "1204-06 LENOX AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$442,482.02",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F01158922",
+    "Defendant": "AARON BYNUM",
+    "Description": "LOT 2 BLOCK 728",
+    "Parcel #": "LOT 2 BLOCK 728",
+    "Plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "Property Note": "",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "CH-25002356"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1204-06 LENOX AVENUE PLAINFIELD NJ 07060",
+    "defendant": "AARON BYNUM",
+    "listing_status": null,
+    "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 2 BLOCK 728",
+  "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-18",
+  "sheriff_number": "CH-25002356",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 442482.02,
+  "upset_amount_label": "Approx. Upset*"
+}

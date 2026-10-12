@@ -1,0 +1,60 @@
+{
+  "address": "12 ELCO COURT BAYONNE NJ 07002",
+  "attorney": "DONALD M. ONORATO",
+  "attorney_phone": "(201)343-7222",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "HUD-DC-012313-25",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "JEANETTE L. JENSEN LIVING TRUST AND ROBERT L. JENSEN LIVING TRUST, LLC",
+  "description": "Block 47, Lot 8, Qualifier C 1606\nDimensions (approx.): 1800 square feet townhouse home\nUpset Bid Amount: $83,934.04\nNumber of Feet to Nearest Cross Street: Please note that with condominium units, there are no metes and bounds descriptions\nOccupancy Status: Occupied\nAmount Due for Taxes: Taxes due in the approximate amount $5,727.70 as of July 30, 2026.\nCURRENT AMOUNT DUE:\nBOATWORKS CONDOMINIUM ASSOCIATION, INC. $55,851.40\nCERTIFICATE OF SALE NO. 25-0006 $28,082.64\nSubject to : All unpaid municipal taxes, assessments, liens and other charges; Any set of fact which an accurate survey would disclose; Any restrictions or covenants on record which run with the land; Rights of the United States of America, if any; Any Condominium lien prior pursuant to 46: 88—21, if any; Any outstanding PUD or Homeowner's Association dues or fees, if any; Any occupants or persons in possession of the property, if any; Additionally municipal charges, liens, taxes or tax sale certificates and insurance, if any; and any such taxes, municipal liens or other charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount of unpaid taxes municipal liens and other charges can be obtained from the local taxing authority. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "block": "47",
+    "lot": "8",
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "12 ELCO COURT\nBAYONNE NJ 07002",
+    "Attorney": "DONALD M. ONORATO",
+    "Attorney Phone": "(201)343-7222",
+    "Court Case #": "HUD-DC-012313-25",
+    "Defendant": "JEANETTE L. JENSEN LIVING TRUST AND ROBERT L. JENSEN LIVING TRUST, LLC",
+    "Description": "Block 47, Lot 8, Qualifier C 1606\nDimensions (approx.): 1800 square feet townhouse home\nUpset Bid Amount: $83,934.04\nNumber of Feet to Nearest Cross Street: Please note that with condominium units, there are no metes and bounds descriptions\nOccupancy Status: Occupied\nAmount Due for Taxes: Taxes due in the approximate amount $5,727.70 as of July 30, 2026.\nCURRENT AMOUNT DUE:\nBOATWORKS CONDOMINIUM ASSOCIATION, INC. $55,851.40\nCERTIFICATE OF SALE NO. 25-0006 $28,082.64\nSubject to : All unpaid municipal taxes, assessments, liens and other charges; Any set of fact which an accurate survey would disclose; Any restrictions or covenants on record which run with the land; Rights of the United States of America, if any; Any Condominium lien prior pursuant to 46: 88—21, if any; Any outstanding PUD or Homeowner's Association dues or fees, if any; Any occupants or persons in possession of the property, if any; Additionally municipal charges, liens, taxes or tax sale certificates and insurance, if any; and any such taxes, municipal liens or other charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount of unpaid taxes municipal liens and other charges can be obtained from the local taxing authority. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Good Faith Upset*": "$83,934.04",
+    "Judgment": "$16,485.75",
+    "Plaintiff": "BOATWORKS CONDOMINIUM ASSOCIATION, INC.",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20063960"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 16485.75,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "12 ELCO COURT BAYONNE NJ 07002",
+    "defendant": "JEANETTE L. JENSEN LIVING TRUST AND ROBERT L. JENSEN LIVING TRUST, LLC",
+    "listing_status": null,
+    "plaintiff": "BOATWORKS CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "BOATWORKS CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20063960",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 83934.04,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,66 @@
+{
+  "address": "104 Theodore Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012372-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Leovigild B. Godoy; Shore Memorial Hospital; Midland Funding LLC; Wilmington Trust Company",
+  "extracted": {},
+  "fields": {
+    "Address": "104 Theodore Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$316,880.80",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-012372-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Leovigild B. Godoy; Shore Memorial Hospital; Midland Funding LLC; Wilmington Trust Company",
+    "Plaintiff": "U.S. Bank Trust Company, National Association, as Trustee, as Successor-in-Interest to U.S. Bank National Association, as Trustee for The Registered Holders of Mastr Asset Backed Securities Trust 2006-AM3, Mortgage Pass-Through Certificates, Series 2006-AM3",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "9/25/2025",
+    "Sheriff #": "F-25000568",
+    "Upset Amount": "$349,077.14"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 316880.8,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "104 Theodore Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Leovigild B. Godoy; ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Comp...",
+    "sale_date": "2025-09-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust Company, National Association, as Trustee, as Successor-in-Interest to U.S. Bank National Association, as Trustee for The Registered Holders of Mastr Asset Backed Securities Trust 2006-AM3, Mortgage Pass-Through Certificates, Series 2006-AM3",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-09-25",
+  "sheriff_number": "F-25000568",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-25",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-09-25",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-08-28",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-07-31",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 349077.14,
+  "upset_amount_label": "Upset Amount"
+}

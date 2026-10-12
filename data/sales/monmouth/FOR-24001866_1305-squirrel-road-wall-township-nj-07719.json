@@ -1,0 +1,89 @@
+{
+  "address": "1305 Squirrel Road Wall Township NJ 07719",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01027619",
+  "current_status": "Scheduled",
+  "defendant": "Paige B. Johnstone, Individually and as Adminstratrix of the Estate of Barbara Albanese, et al",
+  "description": "Dimensions of Lot: (Approximatley) 100.00 feet By 100.00 feet\nNearest Cross Street: Shore Drive\nThe estimated upset amount for the schedule sheriff sale is currently $535,000.00\nThe upset is not the same as a payoff or judgment redemption amount.\nThe property is Occupied by Unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "1305 Squirrel Road\nWall Township NJ 07719",
+    "Approx. Judgment*": "$593,564.17",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F01027619",
+    "Defendant": "Paige B. Johnstone, Individually and as Adminstratrix of the Estate of Barbara Albanese, et al",
+    "Description": "Dimensions of Lot: (Approximatley) 100.00 feet By 100.00 feet\nNearest Cross Street: Shore Drive\nThe estimated upset amount for the schedule sheriff sale is currently $535,000.00\nThe upset is not the same as a payoff or judgment redemption amount.\nThe property is Occupied by Unknown.",
+    "Parcel #": "Tax Lot No. 12 Block 130 Tax Map of the Township of Wall",
+    "Plaintiff": "Bank of America, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/20/2026",
+    "Sheriff #": "FOR-24001866"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 593564.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1305 Squirrel Road Wall Township NJ 07719",
+    "defendant": "Paige B. Johnstone, Individually and as Adminstratrix of the Estate of Barbara Albanese, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Bank of America, N.A.",
+    "sale_date": "2026-01-20"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 12 Block 130 Tax Map of the Township of Wall",
+  "plaintiff": "Bank of America, N.A.",
+  "property_note": null,
+  "sale_date": "2026-01-20",
+  "sheriff_number": "FOR-24001866",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-20",
+      "status": "Canceled"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    }
+  ]
+}

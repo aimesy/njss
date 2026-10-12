@@ -1,0 +1,65 @@
+{
+  "address": "360 LEONARD DRIVE NEW MILFORD NJ 07646",
+  "attorney": "GEIST LAW",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01058622",
+  "current_status": "Cancelled",
+  "defendant": "SUSAN GRAF, AKA SUSAN BERTOTTI GRAF; JAMES GRAF; ROBERT S BERTOTTI, ADMINISTRATOR OF THE ESTATE OF ANN W BERTOTTI AKA ANN BERTOTTI; ET AL",
+  "description": "THE APPROXIMATE UPSET SUM IS $62,873.84 CALCULATED THROUGH OCTOBER 20, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "360 LEONARD DRIVE\nNEW MILFORD NJ 07646",
+    "Approx. Upset*": "$50,415.10",
+    "Attorney": "GEIST LAW",
+    "Court Case #": "F01058622",
+    "Defendant": "SUSAN GRAF, AKA SUSAN BERTOTTI GRAF; JAMES GRAF; ROBERT S BERTOTTI, ADMINISTRATOR OF THE ESTATE OF ANN W BERTOTTI AKA ANN BERTOTTI; ET AL",
+    "Description": "THE APPROXIMATE UPSET SUM IS $62,873.84 CALCULATED THROUGH OCTOBER 20, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKOWN.",
+    "Parcel #": "LOT 8, BLOCK 1705 FKA LOT 9, BLOCK 169",
+    "Plaintiff": "WELLS FARGO BANK, NA",
+    "Property Note": "",
+    "Sales Date": "3/20/2026",
+    "Sheriff #": "F-25002628"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "360 LEONARD DRIVE NEW MILFORD NJ 07646",
+    "defendant": "SUSAN GRAF, AKA SUSAN BERTOTTI GRAF; JAMES GRAF; ROBERT S BERTOTTI, ADMINISTRATOR OF THE ESTATE OF ANN W BERTOTTI AKA ANN BERTOTTI; ET AL",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, NA",
+    "sale_date": "2026-03-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 8, BLOCK 1705 FKA LOT 9, BLOCK 169",
+  "plaintiff": "WELLS FARGO BANK, NA",
+  "property_note": null,
+  "sale_date": "2026-03-20",
+  "sheriff_number": "F-25002628",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "BANKRUPTCY"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 50415.1,
+  "upset_amount_label": "Approx. Upset*"
+}

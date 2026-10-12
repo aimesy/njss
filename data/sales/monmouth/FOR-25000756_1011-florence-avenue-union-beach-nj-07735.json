@@ -1,0 +1,72 @@
+{
+  "address": "1011 Florence Avenue Union Beach NJ 07735",
+  "attorney": "Stern & Eisenberg",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00898924",
+  "current_status": "Scheduled",
+  "defendant": "Daniel J. Wozny",
+  "description": "Approximate Dimensions: 43' x 100'\nNearest Cross Street: Ninth Street\nTaxes and Other Encumbrances:\nTaxes current through 1st Quarter of 2025\nWater-Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer open balance in the amount of $115.00, good through April 1, 2025*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $322, 165.46, good through September 12, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown.",
+    "upset_amount": 322.0
+  },
+  "fields": {
+    "Address": "1011 Florence Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$300,125.06",
+    "Attorney": "Stern & Eisenberg",
+    "Court Case #": "F00898924",
+    "Defendant": "Daniel J. Wozny",
+    "Description": "Approximate Dimensions: 43' x 100'\nNearest Cross Street: Ninth Street\nTaxes and Other Encumbrances:\nTaxes current through 1st Quarter of 2025\nWater-Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer open balance in the amount of $115.00, good through April 1, 2025*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $322, 165.46, good through September 12, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT",
+    "Parcel #": "Tax Lot #3 Block #60.01 Tax Map of the Borough of Union Beach",
+    "Plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Property Note": "",
+    "Sales Date": "11/13/2025",
+    "Sheriff #": "FOR-25000756"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 300125.06,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1011 Florence Avenue Union Beach NJ 07735",
+    "defendant": "Daniel J. Wozny",
+    "listing_status": "Settled",
+    "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "sale_date": "2025-11-13"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot #3 Block #60.01 Tax Map of the Borough of Union Beach",
+  "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+  "property_note": null,
+  "sale_date": "2025-11-13",
+  "sheriff_number": "FOR-25000756",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-13",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Scheduled"
+    }
+  ]
+}

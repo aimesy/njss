@@ -1,0 +1,67 @@
+{
+  "address": "25-34 SOUTHERN DRIVE FAIR LAWN NJ 07410",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00792124",
+  "current_status": "Cancelled",
+  "defendant": "KARRIEM SHABAZZ; KIMIKO SHABAZZ; ET AL",
+  "description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $499,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "25-34 SOUTHERN DRIVE\nFAIR LAWN NJ 07410",
+    "Approx. Upset*": "$458,364.04",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F00792124",
+    "Defendant": "KARRIEM SHABAZZ; KIMIKO SHABAZZ; ET AL",
+    "Description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $499,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 16, BLOCK 3415",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "F-25001229"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "25-34 SOUTHERN DRIVE FAIR LAWN NJ 07410",
+    "defendant": "KARRIEM SHABAZZ; KIMIKO SHABAZZ; ET AL",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 16, BLOCK 3415",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25001229",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-07-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 458364.04,
+  "upset_amount_label": "Approx. Upset*"
+}

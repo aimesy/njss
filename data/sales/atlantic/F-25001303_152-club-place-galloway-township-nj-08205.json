@@ -1,0 +1,74 @@
+{
+  "address": "152 Club Place Galloway Township NJ 08205",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005060-25",
+  "current_status": "Scheduled",
+  "deed": "CSMC 2021-RPL11 Trust",
+  "deed_address": "3217 S. Decker Lake Drive Salt Lake City, UT 84119",
+  "defendant": "Thomas J. Strehle; The Club at Galloway Condominium Association Inc; New Jersey Housing and Mortgage Finance Agency",
+  "extracted": {},
+  "fields": {
+    "Address": "152 Club Place\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$161,124.11",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-005060-25",
+    "Deed": "CSMC 2021-RPL11 Trust",
+    "Deed Address": "3217 S. Decker Lake Drive Salt Lake City, UT 84119",
+    "Defendant": "Thomas J. Strehle; The Club at Galloway Condominium Association Inc; New Jersey Housing and Mortgage Finance Agency",
+    "Plaintiff": "CSMC 2021-RPL11",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "6/4/2026",
+    "Sheriff #": "F-25001303",
+    "Upset Amount": "$169,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 161124.11,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "152 Club Place Galloway Township NJ 08205",
+    "defendant": "Thomas J. Strehle; T...",
+    "listing_status": null,
+    "plaintiff": "CSMC 2021-RPL11...",
+    "sale_date": "2026-06-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "CSMC 2021-RPL11",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2026-06-04",
+  "sheriff_number": "F-25001303",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-06-04",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-06-04",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 169500.0,
+  "upset_amount_label": "Upset Amount"
+}

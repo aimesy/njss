@@ -1,0 +1,61 @@
+{
+  "address": "2138 STECHER AVENUE UNION NJ 07083",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00970524",
+  "current_status": "Scheduled",
+  "defendant": "AMELIA E. ROBINSON",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "2138 STECHER AVENUE\nUNION NJ 07083",
+    "Approx. Upset*": "$209,944.08",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F00970524",
+    "Defendant": "AMELIA E. ROBINSON",
+    "Description": "",
+    "Parcel #": "LOT 17 BLOCK 5222",
+    "Plaintiff": "CARDINAL FINANCIAL COMPANY, LIMITED PARTNERSHIP",
+    "Property Note": "Dimensions of Lot: (Approximately) 34.33 feet wide\nBy 100 feet long\nNearest Cross Street: Orange Avenue\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION\nSurplus Money: If after the sale and satisfaction of the mongage debt including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any\nThe estimated upset amount for the scheduled sheriff sale is currently $249,192.60 The upset price is not the same as a payoff or judgment redemption amount.\nProperty is occupied by unknown",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "CH-25000097"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2138 STECHER AVENUE UNION NJ 07083",
+    "defendant": "AMELIA E. ROBINSON",
+    "listing_status": null,
+    "plaintiff": "CARDINAL FINANCIAL COMPANY, LIMITED PARTNERSHIP",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 17 BLOCK 5222",
+  "plaintiff": "CARDINAL FINANCIAL COMPANY, LIMITED PARTNERSHIP",
+  "property_note": "Dimensions of Lot: (Approximately) 34.33 feet wide\nBy 100 feet long\nNearest Cross Street: Orange Avenue\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION\nSurplus Money: If after the sale and satisfaction of the mongage debt including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any\nThe estimated upset amount for the scheduled sheriff sale is currently $249,192.60 The upset price is not the same as a payoff or judgment redemption amount.\nProperty is occupied by unknown",
+  "sale_date": "2026-07-01",
+  "sheriff_number": "CH-25000097",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-02-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-06-04",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 209944.08,
+  "upset_amount_label": "Approx. Upset*"
+}

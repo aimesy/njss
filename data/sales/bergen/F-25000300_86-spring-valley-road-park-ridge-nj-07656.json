@@ -1,0 +1,61 @@
+{
+  "address": "86 SPRING VALLEY ROAD PARK RIDGE NJ 07656",
+  "attorney": "LAW OFFICE OF ERNEST G IANETTI, ESQ",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00935724",
+  "current_status": "BANKRUPTCY",
+  "defendant": "SPRING VALLEY PARTNERS, LLC; FREEMONT HOLDINGS, LLC, ET AL.",
+  "description": "THIS IS A COMMERCIAL PROPERTY – NOT SUBJECT TO CWPP REQUIREMENTS",
+  "extracted": {},
+  "fields": {
+    "Address": "86 SPRING VALLEY ROAD\nPARK RIDGE NJ 07656",
+    "Approx. Upset*": "$433,690.64",
+    "Attorney": "LAW OFFICE OF ERNEST G IANETTI, ESQ",
+    "Court Case #": "F00935724",
+    "Defendant": "SPRING VALLEY PARTNERS, LLC; FREEMONT HOLDINGS, LLC, ET AL.",
+    "Description": "THIS IS A COMMERCIAL PROPERTY – NOT SUBJECT TO CWPP REQUIREMENTS",
+    "Parcel #": "LOT 4, BLOCK 903",
+    "Plaintiff": "NEWTEK BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "10/20/2025",
+    "Sheriff #": "F-25000300"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "86 SPRING VALLEY ROAD PARK RIDGE NJ 07656",
+    "defendant": "SPRING VALLEY PARTNERS, LLC; FREEMONT HOLDINGS, LLC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEWTEK BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2025-10-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 4, BLOCK 903",
+  "plaintiff": "NEWTEK BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-10-20",
+  "sheriff_number": "F-25000300",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-03-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-30",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-27",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-20",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 433690.64,
+  "upset_amount_label": "Approx. Upset*"
+}

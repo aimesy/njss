@@ -1,0 +1,60 @@
+{
+  "address": "79-93 MONTGOMERY Street UNIT 4B Paterson NJ 07505",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004680 25 CTL#163200",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "VERONIQUE P. WATKINS, ET AL",
+  "description": "Dimensions (approx): Condo\nNearest Cross Street: Summer Street\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98)\nTax Certificate: Recorded: September 03,2015\nHolder: PC 4 LLC, Amount $413.89\nBook M13615 Page:59\nInstrument Number:2016-000315\nTax Certificate: Recorded: October 28,2019\nHolder: PC 4 LLC Amount $0.00\nBook: AS683 Page: 114\nInstrument Number\nTax Certificate: Recorded: March 05,2025\nHolder: ProCap 8 FBO FirstTrust Bank Amount $466.66\nBook:M19290 PAge 31\nInstrument Number\nAffordable Housing Restriction\nRecorded: October 08,2009\nHolder: Veronique Prescott-Watkins\nBook: D1830 Page 19\nINstrument Number\nGood Faith Estimated Upset Price: $314,498.52\nOccupancy Status: Occupied",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 314498.52
+  },
+  "fields": {
+    "Address": "79-93 MONTGOMERY Street\nUNIT 4B\nPaterson NJ 07505",
+    "Approx. Upset*": "$288,409.63",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F 004680 25 CTL#163200",
+    "Defendant": "VERONIQUE P. WATKINS, ET AL",
+    "Description": "Dimensions (approx): Condo\nNearest Cross Street: Summer Street\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98)\nTax Certificate: Recorded: September 03,2015\nHolder: PC 4 LLC, Amount $413.89\nBook M13615 Page:59\nInstrument Number:2016-000315\nTax Certificate: Recorded: October 28,2019\nHolder: PC 4 LLC Amount $0.00\nBook: AS683 Page: 114\nInstrument Number\nTax Certificate: Recorded: March 05,2025\nHolder: ProCap 8 FBO FirstTrust Bank Amount $466.66\nBook:M19290 PAge 31\nInstrument Number\nAffordable Housing Restriction\nRecorded: October 08,2009\nHolder: Veronique Prescott-Watkins\nBook: D1830 Page 19\nINstrument Number\nGood Faith Estimated Upset Price: $314,498.52\nOccupancy Status: Occupied",
+    "Parcel #": "Tax Lot 28 Qual. C0402 Block 3109",
+    "Plaintiff": "U.S BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF CABANA SERIES V TRUST",
+    "Property Note": "",
+    "Sales Date": "10/27/2026",
+    "Sheriff #": "F-26000833"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "79-93 MONTGOMERY Street UNIT 4B Paterson NJ 07505",
+    "defendant": "VERONIQUE P. WATKINS, ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF CABANA SERIES V TRUST",
+    "sale_date": "2026-10-27"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 28 Qual. C0402 Block 3109",
+  "plaintiff": "U.S BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF CABANA SERIES V TRUST",
+  "property_note": null,
+  "sale_date": "2026-10-27",
+  "sheriff_number": "F-26000833",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-09-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-10-27",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": 288409.63,
+  "upset_amount_label": "Approx. Upset*"
+}

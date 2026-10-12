@@ -1,0 +1,58 @@
+{
+  "address": "26 North Georgia Avenue Rear 3 Atlantic City NJ 08401",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011728-23",
+  "current_status": "Scheduled",
+  "deed": "US Bank Trust National Association, Not In Its Individual Capacity But Soley As Owner Trustee For VRMTG Asset Trust",
+  "deed_address": "383 Madison Avenue New York, NY 10178",
+  "defendant": "Salvatore Pisano; Unknown Occupants #1-10 N/K/A Jose (LAST NAME REFUSED), Occupant; United States of America; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "26 North Georgia Avenue\nRear 3\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$169,557.00",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-011728-23",
+    "Deed": "US Bank Trust National Association, Not In Its Individual Capacity But Soley As Owner Trustee For VRMTG Asset Trust",
+    "Deed Address": "383 Madison Avenue New York, NY 10178",
+    "Defendant": "Salvatore Pisano; Unknown Occupants #1-10 N/K/A Jose (LAST NAME REFUSED), Occupant; United States of America; State of New Jersey",
+    "Plaintiff": "US Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+    "Priors": "Fig 20, LLC FBO SEC PTY / Tax Certificate 22-10243, amount: $883.81\nFig 20, LLC FBO SEC PTY / Tax Certificate 23-10276, amount: $387.42\nTotal: $1,271.23",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "3/27/2025",
+    "Sheriff #": "F-25000096",
+    "Upset Amount": "$108,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 169557.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "26 North Georgia Avenue Rear 3 Atlantic City NJ 08401",
+    "defendant": "Salvatore Pisano; Un...",
+    "listing_status": null,
+    "plaintiff": "US Bank Trust Nation...",
+    "sale_date": "2025-03-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "US Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+  "priors": "Fig 20, LLC FBO SEC PTY / Tax Certificate 22-10243, amount: $883.81 Fig 20, LLC FBO SEC PTY / Tax Certificate 23-10276, amount: $387.42 Total: $1,271.23",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-03-27",
+  "sheriff_number": "F-25000096",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-27",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-03-27",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 108000.0,
+  "upset_amount_label": "Upset Amount"
+}

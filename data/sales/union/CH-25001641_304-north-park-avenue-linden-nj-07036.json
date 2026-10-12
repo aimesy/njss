@@ -1,0 +1,64 @@
+{
+  "address": "304 NORTH PARK AVENUE LINDEN NJ 07036",
+  "attorney": "HILL WALLACK LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00856224",
+  "current_status": "Purchased",
+  "defendant": "FRANCISCO VAZQUEZ; MRS./MR. VAZQUEZ, SPOUSE OR CIVIL UNION PARTNER OF FRANCISCO VAZQUEZ; MARTYNA KNAPCZYK; MR./MRS. KNAPCZYK, SPOUSE OR CIVIL UNION PARTNER OF MARTYNA KNAPCZYK; UNITED STATES OF AMERICA; MAYRA LAGUER GAL; NATALIE LAGUER INF; ANDREA RITES; COUNTY OF MIDDLESEX; STATE OF NEW JERSEY",
+  "description": "LOT 21.02 BLOCK 9",
+  "extracted": {
+    "block": "9",
+    "lot": "21.02"
+  },
+  "fields": {
+    "Address": "304 NORTH PARK AVENUE\nLINDEN NJ 07036",
+    "Approx. Upset*": "$313,877.55",
+    "Attorney": "HILL WALLACK LLP",
+    "Court Case #": "F00856224",
+    "Defendant": "FRANCISCO VAZQUEZ; MRS./MR. VAZQUEZ, SPOUSE OR CIVIL UNION PARTNER OF FRANCISCO VAZQUEZ; MARTYNA KNAPCZYK; MR./MRS. KNAPCZYK, SPOUSE OR CIVIL UNION PARTNER OF MARTYNA KNAPCZYK; UNITED STATES OF AMERICA; MAYRA LAGUER GAL; NATALIE LAGUER INF; ANDREA RITES; COUNTY OF MIDDLESEX; STATE OF NEW JERSEY",
+    "Description": "LOT 21.02 BLOCK 9",
+    "Parcel #": "LOT 21.02 BLOCK 9",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "12/10/2025",
+    "Sheriff #": "CH-25001641"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "304 NORTH PARK AVENUE LINDEN NJ 07036",
+    "defendant": "FRANCISCO VAZQUEZ; MRS./MR. VAZQUEZ, SPOUSE OR CIVIL UNION PARTNER OF FRANCISCO VAZQUEZ; MARTYNA KNAPCZYK; MR./MRS. KNAPCZYK, SPOUSE OR CIVIL UNION PARTNER OF MARTYNA KNAPCZYK; UNITED STATES OF AMERICA; MAYRA LAGUER GAL; NATALIE LAGUER INF; ANDREA RITES; COUNTY OF MIDDLESEX; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 21.02 BLOCK 9",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2025-12-10",
+  "sheriff_number": "CH-25001641",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-09-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-08",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 313877.55,
+  "upset_amount_label": "Approx. Upset*"
+}

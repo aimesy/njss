@@ -1,0 +1,67 @@
+{
+  "address": "503 Church Street Long Branch NJ 07740",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00099324",
+  "current_status": "Scheduled",
+  "defendant": "Kevin L. Kenny et al.",
+  "description": "Dimensions of Lot (Approximate): 43.33' x 215' approx\nNearest Cross Street: White Street\nApprox Upset Price - $80,096.29\nProperty Status - Borrower Occupied\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium /Homeowner Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation.To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 80096.29
+  },
+  "fields": {
+    "Address": "503 Church Street\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$73,657.79",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F00099324",
+    "Defendant": "Kevin L. Kenny et al.",
+    "Description": "Dimensions of Lot (Approximate): 43.33' x 215' approx\nNearest Cross Street: White Street\nApprox Upset Price - $80,096.29\nProperty Status - Borrower Occupied\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium /Homeowner Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation.To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Tax Lot: # Block: # Located on the tax map of the City of Long Branch",
+    "Plaintiff": "Citizens Bank N.A.",
+    "Property Note": "",
+    "Sales Date": "5/19/2025",
+    "Sheriff #": "FOR-24001973"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 73657.79,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "503 Church Street Long Branch NJ 07740",
+    "defendant": "Kevin L. Kenny et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Citizens Bank N.A.",
+    "sale_date": "2025-05-19"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: # Block: # Located on the tax map of the City of Long Branch",
+  "plaintiff": "Citizens Bank N.A.",
+  "property_note": null,
+  "sale_date": "2025-05-19",
+  "sheriff_number": "FOR-24001973",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-19",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

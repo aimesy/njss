@@ -1,0 +1,76 @@
+{
+  "address": "135 HAZELWOOD AVENUE METUCHEN NJ 08840",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00266125",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "JOHN SMYTH AKA JOHN D. SMYTH, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$394,703.77",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00266125",
+    "Defendant": "JOHN SMYTH AKA JOHN D. SMYTH, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 61 BLOCK 224",
+    "Plaintiff": "LEGACY MORTGAGE ASSET TRUST 2019-RPL1",
+    "Property Address": "135 HAZELWOOD AVENUE\nMETUCHEN NJ 08840",
+    "Property Note": "The property to be sold is located in the BORO of METUCHEN in the County of MIDDLESEX and State of New Jersey.\nCommonly known as 135 HAZELWOOD AVE, METUCHEN, NJ 08840\nTax LOT 61 BLOCK 224\nDimensions of Lot: 50X100\nNearest Cross Street: Oakland Ave.\nEstimated upset bid amount: $454,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.",
+    "Sale Date": "12/2/2026",
+    "Sheriff #": "F-25002072"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 394703.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "135 HAZELWOOD AVENUE METUCHEN NJ 08840",
+    "defendant": "JOHN SMYTH AKA JOHN D. SMYTH, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2019-RPL1",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 61 BLOCK 224",
+  "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2019-RPL1",
+  "property_note": "The property to be sold is located in the BORO of METUCHEN in the County of MIDDLESEX and State of New Jersey.\nCommonly known as 135 HAZELWOOD AVE, METUCHEN, NJ 08840\nTax LOT 61 BLOCK 224\nDimensions of Lot: 50X100\nNearest Cross Street: Oakland Ave.\nEstimated upset bid amount: $454,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-25002072",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled - Foreclosure"
+    },
+    {
+      "date": "2026-08-26",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

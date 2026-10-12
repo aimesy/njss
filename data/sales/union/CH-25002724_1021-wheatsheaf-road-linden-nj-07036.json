@@ -1,0 +1,68 @@
+{
+  "address": "1021 WHEATSHEAF ROAD LINDEN NJ 07036",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00085625",
+  "current_status": "Cancelled",
+  "defendant": "JOSE ALMEIDA",
+  "description": "LOT 8 BLOCK 188",
+  "extracted": {
+    "block": "188",
+    "lot": "8"
+  },
+  "fields": {
+    "Address": "1021 WHEATSHEAF ROAD\nLINDEN NJ 07036",
+    "Approx. Upset*": "$256,501.26",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F00085625",
+    "Defendant": "JOSE ALMEIDA",
+    "Description": "LOT 8 BLOCK 188",
+    "Parcel #": "LOT 8 BLOCK 188",
+    "Plaintiff": "BANK OF CAMDEN N/K/A APEX BANK",
+    "Property Note": "",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "CH-25002724"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1021 WHEATSHEAF ROAD LINDEN NJ 07036",
+    "defendant": "JOSE ALMEIDA",
+    "listing_status": null,
+    "plaintiff": "BANK OF CAMDEN N/K/A APEX BANK",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 8 BLOCK 188",
+  "plaintiff": "BANK OF CAMDEN N/K/A APEX BANK",
+  "property_note": null,
+  "sale_date": "2026-06-17",
+  "sheriff_number": "CH-25002724",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 256501.26,
+  "upset_amount_label": "Approx. Upset*"
+}

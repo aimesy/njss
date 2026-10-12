@@ -1,0 +1,51 @@
+{
+  "address": "134-136 North 6TH Street Paterson NJ 07522",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 006824 25 CTL#163257",
+  "current_status": "Scheduled",
+  "defendant": "JOSE A. MARTINEZ, ET ALS",
+  "description": "Approximate Dimensions: 47.98 x 100 x 22.98 x 32.36 x 67.88\nNearest Cross Street: Jefferson Street:\nOccupancy Status: Occupied\nEstimated upset Sheriffs sale bid amount: $185,000.00, subject to any further orders of additional sums executed by the court.",
+  "extracted": {
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "134-136 North 6TH Street\nPaterson NJ 07522",
+    "Approx. Upset*": "$165,504.14",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Court Case #": "F 006824 25 CTL#163257",
+    "Defendant": "JOSE A. MARTINEZ, ET ALS",
+    "Description": "Approximate Dimensions: 47.98 x 100 x 22.98 x 32.36 x 67.88\nNearest Cross Street: Jefferson Street:\nOccupancy Status: Occupied\nEstimated upset Sheriffs sale bid amount: $185,000.00, subject to any further orders of additional sums executed by the court.",
+    "Parcel #": "Tax Lot 30 Block 503",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS OF THE CWMBS INC. CHL MORTGAGE PASS-THROUGH TRUST 2005-HYB8, MORTGAGE PASS THROUGH CERTIFICATES, SERIES 2005-HYB8",
+    "Property Note": "",
+    "Sales Date": "12/1/2026",
+    "Sheriff #": "F-26001394"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "134-136 North 6TH Street Paterson NJ 07522",
+    "defendant": "JOSE A. MARTINEZ, ET ALS",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS OF THE CWMBS INC. CHL MORTGAGE PASS-THROUGH TRUST 2005-HYB8, MORTGAGE PASS THROUGH CERTIFICATES, SERIES 2005-HYB8",
+    "sale_date": "2026-12-01"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 30 Block 503",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS OF THE CWMBS INC. CHL MORTGAGE PASS-THROUGH TRUST 2005-HYB8, MORTGAGE PASS THROUGH CERTIFICATES, SERIES 2005-HYB8",
+  "property_note": null,
+  "sale_date": "2026-12-01",
+  "sheriff_number": "F-26001394",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-12-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 165504.14,
+  "upset_amount_label": "Approx. Upset*"
+}

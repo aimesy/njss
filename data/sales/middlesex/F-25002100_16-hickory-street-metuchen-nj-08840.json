@@ -1,0 +1,56 @@
+{
+  "address": "16 HICKORY STREET METUCHEN NJ 08840",
+  "attorney": "PINCUS & TARAB",
+  "attorney_file_number": null,
+  "attorney_phone": "516-699-8902",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01190424",
+  "current_status": "Settled",
+  "defendant": "LUCAS L. CUCUCCIO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$183,543.18",
+    "Attorney": "PINCUS & TARAB",
+    "Attorney File #": "",
+    "Attorney Phone": "516-699-8902",
+    "Court Case #": "F01190424",
+    "Defendant": "LUCAS L. CUCUCCIO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 9 BLOCK 217",
+    "Plaintiff": "TH MSR HOLDINGS LLC",
+    "Property Address": "16 HICKORY STREET\nMETUCHEN NJ 08840",
+    "Property Note": "",
+    "Sale Date": "10/15/2025",
+    "Sheriff #": "F-25002100"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 183543.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "16 HICKORY STREET METUCHEN NJ 08840",
+    "defendant": "LUCAS L. CUCUCCIO, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "TH MSR HOLDINGS LLC",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 9 BLOCK 217",
+  "plaintiff": "TH MSR HOLDINGS LLC",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-25002100",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

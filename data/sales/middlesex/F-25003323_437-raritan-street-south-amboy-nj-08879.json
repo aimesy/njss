@@ -1,0 +1,72 @@
+{
+  "address": "437 RARITAN STREET SOUTH AMBOY NJ 08879",
+  "attorney": "STERN & EISENBERG P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "609 397-9200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00489325",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "ANNA LADA AKA ANN LADA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$243,174.35",
+    "Attorney": "STERN & EISENBERG P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "609 397-9200",
+    "Court Case #": "F00489325",
+    "Defendant": "ANNA LADA AKA ANN LADA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "ROCKET MORTGAGE, LLC FKA QUICKEN LOANS, LLC FKA QUICKEN LOANS INC.",
+    "Property Address": "437 RARITAN STREET\nSOUTH AMBOY NJ 08879",
+    "Property Note": "",
+    "Sale Date": "5/6/2026",
+    "Sheriff #": "F-25003323"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 243174.35,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "437 RARITAN STREET SOUTH AMBOY NJ 08879",
+    "defendant": "ANNA LADA AKA ANN LADA, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "ROCKET MORTGAGE, LLC FKA QUICKEN LOANS, LLC FKA QUICKEN LOANS INC.",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "ROCKET MORTGAGE, LLC FKA QUICKEN LOANS, LLC FKA QUICKEN LOANS INC.",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "F-25003323",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-05-06",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

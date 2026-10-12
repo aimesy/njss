@@ -1,0 +1,57 @@
+{
+  "address": "1006 SOCIETY HILL CHERRY HILL NJ 08003",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01384325",
+  "current_status": "Defendant Adjournment",
+  "defendant": "ARTHUR D. CITRON; HOLLIS E. GROSS A/K/A HOLLIS E. CITRON A/K/A HOLLIS ELIZABETH GROSS-CITRON; WELLS FARGO BANK F/K/A WACHOVIS BANK, NA; STATE OF NEW JERSEY; UNITES STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "1006 SOCIETY HILL\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$229,042.58",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01384325",
+    "Defendant": "ARTHUR D. CITRON; HOLLIS E. GROSS A/K/A HOLLIS E. CITRON A/K/A HOLLIS\nELIZABETH GROSS-CITRON; WELLS FARGO BANK F/K/A WACHOVIS BANK,\nNA; STATE OF NEW JERSEY; UNITES STATES OF AMERICA",
+    "Parcel #": "TAX LOT 1 QUALIFIER C1006 BLOCK 437.03",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 202-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+    "Property Note": "2026 QTR 2 DUE: 05/01/2026 $2,249.41 OPEN\nSEWER: CHERRY HILL TWP 820 MERCER ST CHERRY HILL, NJ 08002 856-488-7880 ACCT: 17031 0 01/01/2026-12/31/2026 $95.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT: 090139148 04/01/2026 -06/30/2026 $93.00 OPEN AND DUE 05/15/2026 $465.00 OPEN PLUS PENALTY.",
+    "Sales Date": "8/17/2026",
+    "Sheriff #": "FR-26001196"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1006 SOCIETY HILL CHERRY HILL NJ 08003",
+    "defendant": "ARTHUR D. CITRON; HOLLIS E. GROSS A/K/A HOLLIS E. CITRON A/K/A HOLLIS \nELIZABETH GROSS-CITRON; WELLS FARGO BANK F/K/A WACHOVIS BANK, \nNA; STATE OF NEW JERSEY; UNITES STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 202-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+    "sale_date": "2026-08-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 1 QUALIFIER C1006 BLOCK 437.03",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 202-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+  "property_note": "2026 QTR 2 DUE: 05/01/2026 $2,249.41 OPEN\nSEWER: CHERRY HILL TWP 820 MERCER ST CHERRY HILL, NJ 08002 856-488-7880 ACCT: 17031 0 01/01/2026-12/31/2026 $95.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT: 090139148 04/01/2026 -06/30/2026 $93.00 OPEN AND DUE 05/15/2026 $465.00 OPEN PLUS PENALTY.",
+  "sale_date": "2026-08-17",
+  "sheriff_number": "FR-26001196",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 229042.58,
+  "upset_amount_label": "Approx. Upset*"
+}

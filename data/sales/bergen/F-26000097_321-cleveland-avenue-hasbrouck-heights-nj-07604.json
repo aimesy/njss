@@ -1,0 +1,75 @@
+{
+  "address": "321 CLEVELAND AVENUE HASBROUCK HEIGHTS NJ 07604",
+  "attorney": "MCCABE WEISBERG AND CONWAY LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00814225",
+  "current_status": "Cancelled",
+  "defendant": "MICHAEL KARCIC, MELISSA KARCIC, ET AL",
+  "description": "APPROX UPSET PRICE: $575,382.53\nPROPERTY STATUS: BORROWER OCCUPIED",
+  "extracted": {
+    "upset_amount": 575382.53
+  },
+  "fields": {
+    "Address": "321 CLEVELAND AVENUE\nHASBROUCK HEIGHTS NJ 07604",
+    "Approx. Upset*": "$526,377.66",
+    "Attorney": "MCCABE WEISBERG AND CONWAY LLC",
+    "Court Case #": "F00814225",
+    "Defendant": "MICHAEL KARCIC, MELISSA KARCIC, ET AL",
+    "Description": "APPROX UPSET PRICE: $575,382.53\nPROPERTY STATUS: BORROWER OCCUPIED",
+    "Parcel #": "LOT 19, BLOCK 52",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "9/24/2026",
+    "Sheriff #": "F-26000097"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "321 CLEVELAND AVENUE HASBROUCK HEIGHTS NJ 07604",
+    "defendant": "MICHAEL KARCIC, MELISSA KARCIC, ET AL",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-09-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 19, BLOCK 52",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-09-24",
+  "sheriff_number": "F-26000097",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-02-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-07-10",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-08-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-09-18",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 526377.66,
+  "upset_amount_label": "Approx. Upset*"
+}

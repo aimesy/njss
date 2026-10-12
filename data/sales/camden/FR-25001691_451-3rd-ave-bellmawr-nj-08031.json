@@ -1,0 +1,53 @@
+{
+  "address": "451 3RD AVE BELLMAWR NJ 08031",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01030922",
+  "current_status": "Scheduled",
+  "defendant": "KELLY CORGLIANO AND MR. KELLY CORGLIANO, HER HUSBAND; ATLANTIC CREDIT AND FINANCE ASSIGNEE OF HOUSEHOLD BANK;",
+  "extracted": {},
+  "fields": {
+    "Address": "451 3RD AVE\nBELLMAWR NJ 08031",
+    "Approx. Upset*": "$175,124.19",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F01030922",
+    "Defendant": "KELLY CORGLIANO AND MR. KELLY CORGLIANO, HER HUSBAND; ATLANTIC\nCREDIT AND FINANCE ASSIGNEE OF HOUSEHOLD BANK;",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "10/15/2025",
+    "Sheriff #": "FR-25001691"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "451 3RD AVE BELLMAWR NJ 08031",
+    "defendant": "KELLY CORGLIANO AND MR. KELLY CORGLIANO, HER HUSBAND; ATLANTIC \nCREDIT AND FINANCE ASSIGNEE OF HOUSEHOLD BANK;",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "FR-25001691",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-08-07",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 175124.19,
+  "upset_amount_label": "Approx. Upset*"
+}

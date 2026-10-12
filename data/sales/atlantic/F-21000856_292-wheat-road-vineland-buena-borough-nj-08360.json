@@ -1,0 +1,70 @@
+{
+  "address": "292 Wheat Road Vineland, (Buena Borough) NJ 08360",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010034-20 ALIAS",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Joseph G. Fabrizio; Patricia Fabrizio, Action Supply, Inc., Kennedy Concrete, Inc., and State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "292 Wheat Road\nVineland, (Buena Borough) NJ 08360",
+    "Approx. Judgment*": "$295,975.66",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-010034-20 ALIAS",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Joseph G. Fabrizio; Patricia Fabrizio, Action Supply, Inc., Kennedy Concrete, Inc., and State of New Jersey",
+    "Plaintiff": "Carisbrook Asset Holding Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "10/28/2025",
+    "Sheriff #": "F-21000856",
+    "Upset Amount": "$352,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 295975.66,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "292 Wheat Road Vineland, (Buena Borough) NJ 08360",
+    "defendant": "Joseph G. Fabrizio; ...",
+    "listing_status": null,
+    "plaintiff": "Carisbrook Asset Hol...",
+    "sale_date": "2025-10-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Carisbrook Asset Holding Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-10-28",
+  "sheriff_number": "F-21000856",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-28",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-01-25",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-01-25",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 352000.0,
+  "upset_amount_label": "Upset Amount"
+}

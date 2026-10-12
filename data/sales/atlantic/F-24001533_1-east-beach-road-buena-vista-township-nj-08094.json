@@ -1,0 +1,74 @@
+{
+  "address": "1 East Beach Road Buena Vista Township NJ 08094",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006334-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Lisa M. Johnson; Collings Lakes Civic Association, Inc.; White Hall Manor Condominium Association Inc and State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "1 East Beach Road\nBuena Vista Township NJ 08094",
+    "Approx. Judgment*": "$43,032.89",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-006334-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Lisa M. Johnson; Collings Lakes Civic Association, Inc.; White Hall Manor Condominium Association Inc and State of New Jersey",
+    "Plaintiff": "MEB Loan Trust VI",
+    "Priors": "First Mortgage recorded on 01/06/06, amount: $108,000.00",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "5/15/2025",
+    "Sheriff #": "F-24001533",
+    "Upset Amount": "$49,479.22"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 43032.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1 East Beach Road Buena Vista Township NJ 08094",
+    "defendant": "Lisa M. Johnson; Col...",
+    "listing_status": null,
+    "plaintiff": "MEB Loan Trust VI...",
+    "sale_date": "2025-05-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "MEB Loan Trust VI",
+  "priors": "First Mortgage recorded on 01/06/06, amount: $108,000.00",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-05-15",
+  "sheriff_number": "F-24001533",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-15",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-05-15",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-17",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 49479.22,
+  "upset_amount_label": "Upset Amount"
+}

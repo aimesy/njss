@@ -1,0 +1,66 @@
+{
+  "address": "2823 Schooner Lane Hammonton NJ 08037",
+  "attorney": "Friedman Vartolo, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001484-22",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank Trust N.A. As Trustee of The Cabana Series IV Trust",
+  "deed_address": "7114 East Stetson Drive, Suite 250, Scottsdale, AZ 85251",
+  "defendant": "Bernard A. Rothman; Nancy Rothman; Ronald Rothman; SPF Trust 2013-1; Sunnova Management, LLC; State of New Jersey; JPMorgan Chase Bank, National Association; Sweetwater Haven Association, Inc.; Unknown Occupants #1-10 N/K/A Michaelle (Last Name Refused) Occupant",
+  "extracted": {},
+  "fields": {
+    "Address": "2823 Schooner Lane\nHammonton NJ 08037",
+    "Approx. Judgment*": "$621,412.31",
+    "Attorney": "Friedman Vartolo, LLP",
+    "Court Case #": "F-001484-22",
+    "Deed": "U.S. Bank Trust N.A. As Trustee of The Cabana Series IV Trust",
+    "Deed Address": "7114 East Stetson Drive, Suite 250, Scottsdale, AZ 85251",
+    "Defendant": "Bernard A. Rothman; Nancy Rothman; Ronald Rothman; SPF Trust 2013-1; Sunnova Management, LLC; State of New Jersey; JPMorgan Chase Bank, National Association; Sweetwater Haven Association, Inc.; Unknown Occupants #1-10 N/K/A Michaelle (Last Name Refused) Occupant",
+    "Plaintiff": "U.S. Bank Trust, N.A. as Trustee of the Cabana Series IV Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "3/13/2025",
+    "Sheriff #": "F-24001509",
+    "Upset Amount": "$497,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 621412.31,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2823 Schooner Lane Hammonton NJ 08037",
+    "defendant": "Bernard A. Rothman; ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust, N.A...",
+    "sale_date": "2025-03-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust, N.A. as Trustee of the Cabana Series IV Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-03-13",
+  "sheriff_number": "F-24001509",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-13",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 497500.0,
+  "upset_amount_label": "Upset Amount"
+}

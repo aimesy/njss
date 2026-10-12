@@ -1,0 +1,65 @@
+{
+  "address": "39 FRANCES DRIVE CLARK NJ 07066",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00312224",
+  "current_status": "Cancelled",
+  "defendant": "ANTONIO SIEIRA; ESTHER M. SIEIRA-ALVAREZ. HUSBAND AND WIFE; JUAN J. ALVAREZ; STATE OF NEW JERSEY",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "39 FRANCES DRIVE\nCLARK NJ 07066",
+    "Approx. Upset*": "$465,044.07",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F00312224",
+    "Defendant": "ANTONIO SIEIRA; ESTHER M. SIEIRA-ALVAREZ. HUSBAND AND WIFE; JUAN J. ALVAREZ; STATE OF NEW JERSEY",
+    "Description": "",
+    "Parcel #": "LOT 23 BLOCK 52",
+    "Plaintiff": "SUN WEST MORTGAGE COMPANY, INC.",
+    "Property Note": "Dimensions of the Lot are (Approximately) 148.16 x 102.10 x 150.00 x 32.02 x 70.11\nNearest Cross Street: Raritan Road\nThe Sheriff hereby reserves the right to adjourn this sale without further notice through publication.\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments, The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/homeowner association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe occupancy status of the subject property is unknown.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money, The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate upset sum is $525,290.86 calculated through April 9, 2026 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+    "Sales Date": "7/29/2026",
+    "Sheriff #": "CH-26000791"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "39 FRANCES DRIVE CLARK NJ 07066",
+    "defendant": "ANTONIO SIEIRA; ESTHER M. SIEIRA-ALVAREZ. HUSBAND AND WIFE; JUAN J. ALVAREZ; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "SUN WEST MORTGAGE COMPANY, INC.",
+    "sale_date": "2026-07-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 23 BLOCK 52",
+  "plaintiff": "SUN WEST MORTGAGE COMPANY, INC.",
+  "property_note": "Dimensions of the Lot are (Approximately) 148.16 x 102.10 x 150.00 x 32.02 x 70.11\nNearest Cross Street: Raritan Road\nThe Sheriff hereby reserves the right to adjourn this sale without further notice through publication.\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments, The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any condominium/homeowner association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe occupancy status of the subject property is unknown.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money, The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate upset sum is $525,290.86 calculated through April 9, 2026 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+  "sale_date": "2026-07-29",
+  "sheriff_number": "CH-26000791",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 465044.07,
+  "upset_amount_label": "Approx. Upset*"
+}

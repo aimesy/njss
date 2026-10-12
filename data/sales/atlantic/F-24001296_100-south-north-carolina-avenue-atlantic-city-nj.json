@@ -1,0 +1,58 @@
+{
+  "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+  "attorney": "K&L Gates, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008990-23",
+  "current_status": "Scheduled",
+  "deed": "Wyndham Vacation Resorts, Inc",
+  "deed_address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+  "defendant": "Jesse S. Hizenski and Ella Mae E. Hizenski, Trustees under the Hizenski Family Trust, Dated October 17, 2006 (Property I); Jesse S. Hizenski and Ella Mae E. Hizenski, Trustees under the Hizenski Family Trust, Dated October 17, 2006 (Property II); Mary Martin, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Carl J. Martin, Executor",
+  "extracted": {},
+  "fields": {
+    "Address": "100 South North Carolina Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$2,060.49",
+    "Attorney": "K&L Gates, LLP",
+    "Court Case #": "F-008990-23",
+    "Deed": "Wyndham Vacation Resorts, Inc",
+    "Deed Address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+    "Defendant": "Jesse S. Hizenski and Ella Mae E. Hizenski, Trustees under the Hizenski Family Trust, Dated October 17, 2006 (Property I); Jesse S. Hizenski and Ella Mae E. Hizenski, Trustees under the Hizenski Family Trust, Dated October 17, 2006 (Property II); Mary Martin, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Carl J. Martin, Executor",
+    "Plaintiff": "Skyline Tower Vacation Condominium Association, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: Property is not vacant, tenant-occupied or owner occupied but instead is a timeshare vacation property.",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-24001296",
+    "Upset Amount": "$774.99"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 2060.49,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+    "defendant": "Jesse S. Hizenski an...",
+    "listing_status": null,
+    "plaintiff": "Skyline Tower Vacati...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Skyline Tower Vacation Condominium Association, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: Property is not vacant, tenant-occupied or owner occupied but instead is a timeshare vacation property.",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24001296",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 774.99,
+  "upset_amount_label": "Upset Amount"
+}

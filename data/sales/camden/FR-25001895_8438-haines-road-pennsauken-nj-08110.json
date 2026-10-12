@@ -1,0 +1,57 @@
+{
+  "address": "8438 HAINES ROAD PENNSAUKEN NJ 08110",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01014024",
+  "current_status": "Defendant Adjournment",
+  "defendant": "CLAYTON GONZALEZ, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "8438 HAINES ROAD\nPENNSAUKEN NJ 08110",
+    "Approx. Upset*": "$213,941.34",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F01014024",
+    "Defendant": "CLAYTON GONZALEZ, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "SELENE FINANCE LP",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-25001895"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "8438 HAINES ROAD PENNSAUKEN NJ 08110",
+    "defendant": "CLAYTON GONZALEZ, ET AL.",
+    "listing_status": null,
+    "plaintiff": "SELENE FINANCE LP",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "SELENE FINANCE LP",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-25001895",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 213941.34,
+  "upset_amount_label": "Approx. Upset*"
+}

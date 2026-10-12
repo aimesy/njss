@@ -1,0 +1,66 @@
+{
+  "address": "515 6th Road (Buena Vista Twp) Newtonville NJ 08346",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-013097-18 PLURIES",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Leonard Hicks; Kevin Andersons Well Drilling and Water; New Century Financial Services Inc; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "515 6th Road\n(Buena Vista Twp)\nNewtonville NJ 08346",
+    "Approx. Judgment*": "$234,080.80",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-013097-18 PLURIES",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Leonard Hicks; Kevin Andersons Well Drilling and Water; New Century Financial Services Inc; United States of America",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-19000256",
+    "Upset Amount": "$301,361.31"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 234080.8,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "515 6th Road (Buena Vista Twp) Newtonville NJ 08346",
+    "defendant": "Leonard Hicks; Kevin...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-19000256",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 301361.31,
+  "upset_amount_label": "Upset Amount"
+}

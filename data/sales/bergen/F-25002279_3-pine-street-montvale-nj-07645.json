@@ -1,0 +1,71 @@
+{
+  "address": "3 PINE STREET MONTVALE NJ 07645",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00294525",
+  "current_status": "Cancelled",
+  "defendant": "RICHARD T KARA; ANNA KARA AKA ANNA C KARA; ET AL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $852,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "3 PINE STREET\nMONTVALE NJ 07645",
+    "Approx. Upset*": "$770,183.10",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F00294525",
+    "Defendant": "RICHARD T KARA; ANNA KARA AKA ANNA C KARA; ET AL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $852,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 2, BLOCK 1503",
+    "Plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "Property Note": "",
+    "Sales Date": "4/16/2026",
+    "Sheriff #": "F-25002279"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3 PINE STREET MONTVALE NJ 07645",
+    "defendant": "RICHARD T KARA; ANNA KARA AKA ANNA C KARA; ET AL",
+    "listing_status": null,
+    "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "sale_date": "2026-04-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2, BLOCK 1503",
+  "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+  "property_note": null,
+  "sale_date": "2026-04-16",
+  "sheriff_number": "F-25002279",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 770183.1,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,68 @@
+{
+  "address": "1427 46TH STREET NORTH BERGEN NJ 07047",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011893-22",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "FREDDY GRULLON A/K/A FREDDY J GRULLON; RATIBA LAFI GRULLON; PNC BANK",
+  "description": "TAX LOT 38 BLOCK 153\nDIMENSIONS OF LOT: 25X115\nNEAREST CROSS STREET: MEADOWVIEW AVENUE\nESTIMATED UPSET BID AMOUNT: $1,263,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: TENANT OCCUPIED\nSEWER: NORTH BERGEN MUA 6200 TONNELLE AVE. NORTH BERGEN, NJ 07047 201-422-0100 ACCT: 34002155 0 12/01/2025 - 02/28/2026 $566.66 OPEN\nLIENS: YEAR: 2023 TYPE: 3RD PARTY SEWER AMOUNT: $6,396.05 CERT NO.: 24-00087 SOLD: 12/06/2024 TO: FIG 20, LLC FBO SEC PTY\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES.",
+  "extracted": {
+    "block": "153",
+    "lot": "38",
+    "occupancy": "TENANT OCCUPIED"
+  },
+  "fields": {
+    "Address": "1427 46TH STREET\nNORTH BERGEN NJ 07047",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-011893-22",
+    "Defendant": "FREDDY GRULLON A/K/A FREDDY J GRULLON; RATIBA LAFI GRULLON; PNC BANK",
+    "Description": "TAX LOT 38 BLOCK 153\nDIMENSIONS OF LOT: 25X115\nNEAREST CROSS STREET: MEADOWVIEW AVENUE\nESTIMATED UPSET BID AMOUNT: $1,263,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: TENANT OCCUPIED\nSEWER: NORTH BERGEN MUA 6200 TONNELLE AVE. NORTH BERGEN, NJ 07047 201-422-0100 ACCT: 34002155 0 12/01/2025 - 02/28/2026 $566.66 OPEN\nLIENS: YEAR: 2023 TYPE: 3RD PARTY SEWER AMOUNT: $6,396.05 CERT NO.: 24-00087 SOLD: 12/06/2024 TO: FIG 20, LLC FBO SEC PTY\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES.",
+    "Good Faith Upset*": "$1,263,000.00",
+    "Judgment": "$1,023,735.94",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Note": "**DEF USED ADJS. SEE FILE 20053384.**",
+    "Sales Date": "7/29/2026",
+    "Sheriff #": "20061134"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1023735.94,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1427 46TH STREET NORTH BERGEN NJ 07047",
+    "defendant": "FREDDY GRULLON A/K/A FREDDY J GRULLON; RATIBA LAFI GRULLON; PNC BANK",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2026-07-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": "**DEF USED ADJS. SEE FILE 20053384.**",
+  "sale_date": "2026-07-29",
+  "sheriff_number": "20061134",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-01-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 1263000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,61 @@
+{
+  "address": "28 EVERGREEN ROAD BOROUGH OF STRATFORD NJ 08084",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "attorney_phone": "(973) 325-8800",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00687524",
+  "current_status": "Defendant Adjournment",
+  "defendant": "LAURA T PADIN; JOSEPH BEDNARIK; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+  "extracted": {},
+  "fields": {
+    "Address": "28 EVERGREEN ROAD\nBOROUGH OF STRATFORD NJ 08084",
+    "Approx. Upset*": "$134,970.64",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00687524",
+    "Defendant": "LAURA T PADIN; JOSEPH BEDNARIK; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+    "Parcel #": "",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
+    "Property Note": "",
+    "Sales Date": "10/23/2025",
+    "Sheriff #": "FR-25000648"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "28 EVERGREEN ROAD BOROUGH OF STRATFORD NJ 08084",
+    "defendant": "LAURA T PADIN; JOSEPH BEDNARIK; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
+    "sale_date": "2025-10-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
+  "property_note": null,
+  "sale_date": "2025-10-23",
+  "sheriff_number": "FR-25000648",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-05-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 134970.64,
+  "upset_amount_label": "Approx. Upset*"
+}

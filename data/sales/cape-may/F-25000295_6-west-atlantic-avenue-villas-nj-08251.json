@@ -1,0 +1,64 @@
+{
+  "address": "6 West ATLANTIC Avenue Villas NJ 08251",
+  "attorney": "Friedman Vartolo, LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "212-471-5100",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-001550-22",
+  "current_status": "Scheduled",
+  "defendant": "FRANKLYN P MCCLOSKEY, JR., ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$374,387.94",
+    "Attorney": "Friedman Vartolo, LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-001550-22",
+    "Defendant": "FRANKLYN P MCCLOSKEY, JR., ET AL",
+    "Description": "",
+    "Minimum Bid": "$382,255.90",
+    "Parcel #": "LOT(s) 8 & 9, BLOCK 137",
+    "Plaintiff": "**BANKRUPTCY HOLD**U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "Property Address": "6 West ATLANTIC Avenue\nVillas NJ 08251",
+    "Property Note": "",
+    "Sale Date": "12/10/2025",
+    "Sheriff #": "F-25000295"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 374387.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 West ATLANTIC Avenue Villas NJ 08251",
+    "defendant": "FRANKLYN P MCCLOSKEY, JR., ET AL",
+    "listing_status": null,
+    "plaintiff": "**BANKRUPTCY HOLD**U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "sale_date": "2025-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT(s) 8 & 9, BLOCK 137",
+  "plaintiff": "**BANKRUPTCY HOLD**U.S. BANK TRUST NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-12-10",
+  "sheriff_number": "F-25000295",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-12-10",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 382255.9,
+  "upset_amount_label": "Minimum Bid"
+}

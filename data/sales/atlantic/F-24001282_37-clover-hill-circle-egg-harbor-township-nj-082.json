@@ -1,0 +1,58 @@
+{
+  "address": "37 Clover Hill Circle Egg Harbor Township NJ 08234",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001408-23",
+  "current_status": "Scheduled",
+  "deed": "AHASAN Realty LLC",
+  "deed_address": "410 Montrose Lane Galloway, NJ 08205",
+  "defendant": "Paolla Charles",
+  "extracted": {},
+  "fields": {
+    "Address": "37 Clover Hill Circle\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$296,718.16",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-001408-23",
+    "Deed": "AHASAN Realty LLC",
+    "Deed Address": "410 Montrose Lane Galloway, NJ 08205",
+    "Defendant": "Paolla Charles",
+    "Plaintiff": "Crosscountry Mortgage, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCPIED BY UNKNOWN",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-24001282",
+    "Upset Amount": "$325,900.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 296718.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "37 Clover Hill Circle Egg Harbor Township NJ 08234",
+    "defendant": "Paolla Charles...",
+    "listing_status": null,
+    "plaintiff": "Crosscountry Mortgag...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Crosscountry Mortgage, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCPIED BY UNKNOWN",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24001282",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 325900.0,
+  "upset_amount_label": "Upset Amount"
+}

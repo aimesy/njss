@@ -1,0 +1,68 @@
+{
+  "address": "98-100 LAFAYETE Street Paterson NJ 07501",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 010710 23 CTRL# 126769",
+  "current_status": "Cancelled",
+  "defendant": "LUCRECIA B. WRIGHT, ET ALS",
+  "description": "DIMENSIONS (APPROX.): 37 X 100\nNEAREST CROSS STREET: SUMMER ST.\nIMPORTANT:\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nTAX CERTIFICATE RECORDED: MARCH 20, 2023 AMOUNT: $810.26 BOOK: 18419 PAGE: 199 INSTRUMENT NUMBER: 23-00568\nGOOD FAITH ESTIMATED UPSET PRICE: $765,679.93\nOCCUPANCY STATUS: OCCUPIED ON UNKNOWN",
+  "extracted": {
+    "occupancy": "OCCUPIED ON UNKNOWN",
+    "upset_amount": 765679.93
+  },
+  "fields": {
+    "Address": "98-100 LAFAYETE Street\nPaterson NJ 07501",
+    "Approx. Upset*": "$697,699.41",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 010710 23 CTRL# 126769",
+    "Defendant": "LUCRECIA B. WRIGHT, ET ALS",
+    "Description": "DIMENSIONS (APPROX.): 37 X 100\nNEAREST CROSS STREET: SUMMER ST.\nIMPORTANT:\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nTAX CERTIFICATE RECORDED: MARCH 20, 2023 AMOUNT: $810.26 BOOK: 18419 PAGE: 199 INSTRUMENT NUMBER: 23-00568\nGOOD FAITH ESTIMATED UPSET PRICE: $765,679.93\nOCCUPANCY STATUS: OCCUPIED ON UNKNOWN",
+    "Parcel #": "TAX LOT(S): 13 IN BLOCK: 3109",
+    "Plaintiff": "U.S. BANK TRUST N.A., ETC",
+    "Property Note": "",
+    "Sales Date": "11/6/2025",
+    "Sheriff #": "F-24001103"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "98-100 LAFAYETE Street Paterson NJ 07501",
+    "defendant": "LUCRECIA B. WRIGHT, ET ALS",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST N.A., ETC",
+    "sale_date": "2025-11-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT(S): 13 IN BLOCK: 3109",
+  "plaintiff": "U.S. BANK TRUST N.A., ETC",
+  "property_note": null,
+  "sale_date": "2025-11-06",
+  "sheriff_number": "F-24001103",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2024-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-10-08",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-10-08",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-11-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 697699.41,
+  "upset_amount_label": "Approx. Upset*"
+}

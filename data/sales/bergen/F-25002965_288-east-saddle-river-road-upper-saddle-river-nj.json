@@ -1,0 +1,55 @@
+{
+  "address": "288 EAST SADDLE RIVER ROAD UPPER SADDLE RIVER NJ 07458",
+  "attorney": "PARKER MCCAY PA",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00032624",
+  "current_status": "Cancelled",
+  "defendant": "2 HILLARD AVE LLC; FOUAD SAMAAN, ET AL.",
+  "description": "UPSET PRICE: $894,758.99 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+  "extracted": {
+    "upset_amount": 894758.99
+  },
+  "fields": {
+    "Address": "288 EAST SADDLE RIVER ROAD\nUPPER SADDLE RIVER NJ 07458",
+    "Approx. Upset*": "$777,703.75",
+    "Attorney": "PARKER MCCAY PA",
+    "Court Case #": "F00032624",
+    "Defendant": "2 HILLARD AVE LLC; FOUAD SAMAAN, ET AL.",
+    "Description": "UPSET PRICE: $894,758.99 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+    "Parcel #": "LOT 18, BLOCK 1218",
+    "Plaintiff": "CREDIT SUISSE FIRST BOSTON MORTGAGE SECURITIES CORP. CSFB MORTGAGE-BACKED PASS-THROUGH CERTIFICATES, SERIES 2003-17, U.S. BANK NATIONAL ASSOCIATION , AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK ONE, NATIONAL ASSOCIATION, AS TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "2/6/2026",
+    "Sheriff #": "F-25002965"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "288 EAST SADDLE RIVER ROAD UPPER SADDLE RIVER NJ 07458",
+    "defendant": "2 HILLARD AVE LLC; FOUAD SAMAAN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CREDIT SUISSE FIRST BOSTON MORTGAGE SECURITIES CORP. CSFB MORTGAGE-BACKED PASS-THROUGH CERTIFICATES, SERIES 2003-17, U.S. BANK NATIONAL ASSOCIATION , AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK ONE, NATIONAL ASSOCIATION, AS TRUSTEE",
+    "sale_date": "2026-02-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 18, BLOCK 1218",
+  "plaintiff": "CREDIT SUISSE FIRST BOSTON MORTGAGE SECURITIES CORP. CSFB MORTGAGE-BACKED PASS-THROUGH CERTIFICATES, SERIES 2003-17, U.S. BANK NATIONAL ASSOCIATION , AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK ONE, NATIONAL ASSOCIATION, AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-02-06",
+  "sheriff_number": "F-25002965",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 777703.75,
+  "upset_amount_label": "Approx. Upset*"
+}

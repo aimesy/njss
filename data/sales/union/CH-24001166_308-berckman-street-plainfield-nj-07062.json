@@ -1,0 +1,64 @@
+{
+  "address": "308 BERCKMAN STREET PLAINFIELD NJ 07062",
+  "attorney": "PARKER MCCAY",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01689819",
+  "current_status": "Settled",
+  "defendant": "NAMON M. JACKSON, JR.; MRS. NAMON M. JACKSON, JR., HIS WIFE; UNITED STATES OF AMERICA; ELAINE L. LLOYD; BANK OF AMERICA, N.A.; MIDLAND FUNDING LLC; WELLS FARGO BANK, N.A.",
+  "description": "LOT 15 BLOCK 303",
+  "extracted": {
+    "block": "303",
+    "lot": "15"
+  },
+  "fields": {
+    "Address": "308 BERCKMAN STREET\nPLAINFIELD NJ 07062",
+    "Approx. Upset*": "$87,531.00",
+    "Attorney": "PARKER MCCAY",
+    "Court Case #": "F01689819",
+    "Defendant": "NAMON M. JACKSON, JR.; MRS. NAMON M. JACKSON, JR., HIS WIFE; UNITED STATES OF AMERICA; ELAINE L. LLOYD; BANK OF AMERICA, N.A.; MIDLAND FUNDING LLC; WELLS FARGO BANK, N.A.",
+    "Description": "LOT 15 BLOCK 303",
+    "Parcel #": "LOT 15 BLOCK 303",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "11/12/2025",
+    "Sheriff #": "CH-24001166"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "308 BERCKMAN STREET PLAINFIELD NJ 07062",
+    "defendant": "NAMON M. JACKSON, JR.; MRS. NAMON M. JACKSON, JR., HIS WIFE; UNITED STATES OF AMERICA; ELAINE L. LLOYD; BANK OF AMERICA, N.A.; MIDLAND FUNDING LLC; WELLS FARGO BANK, N.A.",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2025-11-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 15 BLOCK 303",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2025-11-12",
+  "sheriff_number": "CH-24001166",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-06-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-08-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-08-07",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 87531.0,
+  "upset_amount_label": "Approx. Upset*"
+}

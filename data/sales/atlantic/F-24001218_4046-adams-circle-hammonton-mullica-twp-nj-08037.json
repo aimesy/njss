@@ -1,0 +1,58 @@
+{
+  "address": "4046 Adams Circle Hammonton (Mullica Twp) NJ 08037",
+  "attorney": "Pincus Law Group, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009996-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Liseet Beltran; Ahasan Realty, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "4046 Adams Circle\nHammonton (Mullica Twp) NJ 08037",
+    "Approx. Judgment*": "$107,271.58",
+    "Attorney": "Pincus Law Group, PLLC",
+    "Court Case #": "F-009996-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Liseet Beltran; Ahasan Realty, LLC",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24001218",
+    "Upset Amount": "$119,783.66"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 107271.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4046 Adams Circle Hammonton (Mullica Twp) NJ 08037",
+    "defendant": "Liseet Beltran; Ahas...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24001218",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 119783.66,
+  "upset_amount_label": "Upset Amount"
+}

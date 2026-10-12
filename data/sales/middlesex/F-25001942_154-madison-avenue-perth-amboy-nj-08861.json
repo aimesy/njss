@@ -1,0 +1,64 @@
+{
+  "address": "154 MADISON AVENUE PERTH AMBOY NJ 08861",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00173825",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "LUIS M. PENA A/K/A LUIS PENA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$428,395.48",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00173825",
+    "Defendant": "LUIS M. PENA A/K/A LUIS PENA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 49 BLOCK 33",
+    "Plaintiff": "CREDIT SUISSE FIRST BOSTON MORTGAGE SECURITIES CORP., CSMC MORTGAGE-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-3, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "Property Address": "154 MADISON AVENUE\nPERTH AMBOY NJ 08861",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25001942"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 428395.48,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "154 MADISON AVENUE PERTH AMBOY NJ 08861",
+    "defendant": "LUIS M. PENA A/K/A LUIS PENA, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "CREDIT SUISSE FIRST BOSTON MORTGAGE SECURITIES CORP., CSMC MORTGAGE-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-3, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 49 BLOCK 33",
+  "plaintiff": "CREDIT SUISSE FIRST BOSTON MORTGAGE SECURITIES CORP., CSMC MORTGAGE-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-3, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25001942",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

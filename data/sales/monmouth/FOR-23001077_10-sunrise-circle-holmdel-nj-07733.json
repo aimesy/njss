@@ -1,0 +1,92 @@
+{
+  "address": "10 Sunrise Circle Holmdel NJ 07733",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01125722",
+  "current_status": "Scheduled",
+  "defendant": "Kathleen M. Kenny, et al",
+  "description": "Dimensions (Approx.): 2938 sq. ft.\nNearest Cross Street: Stony Brook Road\nGood Faith Estimated Upset Price: $380,932.63\nOccupancy status: OWNER OCCUPIED\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-598-98).",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 380932.63
+  },
+  "fields": {
+    "Address": "10 Sunrise Circle\nHolmdel NJ 07733",
+    "Approx. Judgment*": "$309,829.77",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F01125722",
+    "Defendant": "Kathleen M. Kenny, et al",
+    "Description": "Dimensions (Approx.): 2938 sq. ft.\nNearest Cross Street: Stony Brook Road\nGood Faith Estimated Upset Price: $380,932.63\nOccupancy status: OWNER OCCUPIED\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-598-98).",
+    "Parcel #": "Lot(s) 7, Block 50.10 Tax Map of the Township of Holmdel",
+    "Plaintiff": "U.S. Bank Trust, National Association, As Trustee of the Bungalow Series IV Trust",
+    "Property Note": "",
+    "Sales Date": "7/21/2025",
+    "Sheriff #": "FOR-23001077"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 309829.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 Sunrise Circle Holmdel NJ 07733",
+    "defendant": "Kathleen M. Kenny, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "U.S. Bank Trust, National Association, As Trustee of the Bungalow Series IV Trust",
+    "sale_date": "2025-07-21"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot(s) 7, Block 50.10 Tax Map of the Township of Holmdel",
+  "plaintiff": "U.S. Bank Trust, National Association, As Trustee of the Bungalow Series IV Trust",
+  "property_note": null,
+  "sale_date": "2025-07-21",
+  "sheriff_number": "FOR-23001077",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-21",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-08-28",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-08-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-07-31",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-07-03",
+      "status": "Scheduled"
+    }
+  ]
+}

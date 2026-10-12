@@ -1,0 +1,58 @@
+{
+  "address": "100 S North Carolina Avenue Atlantic City NJ 08401",
+  "attorney": "K&L Gates, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009005-23",
+  "current_status": "Scheduled",
+  "deed": "Wyndham Vacation Resorts, Inc",
+  "deed_address": "100 S. North Carolina Avenue Atlantic City, NJ 08401",
+  "defendant": "Scott Raper, DeeAnn Garrett, Melvin Sample and Denise Dade Sample",
+  "extracted": {},
+  "fields": {
+    "Address": "100 S North Carolina Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$1,221.15",
+    "Attorney": "K&L Gates, LLP",
+    "Court Case #": "F-009005-23",
+    "Deed": "Wyndham Vacation Resorts, Inc",
+    "Deed Address": "100 S. North Carolina Avenue Atlantic City, NJ 08401",
+    "Defendant": "Scott Raper, DeeAnn Garrett, Melvin Sample and Denise Dade Sample",
+    "Plaintiff": "Skyline Tower Vacation Condominium Association, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANY STATUS: NOT OCCUPIED",
+    "Sales Date": "2/6/2025",
+    "Sheriff #": "F-24001580",
+    "Upset Amount": "$916.38"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1221.15,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "100 S North Carolina Avenue Atlantic City NJ 08401",
+    "defendant": "Scott Raper, DeeAnn ...",
+    "listing_status": null,
+    "plaintiff": "Skyline Tower Vacati...",
+    "sale_date": "2025-02-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Skyline Tower Vacation Condominium Association, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANY STATUS: NOT OCCUPIED",
+  "sale_date": "2025-02-06",
+  "sheriff_number": "F-24001580",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-06",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 916.38,
+  "upset_amount_label": "Upset Amount"
+}

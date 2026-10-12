@@ -1,0 +1,88 @@
+{
+  "address": "21 Cobblestone Way Freehold Twp NJ 07728",
+  "attorney": "Stern & Eisenberg",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00731517",
+  "current_status": "Scheduled",
+  "defendant": "Joan E. Brown, et al",
+  "description": "Approximate Dimensions: 226ft. x 185ft. A full legal description can be found in the Office of the Register\nNearest Cross Street: Bentley Court\nUpset Price: $619,000.00 good through October 27, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is UNKNOWN\nTaxes and Other Encumbrances:\nTaxes current through 3rd Quarter of 2025\nWater open balance in the amount of $43.05, good through August 1, 2025*\nSewer – Plaintiff is unable to confirm these accounts. Prospective purchasers must conduct their own investigation to determine the same.\nTax sale Certificate #24-00001 due in the amount of $1,713.81 good through September 18, 2025*\n* Plus, interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nSUBJECT TO ADDITIONAL ADVANCES MADE BY THE PLAINTIFF FOR TAXES, INSURANCE, INSPECTIONS, ETC., AFTER FINAL JUDGMENT WAS ENTERED, THE AMOUNT ADVANCED WAS $18,486.94 AND THE PLAINTIFF HAS OBTAINED AN ORDER TO BE REIMBURSED FOR THESE MONIES OR TO MAKE FIRST CLAIM FOR ANY SURPLUS MONIES REALIZED FROM THE SALE.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is UNKNOWN",
+    "upset_amount": 619000.0
+  },
+  "fields": {
+    "Address": "21 Cobblestone Way\nFreehold Twp NJ 07728",
+    "Approx. Judgment*": "$575,127.25",
+    "Attorney": "Stern & Eisenberg",
+    "Court Case #": "F00731517",
+    "Defendant": "Joan E. Brown, et al",
+    "Description": "Approximate Dimensions: 226ft. x 185ft. A full legal description can be found in the Office of the Register\nNearest Cross Street: Bentley Court\nUpset Price: $619,000.00 good through October 27, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is UNKNOWN\nTaxes and Other Encumbrances:\nTaxes current through 3rd Quarter of 2025\nWater open balance in the amount of $43.05, good through August 1, 2025*\nSewer – Plaintiff is unable to confirm these accounts. Prospective purchasers must conduct their own investigation to determine the same.\nTax sale Certificate #24-00001 due in the amount of $1,713.81 good through September 18, 2025*\n* Plus, interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nSUBJECT TO ADDITIONAL ADVANCES MADE BY THE PLAINTIFF FOR TAXES, INSURANCE, INSPECTIONS, ETC., AFTER FINAL JUDGMENT WAS ENTERED, THE AMOUNT ADVANCED WAS $18,486.94 AND THE PLAINTIFF HAS OBTAINED AN ORDER TO BE REIMBURSED FOR THESE MONIES OR TO MAKE FIRST CLAIM FOR ANY SURPLUS MONIES REALIZED FROM THE SALE.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT",
+    "Parcel #": "Lot 3, Block 7.02, on the Tax Map of the Township of Freehold",
+    "Plaintiff": "PHH Mortgage Corporation",
+    "Property Note": "",
+    "Sales Date": "1/15/2026",
+    "Sheriff #": "FOR-24001913"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 575127.25,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "21 Cobblestone Way Freehold Twp NJ 07728",
+    "defendant": "Joan E. Brown, et al",
+    "listing_status": "Redeemed",
+    "plaintiff": "PHH Mortgage Corporation",
+    "sale_date": "2026-01-15"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 3, Block 7.02, on the Tax Map of the Township of Freehold",
+  "plaintiff": "PHH Mortgage Corporation",
+  "property_note": null,
+  "sale_date": "2026-01-15",
+  "sheriff_number": "FOR-24001913",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-15",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Scheduled"
+    }
+  ]
+}

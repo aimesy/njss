@@ -1,0 +1,67 @@
+{
+  "address": "32 Golfview Drive Neptune NJ 07753-2940",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02914713",
+  "current_status": "Scheduled",
+  "defendant": "Gertrude V. Harris, et al.",
+  "description": "Dimensions: 219 FT X 187 FT\nNearest Cross Street: Fountain Place\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: OWNER OCCUPIED\nPlaintiff's good faith estimate of its upset price is: $888,300.00",
+  "extracted": {
+    "upset_amount": 888300.0
+  },
+  "fields": {
+    "Address": "32 Golfview Drive\nNeptune NJ 07753-2940",
+    "Approx. Judgment*": "$1,033,492.92",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F02914713",
+    "Defendant": "Gertrude V. Harris, et al.",
+    "Description": "Dimensions: 219 FT X 187 FT\nNearest Cross Street: Fountain Place\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: OWNER OCCUPIED\nPlaintiff's good faith estimate of its upset price is: $888,300.00",
+    "Parcel #": "LOT 2, BLOCK 4602 f/k/a Lot 6 Block 10014 Tax Map of the Township of Neptune",
+    "Plaintiff": "Deutsche Bank National Trust Company, as Trustee under the Pooling and Servicing Agreement relating to IMPAC Secured Assets Corp., Mortgage Pass-Through Certificates, series 2006-1",
+    "Property Note": "",
+    "Sales Date": "9/2/2025",
+    "Sheriff #": "FOR-25000679"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1033492.92,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "32 Golfview Drive Neptune NJ 07753-2940",
+    "defendant": "Gertrude V. Harris, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Deutsche Bank National Trust Company, as Trustee under the Pooling and Servicing Agreement relating to IMPAC Secured Assets Corp., Mortgage Pass-Through Certificates, series 2006-1",
+    "sale_date": "2025-09-02"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "LOT 2, BLOCK 4602 f/k/a Lot 6 Block 10014 Tax Map of the Township of Neptune",
+  "plaintiff": "Deutsche Bank National Trust Company, as Trustee under the Pooling and Servicing Agreement relating to IMPAC Secured Assets Corp., Mortgage Pass-Through Certificates, series 2006-1",
+  "property_note": null,
+  "sale_date": "2025-09-02",
+  "sheriff_number": "FOR-25000679",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-02",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Scheduled"
+    }
+  ]
+}

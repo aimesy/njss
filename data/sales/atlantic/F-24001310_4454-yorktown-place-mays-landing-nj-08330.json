@@ -1,0 +1,62 @@
+{
+  "address": "4454 Yorktown Place Mays Landing NJ 08330",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000960-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Amanda L. Michael; Fictitious Spouse or Civil Union Partner of Amanda L. Michael; Hardings Run Condominium Association Inc; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "4454 Yorktown Place\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$60,211.54",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-000960-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Amanda L. Michael; Fictitious Spouse or Civil Union Partner of Amanda L. Michael; Hardings Run Condominium Association Inc; State of New Jersey",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: TENANT OCCUPIED",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24001310",
+    "Upset Amount": "$68,587.91"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 60211.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4454 Yorktown Place Mays Landing NJ 08330",
+    "defendant": "Amanda L. Michael; F...",
+    "listing_status": null,
+    "plaintiff": "Carrington Mortgage ...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: TENANT OCCUPIED",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24001310",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 68587.91,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,62 @@
+{
+  "address": "89 Robert Best Road Egg Harbor Township NJ 08234",
+  "attorney": "Stern Lavinthal & Frankenberg LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-020580-19",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Maxie Legette Jr; Terry D. Legette; Egg Harbor Care Center and The Godfrey Funeral Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "89 Robert Best Road\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$222,293.48",
+    "Attorney": "Stern Lavinthal & Frankenberg LLC",
+    "Court Case #": "F-020580-19",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Maxie Legette Jr; Terry D. Legette; Egg Harbor Care Center and The Godfrey Funeral Inc",
+    "Plaintiff": "AmeriHome Mortgage Company, LLC",
+    "Priors": "SEWER ACCOUNT past due, amount: $376.20",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "8/7/2025",
+    "Sheriff #": "F-25000508",
+    "Upset Amount": "$243,336.30"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 222293.48,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "89 Robert Best Road Egg Harbor Township NJ 08234",
+    "defendant": "Maxie Legette Jr; Te...",
+    "listing_status": null,
+    "plaintiff": "AmeriHome Mortgage C...",
+    "sale_date": "2025-08-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "AmeriHome Mortgage Company, LLC",
+  "priors": "SEWER ACCOUNT past due, amount: $376.20",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-08-07",
+  "sheriff_number": "F-25000508",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-07",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-08-07",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-07-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 243336.3,
+  "upset_amount_label": "Upset Amount"
+}

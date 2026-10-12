@@ -1,0 +1,62 @@
+{
+  "address": "518 GREGORY AVE A315 WEEHAWKEN NJ 07086",
+  "attorney": "GREENBAUM, ROWE, SMITH & DAVIS LLP",
+  "attorney_phone": "(732) 476-2526",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006641-22",
+  "current_status": "DEFENDANT 2ND 4 WEEK ADJ",
+  "defendant": "ROSEMARY PACHECO",
+  "description": "Tax Lot(s) 4, Qual. CA315, Tax Block 26\nSomerset County Cross road is Gregory Avenue and Hackensack Plank Road along its east property line\nUpset Amount: $156,930.37\nStatus of Property: Occupied by owner\nPursuant to a Municipal Tax Search, please see as follows:\nSubject to: Water: Private — Veolia Water NJ, 69 Devoe Place, Hackensack, NJ 079601 800-422-5987\nSewer: 2026 1 st Quarter due $250.00, with interest of $5.25 OPEN, for a total of $255.25; 2026 2nd Quarter July 2026 OPEN for $250.00\nTaxes: 2025 $9,358.88 paid in full; 2026 1 st Qtr due $3,093.03 paid;\n2026 2nd Qtr due $3,093.03 (to be determined)\nMortgage: U.S. Bank, N.A., as trustee for J.P. Morgan Mortgage Acquisition Trust 2006-CH2\n10790 Rancho Bernardo Rd.\nSan Diego, CA 92127\n$288,000.00\nPROPERTY ALSO TO BE SOLD: LIMITED TO TANGIBLE PROPERTY ON THE PREMISES.",
+  "extracted": {
+    "block": "26"
+  },
+  "fields": {
+    "Address": "518 GREGORY AVE A315\nWEEHAWKEN NJ 07086",
+    "Attorney": "GREENBAUM, ROWE, SMITH & DAVIS LLP",
+    "Attorney Phone": "(732) 476-2526",
+    "Court Case #": "F-006641-22",
+    "Defendant": "ROSEMARY PACHECO",
+    "Description": "Tax Lot(s) 4, Qual. CA315, Tax Block 26\nSomerset County Cross road is Gregory Avenue and Hackensack Plank Road along its east property line\nUpset Amount: $156,930.37\nStatus of Property: Occupied by owner\nPursuant to a Municipal Tax Search, please see as follows:\nSubject to: Water: Private — Veolia Water NJ, 69 Devoe Place, Hackensack, NJ 079601 800-422-5987\nSewer: 2026 1 st Quarter due $250.00, with interest of $5.25 OPEN, for a total of $255.25; 2026 2nd Quarter July 2026 OPEN for $250.00\nTaxes: 2025 $9,358.88 paid in full; 2026 1 st Qtr due $3,093.03 paid;\n2026 2nd Qtr due $3,093.03 (to be determined)\nMortgage: U.S. Bank, N.A., as trustee for J.P. Morgan Mortgage Acquisition Trust 2006-CH2\n10790 Rancho Bernardo Rd.\nSan Diego, CA 92127\n$288,000.00\nPROPERTY ALSO TO BE SOLD: LIMITED TO TANGIBLE PROPERTY ON THE PREMISES.",
+    "Good Faith Upset*": "$156,930.37",
+    "Judgment": "$156,940.37",
+    "Plaintiff": "GREGORY COMMONS CONDOMINIUM ASSOCIATION, INC.",
+    "Property Note": "",
+    "Sales Date": "10/8/2026",
+    "Sheriff #": "20063278"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 156940.37,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "518 GREGORY AVE A315 WEEHAWKEN NJ 07086",
+    "defendant": "ROSEMARY PACHECO",
+    "listing_status": null,
+    "plaintiff": "GREGORY COMMONS CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2026-10-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "GREGORY COMMONS CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2026-10-08",
+  "sheriff_number": "20063278",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-10-08",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 156930.37,
+  "upset_amount_label": "Good Faith Upset*"
+}

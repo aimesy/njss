@@ -1,0 +1,60 @@
+{
+  "address": "1733 HOLLY ROAD NORTH BRUNSWICK NJ 08902",
+  "attorney": "PLUESE BECKER SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00632519",
+  "current_status": "Bankruptcy",
+  "defendant": "Dario Rodriguez, et als",
+  "description": "UNSUCCESSFULLY POSTED 11/15/2019 PLAINTIFF ADVISED TO CANCEL ADVERTISING AND POSTING UNTIL DEF IS OOUT OF BK",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$349,898.94",
+    "Attorney": "PLUESE BECKER SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00632519",
+    "Defendant": "Dario Rodriguez, et als",
+    "Description": "UNSUCCESSFULLY POSTED 11/15/2019 PLAINTIFF ADVISED TO CANCEL ADVERTISING AND POSTING UNTIL DEF IS OOUT OF BK",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 249 BLOCK 143",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Property Address": "1733 HOLLY ROAD\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "CHAPTER 13 BK CASE NO. 19-29914\nPER MARINA MORALES OF PLAINTIFF, DO NOT ADVERTISE AND PUT ON BK HOLD",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-774924"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 349898.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1733 HOLLY ROAD NORTH BRUNSWICK NJ 08902",
+    "defendant": "Dario Rodriguez, et als",
+    "listing_status": "Cancelled",
+    "plaintiff": "Freedom Mortgage Corporation",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 249 BLOCK 143",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "property_note": "CHAPTER 13 BK CASE NO. 19-29914\nPER MARINA MORALES OF PLAINTIFF, DO NOT ADVERTISE AND PUT ON BK HOLD",
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-774924",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2019-12-04",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

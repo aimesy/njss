@@ -1,0 +1,74 @@
+{
+  "address": "1302 Memory Lane Hammonton NJ 08037",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001680-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Rosa McKoy, a/k/a Rosa Parsons His/Her Heirs, Devisees and Personal Represenatives and His, Hers, Their or any of Their Sucessors in Right, Title and Interest; Cynthia McKoy; Mr. McKoy, Spouse of Cynthia McKoy; Jeanette Daniels; Mr. Daniels, Spouse of Jeanette Daniels; Judith McKoy; Juanita McKoy; Bobby McKoy; Jerome McKoy; State of New Jersey; United State of America",
+  "extracted": {},
+  "fields": {
+    "Address": "1302 Memory Lane\nHammonton NJ 08037",
+    "Approx. Judgment*": "$396,268.18",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-001680-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Rosa McKoy, a/k/a Rosa Parsons His/Her Heirs, Devisees and Personal Represenatives and His, Hers, Their or any of Their Sucessors in Right, Title and Interest; Cynthia McKoy; Mr. McKoy, Spouse of Cynthia McKoy; Jeanette Daniels; Mr. Daniels, Spouse of Jeanette Daniels; Judith McKoy; Juanita McKoy; Bobby McKoy; Jerome McKoy; State of New Jersey; United State of America",
+    "Plaintiff": "Finance of America Reverse LLC",
+    "Priors": "NONE",
+    "Property Note": "OWNER OCCUPIED",
+    "Sales Date": "8/6/2026",
+    "Sheriff #": "F-26000178",
+    "Upset Amount": "$444,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 396268.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1302 Memory Lane Hammonton NJ 08037",
+    "defendant": "Rosa McKoy, a/k/a Ro...",
+    "listing_status": null,
+    "plaintiff": "Finance of America R...",
+    "sale_date": "2026-08-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Finance of America Reverse LLC",
+  "priors": "NONE",
+  "property_note": "OWNER OCCUPIED",
+  "sale_date": "2026-08-06",
+  "sheriff_number": "F-26000178",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-08-06",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-08-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-07-09",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-05-14",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 444000.0,
+  "upset_amount_label": "Upset Amount"
+}

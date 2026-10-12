@@ -1,0 +1,82 @@
+{
+  "address": "1701 Fourth Avenue (Mullica Township) Egg Harbor City NJ 08215",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003092-24",
+  "current_status": "Scheduled",
+  "deed": "Wells Fargo Bank, National Association, as Trustee for Securitized Asset Backed Receivables LLC Trust 2004-OP2, Mortgage Pass-Through Certificates, Series 2004-OP2",
+  "deed_address": "9062 Old Annapolis Road, Columbia, MD 21045",
+  "defendant": "Frank J. McGinley, Jr; Faith McGinley; Heather M. Eubanks; Raquel Leichtnam a/k/a Raquel Wardencki; Sherwin Williams Co; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "1701 Fourth Avenue\n(Mullica Township)\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$235,368.48",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-003092-24",
+    "Deed": "Wells Fargo Bank, National Association, as Trustee for Securitized Asset Backed Receivables LLC Trust 2004-OP2, Mortgage Pass-Through Certificates, Series 2004-OP2",
+    "Deed Address": "9062 Old Annapolis Road, Columbia, MD 21045",
+    "Defendant": "Frank J. McGinley, Jr; Faith McGinley; Heather M. Eubanks; Raquel Leichtnam a/k/a Raquel Wardencki; Sherwin Williams Co; State of New Jersey",
+    "Plaintiff": "Wells Fargo Bank, National Association, as Trustee for Securitized Asset Backed Receivables LLC Trust 2004-OP2, Mortgage Pass-Through Certificates, Series 2004-OP2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "2/19/2026",
+    "Sheriff #": "F-24001594",
+    "Upset Amount": "$250,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 235368.48,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1701 Fourth Avenue (Mullica Township) Egg Harbor City NJ 08215",
+    "defendant": "Frank J. McGinley, J...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, Na...",
+    "sale_date": "2026-02-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, National Association, as Trustee for Securitized Asset Backed Receivables LLC Trust 2004-OP2, Mortgage Pass-Through Certificates, Series 2004-OP2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-02-19",
+  "sheriff_number": "F-24001594",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-19",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 250000.0,
+  "upset_amount_label": "Upset Amount"
+}

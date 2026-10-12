@@ -1,0 +1,64 @@
+{
+  "address": "3 Hillsdale Avenue Long Branch NJ 07740",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00921523",
+  "current_status": "Scheduled",
+  "defendant": "John M. Dunn, et al.",
+  "description": "Approximate dimensions: 43.73 x 25.00 x 43.73 x 25.00\nNearest cross street: Florence Avenue\nSubject to: Sewer - 04/01/25-06/30/25 $92.00 open and due; $405.34 open plus penalty; owed in arrears\nUpset Price: $113,191.45\nOccupancy Status: Occupied",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 113191.45
+  },
+  "fields": {
+    "Address": "3 Hillsdale Avenue\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$111,122.33",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00921523",
+    "Defendant": "John M. Dunn, et al.",
+    "Description": "Approximate dimensions: 43.73 x 25.00 x 43.73 x 25.00\nNearest cross street: Florence Avenue\nSubject to: Sewer - 04/01/25-06/30/25 $92.00 open and due; $405.34 open plus penalty; owed in arrears\nUpset Price: $113,191.45\nOccupancy Status: Occupied",
+    "Parcel #": "Lot 26.01 (formerly Lot 26.A). Block 450 Tax Map of City of Long Branch",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for RCF 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "9/30/2025",
+    "Sheriff #": "FOR-25001029"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 111122.33,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 Hillsdale Avenue Long Branch NJ 07740",
+    "defendant": "John M. Dunn, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for RCF 2 Acquisition Trust",
+    "sale_date": "2025-09-30"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 26.01 (formerly Lot 26.A). Block 450 Tax Map of City of Long Branch",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as owner trustee for RCF 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-09-30",
+  "sheriff_number": "FOR-25001029",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-30",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "address": "1 Caravel Court Atlantic City NJ 08401",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004516-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Nicholas J. Merlino a/k/a Nicholas Merlino; Natalie N. Merlino; Sunnova SLA Management LLC; Adamar of New Jersey Inc.",
+  "extracted": {},
+  "fields": {
+    "Address": "1 Caravel Court\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$62,913.97",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-004516-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Nicholas J. Merlino a/k/a Nicholas Merlino; Natalie N. Merlino; Sunnova SLA Management LLC; Adamar of New Jersey Inc.",
+    "Plaintiff": "Deutsche Bank National Trust Company as Trustee for INDYMAC INDX MORTGAGE LOAN TRUST 2006-AR8, Mortgage Pass-Through Certificates Series 2006-AR8",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "F-24001581",
+    "Upset Amount": "$84,178.89"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 62913.97,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1 Caravel Court Atlantic City NJ 08401",
+    "defendant": "Nicholas J. Merlino ...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Nation...",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company as Trustee for INDYMAC INDX MORTGAGE LOAN TRUST 2006-AR8, Mortgage Pass-Through Certificates Series 2006-AR8",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-01-08",
+  "sheriff_number": "F-24001581",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-08",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 84178.89,
+  "upset_amount_label": "Upset Amount"
+}

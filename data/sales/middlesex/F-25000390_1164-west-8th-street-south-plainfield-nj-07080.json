@@ -1,0 +1,72 @@
+{
+  "address": "1164 WEST 8TH STREET SOUTH PLAINFIELD NJ 07080",
+  "attorney": "KNUCKLES & MANFRO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "201-391-0370",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00120124",
+  "current_status": "Bankruptcy",
+  "defendant": "DANYELLE M. SAUNDERS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$337,757.96",
+    "Attorney": "KNUCKLES & MANFRO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "201-391-0370",
+    "Court Case #": "F00120124",
+    "Defendant": "DANYELLE M. SAUNDERS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 11 BLOCK 8",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Address": "1164 WEST 8TH STREET\nSOUTH PLAINFIELD NJ 07080",
+    "Property Note": "",
+    "Sale Date": "10/29/2025",
+    "Sheriff #": "F-25000390"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 337757.96,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1164 WEST 8TH STREET SOUTH PLAINFIELD NJ 07080",
+    "defendant": "DANYELLE M. SAUNDERS, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 11 BLOCK 8",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25000390",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

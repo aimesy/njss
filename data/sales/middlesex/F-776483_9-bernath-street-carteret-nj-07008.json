@@ -1,0 +1,56 @@
+{
+  "address": "9 BERNATH STREET CARTERET NJ 07008",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F04053915",
+  "current_status": "Bankruptcy",
+  "defendant": "ANGELINA HORNAK, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$198,229.87",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F04053915",
+    "Defendant": "ANGELINA HORNAK, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 14 BLOCK 3803",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE CHALET SERIES III TRUST",
+    "Property Address": "9 BERNATH STREET\nCARTERET NJ 07008",
+    "Property Note": "SUCCESSFULLY POSTED 05/13/2024 BY HORVATT",
+    "Sale Date": "6/19/2024",
+    "Sheriff #": "F-776483"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 198229.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "9 BERNATH STREET CARTERET NJ 07008",
+    "defendant": "ANGELINA HORNAK, ET ALS",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE CHALET SERIES III TRUST",
+    "sale_date": "2024-06-19"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 14 BLOCK 3803",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE CHALET SERIES III TRUST",
+  "property_note": "SUCCESSFULLY POSTED 05/13/2024 BY HORVATT",
+  "sale_date": "2024-06-19",
+  "sheriff_number": "F-776483",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-06-19",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

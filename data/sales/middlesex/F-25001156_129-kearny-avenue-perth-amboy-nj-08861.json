@@ -1,0 +1,64 @@
+{
+  "address": "129 KEARNY AVENUE PERTH AMBOY NJ 08861",
+  "attorney": "PARKER MCCAY (MT. LAUREL)",
+  "attorney_file_number": null,
+  "attorney_phone": "(856-810-5815",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01108524",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "BRIAN BONILLA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$467,732.81",
+    "Attorney": "PARKER MCCAY (MT. LAUREL)",
+    "Attorney File #": "",
+    "Attorney Phone": "(856-810-5815",
+    "Court Case #": "F01108524",
+    "Defendant": "BRIAN BONILLA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 11 BLOCK 22",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Address": "129 KEARNY AVENUE\nPERTH AMBOY NJ 08861",
+    "Property Note": "",
+    "Sale Date": "8/20/2025",
+    "Sheriff #": "F-25001156"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 467732.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "129 KEARNY AVENUE PERTH AMBOY NJ 08861",
+    "defendant": "BRIAN BONILLA, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2025-08-20"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 11 BLOCK 22",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2025-08-20",
+  "sheriff_number": "F-25001156",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

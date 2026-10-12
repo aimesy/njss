@@ -1,0 +1,56 @@
+{
+  "address": "135 UNION AVENUE MIDDLESEX NJ 08846",
+  "attorney": "K&L GATES LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "973-848-4000",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00624924",
+  "current_status": "Bankruptcy",
+  "defendant": "PETRONILA MARGARITA MIRABAL MOYA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$428,862.91",
+    "Attorney": "K&L GATES LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "973-848-4000",
+    "Court Case #": "F00624924",
+    "Defendant": "PETRONILA MARGARITA MIRABAL MOYA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 13 BLOCK 116",
+    "Plaintiff": "PROVIDENT BANK",
+    "Property Address": "135 UNION AVENUE\nMIDDLESEX NJ 08846",
+    "Property Note": "",
+    "Sale Date": "5/14/2025",
+    "Sheriff #": "F-25000565"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 428862.91,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "135 UNION AVENUE MIDDLESEX NJ 08846",
+    "defendant": "PETRONILA MARGARITA MIRABAL MOYA, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "PROVIDENT BANK",
+    "sale_date": "2025-05-14"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 13 BLOCK 116",
+  "plaintiff": "PROVIDENT BANK",
+  "property_note": null,
+  "sale_date": "2025-05-14",
+  "sheriff_number": "F-25000565",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-05-14",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

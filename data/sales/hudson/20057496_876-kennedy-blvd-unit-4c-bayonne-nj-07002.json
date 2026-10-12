@@ -1,0 +1,76 @@
+{
+  "address": "876 KENNEDY BLVD UNIT 4C BAYONNE NJ 07002",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006809-24",
+  "current_status": "Cancelled",
+  "defendant": "JEFFREY BRADSHAW; STATE OF NEW JERSEY",
+  "description": "TAX LOT 1 BLOCK 138 QUALIFIER C0403\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 9.8197% INTEREST IN AND TO THE COMMON ELEMENTS OF MADDALENA CONDOMINIUM\nNEAREST CROSS STREET: WEST 34TH STREET\nESTIMATED UPSET BID AMOUNT: $297,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: VACANT\n2026 QTR 2 DUE: 05/01/2026 $2,501.28 OPEN",
+  "extracted": {
+    "block": "138",
+    "lot": "1",
+    "occupancy": "VACANT"
+  },
+  "fields": {
+    "Address": "876 KENNEDY BLVD UNIT 4C\nBAYONNE NJ 07002",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-006809-24",
+    "Defendant": "JEFFREY BRADSHAW; STATE OF NEW JERSEY",
+    "Description": "TAX LOT 1 BLOCK 138 QUALIFIER C0403\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 9.8197% INTEREST IN AND TO THE COMMON ELEMENTS OF MADDALENA CONDOMINIUM\nNEAREST CROSS STREET: WEST 34TH STREET\nESTIMATED UPSET BID AMOUNT: $297,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: VACANT\n2026 QTR 2 DUE: 05/01/2026 $2,501.28 OPEN",
+    "Good Faith Upset*": "$297,000.00",
+    "Judgment": "$253,053.66",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "20057496"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 253053.66,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "876 KENNEDY BLVD UNIT 4C BAYONNE NJ 07002",
+    "defendant": "JEFFREY BRADSHAW; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "20057496",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 297000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

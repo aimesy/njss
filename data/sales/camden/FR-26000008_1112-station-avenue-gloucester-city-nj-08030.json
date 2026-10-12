@@ -1,0 +1,61 @@
+{
+  "address": "1112 STATION AVENUE GLOUCESTER CITY NJ 08030",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01276024",
+  "current_status": "Defendant Adjournment",
+  "defendant": "SHEA A. O'DONNELL, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1112 STATION AVENUE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$243,345.52",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F01276024",
+    "Defendant": "SHEA A. O'DONNELL, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "5/14/2026",
+    "Sheriff #": "FR-26000008"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1112 STATION AVENUE GLOUCESTER CITY NJ 08030",
+    "defendant": "SHEA A. O'DONNELL, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-05-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-05-14",
+  "sheriff_number": "FR-26000008",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-14",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 243345.52,
+  "upset_amount_label": "Approx. Upset*"
+}

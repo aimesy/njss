@@ -1,0 +1,61 @@
+{
+  "address": "302 3RD AVENUE HADDON HEIGHTS NJ 08035",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00458125",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "WILLIAM H. SCHADE, JR., ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "302 3RD AVENUE\nHADDON HEIGHTS NJ 08035",
+    "Approx. Upset*": "$506,529.62",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00458125",
+    "Defendant": "WILLIAM H. SCHADE, JR., ET AL.",
+    "Parcel #": "LOT 1, BLOCK 30 ON THE OFFICIAL TAX MAP OF THE BOROUGH OF HADDON HEIGHTS",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON\nF/K/A THE BANK OF NEW YORK AS\nSUCCESSOR TRUSTEE FOR JPMORGAN\nCHASE BANK, N.A., AS TRUSTEE FOR\nTHE BENEFIT OF THE\nCERTIFICATEHOLDERS OF POPULAR\nABS, INC. MORTGAGE PASS-THROUGH\nCERTIFICATES SERIES 2006-D",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26001108"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "302 3RD AVENUE HADDON HEIGHTS NJ 08035",
+    "defendant": "WILLIAM H. SCHADE, JR., ET AL.",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON \nF/K/A THE BANK OF NEW YORK AS \nSUCCESSOR TRUSTEE FOR JPMORGAN \nCHASE BANK, N.A., AS TRUSTEE FOR \nTHE BENEFIT OF THE \nCERTIFICATEHOLDERS OF POPULAR \nABS, INC. MORTGAGE PASS-THROUGH \nCERTIFICATES SERIES 2006-D",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 1, BLOCK 30 ON THE OFFICIAL TAX MAP OF THE BOROUGH OF HADDON HEIGHTS",
+  "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR TRUSTEE FOR JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR THE BENEFIT OF THE CERTIFICATEHOLDERS OF POPULAR ABS, INC. MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2006-D",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26001108",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 506529.62,
+  "upset_amount_label": "Approx. Upset*"
+}

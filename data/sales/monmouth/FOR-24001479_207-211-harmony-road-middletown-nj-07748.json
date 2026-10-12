@@ -1,0 +1,71 @@
+{
+  "address": "207-211 Harmony Road Middletown NJ 07748",
+  "attorney": "McCarter & English",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01443323",
+  "current_status": "Scheduled",
+  "defendant": "DV Holdings Inc.",
+  "description": "Nearest cross street: Between Overton Road and Bertha Road\nDimensions of the Property: 10.258 acres or 446,838 square feet, mostly rectangular with 261.47 feet of frontage on Harmony Road\nType of Property: Commercial property consisting f three buildings occupied by (a) a TD Bank branch, (b) The Goddard School, and (c) a fitness center operated by an affiliate of\nthe Property owner. The Property also includes about 1.75 acres of vacant land and another 1.88 acres of woods and wetlands.\nUpset Price: the full judgment amount $5,158,153.09\nPlaintiff reserves the right to adjust the upset price prior to the sale. Plaintiff will advise the Sheriff in advance of the sale should the upset price change.",
+  "extracted": {
+    "upset_amount": 5158153.09
+  },
+  "fields": {
+    "Address": "207-211 Harmony Road\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$5,158,153.09",
+    "Attorney": "McCarter & English",
+    "Court Case #": "F01443323",
+    "Defendant": "DV Holdings Inc.",
+    "Description": "Nearest cross street: Between Overton Road and Bertha Road\nDimensions of the Property: 10.258 acres or 446,838 square feet, mostly rectangular with 261.47 feet of frontage on Harmony Road\nType of Property: Commercial property consisting f three buildings occupied by (a) a TD Bank branch, (b) The Goddard School, and (c) a fitness center operated by an affiliate of\nthe Property owner. The Property also includes about 1.75 acres of vacant land and another 1.88 acres of woods and wetlands.\nUpset Price: the full judgment amount $5,158,153.09\nPlaintiff reserves the right to adjust the upset price prior to the sale. Plaintiff will advise the Sheriff in advance of the sale should the upset price change.",
+    "Parcel #": "Tax Lot: 81 Tax Block: 615 Tax Map of Township of Middletown",
+    "Plaintiff": "First Bank",
+    "Property Note": "",
+    "Sales Date": "2/18/2025",
+    "Sheriff #": "FOR-24001479"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 5158153.09,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "207-211 Harmony Road Middletown NJ 07748",
+    "defendant": "DV Holdings Inc.",
+    "listing_status": "Settled",
+    "plaintiff": "First Bank",
+    "sale_date": "2025-02-18"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 81 Tax Block: 615 Tax Map of Township of Middletown",
+  "plaintiff": "First Bank",
+  "property_note": null,
+  "sale_date": "2025-02-18",
+  "sheriff_number": "FOR-24001479",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-18",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Scheduled"
+    }
+  ]
+}

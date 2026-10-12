@@ -1,0 +1,80 @@
+{
+  "address": "29 CLAIRE AVENUE WOODBRIDGE NJ 07095",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00034024",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "HOWARD W. JEWELL, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$431,697.89",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00034024",
+    "Defendant": "HOWARD W. JEWELL, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 6 BLOCK 563.29 FKA 563.CC",
+    "Plaintiff": "CELINK",
+    "Property Address": "29 CLAIRE AVENUE\nWOODBRIDGE NJ 07095",
+    "Property Note": "The property to be sold is located within TOWNSHIP OF WOODBRIDGE\nIn the County of MIDDLESEX and the State of New Jersey\n29 CLAIRE AVENUE, WOODBRIGE, NJ\nLot(s) 6, Block 563.29 FKA 563.CC, Township of Woodbridge, Middlesex County\nDimensions of the lot ( Approximately):\n75.0X100.0\nNearest Cross Street: Melbourne Court\nThe Plaintiff's Good Faith Estimate is $501,241.90. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is Owner Occupied.",
+    "Sale Date": "12/2/2026",
+    "Sheriff #": "F-776589"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 431697.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "29 CLAIRE AVENUE WOODBRIDGE NJ 07095",
+    "defendant": "HOWARD W. JEWELL, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "CELINK",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 6 BLOCK 563.29 FKA 563.CC",
+  "plaintiff": "CELINK",
+  "property_note": "The property to be sold is located within TOWNSHIP OF WOODBRIDGE\nIn the County of MIDDLESEX and the State of New Jersey\n29 CLAIRE AVENUE, WOODBRIGE, NJ\nLot(s) 6, Block 563.29 FKA 563.CC, Township of Woodbridge, Middlesex County\nDimensions of the lot ( Approximately):\n75.0X100.0\nNearest Cross Street: Melbourne Court\nThe Plaintiff's Good Faith Estimate is $501,241.90. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is Owner Occupied.",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-776589",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled - Foreclosure"
+    },
+    {
+      "date": "2026-09-08",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

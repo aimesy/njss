@@ -1,0 +1,83 @@
+{
+  "address": "46 MAPLE ST WEST ORANGE NJ 07052",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973 575-0707",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F01299023",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "LIZETTE DOTHARD,ET.AL.",
+  "description": "TAX LOT 47.01 BLOCK 138\nDIMENSIONS OF LOT: 50 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: HARRISON AVENUE\nESTIMATED UPSET BID AMOUNT: $463,300.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2025 QTR 2 DUE: 05/01/2025 $2,924.00 OPEN",
+  "extracted": {
+    "block": "138",
+    "lot": "47.01",
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "46 MAPLE ST\nWEST ORANGE NJ 07052",
+    "Approx. Upset*": "$417,805.91",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973 575-0707",
+    "Court Case #": "F01299023",
+    "Defendant": "LIZETTE DOTHARD,ET.AL.",
+    "Description": "TAX LOT 47.01 BLOCK 138\nDIMENSIONS OF LOT: 50 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: HARRISON AVENUE\nESTIMATED UPSET BID AMOUNT: $463,300.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2025 QTR 2 DUE: 05/01/2025 $2,924.00 OPEN",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR FIRST FRANKLIN MORTGAGE LOAN TRUST 2006-FF11, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-FF11,",
+    "Property Note": "",
+    "Sales Date": "10/1/2026",
+    "Sheriff #": "F-24004252"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "46 MAPLE ST WEST ORANGE NJ 07052",
+    "defendant": "LIZETTE DOTHARD,ET.AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR FIRST FRANKLIN MORTGAGE LOAN TRUST 2006-FF11, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-FF11,",
+    "sale_date": "2026-10-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR FIRST FRANKLIN MORTGAGE LOAN TRUST 2006-FF11, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-FF11,",
+  "property_note": null,
+  "sale_date": "2026-10-01",
+  "sheriff_number": "F-24004252",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2024-12-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-14",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-06-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-10",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-01",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 417805.91,
+  "upset_amount_label": "Approx. Upset*"
+}

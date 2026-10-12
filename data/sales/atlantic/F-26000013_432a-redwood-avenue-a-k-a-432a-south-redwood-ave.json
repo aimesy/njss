@@ -1,0 +1,74 @@
+{
+  "address": "432A Redwood Avenue (a/k/a 432A South Redwood Avenue) Galloway Township NJ 08205",
+  "attorney": "LOGS Legal Group LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004856-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Almon Taylor a/k/a Almon Taylor, Jr., Sebrina Taylor a/k/a Sabrina Taylor; United States of America; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "432A Redwood Avenue\n(a/k/a 432A South Redwood Avenue)\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$204,090.64",
+    "Attorney": "LOGS Legal Group LLP",
+    "Court Case #": "F-004856-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Almon Taylor a/k/a Almon Taylor, Jr., Sebrina Taylor a/k/a Sabrina Taylor; United States of America; State of New Jersey",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "6/18/2026",
+    "Sheriff #": "F-26000013",
+    "Upset Amount": "$223,040.45"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 204090.64,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "432A Redwood Avenue (a/k/a 432A South Redwood Avenue) Galloway Township NJ 08205",
+    "defendant": "Almon Taylor a/k/a A...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, N....",
+    "sale_date": "2026-06-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-06-18",
+  "sheriff_number": "F-26000013",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-06-18",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 223040.45,
+  "upset_amount_label": "Upset Amount"
+}

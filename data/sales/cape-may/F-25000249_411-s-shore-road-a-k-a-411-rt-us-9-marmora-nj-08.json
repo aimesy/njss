@@ -1,0 +1,68 @@
+{
+  "address": "411 S SHORE Road A/K/A 411 RT US 9 Marmora NJ 08223",
+  "attorney": "Ras Citron, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-575-0707",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-012253-24",
+  "current_status": "Scheduled",
+  "defendant": "DENNIS MCNESBY, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$198,123.53",
+    "Attorney": "Ras Citron, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-012253-24",
+    "Defendant": "DENNIS MCNESBY, ET AL",
+    "Description": "",
+    "Minimum Bid": "$221,000.00",
+    "Parcel #": "LOT 20, BLOCK 599",
+    "Plaintiff": "**SETTLED**NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "411 S SHORE Road\nA/K/A 411 RT US 9\nMarmora NJ 08223",
+    "Property Note": "",
+    "Sale Date": "12/10/2025",
+    "Sheriff #": "F-25000249"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 198123.53,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "411 S SHORE Road A/K/A 411 RT US 9 Marmora NJ 08223",
+    "defendant": "DENNIS MCNESBY, ET AL",
+    "listing_status": null,
+    "plaintiff": "**SETTLED**NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 20, BLOCK 599",
+  "plaintiff": "**SETTLED**NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2025-12-10",
+  "sheriff_number": "F-25000249",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-12-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 221000.0,
+  "upset_amount_label": "Minimum Bid"
+}

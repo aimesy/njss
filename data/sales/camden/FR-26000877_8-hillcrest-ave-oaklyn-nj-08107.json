@@ -1,0 +1,57 @@
+{
+  "address": "8 HILLCREST AVE OAKLYN NJ 08107",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01178225",
+  "current_status": "Scheduled",
+  "defendant": "RONALD J. FRUMENTO JR, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "8 HILLCREST AVE\nOAKLYN NJ 08107",
+    "Approx. Upset*": "$176,281.96",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F01178225",
+    "Defendant": "RONALD J. FRUMENTO JR, ET AL.",
+    "Parcel #": "LOT 9, BLOCK 40 ON THE OFFICIAL TAX MAP OF THE BOROUGH OF OAKLYN",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK AS\nSUCCESSOR IN INTEREST TO JPMORGAN CHASE BANK, N.A. AS\nINDENTURE TRUSTEE FOR NOVASTAR MORTGAGE FUNDING TRUST, SERIES\n2006-1, NOVASTAR HOME EQUITY LOAN ASSSET- BACKED CERITFICATES,\nSERIES 2006-1",
+    "Property Note": "Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance, premiums, or other advances made by the plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the purchaser at the sale shall be entitled only to a return of the deposit paid. The purchaser shall have no further recourse against the mortgagor, the mortgagee or the mortgagee’s attorney.",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26000877"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "8 HILLCREST AVE OAKLYN NJ 08107",
+    "defendant": "RONALD J. FRUMENTO JR, ET AL.",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK AS \nSUCCESSOR IN INTEREST TO JPMORGAN CHASE BANK, N.A. AS \nINDENTURE TRUSTEE FOR NOVASTAR MORTGAGE FUNDING TRUST, SERIES \n2006-1, NOVASTAR HOME EQUITY LOAN ASSSET- BACKED CERITFICATES, \nSERIES 2006-1",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 9, BLOCK 40 ON THE OFFICIAL TAX MAP OF THE BOROUGH OF OAKLYN",
+  "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK AS SUCCESSOR IN INTEREST TO JPMORGAN CHASE BANK, N.A. AS INDENTURE TRUSTEE FOR NOVASTAR MORTGAGE FUNDING TRUST, SERIES 2006-1, NOVASTAR HOME EQUITY LOAN ASSSET- BACKED CERITFICATES, SERIES 2006-1",
+  "property_note": "Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance, premiums, or other advances made by the plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the purchaser at the sale shall be entitled only to a return of the deposit paid. The purchaser shall have no further recourse against the mortgagor, the mortgagee or the mortgagee’s attorney.",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26000877",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 176281.96,
+  "upset_amount_label": "Approx. Upset*"
+}

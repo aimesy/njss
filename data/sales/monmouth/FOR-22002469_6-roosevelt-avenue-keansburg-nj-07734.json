@@ -1,0 +1,99 @@
+{
+  "address": "6 Roosevelt Avenue Keansburg NJ 07734",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00430320",
+  "current_status": "Scheduled",
+  "defendant": "Julia D'Alo, et al",
+  "description": "Approximate dimensions: 25' x 190\nNearest Cross Street: St. Marks Avenue\nThe Plaintiff's upset Bid presently approximates $286,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "6 Roosevelt Avenue\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$231,672.70",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00430320",
+    "Defendant": "Julia D'Alo, et al",
+    "Description": "Approximate dimensions: 25' x 190\nNearest Cross Street: St. Marks Avenue\nThe Plaintiff's upset Bid presently approximates $286,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Lot 38, Block 63 Tax Map of the Borough of Keansburg",
+    "Plaintiff": "Plaza Home Mortgage, Inc.",
+    "Property Note": "",
+    "Sales Date": "8/17/2026",
+    "Sheriff #": "FOR-22002469"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 231672.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 Roosevelt Avenue Keansburg NJ 07734",
+    "defendant": "Julia D'Alo, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Plaza Home Mortgage, Inc.",
+    "sale_date": "2026-08-17"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 38, Block 63 Tax Map of the Borough of Keansburg",
+  "plaintiff": "Plaza Home Mortgage, Inc.",
+  "property_note": null,
+  "sale_date": "2026-08-17",
+  "sheriff_number": "FOR-22002469",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-08-17",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-05-08",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-05-08",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2023-04-10",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-03-13",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-02-13",
+      "status": "Scheduled"
+    }
+  ]
+}

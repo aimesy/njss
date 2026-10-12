@@ -1,0 +1,64 @@
+{
+  "address": "112 OXFORD PLACE GLEN ROCK NJ 07452",
+  "attorney": "LAW OFFICES OF GEOFFREY D MUELLER LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F02763917",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "JOHN R. BUTLER, III A/K/A JOHN R. BUTLER A/K/A ABRAHAM BUTLER, ET AL.",
+  "description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $1,049,605.76\nOCCUPANCY STATUS: OWNER-OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER-OCCUPIED",
+    "upset_amount": 1049605.76
+  },
+  "fields": {
+    "Address": "112 OXFORD PLACE\nGLEN ROCK NJ 07452",
+    "Approx. Upset*": "$1,791,128.88",
+    "Attorney": "LAW OFFICES OF GEOFFREY D MUELLER LLC",
+    "Court Case #": "F02763917",
+    "Defendant": "JOHN R. BUTLER, III A/K/A JOHN R. BUTLER A/K/A ABRAHAM BUTLER, ET AL.",
+    "Description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $1,049,605.76\nOCCUPANCY STATUS: OWNER-OCCUPIED",
+    "Parcel #": "LOT 1.01, BLOCK 79",
+    "Plaintiff": "TD BANK N.A.",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "F-25002214"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "112 OXFORD PLACE GLEN ROCK NJ 07452",
+    "defendant": "JOHN R. BUTLER, III A/K/A JOHN R. BUTLER A/K/A ABRAHAM BUTLER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "TD BANK N.A.",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 1.01, BLOCK 79",
+  "plaintiff": "TD BANK N.A.",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "F-25002214",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 1791128.88,
+  "upset_amount_label": "Approx. Upset*"
+}

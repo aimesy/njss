@@ -1,0 +1,68 @@
+{
+  "address": "96 NORTH 15TH Street Prospect Park NJ 07508",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 008159 24 CTL # 163062",
+  "current_status": "Cancelled",
+  "defendant": "JULIO C. ROSA SR. ET, AL",
+  "description": "Approximate Dimensions: 100.00 x 37.50 feet\nNearest Cross Street: Fairview Avenue\nSubject to : Water Passaic Valley Water Comm 1525 Main Ave Clifton, NJ 07011 973-340-4300\nUpset Price: $56,409.65\nOccupancy Status: Unknown\n** To the best of this firms knowledge, the property is not an affordable unit subject to the Fair Housing Act",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 56409.65
+  },
+  "fields": {
+    "Address": "96 NORTH 15TH Street\nProspect Park NJ 07508",
+    "Approx. Upset*": "$50,472.72",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 008159 24 CTL # 163062",
+    "Defendant": "JULIO C. ROSA SR. ET, AL",
+    "Description": "Approximate Dimensions: 100.00 x 37.50 feet\nNearest Cross Street: Fairview Avenue\nSubject to : Water Passaic Valley Water Comm 1525 Main Ave Clifton, NJ 07011 973-340-4300\nUpset Price: $56,409.65\nOccupancy Status: Unknown\n** To the best of this firms knowledge, the property is not an affordable unit subject to the Fair Housing Act",
+    "Parcel #": "Tax Lot 10 Block 18",
+    "Plaintiff": "AMERICAN INVESTMENTS, LLC",
+    "Property Note": "",
+    "Sales Date": "3/27/2026",
+    "Sheriff #": "F-25001576"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "96 NORTH 15TH Street Prospect Park NJ 07508",
+    "defendant": "JULIO C. ROSA SR. ET, AL",
+    "listing_status": null,
+    "plaintiff": "AMERICAN INVESTMENTS, LLC",
+    "sale_date": "2026-03-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 10 Block 18",
+  "plaintiff": "AMERICAN INVESTMENTS, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-27",
+  "sheriff_number": "F-25001576",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-01-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-27",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 50472.72,
+  "upset_amount_label": "Approx. Upset*"
+}

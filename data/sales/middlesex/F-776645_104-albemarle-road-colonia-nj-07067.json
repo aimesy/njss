@@ -1,0 +1,64 @@
+{
+  "address": "104 ALBEMARLE ROAD COLONIA NJ 07067",
+  "attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-840-5000",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00949523",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ALISON M. KORNECKI, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$475,325.97",
+    "Attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-840-5000",
+    "Court Case #": "F00949523",
+    "Defendant": "ALISON M. KORNECKI, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 169 BLOCK 511.03 FKA 511.C",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 2005-79CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-79CB",
+    "Property Address": "104 ALBEMARLE ROAD\nCOLONIA NJ 07067",
+    "Property Note": "SUCCESSFULLY POSTED 10/29/2024 BY DOUGLAS HARVATT AREA2 SERVER RECEIVED DATE 10/24/2024",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-776645"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 475325.97,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "104 ALBEMARLE ROAD COLONIA NJ 07067",
+    "defendant": "ALISON M. KORNECKI, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 2005-79CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-79CB",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 169 BLOCK 511.03 FKA 511.C",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 2005-79CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-79CB",
+  "property_note": "SUCCESSFULLY POSTED 10/29/2024 BY DOUGLAS HARVATT AREA2 SERVER RECEIVED DATE 10/24/2024",
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-776645",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

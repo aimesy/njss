@@ -1,0 +1,88 @@
+{
+  "address": "4533 BROWN STREET UNION CITY NJ 07087",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-008942-20",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "MARVIN A. REYES; DISCOVER BANK; STATE OF NEW JERSEY; THRIFT INVESTMENT CORPORATION; LOURDES SANCHEZ; RUBIBIA MEJIA",
+  "description": "TAX LOT 43 IN BLOCK 273\nDIMENSIONS OF LOT: 19X60\nNEAREST CROSS STREET: 47TH STREET\nESTIMATED UPSET BID AMOUNT: $343,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN\n2026 QTR 2 DUE: 05/01/2026 $2,022.98 OPEN",
+  "extracted": {
+    "block": "273",
+    "lot": "43",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "4533 BROWN STREET\nUNION CITY NJ 07087",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-008942-20",
+    "Defendant": "MARVIN A. REYES; DISCOVER BANK; STATE OF NEW JERSEY; THRIFT INVESTMENT CORPORATION; LOURDES SANCHEZ; RUBIBIA MEJIA",
+    "Description": "TAX LOT 43 IN BLOCK 273\nDIMENSIONS OF LOT: 19X60\nNEAREST CROSS STREET: 47TH STREET\nESTIMATED UPSET BID AMOUNT: $343,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN\n2026 QTR 2 DUE: 05/01/2026 $2,022.98 OPEN",
+    "Good Faith Upset*": "$343,000.00",
+    "Judgment": "$259,235.50",
+    "Plaintiff": "PALM AVENUE HIALEAH TRUST, A DELAWARE STATUTORY TRUST, FOR AND ON BEHALF AND SOLELY WITH RESPECT TO PALM AVENUE HIALEAH TRUST, SERIES 2014-1",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "20048153"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 259235.5,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "4533 BROWN STREET UNION CITY NJ 07087",
+    "defendant": "MARVIN A. REYES; DISCOVER BANK; STATE OF NEW JERSEY; THRIFT INVESTMENT CORPORATION; LOURDES SANCHEZ; RUBIBIA MEJIA",
+    "listing_status": null,
+    "plaintiff": "PALM AVENUE HIALEAH TRUST, A DELAWARE STATUTORY TRUST, FOR AND ON BEHALF AND SOLELY WITH RESPECT TO PALM AVENUE HIALEAH TRUST, SERIES 2014-1",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PALM AVENUE HIALEAH TRUST, A DELAWARE STATUTORY TRUST, FOR AND ON BEHALF AND SOLELY WITH RESPECT TO PALM AVENUE HIALEAH TRUST, SERIES 2014-1",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "20048153",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2022-07-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-09-08",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2022-09-21",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2023-11-16",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2023-12-13",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2024-12-17",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 343000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

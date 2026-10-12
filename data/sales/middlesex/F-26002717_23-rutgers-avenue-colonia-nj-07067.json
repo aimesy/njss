@@ -1,0 +1,56 @@
+{
+  "address": "23 RUTGERS AVENUE COLONIA NJ 07067",
+  "attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-840-5000",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01083925",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "PAULA LEE WECKESSER, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$525,440.10",
+    "Attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-840-5000",
+    "Court Case #": "F01083925",
+    "Defendant": "PAULA LEE WECKESSER, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2272 BLOCK 468C",
+    "Plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2020-RPL2",
+    "Property Address": "23 RUTGERS AVENUE\nCOLONIA NJ 07067",
+    "Property Note": "Municipality: Township of Woodbridge\nStreet Address: 23 Rutgers Avenue, Colonia, NJ 07067\nTax Lot: 2272 Block: 468C\nApproximate Dimensions: 145 x 50 x 145 x 50\nNearest Cross Street: Berkeley Avenue\nOccupancy: Occupied\nEstimated Upset Sheriff's Sale Bid Amount: $578,000.00 Subject to any further Orders of additional sums executed by the court.\n\"THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT\nFURTHER NOTICE THROUGH PUBLICATION.",
+    "Sale Date": "12/2/2026",
+    "Sheriff #": "F-26002717"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 525440.1,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "23 RUTGERS AVENUE COLONIA NJ 07067",
+    "defendant": "PAULA LEE WECKESSER, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2020-RPL2",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2272 BLOCK 468C",
+  "plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2020-RPL2",
+  "property_note": "Municipality: Township of Woodbridge\nStreet Address: 23 Rutgers Avenue, Colonia, NJ 07067\nTax Lot: 2272 Block: 468C\nApproximate Dimensions: 145 x 50 x 145 x 50\nNearest Cross Street: Berkeley Avenue\nOccupancy: Occupied\nEstimated Upset Sheriff's Sale Bid Amount: $578,000.00 Subject to any further Orders of additional sums executed by the court.\n\"THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT\nFURTHER NOTICE THROUGH PUBLICATION.",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-26002717",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

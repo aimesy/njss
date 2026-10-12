@@ -1,0 +1,52 @@
+{
+  "address": "66 EDWARD Court Clifton NJ 07011",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 002170 26 CTL # 163241",
+  "current_status": "Scheduled",
+  "defendant": "GANIAT RUFAI, ET AL",
+  "description": "Approximate Dimensions: 50.00 x 100.00 feet\nNearest Cross Street: Florence Drive\nSubject to : Sewer in the amount of $103.00 open and due 09/10/2026.\nSewer in the amount of $103.00, open plus penalty; owed in arrears\nUpset Price: $781,472.03\nOccupancy Status: Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act**",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 781472.03
+  },
+  "fields": {
+    "Address": "66 EDWARD Court\nClifton NJ 07011",
+    "Approx. Upset*": "$725,186.47",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 002170 26 CTL # 163241",
+    "Defendant": "GANIAT RUFAI, ET AL",
+    "Description": "Approximate Dimensions: 50.00 x 100.00 feet\nNearest Cross Street: Florence Drive\nSubject to : Sewer in the amount of $103.00 open and due 09/10/2026.\nSewer in the amount of $103.00, open plus penalty; owed in arrears\nUpset Price: $781,472.03\nOccupancy Status: Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act**",
+    "Parcel #": "Tax Lot 56 Block 16.01 fka 16.1",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26001275"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "66 EDWARD Court Clifton NJ 07011",
+    "defendant": "GANIAT RUFAI, ET AL",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 56 Block 16.01 fka 16.1",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26001275",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 725186.47,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,57 @@
+{
+  "address": "233 E KINGS HIGHWAY AUDUBON NJ 08106",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00517922",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "CYNTHIA E. SOPER A/K/A CYNTHIA SOPER, INDIVIDUALLY ANS AS EXECITRIX OF THE ESTATE OF ROBERT E. SOPER A/K/A ROBERT SOPER; PROFESSIONAL SERVICES FUNDING GROUP, INC ; UNITED STATES OF AMERICA; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "233 E KINGS HIGHWAY\nAUDUBON NJ 08106",
+    "Approx. Upset*": "$734,410.91",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00517922",
+    "Defendant": "CYNTHIA E. SOPER A/K/A CYNTHIA SOPER, INDIVIDUALLY ANS AS\nEXECITRIX OF THE ESTATE OF ROBERT E. SOPER A/K/A ROBERT\nSOPER; PROFESSIONAL SERVICES FUNDING GROUP, INC ; UNITED\nSTATES OF AMERICA; STATE OF NEW JERSEY,",
+    "Parcel #": "TAX LOT 6 A/K/A & 7 BLOCK 44.01",
+    "Plaintiff": "J.P. MORGAN MORTGAGE ACQUISITION CORP,",
+    "Property Note": "2026 QTR 2 DUE: 05/01/2026 $6,169.80 OPEN\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT: 010009579 04/01/2026-06/30/2026 $93.00 OPEN AND DUE 05/15/2026 $465.00 OPEN PLUS PENALTY\nSEWER: PLAINTIFF HAS BEEN UNABLE TO LOCATE ANY ACCOUNT SO IS NOT MAKING ANY REPRESENTATIONS AS TO WHETHER ANY AMOUNT IS DUE AND OWING.",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26000969"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "233 E KINGS HIGHWAY AUDUBON NJ 08106",
+    "defendant": "CYNTHIA E. SOPER A/K/A CYNTHIA SOPER, INDIVIDUALLY ANS AS \nEXECITRIX OF THE ESTATE OF ROBERT E. SOPER A/K/A ROBERT \nSOPER; PROFESSIONAL SERVICES FUNDING GROUP, INC ; UNITED \nSTATES OF AMERICA; STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "J.P. MORGAN MORTGAGE ACQUISITION CORP,",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 6 A/K/A & 7 BLOCK 44.01",
+  "plaintiff": "J.P. MORGAN MORTGAGE ACQUISITION CORP,",
+  "property_note": "2026 QTR 2 DUE: 05/01/2026 $6,169.80 OPEN\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT: 010009579 04/01/2026-06/30/2026 $93.00 OPEN AND DUE 05/15/2026 $465.00 OPEN PLUS PENALTY\nSEWER: PLAINTIFF HAS BEEN UNABLE TO LOCATE ANY ACCOUNT SO IS NOT MAKING ANY REPRESENTATIONS AS TO WHETHER ANY AMOUNT IS DUE AND OWING.",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26000969",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 734410.91,
+  "upset_amount_label": "Approx. Upset*"
+}

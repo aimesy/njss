@@ -1,0 +1,81 @@
+{
+  "address": "68 Garbarino Avenue Wanaque NJ 07465",
+  "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000624 23 CTL#162550",
+  "current_status": "Cancelled",
+  "defendant": "STACEY VOTER, ET AL.",
+  "description": "Approximate Dimensions: 85.00' x 97.16' x 85.51' x 87.89'\nNearest Cross Street: Garbarino Avenue",
+  "extracted": {},
+  "fields": {
+    "Address": "68 Garbarino Avenue\nWanaque NJ 07465",
+    "Approx. Upset*": "$402,746.63",
+    "Attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+    "Court Case #": "F 000624 23 CTL#162550",
+    "Defendant": "STACEY VOTER, ET AL.",
+    "Description": "Approximate Dimensions: 85.00' x 97.16' x 85.51' x 87.89'\nNearest Cross Street: Garbarino Avenue",
+    "Parcel #": "Tax Lot: 1 a/k/a 1&2 in Block: 206",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, ETC.",
+    "Property Note": "",
+    "Sales Date": "1/2/2026",
+    "Sheriff #": "F-23001303"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "68 Garbarino Avenue Wanaque NJ 07465",
+    "defendant": "STACEY VOTER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, ETC.",
+    "sale_date": "2026-01-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 1 a/k/a 1&2 in Block: 206",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, ETC.",
+  "property_note": null,
+  "sale_date": "2026-01-02",
+  "sheriff_number": "F-23001303",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2023-09-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-10-10",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2023-11-14",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2023-12-12",
+      "status": "Adjourned - Mutual (PA)"
+    },
+    {
+      "date": "2024-02-13",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-04-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-06-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-06-11",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-01-02",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 402746.63,
+  "upset_amount_label": "Approx. Upset*"
+}

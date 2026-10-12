@@ -1,0 +1,60 @@
+{
+  "address": "99 CRESTVIEW ROAD FORDS NJ 08863",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-867-4541",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F809922",
+  "current_status": "Settled",
+  "defendant": "Elaine S. Leiter, et als",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$106,062.62",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-867-4541",
+    "Court Case #": "F809922",
+    "Defendant": "Elaine S. Leiter, et als",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "Lot 33 Block 12.02 fka 12-B",
+    "Plaintiff": "PNC Bank, National Association",
+    "Property Address": "99 CRESTVIEW ROAD\nFORDS NJ 08863",
+    "Property Note": "CHAPTER 13 CASE NO. 23-14243 FILED 05/18/2024\nCHAPTER 13 CASE NO. 23-14243 DISMISSED 09/18/2024",
+    "Sale Date": "12/18/2024",
+    "Sheriff #": "F-776092"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 106062.62,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "99 CRESTVIEW ROAD FORDS NJ 08863",
+    "defendant": "Elaine S. Leiter, et als",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "PNC Bank, National Association",
+    "sale_date": "2024-12-18"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "Lot 33 Block 12.02 fka 12-B",
+  "plaintiff": "PNC Bank, National Association",
+  "property_note": "CHAPTER 13 CASE NO. 23-14243 FILED 05/18/2024\nCHAPTER 13 CASE NO. 23-14243 DISMISSED 09/18/2024",
+  "sale_date": "2024-12-18",
+  "sheriff_number": "F-776092",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-12-18",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-12-16",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

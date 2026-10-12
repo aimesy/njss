@@ -1,0 +1,64 @@
+{
+  "address": "9 BELL COURT EAST BRUNSWICK NJ 08816",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00146225",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "BRENDA PITTMAN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$276,804.19",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F00146225",
+    "Defendant": "BRENDA PITTMAN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 38 BLOCK 626",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Address": "9 BELL COURT\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-25001840"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 276804.19,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "9 BELL COURT EAST BRUNSWICK NJ 08816",
+    "defendant": "BRENDA PITTMAN, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 38 BLOCK 626",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-25001840",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,49 @@
+{
+  "address": "12 COOPER STREET HADDON TOWNSHIP NJ 08108",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00163325",
+  "current_status": "Scheduled",
+  "defendant": "MICHAEL O'MEARA A/K/A MICHAEL T. O'MEARA AND MRS. MICHAEL O'MEARA HIS WIFE; NICOLE O'MEARA A/K/A NICOLE M. O'MEARA AND MR. NICOLE O'MEARA, HER HUSBAND; UNITED STATES OF AMERICA; STATE OF NEW JERSEY; LVNV FUNDING LLC;",
+  "extracted": {},
+  "fields": {
+    "Address": "12 COOPER STREET\nHADDON TOWNSHIP NJ 08108",
+    "Approx. Upset*": "$564,244.11",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F00163325",
+    "Defendant": "MICHAEL O'MEARA A/K/A MICHAEL T. O'MEARA AND MRS. MICHAEL\nO'MEARA HIS WIFE; NICOLE O'MEARA A/K/A NICOLE M. O'MEARA\nAND MR. NICOLE O'MEARA, HER HUSBAND; UNITED STATES OF\nAMERICA; STATE OF NEW JERSEY; LVNV FUNDING LLC;",
+    "Parcel #": "Tax Lot 10 Block 21.09 f/k/a Lot 10 Block 73",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002212"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 COOPER STREET HADDON TOWNSHIP NJ 08108",
+    "defendant": "MICHAEL O'MEARA A/K/A MICHAEL T. O'MEARA AND MRS. MICHAEL \n O'MEARA HIS WIFE; NICOLE O'MEARA A/K/A NICOLE M. O'MEARA \n AND MR. NICOLE O'MEARA, HER HUSBAND; UNITED STATES OF \nAMERICA; STATE OF NEW JERSEY; LVNV FUNDING LLC;",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot 10 Block 21.09 f/k/a Lot 10 Block 73",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002212",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 564244.11,
+  "upset_amount_label": "Approx. Upset*"
+}

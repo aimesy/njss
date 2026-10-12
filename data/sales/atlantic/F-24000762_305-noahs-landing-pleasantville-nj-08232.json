@@ -1,0 +1,74 @@
+{
+  "address": "305 Noahs Landing Pleasantville NJ 08232",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-019001-19",
+  "current_status": "Scheduled",
+  "deed": "MCLP Asset Company, Inc",
+  "deed_address": "2001 Ross Avenue Suite 2800 Dallas, TX 75201",
+  "defendant": "David J. Alcantara; Accredited Surety & Casualty Company, Inc; Elen Alcantara; Noah's Landing Condominium Association, Inc; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "305 Noahs Landing\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$65,168.77",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-019001-19",
+    "Deed": "MCLP Asset Company, Inc",
+    "Deed Address": "2001 Ross Avenue Suite 2800 Dallas, TX 75201",
+    "Defendant": "David J. Alcantara; Accredited Surety & Casualty Company, Inc; Elen Alcantara; Noah's Landing Condominium Association, Inc; United States of America",
+    "Plaintiff": "MCLP Asset Company, INC",
+    "Priors": "US Bank Cust for PRO Cap 8, amount:$591.88\nDIV of Employer Accounts, amount:$2,794.02\nAdvanced Financial Federal Credit Union, New Providence, NJ, amount:$16,525.38\nBureau of Housing Inspection, amount: $561.00\nJoseph Rochford, amount: $585.04\nJoseph Rochford, amount: $1,433.43\nOffice of the Public Defender, amount: $500.00\nJudgment, amount: $571.32\nTotal: $23,562.07",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-24000762",
+    "Upset Amount": "$69,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 65168.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "305 Noahs Landing Pleasantville NJ 08232",
+    "defendant": "David J. Alcantara; ...",
+    "listing_status": null,
+    "plaintiff": "MCLP Asset Company, ...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "MCLP Asset Company, INC",
+  "priors": "US Bank Cust for PRO Cap 8, amount:$591.88 DIV of Employer Accounts, amount:$2,794.02 Advanced Financial Federal Credit Union, New Providence, NJ, amount:$16,525.38 Bureau of Housing Inspection, amount: $561.00 Joseph Rochford, amount: $585.04 Joseph Rochford, amount: $1,433.43 Office of the Public Defender, amount: $500.00 Judgment, amount: $571.32 Total: $23,562.07",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24000762",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-29",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 69000.0,
+  "upset_amount_label": "Upset Amount"
+}

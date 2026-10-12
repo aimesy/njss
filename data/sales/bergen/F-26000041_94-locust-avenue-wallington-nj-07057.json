@@ -1,0 +1,60 @@
+{
+  "address": "94 LOCUST AVENUE WALLINGTON NJ 07057",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00977424",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "AD ATLANTIC LLC; EGOR BURAK",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $744,045.20\nOCCUPANCY STATUS: OWNER OCCUPIED\nTHIS IS A COMMERICAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 744045.2
+  },
+  "fields": {
+    "Address": "94 LOCUST AVENUE\nWALLINGTON NJ 07057",
+    "Approx. Upset*": "$691,735.38",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00977424",
+    "Defendant": "AD ATLANTIC LLC; EGOR BURAK",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $744,045.20\nOCCUPANCY STATUS: OWNER OCCUPIED\nTHIS IS A COMMERICAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Parcel #": "LOT 2, BLOCK 44",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "4/24/2026",
+    "Sheriff #": "F-26000041"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "94 LOCUST AVENUE WALLINGTON NJ 07057",
+    "defendant": "AD ATLANTIC LLC; EGOR BURAK",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF ACQUISITION TRUST",
+    "sale_date": "2026-04-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2, BLOCK 44",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-04-24",
+  "sheriff_number": "F-26000041",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-02-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 691735.38,
+  "upset_amount_label": "Approx. Upset*"
+}

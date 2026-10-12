@@ -1,0 +1,63 @@
+{
+  "address": "552 ALLEGHENY ROAD DEPTFORD NJ 08090",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-008209-24",
+  "current_status": "Defendant Adjourned to",
+  "defendant": "CLAUDE CLARK; MRS. CLAUDE CLARK, WIFE OF CLAUDE CLARK AND UNITED STATES OF AMERICA",
+  "description": "UPSET PRICE: $119,835.24\nOCCUPIED STATUS: OCCUPIED",
+  "extracted": {
+    "upset_amount": 119835.24
+  },
+  "fields": {
+    "Address": "552 ALLEGHENY ROAD\nDEPTFORD NJ 08090",
+    "Approximate Judgment": "$112,033.97",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-008209-24",
+    "Defendant": "CLAUDE CLARK; MRS. CLAUDE CLARK, WIFE OF CLAUDE CLARK AND UNITED STATES OF AMERICA",
+    "Description": "UPSET PRICE: $119,835.24\nOCCUPIED STATUS: OCCUPIED",
+    "Parcel #": "LOT: 17 BLOCK: 544",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n552 ALLEGHENY ROAD DEPTFORD, NJ 08090, WITH A MAILING ADDRESS OF 552 ALLEGHENY ROAD WENONAH, NJ 08090\nLOT: 17 BLOCK: 544\nAPPROXIMATE DIMENSIONS: 67 x 115 FEET\nNEAREST CROSS STREET: WESTMINSTER ROAD\nUPSET PRICE: $119,835.24\nOCCUPIED STATUS: OCCUPIED\nSUBJECT TO:\nTAXES - DUE 8/1/25 $1,386.24 OPEN, GRACE PERIOD EXTENDED TO 8/29/25",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "F-25000942"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 112033.97,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "552 ALLEGHENY ROAD DEPTFORD NJ 08090",
+    "defendant": "CLAUDE CLARK; MRS. CLAUDE CLARK, WIFE OF CLAUDE CLARK AND UNITED STATES OF AMERICA",
+    "listing_status": "Defendant Adjourned to",
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Defendant Adjourned to",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 17 BLOCK: 544",
+  "plaintiff": "M&T BANK",
+  "property_note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n552 ALLEGHENY ROAD DEPTFORD, NJ 08090, WITH A MAILING ADDRESS OF 552 ALLEGHENY ROAD WENONAH, NJ 08090\nLOT: 17 BLOCK: 544\nAPPROXIMATE DIMENSIONS: 67 x 115 FEET\nNEAREST CROSS STREET: WESTMINSTER ROAD\nUPSET PRICE: $119,835.24\nOCCUPIED STATUS: OCCUPIED\nSUBJECT TO:\nTAXES - DUE 8/1/25 $1,386.24 OPEN, GRACE PERIOD EXTENDED TO 8/29/25",
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25000942",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-12-30",
+      "status": "Settled - Foreclosures"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjourned to"
+    }
+  ]
+}

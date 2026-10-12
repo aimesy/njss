@@ -1,0 +1,62 @@
+{
+  "address": "404 Woodlawn Avenue Williamstown (Buena Vista Twp) NJ 08094",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010659-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Mark A. Bruce; Lisa Bruce; Sherry Moore, her heirs, devisees and personal represenatives and his, his, their or any of their successors in right, title and interest; Mark A. Bruce, Jr., Tenant/Occupant; Daniel Bruce, Tenant/Occupant; Michael Bruce, Tenant/Occupant; Collings Lake Civic Association",
+  "extracted": {},
+  "fields": {
+    "Address": "404 Woodlawn Avenue\nWilliamstown (Buena Vista Twp) NJ 08094",
+    "Approx. Judgment*": "$200,276.90",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-010659-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Mark A. Bruce; Lisa Bruce; Sherry Moore, her heirs, devisees and personal represenatives and his, his, their or any of their successors in right, title and interest; Mark A. Bruce, Jr., Tenant/Occupant; Daniel Bruce, Tenant/Occupant; Michael Bruce, Tenant/Occupant; Collings Lake Civic Association",
+    "Plaintiff": "U.S. Bank National Association Not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "3/5/2026",
+    "Sheriff #": "F-25001276",
+    "Upset Amount": "$229,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 200276.9,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "404 Woodlawn Avenue Williamstown (Buena Vista Twp) NJ 08094",
+    "defendant": "Mark A. Bruce; Lisa ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2026-03-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association Not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-03-05",
+  "sheriff_number": "F-25001276",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-03-05",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 229500.0,
+  "upset_amount_label": "Upset Amount"
+}

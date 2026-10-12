@@ -1,0 +1,90 @@
+{
+  "address": "94 SMALLWOOD AVE BELLEVILLE NJ 07109",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_phone": null,
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00115725",
+  "current_status": "Settled - Foreclosure",
+  "defendant": "MARIA G. MERCURIO, ET. AL",
+  "description": "LOT: 15 BLOCK: 530\nDIMENSIONS OF LOT: (APPROXIMATELY) 50 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: BELLEVILLE AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $225,722.05. THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT. PROPERTY IS NOT OCCUPIED/VACANT.",
+  "extracted": {
+    "block": "530",
+    "lot": "15"
+  },
+  "fields": {
+    "Address": "94 SMALLWOOD AVE\nBELLEVILLE NJ 07109",
+    "Approx. Upset*": "$194,128.17",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney Phone": "",
+    "Court Case #": "F00115725",
+    "Defendant": "MARIA G. MERCURIO, ET. AL",
+    "Description": "LOT: 15 BLOCK: 530\nDIMENSIONS OF LOT: (APPROXIMATELY) 50 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: BELLEVILLE AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $225,722.05. THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT. PROPERTY IS NOT OCCUPIED/VACANT.",
+    "Parcel #": "",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION AS TRUSTEE FOR FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2019-1",
+    "Property Note": "",
+    "Sales Date": "8/18/2026",
+    "Sheriff #": "F-25003789"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "94 SMALLWOOD AVE BELLEVILLE NJ 07109",
+    "defendant": "MARIA G. MERCURIO, ET. AL",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION AS TRUSTEE FOR FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2019-1",
+    "sale_date": "2026-08-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION AS TRUSTEE FOR FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2019-1",
+  "property_note": null,
+  "sale_date": "2026-08-18",
+  "sheriff_number": "F-25003789",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-12-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Settled - Foreclosure"
+    }
+  ],
+  "upset_amount": 194128.17,
+  "upset_amount_label": "Approx. Upset*"
+}

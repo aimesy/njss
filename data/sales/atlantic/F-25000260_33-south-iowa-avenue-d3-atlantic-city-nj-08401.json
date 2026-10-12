@@ -1,0 +1,62 @@
+{
+  "address": "33 South Iowa Avenue D3 Atlantic City NJ 08401",
+  "attorney": "Bronster LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006188-22",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Frank Granieri; Wachovia Bank, NA; Wells Fargo Bank, NA; Pro Capital Fund I, LLC; Iowa Condominium Association, Inc; Madison Trust as Collateral Assignee of Stonefield Investment Fund Iv, LLC; United States of America-Internal Revenue Service",
+  "extracted": {},
+  "fields": {
+    "Address": "33 South Iowa Avenue\nD3\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$4,179.81",
+    "Attorney": "Bronster LLP",
+    "Court Case #": "F-006188-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Frank Granieri; Wachovia Bank, NA; Wells Fargo Bank, NA; Pro Capital Fund I, LLC; Iowa Condominium Association, Inc; Madison Trust as Collateral Assignee of Stonefield Investment Fund Iv, LLC; United States of America-Internal Revenue Service",
+    "Plaintiff": "FIG CUST FIGNJ19LLC & SEC PTY",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: TAX SALE CERT",
+    "Sales Date": "6/5/2025",
+    "Sheriff #": "F-25000260",
+    "Upset Amount": "$16,300.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 4179.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "33 South Iowa Avenue D3 Atlantic City NJ 08401",
+    "defendant": "Frank Granieri; Wach...",
+    "listing_status": null,
+    "plaintiff": "FIG CUST FIGNJ19LLC ...",
+    "sale_date": "2025-06-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "FIG CUST FIGNJ19LLC & SEC PTY",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: TAX SALE CERT",
+  "sale_date": "2025-06-05",
+  "sheriff_number": "F-25000260",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-05",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 16300.0,
+  "upset_amount_label": "Upset Amount"
+}

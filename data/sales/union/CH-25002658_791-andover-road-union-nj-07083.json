@@ -1,0 +1,60 @@
+{
+  "address": "791 ANDOVER ROAD UNION NJ 07083",
+  "attorney": "HILL WALLACK LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00552525",
+  "current_status": "Defendant Adjournment",
+  "defendant": "CATHERINE LANNO A/K/A CATHERINE ANN LANNO; WELLS FARGO BANK, N.A. S/B/M/T WACHOVIA BANK, N.A.",
+  "description": "lot 18 block 3603",
+  "extracted": {
+    "block": "3603",
+    "lot": "18"
+  },
+  "fields": {
+    "Address": "791 ANDOVER ROAD\nUNION NJ 07083",
+    "Approx. Upset*": "$64,598.58",
+    "Attorney": "HILL WALLACK LLP",
+    "Court Case #": "F00552525",
+    "Defendant": "CATHERINE LANNO A/K/A CATHERINE ANN LANNO; WELLS FARGO BANK, N.A. S/B/M/T WACHOVIA BANK, N.A.",
+    "Description": "lot 18 block 3603",
+    "Parcel #": "lot 18 block 3603",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "3/11/2026",
+    "Sheriff #": "CH-25002658"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "791 ANDOVER ROAD UNION NJ 07083",
+    "defendant": "CATHERINE LANNO A/K/A CATHERINE ANN LANNO; WELLS FARGO BANK, N.A. S/B/M/T WACHOVIA BANK, N.A.",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2026-03-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "lot 18 block 3603",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-11",
+  "sheriff_number": "CH-25002658",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 64598.58,
+  "upset_amount_label": "Approx. Upset*"
+}

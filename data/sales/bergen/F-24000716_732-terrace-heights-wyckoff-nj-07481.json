@@ -1,0 +1,101 @@
+{
+  "address": "732 TERRACE HEIGHTS WYCKOFF NJ 07481",
+  "attorney": "POWERS KIRN LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00430722",
+  "current_status": "Cancelled",
+  "defendant": "JOHN R CLARKE, LINDA M CLARKE, ET AL",
+  "description": "Plaintiff's upset bid is $2,658,339.21 in accordance with the requirements of Section 12 of P.L. 1995, c. 244(C.2A:50-64) as amended.\nThe property is reported to be owner occupied.",
+  "extracted": {},
+  "fields": {
+    "Address": "732 TERRACE HEIGHTS\nWYCKOFF NJ 07481",
+    "Approx. Upset*": "$2,357,420.69",
+    "Attorney": "POWERS KIRN LLC",
+    "Court Case #": "F00430722",
+    "Defendant": "JOHN R CLARKE, LINDA M CLARKE, ET AL",
+    "Description": "Plaintiff's upset bid is $2,658,339.21 in accordance with the requirements of Section 12 of P.L. 1995, c. 244(C.2A:50-64) as amended.\nThe property is reported to be owner occupied.",
+    "Parcel #": "BLOCK 425 LOT 51",
+    "Plaintiff": "US BANK NATIONAL ASSOCIATION AS TRUSTEE FOR CMALT REMIC SERIES 2007 A8 REMIC PASS THROUGH CERTIFICATES SERIES 2007 A8",
+    "Property Note": "",
+    "Sales Date": "1/20/2026",
+    "Sheriff #": "F-24000716"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "732 TERRACE HEIGHTS WYCKOFF NJ 07481",
+    "defendant": "JOHN R CLARKE, LINDA M CLARKE, ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK NATIONAL ASSOCIATION AS TRUSTEE FOR CMALT REMIC SERIES 2007 A8 REMIC PASS THROUGH CERTIFICATES SERIES 2007 A8",
+    "sale_date": "2026-01-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "BLOCK 425 LOT 51",
+  "plaintiff": "US BANK NATIONAL ASSOCIATION AS TRUSTEE FOR CMALT REMIC SERIES 2007 A8 REMIC PASS THROUGH CERTIFICATES SERIES 2007 A8",
+  "property_note": null,
+  "sale_date": "2026-01-20",
+  "sheriff_number": "F-24000716",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2024-04-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-05-10",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-07-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-08-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-11-15",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-12-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-01-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-03-28",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-05-30",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-08-01",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-10-03",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 2357420.69,
+  "upset_amount_label": "Approx. Upset*"
+}

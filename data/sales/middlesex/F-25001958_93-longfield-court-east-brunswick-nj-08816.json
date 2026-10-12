@@ -1,0 +1,71 @@
+{
+  "address": "93 LONGFIELD COURT EAST BRUNSWICK NJ 08816",
+  "attorney": "MEZZACCA & KWASNIK LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "732-549-4600",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00290621",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ALBERTO RODRIGUEZ, ET ALS.",
+  "description": "LOT 1, QUAL C0093 BLOCK 26",
+  "extracted": {
+    "block": "26",
+    "lot": "1"
+  },
+  "fields": {
+    "Approx. Judgment*": "$64,933.45",
+    "Attorney": "MEZZACCA & KWASNIK LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "732-549-4600",
+    "Court Case #": "F00290621",
+    "Defendant": "ALBERTO RODRIGUEZ, ET ALS.",
+    "Description": "LOT 1, QUAL C0093 BLOCK 26",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "CROSSPOINTE CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "93 LONGFIELD COURT\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "",
+    "Sale Date": "12/17/2025",
+    "Sheriff #": "F-25001958"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 64933.45,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "93 LONGFIELD COURT EAST BRUNSWICK NJ 08816",
+    "defendant": "ALBERTO RODRIGUEZ, ET ALS.",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "CROSSPOINTE CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "CROSSPOINTE CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25001958",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

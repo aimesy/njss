@@ -1,0 +1,72 @@
+{
+  "address": "1165-1167 GREEN STREET WOODBRIDGE NJ 08830",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00724524",
+  "current_status": "Settled",
+  "defendant": "SHRI-JEE LAND INVESTMENT LLC, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$271,245.41",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00724524",
+    "Defendant": "SHRI-JEE LAND INVESTMENT LLC, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 5 BLOCK 313.13 FKA 373.M",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2023-3",
+    "Property Address": "1165-1167 GREEN STREET\nWOODBRIDGE NJ 08830",
+    "Property Note": "",
+    "Sale Date": "12/17/2025",
+    "Sheriff #": "F-25000046"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 271245.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1165-1167 GREEN STREET WOODBRIDGE NJ 08830",
+    "defendant": "SHRI-JEE LAND INVESTMENT LLC, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2023-3",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 5 BLOCK 313.13 FKA 373.M",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2023-3",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25000046",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-09",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "1430 Madison Avenue Atlantic City NJ 08401",
+  "attorney": "Gary C. Zeitz, L.L.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-20652-18",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "TA JA Real Estate Investors, LLC; United States of America; Meadowbrook Condo Assoc Inc; State of New Jersey; Capital One Bank (USA) N.A. f/k/a Capital One bank and Fannie Mae a/k/a Federal National Mortgage Association",
+  "extracted": {},
+  "fields": {
+    "Address": "1430 Madison Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$68,194.61",
+    "Attorney": "Gary C. Zeitz, L.L.C.",
+    "Court Case #": "F-20652-18",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "TA JA Real Estate Investors, LLC; United States of America; Meadowbrook Condo Assoc Inc; State of New Jersey; Capital One Bank (USA) N.A. f/k/a Capital One bank and Fannie Mae a/k/a Federal National Mortgage Association",
+    "Plaintiff": "PCIII REO LLC",
+    "Priors": "Tax Sale Certificate #23-10490 as of 4/30/2025, amount: $91,704.50",
+    "Property Note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+    "Sales Date": "6/26/2025",
+    "Sheriff #": "F-25000427",
+    "Upset Amount": "$1.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 68194.61,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1430 Madison Avenue Atlantic City NJ 08401",
+    "defendant": "TA JA Real Estate In...",
+    "listing_status": null,
+    "plaintiff": "PCIII REO LLC...",
+    "sale_date": "2025-06-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PCIII REO LLC",
+  "priors": "Tax Sale Certificate #23-10490 as of 4/30/2025, amount: $91,704.50",
+  "property_note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+  "sale_date": "2025-06-26",
+  "sheriff_number": "F-25000427",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-26",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 1.0,
+  "upset_amount_label": "Upset Amount"
+}

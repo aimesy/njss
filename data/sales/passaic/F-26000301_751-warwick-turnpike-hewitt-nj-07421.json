@@ -1,0 +1,49 @@
+{
+  "address": "751 WARWICK Turnpike Hewitt NJ 07421",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 010532 25 CTL # 163149",
+  "current_status": "Cancelled",
+  "defendant": "EDWARD LUTERZO, ET AL",
+  "description": "Dimensions of Lot ( approximately) 372.59 feet wide by 71.77 feet long\nNearest cross street: Glenridge Road\nThe estimated upset amount for the scheduled sheriff sale is currently $347,293.50\nThe upset price is not the same as a payoff or judgement redemption amount\nProperty is occupied by unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "751 WARWICK Turnpike\nHewitt NJ 07421",
+    "Approx. Upset*": "$319,177.13",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F 010532 25 CTL # 163149",
+    "Defendant": "EDWARD LUTERZO, ET AL",
+    "Description": "Dimensions of Lot ( approximately) 372.59 feet wide by 71.77 feet long\nNearest cross street: Glenridge Road\nThe estimated upset amount for the scheduled sheriff sale is currently $347,293.50\nThe upset price is not the same as a payoff or judgement redemption amount\nProperty is occupied by unknown.",
+    "Parcel #": "Tax Lot 3 and 4.02 Block 1101",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "5/6/2026",
+    "Sheriff #": "F-26000301"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "751 WARWICK Turnpike Hewitt NJ 07421",
+    "defendant": "EDWARD LUTERZO, ET AL",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 3 and 4.02 Block 1101",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "F-26000301",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-05-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 319177.13,
+  "upset_amount_label": "Approx. Upset*"
+}

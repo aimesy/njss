@@ -1,0 +1,56 @@
+{
+  "address": "2048 PROSPECT AVENUE SCOTCH PLAINS NJ 07076",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00274325",
+  "current_status": "Settled",
+  "defendant": "SCOTT SANTORO; BERNADINE SANTORO; UNITED STATES OF AMERICA",
+  "description": "LOT 7 BLOCK 2803",
+  "extracted": {
+    "block": "2803",
+    "lot": "7"
+  },
+  "fields": {
+    "Address": "2048 PROSPECT AVENUE\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$456,959.23",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00274325",
+    "Defendant": "SCOTT SANTORO; BERNADINE SANTORO; UNITED STATES OF AMERICA",
+    "Description": "LOT 7 BLOCK 2803",
+    "Parcel #": "LOT 7 BLOCK 2803",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "12/17/2025",
+    "Sheriff #": "CH-25002487"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2048 PROSPECT AVENUE SCOTCH PLAINS NJ 07076",
+    "defendant": "SCOTT SANTORO; BERNADINE SANTORO; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 7 BLOCK 2803",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "CH-25002487",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 456959.23,
+  "upset_amount_label": "Approx. Upset*"
+}

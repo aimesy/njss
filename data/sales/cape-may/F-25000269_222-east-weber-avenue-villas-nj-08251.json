@@ -1,0 +1,72 @@
+{
+  "address": "222 East WEBER Avenue Villas NJ 08251",
+  "attorney": "KML Law Group, PC",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-007631-24",
+  "current_status": "Scheduled",
+  "defendant": "GEORGE FRAME, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$150,959.32",
+    "Attorney": "KML Law Group, PC",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-007631-24",
+    "Defendant": "GEORGE FRAME, ET AL",
+    "Description": "",
+    "Minimum Bid": "$166,164.65",
+    "Parcel #": "LOT 11 & 12, BLOCK 203",
+    "Plaintiff": "**SETTLED**FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+    "Property Address": "222 East WEBER Avenue\nVillas NJ 08251",
+    "Property Note": "",
+    "Sale Date": "2/4/2026",
+    "Sheriff #": "F-25000269"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 150959.32,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "222 East WEBER Avenue Villas NJ 08251",
+    "defendant": "GEORGE FRAME, ET AL",
+    "listing_status": null,
+    "plaintiff": "**SETTLED**FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 11 & 12, BLOCK 203",
+  "plaintiff": "**SETTLED**FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "F-25000269",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2026-02-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 166164.65,
+  "upset_amount_label": "Minimum Bid"
+}

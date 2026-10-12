@@ -1,0 +1,62 @@
+{
+  "address": "830 Marshall Court Unit 830 Ventnor City NJ 08406",
+  "attorney": "Hladik, Onorato & Federman, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003151-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Gerald McGee; Waterview Condominium Association",
+  "extracted": {},
+  "fields": {
+    "Address": "830 Marshall Court\nUnit 830\nVentnor City NJ 08406",
+    "Approx. Judgment*": "$101,811.87",
+    "Attorney": "Hladik, Onorato & Federman, LLP",
+    "Court Case #": "F-003151-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Gerald McGee; Waterview Condominium Association",
+    "Plaintiff": "Massachusetts Mutual Life Insurance Company",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24001289",
+    "Upset Amount": "$115,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 101811.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "830 Marshall Court Unit 830 Ventnor City NJ 08406",
+    "defendant": "Gerald McGee; Waterv...",
+    "listing_status": null,
+    "plaintiff": "Massachusetts Mutual...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Massachusetts Mutual Life Insurance Company",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24001289",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 115000.0,
+  "upset_amount_label": "Upset Amount"
+}

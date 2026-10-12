@@ -1,0 +1,75 @@
+{
+  "address": "415 LINCOLN AVENUE GLEN ROCK NJ 07452",
+  "attorney": "PLUESE, BECKER, SALTZMAN AND THOMAS, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F03040512",
+  "current_status": "Cancelled",
+  "defendant": "JOSEPH LUCCA; AND COLETTE LUCCA AKA COLETTE M LUCCA, HIS WIFE; ET AL",
+  "description": "The Plaintiff's Upset Bid presently approximates $536,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "415 LINCOLN AVENUE\nGLEN ROCK NJ 07452",
+    "Approx. Upset*": "$483,920.68",
+    "Attorney": "PLUESE, BECKER, SALTZMAN AND THOMAS, LLC",
+    "Court Case #": "F03040512",
+    "Defendant": "JOSEPH LUCCA; AND COLETTE LUCCA AKA COLETTE M LUCCA, HIS WIFE; ET AL",
+    "Description": "The Plaintiff's Upset Bid presently approximates $536,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "LOT 21, BLOCK 54",
+    "Plaintiff": "DLJ MORTGAGE CAPITAL, INC",
+    "Property Note": "",
+    "Sales Date": "1/9/2026",
+    "Sheriff #": "F-25000341"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "415 LINCOLN AVENUE GLEN ROCK NJ 07452",
+    "defendant": "JOSEPH LUCCA; AND COLETTE LUCCA AKA COLETTE M LUCCA, HIS WIFE; ET AL",
+    "listing_status": null,
+    "plaintiff": "DLJ MORTGAGE CAPITAL, INC",
+    "sale_date": "2026-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 21, BLOCK 54",
+  "plaintiff": "DLJ MORTGAGE CAPITAL, INC",
+  "property_note": null,
+  "sale_date": "2026-01-09",
+  "sheriff_number": "F-25000341",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-04-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-03",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 483920.68,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "87 HAZEL Street Clifton NJ 07011",
+  "attorney": "STERN & EISENBERG, PC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 006314 25 CTL # 163097",
+  "current_status": "Bankruptcy",
+  "defendant": "BERNARDINO SAAVEDRA, ET AL.",
+  "description": "Approximate Dimensions: 52' x 110'\nNearest Cross Street: Hazelview Avenue. A full legal description can be found at the Office of the Register\nTaxes and other Emcumbrances:\nTaxes current through 4th quarter of 2025\nWater-Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer current throught September 10, 2025\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $508,444.79, good through April 11, 2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nSubject to the conditions of sale as set forth by the sheriff who reserves the right to adjourn the sael without further notice through publication.\nSubject to: Such facts as an accurate survey and physical inspection of the premises may reveal, easements and restrictions of record, if any; unpaid taxes, assessments, water and sewer liens, if any; rights of tenants and occupants, if any; state and municipal ordinances, statutes and regulations, including zoning ordinances, any outstanding taxes, water and sewer with interest through the date of payoff; if the sale is set aside for any reason, the purchaser at the sale shall be entitled only to a return of the deposit paid. The purchaser shall have no further recourse, including any costs and expenses, including attorney's fees, for bidding upon the property, against the mortgagee, or the mortgagee's attorney; the outstanding taxes, liens and/or encumbrances disclosed in this publication are accurate as of the date of submission to the Sheriff only. It is the responsibility of any potential bidder at sale to determine the amount due, which can be obtained from the local taxing authority. Plaintiff has no obligation to further investigate, publish or announce any subsequently accruing taxes, liens and/or encumbrances. Third party bidders expressly agree and recognize that they will take title subject to the existence of any subsequently accruing taxes, liens and/or encumbrances and absolutely and unequivocally release any right to challenge the validity of the sale based on the existence of same.",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown.",
+    "upset_amount": 508444.79
+  },
+  "fields": {
+    "Address": "87 HAZEL Street\nClifton NJ 07011",
+    "Approx. Upset*": "$465,293.04",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Court Case #": "F 006314 25 CTL # 163097",
+    "Defendant": "BERNARDINO SAAVEDRA, ET AL.",
+    "Description": "Approximate Dimensions: 52' x 110'\nNearest Cross Street: Hazelview Avenue. A full legal description can be found at the Office of the Register\nTaxes and other Emcumbrances:\nTaxes current through 4th quarter of 2025\nWater-Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer current throught September 10, 2025\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $508,444.79, good through April 11, 2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nSubject to the conditions of sale as set forth by the sheriff who reserves the right to adjourn the sael without further notice through publication.\nSubject to: Such facts as an accurate survey and physical inspection of the premises may reveal, easements and restrictions of record, if any; unpaid taxes, assessments, water and sewer liens, if any; rights of tenants and occupants, if any; state and municipal ordinances, statutes and regulations, including zoning ordinances, any outstanding taxes, water and sewer with interest through the date of payoff; if the sale is set aside for any reason, the purchaser at the sale shall be entitled only to a return of the deposit paid. The purchaser shall have no further recourse, including any costs and expenses, including attorney's fees, for bidding upon the property, against the mortgagee, or the mortgagee's attorney; the outstanding taxes, liens and/or encumbrances disclosed in this publication are accurate as of the date of submission to the Sheriff only. It is the responsibility of any potential bidder at sale to determine the amount due, which can be obtained from the local taxing authority. Plaintiff has no obligation to further investigate, publish or announce any subsequently accruing taxes, liens and/or encumbrances. Third party bidders expressly agree and recognize that they will take title subject to the existence of any subsequently accruing taxes, liens and/or encumbrances and absolutely and unequivocally release any right to challenge the validity of the sale based on the existence of same.",
+    "Parcel #": "Tax Lot 4 Block 24.10",
+    "Plaintiff": "US BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-EMX1",
+    "Property Note": "",
+    "Sales Date": "4/28/2026",
+    "Sheriff #": "F-25001822"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "87 HAZEL Street Clifton NJ 07011",
+    "defendant": "BERNARDINO SAAVEDRA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-EMX1",
+    "sale_date": "2026-04-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 4 Block 24.10",
+  "plaintiff": "US BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-EMX1",
+  "property_note": null,
+  "sale_date": "2026-04-28",
+  "sheriff_number": "F-25001822",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-03-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 465293.04,
+  "upset_amount_label": "Approx. Upset*"
+}

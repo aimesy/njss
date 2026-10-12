@@ -1,0 +1,69 @@
+{
+  "address": "269 Boulevard Passaic NJ 07055",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 009903 23 CTRL# 162948",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "HORACIO CARRERA, ET AL.",
+  "description": "Dimensions of Lot: (Approximately) 50.00 feet by 203.98 feet\nNearest Cross Street: Passaic County 622\nThe estimated upset amount for the scheduled sheriff sale is currently $399,275.38\nThe upset price is not the same as a payoff or judgement redemption amount.\nProperty is occupied by unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "269 Boulevard\nPassaic NJ 07055",
+    "Approx. Upset*": "$353,003.16",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F 009903 23 CTRL# 162948",
+    "Defendant": "HORACIO CARRERA, ET AL.",
+    "Description": "Dimensions of Lot: (Approximately) 50.00 feet by 203.98 feet\nNearest Cross Street: Passaic County 622\nThe estimated upset amount for the scheduled sheriff sale is currently $399,275.38\nThe upset price is not the same as a payoff or judgement redemption amount.\nProperty is occupied by unknown.",
+    "Parcel #": "Tax Lot No. 15 Block 3240",
+    "Plaintiff": "MILL CITY MORTGAGE LOAN TRUST 2018-3, WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "2/3/2026",
+    "Sheriff #": "F-25000606"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "269 Boulevard Passaic NJ 07055",
+    "defendant": "HORACIO CARRERA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "MILL CITY MORTGAGE LOAN TRUST 2018-3, WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE",
+    "sale_date": "2026-02-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot No. 15 Block 3240",
+  "plaintiff": "MILL CITY MORTGAGE LOAN TRUST 2018-3, WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-02-03",
+  "sheriff_number": "F-25000606",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-29",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 353003.16,
+  "upset_amount_label": "Approx. Upset*"
+}

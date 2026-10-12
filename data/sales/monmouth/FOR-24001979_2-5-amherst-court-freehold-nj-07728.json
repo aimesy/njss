@@ -1,0 +1,63 @@
+{
+  "address": "2-5 Amherst Court Freehold NJ 07728",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00169824",
+  "current_status": "Scheduled",
+  "defendant": "Scott H. Barmherzig, et al",
+  "description": "Approximate dimensions: Condominium\nNearest Cross Street: Joda Drive\nUpset price $159,460.78 (Note, this is a good faith estimate of the upset price at Sheriff’s sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:b-21(b)(1), if any.\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+  "extracted": {
+    "upset_amount": 159460.78
+  },
+  "fields": {
+    "Address": "2-5 Amherst Court\nFreehold NJ 07728",
+    "Approx. Judgment*": "$99,396.56",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F00169824",
+    "Defendant": "Scott H. Barmherzig, et al",
+    "Description": "Approximate dimensions: Condominium\nNearest Cross Street: Joda Drive\nUpset price $159,460.78 (Note, this is a good faith estimate of the upset price at Sheriff’s sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:b-21(b)(1), if any.\nA full legal description of the premises can be found in the Office of the Sheriff of Monmouth County",
+    "Parcel #": "Lot 2.05, Block 86.180, Qualifier S01 Tax Map of the Township of Freehold",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as owner trustee for RCF 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "3/28/2025",
+    "Sheriff #": "FOR-24001979"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 99396.56,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2-5 Amherst Court Freehold NJ 07728",
+    "defendant": "Scott H. Barmherzig, et al",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as owner trustee for RCF 2 Acquisition Trust",
+    "sale_date": "2025-03-28"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 2.05, Block 86.180, Qualifier S01 Tax Map of the Township of Freehold",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as owner trustee for RCF 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-03-28",
+  "sheriff_number": "FOR-24001979",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-28",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

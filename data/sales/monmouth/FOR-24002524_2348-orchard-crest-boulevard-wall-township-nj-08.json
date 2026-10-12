@@ -1,0 +1,56 @@
+{
+  "address": "2348 Orchard Crest Boulevard Wall Township NJ 08736",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00176621",
+  "current_status": "Scheduled",
+  "defendant": "Richard Herro et al.",
+  "description": "Approximate Dimensions: 102.00 x 170.67 x 177.00 x 214.00\nNearest Cross Street: Cortland Drive\nUPSET PRICE: $298,213.60\nOCCUPANCY STATUS: OCCUPIED\nSubject to:\nFirst Mortgage in the amount of $410,000.00. Recorded on 11/17/03\nWater: $236.38 Open Plus penalty; Owed in Arrears\nSewer: $118.21Open Plus penalty; Owed in Arrears\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 298213.6
+  },
+  "fields": {
+    "Address": "2348 Orchard Crest Boulevard\nWall Township NJ 08736",
+    "Approx. Judgment*": "$269,329.39",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00176621",
+    "Defendant": "Richard Herro et al.",
+    "Description": "Approximate Dimensions: 102.00 x 170.67 x 177.00 x 214.00\nNearest Cross Street: Cortland Drive\nUPSET PRICE: $298,213.60\nOCCUPANCY STATUS: OCCUPIED\nSubject to:\nFirst Mortgage in the amount of $410,000.00. Recorded on 11/17/03\nWater: $236.38 Open Plus penalty; Owed in Arrears\nSewer: $118.21Open Plus penalty; Owed in Arrears\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "Tax Lot: 34 Block: 811.01 Located on the tax map of the Township of Wall of",
+    "Plaintiff": "MEB Loan Trust II",
+    "Property Note": "",
+    "Sales Date": "3/3/2025",
+    "Sheriff #": "FOR-24002524"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 269329.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2348 Orchard Crest Boulevard Wall Township NJ 08736",
+    "defendant": "Richard Herro et al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "MEB Loan Trust II",
+    "sale_date": "2025-03-03"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 34 Block: 811.01 Located on the tax map of the Township of Wall of",
+  "plaintiff": "MEB Loan Trust II",
+  "property_note": null,
+  "sale_date": "2025-03-03",
+  "sheriff_number": "FOR-24002524",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

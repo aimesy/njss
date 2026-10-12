@@ -1,0 +1,69 @@
+{
+  "address": "118 CLEVELAND AVENUE MOUNT EPHRAIM NJ 08059",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00420625",
+  "current_status": "Purchased",
+  "defendant": "GEORGE E. DYE, DECEASED, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTERREST, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "118 CLEVELAND AVENUE\nMOUNT EPHRAIM NJ 08059",
+    "Approx. Upset*": "$212,249.38",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00420625",
+    "Defendant": "GEORGE E. DYE, DECEASED, HIS/HER HEIRS,\nDEVISEES, AND PERSONAL REPRESENTATIVES, AND\nHIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN\nRIGHT, TITLE AND INTERREST, ET AL",
+    "Parcel #": "",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-25002742"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "118 CLEVELAND AVENUE MOUNT EPHRAIM NJ 08059",
+    "defendant": "GEORGE E. DYE, DECEASED, HIS/HER HEIRS, \nDEVISEES, AND PERSONAL REPRESENTATIVES, AND \nHIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN \nRIGHT, TITLE AND INTERREST, ET AL",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-25002742",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 212249.38,
+  "upset_amount_label": "Approx. Upset*"
+}

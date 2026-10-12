@@ -1,0 +1,64 @@
+{
+  "address": "251 CONNORS DRIVE SOUTH AMBOY NJ 08879",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00808223",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "DAVID SILVA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$295,000.23",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00808223",
+    "Defendant": "DAVID SILVA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 12 BLOCK 159",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 AQUISITION TRUST",
+    "Property Address": "251 CONNORS DRIVE\nSOUTH AMBOY NJ 08879",
+    "Property Note": "sold to a third party on 12/4/2024. bankruptcy was filed within the ten day redemption. the redemption period is extended to February 14, 2025",
+    "Sale Date": "8/20/2025",
+    "Sheriff #": "F-776541"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 295000.23,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "251 CONNORS DRIVE SOUTH AMBOY NJ 08879",
+    "defendant": "DAVID SILVA, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 AQUISITION TRUST",
+    "sale_date": "2025-08-20"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 12 BLOCK 159",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 AQUISITION TRUST",
+  "property_note": "sold to a third party on 12/4/2024. bankruptcy was filed within the ten day redemption. the redemption period is extended to February 14, 2025",
+  "sale_date": "2025-08-20",
+  "sheriff_number": "F-776541",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

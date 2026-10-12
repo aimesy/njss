@@ -1,0 +1,63 @@
+{
+  "address": "300 GORGE ROAD CLIFFSIDE PARK NJ 07010",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00328325",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "LUIS J. CASNEIRO; MRS. CASNEIRO, SPOUSE OF LUIS J. CASNEIRO",
+  "description": "ESTIMATED UPSET BID AMOUNT: $527,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "300 GORGE ROAD\nCLIFFSIDE PARK NJ 07010",
+    "Approx. Upset*": "$483,186.13",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F00328325",
+    "Defendant": "LUIS J. CASNEIRO; MRS. CASNEIRO, SPOUSE OF LUIS J. CASNEIRO",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $527,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 2 FKA 2B, BLOCK 705 FKA 43A, QUALIFIER C0054",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "F-25002138"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "300 GORGE ROAD CLIFFSIDE PARK NJ 07010",
+    "defendant": "LUIS J. CASNEIRO; MRS. CASNEIRO, SPOUSE OF LUIS J. CASNEIRO",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2 FKA 2B, BLOCK 705 FKA 43A, QUALIFIER C0054",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "F-25002138",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 483186.13,
+  "upset_amount_label": "Approx. Upset*"
+}

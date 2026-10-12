@@ -1,0 +1,72 @@
+{
+  "address": "1334 STAGECOACH Road Ocean View NJ 08230",
+  "attorney": "Brock and Scott, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "844-856-6646",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-000337-25",
+  "current_status": "Scheduled",
+  "defendant": "**SETTLED**MARY RYBICKI, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$254,734.77",
+    "Attorney": "Brock and Scott, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "844-856-6646",
+    "Court Case #": "F-000337-25",
+    "Defendant": "**SETTLED**MARY RYBICKI, ET AL",
+    "Description": "",
+    "Minimum Bid": "$277,155.68",
+    "Parcel #": "LOT 47, BLOCK 549",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Address": "1334 STAGECOACH Road\nOcean View NJ 08230",
+    "Property Note": "",
+    "Sale Date": "11/12/2025",
+    "Sheriff #": "F-25000177"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 254734.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1334 STAGECOACH Road Ocean View NJ 08230",
+    "defendant": "**SETTLED**MARY RYBICKI, ET AL",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2025-11-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 47, BLOCK 549",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-11-12",
+  "sheriff_number": "F-25000177",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-11-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 277155.68,
+  "upset_amount_label": "Minimum Bid"
+}

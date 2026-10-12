@@ -1,0 +1,61 @@
+{
+  "address": "102 CHRISTMAS TREE COURT 102 CHRISTMAS TREE COURT, TOWN OF WINSLOW, NJ 08081 SICKLERVILE NJ",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01918319",
+  "current_status": "Defendant Adjournment",
+  "defendant": "YAW KONADU; GIFTY CLOTTEY; DISCOVER BANK; MIDLAND FUNDING LLC; CAPITAL ONE BANK USA NA; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "extracted": {},
+  "fields": {
+    "Address": "102 CHRISTMAS TREE COURT\n102 CHRISTMAS TREE COURT, TOWN OF WINSLOW, NJ 08081\nSICKLERVILE NJ",
+    "Approx. Upset*": "$392,235.37",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F01918319",
+    "Defendant": "YAW KONADU; GIFTY CLOTTEY; DISCOVER BANK;\nMIDLAND FUNDING LLC; CAPITAL ONE BANK USA NA;\nNEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Parcel #": "",
+    "Plaintiff": "NATIONST MORTGAGE LLC D/B/A MR. COOPER",
+    "Property Note": "",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-26000299"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "102 CHRISTMAS TREE COURT 102 CHRISTMAS TREE COURT, TOWN OF WINSLOW, NJ 08081 SICKLERVILE NJ",
+    "defendant": "YAW KONADU; GIFTY CLOTTEY; DISCOVER BANK; \nMIDLAND FUNDING LLC; CAPITAL ONE BANK USA NA; \nNEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "listing_status": null,
+    "plaintiff": "NATIONST MORTGAGE LLC D/B/A MR. COOPER",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NATIONST MORTGAGE LLC D/B/A MR. COOPER",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-26000299",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-24",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 392235.37,
+  "upset_amount_label": "Approx. Upset*"
+}

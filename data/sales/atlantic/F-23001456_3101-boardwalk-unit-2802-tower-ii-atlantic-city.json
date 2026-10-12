@@ -1,0 +1,70 @@
+{
+  "address": "3101 Boardwalk Unit 2802, Tower II Atlantic City NJ 08401",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006659-23",
+  "current_status": "Scheduled",
+  "deed": "Cascade Funding Mortgage Trust HB9",
+  "deed_address": "1661 Worthington Rd, Suite 100, West Palm Beach, FL 33409",
+  "defendant": "Theodore Rosenthal, His/Her Heirs, Devisees and Personal Representatives and His, Hers, Their or Any of Their Successors in Right; Title and Interest; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "3101 Boardwalk\nUnit 2802, Tower II\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$400,510.67",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-006659-23",
+    "Deed": "Cascade Funding Mortgage Trust HB9",
+    "Deed Address": "1661 Worthington Rd, Suite 100, West Palm Beach, FL 33409",
+    "Defendant": "Theodore Rosenthal, His/Her Heirs, Devisees and Personal Representatives and His, Hers, Their or Any of Their Successors in Right; Title and Interest; State of New Jersey; United States of America",
+    "Plaintiff": "Mortgage Assets Management, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "8/21/2025",
+    "Sheriff #": "F-23001456",
+    "Upset Amount": "$440,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 400510.67,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3101 Boardwalk Unit 2802, Tower II Atlantic City NJ 08401",
+    "defendant": "Theodore Rosenthal, ...",
+    "listing_status": null,
+    "plaintiff": "Mortgage Assets Mana...",
+    "sale_date": "2025-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Mortgage Assets Management, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-08-21",
+  "sheriff_number": "F-23001456",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 440500.0,
+  "upset_amount_label": "Upset Amount"
+}

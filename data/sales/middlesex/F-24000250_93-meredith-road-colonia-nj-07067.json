@@ -1,0 +1,68 @@
+{
+  "address": "93 MEREDITH ROAD COLONIA NJ 07067",
+  "attorney": "MINION & SHERMAN",
+  "attorney_file_number": null,
+  "attorney_phone": "732-606-9100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00432323",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JESSIE LAQUAN RASHEN SANDERS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$1,033,092.67",
+    "Attorney": "MINION & SHERMAN",
+    "Attorney File #": "",
+    "Attorney Phone": "732-606-9100",
+    "Court Case #": "F00432323",
+    "Defendant": "JESSIE LAQUAN RASHEN SANDERS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 3.01 BLOCK 477.09",
+    "Plaintiff": "SOUTH CAROLINA FEDERAL CREDIT UNION",
+    "Property Address": "93 MEREDITH ROAD\nCOLONIA NJ 07067",
+    "Property Note": "",
+    "Sale Date": "3/19/2025",
+    "Sheriff #": "F-24000250"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1033092.67,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "93 MEREDITH ROAD COLONIA NJ 07067",
+    "defendant": "JESSIE LAQUAN RASHEN SANDERS, ET ALS.",
+    "listing_status": "Bankruptcy Dismissed",
+    "plaintiff": "SOUTH CAROLINA FEDERAL CREDIT UNION",
+    "sale_date": "2025-03-19"
+  },
+  "listing_status": "Bankruptcy Dismissed",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 3.01 BLOCK 477.09",
+  "plaintiff": "SOUTH CAROLINA FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2025-03-19",
+  "sheriff_number": "F-24000250",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

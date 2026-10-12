@@ -1,0 +1,64 @@
+{
+  "address": "45 Lenny Court Aberdeen NJ 07747",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00643425",
+  "current_status": "Scheduled",
+  "defendant": "Paul J. Wahler et. al.",
+  "description": "Approximate Dimensions: Condominium\nNearest Cross Street:Atlantic Avenue\nUpset Price : $222,574.34\nOccupancy Status: Unknown\nSubject to:\nWater - 04/01/2025 - 06/30/2025 $163.75 Open Plus Penalty $357.71 Open Plus Penalty; Owed In Arrears\nSewer 07/01/2025 - 09/30/2025 $182.00 Open Plus Penalty $1,027.04 Open Plus Penalty; Owed In Arrears\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 222574.34
+  },
+  "fields": {
+    "Address": "45 Lenny Court\nAberdeen NJ 07747",
+    "Approx. Judgment*": "$211,575.76",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00643425",
+    "Defendant": "Paul J. Wahler et. al.",
+    "Description": "Approximate Dimensions: Condominium\nNearest Cross Street:Atlantic Avenue\nUpset Price : $222,574.34\nOccupancy Status: Unknown\nSubject to:\nWater - 04/01/2025 - 06/30/2025 $163.75 Open Plus Penalty $357.71 Open Plus Penalty; Owed In Arrears\nSewer 07/01/2025 - 09/30/2025 $182.00 Open Plus Penalty $1,027.04 Open Plus Penalty; Owed In Arrears\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "Tax Lot: 15.03 Block: 1 Located on the tax map of the Township of Aberdeen",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "FOR-25001850"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 211575.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "45 Lenny Court Aberdeen NJ 07747",
+    "defendant": "Paul J. Wahler et. al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Carrington Mortgage Services, LLC",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 15.03 Block: 1 Located on the tax map of the Township of Aberdeen",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "FOR-25001850",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-02",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "address": "1841 Central Avenue F/K/A 1841 Central Road Buena Vista Township NJ 08360",
+  "attorney": "Fein, Such, Kahn & Shepard P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002300-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Frank Lupperger IV; Deborah L. Lupperger, Husband And Wife",
+  "extracted": {},
+  "fields": {
+    "Address": "1841 Central Avenue\nF/K/A 1841 Central Road\nBuena Vista Township NJ 08360",
+    "Approx. Judgment*": "$286,051.26",
+    "Attorney": "Fein, Such, Kahn & Shepard P.C.",
+    "Court Case #": "F-002300-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Frank Lupperger IV; Deborah L. Lupperger, Husband And Wife",
+    "Plaintiff": "CSMC 2019-RPL10 Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/3/2025",
+    "Sheriff #": "F-24000842",
+    "Upset Amount": "$322,073.86"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 286051.26,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1841 Central Avenue F/K/A 1841 Central Road Buena Vista Township NJ 08360",
+    "defendant": "Frank Lupperger IV; ...",
+    "listing_status": null,
+    "plaintiff": "CSMC 2019-RPL10 Trus...",
+    "sale_date": "2025-11-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "CSMC 2019-RPL10 Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-11-03",
+  "sheriff_number": "F-24000842",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-11-03",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 322073.86,
+  "upset_amount_label": "Upset Amount"
+}

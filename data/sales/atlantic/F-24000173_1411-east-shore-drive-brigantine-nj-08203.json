@@ -1,0 +1,82 @@
+{
+  "address": "1411 East Shore Drive Brigantine NJ 08203",
+  "attorney": "Duane Morris LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002972-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Gerald N. Marziani a/k/a Jerry N. Marziani; Audrey J. Neubert A/K/A Audrey J. Neubert Marziani; Amon Construction LLC; Santander Bank, N.A.; SMS Financial Recovery Services LLC, Assignee, an Arizona LLC; Capital One Bank (USA), N.A., and The State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "1411 East Shore Drive\nBrigantine NJ 08203",
+    "Approx. Judgment*": "$478,268.11",
+    "Attorney": "Duane Morris LLP",
+    "Court Case #": "F-002972-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Gerald N. Marziani a/k/a Jerry N. Marziani; Audrey J. Neubert A/K/A Audrey J. Neubert Marziani; Amon Construction LLC; Santander Bank, N.A.; SMS Financial Recovery Services LLC, Assignee, an Arizona LLC; Capital One Bank (USA), N.A., and The State of New Jersey",
+    "Plaintiff": "TD Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "10/14/2025",
+    "Sheriff #": "F-24000173",
+    "Upset Amount": "$503,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 478268.11,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1411 East Shore Drive Brigantine NJ 08203",
+    "defendant": "Gerald N. Marziani a...",
+    "listing_status": null,
+    "plaintiff": "TD Bank, N.A....",
+    "sale_date": "2025-10-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "TD Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-10-14",
+  "sheriff_number": "F-24000173",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-14",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-19",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-22",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-07-25",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-06-27",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 503000.0,
+  "upset_amount_label": "Upset Amount"
+}

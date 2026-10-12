@@ -1,0 +1,73 @@
+{
+  "address": "300 FRANKFORD AVENUE BLACKWOOD NJ 08012",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "856-352-4905 chews landing office",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00603122",
+  "current_status": "Settled",
+  "defendant": "JUSTIN J. PAGGI, MELISSA ANDERSON",
+  "extracted": {},
+  "fields": {
+    "Address": "300 FRANKFORD AVENUE\nBLACKWOOD NJ 08012",
+    "Approx. Upset*": "$166,490.74",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "856-352-4905 chews landing office",
+    "Court Case #": "F00603122",
+    "Defendant": "JUSTIN J. PAGGI, MELISSA ANDERSON",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2018 G-CTT",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "FR-22002972"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "300 FRANKFORD AVENUE BLACKWOOD NJ 08012",
+    "defendant": "JUSTIN J. PAGGI, MELISSA ANDERSON",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2018 G-CTT",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2018 G-CTT",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "FR-22002972",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2023-01-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-02-22",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-03-22",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2023-04-19",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2023-11-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-01-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 166490.74,
+  "upset_amount_label": "Approx. Upset*"
+}

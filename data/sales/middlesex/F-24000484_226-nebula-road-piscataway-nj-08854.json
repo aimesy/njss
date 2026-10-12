@@ -1,0 +1,76 @@
+{
+  "address": "226 NEBULA ROAD PISCATAWAY NJ 08854",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 485-3584",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00899423",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "NATALIYA PIDGORDETSKA AKA NATALIYA PIDGORODETSKA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$281,026.10",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 485-3584",
+    "Court Case #": "F00899423",
+    "Defendant": "NATALIYA PIDGORDETSKA AKA NATALIYA PIDGORODETSKA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 427 C0226 BLOCK 8801 FKA BLOCK 710",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Address": "226 NEBULA ROAD\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "9/17/2025",
+    "Sheriff #": "F-24000484"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 281026.1,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "226 NEBULA ROAD PISCATAWAY NJ 08854",
+    "defendant": "NATALIYA PIDGORDETSKA AKA NATALIYA PIDGORODETSKA, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2025-09-17"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 427 C0226 BLOCK 8801 FKA BLOCK 710",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2025-09-17",
+  "sheriff_number": "F-24000484",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-09-17",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

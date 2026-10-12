@@ -1,0 +1,72 @@
+{
+  "address": "398 PLEASANT VALLEY ROAD OLD BRIDGE NJ 08857",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00159123",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "MICHAEL WHITAKER",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$191,598.38",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00159123",
+    "Defendant": "MICHAEL WHITAKER",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 59.12 BLOCK 2000",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LODGE SERIES III TRUST",
+    "Property Address": "398 PLEASANT VALLEY ROAD\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "5/20/2026",
+    "Sheriff #": "F-25001674"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 191598.38,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "398 PLEASANT VALLEY ROAD OLD BRIDGE NJ 08857",
+    "defendant": "MICHAEL WHITAKER",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LODGE SERIES III TRUST",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 59.12 BLOCK 2000",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LODGE SERIES III TRUST",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "F-25001674",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-01-27",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

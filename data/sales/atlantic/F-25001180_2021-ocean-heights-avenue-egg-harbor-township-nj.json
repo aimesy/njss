@@ -1,0 +1,66 @@
+{
+  "address": "2021 Ocean Heights Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Pellegrino & Feldstein, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005063-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "341 Connecticut LLC; Bloomfield Twp; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "2021 Ocean Heights Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$28,865.70",
+    "Attorney": "Pellegrino & Feldstein, LLC",
+    "Court Case #": "F-005063-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "341 Connecticut LLC; Bloomfield Twp; State of New Jersey",
+    "Plaintiff": "FIG 20, LLC FBO SEC PTY",
+    "Priors": "2024 Open taxes in the approximate amount of $8,173.70\n2025 Open taxes in the approximate amount of $8,288.25\n2026 Open taxes in the approximate amount of $8,288.25\nTotaling: $24,750.20 plus possible subsequent taxes, charges, interest and penalties",
+    "Property Note": "OCCUPANCY STATUS: Tax Sale Certificate",
+    "Sales Date": "3/19/2026",
+    "Sheriff #": "F-25001180",
+    "Upset Amount": "$39,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 28865.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2021 Ocean Heights Avenue Egg Harbor Township NJ 08234",
+    "defendant": "341 Connecticut LLC;...",
+    "listing_status": null,
+    "plaintiff": "FIG 20, LLC FBO SEC ...",
+    "sale_date": "2026-03-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "FIG 20, LLC FBO SEC PTY",
+  "priors": "2024 Open taxes in the approximate amount of $8,173.70 2025 Open taxes in the approximate amount of $8,288.25 2026 Open taxes in the approximate amount of $8,288.25 Totaling: $24,750.20 plus possible subsequent taxes, charges, interest and penalties",
+  "property_note": "OCCUPANCY STATUS: Tax Sale Certificate",
+  "sale_date": "2026-03-19",
+  "sheriff_number": "F-25001180",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-03-19",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 39500.0,
+  "upset_amount_label": "Upset Amount"
+}

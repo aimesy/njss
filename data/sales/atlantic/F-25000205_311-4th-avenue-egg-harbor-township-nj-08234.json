@@ -1,0 +1,62 @@
+{
+  "address": "311 4th Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Gross Polowy, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010993-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "John E. McCray, Jr, as Heir to The Estate of Christine McCray and as Executor of The Estate of Christine McCray, Mrs. or Mr. McCray Spouse of John E. McCray Jr, said Name Being Fictitious, Darlene O'Neal as Heir to The Estate of Christine McCray; United States of America; State of New Jersey and Atlantic County Board of Social Services",
+  "extracted": {},
+  "fields": {
+    "Address": "311 4th Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$314,437.04",
+    "Attorney": "Gross Polowy, LLC",
+    "Court Case #": "F-010993-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "John E. McCray, Jr, as Heir to The Estate of Christine McCray and as Executor of The Estate of Christine McCray, Mrs. or Mr. McCray Spouse of John E. McCray Jr, said Name Being Fictitious, Darlene O'Neal as Heir to The Estate of Christine McCray; United States of America; State of New Jersey and Atlantic County Board of Social Services",
+    "Plaintiff": "PHH Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "5/22/2025",
+    "Sheriff #": "F-25000205",
+    "Upset Amount": "$329,980.77"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 314437.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "311 4th Avenue Egg Harbor Township NJ 08234",
+    "defendant": "John E. McCray, Jr, ...",
+    "listing_status": null,
+    "plaintiff": "PHH Mortgage Corpora...",
+    "sale_date": "2025-05-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PHH Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-05-22",
+  "sheriff_number": "F-25000205",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-22",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 329980.77,
+  "upset_amount_label": "Upset Amount"
+}

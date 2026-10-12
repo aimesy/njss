@@ -1,0 +1,85 @@
+{
+  "address": "25 Blue Jay Court Howell NJ 07731",
+  "attorney": "Stern Lavinthal & Frankenberg LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00760622",
+  "current_status": "Scheduled",
+  "defendant": "Michael Worman, et al",
+  "description": "The dimensions are approximately- N/A-Condominium\nNearest Cross Street: Eagle Drive\nThe good faith Estimate of The Upset Bid amount as of 7/11/204 is $159,796.98\nProperty is Occupied by Unknown\nPrior lien(s): SEWER LIEN (Cert 20230171) with redemption figures in the approx. amount of $1,767.94\nSEWER ACCOUNT past due in the approx. amount of $318.25\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {},
+  "fields": {
+    "Address": "25 Blue Jay Court\nHowell NJ 07731",
+    "Approx. Judgment*": "$163,752.27",
+    "Attorney": "Stern Lavinthal & Frankenberg LLC",
+    "Court Case #": "F00760622",
+    "Defendant": "Michael Worman, et al",
+    "Description": "The dimensions are approximately- N/A-Condominium\nNearest Cross Street: Eagle Drive\nThe good faith Estimate of The Upset Bid amount as of 7/11/204 is $159,796.98\nProperty is Occupied by Unknown\nPrior lien(s): SEWER LIEN (Cert 20230171) with redemption figures in the approx. amount of $1,767.94\nSEWER ACCOUNT past due in the approx. amount of $318.25\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Lot 5, Block 237.03 Tax Map of the Township of Howell",
+    "Plaintiff": "Loancare, LLC",
+    "Property Note": "",
+    "Sales Date": "6/9/2025",
+    "Sheriff #": "FOR-24001532"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 163752.27,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "25 Blue Jay Court Howell NJ 07731",
+    "defendant": "Michael Worman, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Loancare, LLC",
+    "sale_date": "2025-06-09"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 5, Block 237.03 Tax Map of the Township of Howell",
+  "plaintiff": "Loancare, LLC",
+  "property_note": null,
+  "sale_date": "2025-06-09",
+  "sheriff_number": "FOR-24001532",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-09",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Scheduled"
+    }
+  ]
+}

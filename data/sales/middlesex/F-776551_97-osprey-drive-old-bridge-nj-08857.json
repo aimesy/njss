@@ -1,0 +1,80 @@
+{
+  "address": "97 Osprey DRIVE OLD BRIDGE NJ 08857",
+  "attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 325-8800",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F02077418",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "PRITI PANDYA-PATEL, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$423,284.78",
+    "Attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F02077418",
+    "Defendant": "PRITI PANDYA-PATEL, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "Lot 7 Block 13332.20",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST, COMPANY AS TRUSTEE FOR THE HOLDERS OF HIS ASSET SECURIZATION CORPORATION TRUST 2007-HE1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-HE1",
+    "Property Address": "97 Osprey DRIVE\nOLD BRIDGE NJ 08857",
+    "Property Note": "successfully posted by: R. Walko, July 23, 2024 AREA1",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-776551"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 423284.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "97 Osprey DRIVE OLD BRIDGE NJ 08857",
+    "defendant": "PRITI PANDYA-PATEL, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST, COMPANY AS TRUSTEE FOR THE HOLDERS OF HIS ASSET SECURIZATION CORPORATION TRUST 2007-HE1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-HE1",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "Lot 7 Block 13332.20",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST, COMPANY AS TRUSTEE FOR THE HOLDERS OF HIS ASSET SECURIZATION CORPORATION TRUST 2007-HE1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-HE1",
+  "property_note": "successfully posted by: R. Walko, July 23, 2024 AREA1",
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-776551",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-10-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

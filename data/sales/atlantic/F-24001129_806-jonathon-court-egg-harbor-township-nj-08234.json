@@ -1,0 +1,62 @@
+{
+  "address": "806 Jonathon court Egg Harbor Township NJ 08234",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "SWC-F-011632-22",
+  "current_status": "Scheduled",
+  "deed": "SRKR Holdings, LLC",
+  "deed_address": "P.O. Box 115 Pomona NJ 08240",
+  "defendant": "Kevin B. Cunane AKA Kevin Cunane; Lakeside Estates Condominium Association, Inc.; Midland Credit Management, Inc; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "806 Jonathon court\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$155,359.00",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "SWC-F-011632-22",
+    "Deed": "SRKR Holdings, LLC",
+    "Deed Address": "P.O. Box 115 Pomona NJ 08240",
+    "Defendant": "Kevin B. Cunane AKA Kevin Cunane; Lakeside Estates Condominium Association, Inc.; Midland Credit Management, Inc; State of New Jersey",
+    "Plaintiff": "Servis One Inc. dba BSI Financial Services",
+    "Priors": "Lakeside Estates Condominium Association, Inc- amount $4,284.00",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24001129",
+    "Upset Amount": "$120,300.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 155359.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "806 Jonathon court Egg Harbor Township NJ 08234",
+    "defendant": "Kevin B. Cunane AKA ...",
+    "listing_status": null,
+    "plaintiff": "Servis One Inc. dba ...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Servis One Inc. dba BSI Financial Services",
+  "priors": "Lakeside Estates Condominium Association, Inc- amount $4,284.00",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24001129",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 120300.0,
+  "upset_amount_label": "Upset Amount"
+}

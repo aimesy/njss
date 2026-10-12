@@ -1,0 +1,76 @@
+{
+  "address": "136 DUKES STREET KEARNY NJ 07032",
+  "attorney": "FSKS",
+  "attorney_phone": "(973)538-4700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-11295-22",
+  "current_status": "RESCHEDULED",
+  "defendant": "JUAN SAMPEDRO, ET ALS.",
+  "description": "TAX LOT NO. 7.01 FKA 7.A IN BLOCK NO. 271\nDIMENSION OF LOT APPROXIMATELY: 32 X 63\nNEAREST CROSS STREET: DAVIS AVENUE\nBEGINNING AT A POINT IN THE SOUTHERLY LINE OF DUKES STREET, DISTANT EASTERLY 263.61 FEET EASTERLY FROM THE SOUTHEAST CORNER OF DUKES STREET AND DAVIS AVENUE; RUNNING THENCE SOUTHERLY AND AT RIGHT ANGLES WITH DUKES STREET 62.51 FEET TO THE SOUTH LINE OF THE DUKES TRACT; THENCE EASTERLY ALONG SAID LINE OF 32 FEET, MORE OR\n2ND QTR TAXES OPEN PLUS PENALTY $2,134.34\n3RD QTR TAXES OPEN $2,495.19\nGOOD FAITH ESTIMATE OF UPSET PRICE: $263,713.42\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+  "extracted": {
+    "block": "NO",
+    "lot": "NO",
+    "upset_amount": 263713.42
+  },
+  "fields": {
+    "Address": "136 DUKES STREET\nKEARNY NJ 07032",
+    "Attorney": "FSKS",
+    "Attorney Phone": "(973)538-4700",
+    "Court Case #": "F-11295-22",
+    "Defendant": "JUAN SAMPEDRO, ET ALS.",
+    "Description": "TAX LOT NO. 7.01 FKA 7.A IN BLOCK NO. 271\nDIMENSION OF LOT APPROXIMATELY: 32 X 63\nNEAREST CROSS STREET: DAVIS AVENUE\nBEGINNING AT A POINT IN THE SOUTHERLY LINE OF DUKES STREET, DISTANT EASTERLY 263.61 FEET EASTERLY FROM THE SOUTHEAST CORNER OF DUKES STREET AND DAVIS AVENUE; RUNNING THENCE SOUTHERLY AND AT RIGHT ANGLES WITH DUKES STREET 62.51 FEET TO THE SOUTH LINE OF THE DUKES TRACT; THENCE EASTERLY ALONG SAID LINE OF 32 FEET, MORE OR\n2ND QTR TAXES OPEN PLUS PENALTY $2,134.34\n3RD QTR TAXES OPEN $2,495.19\nGOOD FAITH ESTIMATE OF UPSET PRICE: $263,713.42\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+    "Good Faith Upset*": "$263,713.42",
+    "Judgment": "$212,496.04",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20056341"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 212496.04,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "136 DUKES STREET KEARNY NJ 07032",
+    "defendant": "JUAN SAMPEDRO, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20056341",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-10-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-12-19",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-01-29",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2025-09-05",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "RESCHEDULED"
+    }
+  ],
+  "upset_amount": 263713.42,
+  "upset_amount_label": "Good Faith Upset*"
+}

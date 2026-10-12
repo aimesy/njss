@@ -1,0 +1,65 @@
+{
+  "address": "1 SADDLE RIDGE LANE PARK RIDGE NJ 07656",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00684624",
+  "current_status": "Cancelled",
+  "defendant": "ALAN T. COSENTINO; KRISTINE COSENTINO, ET AL.",
+  "description": "THE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.\nTHE APPROXIMATE UPSET SUM IS $956,873.09 CALCULATED THROUGH JANUARY 23, 2026 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.",
+  "extracted": {},
+  "fields": {
+    "Address": "1 SADDLE RIDGE LANE\nPARK RIDGE NJ 07656",
+    "Approx. Upset*": "$847,253.17",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F00684624",
+    "Defendant": "ALAN T. COSENTINO; KRISTINE COSENTINO, ET AL.",
+    "Description": "THE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.\nTHE APPROXIMATE UPSET SUM IS $956,873.09 CALCULATED THROUGH JANUARY 23, 2026 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.",
+    "Parcel #": "LOT 2, BLOCK 2410",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "8/6/2026",
+    "Sheriff #": "F-26000222"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1 SADDLE RIDGE LANE PARK RIDGE NJ 07656",
+    "defendant": "ALAN T. COSENTINO; KRISTINE COSENTINO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-08-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2, BLOCK 2410",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-08-06",
+  "sheriff_number": "F-26000222",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-10",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-08-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 847253.17,
+  "upset_amount_label": "Approx. Upset*"
+}

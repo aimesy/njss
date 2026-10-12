@@ -1,0 +1,53 @@
+{
+  "address": "125 PARKVIEW RD STRATFORD NJ 08084",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00758322",
+  "current_status": "Settled",
+  "defendant": "CHARLES P. OLIVO, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS OR THEIR, SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "125 PARKVIEW RD\nSTRATFORD NJ 08084",
+    "Approx. Upset*": "$405,034.79",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00758322",
+    "Defendant": "CHARLES P. OLIVO, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS OR THEIR, SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL.",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ARGENT SECURITIES INC., ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-M2",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "FR-25000141"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "125 PARKVIEW RD STRATFORD NJ 08084",
+    "defendant": "CHARLES P. OLIVO, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS OR THEIR, SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ARGENT SECURITIES INC., ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-M2",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ARGENT SECURITIES INC., ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-M2",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "FR-25000141",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 405034.79,
+  "upset_amount_label": "Approx. Upset*"
+}

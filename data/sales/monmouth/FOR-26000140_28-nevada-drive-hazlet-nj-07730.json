@@ -1,0 +1,49 @@
+{
+  "address": "28 Nevada Drive Hazlet NJ 07730",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00950825",
+  "current_status": "Settled",
+  "defendant": "James A. Velsor, et. al.",
+  "description": "Dimensions of Lot: (Approximately) 75 feet wide\nBy 103 feet long\nNearest Cross Street: Coleridge Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $222,062.25\nThe upset price is not the same as a payoff or judgement redemption amount.\nProperty is occupied by owner.",
+  "extracted": {},
+  "fields": {
+    "Address": "28 Nevada Drive\nHazlet NJ 07730",
+    "Approx. Judgment*": "$202,407.17",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00950825",
+    "Defendant": "James A. Velsor, et. al.",
+    "Description": "Dimensions of Lot: (Approximately) 75 feet wide\nBy 103 feet long\nNearest Cross Street: Coleridge Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $222,062.25\nThe upset price is not the same as a payoff or judgement redemption amount.\nProperty is occupied by owner.",
+    "Parcel #": "Lot and Block: Lot 20, Block 103 Tax Map of Township of Hazlet",
+    "Plaintiff": "M&T Bank",
+    "Property Note": "",
+    "Sales Date": "2/26/2026",
+    "Sheriff #": "FOR-26000140"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 202407.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "28 Nevada Drive Hazlet NJ 07730",
+    "defendant": "James A. Velsor, et. al.",
+    "listing_status": "Settled",
+    "plaintiff": "M&T Bank",
+    "sale_date": "2026-02-26"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 20, Block 103 Tax Map of Township of Hazlet",
+  "plaintiff": "M&T Bank",
+  "property_note": null,
+  "sale_date": "2026-02-26",
+  "sheriff_number": "FOR-26000140",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-26",
+      "status": "Settled"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "address": "431 LA CASCATA CLEMENTON NJ 08021",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00192625",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "AMANDA BESSING, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "431 LA CASCATA\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$154,699.28",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00192625",
+    "Defendant": "AMANDA BESSING, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-25002249"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "431 LA CASCATA CLEMENTON NJ 08021",
+    "defendant": "AMANDA BESSING, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-25002249",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 154699.28,
+  "upset_amount_label": "Approx. Upset*"
+}

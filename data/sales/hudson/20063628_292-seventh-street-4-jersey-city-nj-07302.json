@@ -1,0 +1,56 @@
+{
+  "address": "292 SEVENTH STREET #4 JERSEY CITY NJ 07302",
+  "attorney": "ROGER FAY, ESQ.",
+  "attorney_phone": "856-724-1888",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-009485-25",
+  "current_status": "Scheduled",
+  "defendant": "292 7TH STREET LLC, ET AL.",
+  "description": "TAX LOT: 43 C0004 TAX BLOCK: 10006\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: COLES STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $643,000.00\nOCCUPANCY STATUS: UNKNOWN\nSUBJECT TO EASEMENT DATED 04/22/2018, RECORDED 04/30/2018 IN BOOK 9302 AT PAGE 602\"",
+  "extracted": {
+    "block": "10006",
+    "lot": "43",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "292 SEVENTH STREET #4\nJERSEY CITY NJ 07302",
+    "Attorney": "ROGER FAY, ESQ.",
+    "Attorney Phone": "856-724-1888",
+    "Court Case #": "F-009485-25",
+    "Defendant": "292 7TH STREET LLC, ET AL.",
+    "Description": "TAX LOT: 43 C0004 TAX BLOCK: 10006\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: COLES STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $643,000.00\nOCCUPANCY STATUS: UNKNOWN\nSUBJECT TO EASEMENT DATED 04/22/2018, RECORDED 04/30/2018 IN BOOK 9302 AT PAGE 602\"",
+    "Good Faith Upset*": "$643,000.00",
+    "Judgment": "$602,231.24",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF ADMT 2025-NQM1",
+    "Property Note": "",
+    "Sales Date": "9/10/2026",
+    "Sheriff #": "20063628"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 602231.24,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "292 SEVENTH STREET #4 JERSEY CITY NJ 07302",
+    "defendant": "292 7TH STREET LLC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF ADMT 2025-NQM1",
+    "sale_date": "2026-09-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF ADMT 2025-NQM1",
+  "property_note": null,
+  "sale_date": "2026-09-10",
+  "sheriff_number": "20063628",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-09-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 643000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

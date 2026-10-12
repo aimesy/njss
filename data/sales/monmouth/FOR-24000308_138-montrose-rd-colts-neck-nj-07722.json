@@ -1,0 +1,83 @@
+{
+  "address": "138 Montrose Rd Colts Neck NJ 07722",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00401823",
+  "current_status": "Scheduled",
+  "defendant": "Deborah A. Loving aka Deborah A. Varnak, et al",
+  "description": "Dimensions of Lot: 273.72' x 263.63'\nNearest Cross Street: Barrentown Road\nSuperior Interests (if any): Any and all easements, covenants, restrictions and reservations of record; Any set of facts which an accurate survey and inspection would disclose; All unpaid municipal taxes, assessments and liens; Any unpaid assessment and any outstanding tax sale certificate; Rights of any party in possession/rights protected by the NJ Anti-Eviction act; All Local, County, State and Federal ordinances and regulations; Any condominium association lien granted priority by N.J.S.A 46:8B-21b; Any outstanding Condominium, PUD or Homeowner Association dues or fees; Rights of the United States of America, if any; The property is sold in its “AS IS” condition; Purchaser shall be responsible for Sheriff’s costs, commission, deed recording fees and realty transfer fees.\nPlaintiff's upset bid is $436, 151.95 in accordance with the requirements of Section 12 of P.L. 1995, c.244 (C.2A:50-64) as amended.\nThe occupancy of the property is unknown.",
+  "extracted": {
+    "lot": "273.72"
+  },
+  "fields": {
+    "Address": "138 Montrose Rd\nColts Neck NJ 07722",
+    "Approx. Judgment*": "$405,185.89",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00401823",
+    "Defendant": "Deborah A. Loving aka Deborah A. Varnak, et al",
+    "Description": "Dimensions of Lot: 273.72' x 263.63'\nNearest Cross Street: Barrentown Road\nSuperior Interests (if any): Any and all easements, covenants, restrictions and reservations of record; Any set of facts which an accurate survey and inspection would disclose; All unpaid municipal taxes, assessments and liens; Any unpaid assessment and any outstanding tax sale certificate; Rights of any party in possession/rights protected by the NJ Anti-Eviction act; All Local, County, State and Federal ordinances and regulations; Any condominium association lien granted priority by N.J.S.A 46:8B-21b; Any outstanding Condominium, PUD or Homeowner Association dues or fees; Rights of the United States of America, if any; The property is sold in its “AS IS” condition; Purchaser shall be responsible for Sheriff’s costs, commission, deed recording fees and realty transfer fees.\nPlaintiff's upset bid is $436, 151.95 in accordance with the requirements of Section 12 of P.L. 1995, c.244 (C.2A:50-64) as amended.\nThe occupancy of the property is unknown.",
+    "Parcel #": "Block: 23 Lot: 9 Tax Map of Colts Neck Township",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/31/2025",
+    "Sheriff #": "FOR-24000308"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 405185.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "138 Montrose Rd Colts Neck NJ 07722",
+    "defendant": "Deborah A. Loving aka Deborah A. Varnak, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Wells Fargo Bank, N.A.",
+    "sale_date": "2025-01-31"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block: 23 Lot: 9 Tax Map of Colts Neck Township",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2025-01-31",
+  "sheriff_number": "FOR-24000308",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-31",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-08-12",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-07-01",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-06-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-05-06",
+      "status": "Scheduled"
+    }
+  ]
+}

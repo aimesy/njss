@@ -1,0 +1,63 @@
+{
+  "address": "1128 Florence Avenue Union Beach NJ 07735",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00107224",
+  "current_status": "Scheduled",
+  "defendant": "Mary Yancy et al.",
+  "description": "Approximate Dimensions: 78 x 100 FT.\nNearest Cross Street:Poole Avenue\nThe occupancy status of the property is: Owner occupied.\nPlaintiff's good faith estimate of its upset price is: $326,138.53\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney",
+  "extracted": {
+    "upset_amount": 326138.53
+  },
+  "fields": {
+    "Address": "1128 Florence Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$305,473.28",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F00107224",
+    "Defendant": "Mary Yancy et al.",
+    "Description": "Approximate Dimensions: 78 x 100 FT.\nNearest Cross Street:Poole Avenue\nThe occupancy status of the property is: Owner occupied.\nPlaintiff's good faith estimate of its upset price is: $326,138.53\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney",
+    "Parcel #": "Tax Lot: #3.01 Block: #75 Located on the official tax map of the Bourough of Union Beach",
+    "Plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+    "Property Note": "",
+    "Sales Date": "3/3/2025",
+    "Sheriff #": "FOR-24002007"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 305473.28,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1128 Florence Avenue Union Beach NJ 07735",
+    "defendant": "Mary Yancy et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+    "sale_date": "2025-03-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: #3.01 Block: #75 Located on the official tax map of the Bourough of Union Beach",
+  "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+  "property_note": null,
+  "sale_date": "2025-03-03",
+  "sheriff_number": "FOR-24002007",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "address": "2071 STATE ROUTE 35 SAYREVILLE NJ 08879",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00067625",
+  "current_status": "Settled",
+  "defendant": "ROBERT L. HAAS AKA ROBERT HAAS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$259,584.89",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00067625",
+    "Defendant": "ROBERT L. HAAS AKA ROBERT HAAS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2 BLOCK 420",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2018-3",
+    "Property Address": "2071 STATE ROUTE 35\nSAYREVILLE NJ 08879",
+    "Property Note": "",
+    "Sale Date": "12/17/2025",
+    "Sheriff #": "F-25003181"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 259584.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2071 STATE ROUTE 35 SAYREVILLE NJ 08879",
+    "defendant": "ROBERT L. HAAS AKA ROBERT HAAS, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2018-3",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2 BLOCK 420",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2018-3",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25003181",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

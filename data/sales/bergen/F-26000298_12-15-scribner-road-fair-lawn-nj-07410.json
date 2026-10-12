@@ -1,0 +1,63 @@
+{
+  "address": "12-15 SCRIBNER ROAD FAIR LAWN NJ 07410",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00988025",
+  "current_status": "Cancelled",
+  "defendant": "JOHN CONNOR A/K/A JOHN C. CONNOR HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSOR IN RIGHT,/ TITLE AND INTEREST; ET AL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $358,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "12-15 SCRIBNER ROAD\nFAIR LAWN NJ 07410",
+    "Approx. Upset*": "$331,316.14",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F00988025",
+    "Defendant": "JOHN CONNOR A/K/A JOHN C. CONNOR HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSOR IN RIGHT,/ TITLE AND INTEREST; ET AL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $358,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 6, BLOCK 3603",
+    "Plaintiff": "LONGBRIDGE FINANCIAL, LLC",
+    "Property Note": "",
+    "Sales Date": "7/24/2026",
+    "Sheriff #": "F-26000298"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12-15 SCRIBNER ROAD FAIR LAWN NJ 07410",
+    "defendant": "JOHN CONNOR A/K/A JOHN C. CONNOR HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSOR IN RIGHT,/ TITLE AND INTEREST; ET AL",
+    "listing_status": null,
+    "plaintiff": "LONGBRIDGE FINANCIAL, LLC",
+    "sale_date": "2026-07-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 6, BLOCK 3603",
+  "plaintiff": "LONGBRIDGE FINANCIAL, LLC",
+  "property_note": null,
+  "sale_date": "2026-07-24",
+  "sheriff_number": "F-26000298",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-07-24",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 331316.14,
+  "upset_amount_label": "Approx. Upset*"
+}

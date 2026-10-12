@@ -1,0 +1,57 @@
+{
+  "address": "5 EXTON CIRCLE CHERRY HILL NJ 08003",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01343523",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JONATHAN J. SOBEL, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "5 EXTON CIRCLE\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$524,399.42",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F01343523",
+    "Defendant": "JONATHAN J. SOBEL, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "FR-25002234"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "5 EXTON CIRCLE CHERRY HILL NJ 08003",
+    "defendant": "JONATHAN J. SOBEL, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "FR-25002234",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 524399.42,
+  "upset_amount_label": "Approx. Upset*"
+}

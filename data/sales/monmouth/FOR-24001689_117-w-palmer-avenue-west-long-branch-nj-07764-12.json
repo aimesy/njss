@@ -1,0 +1,60 @@
+{
+  "address": "117 W Palmer Avenue West Long Branch NJ 07764-1249",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01361123",
+  "current_status": "Scheduled",
+  "defendant": "Samuel Cohen, et al",
+  "description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 803.33ft to the nearest cross street known as Monmouth Road\nApproximate Dimensions: 103.13ft x 289.70ft x 103.13ft x 289.70ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Book OR-9028, at Page 8115\nAPPROXIMATE UPSET PRICE IS $466,204.84 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated August 8, 2024.\nSubject to: 2024 3rd quarter taxes due 8/1/2024, $6,133.75 OPEN\n2024 4th quarter taxes due 11/1/2024, $6,133.74 OPEN\nWater: Acct. 6103343 0, 7/1/2024-9/30/2024, $100.00 OPEN PLUS PENALTY",
+  "extracted": {
+    "occupancy": "Borrower Occupied",
+    "upset_amount": 466204.84
+  },
+  "fields": {
+    "Address": "117 W Palmer Avenue\nWest Long Branch NJ 07764-1249",
+    "Approx. Judgment*": "$434,004.22",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F01361123",
+    "Defendant": "Samuel Cohen, et al",
+    "Description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 803.33ft to the nearest cross street known as Monmouth Road\nApproximate Dimensions: 103.13ft x 289.70ft x 103.13ft x 289.70ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Book OR-9028, at Page 8115\nAPPROXIMATE UPSET PRICE IS $466,204.84 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated August 8, 2024.\nSubject to: 2024 3rd quarter taxes due 8/1/2024, $6,133.75 OPEN\n2024 4th quarter taxes due 11/1/2024, $6,133.74 OPEN\nWater: Acct. 6103343 0, 7/1/2024-9/30/2024, $100.00 OPEN PLUS PENALTY",
+    "Parcel #": "Lot: 71; Block: 51 Tax Map of Borough of West Long Branch",
+    "Plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+    "Property Note": "",
+    "Sales Date": "1/31/2025",
+    "Sheriff #": "FOR-24001689"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 434004.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "117 W Palmer Avenue West Long Branch NJ 07764-1249",
+    "defendant": "Samuel Cohen, et al",
+    "listing_status": "Reinstated",
+    "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+    "sale_date": "2025-01-31"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 71; Block: 51 Tax Map of Borough of West Long Branch",
+  "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+  "property_note": null,
+  "sale_date": "2025-01-31",
+  "sheriff_number": "FOR-24001689",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-31",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    }
+  ]
+}

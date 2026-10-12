@@ -1,0 +1,84 @@
+{
+  "address": "30 PERSHING AVENUE MILLTOWN NJ 08850",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01123722",
+  "current_status": "Bankruptcy",
+  "defendant": "JOCELYN FLAGG, ET ALS.",
+  "description": "Property to be sold is located in the Borough ofMilltown, County of Middlesex and State of New Jersey\nCommonly known as: 30 Pershing Avenue, Milltown, NJ 08850\nTax Lot(s): 20, in Block: 102\nDimensions (Approx.): 100 x 40\nNearest Cross Street: Albert Avenue\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 – Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nGood Faith Estimated Upset Price: $288,672.50\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "block": "102",
+    "occupancy": "Owner Occupied",
+    "upset_amount": 288672.5
+  },
+  "fields": {
+    "Approx. Judgment*": "$263,449.98",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F01123722",
+    "Defendant": "JOCELYN FLAGG, ET ALS.",
+    "Description": "Property to be sold is located in the Borough ofMilltown, County of Middlesex and State of New Jersey\nCommonly known as: 30 Pershing Avenue, Milltown, NJ 08850\nTax Lot(s): 20, in Block: 102\nDimensions (Approx.): 100 x 40\nNearest Cross Street: Albert Avenue\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 – Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nGood Faith Estimated Upset Price: $288,672.50\nOccupancy Status: Owner Occupied",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 20 BLOCK 102",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES IV TRUST",
+    "Property Address": "30 PERSHING AVENUE\nMILLTOWN NJ 08850",
+    "Property Note": "",
+    "Sale Date": "3/11/2026",
+    "Sheriff #": "F-24000398"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 263449.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "30 PERSHING AVENUE MILLTOWN NJ 08850",
+    "defendant": "JOCELYN FLAGG, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES IV TRUST",
+    "sale_date": "2026-03-11"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 20 BLOCK 102",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES IV TRUST",
+  "property_note": null,
+  "sale_date": "2026-03-11",
+  "sheriff_number": "F-24000398",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-11",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

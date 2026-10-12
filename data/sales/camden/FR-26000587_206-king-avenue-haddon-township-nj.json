@@ -1,0 +1,65 @@
+{
+  "address": "206 KING AVENUE HADDON TOWNSHIP NJ",
+  "attorney": "DEMBO, BROWN & BURNS LLP",
+  "attorney_phone": "856-354-8866 EXT. 117",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F277525",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "MATTHEW C. ANDREWS; DONNA M. WHALEN; JAMES MARINO; AND VIRTUA MEMORIAL HOSPITAL, BURLINGTON,",
+  "extracted": {},
+  "fields": {
+    "Address": "206 KING AVENUE\nHADDON TOWNSHIP NJ",
+    "Approx. Upset*": "$234,151.37",
+    "Attorney": "DEMBO, BROWN & BURNS LLP",
+    "Attorney Phone": "856-354-8866 EXT. 117",
+    "Court Case #": "F277525",
+    "Defendant": "MATTHEW C. ANDREWS; DONNA M. WHALEN; JAMES MARINO;\nAND VIRTUA MEMORIAL HOSPITAL, BURLINGTON,",
+    "Parcel #": "LOT 7, BLOCK 29.09",
+    "Plaintiff": "OAK LEAF FINANICAL, LLC,",
+    "Property Note": "Subject to first mortgage loan held by mortgage electronic registration systems, Inc. as a nominee for family first funding LLC in the original amount of $399,500.00, dated 6–2–2021\nSubject to tax cert NO. 25–0029 in the original amount of $411.55 s of 12/19/2025\nWater and sewer charges of $94.46 as of 2–28-2026",
+    "Sales Date": "9/2/2026",
+    "Sheriff #": "FR-26000587"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "206 KING AVENUE HADDON TOWNSHIP NJ",
+    "defendant": "MATTHEW C. ANDREWS; DONNA M. WHALEN; JAMES MARINO; \nAND VIRTUA MEMORIAL HOSPITAL, BURLINGTON,",
+    "listing_status": null,
+    "plaintiff": "OAK LEAF FINANICAL, LLC,",
+    "sale_date": "2026-09-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 7, BLOCK 29.09",
+  "plaintiff": "OAK LEAF FINANICAL, LLC,",
+  "property_note": "Subject to first mortgage loan held by mortgage electronic registration systems, Inc. as a nominee for family first funding LLC in the original amount of $399,500.00, dated 6–2–2021\nSubject to tax cert NO. 25–0029 in the original amount of $411.55 s of 12/19/2025\nWater and sewer charges of $94.46 as of 2–28-2026",
+  "sale_date": "2026-09-02",
+  "sheriff_number": "FR-26000587",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 234151.37,
+  "upset_amount_label": "Approx. Upset*"
+}

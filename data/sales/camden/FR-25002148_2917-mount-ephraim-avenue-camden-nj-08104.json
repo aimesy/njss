@@ -1,0 +1,57 @@
+{
+  "address": "2917 MOUNT EPHRAIM AVENUE CAMDEN NJ 08104",
+  "attorney": "WALDMAN & KAPLAN, P.A.",
+  "attorney_phone": "(727) 538-4160",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01948017",
+  "current_status": "Purchased",
+  "defendant": "CHRISTOPHER KELLY, ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "2917 MOUNT EPHRAIM AVENUE\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$56,455.04",
+    "Attorney": "WALDMAN & KAPLAN, P.A.",
+    "Attorney Phone": "(727) 538-4160",
+    "Court Case #": "F01948017",
+    "Defendant": "CHRISTOPHER KELLY, ET AL.,",
+    "Parcel #": "",
+    "Plaintiff": "CRANECAP, LLC",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "FR-25002148"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2917 MOUNT EPHRAIM AVENUE CAMDEN NJ 08104",
+    "defendant": "CHRISTOPHER KELLY, ET AL.,",
+    "listing_status": null,
+    "plaintiff": "CRANECAP, LLC",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CRANECAP, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "FR-25002148",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 56455.04,
+  "upset_amount_label": "Approx. Upset*"
+}

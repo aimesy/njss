@@ -1,0 +1,51 @@
+{
+  "address": "19 Willis Street Penns Grove NJ 08069",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-005019-25",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "Yomaira Lisojo; Miriam Lisojo Adames; Mr./Mrs. Yomaira Lisojo, spouse or civil union partner of Yomaira Lisojo; and Mr./Mrs. Miriam Lisojo Adames, spouse or civil union partner of Miriam Lisojo Adames",
+  "description": "Approximate Dimensions: 40.00 ft x 110.00 ft. Approximate Upset Price: $171,051.70. The upset amount may be subject to further Orders of Additional Sums. Occupancy Status: Borrower Occupied.\nPursuant to a municipal Tax Search dated December 15, 2025.\nSubject to: 2026 1st quarter taxes due 2/1/2026, $872.77 OPEN\n2026 2nd quarter taxes due 5/1/2026, $872.77 OPEN\nSewer: Acct. 1163119 0, 12/1/2025-2/28/2026, $155.00 Open and Due 1/1/2026; $1,240.00 Open Plus Penalty; Owed in arrears\nSubject to Tax Sale 12/15/2025. Subject to additional fees.",
+  "extracted": {
+    "occupancy": "Borrower Occupied.",
+    "upset_amount": 171051.7
+  },
+  "fields": {
+    "Address": "19 Willis Street\nPenns Grove NJ 08069",
+    "Court Case #": "F-005019-25",
+    "Defendant": "Yomaira Lisojo; Miriam Lisojo Adames; Mr./Mrs. Yomaira Lisojo, spouse or civil union partner of Yomaira Lisojo; and Mr./Mrs. Miriam Lisojo Adames, spouse or civil union partner of Miriam Lisojo Adames",
+    "Description": "Approximate Dimensions: 40.00 ft x 110.00 ft. Approximate Upset Price: $171,051.70. The upset amount may be subject to further Orders of Additional Sums. Occupancy Status: Borrower Occupied.\nPursuant to a municipal Tax Search dated December 15, 2025.\nSubject to: 2026 1st quarter taxes due 2/1/2026, $872.77 OPEN\n2026 2nd quarter taxes due 5/1/2026, $872.77 OPEN\nSewer: Acct. 1163119 0, 12/1/2025-2/28/2026, $155.00 Open and Due 1/1/2026; $1,240.00 Open Plus Penalty; Owed in arrears\nSubject to Tax Sale 12/15/2025. Subject to additional fees.",
+    "Plaintiff": "Carrington Mortgage Services LLC",
+    "Sales Date": "03/02/2026 02:00 PM",
+    "Sheriff #": "F-26000010"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "19 Willis Street Penns Grove NJ 08069",
+    "defendant": "Yomaira Lisojo; Miriam Lisojo Adames; Mr./Mrs. Yomaira Lisojo, spouse or civil union partner of Yomaira Lisojo; and Mr./Mrs. Miriam Lisojo Adames, spouse or civil union partner of Miriam Lisojo Adames",
+    "listing_status": null,
+    "plaintiff": "Carrington Mortgage Services LLC",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Carrington Mortgage Services LLC",
+  "sale_date": null,
+  "sheriff_number": "F-26000010",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Per Sheriff"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

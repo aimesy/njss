@@ -1,0 +1,68 @@
+{
+  "address": "3 MILTON COURT SOUTH RIVER NJ 08882",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01444723",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "ANA HRYCYNA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$102,032.08",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F01444723",
+    "Defendant": "ANA HRYCYNA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 31 BLOCK 354.07",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Address": "3 MILTON COURT\nSOUTH RIVER NJ 08882",
+    "Property Note": "SUCCESSFULLY POSTED BY: RON WALKO, JUNE 25, 2024",
+    "Sale Date": "12/6/2024",
+    "Sheriff #": "F-776525"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 102032.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 MILTON COURT SOUTH RIVER NJ 08882",
+    "defendant": "ANA HRYCYNA, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2024-12-06"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 31 BLOCK 354.07",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": "SUCCESSFULLY POSTED BY: RON WALKO, JUNE 25, 2024",
+  "sale_date": "2024-12-06",
+  "sheriff_number": "F-776525",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-12-06",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

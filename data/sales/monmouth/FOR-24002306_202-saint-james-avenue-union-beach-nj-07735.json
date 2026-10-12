@@ -1,0 +1,67 @@
+{
+  "address": "202 Saint James Avenue Union Beach NJ 07735",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00501524",
+  "current_status": "Scheduled",
+  "defendant": "Christopher M. Conte, et al.",
+  "description": "Approximate dimensions: 50.00' x 100'\nNearest cross street: Edmunds Avenue\nThe Plaintiff's Upset Bid presently approximates $247,000.00\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "202 Saint James Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$230,238.19",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00501524",
+    "Defendant": "Christopher M. Conte, et al.",
+    "Description": "Approximate dimensions: 50.00' x 100'\nNearest cross street: Edmunds Avenue\nThe Plaintiff's Upset Bid presently approximates $247,000.00\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+    "Parcel #": "Tax Lot: 7 Tax Block: 83 Tax Map of Borough of Union Beach",
+    "Plaintiff": "Village Capital & Investment LLC",
+    "Property Note": "",
+    "Sales Date": "5/19/2025",
+    "Sheriff #": "FOR-24002306"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 230238.19,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "202 Saint James Avenue Union Beach NJ 07735",
+    "defendant": "Christopher M. Conte, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Village Capital & Investment LLC",
+    "sale_date": "2025-05-19"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 7 Tax Block: 83 Tax Map of Borough of Union Beach",
+  "plaintiff": "Village Capital & Investment LLC",
+  "property_note": null,
+  "sale_date": "2025-05-19",
+  "sheriff_number": "FOR-24002306",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-19",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Scheduled"
+    }
+  ]
+}

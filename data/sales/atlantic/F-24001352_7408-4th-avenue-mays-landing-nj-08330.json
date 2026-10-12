@@ -1,0 +1,66 @@
+{
+  "address": "7408 4th Avenue Mays Landing NJ 08330",
+  "attorney": "Fein, Such, Kahn & Shepard P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-11320-22",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Daniel L. Lykowski; Cathy L. Lykowski, His/Her Heirs, Devisees and Personal Representatives and His, Her, Their or any of Their Successors in Right, Title and Interest; Volta Solar Owner, LLC N/K/A Volta Solar Owner II, LLC; Spruce Power 1, LLC; PNC Bank; State of New Jersey; United States of America; Mr./Mrs. Lykowski, Spouse of Daniel L. Lykowski N/K/A Courtney Lykowski",
+  "extracted": {},
+  "fields": {
+    "Address": "7408 4th Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$91,333.77",
+    "Attorney": "Fein, Such, Kahn & Shepard P.C.",
+    "Court Case #": "F-11320-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Daniel L. Lykowski; Cathy L. Lykowski, His/Her Heirs, Devisees and Personal Representatives and His, Her, Their or any of Their Successors in Right, Title and Interest; Volta Solar Owner, LLC N/K/A Volta Solar Owner II, LLC; Spruce Power 1, LLC; PNC Bank; State of New Jersey; United States of America; Mr./Mrs. Lykowski, Spouse of Daniel L. Lykowski N/K/A Courtney Lykowski",
+    "Plaintiff": "Federal National Mortgage Association",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/30/2025",
+    "Sheriff #": "F-24001352",
+    "Upset Amount": "$104,486.42"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 91333.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7408 4th Avenue Mays Landing NJ 08330",
+    "defendant": "Daniel L. Lykowski; ...",
+    "listing_status": null,
+    "plaintiff": "Federal National Mor...",
+    "sale_date": "2025-01-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Federal National Mortgage Association",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-01-30",
+  "sheriff_number": "F-24001352",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-30",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-01-30",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 104486.42,
+  "upset_amount_label": "Upset Amount"
+}

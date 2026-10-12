@@ -1,0 +1,77 @@
+{
+  "address": "13 SERENE LANE WINSLOW TWP (SICKLERVILLE) NJ 08081",
+  "attorney": "KNUCKLES & MANFRO, LLP",
+  "attorney_phone": "(201) 391-0370",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00567724",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MIKEBA CURTIS, ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "13 SERENE LANE\nWINSLOW TWP (SICKLERVILLE) NJ 08081",
+    "Approx. Upset*": "$416,607.58",
+    "Attorney": "KNUCKLES & MANFRO, LLP",
+    "Attorney Phone": "(201) 391-0370",
+    "Court Case #": "F00567724",
+    "Defendant": "MIKEBA CURTIS, ET AL.,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIUAL\nCAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISTION\nTRUST,",
+    "Property Note": "",
+    "Sales Date": "11/3/2025",
+    "Sheriff #": "FR-25000177"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "13 SERENE LANE WINSLOW TWP (SICKLERVILLE) NJ 08081",
+    "defendant": "MIKEBA CURTIS, ET AL.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIUAL \nCAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISTION \nTRUST,",
+    "sale_date": "2025-11-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISTION TRUST,",
+  "property_note": null,
+  "sale_date": "2025-11-03",
+  "sheriff_number": "FR-25000177",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 416607.58,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,63 @@
+{
+  "address": "17 Brookview Lane Manalapan NJ 07726",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01283723",
+  "current_status": "Scheduled",
+  "defendant": "Lawrence Dubin, et al;",
+  "description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 250.43ft to the nearest cross street known as Pinetree Lane\nApproximate Dimensions: 45.00ft x 108.00ft x 45.00ft x 108.00ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8391, at page 7491\nAPPROXIMATE UPSET AMOUNT IS $387,840.64 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated May 19, 2025.\nSubject to: 2025 2nd quarter taxes due 5/1/2025, $1,720.07 BILLED; $1,717.06 OPEN PLUS PENALTY; $3.01 PAID\n2025 3rd quarter taxes due 8/1/2025, TO BE DETERMINED\n2025 4th quarter taxes due 11/1/2025, TO BE DETERMINED\nSewer: Acct. 15828 0, 5/1/2025-7/31/2025, $125.00 OPEN AND DUE 5/26/2025; $690.63 OPEN PLUS PENALTY; OWED IN ARREARS\nSUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+  "extracted": {
+    "occupancy": "Borrower Occupied"
+  },
+  "fields": {
+    "Address": "17 Brookview Lane\nManalapan NJ 07726",
+    "Approx. Judgment*": "$355,802.11",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F01283723",
+    "Defendant": "Lawrence Dubin, et al;",
+    "Description": "Occupancy Status: Borrower Occupied\nNearest Cross Street: Approximately 250.43ft to the nearest cross street known as Pinetree Lane\nApproximate Dimensions: 45.00ft x 108.00ft x 45.00ft x 108.00ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8391, at page 7491\nAPPROXIMATE UPSET AMOUNT IS $387,840.64 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated May 19, 2025.\nSubject to: 2025 2nd quarter taxes due 5/1/2025, $1,720.07 BILLED; $1,717.06 OPEN PLUS PENALTY; $3.01 PAID\n2025 3rd quarter taxes due 8/1/2025, TO BE DETERMINED\n2025 4th quarter taxes due 11/1/2025, TO BE DETERMINED\nSewer: Acct. 15828 0, 5/1/2025-7/31/2025, $125.00 OPEN AND DUE 5/26/2025; $690.63 OPEN PLUS PENALTY; OWED IN ARREARS\nSUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+    "Parcel #": "Lot: 163; Block: 2904 Tax Map of the Township of Manalapan",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust X-A",
+    "Property Note": "",
+    "Sales Date": "9/29/2025",
+    "Sheriff #": "FOR-25001210"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 355802.11,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "17 Brookview Lane Manalapan NJ 07726",
+    "defendant": "Lawrence Dubin, et al;",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust X-A",
+    "sale_date": "2025-09-29"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 163; Block: 2904 Tax Map of the Township of Manalapan",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust X-A",
+  "property_note": null,
+  "sale_date": "2025-09-29",
+  "sheriff_number": "FOR-25001210",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-29",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Scheduled"
+    }
+  ]
+}

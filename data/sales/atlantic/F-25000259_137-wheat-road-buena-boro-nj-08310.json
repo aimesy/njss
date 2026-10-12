@@ -1,0 +1,66 @@
+{
+  "address": "137 Wheat Road Buena Boro NJ 08310",
+  "attorney": "Gary C. Zeitz, L.L.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-11830-23",
+  "current_status": "Scheduled",
+  "deed": "Assured Property Solutions",
+  "deed_address": "211 Redcrest Street, Vineland, NJ 08361",
+  "defendant": "Robert J. Middleton; Joelle V Middleton; Caleitha A Bradley; Rondine Harris; Teresa Brown and State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "137 Wheat Road\nBuena Boro NJ 08310",
+    "Approx. Judgment*": "$48,975.72",
+    "Attorney": "Gary C. Zeitz, L.L.C.",
+    "Court Case #": "F-11830-23",
+    "Deed": "Assured Property Solutions",
+    "Deed Address": "211 Redcrest Street, Vineland, NJ 08361",
+    "Defendant": "Robert J. Middleton; Joelle V Middleton; Caleitha A Bradley; Rondine Harris; Teresa Brown and State of New Jersey",
+    "Plaintiff": "Jason Brandt",
+    "Priors": "Open tax quarters and unpaid municipal charges due and owing to the Borough of Buena as of February 10, 2025, amount: $1,867.92",
+    "Property Note": "OCCUPANCY STATUS: TAX SALE CERT",
+    "Sales Date": "6/26/2025",
+    "Sheriff #": "F-25000259",
+    "Upset Amount": "$63,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 48975.72,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "137 Wheat Road Buena Boro NJ 08310",
+    "defendant": "Robert J. Middleton;...",
+    "listing_status": null,
+    "plaintiff": "Jason Brandt...",
+    "sale_date": "2025-06-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Jason Brandt",
+  "priors": "Open tax quarters and unpaid municipal charges due and owing to the Borough of Buena as of February 10, 2025, amount: $1,867.92",
+  "property_note": "OCCUPANCY STATUS: TAX SALE CERT",
+  "sale_date": "2025-06-26",
+  "sheriff_number": "F-25000259",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-26",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 63000.0,
+  "upset_amount_label": "Upset Amount"
+}

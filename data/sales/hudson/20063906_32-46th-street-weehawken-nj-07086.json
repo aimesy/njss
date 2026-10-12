@@ -1,0 +1,64 @@
+{
+  "address": "32 46TH STREET WEEHAWKEN NJ 07086",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-012544-24",
+  "current_status": "Adjourned - Plaintiff - New Sale Date:",
+  "defendant": "STEFAN T'SERVRANCKX A/K/A STEFAN TSERVRANCKX, ET AL",
+  "description": "LOT: 24, BLOCK: 60\nAPPROXIMATE DIMENSIONS: 90.73FT X 18.92FT X 90.95FT X 18.92FT\nNEAREST CROSS STREET: APPROXIMATELY 325.36FT TO THE NEAREST CROSS STREET KNOWN AS JFK BOULEVARD EAST\nOCCUPANCY STATUS: BORROWER OCCUPIED\nAPPROXIMATE UPSET AMOUNT IS $887,255.11 FOR SHERIFF SALE\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED JULY 15, 2026\nSUBJECT TO:\n2026 3RD QUARTER TAXES DUE 8/1/2026, TO BE DETERMINED\n2026 4TH QUARTER TAXES DUE 11/1/2026, TO BE DETERMINED\nSEWER: ACCT. 301448 0, 4/1/2026-6/30/2026. $309.16 OPEN PLUS PENALTY; $14,110.03 OPEN PLUS PENALTY; OWED IN ARREARS\nSUBJECT TO FINAL READING",
+  "extracted": {
+    "block": "60",
+    "lot": "24",
+    "occupancy": "BORROWER OCCUPIED"
+  },
+  "fields": {
+    "Address": "32 46TH STREET\nWEEHAWKEN NJ 07086",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F-012544-24",
+    "Defendant": "STEFAN T'SERVRANCKX A/K/A STEFAN TSERVRANCKX, ET AL",
+    "Description": "LOT: 24, BLOCK: 60\nAPPROXIMATE DIMENSIONS: 90.73FT X 18.92FT X 90.95FT X 18.92FT\nNEAREST CROSS STREET: APPROXIMATELY 325.36FT TO THE NEAREST CROSS STREET KNOWN AS JFK BOULEVARD EAST\nOCCUPANCY STATUS: BORROWER OCCUPIED\nAPPROXIMATE UPSET AMOUNT IS $887,255.11 FOR SHERIFF SALE\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED JULY 15, 2026\nSUBJECT TO:\n2026 3RD QUARTER TAXES DUE 8/1/2026, TO BE DETERMINED\n2026 4TH QUARTER TAXES DUE 11/1/2026, TO BE DETERMINED\nSEWER: ACCT. 301448 0, 4/1/2026-6/30/2026. $309.16 OPEN PLUS PENALTY; $14,110.03 OPEN PLUS PENALTY; OWED IN ARREARS\nSUBJECT TO FINAL READING",
+    "Good Faith Upset*": "$887,255.11",
+    "Judgment": "$818,562.92",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST X-C",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20063906"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 818562.92,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "32 46TH STREET WEEHAWKEN NJ 07086",
+    "defendant": "STEFAN T'SERVRANCKX A/K/A STEFAN TSERVRANCKX, ET AL",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST X-C",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST X-C",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20063906",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    }
+  ],
+  "upset_amount": 887255.11,
+  "upset_amount_label": "Good Faith Upset*"
+}

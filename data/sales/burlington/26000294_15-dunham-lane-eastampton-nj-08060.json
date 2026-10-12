@@ -1,0 +1,85 @@
+{
+  "address": "15 DUNHAM LANE EASTAMPTON NJ 08060",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "609-840-5000",
+  "county": "Burlington County, NJ",
+  "county_id": 3,
+  "court_case_number": "F-004964-25",
+  "current_status": "Adjourned by Court to",
+  "defendant": "DANIEL M. BERKEY; MARSHALL COOPER; TRACY COOPER; IRUKA CAPITAL GROUP LLC; KRISTINE M. RAIMONDO; RICK A. RAIMONDO; JULIA SCHNELLE; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $331,000.00",
+  "extracted": {
+    "upset_amount": 331000.0
+  },
+  "fields": {
+    "Address": "15 DUNHAM LANE\nEASTAMPTON NJ 08060",
+    "Approx. Judgment": "$283,704.68",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "609-840-5000",
+    "Court Case #": "F-004964-25",
+    "Defendant": "DANIEL M. BERKEY; MARSHALL COOPER; TRACY COOPER; IRUKA CAPITAL GROUP LLC; KRISTINE M. RAIMONDO; RICK A. RAIMONDO; JULIA SCHNELLE; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $331,000.00",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "11/5/2026",
+    "Sheriff #": "26000294"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 283704.68,
+  "judgment_amount_label": "Approx. Judgment",
+  "listing": {
+    "address": "15 DUNHAM LANE EASTAMPTON NJ 08060",
+    "defendant": "DANIEL M. BERKEY; MARSHALL COOPER; TRACY COOPER; IRUKA CAPITAL GROUP LLC; KRISTINE M. RAIMONDO; RICK A. RAIMONDO; JULIA SCHNELLE; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Burlington County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-11-05",
+  "sheriff_number": "26000294",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=3",
+  "status_history": [
+    {
+      "date": "2026-03-26",
+      "status": "Scheduled for"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "1st Debtor Adjournment to"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "1st Attorney Adjournment to"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "2nd Attorney Adjournment to"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "Adjourned by Court to"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "Adjourned by Court to"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "Adjourned by Court to"
+    },
+    {
+      "date": "2026-10-08",
+      "status": "Adjourned by Court to"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "Adjourned by Court to"
+    }
+  ]
+}

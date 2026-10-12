@@ -1,0 +1,84 @@
+{
+  "address": "31 Pueblo Court Marlboro NJ 07751",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01587715",
+  "current_status": "Scheduled",
+  "defendant": "Mark Nimirovsky, et al.",
+  "description": "Approximate dimensions: 53.57 x 175.00 x 95.61 x 21.28 x 266.21 Feet (IRREGULAR)\nNearest cross street: Cheyenne Drive\nUpset price: $872,676.48\nOccupancy Status: Occupied\nSubject to: 2024 3rd and 4th Quarter Taxes in the amount of $8,441.73, open plus penalty\nSewer in the amount o f $424.70 open plus penalty\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 872676.48
+  },
+  "fields": {
+    "Address": "31 Pueblo Court\nMarlboro NJ 07751",
+    "Approx. Judgment*": "$760,924.41",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F01587715",
+    "Defendant": "Mark Nimirovsky, et al.",
+    "Description": "Approximate dimensions: 53.57 x 175.00 x 95.61 x 21.28 x 266.21 Feet (IRREGULAR)\nNearest cross street: Cheyenne Drive\nUpset price: $872,676.48\nOccupancy Status: Occupied\nSubject to: 2024 3rd and 4th Quarter Taxes in the amount of $8,441.73, open plus penalty\nSewer in the amount o f $424.70 open plus penalty\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 54.19, Block 193.02 Tax Map of the Township of Marlboro",
+    "Plaintiff": "U.S. Bank NA, successor trustee to Bank of America, National Association, successor by merger to LaSalle Bank National Association, as Trustee, for the certificateholders of Bear Stearns Asset Backed Securities I LLC, Asset Backed Certificates, Series 2004-FR1",
+    "Property Note": "",
+    "Sales Date": "2/18/2025",
+    "Sheriff #": "FOR-22000547"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 760924.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 Pueblo Court Marlboro NJ 07751",
+    "defendant": "Mark Nimirovsky, et al.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "U.S. Bank NA, successor trustee to Bank of America, National Association, successor by merger to LaSalle Bank National Association, as Trustee, for the certificateholders of Bear Stearns Asset Backed Securities I LLC, Asset Backed Certificates, Series 2004-FR1",
+    "sale_date": "2025-02-18"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 54.19, Block 193.02 Tax Map of the Township of Marlboro",
+  "plaintiff": "U.S. Bank NA, successor trustee to Bank of America, National Association, successor by merger to LaSalle Bank National Association, as Trustee, for the certificateholders of Bear Stearns Asset Backed Securities I LLC, Asset Backed Certificates, Series 2004-FR1",
+  "property_note": null,
+  "sale_date": "2025-02-18",
+  "sheriff_number": "FOR-22000547",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-18",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-11-13",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-11-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-07-05",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-07-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-06-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-05-09",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "address": "22 S Georgia Avenue Atlantic City NJ 08401",
+  "attorney": "Weber Gallagher Simpson Stapleton Fires & Newby, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012073-24",
+  "current_status": "Scheduled",
+  "deed": "AAIA RML, LLC",
+  "deed_address": "645 Madison Avenue, 19th Floor, New York, NY 10022",
+  "defendant": "S. Georgia Ave LLC; Jeinny Vulpis; Marc LaPointe",
+  "extracted": {},
+  "fields": {
+    "Address": "22 S Georgia Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$391,001.91",
+    "Attorney": "Weber Gallagher Simpson Stapleton Fires & Newby, LLP",
+    "Court Case #": "F-012073-24",
+    "Deed": "AAIA RML, LLC",
+    "Deed Address": "645 Madison Avenue, 19th Floor, New York, NY 10022",
+    "Defendant": "S. Georgia Ave LLC; Jeinny Vulpis; Marc LaPointe",
+    "Plaintiff": "Loan Funder, LLC Series 38095",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "3/5/2026",
+    "Sheriff #": "F-26000027",
+    "Upset Amount": "$325,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 391001.91,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "22 S Georgia Avenue Atlantic City NJ 08401",
+    "defendant": "S. Georgia Ave LLC; ...",
+    "listing_status": null,
+    "plaintiff": "Loan Funder, LLC Ser...",
+    "sale_date": "2026-03-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Loan Funder, LLC Series 38095",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2026-03-05",
+  "sheriff_number": "F-26000027",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-03-05",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 325000.0,
+  "upset_amount_label": "Upset Amount"
+}

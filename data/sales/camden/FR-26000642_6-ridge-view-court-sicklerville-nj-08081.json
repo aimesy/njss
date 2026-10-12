@@ -1,0 +1,61 @@
+{
+  "address": "6 RIDGE VIEW COURT SICKLERVILLE NJ 08081",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00544525",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "LANETTE KEETON; MR./MRS. KEETON, SPOUSE OR CIVIL UNION PARTNER OF LANETTE KEETON; UNITED STATES OF AMERICA; RAB PERFORMANCE RECOVERIES; STATE OF NEW JERSEY;",
+  "extracted": {},
+  "fields": {
+    "Address": "6 RIDGE VIEW COURT\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$332,999.55",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00544525",
+    "Defendant": "LANETTE KEETON; MR./MRS. KEETON, SPOUSE\nOR CIVIL UNION PARTNER OF LANETTE KEETON;\nUNITED STATES OF AMERICA; RAB PERFORMANCE\nRECOVERIES; STATE OF NEW JERSEY;",
+    "Parcel #": "LOT:19; BLOCK:1105.04",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "PURSUANT TO A MUNICIPAL TAX SEARCH DATED MARCH 2, 2026.\nSUBJECT TO: 2026 2ND QUARTER TAXES DUE 5/1/2026, $2,601.61 OPEN\n2026B3RD QUARTER TAXES DUE 8/1/20206, TO BE CONTINUED\nWATER: ACCT. 293783-0, $154.88 OPEN PLUS PENALTY\nSEWER: ACCT. 293783-0, $102.25 OPEN PLUS PENALTY\nCCMUA: ACCT. 360148910, $93.00 OPEN AND DUE 4/2/2026",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-26000642"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "6 RIDGE VIEW COURT SICKLERVILLE NJ 08081",
+    "defendant": "LANETTE KEETON; MR./MRS. KEETON, SPOUSE \nOR CIVIL UNION PARTNER OF LANETTE KEETON; \nUNITED STATES OF AMERICA; RAB PERFORMANCE \nRECOVERIES; STATE OF NEW JERSEY;",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT:19; BLOCK:1105.04",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": "PURSUANT TO A MUNICIPAL TAX SEARCH DATED MARCH 2, 2026.\nSUBJECT TO: 2026 2ND QUARTER TAXES DUE 5/1/2026, $2,601.61 OPEN\n2026B3RD QUARTER TAXES DUE 8/1/20206, TO BE CONTINUED\nWATER: ACCT. 293783-0, $154.88 OPEN PLUS PENALTY\nSEWER: ACCT. 293783-0, $102.25 OPEN PLUS PENALTY\nCCMUA: ACCT. 360148910, $93.00 OPEN AND DUE 4/2/2026",
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-26000642",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 332999.55,
+  "upset_amount_label": "Approx. Upset*"
+}

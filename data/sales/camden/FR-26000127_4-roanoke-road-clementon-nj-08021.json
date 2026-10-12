@@ -1,0 +1,57 @@
+{
+  "address": "4 ROANOKE ROAD CLEMENTON NJ 08021",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00007422",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "CHRISTIAN F. CAMPAGNA; MIDLAND FUNDING LLC AND STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "4 ROANOKE ROAD\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$310,857.62",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00007422",
+    "Defendant": "CHRISTIAN F. CAMPAGNA; MIDLAND FUNDING LLC AND STATE OF NEW JERSEY",
+    "Parcel #": "",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "5/18/2026",
+    "Sheriff #": "FR-26000127"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "4 ROANOKE ROAD CLEMENTON NJ 08021",
+    "defendant": "CHRISTIAN F. CAMPAGNA; MIDLAND FUNDING LLC AND STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-05-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2026-05-18",
+  "sheriff_number": "FR-26000127",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-18",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 310857.62,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,57 @@
+{
+  "address": "47 WHITE HORSE AVENUE CLEMENTON NJ 08021",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00821925",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "ROBERT W. MCCOURT; AMANDA MCCOURT; VIRTUA WEST JERSEY HEALTH SYSTEM",
+  "extracted": {},
+  "fields": {
+    "Address": "47 WHITE HORSE AVENUE\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$113,702.21",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F00821925",
+    "Defendant": "ROBERT W. MCCOURT; AMANDA MCCOURT; VIRTUA WEST JERSEY\nHEALTH SYSTEM",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS\nTRUSTEE, SUCCESSOR IN INTEREST TO U.S. BANK NATIONAL\nASSOCIATION, AS TRUSTEE FOR MASTR ASSET BACKED SECURITIES\nTRUST 2006-FRE1, MORTGAGE PASS-THOUGH CERTIFICATES, SERIES\n2006-FRE1",
+    "Property Note": "",
+    "Sales Date": "4/29/2026",
+    "Sheriff #": "FR-26000091"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "47 WHITE HORSE AVENUE CLEMENTON NJ 08021",
+    "defendant": "ROBERT W. MCCOURT; AMANDA MCCOURT; VIRTUA WEST JERSEY \nHEALTH SYSTEM",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS \nTRUSTEE, SUCCESSOR IN INTEREST TO U.S. BANK NATIONAL \nASSOCIATION, AS TRUSTEE FOR MASTR ASSET BACKED SECURITIES \nTRUST 2006-FRE1, MORTGAGE PASS-THOUGH CERTIFICATES, SERIES \n2006-FRE1",
+    "sale_date": "2026-04-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR MASTR ASSET BACKED SECURITIES TRUST 2006-FRE1, MORTGAGE PASS-THOUGH CERTIFICATES, SERIES 2006-FRE1",
+  "property_note": null,
+  "sale_date": "2026-04-29",
+  "sheriff_number": "FR-26000091",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-29",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 113702.21,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "812 Fifth Road Mays Landing NJ 08330",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003818-24",
+  "current_status": "Scheduled",
+  "deed": "Douglas A. Velasquez",
+  "deed_address": "802 Spruce Ave Pleasantville, NJ 08232",
+  "defendant": "Kimberly J. Callahan and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "812 Fifth Road\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$222,886.77",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-003818-24",
+    "Deed": "Douglas A. Velasquez",
+    "Deed Address": "802 Spruce Ave Pleasantville, NJ 08232",
+    "Defendant": "Kimberly J. Callahan and United States of America",
+    "Plaintiff": "Loandepot.com, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "1/16/2025",
+    "Sheriff #": "F-24001512",
+    "Upset Amount": "$136,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 222886.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "812 Fifth Road Mays Landing NJ 08330",
+    "defendant": "Kimberly J. Callahan...",
+    "listing_status": null,
+    "plaintiff": "Loandepot.com, LLC...",
+    "sale_date": "2025-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Loandepot.com, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-01-16",
+  "sheriff_number": "F-24001512",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-16",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 136000.0,
+  "upset_amount_label": "Upset Amount"
+}

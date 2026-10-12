@@ -1,0 +1,55 @@
+{
+  "address": "1502 D Street Belmar NJ 07719",
+  "attorney": "Pluese, Becker & Saltzman",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00290724",
+  "current_status": "Scheduled",
+  "defendant": "Robert Thacker et al.",
+  "description": "Approximate Dimensions: 7.09' x 99.61' x 22.87' x 94.81 x 16.49'\nNearest Cross Street: D Street\nThe Plaintiff's Upset Bid presentlt approximates $229,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "1502 D Street\nBelmar NJ 07719",
+    "Approx. Judgment*": "$211,741.61",
+    "Attorney": "Pluese, Becker & Saltzman",
+    "Court Case #": "F00290724",
+    "Defendant": "Robert Thacker et al.",
+    "Description": "Approximate Dimensions: 7.09' x 99.61' x 22.87' x 94.81 x 16.49'\nNearest Cross Street: D Street\nThe Plaintiff's Upset Bid presentlt approximates $229,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot: #11 Block: #153 Located on the tax map of the Borough of Belmar",
+    "Plaintiff": "AJAX Mortgage Loan Trust 2019-D, Mortgage -Backed Securities, Series 2019-D, by U.S. Bank National Association, as Indentured Trustee",
+    "Property Note": "",
+    "Sales Date": "3/11/2025",
+    "Sheriff #": "FOR-24002574"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 211741.61,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1502 D Street Belmar NJ 07719",
+    "defendant": "Robert Thacker et al.",
+    "listing_status": "Settled",
+    "plaintiff": "AJAX Mortgage Loan Trust 2019-D, Mortgage -Backed Securities, Series 2019-D, by U.S. Bank National Association, as Indentured Trustee",
+    "sale_date": "2025-03-11"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: #11 Block: #153 Located on the tax map of the Borough of Belmar",
+  "plaintiff": "AJAX Mortgage Loan Trust 2019-D, Mortgage -Backed Securities, Series 2019-D, by U.S. Bank National Association, as Indentured Trustee",
+  "property_note": null,
+  "sale_date": "2025-03-11",
+  "sheriff_number": "FOR-24002574",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-11",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "address": "40 YORK STREET OLD BRIDGE NJ 08857",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F02023818",
+  "current_status": "Bankruptcy",
+  "defendant": "CARLOS A. RUIZ",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$540,325.25",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F02023818",
+    "Defendant": "CARLOS A. RUIZ",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 695 BLOCK 15586",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF THE J.P. MORGAN MORTGAGE ACQUISITION TRUST 2007-CH2 ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-CH2",
+    "Property Address": "40 YORK STREET\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-774986"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 540325.25,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40 YORK STREET OLD BRIDGE NJ 08857",
+    "defendant": "CARLOS A. RUIZ",
+    "listing_status": "Cancelled",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF THE J.P. MORGAN MORTGAGE ACQUISITION TRUST 2007-CH2 ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-CH2",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 695 BLOCK 15586",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, ON BEHALF OF THE HOLDERS OF THE J.P. MORGAN MORTGAGE ACQUISITION TRUST 2007-CH2 ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-CH2",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-774986",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-04-26",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

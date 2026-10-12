@@ -1,0 +1,104 @@
+{
+  "address": "40 PARK STREET JERSEY CITY NJ 07304",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005232-24",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "DAWN M. ADAMS, ET AL.",
+  "description": "TAX LOT: 17 TAX BLOCK: 17003\nAPPROXIMATE DIMENSIONS: 14.25' X 86.24'\nNEAREST CROSS STREET: PRESCOTT PLACE\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $147,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "17003",
+    "lot": "17",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "40 PARK STREET\nJERSEY CITY NJ 07304",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-005232-24",
+    "Defendant": "DAWN M. ADAMS, ET AL.",
+    "Description": "TAX LOT: 17 TAX BLOCK: 17003\nAPPROXIMATE DIMENSIONS: 14.25' X 86.24'\nNEAREST CROSS STREET: PRESCOTT PLACE\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $147,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Good Faith Upset*": "$147,000.00",
+    "Judgment": "$124,153.41",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-A",
+    "Property Note": "",
+    "Sales Date": "11/5/2026",
+    "Sheriff #": "20058170"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 124153.41,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "40 PARK STREET JERSEY CITY NJ 07304",
+    "defendant": "DAWN M. ADAMS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-A",
+    "sale_date": "2026-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-A",
+  "property_note": null,
+  "sale_date": "2026-11-05",
+  "sheriff_number": "20058170",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-05-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "ADJOURNED SHERIFF - New Sale Date:"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2025-08-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-09-25",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-10-09",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-11-06",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "HOLD"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 147000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

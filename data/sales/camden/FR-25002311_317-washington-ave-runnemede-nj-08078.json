@@ -1,0 +1,57 @@
+{
+  "address": "317 WASHINGTON AVE. RUNNEMEDE NJ 08078",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00068822",
+  "current_status": "Purchased",
+  "defendant": "KIERSTEN M. STONE, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "317 WASHINGTON AVE.\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$163,101.41",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00068822",
+    "Defendant": "KIERSTEN M. STONE, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25002311"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "317 WASHINGTON AVE. RUNNEMEDE NJ 08078",
+    "defendant": "KIERSTEN M. STONE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25002311",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 163101.41,
+  "upset_amount_label": "Approx. Upset*"
+}

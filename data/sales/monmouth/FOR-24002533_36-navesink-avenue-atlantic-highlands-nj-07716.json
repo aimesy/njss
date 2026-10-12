@@ -1,0 +1,63 @@
+{
+  "address": "36 Navesink Avenue Atlantic Highlands NJ 07716",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00789424",
+  "current_status": "Scheduled",
+  "defendant": "Carol Zuzio, et al",
+  "description": "Approximate dimensions: 100.00' x 105.00'\nNearest cross street: Wesley Avenue\nThe Plaintiff's Upset Bid presently approximates $340.000.00\nOccupancy Status: Unknown\nPriority Tax Lien Holder: Christina T C/F CE1/Firstrust holds Tax Sale Certificate No. 23-00001 in the amount of $66,946.22 as of 10/04/2023.\n***Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+  "extracted": {
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "36 Navesink Avenue\nAtlantic Highlands NJ 07716",
+    "Approx. Judgment*": "$318,038.53",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00789424",
+    "Defendant": "Carol Zuzio, et al",
+    "Description": "Approximate dimensions: 100.00' x 105.00'\nNearest cross street: Wesley Avenue\nThe Plaintiff's Upset Bid presently approximates $340.000.00\nOccupancy Status: Unknown\nPriority Tax Lien Holder: Christina T C/F CE1/Firstrust holds Tax Sale Certificate No. 23-00001 in the amount of $66,946.22 as of 10/04/2023.\n***Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+    "Parcel #": "Tax Lot: 8 Tax Block: 38 Tax Map of Borough of Atlantic Highlands",
+    "Plaintiff": "A, E & J Properties LLC",
+    "Property Note": "",
+    "Sales Date": "4/28/2025",
+    "Sheriff #": "FOR-24002533"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 318038.53,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "36 Navesink Avenue Atlantic Highlands NJ 07716",
+    "defendant": "Carol Zuzio, et al",
+    "listing_status": "Settled",
+    "plaintiff": "A, E & J Properties LLC",
+    "sale_date": "2025-04-28"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 8 Tax Block: 38 Tax Map of Borough of Atlantic Highlands",
+  "plaintiff": "A, E & J Properties LLC",
+  "property_note": null,
+  "sale_date": "2025-04-28",
+  "sheriff_number": "FOR-24002533",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-28",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

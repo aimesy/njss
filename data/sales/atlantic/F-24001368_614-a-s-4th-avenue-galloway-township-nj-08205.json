@@ -1,0 +1,70 @@
+{
+  "address": "614 A S 4th Avenue Galloway Township NJ 08205",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002415-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Michael Felix; Colleen Felix; Goodleap, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "614 A S 4th Avenue\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$254,981.76",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-002415-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Michael Felix; Colleen Felix; Goodleap, LLC",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, As PI Trustee of the Freddie Mac Participation Interest Trust, Series 2021-1",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "3/6/2025",
+    "Sheriff #": "F-24001368",
+    "Upset Amount": "$278,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 254981.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "614 A S 4th Avenue Galloway Township NJ 08205",
+    "defendant": "Michael Felix; Colle...",
+    "listing_status": null,
+    "plaintiff": "Federal Home Loan Mo...",
+    "sale_date": "2025-03-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, As PI Trustee of the Freddie Mac Participation Interest Trust, Series 2021-1",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-03-06",
+  "sheriff_number": "F-24001368",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-06",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-01-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 278500.0,
+  "upset_amount_label": "Upset Amount"
+}

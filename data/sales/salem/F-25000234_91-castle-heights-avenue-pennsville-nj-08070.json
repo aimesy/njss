@@ -1,0 +1,47 @@
+{
+  "address": "91 Castle Heights Avenue Pennsville NJ 08070",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-016603-18",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "Michael A. Rafine, et al",
+  "description": "Approximate Dimensions:150 feet wide by 100 feet long Approximate Upset Price: $238,314.25. The upset amount may be subject to further Orders of additional sums. Occupancy Status: Occupied by unknown",
+  "extracted": {
+    "occupancy": "Occupied by unknown",
+    "upset_amount": 238314.25
+  },
+  "fields": {
+    "Address": "91 Castle Heights Avenue\nPennsville NJ 08070",
+    "Court Case #": "F-016603-18",
+    "Defendant": "Michael A. Rafine, et al",
+    "Description": "Approximate Dimensions:150 feet wide by 100 feet long Approximate Upset Price: $238,314.25. The upset amount may be subject to further Orders of additional sums. Occupancy Status: Occupied by unknown",
+    "Plaintiff": "M&T Bank",
+    "Sales Date": "12/01/2025 02:00 PM",
+    "Sheriff #": "F-25000234"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "91 Castle Heights Avenue Pennsville NJ 08070",
+    "defendant": "Michael A. Rafine, et al",
+    "listing_status": null,
+    "plaintiff": "M&T Bank",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "M&T Bank",
+  "sale_date": null,
+  "sheriff_number": "F-25000234",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

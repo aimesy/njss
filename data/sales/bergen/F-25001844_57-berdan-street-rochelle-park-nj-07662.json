@@ -1,0 +1,59 @@
+{
+  "address": "57 BERDAN STREET ROCHELLE PARK NJ 07662",
+  "attorney": "VEITENGRUBER LAW",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01077523",
+  "current_status": "BANKRUPTCY",
+  "defendant": "JACKEVA HILL; UNITED STATES OF AMERICA",
+  "description": "UPSET PRICE: $518,186.88, GOOD THROUGH DECEMBER 12, 2025 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STSUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+  "extracted": {
+    "upset_amount": 518186.88
+  },
+  "fields": {
+    "Address": "57 BERDAN STREET\nROCHELLE PARK NJ 07662",
+    "Approx. Upset*": "$446,068.31",
+    "Attorney": "VEITENGRUBER LAW",
+    "Court Case #": "F01077523",
+    "Defendant": "JACKEVA HILL; UNITED STATES OF AMERICA",
+    "Description": "UPSET PRICE: $518,186.88, GOOD THROUGH DECEMBER 12, 2025 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STSUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 1, BLOCK 80.03",
+    "Plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS",
+    "Property Note": "",
+    "Sales Date": "12/5/2025",
+    "Sheriff #": "F-25001844"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "57 BERDAN STREET ROCHELLE PARK NJ 07662",
+    "defendant": "JACKEVA HILL; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS",
+    "sale_date": "2025-12-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 1, BLOCK 80.03",
+  "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS",
+  "property_note": null,
+  "sale_date": "2025-12-05",
+  "sheriff_number": "F-25001844",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 446068.31,
+  "upset_amount_label": "Approx. Upset*"
+}

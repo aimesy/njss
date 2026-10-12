@@ -1,0 +1,64 @@
+{
+  "address": "31 CAMPBELL AVENUE EDISON NJ 08817",
+  "attorney": "GROSS POLOWY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00629623",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "MARIO E. DIONISIO, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$92,045.72",
+    "Attorney": "GROSS POLOWY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00629623",
+    "Defendant": "MARIO E. DIONISIO, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 30.01 BLOCK 81",
+    "Plaintiff": "U.S. BANK TRUST, N.A. AS TRUSTEE FOR LSRMF MORTGAGE HOLDINGS II MASTER PARTICIPATION TRUST",
+    "Property Address": "31 CAMPBELL AVENUE\nEDISON NJ 08817",
+    "Property Note": "SUCCESSFULLY POSTED BY: D. HARVATT, SEPTEMBER 27, 2024",
+    "Sale Date": "1/8/2025",
+    "Sheriff #": "F-776603"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 92045.72,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 CAMPBELL AVENUE EDISON NJ 08817",
+    "defendant": "MARIO E. DIONISIO, ET ALS",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "U.S. BANK TRUST, N.A. AS TRUSTEE FOR LSRMF MORTGAGE HOLDINGS II MASTER PARTICIPATION TRUST",
+    "sale_date": "2025-01-08"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 30.01 BLOCK 81",
+  "plaintiff": "U.S. BANK TRUST, N.A. AS TRUSTEE FOR LSRMF MORTGAGE HOLDINGS II MASTER PARTICIPATION TRUST",
+  "property_note": "SUCCESSFULLY POSTED BY: D. HARVATT, SEPTEMBER 27, 2024",
+  "sale_date": "2025-01-08",
+  "sheriff_number": "F-776603",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-01-07",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

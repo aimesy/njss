@@ -1,0 +1,73 @@
+{
+  "address": "28 TERRACE AVE, CAMDEN NJ 08105",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01064723",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "LAKESHA EVANS A/K/A LAKEASHA EVANS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "28 TERRACE AVE,\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$79,536.68",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01064723",
+    "Defendant": "LAKESHA EVANS A/K/A LAKEASHA EVANS, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC.",
+    "Property Note": "",
+    "Sales Date": "3/3/2026",
+    "Sheriff #": "FR-24000492"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "28 TERRACE AVE, CAMDEN NJ 08105",
+    "defendant": "LAKESHA EVANS A/K/A LAKEASHA EVANS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC.",
+    "sale_date": "2026-03-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC.",
+  "property_note": null,
+  "sale_date": "2026-03-03",
+  "sheriff_number": "FR-24000492",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-04-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 79536.68,
+  "upset_amount_label": "Approx. Upset*"
+}

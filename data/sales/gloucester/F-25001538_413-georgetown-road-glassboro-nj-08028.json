@@ -1,0 +1,56 @@
+{
+  "address": "413 GEORGETOWN ROAD GLASSBORO NJ 08028",
+  "attorney": "GREENSPOON MARDER, LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-009771-24",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "RONALD HAFEMEISTER, ET AL.",
+  "description": "ESTIMATED UPSET PRICE: $193,975.70. MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 193975.7
+  },
+  "fields": {
+    "Address": "413 GEORGETOWN ROAD\nGLASSBORO NJ 08028",
+    "Approximate Judgment": "$188,738.22",
+    "Attorney": "GREENSPOON MARDER, LLP",
+    "Court Case #": "F-009771-24",
+    "Defendant": "RONALD HAFEMEISTER, ET AL.",
+    "Description": "ESTIMATED UPSET PRICE: $193,975.70. MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT: 12 BLOCK: 122",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "Property Note": "BOROUGH OF GLASSBORO\nCOUNTY OF GLOUCESTER\n413 GEORGETOWN ROAD GLASSBORO, NJ 08028\nLOT: 12 BLOCK: 122\nAPROXIMATE DIMENSIONS: .367 AC\nNEAREST CROSS STREET: LEHIGH RD SOUTH\nESTIMATED UPSET PRICE: $193,975.70. MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS\nOCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "F-25001538"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 188738.22,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "413 GEORGETOWN ROAD GLASSBORO NJ 08028",
+    "defendant": "RONALD HAFEMEISTER, ET AL.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 12 BLOCK: 122",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+  "property_note": "BOROUGH OF GLASSBORO\nCOUNTY OF GLOUCESTER\n413 GEORGETOWN ROAD GLASSBORO, NJ 08028\nLOT: 12 BLOCK: 122\nAPROXIMATE DIMENSIONS: .367 AC\nNEAREST CROSS STREET: LEHIGH RD SOUTH\nESTIMATED UPSET PRICE: $193,975.70. MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS\nOCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2026-03-04",
+  "sheriff_number": "F-25001538",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

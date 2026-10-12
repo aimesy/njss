@@ -1,0 +1,68 @@
+{
+  "address": "209 36TH STREET UNION CITY NJ 07087",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-014003-25",
+  "current_status": "Cancelled",
+  "defendant": "DOV EISENBERGER; MRS. EISENBERGER, SPOUSE OF DOV EISENBERGER; RIVKA EISENBERGER; TONIANNE MCDONALD; ANTHONY R KRUEGER; MICHAEL A. KRUEGER",
+  "description": "TAX LOT 15 BLOCK 211\nDIMENSIONS OF LOT: 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: HUDSON AVENUE\nESTIMATED UPSET BID AMOUNT: $111,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: TENANT\n2026 QTR 2 DUE: 05/01/2026 $3,264.95 OPEN\nSEWER: NORTH HUDSON SEWER AUTH. 1600 ADAMS ST. HOBOKEN, NJ 07030 201-963-6043 ACCT: 203962 0 01/01/2026 - 03/31/2026 $146.80 OPEN PLUS PENALTY $9,024.39 OPEN PLUS PENALTY\nGeneral Remark: Delinquent utility charges may be subject to tax sale; subject to additional fees.\nPROSPECTIVE PURCHASERS ARE ON NOTICE THAT ANY PURCHASE IS SUBJECT TO A PRIOR MORTGAGE TO MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. ACTING SOLELY AS NOMINEE FOR TD BANK, N.A. IN THE ORIGINAL AMOUNT OF $286,000.00 RECORDED ON 03/14/2014 IN BOOK 18323 AT PAGE 809. SAID MORTGAGE WAS ASSIGNED BY ASSIGNMENT OF MORTGAGE TO TD BANK AND THE ASSIGNMENT WAS RECORDED ON 3/31/2020 IN BOOK 1256 PAGE 664 WITH THE HUDSON COUNTY CLERK/REGISTER",
+  "extracted": {
+    "block": "211",
+    "lot": "15",
+    "occupancy": "TENANT"
+  },
+  "fields": {
+    "Address": "209 36TH STREET\nUNION CITY NJ 07087",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-014003-25",
+    "Defendant": "DOV EISENBERGER; MRS. EISENBERGER, SPOUSE OF DOV EISENBERGER; RIVKA EISENBERGER; TONIANNE MCDONALD; ANTHONY R KRUEGER; MICHAEL A. KRUEGER",
+    "Description": "TAX LOT 15 BLOCK 211\nDIMENSIONS OF LOT: 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: HUDSON AVENUE\nESTIMATED UPSET BID AMOUNT: $111,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: TENANT\n2026 QTR 2 DUE: 05/01/2026 $3,264.95 OPEN\nSEWER: NORTH HUDSON SEWER AUTH. 1600 ADAMS ST. HOBOKEN, NJ 07030 201-963-6043 ACCT: 203962 0 01/01/2026 - 03/31/2026 $146.80 OPEN PLUS PENALTY $9,024.39 OPEN PLUS PENALTY\nGeneral Remark: Delinquent utility charges may be subject to tax sale; subject to additional fees.\nPROSPECTIVE PURCHASERS ARE ON NOTICE THAT ANY PURCHASE IS SUBJECT TO A PRIOR MORTGAGE TO MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. ACTING SOLELY AS NOMINEE FOR TD BANK, N.A. IN THE ORIGINAL AMOUNT OF $286,000.00 RECORDED ON 03/14/2014 IN BOOK 18323 AT PAGE 809. SAID MORTGAGE WAS ASSIGNED BY ASSIGNMENT OF MORTGAGE TO TD BANK AND THE ASSIGNMENT WAS RECORDED ON 3/31/2020 IN BOOK 1256 PAGE 664 WITH THE HUDSON COUNTY CLERK/REGISTER",
+    "Good Faith Upset*": "$111,000.00",
+    "Judgment": "$99,848.15",
+    "Plaintiff": "PENTAGON FEDERAL CREDIT UNION",
+    "Property Note": "",
+    "Sales Date": "8/25/2026",
+    "Sheriff #": "20062950"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 99848.15,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "209 36TH STREET UNION CITY NJ 07087",
+    "defendant": "DOV EISENBERGER; MRS. EISENBERGER, SPOUSE OF DOV EISENBERGER; RIVKA EISENBERGER; TONIANNE MCDONALD; ANTHONY R KRUEGER; MICHAEL A. KRUEGER",
+    "listing_status": null,
+    "plaintiff": "PENTAGON FEDERAL CREDIT UNION",
+    "sale_date": "2026-08-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PENTAGON FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2026-08-25",
+  "sheriff_number": "20062950",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-07-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-08-25",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 111000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

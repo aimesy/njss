@@ -1,0 +1,53 @@
+{
+  "address": "150 WESTERVELT Avenue Hawthorne NJ 07506",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003548 25 CTL # 163108",
+  "current_status": "Cancelled",
+  "defendant": "SEAN SUNDBERG, ET ALS",
+  "description": "Dimensions: approximately 38x101\nUpset Price: Approximately $416,217.95 and any additional sums as ordered by the court\nOccupancy Status: Occupied by unknown\nNearest Cross Street: North 13th Street\nBeginning at a point in the Westerly Line of Westervelt Avenue (50 Feet wide) distant northerly and along same 112.95 feet from the northerly line of North 13th Street (40 feet wide) and running thence. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.\nPursuant to a tax search of 12/01/2025, 2026 Qtr 1 Due: 02/01/2026 $3,166.00 OPEN. Vacant Lot charge. Property registration fees exist. Please contact HERA PROPERTY REGISTRY 321-234-5303 fore details. Water acct: 350990 0-06/15/2025-09/13/2025 $798.44 OPEN PLUS PENALTY $590.49 OPEN PLUS PENALTY; OWED IN ARREARS. Subject to final reading; Sewer: Included with taxes. General Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.",
+  "extracted": {
+    "lot": "charge",
+    "occupancy": "Occupied by unknown",
+    "upset_amount": 416217.95
+  },
+  "fields": {
+    "Address": "150 WESTERVELT Avenue\nHawthorne NJ 07506",
+    "Approx. Upset*": "$380,553.17",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Court Case #": "F 003548 25 CTL # 163108",
+    "Defendant": "SEAN SUNDBERG, ET ALS",
+    "Description": "Dimensions: approximately 38x101\nUpset Price: Approximately $416,217.95 and any additional sums as ordered by the court\nOccupancy Status: Occupied by unknown\nNearest Cross Street: North 13th Street\nBeginning at a point in the Westerly Line of Westervelt Avenue (50 Feet wide) distant northerly and along same 112.95 feet from the northerly line of North 13th Street (40 feet wide) and running thence. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.\nPursuant to a tax search of 12/01/2025, 2026 Qtr 1 Due: 02/01/2026 $3,166.00 OPEN. Vacant Lot charge. Property registration fees exist. Please contact HERA PROPERTY REGISTRY 321-234-5303 fore details. Water acct: 350990 0-06/15/2025-09/13/2025 $798.44 OPEN PLUS PENALTY $590.49 OPEN PLUS PENALTY; OWED IN ARREARS. Subject to final reading; Sewer: Included with taxes. General Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.",
+    "Parcel #": "Tax Lot 5 Block 59",
+    "Plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1",
+    "Property Note": "",
+    "Sales Date": "1/29/2026",
+    "Sheriff #": "F-25001885"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "150 WESTERVELT Avenue Hawthorne NJ 07506",
+    "defendant": "SEAN SUNDBERG, ET ALS",
+    "listing_status": null,
+    "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1",
+    "sale_date": "2026-01-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 5 Block 59",
+  "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1",
+  "property_note": null,
+  "sale_date": "2026-01-29",
+  "sheriff_number": "F-25001885",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-01-29",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 380553.17,
+  "upset_amount_label": "Approx. Upset*"
+}

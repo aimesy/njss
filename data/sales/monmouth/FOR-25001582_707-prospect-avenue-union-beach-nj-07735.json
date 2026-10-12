@@ -1,0 +1,64 @@
+{
+  "address": "707 Prospect Avenue Union Beach NJ 07735",
+  "attorney": "Albertelli Law",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00582924",
+  "current_status": "Scheduled",
+  "defendant": "Sean O'Neill; Rebecca O'Neill, et al",
+  "description": "Nearest Cross Street: Shore Road\nApproximate Dimensions:\nUpset Price: $323,000.00\nOccupancy: Unknown\nAccess: Does not have access to property\nA FULL LEGAL DESCRIPTION OF THE PREMISES CAN BE FOUND IN THE oFFICE OF THE SHERIFF OF ATLANTIC COUNTY\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon. If the sale is set aside for any reason, the Purchaser at the sale shall only be entitled to a return of the deposit paid. The Purchaser shall have no further recourse against the plaintiff, its successors and assigns or plaintiff's attorney(s).\nNOTICE Regarding the Community Wealth Preservation Program\nOn January 12, 2024, Gov. Murphy signed legislation into state law establishing a Community Wealth Program to promote equity and fairness in foreclosure salesd by providing new and greater opportunities for foreclosed-upon residents and their next of kin, tenants, and other prospective owner-occupants, along with nonprofit community development corporations, to purchase and finance a foreclosed-upon home. THIS PROGRAM EXCLUDES THOSE PURCHASING PROPERTIES FOR INVESTMENT PURPOSES. For further information, see P.L.2023, c.255, or visit https://pub.njleg.state.nj.us/Bills/2022/A6000/5664_R3.PD",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 323000.0
+  },
+  "fields": {
+    "Address": "707 Prospect Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$295,534.84",
+    "Attorney": "Albertelli Law",
+    "Court Case #": "F00582924",
+    "Defendant": "Sean O'Neill; Rebecca O'Neill, et al",
+    "Description": "Nearest Cross Street: Shore Road\nApproximate Dimensions:\nUpset Price: $323,000.00\nOccupancy: Unknown\nAccess: Does not have access to property\nA FULL LEGAL DESCRIPTION OF THE PREMISES CAN BE FOUND IN THE oFFICE OF THE SHERIFF OF ATLANTIC COUNTY\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon. If the sale is set aside for any reason, the Purchaser at the sale shall only be entitled to a return of the deposit paid. The Purchaser shall have no further recourse against the plaintiff, its successors and assigns or plaintiff's attorney(s).\nNOTICE Regarding the Community Wealth Preservation Program\nOn January 12, 2024, Gov. Murphy signed legislation into state law establishing a Community Wealth Program to promote equity and fairness in foreclosure salesd by providing new and greater opportunities for foreclosed-upon residents and their next of kin, tenants, and other prospective owner-occupants, along with nonprofit community development corporations, to purchase and finance a foreclosed-upon home. THIS PROGRAM EXCLUDES THOSE PURCHASING PROPERTIES FOR INVESTMENT PURPOSES. For further information, see P.L.2023, c.255, or visit https://pub.njleg.state.nj.us/Bills/2022/A6000/5664_R3.PD",
+    "Parcel #": "Tax Lot# 8 Block# 219 Tax Map of Union Beach Borough",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "FOR-25001582"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 295534.84,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "707 Prospect Avenue Union Beach NJ 07735",
+    "defendant": "Sean O'Neill; Rebecca O'Neill, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Nationstar Mortgage LLC",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot# 8 Block# 219 Tax Map of Union Beach Borough",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "FOR-25001582",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    }
+  ]
+}

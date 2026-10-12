@@ -1,0 +1,50 @@
+{
+  "address": "650 Penns Grove-Auburn Road Carneys Point NJ 08069",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-000914-25",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "John J. Baker; Heather Verticelli; United States of America; Alterman and Associates LLC",
+  "description": "Approximate Dimensions: 1.95 AC. Approximate Upset: $255,285.50. The upset amount may be subject to further orders of additional sums. Occupancy Status: Owner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "650 Penns Grove-Auburn Road\nCarneys Point NJ 08069",
+    "Court Case #": "F-000914-25",
+    "Defendant": "John J. Baker; Heather Verticelli; United States of America; Alterman and Associates LLC",
+    "Description": "Approximate Dimensions: 1.95 AC. Approximate Upset: $255,285.50. The upset amount may be subject to further orders of additional sums. Occupancy Status: Owner Occupied",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Sales Date": "12/01/2025 02:00 PM",
+    "Sheriff #": "F-25000230"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "650 Penns Grove-Auburn Road Carneys Point NJ 08069",
+    "defendant": "John J. Baker; Heather Verticelli; United States of America; Alterman and Associates LLC",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Corporation",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "sale_date": null,
+  "sheriff_number": "F-25000230",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

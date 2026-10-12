@@ -1,0 +1,60 @@
+{
+  "address": "547 SOUTH PARK DRIVE PERTH AMBOY NJ 08861",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00332425",
+  "current_status": "Settled",
+  "defendant": "ROSARIO EGUIGUREN, ET ALS.",
+  "description": "Property to be sold is located in the City of Perth Amboy, County of Middlesex and State of New Jersey.\nCommonly known as: 547 South Park Drive, Perth Amboy, NJ 08861.\nTax Lot(s): 6, in Block: 399.27.\nDimensions (Approx.): 54*130.\nNearest Cross Street: Convery Blvd.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 – Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nTax Certificate\nRecorded: February 28, 2024\nHolder: Pro Cap 8 FBO Firstrust Bank\nAmount: $298.13\nBook: 19407\nPage: 1570\nInstrument Number: N/A\nTax Certificate\nRecorded: February 04, 2025\nHolder: Greymorr LLC\nAmount: $1,970.84\nBook: 19651\nPage: 1394\nInstrument Number: 24-00390\nGood Faith Estimated Upset Price: $434,137.53.\nOccupancy Status: Non-Owner Occupied.",
+  "extracted": {
+    "block": "399.27",
+    "occupancy": "Non-Owner Occupied.",
+    "upset_amount": 434137.53
+  },
+  "fields": {
+    "Approx. Judgment*": "$400,468.46",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00332425",
+    "Defendant": "ROSARIO EGUIGUREN, ET ALS.",
+    "Description": "Property to be sold is located in the City of Perth Amboy, County of Middlesex and State of New Jersey.\nCommonly known as: 547 South Park Drive, Perth Amboy, NJ 08861.\nTax Lot(s): 6, in Block: 399.27.\nDimensions (Approx.): 54*130.\nNearest Cross Street: Convery Blvd.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 – Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nTax Certificate\nRecorded: February 28, 2024\nHolder: Pro Cap 8 FBO Firstrust Bank\nAmount: $298.13\nBook: 19407\nPage: 1570\nInstrument Number: N/A\nTax Certificate\nRecorded: February 04, 2025\nHolder: Greymorr LLC\nAmount: $1,970.84\nBook: 19651\nPage: 1394\nInstrument Number: 24-00390\nGood Faith Estimated Upset Price: $434,137.53.\nOccupancy Status: Non-Owner Occupied.",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 6 BLOCK 399.27",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-FLAT SERIES VI TRUST",
+    "Property Address": "547 SOUTH PARK DRIVE\nPERTH AMBOY NJ 08861",
+    "Property Note": "",
+    "Sale Date": "2/25/2026",
+    "Sheriff #": "F-26000012"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 400468.46,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "547 SOUTH PARK DRIVE PERTH AMBOY NJ 08861",
+    "defendant": "ROSARIO EGUIGUREN, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-FLAT SERIES VI TRUST",
+    "sale_date": "2026-02-25"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 6 BLOCK 399.27",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-FLAT SERIES VI TRUST",
+  "property_note": null,
+  "sale_date": "2026-02-25",
+  "sheriff_number": "F-26000012",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-02-25",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

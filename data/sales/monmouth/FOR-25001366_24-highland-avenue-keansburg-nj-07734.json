@@ -1,0 +1,60 @@
+{
+  "address": "24 Highland Avenue Keansburg NJ 07734",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01036423",
+  "current_status": "Scheduled",
+  "defendant": "JD Property Brothers LLC",
+  "description": "Dimensions (Approx.): 25.00 x 100.00 x 25.00 x 100.00\nNearest Cross Street: Seabreeze Way\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimate Upset Price: $367,166.01\nOccupancy Status: Occupied by Unknown\nThis is a commericial property not subject to the Community Wealth Preservation Program Bill.",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 367166.01
+  },
+  "fields": {
+    "Address": "24 Highland Avenue\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$338,565.22",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F01036423",
+    "Defendant": "JD Property Brothers LLC",
+    "Description": "Dimensions (Approx.): 25.00 x 100.00 x 25.00 x 100.00\nNearest Cross Street: Seabreeze Way\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimate Upset Price: $367,166.01\nOccupancy Status: Occupied by Unknown\nThis is a commericial property not subject to the Community Wealth Preservation Program Bill.",
+    "Parcel #": "Tax Lot(s): 11, in Block: 11 Tax Map of Borough of Keansburg",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity But Solely As Trustee, On Behalf Of Aero Mortgage Loan Trust 2019-1",
+    "Property Note": "",
+    "Sales Date": "1/29/2026",
+    "Sheriff #": "FOR-25001366"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 338565.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "24 Highland Avenue Keansburg NJ 07734",
+    "defendant": "JD Property Brothers LLC",
+    "listing_status": "Settled",
+    "plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity But Solely As Trustee, On Behalf Of Aero Mortgage Loan Trust 2019-1",
+    "sale_date": "2026-01-29"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 11, in Block: 11 Tax Map of Borough of Keansburg",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity But Solely As Trustee, On Behalf Of Aero Mortgage Loan Trust 2019-1",
+  "property_note": null,
+  "sale_date": "2026-01-29",
+  "sheriff_number": "FOR-25001366",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-29",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Scheduled"
+    }
+  ]
+}

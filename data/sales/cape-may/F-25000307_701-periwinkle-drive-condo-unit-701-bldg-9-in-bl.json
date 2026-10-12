@@ -1,0 +1,64 @@
+{
+  "address": "701 PERIWINKLE Drive CONDO UNIT 701, BLDG 9 IN BLUE WATER CONDOMINIUM Ocean City NJ 08226",
+  "attorney": "PINCUS & TARAB, ATTORNEYS AT LAW, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "516-699-8902 EXT 2215",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-009991-24",
+  "current_status": "Scheduled",
+  "defendant": "CAROLE G NEWMAN, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$93,442.65",
+    "Attorney": "PINCUS & TARAB, ATTORNEYS AT LAW, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "516-699-8902 EXT 2215",
+    "Court Case #": "F-009991-24",
+    "Defendant": "CAROLE G NEWMAN, ET AL",
+    "Description": "",
+    "Minimum Bid": "$102,800.00",
+    "Parcel #": "",
+    "Plaintiff": "**REDEEMED**NEWREZ LLC, d/b/a SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "701 PERIWINKLE Drive\nCONDO UNIT 701, BLDG 9 IN BLUE WATER CONDOMINIUM\nOcean City NJ 08226",
+    "Property Note": "",
+    "Sale Date": "12/12/2025",
+    "Sheriff #": "F-25000307"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 93442.65,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "701 PERIWINKLE Drive CONDO UNIT 701, BLDG 9 IN BLUE WATER CONDOMINIUM Ocean City NJ 08226",
+    "defendant": "CAROLE G NEWMAN, ET AL",
+    "listing_status": null,
+    "plaintiff": "**REDEEMED**NEWREZ LLC, d/b/a SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-12-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": null,
+  "plaintiff": "**REDEEMED**NEWREZ LLC, d/b/a SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2025-12-12",
+  "sheriff_number": "F-25000307",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-12-12",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 102800.0,
+  "upset_amount_label": "Minimum Bid"
+}

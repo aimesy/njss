@@ -1,0 +1,66 @@
+{
+  "address": "3 Old Stage Road Egg Harbor Township NJ 08234",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008313-24",
+  "current_status": "Scheduled",
+  "deed": "Rocket Mortgage LLC",
+  "deed_address": "3900 Capital City Blvd Lansing MI 48906",
+  "defendant": "Alane M. Dunn a/k/a Alane Dunn, Individually and As Executrix of the Estate of Jacqueline F. Dietrich a/k/a Jacqueline Dietrich; Kay Johnson a/k/a Kai Johnson a/k/a Kay F. Johnson; Booth Radiology MRI; Radiology Orthopedic Profession; State of New Jersey; United State of America; Linda Sauerwein a/k/a Linda Day Sauerwein, His/Her Heirs, Devisees and Personal Respresenatives and His, Hers, Their or Any of Their Successors In Right, Title and Interest; Kern Sauerwein; Mrs Sauerwein, Spouse Of Kern Sauerwein; Carrie Sauerwein; Mr. Sauerwein, Spouse of Carrie Sauerwein",
+  "extracted": {},
+  "fields": {
+    "Address": "3 Old Stage Road\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$384,178.00",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-008313-24",
+    "Deed": "Rocket Mortgage LLC",
+    "Deed Address": "3900 Capital City Blvd Lansing MI 48906",
+    "Defendant": "Alane M. Dunn a/k/a Alane Dunn, Individually and As Executrix of the Estate of Jacqueline F. Dietrich a/k/a Jacqueline Dietrich; Kay Johnson a/k/a Kai Johnson a/k/a Kay F. Johnson; Booth Radiology MRI; Radiology Orthopedic Profession; State of New Jersey; United State of America; Linda Sauerwein a/k/a Linda Day Sauerwein, His/Her Heirs, Devisees and Personal Respresenatives and His, Hers, Their or Any of Their Successors In Right, Title and Interest; Kern Sauerwein; Mrs Sauerwein, Spouse Of Kern Sauerwein; Carrie Sauerwein; Mr. Sauerwein, Spouse of Carrie Sauerwein",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "3/5/2026",
+    "Sheriff #": "F-25001225",
+    "Upset Amount": "$260,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 384178.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 Old Stage Road Egg Harbor Township NJ 08234",
+    "defendant": "Alane M. Dunn a/k/a ...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2026-03-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2026-03-05",
+  "sheriff_number": "F-25001225",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-03-05",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2026-02-26",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-01-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 260000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,68 @@
+{
+  "address": "275-279 RYERSON Avenue Paterson NJ 07513",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 002996 24 CTL# 163047",
+  "current_status": "Cancelled",
+  "defendant": "PATRICIA RIVERA; ROBINSON MONTOYA",
+  "description": "Dimensions of Lot: 75 ft wide by 100 ft long\nNearest Cross Street: Chatham Ave\nEstimated Upset Bid Amount: $1,248,600.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n* Subject to any unpaid taxes, muncipal liens or other charges, and any such taxes, charges, liens insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/ or have priority over the lien being foreclosed and, if so the current amount due thereon.\nSewer: Paterson sewer dept. 155 Market St. Paterson NJ 07501 973-321-1230\nAcct: 10000450 0 07/01/20025-09/30/2025 $170.50 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton NJ 07011 973-340-4300\nAcct: 0006559-100840 To: 07/29/2025 $178.31 OPEN PLUS PENALTY\nVacant lot charge: Property Registration Fee Exist. Please contact the division of Community Improvement at 973-321-1232 for more information.",
+  "extracted": {
+    "lot": "75",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "275-279 RYERSON Avenue\nPaterson NJ 07513",
+    "Approx. Upset*": "$1,143,306.26",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 002996 24 CTL# 163047",
+    "Defendant": "PATRICIA RIVERA; ROBINSON MONTOYA",
+    "Description": "Dimensions of Lot: 75 ft wide by 100 ft long\nNearest Cross Street: Chatham Ave\nEstimated Upset Bid Amount: $1,248,600.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n* Subject to any unpaid taxes, muncipal liens or other charges, and any such taxes, charges, liens insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/ or have priority over the lien being foreclosed and, if so the current amount due thereon.\nSewer: Paterson sewer dept. 155 Market St. Paterson NJ 07501 973-321-1230\nAcct: 10000450 0 07/01/20025-09/30/2025 $170.50 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton NJ 07011 973-340-4300\nAcct: 0006559-100840 To: 07/29/2025 $178.31 OPEN PLUS PENALTY\nVacant lot charge: Property Registration Fee Exist. Please contact the division of Community Improvement at 973-321-1232 for more information.",
+    "Parcel #": "Tax Lot 1 Block 1203 FKA B0248",
+    "Plaintiff": "U.S BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-EMX7",
+    "Property Note": "",
+    "Sales Date": "7/6/2026",
+    "Sheriff #": "F-25001485"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "275-279 RYERSON Avenue Paterson NJ 07513",
+    "defendant": "PATRICIA RIVERA; ROBINSON MONTOYA",
+    "listing_status": null,
+    "plaintiff": "U.S BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-EMX7",
+    "sale_date": "2026-07-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 1 Block 1203 FKA B0248",
+  "plaintiff": "U.S BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-EMX7",
+  "property_note": null,
+  "sale_date": "2026-07-06",
+  "sheriff_number": "F-25001485",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-12-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-30",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-27",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-27",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 1143306.26,
+  "upset_amount_label": "Approx. Upset*"
+}

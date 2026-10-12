@@ -1,0 +1,59 @@
+{
+  "address": "91 OCEAN AVENUE JERSEY CITY NJ 07305",
+  "attorney": "FSKS",
+  "attorney_phone": "(973)538-4700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-11039-25 (CWPP INELIGIBLE)",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "SMPS 91 OCEAN PROPERTY N.J. LLC, ET ALS.",
+  "description": "Tax Lot No. 21 in Block No. 29301\nDimension of Lot Approximately: 21.46 x 75\nNearest Cross Street: SEAVIEW AVENUE\nBEGINNING at a point in the westerly line of Ocean Avenue, 70 feet wide, as shown on the Tax Assessment Map for the City of Jersey\nCity, said point being distant 83.54 feet northerly along said westerly line from the point of intersection formed with the northerly line of Seaview Avenue, 50 feet wide, and running thence;\nWATER OPEN PLUS PENALTY $7,381.90\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN",
+  "extracted": {
+    "block": "No",
+    "lot": "No"
+  },
+  "fields": {
+    "Address": "91 OCEAN AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "FSKS",
+    "Attorney Phone": "(973)538-4700",
+    "Court Case #": "F-11039-25 (CWPP INELIGIBLE)",
+    "Defendant": "SMPS 91 OCEAN PROPERTY N.J. LLC, ET ALS.",
+    "Description": "Tax Lot No. 21 in Block No. 29301\nDimension of Lot Approximately: 21.46 x 75\nNearest Cross Street: SEAVIEW AVENUE\nBEGINNING at a point in the westerly line of Ocean Avenue, 70 feet wide, as shown on the Tax Assessment Map for the City of Jersey\nCity, said point being distant 83.54 feet northerly along said westerly line from the point of intersection formed with the northerly line of Seaview Avenue, 50 feet wide, and running thence;\nWATER OPEN PLUS PENALTY $7,381.90\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN",
+    "Good Faith Upset*": "",
+    "Judgment": "$507,957.28",
+    "Plaintiff": "SILVER HILL CAPITAL LLC FKA COMMUNITY LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20063356"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 507957.28,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "91 OCEAN AVENUE JERSEY CITY NJ 07305",
+    "defendant": "SMPS 91 OCEAN PROPERTY N.J. LLC, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "SILVER HILL CAPITAL LLC FKA COMMUNITY LOAN SERVICING, LLC",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "SILVER HILL CAPITAL LLC FKA COMMUNITY LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20063356",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

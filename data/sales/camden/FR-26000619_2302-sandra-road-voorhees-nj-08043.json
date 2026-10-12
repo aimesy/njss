@@ -1,0 +1,61 @@
+{
+  "address": "2302 SANDRA ROAD VOORHEES NJ 08043",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00467623",
+  "current_status": "Purchased",
+  "defendant": "LAUREL E. WILLIAMS, INDIVIDUALLY AND ADMINISTRATOR OF THE ESTATE OF CHERYL S. WILLIAMS, ET AL;",
+  "extracted": {},
+  "fields": {
+    "Address": "2302 SANDRA ROAD\nVOORHEES NJ 08043",
+    "Approx. Upset*": "$185,582.25",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00467623",
+    "Defendant": "LAUREL E. WILLIAMS, INDIVIDUALLY AND ADMINISTRATOR\nOF THE ESTATE OF CHERYL S. WILLIAMS, ET AL;",
+    "Parcel #": "LOT: 35 QUAL. C2302; BLOCK: 150.16",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "Property Note": "PURSUANT TO A MUNICIPAL TAX SEARCH DATED FEBRUARY 23, 2026.\nSUBJECT TO: 2026 2ND QUATER TAXES DUE 5/1/2026, $1,346.20 OPEN\n2026 3RD QUARTER TAXES DUE 8/1/2026, TO BE DETERMINED\nSEWER: ACCT. 2319 0, 1/1/2026-12/31/2026, $109.75 OPEN AND UDE 4/1/2026; $55.25 PAID\nCCMUA:ACCT: 340072131, 1/1/2026-./31/2026, $93.00 OPEN PLUS PENALTY; $734.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-26000619"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2302 SANDRA ROAD VOORHEES NJ 08043",
+    "defendant": "LAUREL E. WILLIAMS, INDIVIDUALLY AND ADMINISTRATOR \nOF THE ESTATE OF CHERYL S. WILLIAMS, ET AL;",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT: 35 QUAL. C2302; BLOCK: 150.16",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+  "property_note": "PURSUANT TO A MUNICIPAL TAX SEARCH DATED FEBRUARY 23, 2026.\nSUBJECT TO: 2026 2ND QUATER TAXES DUE 5/1/2026, $1,346.20 OPEN\n2026 3RD QUARTER TAXES DUE 8/1/2026, TO BE DETERMINED\nSEWER: ACCT. 2319 0, 1/1/2026-12/31/2026, $109.75 OPEN AND UDE 4/1/2026; $55.25 PAID\nCCMUA:ACCT: 340072131, 1/1/2026-./31/2026, $93.00 OPEN PLUS PENALTY; $734.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-26000619",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 185582.25,
+  "upset_amount_label": "Approx. Upset*"
+}

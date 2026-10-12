@@ -1,0 +1,69 @@
+{
+  "address": "25 SUSAN LANE WATERFORD WORKS NJ 08089",
+  "attorney": "LEOPOLD & ASSOCIATES, PLLC",
+  "attorney_phone": "914-219-5787",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00962724",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "AIMEE MARIE HIRD; MR./MRS. HIRD, SPOUSE OF AIMEE MARIE HIRD,",
+  "extracted": {},
+  "fields": {
+    "Address": "25 SUSAN LANE\nWATERFORD WORKS NJ 08089",
+    "Approx. Upset*": "$358,721.90",
+    "Attorney": "LEOPOLD & ASSOCIATES, PLLC",
+    "Attorney Phone": "914-219-5787",
+    "Court Case #": "F00962724",
+    "Defendant": "AIMEE MARIE HIRD; MR./MRS. HIRD, SPOUSE OF AIMEE MARIE HIRD,",
+    "Parcel #": "",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "",
+    "Sales Date": "5/14/2026",
+    "Sheriff #": "FR-25002341"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "25 SUSAN LANE WATERFORD WORKS NJ 08089",
+    "defendant": "AIMEE MARIE HIRD; MR./MRS. HIRD, SPOUSE OF AIMEE MARIE HIRD,",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2026-05-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": null,
+  "sale_date": "2026-05-14",
+  "sheriff_number": "FR-25002341",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-14",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 358721.9,
+  "upset_amount_label": "Approx. Upset*"
+}

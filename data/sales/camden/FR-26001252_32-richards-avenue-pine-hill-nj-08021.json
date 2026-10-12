@@ -1,0 +1,61 @@
+{
+  "address": "32 RICHARDS AVENUE PINE HILL NJ 08021",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+  "attorney_phone": "(973) 797-1100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00030226",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "JENNA MCGAHEY; MICJAEL MCGAHEY, HER HUSBAND AND SUNNOVA ABS MANAGEMNET LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "32 RICHARDS AVENUE\nPINE HILL NJ 08021",
+    "Approx. Upset*": "$240,893.08",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+    "Attorney Phone": "(973) 797-1100",
+    "Court Case #": "F00030226",
+    "Defendant": "JENNA MCGAHEY; MICJAEL MCGAHEY, HER HUSBAND AND SUNNOVA ABS MANAGEMNET LLC",
+    "Parcel #": "BLOCK 158, LOT 10",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "2026 2ND quater taxes past due in the approx. Amount of $2199.22.\nWater account past due in the approx. amount of $427.33\nSewer account past due and the approx. amount of $150.00\nCCMUA account past due in the approx. amount of $558.00.\nUtility lien (CERT.;26–00118) with redemption figures in the approx. amount of $745.73",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26001252"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "32 RICHARDS AVENUE PINE HILL NJ 08021",
+    "defendant": "JENNA MCGAHEY; MICJAEL MCGAHEY, HER HUSBAND AND SUNNOVA ABS MANAGEMNET LLC",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 158, LOT 10",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": "2026 2ND quater taxes past due in the approx. Amount of $2199.22.\nWater account past due in the approx. amount of $427.33\nSewer account past due and the approx. amount of $150.00\nCCMUA account past due in the approx. amount of $558.00.\nUtility lien (CERT.;26–00118) with redemption figures in the approx. amount of $745.73",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26001252",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 240893.08,
+  "upset_amount_label": "Approx. Upset*"
+}

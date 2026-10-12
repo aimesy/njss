@@ -1,0 +1,67 @@
+{
+  "address": "59 Falson Lane Morganville NJ 07751",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00262424",
+  "current_status": "Scheduled",
+  "defendant": "Sharif Rahman, et al",
+  "description": "Dimensions: 24.02 AC\nNearest Cross Street: Sona Way\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is : Occupied by Unknown\nPlaintiff's good faith estimate of its upset price is: $811,150.66\nSubject to Open Taxes in the amount of $3,597.64",
+  "extracted": {
+    "upset_amount": 811150.66
+  },
+  "fields": {
+    "Address": "59 Falson Lane\nMorganville NJ 07751",
+    "Approx. Judgment*": "$716,329.93",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F00262424",
+    "Defendant": "Sharif Rahman, et al",
+    "Description": "Dimensions: 24.02 AC\nNearest Cross Street: Sona Way\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is : Occupied by Unknown\nPlaintiff's good faith estimate of its upset price is: $811,150.66\nSubject to Open Taxes in the amount of $3,597.64",
+    "Parcel #": "Lot 16, Block 146 Tax Map of the Township of Marlboro",
+    "Plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.",
+    "Property Note": "",
+    "Sales Date": "3/2/2026",
+    "Sheriff #": "FOR-25002031"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 716329.93,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "59 Falson Lane Morganville NJ 07751",
+    "defendant": "Sharif Rahman, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.",
+    "sale_date": "2026-03-02"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 16, Block 146 Tax Map of the Township of Marlboro",
+  "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.",
+  "property_note": null,
+  "sale_date": "2026-03-02",
+  "sheriff_number": "FOR-25002031",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-02",
+      "status": "Canceled"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Scheduled"
+    }
+  ]
+}

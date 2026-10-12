@@ -1,0 +1,62 @@
+{
+  "address": "45 North Massachusetts Avenue Atlantic City NJ 08401",
+  "attorney": "Pellegrino & Feldstein, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011828-23",
+  "current_status": "Scheduled",
+  "deed": "NJTL CAPITAL LLC",
+  "deed_address": "PO BOX 653, MONTVALE, NJ 07465",
+  "defendant": "TSA Holding Group; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "45 North Massachusetts Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$13,488.74",
+    "Attorney": "Pellegrino & Feldstein, LLC",
+    "Court Case #": "F-011828-23",
+    "Deed": "NJTL CAPITAL LLC",
+    "Deed Address": "PO BOX 653, MONTVALE, NJ 07465",
+    "Defendant": "TSA Holding Group; State of New Jersey",
+    "Plaintiff": "NJTL Capital LLC",
+    "Priors": "Tax Sale Certificate Number 23-10127in the approximate amount of $2,551.11\n2024 Open Taxes in the approximate amount of $1,251.32\n2025 Open Taxes in the approximate amount of $605.82\nTotaling: $4,408.25 plus possible subsequent taxes, charges, interest and penalties",
+    "Property Note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+    "Sales Date": "4/10/2025",
+    "Sheriff #": "F-24001623",
+    "Upset Amount": "$9,800.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 13488.74,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "45 North Massachusetts Avenue Atlantic City NJ 08401",
+    "defendant": "TSA Holding Group; S...",
+    "listing_status": null,
+    "plaintiff": "NJTL Capital LLC...",
+    "sale_date": "2025-04-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NJTL Capital LLC",
+  "priors": "Tax Sale Certificate Number 23-10127in the approximate amount of $2,551.11 2024 Open Taxes in the approximate amount of $1,251.32 2025 Open Taxes in the approximate amount of $605.82 Totaling: $4,408.25 plus possible subsequent taxes, charges, interest and penalties",
+  "property_note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+  "sale_date": "2025-04-10",
+  "sheriff_number": "F-24001623",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-10",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2025-02-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 9800.0,
+  "upset_amount_label": "Upset Amount"
+}

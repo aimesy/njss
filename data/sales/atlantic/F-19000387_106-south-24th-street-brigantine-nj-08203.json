@@ -1,0 +1,62 @@
+{
+  "address": "106 South 24th Street Brigantine NJ 08203",
+  "attorney": "Romano, Garubo & Argentieri",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-022392-18 Pluries",
+  "current_status": "Scheduled",
+  "deed": "Richard Vizzi",
+  "deed_address": "1427 E. Shore Drive Brigantine, NJ 08203",
+  "defendant": "Gerald Kane; Marianne Kane; USAA Federal Savings Bank (\"USAA FSB\")",
+  "extracted": {},
+  "fields": {
+    "Address": "106 South 24th Street\nBrigantine NJ 08203",
+    "Approx. Judgment*": "$221,330.48",
+    "Attorney": "Romano, Garubo & Argentieri",
+    "Court Case #": "F-022392-18 Pluries",
+    "Deed": "Richard Vizzi",
+    "Deed Address": "1427 E. Shore Drive Brigantine, NJ 08203",
+    "Defendant": "Gerald Kane; Marianne Kane; USAA Federal Savings Bank (\"USAA FSB\")",
+    "Plaintiff": "Nationstar Mortgage LLC d/b/a Mr. Cooper",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-19000387",
+    "Upset Amount": "$307,400.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 221330.48,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "106 South 24th Street Brigantine NJ 08203",
+    "defendant": "Gerald Kane; Mariann...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC d/b/a Mr. Cooper",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-19000387",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 307400.0,
+  "upset_amount_label": "Upset Amount"
+}

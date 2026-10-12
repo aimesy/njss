@@ -1,0 +1,52 @@
+{
+  "address": "930 WINSLOW ROAD MONROE NJ 08094",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-006834-25",
+  "current_status": "Cancelled",
+  "defendant": "ANTONIO RAFAEL, ET AL.",
+  "description": "UPSET PRICE: $142,406.14\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 142406.14
+  },
+  "fields": {
+    "Address": "930 WINSLOW ROAD\nMONROE NJ 08094",
+    "Approximate Judgment": "$131,119.47",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-006834-25",
+    "Defendant": "ANTONIO RAFAEL, ET AL.",
+    "Description": "UPSET PRICE: $142,406.14\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT: 3 FKA 3.DA BLOCK: 3503 FKA 39",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "TOWNSHIP OF MONROE\nCOUNTY OF GLOUCESTER\n930 WINSLOW ROAD MONROE, NJ 08094\nLOT: 3 FKA 3.DA BLOCK: 3503 FKA 39\nAPPROXIMATE DIMENSIONS: 200.00 x 150.00 FEET\nNEAREST CROSS STREET: BRYN MAWR DRIVE\nUPSET PRICE: $142,406.14\nOCCUPANCY STATUS: OCCUPIED\nWATER - 01/01/2026 - 01/31/2026 $26.80 OPEN AND DUE 01/25/2026 $244.35 OPEN PLUS PENALTY; OWED IN ARREARS\nSEWER - 01/01/2026 - 01/31/2026 $44.30 OPEN AND DUE 01/25/2026 $158.58 OPEN PLUS PENALTY; OWED IN ARREARS\nPROPERTY REGISTRATION FEE EXISTS. PLEASE CONTACT HERA PROPERTY REGISTRY 321-234-5303 FOR DETAILS",
+    "Sales Date": "3/12/2026",
+    "Sheriff #": "F-26000079"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 131119.47,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "930 WINSLOW ROAD MONROE NJ 08094",
+    "defendant": "ANTONIO RAFAEL, ET AL.",
+    "listing_status": "Cancelled",
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-03-12"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 3 FKA 3.DA BLOCK: 3503 FKA 39",
+  "plaintiff": "M&T BANK",
+  "property_note": "TOWNSHIP OF MONROE\nCOUNTY OF GLOUCESTER\n930 WINSLOW ROAD MONROE, NJ 08094\nLOT: 3 FKA 3.DA BLOCK: 3503 FKA 39\nAPPROXIMATE DIMENSIONS: 200.00 x 150.00 FEET\nNEAREST CROSS STREET: BRYN MAWR DRIVE\nUPSET PRICE: $142,406.14\nOCCUPANCY STATUS: OCCUPIED\nWATER - 01/01/2026 - 01/31/2026 $26.80 OPEN AND DUE 01/25/2026 $244.35 OPEN PLUS PENALTY; OWED IN ARREARS\nSEWER - 01/01/2026 - 01/31/2026 $44.30 OPEN AND DUE 01/25/2026 $158.58 OPEN PLUS PENALTY; OWED IN ARREARS\nPROPERTY REGISTRATION FEE EXISTS. PLEASE CONTACT HERA PROPERTY REGISTRY 321-234-5303 FOR DETAILS",
+  "sale_date": "2026-03-12",
+  "sheriff_number": "F-26000079",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-03-12",
+      "status": "Cancelled"
+    }
+  ]
+}

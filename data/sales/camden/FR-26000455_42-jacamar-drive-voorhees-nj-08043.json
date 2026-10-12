@@ -1,0 +1,53 @@
+{
+  "address": "42 JACAMAR DRIVE VOORHEES NJ 08043",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00626125",
+  "current_status": "Cancelled",
+  "defendant": "MICHAEL J. DEFERRO, HEIR AND ADMINISTRATOR OF THE ESTATE OF THERESA M. BRUNETTI, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "42 JACAMAR DRIVE\nVOORHEES NJ 08043",
+    "Approx. Upset*": "$537,846.88",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00626125",
+    "Defendant": "MICHAEL J. DEFERRO, HEIR AND ADMINISTRATOR OF THE ESTATE OF\nTHERESA M. BRUNETTI, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY\nBUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "FR-26000455"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "42 JACAMAR DRIVE VOORHEES NJ 08043",
+    "defendant": "MICHAEL J. DEFERRO, HEIR AND ADMINISTRATOR OF THE ESTATE OF \nTHERESA M. BRUNETTI, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY \nBUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "FR-26000455",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 537846.88,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "14 Seagarden Drive Linwood NJ 08221",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011363-24",
+  "current_status": "Scheduled",
+  "deed": "Wilmington Savings Fund Society, FSB, Not in its Individual Capacity but Solely as Trustee of The MFA 2020-NQM3 Trust",
+  "deed_address": "25531 Commercentre Drive, Suite 160, Lake Forest, CA 92630",
+  "defendant": "Mark Sulek; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "14 Seagarden Drive\nLinwood NJ 08221",
+    "Approx. Judgment*": "$588,229.31",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-011363-24",
+    "Deed": "Wilmington Savings Fund Society, FSB, Not in its Individual Capacity but Solely as Trustee of The MFA 2020-NQM3 Trust",
+    "Deed Address": "25531 Commercentre Drive, Suite 160, Lake Forest, CA 92630",
+    "Defendant": "Mark Sulek; State of New Jersey",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity But Solely As Trustee Of The MFA 2020-NQM3 Trust",
+    "Priors": "None",
+    "Property Note": "Occupancy Status Unknown",
+    "Sales Date": "11/6/2025",
+    "Sheriff #": "F-25000981",
+    "Upset Amount": "$625,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 588229.31,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "14 Seagarden Drive Linwood NJ 08221",
+    "defendant": "Mark Sulek; State of...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Savings F...",
+    "sale_date": "2025-11-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity But Solely As Trustee Of The MFA 2020-NQM3 Trust",
+  "priors": "None",
+  "property_note": "Occupancy Status Unknown",
+  "sale_date": "2025-11-06",
+  "sheriff_number": "F-25000981",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-11-06",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-11-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 625500.0,
+  "upset_amount_label": "Upset Amount"
+}

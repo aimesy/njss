@@ -1,0 +1,60 @@
+{
+  "address": "682 LEONE STREET WOODBRIDGE NJ 07095",
+  "attorney": "KNUCKLES, KOMOSINSKI & MANFRO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(609) 452-8422",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00566323",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "JOSEPH JELENCSICS, JR. ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$307,329.63",
+    "Attorney": "KNUCKLES, KOMOSINSKI & MANFRO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(609) 452-8422",
+    "Court Case #": "F00566323",
+    "Defendant": "JOSEPH JELENCSICS, JR. ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 9 BLOCK 589",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITON TRUST",
+    "Property Address": "682 LEONE STREET\nWOODBRIDGE NJ 07095",
+    "Property Note": "",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-24000020"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 307329.63,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "682 LEONE STREET WOODBRIDGE NJ 07095",
+    "defendant": "JOSEPH JELENCSICS, JR. ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITON TRUST",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 9 BLOCK 589",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITON TRUST",
+  "property_note": null,
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-24000020",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

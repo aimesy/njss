@@ -1,0 +1,56 @@
+{
+  "address": "7 MORGAN PLACE EAST BRUNSWICK NJ 08816",
+  "attorney": "MCKENNA DUPONT STONE & WASHBURNE",
+  "attorney_file_number": null,
+  "attorney_phone": "732-741-6681",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01465012",
+  "current_status": "Settled",
+  "defendant": "IDA FALCO A/K/A IDA A. FALCO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$25,189.18",
+    "Attorney": "MCKENNA DUPONT STONE & WASHBURNE",
+    "Attorney File #": "",
+    "Attorney Phone": "732-741-6681",
+    "Court Case #": "F01465012",
+    "Defendant": "IDA FALCO A/K/A IDA A. FALCO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1, QUAL. C0007 BLOCK 322.80",
+    "Plaintiff": "PINNACLE FEDERAL CREDIT UNION",
+    "Property Address": "7 MORGAN PLACE\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "",
+    "Sale Date": "1/23/2025",
+    "Sheriff #": "F-24000456"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 25189.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 MORGAN PLACE EAST BRUNSWICK NJ 08816",
+    "defendant": "IDA FALCO A/K/A IDA A. FALCO, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "PINNACLE FEDERAL CREDIT UNION",
+    "sale_date": "2025-01-23"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1, QUAL. C0007 BLOCK 322.80",
+  "plaintiff": "PINNACLE FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2025-01-23",
+  "sheriff_number": "F-24000456",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-01-23",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

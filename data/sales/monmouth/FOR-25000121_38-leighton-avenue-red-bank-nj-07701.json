@@ -1,0 +1,52 @@
+{
+  "address": "38 Leighton Avenue Red Bank NJ 07701",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00727524",
+  "current_status": "Settled",
+  "defendant": "Jessica Ramirez, Ricardo Ramirez, et al",
+  "description": "Occupancy Status: Borrower Occupied\nApproximate Dimensions: 45.00ft x 186.53ft x 49.24ft x 205.00ft\nNearest Cross Street: approximately 440.00ft to the nearest cross street known as Locust Avenue\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 9220, at Page 6351\nAPPROXIMATE UPSET PRICE IS $256,492.86 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated January 3, 2025.\nSubject to: 2025 1st quarter taxes due 2/1/2025, $2,591.71 OPEN\n2025 2nd quarter taxes due 5/1/2025, $2,591.71 OPEN\nWater: Acct. 2188000 0, 9/4/2024-12/4/2024, $219.86 OPEN AND DUE\n1/13/2025; $637.45 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading\nSewer: Acct. 2188000 0, 9/4/2024-12/4/2024, $214.43 OPEN AND DUE\n1/13/2025; $576.06 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading",
+  "extracted": {
+    "occupancy": "Borrower Occupied",
+    "upset_amount": 256492.86
+  },
+  "fields": {
+    "Address": "38 Leighton Avenue\nRed Bank NJ 07701",
+    "Approx. Judgment*": "$242,828.20",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00727524",
+    "Defendant": "Jessica Ramirez, Ricardo Ramirez, et al",
+    "Description": "Occupancy Status: Borrower Occupied\nApproximate Dimensions: 45.00ft x 186.53ft x 49.24ft x 205.00ft\nNearest Cross Street: approximately 440.00ft to the nearest cross street known as Locust Avenue\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 9220, at Page 6351\nAPPROXIMATE UPSET PRICE IS $256,492.86 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated January 3, 2025.\nSubject to: 2025 1st quarter taxes due 2/1/2025, $2,591.71 OPEN\n2025 2nd quarter taxes due 5/1/2025, $2,591.71 OPEN\nWater: Acct. 2188000 0, 9/4/2024-12/4/2024, $219.86 OPEN AND DUE\n1/13/2025; $637.45 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading\nSewer: Acct. 2188000 0, 9/4/2024-12/4/2024, $214.43 OPEN AND DUE\n1/13/2025; $576.06 OPEN PLUS PENALTY; OWED IN ARREARS\nSubject to Final Reading",
+    "Parcel #": "Lot: 26.01; Block: 71 Tax Map of Borough of Red Bank",
+    "Plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Property Note": "",
+    "Sales Date": "3/27/2025",
+    "Sheriff #": "FOR-25000121"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 242828.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "38 Leighton Avenue Red Bank NJ 07701",
+    "defendant": "Jessica Ramirez, Ricardo Ramirez, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "sale_date": "2025-03-27"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 26.01; Block: 71 Tax Map of Borough of Red Bank",
+  "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+  "property_note": null,
+  "sale_date": "2025-03-27",
+  "sheriff_number": "FOR-25000121",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-27",
+      "status": "Settled"
+    }
+  ]
+}

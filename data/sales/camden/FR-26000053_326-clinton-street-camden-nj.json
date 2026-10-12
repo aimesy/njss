@@ -1,0 +1,61 @@
+{
+  "address": "326 CLINTON STREET CAMDEN NJ",
+  "attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+  "attorney_phone": "(856) 330-6200 EXT 12 SYLVIA",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00272025",
+  "current_status": "Purchased",
+  "defendant": "RYAN WHEELER; STATE OF NEW JERSEY; DENNIS THOMAS",
+  "extracted": {},
+  "fields": {
+    "Address": "326 CLINTON STREET\nCAMDEN NJ",
+    "Approx. Upset*": "$91,732.75",
+    "Attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+    "Attorney Phone": "(856) 330-6200 EXT 12 SYLVIA",
+    "Court Case #": "F00272025",
+    "Defendant": "RYAN WHEELER; STATE OF NEW JERSEY; DENNIS THOMAS",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, SUCCESSOR\nBY MERGE TO BENEFICIAL BANK",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "FR-26000053"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "326 CLINTON STREET CAMDEN NJ",
+    "defendant": "RYAN WHEELER; STATE OF NEW JERSEY; DENNIS THOMAS",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, SUCCESSOR \nBY MERGE TO BENEFICIAL BANK",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, SUCCESSOR BY MERGE TO BENEFICIAL BANK",
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "FR-26000053",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 91732.75,
+  "upset_amount_label": "Approx. Upset*"
+}

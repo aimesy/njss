@@ -1,0 +1,86 @@
+{
+  "address": "7320 First Avenue Mays Landing NJ 08330",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000661-23",
+  "current_status": "Scheduled",
+  "deed": "Waqas Akhtar",
+  "deed_address": "410 Montrose Lane Galloway, NJ 08205",
+  "defendant": "Theresa Carrigan-Litzie; Mr. or Mrs. Carrigan-Litzie, husband or wife of Theresa Carrifan-Litzie, the spouse, domestic partner or ciivil union partner of Theresa Carrifan-Litzie",
+  "extracted": {},
+  "fields": {
+    "Address": "7320 First Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$207,586.40",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-000661-23",
+    "Deed": "Waqas Akhtar",
+    "Deed Address": "410 Montrose Lane Galloway, NJ 08205",
+    "Defendant": "Theresa Carrigan-Litzie; Mr. or Mrs. Carrigan-Litzie, husband or wife of Theresa Carrifan-Litzie, the spouse, domestic partner or ciivil union partner of Theresa Carrifan-Litzie",
+    "Plaintiff": "M&T Bank",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "12/5/2024",
+    "Sheriff #": "F-24000167",
+    "Upset Amount": "$252,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 207586.4,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7320 First Avenue Mays Landing NJ 08330",
+    "defendant": "Theresa Carrigan-Lit...",
+    "listing_status": null,
+    "plaintiff": "M&T Bank...",
+    "sale_date": "2024-12-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "M&T Bank",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2024-12-05",
+  "sheriff_number": "F-24000167",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-12-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-03",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-05",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-08",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-07-11",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-06-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-05-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 252500.0,
+  "upset_amount_label": "Upset Amount"
+}

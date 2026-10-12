@@ -1,0 +1,53 @@
+{
+  "address": "403 HAZLITT AVENUE LEONIA NJ 07605",
+  "attorney": "POWERS KIRN LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00893025",
+  "current_status": "Cancelled",
+  "defendant": "AKINTUNDE ADEYERI, SAMANTHA JOHNSON, ET AL.",
+  "description": "PLAINTIFF'S UPSET BID IS $328,050.19 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE PROPERTY IS REPORTED TO BE OWNER OCCUPIED.",
+  "extracted": {},
+  "fields": {
+    "Address": "403 HAZLITT AVENUE\nLEONIA NJ 07605",
+    "Approx. Upset*": "$307,819.27",
+    "Attorney": "POWERS KIRN LLC",
+    "Court Case #": "F00893025",
+    "Defendant": "AKINTUNDE ADEYERI, SAMANTHA JOHNSON, ET AL.",
+    "Description": "PLAINTIFF'S UPSET BID IS $328,050.19 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, C. 244 (C.2A:50-64) AS AMENDED.\nTHE PROPERTY IS REPORTED TO BE OWNER OCCUPIED.",
+    "Parcel #": "LOT 18, BLOCK 1317",
+    "Plaintiff": "PROVIDENT FUNDING ASSOCIATES, L.P.",
+    "Property Note": "",
+    "Sales Date": "5/26/2026",
+    "Sheriff #": "F-26000215"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "403 HAZLITT AVENUE LEONIA NJ 07605",
+    "defendant": "AKINTUNDE ADEYERI, SAMANTHA JOHNSON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PROVIDENT FUNDING ASSOCIATES, L.P.",
+    "sale_date": "2026-05-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 18, BLOCK 1317",
+  "plaintiff": "PROVIDENT FUNDING ASSOCIATES, L.P.",
+  "property_note": null,
+  "sale_date": "2026-05-26",
+  "sheriff_number": "F-26000215",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 307819.27,
+  "upset_amount_label": "Approx. Upset*"
+}

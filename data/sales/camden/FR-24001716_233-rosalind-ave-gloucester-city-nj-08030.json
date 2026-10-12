@@ -1,0 +1,73 @@
+{
+  "address": "233 ROSALIND AVE GLOUCESTER CITY NJ 08030",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00008724",
+  "current_status": "Redeemed",
+  "defendant": "ROBIN C. MARKS; W. B. MARKS A/K/A W. BRUCE MARKS SR. A/K/A W.B. MARKS SR. A/K/A W. BRUCE MARKS; BANK OF AMERICA, NATIONAL ASSOCIATION,",
+  "extracted": {},
+  "fields": {
+    "Address": "233 ROSALIND AVE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$105,149.80",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00008724",
+    "Defendant": "ROBIN C. MARKS; W. B. MARKS A/K/A W. BRUCE MARKS SR.\nA/K/A W.B. MARKS SR. A/K/A W. BRUCE MARKS; BANK OF\nAMERICA, NATIONAL ASSOCIATION,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN\nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER\nTRUSTEE FOR RCF 2 ASQUISITION TRUST,",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "FR-24001716"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "233 ROSALIND AVE GLOUCESTER CITY NJ 08030",
+    "defendant": "ROBIN C. MARKS; W. B. MARKS A/K/A W. BRUCE MARKS SR. \nA/K/A W.B. MARKS SR. A/K/A W. BRUCE MARKS; BANK OF \nAMERICA, NATIONAL ASSOCIATION,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN \nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER \nTRUSTEE FOR RCF 2 ASQUISITION TRUST,",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ASQUISITION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "FR-24001716",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-09-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 105149.8,
+  "upset_amount_label": "Approx. Upset*"
+}

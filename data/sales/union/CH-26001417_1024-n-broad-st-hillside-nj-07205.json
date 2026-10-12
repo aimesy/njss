@@ -1,0 +1,57 @@
+{
+  "address": "1024 N BROAD ST HILLSIDE NJ 07205",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00072122",
+  "current_status": "Bankuptcy",
+  "defendant": "DORIS KONTEH; MR. KONTEH, SPOUSE OF DORIS KONTEH; FOUNDATION FINANCE COMPANY, LLC; AQUA FINANCE, INC.; UNITED STATES OF AMERICA",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "1024 N BROAD ST\nHILLSIDE NJ 07205",
+    "Approx. Upset*": "$418,521.35",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00072122",
+    "Defendant": "DORIS KONTEH; MR. KONTEH, SPOUSE OF DORIS KONTEH; FOUNDATION FINANCE COMPANY, LLC; AQUA FINANCE, INC.; UNITED STATES OF AMERICA",
+    "Description": "",
+    "Parcel #": "LOT 46 BLOCK 1712",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES I TRUST",
+    "Property Note": "Dimensions of Lot:\n80 feet wide by 152 feet long\nNearest Cross Street: Beechwood Place\nEstimated upset bid amount: $485,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH\nTAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF\nPRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR\nOWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+    "Sales Date": "9/23/2026",
+    "Sheriff #": "CH-26001417"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1024 N BROAD ST HILLSIDE NJ 07205",
+    "defendant": "DORIS KONTEH; MR. KONTEH, SPOUSE OF DORIS KONTEH; FOUNDATION FINANCE COMPANY, LLC; AQUA FINANCE, INC.; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES I TRUST",
+    "sale_date": "2026-09-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 46 BLOCK 1712",
+  "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES I TRUST",
+  "property_note": "Dimensions of Lot:\n80 feet wide by 152 feet long\nNearest Cross Street: Beechwood Place\nEstimated upset bid amount: $485,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH\nTAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF\nPRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR\nOWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+  "sale_date": "2026-09-23",
+  "sheriff_number": "CH-26001417",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-07-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 418521.35,
+  "upset_amount_label": "Approx. Upset*"
+}

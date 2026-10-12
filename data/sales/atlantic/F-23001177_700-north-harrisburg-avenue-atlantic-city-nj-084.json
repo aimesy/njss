@@ -1,0 +1,66 @@
+{
+  "address": "700 North Harrisburg Avenue Atlantic City NJ 08401",
+  "attorney": "LOGS Legal Group LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002712-23",
+  "current_status": "Scheduled",
+  "deed": "DRNL Asset Management LLC",
+  "deed_address": "PO Box 1256, Mount Laurel, NJ 08054",
+  "defendant": "Maria M. Matos, His/her heirs, Devisees, and Personal Representatives and his/her, their or any of their Successors in Right, Title and interest; Nestor Matos; Margarita Rivera; State of New Jersey; United States of America; Velocity Investments LLC and Rutgers Casualty Insurance Company",
+  "extracted": {},
+  "fields": {
+    "Address": "700 North Harrisburg Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$188,666.43",
+    "Attorney": "LOGS Legal Group LLP",
+    "Court Case #": "F-002712-23",
+    "Deed": "DRNL Asset Management LLC",
+    "Deed Address": "PO Box 1256, Mount Laurel, NJ 08054",
+    "Defendant": "Maria M. Matos, His/her heirs, Devisees, and Personal Representatives and his/her, their or any of their Successors in Right, Title and interest; Nestor Matos; Margarita Rivera; State of New Jersey; United States of America; Velocity Investments LLC and Rutgers Casualty Insurance Company",
+    "Plaintiff": "Wells Fargo Bank, NA",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-23001177",
+    "Upset Amount": "$148,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 188666.43,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "700 North Harrisburg Avenue Atlantic City NJ 08401",
+    "defendant": "Maria M. Matos, His/...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, NA...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, NA",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-23001177",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 148000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "2721 Boardwalk Unit 1010 Atlantic City NJ 08401",
+  "attorney": "McGovern Legal Services, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "DC-003106-24 / DJ-126818-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Alexander Scott",
+  "extracted": {},
+  "fields": {
+    "Address": "2721 Boardwalk\nUnit 1010\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$9,831.36",
+    "Attorney": "McGovern Legal Services, LLC",
+    "Court Case #": "DC-003106-24 / DJ-126818-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Alexander Scott",
+    "Plaintiff": "The Ritz Condominium Association, Inc.",
+    "Priors": "Greentree Mortgage Company LP, amount: $81,000.00 (principal amount)",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "10/16/2025",
+    "Sheriff #": "L-24001609",
+    "Upset Amount": "$11,366.36"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 9831.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2721 Boardwalk Unit 1010 Atlantic City NJ 08401",
+    "defendant": "Alexander Scott...",
+    "listing_status": null,
+    "plaintiff": "The Ritz Condominium...",
+    "sale_date": "2025-10-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "The Ritz Condominium Association, Inc.",
+  "priors": "Greentree Mortgage Company LP, amount: $81,000.00 (principal amount)",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-10-16",
+  "sheriff_number": "L-24001609",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-16",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 11366.36,
+  "upset_amount_label": "Upset Amount"
+}

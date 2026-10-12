@@ -1,0 +1,72 @@
+{
+  "address": "748 STELLE AVENUE A/K/A 746-50 STELLE AVENUE A/K/A 746 STELLE AVENUE, # 750 PLAINFIELD NJ 07060",
+  "attorney": "MCCABE, WEISBERG & CONWAY, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F04191914",
+  "current_status": "Cancelled",
+  "defendant": "OVIDIO CORREA AND JACQUELINE CORREA",
+  "description": "LOT 8 BLOCK 531",
+  "extracted": {
+    "block": "531",
+    "lot": "8"
+  },
+  "fields": {
+    "Address": "748 STELLE AVENUE\nA/K/A 746-50 STELLE AVENUE A/K/A 746 STELLE AVENUE, # 750\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$395,226.65",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, P.C.",
+    "Court Case #": "F04191914",
+    "Defendant": "OVIDIO CORREA AND JACQUELINE CORREA",
+    "Description": "LOT 8 BLOCK 531",
+    "Parcel #": "LOT 8 BLOCK 531",
+    "Plaintiff": "PACIFIC UNION FINANICAL, LLC",
+    "Property Note": "",
+    "Sales Date": "10/28/2025",
+    "Sheriff #": "CH-24000815"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "748 STELLE AVENUE A/K/A 746-50 STELLE AVENUE A/K/A 746 STELLE AVENUE, # 750 PLAINFIELD NJ 07060",
+    "defendant": "OVIDIO CORREA AND JACQUELINE CORREA",
+    "listing_status": null,
+    "plaintiff": "PACIFIC UNION FINANICAL, LLC",
+    "sale_date": "2025-10-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 8 BLOCK 531",
+  "plaintiff": "PACIFIC UNION FINANICAL, LLC",
+  "property_note": null,
+  "sale_date": "2025-10-28",
+  "sheriff_number": "CH-24000815",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-05-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-05-15",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2024-12-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 395226.65,
+  "upset_amount_label": "Approx. Upset*"
+}

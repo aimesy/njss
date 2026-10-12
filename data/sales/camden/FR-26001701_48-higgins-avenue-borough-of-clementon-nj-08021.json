@@ -1,0 +1,57 @@
+{
+  "address": "48 HIGGINS AVENUE BOROUGH OF CLEMENTON NJ 08021",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01370125",
+  "current_status": "Defendant Adjournment",
+  "defendant": "CHRISTOPHER J. OECHSLE AND NICOLE R. OATMAN, HUSBAND AND WIFE; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "48 HIGGINS AVENUE\nBOROUGH OF CLEMENTON NJ 08021",
+    "Approx. Upset*": "$181,789.02",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01370125",
+    "Defendant": "CHRISTOPHER J. OECHSLE AND NICOLE R. OATMAN,\nHUSBAND AND WIFE; STATE OF NEW JERSEY AND\nUNITED STATES OF AMERICA,",
+    "Parcel #": "Lot 8.02 fka 8.B, Block 75",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "Property Note": "Water - 07/01/2026 - 09/30/2026 $85.00 OPEN AND DUE 07/16/2026\nSewer - 07/01/2026 - 09/30/2026 $82.50 OPEN AND DUE 07/16/2026\\\nCCMUA 06/01/2026 - 08/31/2026 $93.00 OPEN AND DUE 07/15/2026 $372.00 OPEN PLUS PENALTY; OWED IN ARREARS\nLien - Water/Sewer cert No. 25-00044 iao $1,459.27",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001701"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "48 HIGGINS AVENUE BOROUGH OF CLEMENTON NJ 08021",
+    "defendant": "CHRISTOPHER J. OECHSLE AND NICOLE R. OATMAN, \nHUSBAND AND WIFE; STATE OF NEW JERSEY AND \nUNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 8.02 fka 8.B, Block 75",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+  "property_note": "Water - 07/01/2026 - 09/30/2026 $85.00 OPEN AND DUE 07/16/2026\nSewer - 07/01/2026 - 09/30/2026 $82.50 OPEN AND DUE 07/16/2026\\\nCCMUA 06/01/2026 - 08/31/2026 $93.00 OPEN AND DUE 07/15/2026 $372.00 OPEN PLUS PENALTY; OWED IN ARREARS\nLien - Water/Sewer cert No. 25-00044 iao $1,459.27",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001701",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 181789.02,
+  "upset_amount_label": "Approx. Upset*"
+}

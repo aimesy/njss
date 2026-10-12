@@ -1,0 +1,72 @@
+{
+  "address": "142 SOUTH GROVE ST EAST ORANGE NJ 07018",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732 902-5399",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F02205916",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "STRAWBERRI EUNICE LUCAS; ET. ALS.",
+  "description": "LOT: 25 BLOCK: 20\nAPPROXIMATE DIMENSIONS: 43.38 X 6.52 X 168.02 X 50.00 X 168.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: NINTH AVENUE\nSUBJECT TO 3RD QUARTER TAXES IN THE AMOUNT OF $3,273.60 4TH QUARTER TAXES IN THE AMOUNT OF $3,273.59\nUPSET PRICE: $488,911.10\nOCCUPANCY STATUS: UNKNOWN\nTO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT",
+  "extracted": {
+    "block": "20",
+    "lot": "25",
+    "occupancy": "UNKNOWN",
+    "upset_amount": 488911.1
+  },
+  "fields": {
+    "Address": "142 SOUTH GROVE ST\nEAST ORANGE NJ 07018",
+    "Approx. Upset*": "$447,396.49",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732 902-5399",
+    "Court Case #": "F02205916",
+    "Defendant": "STRAWBERRI EUNICE LUCAS; ET. ALS.",
+    "Description": "LOT: 25 BLOCK: 20\nAPPROXIMATE DIMENSIONS: 43.38 X 6.52 X 168.02 X 50.00 X 168.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: NINTH AVENUE\nSUBJECT TO 3RD QUARTER TAXES IN THE AMOUNT OF $3,273.60 4TH QUARTER TAXES IN THE AMOUNT OF $3,273.59\nUPSET PRICE: $488,911.10\nOCCUPANCY STATUS: UNKNOWN\nTO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT",
+    "Parcel #": "",
+    "Plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "Property Note": "",
+    "Sales Date": "8/30/2026",
+    "Sheriff #": "F-24004635"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "142 SOUTH GROVE ST EAST ORANGE NJ 07018",
+    "defendant": "STRAWBERRI EUNICE LUCAS; ET. ALS.",
+    "listing_status": null,
+    "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "sale_date": "2026-08-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+  "property_note": null,
+  "sale_date": "2026-08-30",
+  "sheriff_number": "F-24004635",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-04",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-04",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-30",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 447396.49,
+  "upset_amount_label": "Approx. Upset*"
+}

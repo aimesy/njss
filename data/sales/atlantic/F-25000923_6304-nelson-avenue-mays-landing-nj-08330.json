@@ -1,0 +1,66 @@
+{
+  "address": "6304 Nelson Avenue Mays Landing NJ 08330",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002972-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jorge Cruz-Valentin; Maria E. Hernandez, Mrs. Jorge Cruz-Valentin, Wife of Jorge Cruz-Valentin, Mr. Maria E. Hernandez, husband of Maria E. Hernandez; Caterina Supply Inc; Central Jersey F C U; Midlanding Funding LLC; New Century Financial Services Inc; Olivia Hidalgo; John Kosky; Geico Insurance Company, Individually, Subrogee Boaz Cajuste and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "6304 Nelson Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$115,500.94",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-002972-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jorge Cruz-Valentin; Maria E. Hernandez, Mrs. Jorge Cruz-Valentin, Wife of Jorge Cruz-Valentin, Mr. Maria E. Hernandez, husband of Maria E. Hernandez; Caterina Supply Inc; Central Jersey F C U; Midlanding Funding LLC; New Century Financial Services Inc; Olivia Hidalgo; John Kosky; Geico Insurance Company, Individually, Subrogee Boaz Cajuste and United States of America",
+    "Plaintiff": "Servbank, SB",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "12/11/2025",
+    "Sheriff #": "F-25000923",
+    "Upset Amount": "$128,961.16"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 115500.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6304 Nelson Avenue Mays Landing NJ 08330",
+    "defendant": "Jorge Cruz-Valentin;...",
+    "listing_status": null,
+    "plaintiff": "Servbank, SB...",
+    "sale_date": "2025-12-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Servbank, SB",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-12-11",
+  "sheriff_number": "F-25000923",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-12-11",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 128961.16,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,74 @@
+{
+  "address": "6005 Fulton Avenue Ventnor City NJ 08406",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003613-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Dorothy Donovan and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "6005 Fulton Avenue\nVentnor City NJ 08406",
+    "Approx. Judgment*": "$402,231.12",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-003613-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Dorothy Donovan and United States of America",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, not individually but solely as trustee for Finance of America Structured Securities Acquisition Trust 2018-HB1",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "9/18/2025",
+    "Sheriff #": "F-25000097",
+    "Upset Amount": "$435,153.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 402231.12,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6005 Fulton Avenue Ventnor City NJ 08406",
+    "defendant": "Dorothy Donovan and ...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Savings F...",
+    "sale_date": "2025-09-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, not individually but solely as trustee for Finance of America Structured Securities Acquisition Trust 2018-HB1",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2025-09-18",
+  "sheriff_number": "F-25000097",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-18",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-09-18",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-07-10",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-03-27",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 435153.0,
+  "upset_amount_label": "Upset Amount"
+}

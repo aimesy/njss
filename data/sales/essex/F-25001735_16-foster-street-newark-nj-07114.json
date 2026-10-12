@@ -1,0 +1,82 @@
+{
+  "address": "16 FOSTER STREET NEWARK NJ 07114",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_phone": null,
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00394319",
+  "current_status": "Purchased CWPP Next of Kin",
+  "defendant": "ALLEN LITTLE, ET. AL",
+  "description": "TAX LOT NO. 16 BLOCK 3744\nDIMENSIONS OF LOT: (APPROXIMATELY) 125.00 FEET WIDE BY 25.50 FEET LONG\nNEAREST CROSS STREET: DAYTON STREET\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $221,778.31 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT. PROPERTY IS OWNER OCCUPIED",
+  "extracted": {
+    "block": "3744",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "16 FOSTER STREET\nNEWARK NJ 07114",
+    "Approx. Upset*": "$186,891.07",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney Phone": "",
+    "Court Case #": "F00394319",
+    "Defendant": "ALLEN LITTLE, ET. AL",
+    "Description": "TAX LOT NO. 16 BLOCK 3744\nDIMENSIONS OF LOT: (APPROXIMATELY) 125.00 FEET WIDE BY 25.50 FEET LONG\nNEAREST CROSS STREET: DAYTON STREET\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $221,778.31 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT. PROPERTY IS OWNER OCCUPIED",
+    "Parcel #": "",
+    "Plaintiff": "NEW REZ LLC F/K/A NEW PENN FINANCIAL, LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "8/18/2026",
+    "Sheriff #": "F-25001735"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "16 FOSTER STREET NEWARK NJ 07114",
+    "defendant": "ALLEN LITTLE, ET. AL",
+    "listing_status": null,
+    "plaintiff": "NEW REZ LLC F/K/A NEW PENN FINANCIAL, LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-08-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEW REZ LLC F/K/A NEW PENN FINANCIAL, LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-08-18",
+  "sheriff_number": "F-25001735",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-06-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-22",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-08-19",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2025-09-16",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "SALE-VACATED CWPP HOMEOWNER"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Purchased CWPP Next of Kin"
+    }
+  ],
+  "upset_amount": 186891.07,
+  "upset_amount_label": "Approx. Upset*"
+}

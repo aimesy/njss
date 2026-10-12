@@ -1,0 +1,54 @@
+{
+  "address": "167 RICHELIEU TERRACE A/K/A 165-169 RICHELIEU TERRACE NEWARK NJ 07106",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_phone": null,
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F02299416",
+  "current_status": "Scheduled",
+  "defendant": "DIANE BROWN-STITH, ET. AL.",
+  "description": "LOT: 31 BLOCK: 4126\nDIMENSIONS OF LOT: ( APPROXIMATELY) 75 FEET WIDE BY 93.63 FEET LONG\nNEAREST CROSS STREET: VARSITY ROAD\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULE SALE IS CURRENTLY $155,588.49\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY OCCUPANCY UNKNOWN",
+  "extracted": {
+    "block": "4126",
+    "lot": "31"
+  },
+  "fields": {
+    "Address": "167 RICHELIEU TERRACE\nA/K/A 165-169 RICHELIEU TERRACE\nNEWARK NJ 07106",
+    "Approx. Upset*": "$104,472.90",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney Phone": "",
+    "Court Case #": "F02299416",
+    "Defendant": "DIANE BROWN-STITH, ET. AL.",
+    "Description": "LOT: 31 BLOCK: 4126\nDIMENSIONS OF LOT: ( APPROXIMATELY) 75 FEET WIDE BY 93.63 FEET LONG\nNEAREST CROSS STREET: VARSITY ROAD\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULE SALE IS CURRENTLY $155,588.49\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY OCCUPANCY UNKNOWN",
+    "Parcel #": "",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26004299"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "167 RICHELIEU TERRACE A/K/A 165-169 RICHELIEU TERRACE NEWARK NJ 07106",
+    "defendant": "DIANE BROWN-STITH, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26004299",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 104472.9,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,65 @@
+{
+  "address": "706 ABERDEEN LANE BLACKWOOD (GLOUCESTER TWP) NJ 08012",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00993924",
+  "current_status": "Scheduled",
+  "defendant": "JOSEPH WILLIAM TERRANOVA, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "706 ABERDEEN LANE\nBLACKWOOD (GLOUCESTER TWP) NJ 08012",
+    "Approx. Upset*": "$211,039.07",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00993924",
+    "Defendant": "JOSEPH WILLIAM TERRANOVA, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "NFM, INC. D/B/A NFM LENDING",
+    "Property Note": "",
+    "Sales Date": "3/30/2026",
+    "Sheriff #": "FR-25000604"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "706 ABERDEEN LANE BLACKWOOD (GLOUCESTER TWP) NJ 08012",
+    "defendant": "JOSEPH WILLIAM TERRANOVA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NFM, INC. D/B/A NFM LENDING",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NFM, INC. D/B/A NFM LENDING",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "FR-25000604",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-05-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-07-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 211039.07,
+  "upset_amount_label": "Approx. Upset*"
+}

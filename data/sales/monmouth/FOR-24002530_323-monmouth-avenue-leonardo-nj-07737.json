@@ -1,0 +1,72 @@
+{
+  "address": "323 Monmouth Avenue Leonardo NJ 07737",
+  "attorney": "Stern & Eisenberg",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00482524",
+  "current_status": "Scheduled",
+  "defendant": "Melissa Connolly, et al.",
+  "description": "Approximate Dimensions: 25' x 159' IRR\nNearest Cross Street: Roop Avenue\nTaxes and Other Encumbrances:\nTaxes current through 4th Quarter of 2024\nWater/Sewer - Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT\nUpset Price: $170,319.59, good through April 21, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown.",
+    "upset_amount": 170319.59
+  },
+  "fields": {
+    "Address": "323 Monmouth Avenue\nLeonardo NJ 07737",
+    "Approx. Judgment*": "$160,682.50",
+    "Attorney": "Stern & Eisenberg",
+    "Court Case #": "F00482524",
+    "Defendant": "Melissa Connolly, et al.",
+    "Description": "Approximate Dimensions: 25' x 159' IRR\nNearest Cross Street: Roop Avenue\nTaxes and Other Encumbrances:\nTaxes current through 4th Quarter of 2024\nWater/Sewer - Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL GOVERNMENT\nUpset Price: $170,319.59, good through April 21, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.",
+    "Parcel #": "Tax Lot #8 Block #398 Tax Map of Township of Middletown",
+    "Plaintiff": "Wells Fargo Bank, N.A., as Trustee for Park Place Securities, Inc. Asset-Backed Pass-Through Certificates Series 2005-WHQ4",
+    "Property Note": "",
+    "Sales Date": "7/7/2025",
+    "Sheriff #": "FOR-24002530"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 160682.5,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "323 Monmouth Avenue Leonardo NJ 07737",
+    "defendant": "Melissa Connolly, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Wells Fargo Bank, N.A., as Trustee for Park Place Securities, Inc. Asset-Backed Pass-Through Certificates Series 2005-WHQ4",
+    "sale_date": "2025-07-07"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot #8 Block #398 Tax Map of Township of Middletown",
+  "plaintiff": "Wells Fargo Bank, N.A., as Trustee for Park Place Securities, Inc. Asset-Backed Pass-Through Certificates Series 2005-WHQ4",
+  "property_note": null,
+  "sale_date": "2025-07-07",
+  "sheriff_number": "FOR-24002530",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-07",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

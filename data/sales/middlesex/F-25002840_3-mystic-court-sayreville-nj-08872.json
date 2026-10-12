@@ -1,0 +1,64 @@
+{
+  "address": "3 MYSTIC COURT SAYREVILLE NJ 08872",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00255225",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "BRIAN BOWERS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$245,036.36",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00255225",
+    "Defendant": "BRIAN BOWERS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.07, C0503 BLOCK 229",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Address": "3 MYSTIC COURT\nSAYREVILLE NJ 08872",
+    "Property Note": "",
+    "Sale Date": "2/25/2026",
+    "Sheriff #": "F-25002840"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 245036.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 MYSTIC COURT SAYREVILLE NJ 08872",
+    "defendant": "BRIAN BOWERS, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2026-02-25"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.07, C0503 BLOCK 229",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2026-02-25",
+  "sheriff_number": "F-25002840",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-02-25",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

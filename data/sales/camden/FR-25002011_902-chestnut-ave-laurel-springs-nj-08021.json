@@ -1,0 +1,53 @@
+{
+  "address": "902 CHESTNUT AVE LAUREL SPRINGS NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00534625",
+  "current_status": "Scheduled",
+  "defendant": "DAVID ROTH; MRS. ROTH, SPOUSE OF DAVID ROTH; ANSELL ZARO GRIMM & AARON PC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+  "extracted": {},
+  "fields": {
+    "Address": "902 CHESTNUT AVE\nLAUREL SPRINGS NJ 08021",
+    "Approx. Upset*": "$331,179.27",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00534625",
+    "Defendant": "DAVID ROTH; MRS. ROTH, SPOUSE OF DAVID ROTH; ANSELL\nZARO GRIMM & AARON PC; STATE OF NEW JERSEY; UNITED STATES\nOF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND\nURBAN DEVELOPMENT,",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, N.A.,",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "FR-25002011"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "902 CHESTNUT AVE LAUREL SPRINGS NJ 08021",
+    "defendant": "DAVID ROTH; MRS. ROTH, SPOUSE OF DAVID ROTH; ANSELL \nZARO GRIMM & AARON PC; STATE OF NEW JERSEY; UNITED STATES \nOF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND \nURBAN DEVELOPMENT,",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.,",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, N.A.,",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "FR-25002011",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 331179.27,
+  "upset_amount_label": "Approx. Upset*"
+}

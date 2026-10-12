@@ -1,0 +1,62 @@
+{
+  "address": "219 Mitchell Drive Egg Harbor Township NJ 08234",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000753-21 CORRECTIVE",
+  "current_status": "Scheduled",
+  "deed": "Citigroup Mortgage Loan Trust 2019-RP1",
+  "deed_address": "60 Livingston Avenue, EP-MN-WS3D, Attn: Corporate Trust CMLT 2019-RP1, St. Paul, MN 55107",
+  "defendant": "Gregg S. Foster, Deceased, His Heirs, Devisees, and Personal Representatives, and His, Her, Their, or any of Their Successors in Right, Title, and Interest; Denise A. Foster, Deceased, Her Heirs, Devisees, and Personal Representatives, and His, Her, Their, or any of Their Successors in Right, Title and Interest; Estate of Gregg S. Foster; Estate of Denise A. Foster; Harry Foster; Marisa A. Foster; Gina A. Foster-Wheaton; Rebecca Spears; Nicole J. Brennan; Atlantic CO BD Social Servs; Manufacturers Hanover Trust Company N/K/A JPMorgan Chase Bank, National Association; Discover Bank; State of New Jersey; United States of America; Unknown Occupant #1-10 N/K/A Jane DOE (Name Refused); Unknown Occupant #1-10 N/K/A Brian (Last Name Refused)",
+  "extracted": {},
+  "fields": {
+    "Address": "219 Mitchell Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$357,611.82",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-000753-21 CORRECTIVE",
+    "Deed": "Citigroup Mortgage Loan Trust 2019-RP1",
+    "Deed Address": "60 Livingston Avenue, EP-MN-WS3D, Attn: Corporate Trust CMLT 2019-RP1, St. Paul, MN 55107",
+    "Defendant": "Gregg S. Foster, Deceased, His Heirs, Devisees, and Personal Representatives, and His, Her, Their, or any of Their Successors in Right, Title, and Interest; Denise A. Foster, Deceased, Her Heirs, Devisees, and Personal Representatives, and His, Her, Their, or any of Their Successors in Right, Title and Interest; Estate of Gregg S. Foster; Estate of Denise A. Foster; Harry Foster; Marisa A. Foster; Gina A. Foster-Wheaton; Rebecca Spears; Nicole J. Brennan; Atlantic CO BD Social Servs; Manufacturers Hanover Trust Company N/K/A JPMorgan Chase Bank, National Association; Discover Bank; State of New Jersey; United States of America; Unknown Occupant #1-10 N/K/A Jane DOE (Name Refused); Unknown Occupant #1-10 N/K/A Brian (Last Name Refused)",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as trustee of Citigroup Mortgage Loan Trust 2019-RP1",
+    "Priors": "US Bank Cust For PC 4 & CRDTRS | Tax Certificate, amount: $214.99\nU.S. Bank Cust/PROCAP 8/PROCAPIT | Tax Certificate, amount: $218.45\nTotal: $433.44",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-24000390",
+    "Upset Amount": "$388,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 357611.82,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "219 Mitchell Drive Egg Harbor Township NJ 08234",
+    "defendant": "Gregg S. Foster, Dec...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as trustee of Citigroup Mortgage Loan Trust 2019-RP1",
+  "priors": "US Bank Cust For PC 4 & CRDTRS | Tax Certificate, amount: $214.99 U.S. Bank Cust/PROCAP 8/PROCAPIT | Tax Certificate, amount: $218.45 Total: $433.44",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24000390",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 388500.0,
+  "upset_amount_label": "Upset Amount"
+}

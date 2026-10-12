@@ -1,0 +1,54 @@
+{
+  "address": "89-93 Market Street Salem NJ 08079",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-007375-24",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "Brenda Pilon; and State of New Jersey",
+  "description": "Approximate Dimensions: 190' x 59' (irregular). The upset amount may be subject to further orders of additional sums. Occupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "89-93 Market Street\nSalem NJ 08079",
+    "Court Case #": "F-007375-24",
+    "Defendant": "Brenda Pilon; and State of New Jersey",
+    "Description": "Approximate Dimensions: 190' x 59' (irregular). The upset amount may be subject to further orders of additional sums. Occupancy Status: Unknown",
+    "Plaintiff": "Salem Mutual Assurance Company LLC",
+    "Sales Date": "12/29/2025 02:00 PM",
+    "Sheriff #": "F-25000225"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "89-93 Market Street Salem NJ 08079",
+    "defendant": "Brenda Pilon; and State of New Jersey",
+    "listing_status": null,
+    "plaintiff": "Salem Mutual Assurance Company LLC",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Salem Mutual Assurance Company LLC",
+  "sale_date": null,
+  "sheriff_number": "F-25000225",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "address": "1335 MARTINE AVENUE SCOTCH PLAINS NJ 07076",
+  "attorney": "OSTROWITZ & OSTROWITZ",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00203919",
+  "current_status": "Cancelled",
+  "defendant": "MICHAEL F. MENDES AND JOAO P. MENDES, MRS. MICHAEL F. MENDES FICTITIOUS NAME INTENDING TO DESIGNATE SPOUSE OR CIVIL PARTNER OF MORTGAGE MICHAEL F. MENDES, STATE OF NEW JERSEY AND SUNNOVA MANAGEMENT LLC",
+  "description": "LOT 19 BLOCK 10301",
+  "extracted": {
+    "block": "10301",
+    "lot": "19"
+  },
+  "fields": {
+    "Address": "1335 MARTINE AVENUE\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$103,814.39",
+    "Attorney": "OSTROWITZ & OSTROWITZ",
+    "Court Case #": "F00203919",
+    "Defendant": "MICHAEL F. MENDES AND JOAO P. MENDES, MRS. MICHAEL F. MENDES FICTITIOUS NAME INTENDING TO DESIGNATE SPOUSE OR CIVIL PARTNER OF MORTGAGE MICHAEL F. MENDES, STATE OF NEW JERSEY AND SUNNOVA MANAGEMENT LLC",
+    "Description": "LOT 19 BLOCK 10301",
+    "Parcel #": "LOT 19 BLOCK 10301",
+    "Plaintiff": "INVESTORS BANK",
+    "Property Note": "",
+    "Sales Date": "10/20/2025",
+    "Sheriff #": "CH-19002426"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1335 MARTINE AVENUE SCOTCH PLAINS NJ 07076",
+    "defendant": "MICHAEL F. MENDES AND JOAO P. MENDES, MRS. MICHAEL F. MENDES FICTITIOUS NAME INTENDING TO DESIGNATE SPOUSE OR CIVIL PARTNER OF MORTGAGE MICHAEL F. MENDES, STATE OF NEW JERSEY AND SUNNOVA MANAGEMENT LLC",
+    "listing_status": null,
+    "plaintiff": "INVESTORS BANK",
+    "sale_date": "2025-10-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 19 BLOCK 10301",
+  "plaintiff": "INVESTORS BANK",
+  "property_note": null,
+  "sale_date": "2025-10-20",
+  "sheriff_number": "CH-19002426",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2019-08-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2019-09-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2019-09-25",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-10-20",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 103814.39,
+  "upset_amount_label": "Approx. Upset*"
+}

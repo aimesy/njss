@@ -1,0 +1,49 @@
+{
+  "address": "751 WARWICK Turnpike Hewitt NJ 07421",
+  "attorney": null,
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 010532 25 CTL#163258",
+  "current_status": "Cancelled",
+  "defendant": "EDWARD LUTERZO ET ALS",
+  "description": "Dimensions of Lot: (Approximately) 372.95 feet wide By 71.77 feet long\nNearest Cross Street: Glenridge Road\nThe estimated upset amount for the scheduled sheriff sale is currently $359,102.58\nThe upset price is not the same as a payoff or judgement redemption amount.\nProperty occupancy unknown",
+  "extracted": {},
+  "fields": {
+    "Address": "751 WARWICK Turnpike\nHewitt NJ 07421",
+    "Approx. Upset*": "$319,177.13",
+    "Attorney": "",
+    "Court Case #": "F 010532 25 CTL#163258",
+    "Defendant": "EDWARD LUTERZO ET ALS",
+    "Description": "Dimensions of Lot: (Approximately) 372.95 feet wide By 71.77 feet long\nNearest Cross Street: Glenridge Road\nThe estimated upset amount for the scheduled sheriff sale is currently $359,102.58\nThe upset price is not the same as a payoff or judgement redemption amount.\nProperty occupancy unknown",
+    "Parcel #": "Tax Lot No. 3 and 4.02 Block 1101",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "10/5/2026",
+    "Sheriff #": "F-26001399"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "751 WARWICK Turnpike Hewitt NJ 07421",
+    "defendant": "EDWARD LUTERZO ET ALS",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-10-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot No. 3 and 4.02 Block 1101",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-10-05",
+  "sheriff_number": "F-26001399",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-10-05",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 319177.13,
+  "upset_amount_label": "Approx. Upset*"
+}

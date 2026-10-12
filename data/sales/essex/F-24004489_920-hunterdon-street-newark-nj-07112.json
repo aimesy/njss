@@ -1,0 +1,95 @@
+{
+  "address": "920 HUNTERDON STREET NEWARK NJ 07112",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F01345323",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "HUNTERDON DEVELOPERS LLC, ET.AL.",
+  "description": "TAX LOT(S):11, IN BLOCK: 3583\nDIMENSIONS (APPROX.): 100 X 25\nNEAREST CROSS STREET: CUSTER AVE.\nGOOD FAITH ESTIMATED UPSET PRICE: $668,444.85 OCCUPANCY STATUS: OCCUPIED BY UNKNOWN. THIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "block": "3583",
+    "occupancy": "OCCUPIED BY UNKNOWN. THIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "upset_amount": 668444.85
+  },
+  "fields": {
+    "Address": "920 HUNTERDON STREET\nNEWARK NJ 07112",
+    "Approx. Upset*": "$571,114.45",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F01345323",
+    "Defendant": "HUNTERDON DEVELOPERS LLC, ET.AL.",
+    "Description": "TAX LOT(S):11, IN BLOCK: 3583\nDIMENSIONS (APPROX.): 100 X 25\nNEAREST CROSS STREET: CUSTER AVE.\nGOOD FAITH ESTIMATED UPSET PRICE: $668,444.85 OCCUPANCY STATUS: OCCUPIED BY UNKNOWN. THIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1,",
+    "Property Note": "",
+    "Sales Date": "9/9/2026",
+    "Sheriff #": "F-24004489"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "920 HUNTERDON STREET NEWARK NJ 07112",
+    "defendant": "HUNTERDON DEVELOPERS LLC, ET.AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1,",
+    "sale_date": "2026-09-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1,",
+  "property_note": null,
+  "sale_date": "2026-09-09",
+  "sheriff_number": "F-24004489",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-04",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-04",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Open"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Open"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-09",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 571114.45,
+  "upset_amount_label": "Approx. Upset*"
+}

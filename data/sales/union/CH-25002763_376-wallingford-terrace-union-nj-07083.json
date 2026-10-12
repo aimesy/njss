@@ -1,0 +1,56 @@
+{
+  "address": "376 WALLINGFORD TERRACE UNION NJ 07083",
+  "attorney": "STERN & EISENBERG, PC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00746625",
+  "current_status": "Scheduled",
+  "defendant": "PNINA STEINBERG",
+  "description": "LOT 25 BLOCK 2717",
+  "extracted": {
+    "block": "2717",
+    "lot": "25"
+  },
+  "fields": {
+    "Address": "376 WALLINGFORD TERRACE\nUNION NJ 07083",
+    "Approx. Upset*": "$679,958.73",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Court Case #": "F00746625",
+    "Defendant": "PNINA STEINBERG",
+    "Description": "LOT 25 BLOCK 2717",
+    "Parcel #": "LOT 25 BLOCK 2717",
+    "Plaintiff": "GREAT LAKE FUNDING I TRUST",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "CH-25002763"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "376 WALLINGFORD TERRACE UNION NJ 07083",
+    "defendant": "PNINA STEINBERG",
+    "listing_status": null,
+    "plaintiff": "GREAT LAKE FUNDING I TRUST",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 25 BLOCK 2717",
+  "plaintiff": "GREAT LAKE FUNDING I TRUST",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "CH-25002763",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-15",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 679958.73,
+  "upset_amount_label": "Approx. Upset*"
+}

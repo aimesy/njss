@@ -1,0 +1,67 @@
+{
+  "address": "20 Jaffreyton Close Freehold(Howell Twp) NJ 07728",
+  "attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01296424",
+  "current_status": "Scheduled",
+  "defendant": "Patricia L. Knox, et al",
+  "description": "Approximate dimensions: Condominium\nNearest cross street: Queen Anne Blvd\nThe Plaintiff's Upset Bid presently approximates $234,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "20 Jaffreyton Close\nFreehold(Howell Twp) NJ 07728",
+    "Approx. Judgment*": "$335,909.31",
+    "Attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+    "Court Case #": "F01296424",
+    "Defendant": "Patricia L. Knox, et al",
+    "Description": "Approximate dimensions: Condominium\nNearest cross street: Queen Anne Blvd\nThe Plaintiff's Upset Bid presently approximates $234,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot: 4.60-C1000 Tax Block: 164.01 Tax Map of Township of Howell",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Property Note": "",
+    "Sales Date": "9/29/2025",
+    "Sheriff #": "FOR-25000918"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 335909.31,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "20 Jaffreyton Close Freehold(Howell Twp) NJ 07728",
+    "defendant": "Patricia L. Knox, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Nationstar Mortgage LLC",
+    "sale_date": "2025-09-29"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 4.60-C1000 Tax Block: 164.01 Tax Map of Township of Howell",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "property_note": null,
+  "sale_date": "2025-09-29",
+  "sheriff_number": "FOR-25000918",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-29",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Scheduled"
+    }
+  ]
+}

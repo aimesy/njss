@@ -1,0 +1,72 @@
+{
+  "address": "119 Leonard Avenue Neptune NJ 07753",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02565517",
+  "current_status": "Scheduled",
+  "defendant": "Dorothy E. Wright, et al",
+  "description": "Dimensions of Lot: 39X100\nNearest Cross Street: Asbury Avenue\nEstimated upset bid amount: $275,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publications\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2024 Taxes: $1,423.55 OPEN\n2025 Qtr 1 Due: 02/01/2024 $1,258.10 OPEN\n2025 Qtr 2 Due: 05/01/2025 $1,258.09 OPEN\nSewer: Neptune Township 25 Neptune Blvd Neptune, NJ 07753 732-988-5200 Acct: 07/01/2024 - 12/31/2024 $230.00 OPEN PLUS PENALTY $2,469.29 OPEN",
+  "extracted": {
+    "lot": "39X100",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "119 Leonard Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$208,256.59",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F02565517",
+    "Defendant": "Dorothy E. Wright, et al",
+    "Description": "Dimensions of Lot: 39X100\nNearest Cross Street: Asbury Avenue\nEstimated upset bid amount: $275,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publications\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2024 Taxes: $1,423.55 OPEN\n2025 Qtr 1 Due: 02/01/2024 $1,258.10 OPEN\n2025 Qtr 2 Due: 05/01/2025 $1,258.09 OPEN\nSewer: Neptune Township 25 Neptune Blvd Neptune, NJ 07753 732-988-5200 Acct: 07/01/2024 - 12/31/2024 $230.00 OPEN PLUS PENALTY $2,469.29 OPEN",
+    "Parcel #": "Lot 17 (F/K/A 10), Block 704 (F/K/A 188.01) Tax Map of the Township of Neptune",
+    "Plaintiff": "CIT Bank N.A.",
+    "Property Note": "",
+    "Sales Date": "5/27/2025",
+    "Sheriff #": "FOR-23001714"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 208256.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "119 Leonard Avenue Neptune NJ 07753",
+    "defendant": "Dorothy E. Wright, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "CIT Bank N.A.",
+    "sale_date": "2025-05-27"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 17 (F/K/A 10), Block 704 (F/K/A 188.01) Tax Map of the Township of Neptune",
+  "plaintiff": "CIT Bank N.A.",
+  "property_note": null,
+  "sale_date": "2025-05-27",
+  "sheriff_number": "FOR-23001714",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-27",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-10-23",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-10-23",
+      "status": "Scheduled"
+    }
+  ]
+}

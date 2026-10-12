@@ -1,0 +1,80 @@
+{
+  "address": "456-460 E 40TH Street Paterson NJ 07504",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 005216 24 CTL#162989",
+  "current_status": "Cancelled",
+  "defendant": "ALVIN GUZMAN A/K/A ALVIN D. GUZMAN, ET ALS.",
+  "description": "DIMENSIONS OF LOT: 45 FT WIDE x 100 FT LONG\nNEAREST CROSS STREET: 19TH AVENUE\nESTIMATED UPEST BID AMOUNT: $482,600.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OWNER OCCUPIED\n*SUBJECT TO ANY UNPAID TAXES, MUNCIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY THE PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND , IF SO THE CURRENT AMOUNT DUE THEREON.\n2026 QTR 2 DUE : 05/01/2026 $2,788.87 OPEN\nSEWER: PATERSON SEWER DEPT: 155 MARKET ST. PATERSON NJ 07501 973-321-1230\nACCT: 10004989 0 04/01/2026-6/30/2026 $89.75 OPEN",
+  "extracted": {
+    "lot": "45",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "456-460 E 40TH Street\nPaterson NJ 07504",
+    "Approx. Upset*": "$415,072.46",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 005216 24 CTL#162989",
+    "Defendant": "ALVIN GUZMAN A/K/A ALVIN D. GUZMAN, ET ALS.",
+    "Description": "DIMENSIONS OF LOT: 45 FT WIDE x 100 FT LONG\nNEAREST CROSS STREET: 19TH AVENUE\nESTIMATED UPEST BID AMOUNT: $482,600.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OWNER OCCUPIED\n*SUBJECT TO ANY UNPAID TAXES, MUNCIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY THE PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND , IF SO THE CURRENT AMOUNT DUE THEREON.\n2026 QTR 2 DUE : 05/01/2026 $2,788.87 OPEN\nSEWER: PATERSON SEWER DEPT: 155 MARKET ST. PATERSON NJ 07501 973-321-1230\nACCT: 10004989 0 04/01/2026-6/30/2026 $89.75 OPEN",
+    "Parcel #": "TAX LOT 6 BLOCK 8023",
+    "Plaintiff": "FIRST-CITIZENS BANK & TRUST COMPANY, SUCCESSOR BY MERGER TO CIT BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "7/7/2026",
+    "Sheriff #": "F-25001089"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "456-460 E 40TH Street Paterson NJ 07504",
+    "defendant": "ALVIN GUZMAN A/K/A ALVIN D. GUZMAN, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "FIRST-CITIZENS BANK & TRUST COMPANY, SUCCESSOR BY MERGER TO CIT BANK, N.A.",
+    "sale_date": "2026-07-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 6 BLOCK 8023",
+  "plaintiff": "FIRST-CITIZENS BANK & TRUST COMPANY, SUCCESSOR BY MERGER TO CIT BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-07-07",
+  "sheriff_number": "F-25001089",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-09",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 415072.46,
+  "upset_amount_label": "Approx. Upset*"
+}

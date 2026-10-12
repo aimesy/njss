@@ -1,0 +1,68 @@
+{
+  "address": "12 QUILL Street West Milford NJ 07480",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 011069 24 CTL # 163102",
+  "current_status": "Cancelled",
+  "defendant": "KEITH ABT A/K/A KEITH E. ABT, ET AL.",
+  "description": "Dimensions approx: 100x 100\nNearest Cross Street: Hickory Ave\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98)\nSeptic System Easement\nRecorded: July 24, 1986\nBook U116 Page 552\nGood Faith Estimated Upset Price $244,084.13\nOccupancy Status: Owner Occupied.",
+  "extracted": {
+    "occupancy": "Owner Occupied.",
+    "upset_amount": 244084.13
+  },
+  "fields": {
+    "Address": "12 QUILL Street\nWest Milford NJ 07480",
+    "Approx. Upset*": "$224,899.38",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 011069 24 CTL # 163102",
+    "Defendant": "KEITH ABT A/K/A KEITH E. ABT, ET AL.",
+    "Description": "Dimensions approx: 100x 100\nNearest Cross Street: Hickory Ave\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98)\nSeptic System Easement\nRecorded: July 24, 1986\nBook U116 Page 552\nGood Faith Estimated Upset Price $244,084.13\nOccupancy Status: Owner Occupied.",
+    "Parcel #": "Tax lot 3 Block 5615",
+    "Plaintiff": "MILL CITY MORTGAGE LOAN TRUST 2019-1, WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "6/23/2026",
+    "Sheriff #": "F-25001844"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 QUILL Street West Milford NJ 07480",
+    "defendant": "KEITH ABT A/K/A KEITH E. ABT, ET AL.",
+    "listing_status": null,
+    "plaintiff": "MILL CITY MORTGAGE LOAN TRUST 2019-1, WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE",
+    "sale_date": "2026-06-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot 3 Block 5615",
+  "plaintiff": "MILL CITY MORTGAGE LOAN TRUST 2019-1, WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-06-23",
+  "sheriff_number": "F-25001844",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-03-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-05-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 224899.38,
+  "upset_amount_label": "Approx. Upset*"
+}

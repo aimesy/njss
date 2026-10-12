@@ -1,0 +1,60 @@
+{
+  "address": "742 SOUTH AVENUE PLAINFIELD NJ 07062-1829",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00232025",
+  "current_status": "Cancelled",
+  "defendant": "KARLTON HENDERSON; KIMBERLY HENDERSON; WARREN ANESTHESIA CONSULTANTS; PANACEA DIAGNOSTIC SOLUTIONS L; MIDDLESEX SURGERY CENTER LLC",
+  "description": "LOT 25 BLOCK 617",
+  "extracted": {
+    "block": "617",
+    "lot": "25"
+  },
+  "fields": {
+    "Address": "742 SOUTH AVENUE\nPLAINFIELD NJ 07062-1829",
+    "Approx. Upset*": "$247,341.12",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00232025",
+    "Defendant": "KARLTON HENDERSON; KIMBERLY HENDERSON; WARREN ANESTHESIA CONSULTANTS; PANACEA DIAGNOSTIC SOLUTIONS L; MIDDLESEX SURGERY CENTER LLC",
+    "Description": "LOT 25 BLOCK 617",
+    "Parcel #": "LOT 25 BLOCK 617",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF SOUNDVIEW HOME LOAN TRUST 2006-OPT5, ASSET-BACKED CERTIFICATES, SERIES 2006-OPT5",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "CH-25002122"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "742 SOUTH AVENUE PLAINFIELD NJ 07062-1829",
+    "defendant": "KARLTON HENDERSON; KIMBERLY HENDERSON; WARREN ANESTHESIA CONSULTANTS; PANACEA DIAGNOSTIC SOLUTIONS L; MIDDLESEX SURGERY CENTER LLC",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF SOUNDVIEW HOME LOAN TRUST 2006-OPT5, ASSET-BACKED CERTIFICATES, SERIES 2006-OPT5",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 25 BLOCK 617",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF SOUNDVIEW HOME LOAN TRUST 2006-OPT5, ASSET-BACKED CERTIFICATES, SERIES 2006-OPT5",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "CH-25002122",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 247341.12,
+  "upset_amount_label": "Approx. Upset*"
+}

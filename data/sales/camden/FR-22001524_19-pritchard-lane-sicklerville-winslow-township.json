@@ -1,0 +1,73 @@
+{
+  "address": "19 PRITCHARD LANE SICKLERVILLE (WINSLOW TOWNSHIP) NJ 08081",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01921517",
+  "current_status": "Purchased",
+  "defendant": "JULIA ROBINSON; NEW CENTURY MORTGAGE CORPORATION",
+  "extracted": {},
+  "fields": {
+    "Address": "19 PRITCHARD LANE\nSICKLERVILLE (WINSLOW TOWNSHIP) NJ 08081",
+    "Approx. Upset*": "$185,243.28",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01921517",
+    "Defendant": "JULIA ROBINSON; NEW CENTURY MORTGAGE CORPORATION",
+    "Parcel #": "TAX LOT 10 BLOCK 10405",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK,\nAS SUCCESSOR-IN- INTEREST TO JP MORGAN CHASE BANK, N.A.,\nAS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES TRUST\n2006-3 ASSET-BACKED CERTIFICATES, SERIES 2006-3",
+    "Property Note": "Water: TWP of Winslow 125 S RTE space 73 Braddock, NJ 08037 space 609–567–0700 ACCT : 229058 0 to: 04/01/2026 $182.44 open\nSewer: TWP of Winslow 125 S RTE space 73 Braddock, NJ 08037 space 609–567–0700 ACCT : 229058 0 to: 04/01/2026- 06/30/2026 $109.96 open\nCCMUA: CCMUA 1645 ferry Ave. Camden, NJ 08104 856–541–3700 acct: 360090039 03/01/2026–05/31/2026 $93.00 open plus penalty $465.00 open\nVacant lot charge $500.00 open",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-22001524"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "19 PRITCHARD LANE SICKLERVILLE (WINSLOW TOWNSHIP) NJ 08081",
+    "defendant": "JULIA ROBINSON; NEW CENTURY MORTGAGE CORPORATION",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK, \nAS SUCCESSOR-IN- INTEREST TO JP MORGAN CHASE BANK, N.A., \nAS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES TRUST \n2006-3 ASSET-BACKED CERTIFICATES, SERIES 2006-3",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 10 BLOCK 10405",
+  "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK, AS SUCCESSOR-IN- INTEREST TO JP MORGAN CHASE BANK, N.A., AS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES TRUST 2006-3 ASSET-BACKED CERTIFICATES, SERIES 2006-3",
+  "property_note": "Water: TWP of Winslow 125 S RTE space 73 Braddock, NJ 08037 space 609–567–0700 ACCT : 229058 0 to: 04/01/2026 $182.44 open\nSewer: TWP of Winslow 125 S RTE space 73 Braddock, NJ 08037 space 609–567–0700 ACCT : 229058 0 to: 04/01/2026- 06/30/2026 $109.96 open\nCCMUA: CCMUA 1645 ferry Ave. Camden, NJ 08104 856–541–3700 acct: 360090039 03/01/2026–05/31/2026 $93.00 open plus penalty $465.00 open\nVacant lot charge $500.00 open",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-22001524",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2022-08-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-09-14",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-10-12",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 185243.28,
+  "upset_amount_label": "Approx. Upset*"
+}

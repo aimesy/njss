@@ -1,0 +1,73 @@
+{
+  "address": "400-402 MARKET ST GLOUCESTER CITY NJ 08030",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00109924",
+  "current_status": "Scheduled",
+  "defendant": "ROSKO GLOUCESTER LLC; ET AL .,",
+  "extracted": {},
+  "fields": {
+    "Address": "400-402 MARKET ST\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$551,042.54",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00109924",
+    "Defendant": "ROSKO GLOUCESTER LLC; ET AL .,",
+    "Parcel #": "19&16, in Block: 72",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL\nCAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL\nMORTGAGE LOAN TRUST 1,",
+    "Property Note": "Tax Certificate\nRecorded: April 11, 2023\nHolder: FIG 20, LLC, FBO sec Pty\nAmount: $3,271.44\nBook: 12328\nPage: 256\nInstrument Number: 2023-092\nTax Certificate\nRecorded: May 02, 2023\nHolder: Pro cap 8 FBO Firstrust Bank\nAmount: $696.65\nBook: 12342\nPage: 1907\nInstrument Number: 2023-091",
+    "Sales Date": "8/3/2026",
+    "Sheriff #": "FR-24003036"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "400-402 MARKET ST GLOUCESTER CITY NJ 08030",
+    "defendant": "ROSKO GLOUCESTER LLC; ET AL .,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL \nCAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL \nMORTGAGE LOAN TRUST 1,",
+    "sale_date": "2026-08-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "19&16, in Block: 72",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1,",
+  "property_note": "Tax Certificate\nRecorded: April 11, 2023\nHolder: FIG 20, LLC, FBO sec Pty\nAmount: $3,271.44\nBook: 12328\nPage: 256\nInstrument Number: 2023-092\nTax Certificate\nRecorded: May 02, 2023\nHolder: Pro cap 8 FBO Firstrust Bank\nAmount: $696.65\nBook: 12342\nPage: 1907\nInstrument Number: 2023-091",
+  "sale_date": "2026-08-03",
+  "sheriff_number": "FR-24003036",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-02-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-02",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 551042.54,
+  "upset_amount_label": "Approx. Upset*"
+}

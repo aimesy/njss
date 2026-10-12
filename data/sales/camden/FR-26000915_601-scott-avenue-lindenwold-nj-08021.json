@@ -1,0 +1,53 @@
+{
+  "address": "601 SCOTT AVENUE LINDENWOLD NJ 08021",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01292625",
+  "current_status": "Purchased",
+  "defendant": "EARNEST A. CAMPBELL, HIS/HER, DEVISEES, AND PERSONAL REPRESENATIVES, AND HIS HER, THEIR OR ANY OF THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "601 SCOTT AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$93,703.40",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F01292625",
+    "Defendant": "EARNEST A. CAMPBELL, HIS/HER, DEVISEES, AND PERSONAL REPRESENATIVES, AND HIS\nHER, THEIR OR ANY OF THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+    "Parcel #": "TAX LOT NO. 27 BLOCK 192",
+    "Plaintiff": "NATIONALSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-26000915"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "601 SCOTT AVENUE LINDENWOLD NJ 08021",
+    "defendant": "EARNEST A. CAMPBELL, HIS/HER, DEVISEES, AND PERSONAL REPRESENATIVES, AND HIS \nHER, THEIR OR ANY OF THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+    "listing_status": null,
+    "plaintiff": "NATIONALSTAR MORTGAGE LLC",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT NO. 27 BLOCK 192",
+  "plaintiff": "NATIONALSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-26000915",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 93703.4,
+  "upset_amount_label": "Approx. Upset*"
+}

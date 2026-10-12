@@ -1,0 +1,57 @@
+{
+  "address": "208 WINDING WAY ROAD STRATFORD NJ 08084",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01374723",
+  "current_status": "Redeemed",
+  "defendant": "THOMAS STONE, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "208 WINDING WAY ROAD\nSTRATFORD NJ 08084",
+    "Approx. Upset*": "$51,050.71",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F01374723",
+    "Defendant": "THOMAS STONE, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-25002014"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "208 WINDING WAY ROAD STRATFORD NJ 08084",
+    "defendant": "THOMAS STONE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-25002014",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 51050.71,
+  "upset_amount_label": "Approx. Upset*"
+}

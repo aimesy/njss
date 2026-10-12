@@ -1,0 +1,66 @@
+{
+  "address": "2739 Evergreen Court Mays Landing NJ 08330",
+  "attorney": "Hyberg, White & Mann",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "DC-ATL-004231-17 / DJ-003620-24",
+  "current_status": "Scheduled",
+  "deed": "Woodland Community Association, Inc",
+  "deed_address": "2111 New Road Suite 105, Northfield, NJ 08225",
+  "defendant": "Shawna A Forbes",
+  "extracted": {},
+  "fields": {
+    "Address": "2739 Evergreen Court\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$10,870.83",
+    "Attorney": "Hyberg, White & Mann",
+    "Court Case #": "DC-ATL-004231-17 / DJ-003620-24",
+    "Deed": "Woodland Community Association, Inc",
+    "Deed Address": "2111 New Road Suite 105, Northfield, NJ 08225",
+    "Defendant": "Shawna A Forbes",
+    "Plaintiff": "Woodlands Community Association, Inc.",
+    "Priors": "United States of America, Dept. of Agriculture, amount: $98,000.00\nWoodlands Community Assn Condo Lien #2015058655, amount: $7,740.38\nWoodlands Community Assn Condo Lien #2017034927, amount: $9,793.82\nTotal: $115,534.20",
+    "Property Note": "OCCUPANCY STATUS: UNOCCUPIED",
+    "Sales Date": "3/6/2025",
+    "Sheriff #": "L-24001417",
+    "Upset Amount": "$41,346.39"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 10870.83,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2739 Evergreen Court Mays Landing NJ 08330",
+    "defendant": "Shawna A Forbes...",
+    "listing_status": null,
+    "plaintiff": "Woodlands Community ...",
+    "sale_date": "2025-03-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Woodlands Community Association, Inc.",
+  "priors": "United States of America, Dept. of Agriculture, amount: $98,000.00 Woodlands Community Assn Condo Lien #2015058655, amount: $7,740.38 Woodlands Community Assn Condo Lien #2017034927, amount: $9,793.82 Total: $115,534.20",
+  "property_note": "OCCUPANCY STATUS: UNOCCUPIED",
+  "sale_date": "2025-03-06",
+  "sheriff_number": "L-24001417",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-06",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 41346.39,
+  "upset_amount_label": "Upset Amount"
+}

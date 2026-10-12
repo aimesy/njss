@@ -1,0 +1,60 @@
+{
+  "address": "1151 PASSAIC AVENUE LINDEN NJ 07036",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00968022",
+  "current_status": "Buy Back",
+  "defendant": "LOUISETTE PIERRE, DECEASED, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; ROBISON TIMOTHEE; HERMIONE CHARLES; NICHOLAS ROSIER; SHEILA ROSIER; CHARLES ROSIER; WILLIAM WINTERS; STATE OF VIRGINIA; BERKELEY COLLEGE; STATE OF NEW JERSEY; UNITED STATE OF AMERICA",
+  "description": "LOT 13 BLOCK 74",
+  "extracted": {
+    "block": "74",
+    "lot": "13"
+  },
+  "fields": {
+    "Address": "1151 PASSAIC AVENUE\nLINDEN NJ 07036",
+    "Approx. Upset*": "$709,225.64",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00968022",
+    "Defendant": "LOUISETTE PIERRE, DECEASED, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; ROBISON TIMOTHEE; HERMIONE CHARLES; NICHOLAS ROSIER; SHEILA ROSIER; CHARLES ROSIER; WILLIAM WINTERS; STATE OF VIRGINIA; BERKELEY COLLEGE; STATE OF NEW JERSEY; UNITED STATE OF AMERICA",
+    "Description": "LOT 13 BLOCK 74",
+    "Parcel #": "LOT 13 BLOCK 74",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE SPECIALTY UNDERWRING AND RESIDENTIAL FINANCE TRUST MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-BC1",
+    "Property Note": "",
+    "Sales Date": "3/11/2026",
+    "Sheriff #": "CH-25002687"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1151 PASSAIC AVENUE LINDEN NJ 07036",
+    "defendant": "LOUISETTE PIERRE, DECEASED, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; ROBISON TIMOTHEE; HERMIONE CHARLES; NICHOLAS ROSIER; SHEILA ROSIER; CHARLES ROSIER; WILLIAM WINTERS; STATE OF VIRGINIA; BERKELEY COLLEGE; STATE OF NEW JERSEY; UNITED STATE OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE SPECIALTY UNDERWRING AND RESIDENTIAL FINANCE TRUST MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-BC1",
+    "sale_date": "2026-03-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 13 BLOCK 74",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE SPECIALTY UNDERWRING AND RESIDENTIAL FINANCE TRUST MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-BC1",
+  "property_note": null,
+  "sale_date": "2026-03-11",
+  "sheriff_number": "CH-25002687",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 709225.64,
+  "upset_amount_label": "Approx. Upset*"
+}

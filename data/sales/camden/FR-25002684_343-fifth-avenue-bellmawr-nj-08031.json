@@ -1,0 +1,53 @@
+{
+  "address": "343 FIFTH AVENUE BELLMAWR NJ 08031",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00055325",
+  "current_status": "Purchased",
+  "defendant": "AIDA COTTONE, DECEASED, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "343 FIFTH AVENUE\nBELLMAWR NJ 08031",
+    "Approx. Upset*": "$172,379.91",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00055325",
+    "Defendant": "AIDA COTTONE, DECEASED, HER HEIRS,\nDEVISEES AND PERSONAL REPRESENTATIVES,\nAND HER, THEIR, OR ANY OF THEIR SUCCESSORS\nIN RIGHT, TITLE AND INTEREST, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, N.A. AS TRUSTEE FOR\nTHE REGISTERED HOLDERS OF RENAISSANCE\nHOME EQUITY LOAN ASSET-BACKED CERTIFICATES,\nSERIES 2004-3",
+    "Property Note": "",
+    "Sales Date": "3/18/2026",
+    "Sheriff #": "FR-25002684"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "343 FIFTH AVENUE BELLMAWR NJ 08031",
+    "defendant": "AIDA COTTONE, DECEASED, HER HEIRS, \nDEVISEES AND PERSONAL REPRESENTATIVES, \nAND HER, THEIR, OR ANY OF THEIR SUCCESSORS \nIN RIGHT, TITLE AND INTEREST, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A. AS TRUSTEE FOR \nTHE REGISTERED HOLDERS OF RENAISSANCE \nHOME EQUITY LOAN ASSET-BACKED CERTIFICATES, \nSERIES 2004-3",
+    "sale_date": "2026-03-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, N.A. AS TRUSTEE FOR THE REGISTERED HOLDERS OF RENAISSANCE HOME EQUITY LOAN ASSET-BACKED CERTIFICATES, SERIES 2004-3",
+  "property_note": null,
+  "sale_date": "2026-03-18",
+  "sheriff_number": "FR-25002684",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 172379.91,
+  "upset_amount_label": "Approx. Upset*"
+}

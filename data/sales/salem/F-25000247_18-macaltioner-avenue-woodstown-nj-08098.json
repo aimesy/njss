@@ -1,0 +1,46 @@
+{
+  "address": "18 Macaltioner Avenue Woodstown NJ 08098",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-001463-25",
+  "current_status": "Bankruptcy",
+  "defendant": "Sherrie L. Mehaffey; Mr. Mehaffey, Husband of Sherrie L. Mehaffey; New Jersey Housing and Mortgage Finance Agency; State of New Jersey; Borough of Woodstown; Memorial Hospital of Salem County",
+  "description": "Approximate Dimensions: 67 x 125 Approximate Upset Price: $187,226.29. The upset amount may be subject to further Orders of additional sums. It is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.",
+  "extracted": {
+    "upset_amount": 187226.29
+  },
+  "fields": {
+    "Address": "18 Macaltioner Avenue\nWoodstown NJ 08098",
+    "Court Case #": "F-001463-25",
+    "Defendant": "Sherrie L. Mehaffey; Mr. Mehaffey, Husband of Sherrie L. Mehaffey; New Jersey Housing and Mortgage Finance Agency; State of New Jersey; Borough of Woodstown; Memorial Hospital of Salem County",
+    "Description": "Approximate Dimensions: 67 x 125 Approximate Upset Price: $187,226.29. The upset amount may be subject to further Orders of additional sums. It is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Soley As Owner Trustee For RCAF Acquisition Trust",
+    "Sales Date": "12/01/2025 02:00 PM",
+    "Sheriff #": "F-25000247"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "18 Macaltioner Avenue Woodstown NJ 08098",
+    "defendant": "Sherrie L. Mehaffey; Mr. Mehaffey, Husband of Sherrie L. Mehaffey; New Jersey Housing and Mortgage Finance Agency; State of New Jersey; Borough of Woodstown; Memorial Hospital of Salem County",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Soley As Owner Trustee For RCAF Acquisition Trust",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Soley As Owner Trustee For RCAF Acquisition Trust",
+  "sale_date": null,
+  "sheriff_number": "F-25000247",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Bankruptcy"
+    }
+  ]
+}

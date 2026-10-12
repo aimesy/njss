@@ -1,0 +1,65 @@
+{
+  "address": "436 EMERALD STREET CAMDEN NJ 08104",
+  "attorney": "LAW OFFICE OF MARTONE & UHLMANN",
+  "attorney_phone": "(973) 473-3000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00764625",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "VANESSA C. DANIELS; STATE OF NEW JERSEY; HEART OF CAMDEN, INC.; CITY OF CAMDEN NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; UNITED STATES OF AMERICA; WELLS FARGO BANK, N.A.",
+  "extracted": {},
+  "fields": {
+    "Address": "436 EMERALD STREET\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$45,780.81",
+    "Attorney": "LAW OFFICE OF MARTONE & UHLMANN",
+    "Attorney Phone": "(973) 473-3000",
+    "Court Case #": "F00764625",
+    "Defendant": "VANESSA C. DANIELS; STATE OF NEW JERSEY; HEART OF CAMDEN, INC.; CITY OF CAMDEN\nNEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; UNITED STATES OF AMERICA;\nWELLS FARGO BANK, N.A.",
+    "Parcel #": "TAX LOT NO. 66, IN BLOCK NO. 482",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "A. Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, as charges, liens, insurance, premiums, or other advances made by plaintiff prior to the sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclose and, if, so, the current amount due thereon.\nB. Subject to prior mortgages and judgments (if any)\nC. Subject to the extended right of the redemption afforded to the United States of America pursuing 228 U.S.C. 2410\nD. Subjective affordable, housing agreement, terms, and conditions.\nE. Subject to first mortgage with an original principal balance of $80,000, plus any additional interest in costs as may be due, dated 04/14/20210, recorded 04/15/2010 held by nj dca division of housing\nF. Subject to sale certificate #26–00592 in the amount of $1151.22, plus any additional interest cost as may be due, sold to WSFS cust for CCI firsttrust on 04/06/2026",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26000954"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "436 EMERALD STREET CAMDEN NJ 08104",
+    "defendant": "VANESSA C. DANIELS; STATE OF NEW JERSEY; HEART OF CAMDEN, INC.; CITY OF CAMDEN \nNEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; UNITED STATES OF AMERICA; \nWELLS FARGO BANK, N.A.",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT NO. 66, IN BLOCK NO. 482",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": "A. Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, as charges, liens, insurance, premiums, or other advances made by plaintiff prior to the sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclose and, if, so, the current amount due thereon.\nB. Subject to prior mortgages and judgments (if any)\nC. Subject to the extended right of the redemption afforded to the United States of America pursuing 228 U.S.C. 2410\nD. Subjective affordable, housing agreement, terms, and conditions.\nE. Subject to first mortgage with an original principal balance of $80,000, plus any additional interest in costs as may be due, dated 04/14/20210, recorded 04/15/2010 held by nj dca division of housing\nF. Subject to sale certificate #26–00592 in the amount of $1151.22, plus any additional interest cost as may be due, sold to WSFS cust for CCI firsttrust on 04/06/2026",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26000954",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 45780.81,
+  "upset_amount_label": "Approx. Upset*"
+}

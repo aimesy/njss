@@ -1,0 +1,88 @@
+{
+  "address": "269 PROSPECT AVENUE SOUTH AMBOY NJ 08879",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00847524",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "NUNZIO MALFETTI, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$94,124.18",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00847524",
+    "Defendant": "NUNZIO MALFETTI, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 269 BLOCK 18",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2019-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "Property Address": "269 PROSPECT AVENUE\nSOUTH AMBOY NJ 08879",
+    "Property Note": "",
+    "Sale Date": "7/1/2026",
+    "Sheriff #": "F-25001046"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 94124.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "269 PROSPECT AVENUE SOUTH AMBOY NJ 08879",
+    "defendant": "NUNZIO MALFETTI, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2019-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 269 BLOCK 18",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2019-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "F-25001046",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,70 @@
+{
+  "address": "834 Florence Avenue Pleasantville NJ 08232",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006875-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "John T. Adams; Tamara Adams NKA Tamara Miller; Lancer Investments LLC, on behalf of Cashcall; Highgate Associates LP; Unted States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "834 Florence Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$336,331.20",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-006875-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "John T. Adams; Tamara Adams NKA Tamara Miller; Lancer Investments LLC, on behalf of Cashcall; Highgate Associates LP; Unted States of America",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "Subject to Tax Sale Certificate #25-00255 for Sewer $257.53\nTotal: $257.53",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "6/18/2026",
+    "Sheriff #": "F-26000121",
+    "Upset Amount": "$364,075.57"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 336331.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "834 Florence Avenue Pleasantville NJ 08232",
+    "defendant": "John T. Adams; Tamar...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2026-06-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "Subject to Tax Sale Certificate #25-00255 for Sewer $257.53 Total: $257.53",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-06-18",
+  "sheriff_number": "F-26000121",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-06-18",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 364075.57,
+  "upset_amount_label": "Upset Amount"
+}

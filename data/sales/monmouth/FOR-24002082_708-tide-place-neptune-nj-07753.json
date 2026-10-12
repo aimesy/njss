@@ -1,0 +1,68 @@
+{
+  "address": "708 Tide Place Neptune NJ 07753",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00407124",
+  "current_status": "Scheduled",
+  "defendant": "Gerald Barnes A/K/A Gerald E. Barnes, Successor in Interest, et al",
+  "description": "Dimensions of Lot: 100 feet wide by 107 feet long\nNearest Cross Street: Trident Blvd\nEstimated upset bid amount: $218,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 2 Due: 05/01/2025 $1,922.16 OPEN\nSewer: Neptune Township 25 Neptunr Blvd Neptune, NJ 07753 732-988-5200\nAcct: 07/01/2025 - 12/31/2025 $230.00 OPEN",
+  "extracted": {
+    "lot": "100",
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "708 Tide Place\nNeptune NJ 07753",
+    "Approx. Judgment*": "$194,222.36",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00407124",
+    "Defendant": "Gerald Barnes A/K/A Gerald E. Barnes, Successor in Interest, et al",
+    "Description": "Dimensions of Lot: 100 feet wide by 107 feet long\nNearest Cross Street: Trident Blvd\nEstimated upset bid amount: $218,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 2 Due: 05/01/2025 $1,922.16 OPEN\nSewer: Neptune Township 25 Neptunr Blvd Neptune, NJ 07753 732-988-5200\nAcct: 07/01/2025 - 12/31/2025 $230.00 OPEN",
+    "Parcel #": "Tax Lot 2 f/k/a Lot 3 Block 3506 f/k/a Block 10004 Tax Map of Township of Neptune Township",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "6/6/2025",
+    "Sheriff #": "FOR-24002082"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 194222.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "708 Tide Place Neptune NJ 07753",
+    "defendant": "Gerald Barnes A/K/A Gerald E. Barnes, Successor in Interest, et al",
+    "listing_status": "Reinstated",
+    "plaintiff": "U.S. Bank Trust National Association, Not In its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+    "sale_date": "2025-06-06"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 2 f/k/a Lot 3 Block 3506 f/k/a Block 10004 Tax Map of Township of Neptune Township",
+  "plaintiff": "U.S. Bank Trust National Association, Not In its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-06-06",
+  "sheriff_number": "FOR-24002082",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-06",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

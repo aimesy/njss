@@ -1,0 +1,61 @@
+{
+  "address": "111 WILSON AVENUE MOUNT EPHRAIM NJ 08059",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00595625",
+  "current_status": "Defendant Adjournment",
+  "defendant": "GEORGE M. SPORING, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "111 WILSON AVENUE\nMOUNT EPHRAIM NJ 08059",
+    "Approx. Upset*": "$192,465.64",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00595625",
+    "Defendant": "GEORGE M. SPORING, ET AL",
+    "Parcel #": "TAX LOT NO. 10, BLOCK 6.06",
+    "Plaintiff": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "9/1/2026",
+    "Sheriff #": "FR-26000914"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "111 WILSON AVENUE MOUNT EPHRAIM NJ 08059",
+    "defendant": "GEORGE M. SPORING, ET AL",
+    "listing_status": null,
+    "plaintiff": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+    "sale_date": "2026-09-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT NO. 10, BLOCK 6.06",
+  "plaintiff": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-09-01",
+  "sheriff_number": "FR-26000914",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 192465.64,
+  "upset_amount_label": "Approx. Upset*"
+}

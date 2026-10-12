@@ -1,0 +1,61 @@
+{
+  "address": "3360 WEST HOLLYWOOD CIRCLE PENNSAUKEN NJ 08109",
+  "attorney": "PARKER MCCAY P.A.",
+  "attorney_phone": "(856) 596-8900",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00411525",
+  "current_status": "Defendant Adjournment",
+  "defendant": "VINCENT IANNUZZI; KATHLEEN IANNUZZI; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "3360 WEST HOLLYWOOD CIRCLE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$269,965.94",
+    "Attorney": "PARKER MCCAY P.A.",
+    "Attorney Phone": "(856) 596-8900",
+    "Court Case #": "F00411525",
+    "Defendant": "VINCENT IANNUZZI; KATHLEEN IANNUZZI; STATE OF NEW JERSEY",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY\nBUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,",
+    "Property Note": "",
+    "Sales Date": "5/16/2026",
+    "Sheriff #": "FR-25001944"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3360 WEST HOLLYWOOD CIRCLE PENNSAUKEN NJ 08109",
+    "defendant": "VINCENT IANNUZZI; KATHLEEN IANNUZZI; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY \nBUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,",
+    "sale_date": "2026-05-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-05-16",
+  "sheriff_number": "FR-25001944",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-16",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 269965.94,
+  "upset_amount_label": "Approx. Upset*"
+}

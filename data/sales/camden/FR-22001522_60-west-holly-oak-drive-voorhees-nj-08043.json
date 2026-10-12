@@ -1,0 +1,73 @@
+{
+  "address": "60 WEST HOLLY OAK DRIVE VOORHEES NJ 08043",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01263419",
+  "current_status": "Scheduled",
+  "defendant": "ROGER E. PARROTT; MATTHEW P. CARROLL; MRS. ROGER E. PARROTT, WIFE OF ROGER E. PARROTT; GIBSON ELECTRICAL & GENERAL CONTRATORS, INC.; SOLARCITY CORPORATION; ROBERT GILBERT; PAUL DAVIS SYSTEMS OF SOUTHERN NJ INC. D/B/A PAUL DAVIS RESTORATION OF SOUTHERN NJ; AND STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "60 WEST HOLLY OAK DRIVE\nVOORHEES NJ 08043",
+    "Approx. Upset*": "$649,365.06",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01263419",
+    "Defendant": "ROGER E. PARROTT; MATTHEW P. CARROLL; MRS. ROGER E. PARROTT, WIFE OF ROGER E. PARROTT; GIBSON ELECTRICAL & GENERAL CONTRATORS, INC.; SOLARCITY CORPORATION; ROBERT GILBERT; PAUL DAVIS SYSTEMS OF SOUTHERN NJ INC. D/B/A PAUL DAVIS RESTORATION OF SOUTHERN NJ; AND STATE OF NEW JERSEY",
+    "Parcel #": "LOT 9, BLOCK 202.3",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2017-FRE2, U.S. BANK NATIONAL ASSOCIATION , AS INDENTURE TRUSTEE",
+    "Property Note": "SEWER- 01/01/2026 - 13/31/2026 $164.85 OPEN AND DUE 04/01/2026\nCCMUA- 01/01/2026 - 03/31/2026 $93.00 OPEN PLUS PENALTY $1,690.53 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "6/15/2026",
+    "Sheriff #": "FR-22001522"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "60 WEST HOLLY OAK DRIVE VOORHEES NJ 08043",
+    "defendant": "ROGER E. PARROTT; MATTHEW P. CARROLL; MRS. ROGER E. PARROTT, WIFE OF ROGER E. PARROTT; GIBSON ELECTRICAL & GENERAL CONTRATORS, INC.; SOLARCITY CORPORATION; ROBERT GILBERT; PAUL DAVIS SYSTEMS OF SOUTHERN NJ INC. D/B/A PAUL DAVIS RESTORATION OF SOUTHERN NJ; AND STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2017-FRE2, U.S. BANK NATIONAL ASSOCIATION , AS INDENTURE TRUSTEE",
+    "sale_date": "2026-06-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 9, BLOCK 202.3",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2017-FRE2, U.S. BANK NATIONAL ASSOCIATION , AS INDENTURE TRUSTEE",
+  "property_note": "SEWER- 01/01/2026 - 13/31/2026 $164.85 OPEN AND DUE 04/01/2026\nCCMUA- 01/01/2026 - 03/31/2026 $93.00 OPEN PLUS PENALTY $1,690.53 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2026-06-15",
+  "sheriff_number": "FR-22001522",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2022-08-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-09-14",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2022-10-12",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-11-09",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-05-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 649365.06,
+  "upset_amount_label": "Approx. Upset*"
+}

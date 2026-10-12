@@ -1,0 +1,80 @@
+{
+  "address": "1804 GREEN HOLLOW DRIVE ISELIN NJ 08830",
+  "attorney": "POWERS KIRN LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 327-5852",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00168820",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "SURESH NAYAK AKA SURESH CHANDRA NAYAK, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$173,847.31",
+    "Attorney": "POWERS KIRN LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 327-5852",
+    "Court Case #": "F00168820",
+    "Defendant": "SURESH NAYAK AKA SURESH CHANDRA NAYAK, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 21.01 C1804 BLOCK 380",
+    "Plaintiff": "CITIBANK, N.A.",
+    "Property Address": "1804 GREEN HOLLOW DRIVE\nISELIN NJ 08830",
+    "Property Note": "SUCCESSFULLY POSTED 04/15/2024 BY D. HARBATT",
+    "Sale Date": "8/13/2025",
+    "Sheriff #": "F-776455"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 173847.31,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1804 GREEN HOLLOW DRIVE ISELIN NJ 08830",
+    "defendant": "SURESH NAYAK AKA SURESH CHANDRA NAYAK, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "CITIBANK, N.A.",
+    "sale_date": "2025-08-13"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 21.01 C1804 BLOCK 380",
+  "plaintiff": "CITIBANK, N.A.",
+  "property_note": "SUCCESSFULLY POSTED 04/15/2024 BY D. HARBATT",
+  "sale_date": "2025-08-13",
+  "sheriff_number": "F-776455",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-13",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-09-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-09-09",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-08-14",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-07-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-06-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

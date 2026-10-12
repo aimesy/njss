@@ -1,0 +1,53 @@
+{
+  "address": "11 YALE ROAD WITH A MAILING ADDRESS OF 11 YALE ROAD, ATCO, NJ 08004 TOWNSHIP OF WINSLOW, ATCO NJ 08004",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00821224",
+  "current_status": "Scheduled",
+  "defendant": "MARIAN GAULT, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; DARYL GAULT; TAISIA GAULT, HER UNKNOWN HEIRS DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OF ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; CALVIN GAULT; TD BANK, N.A.; AMERICAN EXPRESS NATIONAL BANK; STATE OF NEW JERSEY AND UNITED STATE OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "11 YALE ROAD\nWITH A MAILING ADDRESS OF 11 YALE ROAD, ATCO, NJ 08004\nTOWNSHIP OF WINSLOW, ATCO NJ 08004",
+    "Approx. Upset*": "$88,966.68",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00821224",
+    "Defendant": "MARIAN GAULT, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND\nHERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; DARYL\nGAULT; TAISIA GAULT, HER UNKNOWN HEIRS DEVISEES AND PERSONAL REPRESENTATIVES\nAND HERS, THEIRS OF ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; CALVIN\nGAULT; TD BANK, N.A.; AMERICAN EXPRESS NATIONAL BANK; STATE OF NEW JERSEY AND\nUNITED STATE OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "M&T BANK,",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "FR-25002016"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "11 YALE ROAD WITH A MAILING ADDRESS OF 11 YALE ROAD, ATCO, NJ 08004 TOWNSHIP OF WINSLOW, ATCO NJ 08004",
+    "defendant": "MARIAN GAULT, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND \nHERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; DARYL \nGAULT; TAISIA GAULT, HER UNKNOWN HEIRS DEVISEES AND PERSONAL REPRESENTATIVES \n AND HERS, THEIRS OF ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; CALVIN \nGAULT; TD BANK, N.A.; AMERICAN EXPRESS NATIONAL BANK; STATE OF NEW JERSEY AND \nUNITED STATE OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "M&T BANK,",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "M&T BANK,",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "FR-25002016",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-26",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 88966.68,
+  "upset_amount_label": "Approx. Upset*"
+}

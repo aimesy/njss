@@ -1,0 +1,76 @@
+{
+  "address": "525 TEANECK ROAD RIDGEFIELD PARK NJ 07660",
+  "attorney": "LAW OFFICES OF ROBERT M MAYEROVIC, ESQ",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01339222",
+  "current_status": "Cancelled",
+  "defendant": "AORS REALTY LLC AND CIRO MEDEROS",
+  "description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $702,000.00. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS FOR ADDITIONAL SUMS.\nCURRENT OCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN",
+    "upset_amount": 702000.0
+  },
+  "fields": {
+    "Address": "525 TEANECK ROAD\nRIDGEFIELD PARK NJ 07660",
+    "Approx. Upset*": "$644,040.40",
+    "Attorney": "LAW OFFICES OF ROBERT M MAYEROVIC, ESQ",
+    "Court Case #": "F01339222",
+    "Defendant": "AORS REALTY LLC AND CIRO MEDEROS",
+    "Description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $702,000.00. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS FOR ADDITIONAL SUMS.\nCURRENT OCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 14.01, BLOCK 20.01",
+    "Plaintiff": "AMIDA SPECIAL OPPORTUNITY INVESTMENTS, LLC",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "F-25000533"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "525 TEANECK ROAD RIDGEFIELD PARK NJ 07660",
+    "defendant": "AORS REALTY LLC AND CIRO MEDEROS",
+    "listing_status": null,
+    "plaintiff": "AMIDA SPECIAL OPPORTUNITY INVESTMENTS, LLC",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 14.01, BLOCK 20.01",
+  "plaintiff": "AMIDA SPECIAL OPPORTUNITY INVESTMENTS, LLC",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "F-25000533",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-04-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-03",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Joint"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 644040.4,
+  "upset_amount_label": "Approx. Upset*"
+}

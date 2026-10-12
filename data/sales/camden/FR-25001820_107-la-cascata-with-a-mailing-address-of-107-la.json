@@ -1,0 +1,53 @@
+{
+  "address": "107 LA CASCATA WITH A MAILING ADDRESS OF 107 LA CASCATA, CELEMNTON, NJ 08021 TOWNSHIP OF GLOUCESTER NJ 08021",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00172425",
+  "current_status": "Purchased",
+  "defendant": "BRADON T. DELLAVECCHIA: MRS. BRANDON T. DELLAVECCHIA, WIFE OF BRANDON T. DELLAVECCHIA AND AMANDA DELLAVECCHIA,",
+  "extracted": {},
+  "fields": {
+    "Address": "107 LA CASCATA\nWITH A MAILING ADDRESS OF 107 LA CASCATA, CELEMNTON, NJ 08021\nTOWNSHIP OF GLOUCESTER NJ 08021",
+    "Approx. Upset*": "$122,221.99",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00172425",
+    "Defendant": "BRADON T. DELLAVECCHIA: MRS. BRANDON T. DELLAVECCHIA, WIFE OF\nBRANDON T. DELLAVECCHIA AND AMANDA DELLAVECCHIA,",
+    "Parcel #": "",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "Property Note": "",
+    "Sales Date": "11/5/2025",
+    "Sheriff #": "FR-25001820"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "107 LA CASCATA WITH A MAILING ADDRESS OF 107 LA CASCATA, CELEMNTON, NJ 08021 TOWNSHIP OF GLOUCESTER NJ 08021",
+    "defendant": "BRADON T. DELLAVECCHIA: MRS. BRANDON T. DELLAVECCHIA, WIFE OF \nBRANDON T. DELLAVECCHIA AND AMANDA DELLAVECCHIA,",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "FR-25001820",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 122221.99,
+  "upset_amount_label": "Approx. Upset*"
+}

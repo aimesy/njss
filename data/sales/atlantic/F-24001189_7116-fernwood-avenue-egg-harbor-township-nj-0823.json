@@ -1,0 +1,58 @@
+{
+  "address": "7116 Fernwood Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Honig & Greenberg, L.L.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-10751-22",
+  "current_status": "Scheduled",
+  "deed": "Esq Capital III, LLC",
+  "deed_address": "PO Box 924 Jackson, NJ 08527",
+  "defendant": "Eden Equities, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "7116 Fernwood Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$6,360.54",
+    "Attorney": "Honig & Greenberg, L.L.C.",
+    "Court Case #": "F-10751-22",
+    "Deed": "Esq Capital III, LLC",
+    "Deed Address": "PO Box 924 Jackson, NJ 08527",
+    "Defendant": "Eden Equities, LLC",
+    "Plaintiff": "ESQ Capital III, LLC",
+    "Priors": "Property taxes and municipal liens through October 15, 2024, amount: $3,860.29",
+    "Property Note": "TAX SALE CERTIFICATE",
+    "Sales Date": "10/24/2024",
+    "Sheriff #": "F-24001189",
+    "Upset Amount": "$10,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 6360.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7116 Fernwood Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Eden Equities, LLC...",
+    "listing_status": null,
+    "plaintiff": "ESQ Capital III, LLC...",
+    "sale_date": "2024-10-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "ESQ Capital III, LLC",
+  "priors": "Property taxes and municipal liens through October 15, 2024, amount: $3,860.29",
+  "property_note": "TAX SALE CERTIFICATE",
+  "sale_date": "2024-10-24",
+  "sheriff_number": "F-24001189",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-10-24",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 10000.0,
+  "upset_amount_label": "Upset Amount"
+}

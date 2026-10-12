@@ -1,0 +1,80 @@
+{
+  "address": "12 Prospect Place Clifton NJ 07011",
+  "attorney": "Law Office of Michael A. Alfieri",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 002764 22 CTL#162542",
+  "current_status": "Cancelled",
+  "defendant": "DANNY E. ESTRICT, ET AL.",
+  "description": "Dimensions of Lot: Approximately 50 x 100\nNearest Cross Street: Paulison Avenue\nEstimated upset bid amount: $455,374.84 Plus any additional sums ordered by the court\nOccupancy status: Upon information and belief, the property is owner-occupied\nTax Information:\nOpen taxes for 2nd Qtr. 2025 and 3rd Qtr. 2025 in the approximate amount of $4,536.41, plus subsequent fees and interest\nOpen sewer in the approximate amount of $980.21, plus subsequent fees and interest\nOpen water in the approximate amount of $139.80, plus subsequent fees and interest",
+  "extracted": {
+    "lot": "Approximately",
+    "occupancy": "Upon information and belief, the property is owner-occupied"
+  },
+  "fields": {
+    "Address": "12 Prospect Place\nClifton NJ 07011",
+    "Approx. Upset*": "$436,299.73",
+    "Attorney": "Law Office of Michael A. Alfieri",
+    "Court Case #": "F 002764 22 CTL#162542",
+    "Defendant": "DANNY E. ESTRICT, ET AL.",
+    "Description": "Dimensions of Lot: Approximately 50 x 100\nNearest Cross Street: Paulison Avenue\nEstimated upset bid amount: $455,374.84 Plus any additional sums ordered by the court\nOccupancy status: Upon information and belief, the property is owner-occupied\nTax Information:\nOpen taxes for 2nd Qtr. 2025 and 3rd Qtr. 2025 in the approximate amount of $4,536.41, plus subsequent fees and interest\nOpen sewer in the approximate amount of $980.21, plus subsequent fees and interest\nOpen water in the approximate amount of $139.80, plus subsequent fees and interest",
+    "Parcel #": "Tax Lot: 43 in Block: 31.01",
+    "Plaintiff": "LYNX ASSET SERVICES LLC",
+    "Property Note": "",
+    "Sales Date": "10/28/2025",
+    "Sheriff #": "F-23001254"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 Prospect Place Clifton NJ 07011",
+    "defendant": "DANNY E. ESTRICT, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LYNX ASSET SERVICES LLC",
+    "sale_date": "2025-10-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 43 in Block: 31.01",
+  "plaintiff": "LYNX ASSET SERVICES LLC",
+  "property_note": null,
+  "sale_date": "2025-10-28",
+  "sheriff_number": "F-23001254",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2023-09-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-06-11",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2024-07-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-08-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-08-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 436299.73,
+  "upset_amount_label": "Approx. Upset*"
+}

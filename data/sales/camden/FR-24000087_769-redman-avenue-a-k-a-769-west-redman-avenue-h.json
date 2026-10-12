@@ -1,0 +1,89 @@
+{
+  "address": "769 REDMAN AVENUE A/K/A 769 WEST REDMAN AVENUE HADDONFIELD NJ 08033",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00452022",
+  "current_status": "Purchased",
+  "defendant": "JOHN S. MEYER A/K/A JOHN MEYER; KAREN T. MEYER; STATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "769 REDMAN AVENUE\nA/K/A 769 WEST REDMAN AVENUE\nHADDONFIELD NJ 08033",
+    "Approx. Upset*": "$542,131.15",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00452022",
+    "Defendant": "JOHN S. MEYER A/K/A JOHN MEYER; KAREN T. MEYER; STATE OF NEW JERSEY; UNITED STATES\nOF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SAXON ASSET SECURITIES\nTRUST 2006-2 MORTGAGE LOAN ASSET BACKED CERTIFICATES, SERIES 2006-2,",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-24000087"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "769 REDMAN AVENUE A/K/A 769 WEST REDMAN AVENUE HADDONFIELD NJ 08033",
+    "defendant": "JOHN S. MEYER A/K/A JOHN MEYER; KAREN T. MEYER; STATE OF NEW JERSEY; UNITED STATES \nOF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SAXON ASSET SECURITIES \nTRUST 2006-2 MORTGAGE LOAN ASSET BACKED CERTIFICATES, SERIES 2006-2,",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SAXON ASSET SECURITIES TRUST 2006-2 MORTGAGE LOAN ASSET BACKED CERTIFICATES, SERIES 2006-2,",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-24000087",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-03-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-04-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-10-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-07-02",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 542131.15,
+  "upset_amount_label": "Approx. Upset*"
+}

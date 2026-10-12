@@ -1,0 +1,62 @@
+{
+  "address": "400 Tremont Avenue Pleasantville NJ 08232",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001175-20 ALIAS",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Lauren E. Sanchez; US Bank NA Solely as Trustee of NRZ Recovery Trust; Mr. Sanchez, Husband of Lauren E. Sanchez (Name Refused); Beneficial New Jersey Inc. D/B/A Beneficial Mortgage Co.",
+  "extracted": {},
+  "fields": {
+    "Address": "400 Tremont Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$100,758.16",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-001175-20 ALIAS",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Lauren E. Sanchez; US Bank NA Solely as Trustee of NRZ Recovery Trust; Mr. Sanchez, Husband of Lauren E. Sanchez (Name Refused); Beneficial New Jersey Inc. D/B/A Beneficial Mortgage Co.",
+    "Plaintiff": "U.S. Bank Trust National Association as Trustee for Treehouse Series V Trust",
+    "Priors": "US Bank Cust for Pro Capital I LLC, Amount: $407.16\nUS Bank Cust for PC7, Amount: $2,463.53\nUS Bank Cust for Pro Cap 8, Amount: $322.45\nUS Bank Cust/PC8 Firstrust Bank, Amount: $455.86\nTotal: $3,649.00",
+    "Property Note": "",
+    "Sales Date": "12/2/2025",
+    "Sheriff #": "F-21000741",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 100758.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "400 Tremont Avenue Pleasantville NJ 08232",
+    "defendant": "Lauren E. Sanchez; U...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association as Trustee for Treehouse Series V Trust",
+  "priors": "US Bank Cust for Pro Capital I LLC, Amount: $407.16 US Bank Cust for PC7, Amount: $2,463.53 US Bank Cust for Pro Cap 8, Amount: $322.45 US Bank Cust/PC8 Firstrust Bank, Amount: $455.86 Total: $3,649.00",
+  "property_note": null,
+  "sale_date": "2025-12-02",
+  "sheriff_number": "F-21000741",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-12-02",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-02-15",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-02-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

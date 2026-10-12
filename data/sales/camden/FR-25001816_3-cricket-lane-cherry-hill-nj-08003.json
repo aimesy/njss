@@ -1,0 +1,61 @@
+{
+  "address": "3 CRICKET LANE CHERRY HILL NJ 08003",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01702514",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ROCCHINA AGRESTA, HER HEIRS DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "3 CRICKET LANE\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$640,448.03",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F01702514",
+    "Defendant": "ROCCHINA AGRESTA, HER HEIRS DEVISEES AND PERSONAL\nREPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR\nSUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR\nTHE RMAC TRUST, SERIES 2016-CTT",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25001816"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3 CRICKET LANE CHERRY HILL NJ 08003",
+    "defendant": "ROCCHINA AGRESTA, HER HEIRS DEVISEES AND PERSONAL \nREPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR \n SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR \n THE RMAC TRUST, SERIES 2016-CTT",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2016-CTT",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25001816",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 640448.03,
+  "upset_amount_label": "Approx. Upset*"
+}

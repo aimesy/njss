@@ -1,0 +1,68 @@
+{
+  "address": "408 Hollywood Avenue Long Branch NJ 07740",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00050324",
+  "current_status": "Scheduled",
+  "defendant": "Elie Sabbagh; Rose Sabbagh",
+  "description": "Dimensions (Approx.): 100*198.41*100*198.15\nNearest Cross Street: Monmouth Place\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upset Price: $1,535,787.67\nOccupancy Status: Vacant Secured",
+  "extracted": {
+    "occupancy": "Vacant Secured",
+    "upset_amount": 1535787.67
+  },
+  "fields": {
+    "Address": "408 Hollywood Avenue\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$1,404,721.08",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00050324",
+    "Defendant": "Elie Sabbagh; Rose Sabbagh",
+    "Description": "Dimensions (Approx.): 100*198.41*100*198.15\nNearest Cross Street: Monmouth Place\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upset Price: $1,535,787.67\nOccupancy Status: Vacant Secured",
+    "Parcel #": "Tax Lot(s): 2, in Block: 101 Tax Map of City of Long Branch",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCAF Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "9/22/2026",
+    "Sheriff #": "FOR-25001357"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1404721.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "408 Hollywood Avenue Long Branch NJ 07740",
+    "defendant": "Elie Sabbagh; Rose Sabbagh",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCAF Acquisition Trust",
+    "sale_date": "2026-09-22"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 2, in Block: 101 Tax Map of City of Long Branch",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCAF Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2026-09-22",
+  "sheriff_number": "FOR-25001357",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-09-22",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Scheduled"
+    }
+  ]
+}

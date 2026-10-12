@@ -1,0 +1,58 @@
+{
+  "address": "1426 Mediterranean Avenue Atlantic City NJ 08401",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007377-23",
+  "current_status": "Scheduled",
+  "deed": "NRZ REO XI LLC",
+  "deed_address": "60 Livingston Ave, EP-MN-WS3D, St Paul, MN 55107",
+  "defendant": "Christine Mitchell-Drinkard, as Heir of Charles C. Mitchell and as Administratrix of The Estate of Charles C Mitchell, Rosemarie Mitchell, as Heir of Charles C. Mitchell; Willie C. Mitchell, as Heir of Charles C. Mitchell; TBF Financial, LLC; Bloomfield Clinic-NJU LLC; Jacobs Family Terrace Condominium Association, Inc; Joseph Kennedy Jr., DMD; Merchants Insurance Group; Jager Management; TL Gardens; Midland Funding LLC; Rancocas Anesthesiology, P.A.; State of New Jersey; Rural Metro Ambulance; Public Guardian for Elderly Adults; Cavalry Portfolio Services LLC as Assignee of Cavalry SPV I, LLC, as Assignee of HSBC Bank of Nevada, N.A.; Underwood Memorial Hospital; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "1426 Mediterranean Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$148,854.36",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-007377-23",
+    "Deed": "NRZ REO XI LLC",
+    "Deed Address": "60 Livingston Ave, EP-MN-WS3D, St Paul, MN 55107",
+    "Defendant": "Christine Mitchell-Drinkard, as Heir of Charles C. Mitchell and as Administratrix of The Estate of Charles C Mitchell, Rosemarie Mitchell, as Heir of Charles C. Mitchell; Willie C. Mitchell, as Heir of Charles C. Mitchell; TBF Financial, LLC; Bloomfield Clinic-NJU LLC; Jacobs Family Terrace Condominium Association, Inc; Joseph Kennedy Jr., DMD; Merchants Insurance Group; Jager Management; TL Gardens; Midland Funding LLC; Rancocas Anesthesiology, P.A.; State of New Jersey; Rural Metro Ambulance; Public Guardian for Elderly Adults; Cavalry Portfolio Services LLC as Assignee of Cavalry SPV I, LLC, as Assignee of HSBC Bank of Nevada, N.A.; Underwood Memorial Hospital; United States of America",
+    "Plaintiff": "U.S. Bank National Association, not in its individual capacity but solely as Trustee for the NRZ Pass-Through Trust XVIII",
+    "Priors": "Jacobs Family Terrace Condominium Association, Inc, amount: $4,376.35",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "7/31/2025",
+    "Sheriff #": "F-25000561",
+    "Upset Amount": "$157,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 148854.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1426 Mediterranean Avenue Atlantic City NJ 08401",
+    "defendant": "Christine Mitchell-D...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2025-07-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association, not in its individual capacity but solely as Trustee for the NRZ Pass-Through Trust XVIII",
+  "priors": "Jacobs Family Terrace Condominium Association, Inc, amount: $4,376.35",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-07-31",
+  "sheriff_number": "F-25000561",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-31",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-07-31",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 157500.0,
+  "upset_amount_label": "Upset Amount"
+}

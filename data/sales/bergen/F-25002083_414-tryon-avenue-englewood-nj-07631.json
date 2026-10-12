@@ -1,0 +1,53 @@
+{
+  "address": "414 TRYON AVENUE ENGLEWOOD NJ 07631",
+  "attorney": "GREENSPOON MARDER LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00018022",
+  "current_status": "Cancelled",
+  "defendant": "JANIE STRONG-POWELL, ET AL.",
+  "description": "THE PLAINTIFF'S GOOD FAITH ESTIMATE IS $612,162.14. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS OF OWNER OCCUPIED.",
+  "extracted": {},
+  "fields": {
+    "Address": "414 TRYON AVENUE\nENGLEWOOD NJ 07631",
+    "Approx. Upset*": "$592,532.25",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Court Case #": "F00018022",
+    "Defendant": "JANIE STRONG-POWELL, ET AL.",
+    "Description": "THE PLAINTIFF'S GOOD FAITH ESTIMATE IS $612,162.14. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS OF OWNER OCCUPIED.",
+    "Parcel #": "LOT 1, BLOCK 302",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB AS TRUSTEE OF FINANCE OF AMERICA STRUCTURED SECUURITIES ACQUISITION TRUST 2019-HB1",
+    "Property Note": "",
+    "Sales Date": "5/5/2026",
+    "Sheriff #": "F-25002083"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "414 TRYON AVENUE ENGLEWOOD NJ 07631",
+    "defendant": "JANIE STRONG-POWELL, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB AS TRUSTEE OF FINANCE OF AMERICA STRUCTURED SECUURITIES ACQUISITION TRUST 2019-HB1",
+    "sale_date": "2026-05-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 1, BLOCK 302",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB AS TRUSTEE OF FINANCE OF AMERICA STRUCTURED SECUURITIES ACQUISITION TRUST 2019-HB1",
+  "property_note": null,
+  "sale_date": "2026-05-05",
+  "sheriff_number": "F-25002083",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-05",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 592532.25,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,66 @@
+{
+  "address": "1208 Mckinley Avenue Pleasantville NJ 08232",
+  "attorney": "Friedman Vartolo, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010504-23",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank National Association, Not in its Individual Capacity but Solely in its Capacity as Indenture Trustee of CIM Trust 2019-R5",
+  "deed_address": "1 Federal Street, 3rd Floor, Boston, MA 02110",
+  "defendant": "Mary Parrott A/K/A Mary J. Parrott A/K/A Mary C. Parrott; New Jersey Housing and Mortgage Finance Agency",
+  "extracted": {},
+  "fields": {
+    "Address": "1208 Mckinley Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$206,128.59",
+    "Attorney": "Friedman Vartolo, LLP",
+    "Court Case #": "F-010504-23",
+    "Deed": "U.S. Bank National Association, Not in its Individual Capacity but Solely in its Capacity as Indenture Trustee of CIM Trust 2019-R5",
+    "Deed Address": "1 Federal Street, 3rd Floor, Boston, MA 02110",
+    "Defendant": "Mary Parrott A/K/A Mary J. Parrott A/K/A Mary C. Parrott; New Jersey Housing and Mortgage Finance Agency",
+    "Plaintiff": "U.S. Bank National Association, not in its individual capacity but solely in its capacity as Indenture Trustee of CIM Trust 2019-R5",
+    "Priors": "Empire Tax Funding II LLC, amount: $2,052.86\nTTLBL, LLC, amount: $663.72\nMedvin Corp, amount: $337.38\nFidelity Tax Corp, amount: $772.17\nCrusader Lien Services, amount: $3,253.25\nFIG 20 LLC, FIG 20 FBO SEC PTY, amount: $591.58\nTotal: $7,670.96",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "7/24/2025",
+    "Sheriff #": "F-25000350",
+    "Upset Amount": "$215,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 206128.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1208 Mckinley Avenue Pleasantville NJ 08232",
+    "defendant": "Mary Parrott A/K/A M...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2025-07-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association, not in its individual capacity but solely in its capacity as Indenture Trustee of CIM Trust 2019-R5",
+  "priors": "Empire Tax Funding II LLC, amount: $2,052.86 TTLBL, LLC, amount: $663.72 Medvin Corp, amount: $337.38 Fidelity Tax Corp, amount: $772.17 Crusader Lien Services, amount: $3,253.25 FIG 20 LLC, FIG 20 FBO SEC PTY, amount: $591.58 Total: $7,670.96",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-07-24",
+  "sheriff_number": "F-25000350",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-24",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 215500.0,
+  "upset_amount_label": "Upset Amount"
+}

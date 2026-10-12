@@ -1,0 +1,57 @@
+{
+  "address": "583 WEST SCOTT AVENUE RAHWAY NJ 07065",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01067024",
+  "current_status": "Bankuptcy",
+  "defendant": "ANTONETTE DESIR; KEVIN DESIR; MSW CAPITAL LLC; UNITED STATES OF AMERICA",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "583 WEST SCOTT AVENUE\nRAHWAY NJ 07065",
+    "Approx. Upset*": "$262,867.49",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F01067024",
+    "Defendant": "ANTONETTE DESIR; KEVIN DESIR; MSW CAPITAL LLC; UNITED STATES OF AMERICA",
+    "Description": "",
+    "Parcel #": "LOT 2 BLOCK 240",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "Dimensions of Lot: (Approximately) 50 feet wide\nBy 46.90 feet long\nNearest Cross Street: Evans Street\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION\nSurplus Money: If after the sale and satisfaction of the mortgage debt including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any\nThe estimated upset amount for the scheduled sheriff sale is currently $302,150.66. The upset price is not the same as a payoff or judgment redemption amount.\nProperty is occupied by unknown",
+    "Sales Date": "9/23/2026",
+    "Sheriff #": "CH-26001422"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "583 WEST SCOTT AVENUE RAHWAY NJ 07065",
+    "defendant": "ANTONETTE DESIR; KEVIN DESIR; MSW CAPITAL LLC; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-09-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 2 BLOCK 240",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": "Dimensions of Lot: (Approximately) 50 feet wide\nBy 46.90 feet long\nNearest Cross Street: Evans Street\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION\nSurplus Money: If after the sale and satisfaction of the mortgage debt including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any\nThe estimated upset amount for the scheduled sheriff sale is currently $302,150.66. The upset price is not the same as a payoff or judgment redemption amount.\nProperty is occupied by unknown",
+  "sale_date": "2026-09-23",
+  "sheriff_number": "CH-26001422",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-07-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 262867.49,
+  "upset_amount_label": "Approx. Upset*"
+}

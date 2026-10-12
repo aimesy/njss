@@ -1,0 +1,64 @@
+{
+  "address": "306 NEW YORK AVENUE JERSEY CITY NJ 07307",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-009554-23",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "ODALY R. CAMILO; ET AL.",
+  "description": "TAX LOT(S): 8, IN BLOCK: 2305\nDIMENSIONS (APPROX): 100*25\nNEAREST CROSS STREET: BOWERS STREET\nGOOD FAITH ESTIMATED UPSET PRICE: $386,533.87\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "block": "2305",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 386533.87
+  },
+  "fields": {
+    "Address": "306 NEW YORK AVENUE\nJERSEY CITY NJ 07307",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-009554-23",
+    "Defendant": "ODALY R. CAMILO; ET AL.",
+    "Description": "TAX LOT(S): 8, IN BLOCK: 2305\nDIMENSIONS (APPROX): 100*25\nNEAREST CROSS STREET: BOWERS STREET\nGOOD FAITH ESTIMATED UPSET PRICE: $386,533.87\nOCCUPANCY STATUS: OCCUPIED",
+    "Good Faith Upset*": "$386,533.87",
+    "Judgment": "$355,607.54",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF CABANA SERIES V TRUST",
+    "Property Note": "",
+    "Sales Date": "7/16/2026",
+    "Sheriff #": "20062031"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 355607.54,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "306 NEW YORK AVENUE JERSEY CITY NJ 07307",
+    "defendant": "ODALY R. CAMILO; ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF CABANA SERIES V TRUST",
+    "sale_date": "2026-07-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF CABANA SERIES V TRUST",
+  "property_note": null,
+  "sale_date": "2026-07-16",
+  "sheriff_number": "20062031",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-05-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 386533.87,
+  "upset_amount_label": "Good Faith Upset*"
+}

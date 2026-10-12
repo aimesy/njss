@@ -1,0 +1,70 @@
+{
+  "address": "49 Norfolk Avenue Egg Harbor City NJ 08215",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008066-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jessica E. Sykes, Heir and Executrix of the Estate of Josue Velez II; Jordan Sykes-Maddela, Heir; Drake Maddela, Heir; Alexandra Alvarez; County of Somerset; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "49 Norfolk Avenue\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$131,124.57",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-008066-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jessica E. Sykes, Heir and Executrix of the Estate of Josue Velez II; Jordan Sykes-Maddela, Heir; Drake Maddela, Heir; Alexandra Alvarez; County of Somerset; State of New Jersey; United States of America",
+    "Plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "10/9/2025",
+    "Sheriff #": "F-25000634",
+    "Upset Amount": "$148,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 131124.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "49 Norfolk Avenue Egg Harbor City NJ 08215",
+    "defendant": "Jessica E. Sykes, He...",
+    "listing_status": null,
+    "plaintiff": "New Jersey Housing a...",
+    "sale_date": "2025-10-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-10-09",
+  "sheriff_number": "F-25000634",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-09",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-10-09",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-10-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-09-11",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-08-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 148500.0,
+  "upset_amount_label": "Upset Amount"
+}

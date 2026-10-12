@@ -1,0 +1,53 @@
+{
+  "address": "611 ALBERTSON AVENUE WINSLOW NJ",
+  "attorney": "TAYLOR AND KEYSER LLC",
+  "attorney_phone": "609-803-2180",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F941724",
+  "current_status": "Scheduled",
+  "defendant": "RUTH A. MCGOWAN; JILL L. DIAMOND, AND THE UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "611 ALBERTSON AVENUE\nWINSLOW NJ",
+    "Approx. Upset*": "$66,100.44",
+    "Attorney": "TAYLOR AND KEYSER LLC",
+    "Attorney Phone": "609-803-2180",
+    "Court Case #": "F941724",
+    "Defendant": "RUTH A. MCGOWAN; JILL L. DIAMOND, AND THE UNITED STATES OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "FIG AS CUSTODIAN FOR FIG NJ19, LLC AND SECURED PARTY,",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "FR-25001982"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "611 ALBERTSON AVENUE WINSLOW NJ",
+    "defendant": "RUTH A. MCGOWAN; JILL L. DIAMOND, AND THE UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "FIG AS CUSTODIAN FOR FIG NJ19, LLC AND SECURED PARTY,",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "FIG AS CUSTODIAN FOR FIG NJ19, LLC AND SECURED PARTY,",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "FR-25001982",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 66100.44,
+  "upset_amount_label": "Approx. Upset*"
+}

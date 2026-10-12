@@ -1,0 +1,71 @@
+{
+  "address": "543 NORTH GROVE STREET EAST ORANGE NJ 07017",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00959325",
+  "current_status": "Settled - Foreclosure",
+  "defendant": "MG 543 N GROVE ST LLC, ET. AL",
+  "description": "TAX LOT(S): 22, IN BLOCK:121\nDIMENSIONS (APPROX.): 150.00 X 26.46 X 151.04 X 32.50\nNEAREST CROSS STREET: RUTLEDGE AVENUE.\nIMPORTANT:\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nSHERIFF, KINDLY ADVERTISE THE FOLLOWING:\nGOOD FAITH ESTIMATED UPSET PRICE: $635,033.66\nOCCUPANCY STATUS:\nNON-OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "block": "121",
+    "occupancy": "NON-OWNER OCCUPIED",
+    "upset_amount": 635033.66
+  },
+  "fields": {
+    "Address": "543 NORTH GROVE STREET\nEAST ORANGE NJ 07017",
+    "Approx. Upset*": "$586,099.89",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00959325",
+    "Defendant": "MG 543 N GROVE ST LLC, ET. AL",
+    "Description": "TAX LOT(S): 22, IN BLOCK:121\nDIMENSIONS (APPROX.): 150.00 X 26.46 X 151.04 X 32.50\nNEAREST CROSS STREET: RUTLEDGE AVENUE.\nIMPORTANT:\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nSHERIFF, KINDLY ADVERTISE THE FOLLOWING:\nGOOD FAITH ESTIMATED UPSET PRICE: $635,033.66\nOCCUPANCY STATUS:\nNON-OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1,",
+    "Property Note": "",
+    "Sales Date": "7/29/2026",
+    "Sheriff #": "F-26000218"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "543 NORTH GROVE STREET EAST ORANGE NJ 07017",
+    "defendant": "MG 543 N GROVE ST LLC, ET. AL",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1,",
+    "sale_date": "2026-07-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1,",
+  "property_note": null,
+  "sale_date": "2026-07-29",
+  "sheriff_number": "F-26000218",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-03-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Settled - Foreclosure"
+    }
+  ],
+  "upset_amount": 586099.89,
+  "upset_amount_label": "Approx. Upset*"
+}

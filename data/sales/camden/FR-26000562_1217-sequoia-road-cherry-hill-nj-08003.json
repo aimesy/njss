@@ -1,0 +1,53 @@
+{
+  "address": "1217 SEQUOIA ROAD CHERRY HILL NJ 08003",
+  "attorney": "PARKER MCCAY P.A.",
+  "attorney_phone": "(856) 596-8900",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01006525",
+  "current_status": "Scheduled",
+  "defendant": "ELIZABETH P. DERAGO; MRS. JOHN J. DERAGO, HIS WIFE; MR. DERAGO, HUSBAND OF ELIZABETH P. DERAGO,",
+  "extracted": {},
+  "fields": {
+    "Address": "1217 SEQUOIA ROAD\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$323,396.01",
+    "Attorney": "PARKER MCCAY P.A.",
+    "Attorney Phone": "(856) 596-8900",
+    "Court Case #": "F01006525",
+    "Defendant": "ELIZABETH P. DERAGO; MRS. JOHN J. DERAGO, HIS WIFE; MR. DERAGO,\nHUSBAND OF ELIZABETH P. DERAGO,",
+    "Parcel #": "TAX LOT # 54 bLOCK # 404.36",
+    "Plaintiff": "U.S. ANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY\nBUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST,",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "FR-26000562"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1217 SEQUOIA ROAD CHERRY HILL NJ 08003",
+    "defendant": "ELIZABETH P. DERAGO; MRS. JOHN J. DERAGO, HIS WIFE; MR. DERAGO, \nHUSBAND OF ELIZABETH P. DERAGO,",
+    "listing_status": null,
+    "plaintiff": "U.S. ANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY \nBUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST,",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT # 54 bLOCK # 404.36",
+  "plaintiff": "U.S. ANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "FR-26000562",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-12",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 323396.01,
+  "upset_amount_label": "Approx. Upset*"
+}

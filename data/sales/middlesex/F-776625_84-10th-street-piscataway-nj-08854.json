@@ -1,0 +1,68 @@
+{
+  "address": "84 10TH STREET PISCATAWAY NJ 08854",
+  "attorney": "DUANE MORRIS LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(212) 471-5100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00704423",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ERIC J. ZUPKO",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$35,569.87",
+    "Attorney": "DUANE MORRIS LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(212) 471-5100",
+    "Court Case #": "F00704423",
+    "Defendant": "ERIC J. ZUPKO",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 32.01 BLOCK 120",
+    "Plaintiff": "TD BANK, N.A. SUCCESSOR BY MERGER TO COMMERCE BANK, N.A.",
+    "Property Address": "84 10TH STREET\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "2/19/2025",
+    "Sheriff #": "F-776625"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 35569.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "84 10TH STREET PISCATAWAY NJ 08854",
+    "defendant": "ERIC J. ZUPKO",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "TD BANK, N.A. SUCCESSOR BY MERGER TO COMMERCE BANK, N.A.",
+    "sale_date": "2025-02-19"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 32.01 BLOCK 120",
+  "plaintiff": "TD BANK, N.A. SUCCESSOR BY MERGER TO COMMERCE BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-02-19",
+  "sheriff_number": "F-776625",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-02-12",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-01-22",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-12-18",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

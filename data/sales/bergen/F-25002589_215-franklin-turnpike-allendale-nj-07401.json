@@ -1,0 +1,55 @@
+{
+  "address": "215 FRANKLIN TURNPIKE ALLENDALE NJ 07401",
+  "attorney": "BROCK AND SCOTT PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01198822",
+  "current_status": "Cancelled",
+  "defendant": "DANIELLE GAWRYSIAK; PATRICK GAWRYSIAK, ET AL.",
+  "description": "THE OCCUPANCY STATUS OF THE PROPERTY IS OCCUPIED BY OWNER.\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS $494,691.31",
+  "extracted": {
+    "upset_amount": 494691.31
+  },
+  "fields": {
+    "Address": "215 FRANKLIN TURNPIKE\nALLENDALE NJ 07401",
+    "Approx. Upset*": "$416,388.91",
+    "Attorney": "BROCK AND SCOTT PLLC",
+    "Court Case #": "F01198822",
+    "Defendant": "DANIELLE GAWRYSIAK; PATRICK GAWRYSIAK, ET AL.",
+    "Description": "THE OCCUPANCY STATUS OF THE PROPERTY IS OCCUPIED BY OWNER.\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS $494,691.31",
+    "Parcel #": "LOT 23, BLOCK 2103",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "12/31/2025",
+    "Sheriff #": "F-25002589"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "215 FRANKLIN TURNPIKE ALLENDALE NJ 07401",
+    "defendant": "DANIELLE GAWRYSIAK; PATRICK GAWRYSIAK, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2025-12-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 23, BLOCK 2103",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-12-31",
+  "sheriff_number": "F-25002589",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-31",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 416388.91,
+  "upset_amount_label": "Approx. Upset*"
+}

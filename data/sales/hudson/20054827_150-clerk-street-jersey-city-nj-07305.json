@@ -1,0 +1,80 @@
+{
+  "address": "150 CLERK STREET JERSEY CITY NJ 07305",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011019-23",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "MYRLEEN R. HOPPIN A/K/A MYRLEEN HOPPIN; MIDLAND FUNDING LCC; CHRIST HOSPITAL",
+  "description": "TAX LOT 51 FKA 21 BLOCK 22702 FKA 2010\nDIMENSIONS OF LOT: 17.08 FEET WIDE BY 125 FEET LONG\nNEAREST CROSS STREET: CARTERET AVENUE\nESTIMATED UPSET BID AMOUNT: $195,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2026 QTR 2 DUE: 05/01/2026 $1,462.29 OPEN\nWATER: VEOLIA WATER NEW JERSEY - JCMUA 69 DEVOE PL. HACKENSACK, NJ 07601 800-422-5987 ACCT: 30302085540000 TO: 04/01/2026 $1,401.74 OPEN PLUS PENALTY\nLIENS: YEAR: 2025 TYPE: 3RD PARTY WATER AMOUNT: $937.01 CERT NO.: 2025-1266 SOLD: 12/17/2025 TO: PRO CAP 8 FBO FIRSTRUST BANK LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+  "extracted": {
+    "block": "22702",
+    "lot": "51",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "150 CLERK STREET\nJERSEY CITY NJ 07305",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-011019-23",
+    "Defendant": "MYRLEEN R. HOPPIN A/K/A MYRLEEN HOPPIN; MIDLAND FUNDING LCC; CHRIST HOSPITAL",
+    "Description": "TAX LOT 51 FKA 21 BLOCK 22702 FKA 2010\nDIMENSIONS OF LOT: 17.08 FEET WIDE BY 125 FEET LONG\nNEAREST CROSS STREET: CARTERET AVENUE\nESTIMATED UPSET BID AMOUNT: $195,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2026 QTR 2 DUE: 05/01/2026 $1,462.29 OPEN\nWATER: VEOLIA WATER NEW JERSEY - JCMUA 69 DEVOE PL. HACKENSACK, NJ 07601 800-422-5987 ACCT: 30302085540000 TO: 04/01/2026 $1,401.74 OPEN PLUS PENALTY\nLIENS: YEAR: 2025 TYPE: 3RD PARTY WATER AMOUNT: $937.01 CERT NO.: 2025-1266 SOLD: 12/17/2025 TO: PRO CAP 8 FBO FIRSTRUST BANK LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+    "Good Faith Upset*": "$195,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.",
+    "Judgment": "$174,896.74",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SOUNDVIEW HOME LOAN TRUST 2008-1, ASSET BACKED CERTIFICATES, SERIES 2008-1",
+    "Property Note": "",
+    "Sales Date": "7/14/2026",
+    "Sheriff #": "20054827"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 174896.74,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "150 CLERK STREET JERSEY CITY NJ 07305",
+    "defendant": "MYRLEEN R. HOPPIN A/K/A MYRLEEN HOPPIN; MIDLAND FUNDING LCC; CHRIST HOSPITAL",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SOUNDVIEW HOME LOAN TRUST 2008-1, ASSET BACKED CERTIFICATES, SERIES 2008-1",
+    "sale_date": "2026-07-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SOUNDVIEW HOME LOAN TRUST 2008-1, ASSET BACKED CERTIFICATES, SERIES 2008-1",
+  "property_note": null,
+  "sale_date": "2026-07-14",
+  "sheriff_number": "20054827",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-06-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Adjourned - Defendant 1st (4 weeks)"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2024-10-23",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-07-14",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 195000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

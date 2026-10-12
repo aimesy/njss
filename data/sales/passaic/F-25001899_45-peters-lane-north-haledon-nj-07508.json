@@ -1,0 +1,68 @@
+{
+  "address": "45 PETERS Lane North Haledon NJ 07508",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 005814 25 CTL# 163098",
+  "current_status": "Bankruptcy",
+  "defendant": "WILLIAM PANZERA ET ALS",
+  "description": "Dimensions (Approx.): 1.26 Acres\nNearest Cross Street: Belmont Ave.\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs Dennis Thiel (A-58-98)\nGood Faith Estimated Upset Price: $678,738.79\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 678738.79
+  },
+  "fields": {
+    "Address": "45 PETERS Lane\nNorth Haledon NJ 07508",
+    "Approx. Upset*": "$625,217.83",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 005814 25 CTL# 163098",
+    "Defendant": "WILLIAM PANZERA ET ALS",
+    "Description": "Dimensions (Approx.): 1.26 Acres\nNearest Cross Street: Belmont Ave.\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs Dennis Thiel (A-58-98)\nGood Faith Estimated Upset Price: $678,738.79\nOccupancy Status: Owner Occupied",
+    "Parcel #": "Tax Lot (s): 19 Block: 31",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON",
+    "Property Note": "",
+    "Sales Date": "6/23/2026",
+    "Sheriff #": "F-25001899"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "45 PETERS Lane North Haledon NJ 07508",
+    "defendant": "WILLIAM PANZERA ET ALS",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON",
+    "sale_date": "2026-06-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot (s): 19 Block: 31",
+  "plaintiff": "THE BANK OF NEW YORK MELLON",
+  "property_note": null,
+  "sale_date": "2026-06-23",
+  "sheriff_number": "F-25001899",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-03-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-05-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 625217.83,
+  "upset_amount_label": "Approx. Upset*"
+}

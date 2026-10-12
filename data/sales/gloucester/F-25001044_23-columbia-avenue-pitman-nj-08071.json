@@ -1,0 +1,72 @@
+{
+  "address": "23 COLUMBIA AVENUE PITMAN NJ 08071",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-001113-25",
+  "current_status": "Plaintiff Adjourned to",
+  "defendant": "CHRISTOPHER MAZZOLA; ET AL.",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $160,671.36\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 160671.36
+  },
+  "fields": {
+    "Address": "23 COLUMBIA AVENUE\nPITMAN NJ 08071",
+    "Approximate Judgment": "$147,379.91",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-001113-25",
+    "Defendant": "CHRISTOPHER MAZZOLA; ET AL.",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $160,671.36\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT: 5 BLOCK: 61",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE CABANA SERIES III TRUST",
+    "Property Note": "BOROUGH OF PITMAN\nCOUNTY OF GLOUCESTER\n23 COLUMBIA AVENUE PITMAN, NJ 08071\nLOT: 5 BLOCK: 61\nAPPROXIMATE DIMENSIONS: 160 X 50\nNEAREST CROSS STREET: SOUTH BROADWAY\nGOOD FAITH ESTIMATED UPSET PRICE: $160,671.36\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "F-25001044"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 147379.91,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "23 COLUMBIA AVENUE PITMAN NJ 08071",
+    "defendant": "CHRISTOPHER MAZZOLA; ET AL.",
+    "listing_status": "Plaintiff Adjourned to",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE CABANA SERIES III TRUST",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": "Plaintiff Adjourned to",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 5 BLOCK: 61",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE CABANA SERIES III TRUST",
+  "property_note": "BOROUGH OF PITMAN\nCOUNTY OF GLOUCESTER\n23 COLUMBIA AVENUE PITMAN, NJ 08071\nLOT: 5 BLOCK: 61\nAPPROXIMATE DIMENSIONS: 160 X 50\nNEAREST CROSS STREET: SOUTH BROADWAY\nGOOD FAITH ESTIMATED UPSET PRICE: $160,671.36\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-04-01",
+  "sheriff_number": "F-25001044",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-11-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Settled - Foreclosures"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Adjourned to"
+    }
+  ]
+}

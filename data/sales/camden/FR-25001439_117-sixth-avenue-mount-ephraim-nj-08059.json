@@ -1,0 +1,61 @@
+{
+  "address": "117 SIXTH AVENUE MOUNT EPHRAIM NJ 08059",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00337922",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ANTHONY J. DISARIO; AMY B. DISARIO; THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK, AS THE TRUSTEE FOR THE BENEFIT OF THE CERTIFICATE HOLDERS OF THE CWHEQ INC., HOME EQUITY LOAN ASSET-BACKED CERTIFICATES, SERIES 2006-S2; MIDLAND FUNDING LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "117 SIXTH AVENUE\nMOUNT EPHRAIM NJ 08059",
+    "Approx. Upset*": "$298,722.46",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00337922",
+    "Defendant": "ANTHONY J. DISARIO; AMY B. DISARIO; THE BANK OF NEW YORK MELLON F/K/A\nTHE BANK OF NEW YORK, AS THE TRUSTEE FOR THE BENEFIT OF THE\nCERTIFICATE HOLDERS OF THE CWHEQ INC., HOME EQUITY LOAN\nASSET-BACKED CERTIFICATES, SERIES 2006-S2; MIDLAND FUNDING LLC",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR\n-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,\nFOR THE HOLDERS OF THE CIM TRUST 2019-R4, MORTGAGE-BACKED NOTES,\nSERIES 2019-R4,",
+    "Property Note": "",
+    "Sales Date": "11/5/2025",
+    "Sheriff #": "FR-25001439"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "117 SIXTH AVENUE MOUNT EPHRAIM NJ 08059",
+    "defendant": "ANTHONY J. DISARIO; AMY B. DISARIO; THE BANK OF NEW YORK MELLON F/K/A \nTHE BANK OF NEW YORK, AS THE TRUSTEE FOR THE BENEFIT OF THE \n CERTIFICATE HOLDERS OF THE CWHEQ INC., HOME EQUITY LOAN \nASSET-BACKED CERTIFICATES, SERIES 2006-S2; MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR \n-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE, \nFOR THE HOLDERS OF THE CIM TRUST 2019-R4, MORTGAGE-BACKED NOTES, \nSERIES 2019-R4,",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR -IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2019-R4, MORTGAGE-BACKED NOTES, SERIES 2019-R4,",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "FR-25001439",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 298722.46,
+  "upset_amount_label": "Approx. Upset*"
+}

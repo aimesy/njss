@@ -1,0 +1,68 @@
+{
+  "address": "15 Deer Path West Milford NJ 07480",
+  "attorney": "Hill Wallack, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003439 23 CTL# 163037",
+  "current_status": "Cancelled",
+  "defendant": "BRYAN LESENKO, ET AL",
+  "description": "Occupancy Status: Vacant\non the Tax Map of the Township of West Milford\nNearest Cross Street: Approximately 234.92ft to the nearest cross street known as Pheasant Lane\nApproximate Dimensions: 90.18ft x 66.55ft x 98.58ft x 58.29ft\nBeing more commonly known as:\n15 Deer Path\nWest Milford, New Jersey 07480\nThe full legal description can be found in the Office of the Clerk of Passaic County in Deed Book D1940, at Page 131\nAPPROXIMATE UPSET PRICE IS $312,762.29 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated July 22, 2025.\nSubject to: 2025 3rd quarter taxes due 8/1/2025, $1,539.00 OPEN; ESTIMATED TAX BILL\n2025 4th quarter taxes due 11/1/2025, TO BE DETERMINED",
+  "extracted": {
+    "occupancy": "Vacant",
+    "upset_amount": 312762.29
+  },
+  "fields": {
+    "Address": "15 Deer Path\nWest Milford NJ 07480",
+    "Approx. Upset*": "$259,111.83",
+    "Attorney": "Hill Wallack, LLP",
+    "Court Case #": "F 003439 23 CTL# 163037",
+    "Defendant": "BRYAN LESENKO, ET AL",
+    "Description": "Occupancy Status: Vacant\non the Tax Map of the Township of West Milford\nNearest Cross Street: Approximately 234.92ft to the nearest cross street known as Pheasant Lane\nApproximate Dimensions: 90.18ft x 66.55ft x 98.58ft x 58.29ft\nBeing more commonly known as:\n15 Deer Path\nWest Milford, New Jersey 07480\nThe full legal description can be found in the Office of the Clerk of Passaic County in Deed Book D1940, at Page 131\nAPPROXIMATE UPSET PRICE IS $312,762.29 FOR THE SHERIFF'S SALE\nPursuant to a municipal tax search dated July 22, 2025.\nSubject to: 2025 3rd quarter taxes due 8/1/2025, $1,539.00 OPEN; ESTIMATED TAX BILL\n2025 4th quarter taxes due 11/1/2025, TO BE DETERMINED",
+    "Parcel #": "Lot 4 Block: 12203",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "3/2/2026",
+    "Sheriff #": "F-25001442"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "15 Deer Path West Milford NJ 07480",
+    "defendant": "BRYAN LESENKO, ET AL",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "sale_date": "2026-03-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 4 Block: 12203",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-02",
+  "sheriff_number": "F-25001442",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-25",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 259111.83,
+  "upset_amount_label": "Approx. Upset*"
+}

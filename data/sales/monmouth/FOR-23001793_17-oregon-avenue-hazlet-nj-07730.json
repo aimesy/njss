@@ -1,0 +1,81 @@
+{
+  "address": "17 Oregon Avenue Hazlet NJ 07730",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F4994414",
+  "current_status": "Scheduled",
+  "defendant": "Antoinette Lohsen, et als",
+  "description": "Dimension of Lot Approximately: 75 X 100.1721 ACRES\nNearest Cross Street: Raritan Road\nKNOWN, AS LOT NO. 22 IN BLOCK A ON \"MAP OF RARITAN RIDGE ESTATES, RARITAN TOWNSHIP, MONMOUTH COUNTY, NEW JERSEY\" DATED JULY 1955 AND PREPARED BY CRAIG FINNEGAN, ENGINEER AND SURVEYOR OF BELFORD, NEW JERSEY, WHICH MAP WAS FILED IN THE OFFICE OF THE CLERK OF MONMOJTH COUNY ON NOVEMBER 30, 1986 AS CASE NO. 56-25\nPRIOR LIENS/ENCUMBRANCES\n2nd QTR TAXES OPEN PLUS PENALTY $2,767.55\nSEWER OPEN AND DUE $99.00\nSEWER OPEN PLUS PENALTY $154.69\nTOTAL AS OF June 18,2025: $3,021.24\nGood faith estimate of upset price: $277,304.55\nThe occupancy status of the property being foreclosed herein is presently Unknown.",
+  "extracted": {
+    "block": "A",
+    "lot": "Approximately",
+    "upset_amount": 277304.55
+  },
+  "fields": {
+    "Address": "17 Oregon Avenue\nHazlet NJ 07730",
+    "Approx. Judgment*": "$237,217.20",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F4994414",
+    "Defendant": "Antoinette Lohsen, et als",
+    "Description": "Dimension of Lot Approximately: 75 X 100.1721 ACRES\nNearest Cross Street: Raritan Road\nKNOWN, AS LOT NO. 22 IN BLOCK A ON \"MAP OF RARITAN RIDGE ESTATES, RARITAN TOWNSHIP, MONMOUTH COUNTY, NEW JERSEY\" DATED JULY 1955 AND PREPARED BY CRAIG FINNEGAN, ENGINEER AND SURVEYOR OF BELFORD, NEW JERSEY, WHICH MAP WAS FILED IN THE OFFICE OF THE CLERK OF MONMOJTH COUNY ON NOVEMBER 30, 1986 AS CASE NO. 56-25\nPRIOR LIENS/ENCUMBRANCES\n2nd QTR TAXES OPEN PLUS PENALTY $2,767.55\nSEWER OPEN AND DUE $99.00\nSEWER OPEN PLUS PENALTY $154.69\nTOTAL AS OF June 18,2025: $3,021.24\nGood faith estimate of upset price: $277,304.55\nThe occupancy status of the property being foreclosed herein is presently Unknown.",
+    "Parcel #": "Tax Lot No. 26 in Block No. 119 Tax Map of the Township of Hazlet",
+    "Plaintiff": "The Bank of New York Mellon, F/K/A The Bank of New York as Successor-In-Interest To JPMorgan Chase Bank, N.A. as Trustee for Bear Sterns Asset Bank Securities Trust 2006-SD2 Asset-Backed Certificates, Series 2006-SD2",
+    "Property Note": "",
+    "Sales Date": "9/8/2025",
+    "Sheriff #": "FOR-23001793"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 237217.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "17 Oregon Avenue Hazlet NJ 07730",
+    "defendant": "Antoinette Lohsen, et als",
+    "listing_status": "Canceled",
+    "plaintiff": "The Bank of New York Mellon, F/K/A The Bank of New York as Successor-In-Interest To JPMorgan Chase Bank, N.A. as Trustee for Bear Sterns Asset Bank Securities Trust 2006-SD2 Asset-Backed Certificates, Series 2006-SD2",
+    "sale_date": "2025-09-08"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 26 in Block No. 119 Tax Map of the Township of Hazlet",
+  "plaintiff": "The Bank of New York Mellon, F/K/A The Bank of New York as Successor-In-Interest To JPMorgan Chase Bank, N.A. as Trustee for Bear Sterns Asset Bank Securities Trust 2006-SD2 Asset-Backed Certificates, Series 2006-SD2",
+  "property_note": null,
+  "sale_date": "2025-09-08",
+  "sheriff_number": "FOR-23001793",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-08",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-01-02",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-01-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-11-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-10-30",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "address": "25 LAKEVIEW DRIVE EMERSON NJ 07630",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00261124",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "GEORGE R. FILCHAK; EXECUTOR OF THE ESTATE OF JOAN H. FILCHAK AND CO-TRUSTEE OF THE FILCHAK FAMILY TRUST DATED JUNE 16, 1998, ET AL.",
+  "description": "UPSET PRICE: APPROXIMATELY: $87,433.00 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN",
+    "upset_amount": 87433.0
+  },
+  "fields": {
+    "Address": "25 LAKEVIEW DRIVE\nEMERSON NJ 07630",
+    "Approx. Upset*": "$91,547.52",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+    "Court Case #": "F00261124",
+    "Defendant": "GEORGE R. FILCHAK; EXECUTOR OF THE ESTATE OF JOAN H. FILCHAK AND CO-TRUSTEE OF THE FILCHAK FAMILY TRUST DATED JUNE 16, 1998, ET AL.",
+    "Description": "UPSET PRICE: APPROXIMATELY: $87,433.00 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 3, BLOCK 1303",
+    "Plaintiff": "BANK OF AMERICA, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "F-25002964"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "25 LAKEVIEW DRIVE EMERSON NJ 07630",
+    "defendant": "GEORGE R. FILCHAK; EXECUTOR OF THE ESTATE OF JOAN H. FILCHAK AND CO-TRUSTEE OF THE FILCHAK FAMILY TRUST DATED JUNE 16, 1998, ET AL.",
+    "listing_status": null,
+    "plaintiff": "BANK OF AMERICA, N.A.",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, BLOCK 1303",
+  "plaintiff": "BANK OF AMERICA, N.A.",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "F-25002964",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 91547.52,
+  "upset_amount_label": "Approx. Upset*"
+}

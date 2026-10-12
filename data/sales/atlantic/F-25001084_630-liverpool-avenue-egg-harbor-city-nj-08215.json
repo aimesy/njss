@@ -1,0 +1,74 @@
+{
+  "address": "630 Liverpool Avenue Egg Harbor City NJ 08215",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005082-25",
+  "current_status": "Scheduled",
+  "deed": "Tarek Gad, Omar Hassanein",
+  "deed_address": "132 Treetop Lane, Egg Harbor Twp, NJ 08234",
+  "defendant": "James J. Mason Jr. a/k/a James Mason Jr.; State of New Jersey; Camden County Board of Social Services; County of Middlesex and the United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "630 Liverpool Avenue\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$97,265.74",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-005082-25",
+    "Deed": "Tarek Gad, Omar Hassanein",
+    "Deed Address": "132 Treetop Lane, Egg Harbor Twp, NJ 08234",
+    "Defendant": "James J. Mason Jr. a/k/a James Mason Jr.; State of New Jersey; Camden County Board of Social Services; County of Middlesex and the United States of America",
+    "Plaintiff": "Truist Bank, successor by merger to SunTrust Bank",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "6/18/2026",
+    "Sheriff #": "F-25001084",
+    "Upset Amount": "$165,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 97265.74,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "630 Liverpool Avenue Egg Harbor City NJ 08215",
+    "defendant": "James J. Mason Jr. a...",
+    "listing_status": null,
+    "plaintiff": "Truist Bank, success...",
+    "sale_date": "2026-06-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Truist Bank, successor by merger to SunTrust Bank",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2026-06-18",
+  "sheriff_number": "F-25001084",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-06-18",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 165000.0,
+  "upset_amount_label": "Upset Amount"
+}

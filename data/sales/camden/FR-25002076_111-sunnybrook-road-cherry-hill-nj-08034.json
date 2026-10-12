@@ -1,0 +1,73 @@
+{
+  "address": "111 SUNNYBROOK ROAD CHERRY HILL NJ 08034",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00496725",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "SHEVELLE MCPHERSON,",
+  "extracted": {},
+  "fields": {
+    "Address": "111 SUNNYBROOK ROAD\nCHERRY HILL NJ 08034",
+    "Approx. Upset*": "$303,341.99",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00496725",
+    "Defendant": "SHEVELLE MCPHERSON,",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT INDIVIDUALLY, BUT SOLELY\nAS TRUSTEE FOR RESIDENTIAL MORTGAGE AGGREGATION TRUST,",
+    "Property Note": "",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-25002076"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "111 SUNNYBROOK ROAD CHERRY HILL NJ 08034",
+    "defendant": "SHEVELLE MCPHERSON,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT INDIVIDUALLY, BUT SOLELY \nAS TRUSTEE FOR RESIDENTIAL MORTGAGE AGGREGATION TRUST,",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT INDIVIDUALLY, BUT SOLELY AS TRUSTEE FOR RESIDENTIAL MORTGAGE AGGREGATION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-25002076",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-26",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 303341.99,
+  "upset_amount_label": "Approx. Upset*"
+}

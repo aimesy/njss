@@ -1,0 +1,72 @@
+{
+  "address": "98 Hockhockson Road Colts Neck NJ 07722",
+  "attorney": "Holland & Knight",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00776122",
+  "current_status": "Scheduled",
+  "defendant": "Yong Liu, et al",
+  "description": "The dimensions are approximately: 11.8200 acres\nNearest cross street: County Rd 537\nThe property is Occupied.\nThe Good Faith Estimate amount of the Upset Bid as of August 18, 2025 is $4,966,167.65 plus post-judgment interest through the date of the sale.\nPrior lien(s): That certain mortgage recorded on April 28, 2005 in the Office of the Clerk of Monmouth County as Instrument Number 2005065740, Book: OR-8456, Page: 1335\nThis concise description is provided pursuant to N.J.S.A. 2A:61-1 and does not constitute a full legal description of the premises. A full legal description of the premises can be found on the map entitled \"Minor Subdivision Plat, Lot 2 Block 50\" filed in the Monmouth County Clerk's Office on April 21, 1986 on Map No. 207-19.",
+  "extracted": {
+    "block": "50",
+    "lot": "2"
+  },
+  "fields": {
+    "Address": "98 Hockhockson Road\nColts Neck NJ 07722",
+    "Approx. Judgment*": "$4,737,404.81",
+    "Attorney": "Holland & Knight",
+    "Court Case #": "F00776122",
+    "Defendant": "Yong Liu, et al",
+    "Description": "The dimensions are approximately: 11.8200 acres\nNearest cross street: County Rd 537\nThe property is Occupied.\nThe Good Faith Estimate amount of the Upset Bid as of August 18, 2025 is $4,966,167.65 plus post-judgment interest through the date of the sale.\nPrior lien(s): That certain mortgage recorded on April 28, 2005 in the Office of the Clerk of Monmouth County as Instrument Number 2005065740, Book: OR-8456, Page: 1335\nThis concise description is provided pursuant to N.J.S.A. 2A:61-1 and does not constitute a full legal description of the premises. A full legal description of the premises can be found on the map entitled \"Minor Subdivision Plat, Lot 2 Block 50\" filed in the Monmouth County Clerk's Office on April 21, 1986 on Map No. 207-19.",
+    "Parcel #": "Lot 2.01 & 2.01 Q Block 50 Tax Map of Township of Colts Neck",
+    "Plaintiff": "LF Collateral SPV IV, LLC",
+    "Property Note": "",
+    "Sales Date": "8/18/2025",
+    "Sheriff #": "FOR-24002345"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 4737404.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "98 Hockhockson Road Colts Neck NJ 07722",
+    "defendant": "Yong Liu, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "LF Collateral SPV IV, LLC",
+    "sale_date": "2025-08-18"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 2.01 & 2.01 Q Block 50 Tax Map of Township of Colts Neck",
+  "plaintiff": "LF Collateral SPV IV, LLC",
+  "property_note": null,
+  "sale_date": "2025-08-18",
+  "sheriff_number": "FOR-24002345",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-08-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Scheduled"
+    }
+  ]
+}

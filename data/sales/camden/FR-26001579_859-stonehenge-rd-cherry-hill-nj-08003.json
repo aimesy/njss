@@ -1,0 +1,61 @@
+{
+  "address": "859 STONEHENGE RD CHERRY HILL NJ 08003",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00934025",
+  "current_status": "Court Adjournment",
+  "defendant": "JODI SPAGNOLIA, EXECUTRIX OF THE ESTATE OF DANIELLE SPAGNOLIA, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "859 STONEHENGE RD\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$30,407.04",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00934025",
+    "Defendant": "JODI SPAGNOLIA, EXECUTRIX OF THE ESTATE OF DANIELLE SPAGNOLIA, ET AL.",
+    "Parcel #": "Lot 2, Block 513.46",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL\nASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A.\nAS SUCCESSOR TO JPMORGAN CHASE BANK, N.A. AS TRUSTEE FOR\nRESIDENTIAL ASSET MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2006-RP2",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26001579"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "859 STONEHENGE RD CHERRY HILL NJ 08003",
+    "defendant": "JODI SPAGNOLIA, EXECUTRIX OF THE ESTATE OF DANIELLE SPAGNOLIA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL \nASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A. \nAS SUCCESSOR TO JPMORGAN CHASE BANK, N.A. AS TRUSTEE FOR \nRESIDENTIAL ASSET MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2006-RP2",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 2, Block 513.46",
+  "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A. AS SUCCESSOR TO JPMORGAN CHASE BANK, N.A. AS TRUSTEE FOR RESIDENTIAL ASSET MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2006-RP2",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26001579",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 30407.04,
+  "upset_amount_label": "Approx. Upset*"
+}

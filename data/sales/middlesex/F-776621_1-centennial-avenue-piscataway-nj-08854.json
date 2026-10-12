@@ -1,0 +1,64 @@
+{
+  "address": "1 CENTENNIAL AVENUE PISCATAWAY NJ 08854",
+  "attorney": "MASELLI MILLS & FORNAL PC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-330-6200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00418624",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "IMARC PROPERTIES L.L.C.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$20,862,810.27",
+    "Attorney": "MASELLI MILLS & FORNAL PC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-330-6200",
+    "Court Case #": "F00418624",
+    "Defendant": "IMARC PROPERTIES L.L.C.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT NO. 3.01 C0006 BLOCK NO. 6701",
+    "Plaintiff": "CROWN BANK",
+    "Property Address": "1 CENTENNIAL AVENUE\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "10/1/2025",
+    "Sheriff #": "F-776621"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 20862810.27,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1 CENTENNIAL AVENUE PISCATAWAY NJ 08854",
+    "defendant": "IMARC PROPERTIES L.L.C.",
+    "listing_status": "Cancelled",
+    "plaintiff": "CROWN BANK",
+    "sale_date": "2025-10-01"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT NO. 3.01 C0006 BLOCK NO. 6701",
+  "plaintiff": "CROWN BANK",
+  "property_note": null,
+  "sale_date": "2025-10-01",
+  "sheriff_number": "F-776621",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-01-22",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-12-18",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

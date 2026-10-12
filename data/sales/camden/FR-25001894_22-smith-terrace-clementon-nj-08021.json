@@ -1,0 +1,61 @@
+{
+  "address": "22 SMITH TERRACE CLEMENTON NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00467925",
+  "current_status": "Bankruptcy",
+  "defendant": "PEGGY ELAINE MOORE, AS INDIVIDUALLY AND ADMINISTRATRIX TO THE ESTATE OF JAMES A. MOORE A/K/A JAMES MOORE JR.; SHEILINA D. SMITH A/K/A SHELINA SMITH A/K/A SHEILINA MOORE A/K/A SHEILINA D. MOORE; ALICE A. BAKER, INC D/B/A LITTLE MOTORS; VIRTUA WEST JERSEY HEALTH SYSTEMS; PALISADES COLLECTION LLC; NEW CENTURY FINANCIAL SERVICES; STATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "22 SMITH TERRACE\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$75,722.47",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00467925",
+    "Defendant": "PEGGY ELAINE MOORE, AS INDIVIDUALLY AND ADMINISTRATRIX TO THE ESTATE OF\nJAMES A. MOORE A/K/A JAMES MOORE JR.; SHEILINA D. SMITH A/K/A SHELINA SMITH\nA/K/A SHEILINA MOORE A/K/A SHEILINA D. MOORE; ALICE A. BAKER, INC D/B/A LITTLE\nMOTORS; VIRTUA WEST JERSEY HEALTH SYSTEMS; PALISADES COLLECTION LLC;\nNEW CENTURY FINANCIAL SERVICES; STATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, N.A.,",
+    "Property Note": "",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "FR-25001894"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "22 SMITH TERRACE CLEMENTON NJ 08021",
+    "defendant": "PEGGY ELAINE MOORE, AS INDIVIDUALLY AND ADMINISTRATRIX TO THE ESTATE OF \nJAMES A. MOORE A/K/A JAMES MOORE JR.; SHEILINA D. SMITH A/K/A SHELINA SMITH \n A/K/A SHEILINA MOORE A/K/A SHEILINA D. MOORE; ALICE A. BAKER, INC D/B/A LITTLE \nMOTORS; VIRTUA WEST JERSEY HEALTH SYSTEMS; PALISADES COLLECTION LLC; \nNEW CENTURY FINANCIAL SERVICES; STATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.,",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, N.A.,",
+  "property_note": null,
+  "sale_date": "2026-04-01",
+  "sheriff_number": "FR-25001894",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 75722.47,
+  "upset_amount_label": "Approx. Upset*"
+}

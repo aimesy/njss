@@ -1,0 +1,73 @@
+{
+  "address": "12 BLUE SPRUCE DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "STERN & EISENBERG, PC",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01074717",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "JESSE BARRON, JR., ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "12 BLUE SPRUCE DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$817,067.24",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F01074717",
+    "Defendant": "JESSE BARRON, JR., ET AL.",
+    "Parcel #": "TAX LOT # 6 Block # 17904",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF\nNEW YORK AS SUCCESSOR IN INTEREST TO JPMORGAN\nCHASE BANK, N.A. AS TRUSTEE FOR NOVASTAR MORTGAGE\nFUNDING TRUST, SERIES 2005-1, NOVASTAR HOME\nEQUITY LOAN ASSET-BACKED CERTIFICATES, SERIES 2005-1",
+    "Property Note": "SUBJECT TO ADDITIONAL ADVANCES MADE BY PLAINTIFF FOR TAXES, INSURANCE, INSPECTIONS,\nETC., AFTER FINAL JUDGMENT WAS ENTERED. THE AMOUNT ADVANCED WAS $86,368.34 AND THE PLAINTIFF HAS OBTAINED AN ORDER TO BE REIMBURSED FOR THESE MONIES OR TO MAKE FIRST CLAIM FOR ANY SURPLUS MONIES REALIZED FROM THIS SALE.\nTaxes current through 2nd Quarter of 2026\nWater/Sewer – Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nThis sale is subject to the right of redemption of the federal government",
+    "Sales Date": "9/2/2026",
+    "Sheriff #": "FR-23002931"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 BLUE SPRUCE DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "JESSE BARRON, JR., ET AL.",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF \nNEW YORK AS SUCCESSOR IN INTEREST TO JPMORGAN \nCHASE BANK, N.A. AS TRUSTEE FOR NOVASTAR MORTGAGE \nFUNDING TRUST, SERIES 2005-1, NOVASTAR HOME \nEQUITY LOAN ASSET-BACKED CERTIFICATES, SERIES 2005-1",
+    "sale_date": "2026-09-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT # 6 Block # 17904",
+  "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK AS SUCCESSOR IN INTEREST TO JPMORGAN CHASE BANK, N.A. AS TRUSTEE FOR NOVASTAR MORTGAGE FUNDING TRUST, SERIES 2005-1, NOVASTAR HOME EQUITY LOAN ASSET-BACKED CERTIFICATES, SERIES 2005-1",
+  "property_note": "SUBJECT TO ADDITIONAL ADVANCES MADE BY PLAINTIFF FOR TAXES, INSURANCE, INSPECTIONS,\nETC., AFTER FINAL JUDGMENT WAS ENTERED. THE AMOUNT ADVANCED WAS $86,368.34 AND THE PLAINTIFF HAS OBTAINED AN ORDER TO BE REIMBURSED FOR THESE MONIES OR TO MAKE FIRST CLAIM FOR ANY SURPLUS MONIES REALIZED FROM THIS SALE.\nTaxes current through 2nd Quarter of 2026\nWater/Sewer – Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nThis sale is subject to the right of redemption of the federal government",
+  "sale_date": "2026-09-02",
+  "sheriff_number": "FR-23002931",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-01-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-02-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 817067.24,
+  "upset_amount_label": "Approx. Upset*"
+}

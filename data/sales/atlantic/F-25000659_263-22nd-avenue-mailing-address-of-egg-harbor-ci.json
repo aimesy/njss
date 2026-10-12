@@ -1,0 +1,70 @@
+{
+  "address": "263 22nd Avenue (Mailing address of Egg Harbor City) Mullica Township NJ 08217",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011405-24",
+  "current_status": "Scheduled",
+  "deed": "Ahasan Realty LLC",
+  "deed_address": "410 Montrose Lane Galloway, NJ 08205",
+  "defendant": "Thomas J. Oliver III; Dawn Oliver; Shore Medical Center; Allens Oil & Propane Inc; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "263 22nd Avenue\n(Mailing address of Egg Harbor City)\nMullica Township NJ 08217",
+    "Approx. Judgment*": "$326,552.81",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-011405-24",
+    "Deed": "Ahasan Realty LLC",
+    "Deed Address": "410 Montrose Lane Galloway, NJ 08205",
+    "Defendant": "Thomas J. Oliver III; Dawn Oliver; Shore Medical Center; Allens Oil & Propane Inc; State of New Jersey",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/6/2025",
+    "Sheriff #": "F-25000659",
+    "Upset Amount": "$171,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 326552.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "263 22nd Avenue (Mailing address of Egg Harbor City) Mullica Township NJ 08217",
+    "defendant": "Thomas J. Oliver III...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-11-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-11-06",
+  "sheriff_number": "F-25000659",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-11-06",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-11-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-10-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-09-11",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-08-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 171000.0,
+  "upset_amount_label": "Upset Amount"
+}

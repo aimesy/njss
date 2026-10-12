@@ -1,0 +1,53 @@
+{
+  "address": "5 CAMBRIDGE AVE SICKLERVILLE NJ 08081",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00376525",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "TIMOTHY A. HALL A/K/A TIMOTHY ALLEN HALL, HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTERREST; ELEISE GILCHRIST; HELENA HALL; LAVERN TAYLOR ; UNITED STATES OF AMERICA; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "5 CAMBRIDGE AVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$213,570.59",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00376525",
+    "Defendant": "TIMOTHY A. HALL A/K/A TIMOTHY ALLEN HALL, HIS/HER HEIRS,\nDEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS,\nTHEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND\nINTERREST; ELEISE GILCHRIST; HELENA HALL; LAVERN TAYLOR ;\nUNITED STATES OF AMERICA; STATE OF NEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25002174"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "5 CAMBRIDGE AVE SICKLERVILLE NJ 08081",
+    "defendant": "TIMOTHY A. HALL A/K/A TIMOTHY ALLEN HALL, HIS/HER HEIRS, \nDEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, \nTHEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND \nINTERREST; ELEISE GILCHRIST; HELENA HALL; LAVERN TAYLOR ; \nUNITED STATES OF AMERICA; STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25002174",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 213570.59,
+  "upset_amount_label": "Approx. Upset*"
+}

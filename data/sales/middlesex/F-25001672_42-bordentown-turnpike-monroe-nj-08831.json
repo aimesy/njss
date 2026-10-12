@@ -1,0 +1,72 @@
+{
+  "address": "42 BORDENTOWN TURNPIKE MONROE NJ 08831",
+  "attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 325-8800",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01016524",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "BETH ZAVADSKY",
+  "description": "42 BOREDENTOWN TURNPIKE\nMONROE, NJ 08831",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$383,702.34",
+    "Attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F01016524",
+    "Defendant": "BETH ZAVADSKY",
+    "Description": "42 BOREDENTOWN TURNPIKE\nMONROE, NJ 08831",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2 & 3 BLOCK 96",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS OF THE CWMBS INC., CHL MORTGAGE PASS-THROUGH TRUST 2006-HYB5, MORTGAGE PASS THROUGH CERTIFICATES, SERIES 2006-HYB5",
+    "Property Address": "42 BORDENTOWN TURNPIKE\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "1/7/2026",
+    "Sheriff #": "F-25001672"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 383702.34,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "42 BORDENTOWN TURNPIKE MONROE NJ 08831",
+    "defendant": "BETH ZAVADSKY",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS OF THE CWMBS INC., CHL MORTGAGE PASS-THROUGH TRUST 2006-HYB5, MORTGAGE PASS THROUGH CERTIFICATES, SERIES 2006-HYB5",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2 & 3 BLOCK 96",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATE HOLDERS OF THE CWMBS INC., CHL MORTGAGE PASS-THROUGH TRUST 2006-HYB5, MORTGAGE PASS THROUGH CERTIFICATES, SERIES 2006-HYB5",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25001672",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,72 @@
+{
+  "address": "119 Chestnut Avenue Mailing address 119 Chestnut Avenue, Atlantic Highlands, NJ, 07716 Middletown NJ 07748",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00170525",
+  "current_status": "Scheduled",
+  "defendant": "Sidehill Holdings, LLC; Kevin G Cox;",
+  "description": "Dimensions: Approximately: 116X67\nUpset Price: Appoximately: $77,546.11 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Brook Avenue\nBeginning at the intersection point of the southerly side of Chestnut Avenue with the easterly side of Brook Avenue(This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 11/25/2025; 2025 Qtr. 2 Due: 05/01/2025 $1,876.12 BILLED; $1,874.55 OPEN PLUS PENALTY; $1.57 PAID, 2025 Qtr. 3 Due: 08/01/2025 $2,405.82 OPEN PLUS PENALTY, 2025 Qtr 4 Due: 11/01/2025 $2,405.81 OPEN PLUS PENALTY, 2026 Qtr 1 Due: 02/01/2026 $2,140.97 OPEN. Sewer Acct: 21902 0 11/01/2025 – 01/31/2026 $120.00 OPEN AND DUE 01/31/2026 $1,036.33 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVATE. General Remark: SUBJECT TO TAX SALE 12/17/2025. SUBJECT TO ADDITIONAL FEES. For sale information, please visit Auction.com at www. Auction.com or call (800) 280.2832.",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 77546.11
+  },
+  "fields": {
+    "Address": "119 Chestnut Avenue\nMailing address 119 Chestnut Avenue, Atlantic Highlands, NJ, 07716\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$78,616.58",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F00170525",
+    "Defendant": "Sidehill Holdings, LLC; Kevin G Cox;",
+    "Description": "Dimensions: Approximately: 116X67\nUpset Price: Appoximately: $77,546.11 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Brook Avenue\nBeginning at the intersection point of the southerly side of Chestnut Avenue with the easterly side of Brook Avenue(This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 11/25/2025; 2025 Qtr. 2 Due: 05/01/2025 $1,876.12 BILLED; $1,874.55 OPEN PLUS PENALTY; $1.57 PAID, 2025 Qtr. 3 Due: 08/01/2025 $2,405.82 OPEN PLUS PENALTY, 2025 Qtr 4 Due: 11/01/2025 $2,405.81 OPEN PLUS PENALTY, 2026 Qtr 1 Due: 02/01/2026 $2,140.97 OPEN. Sewer Acct: 21902 0 11/01/2025 – 01/31/2026 $120.00 OPEN AND DUE 01/31/2026 $1,036.33 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVATE. General Remark: SUBJECT TO TAX SALE 12/17/2025. SUBJECT TO ADDITIONAL FEES. For sale information, please visit Auction.com at www. Auction.com or call (800) 280.2832.",
+    "Parcel #": "Lot and Block: Lot 1 fka 12, Block 700 fka 1324 Tax Map Of Township of Middletown",
+    "Plaintiff": "Bank of America, N.A.",
+    "Property Note": "",
+    "Sales Date": "6/8/2026",
+    "Sheriff #": "FOR-25002456"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 78616.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "119 Chestnut Avenue Mailing address 119 Chestnut Avenue, Atlantic Highlands, NJ, 07716 Middletown NJ 07748",
+    "defendant": "Sidehill Holdings, LLC; Kevin G Cox;",
+    "listing_status": "Settled",
+    "plaintiff": "Bank of America, N.A.",
+    "sale_date": "2026-06-08"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 1 fka 12, Block 700 fka 1324 Tax Map Of Township of Middletown",
+  "plaintiff": "Bank of America, N.A.",
+  "property_note": null,
+  "sale_date": "2026-06-08",
+  "sheriff_number": "FOR-25002456",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-06-08",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-05-11",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    }
+  ]
+}

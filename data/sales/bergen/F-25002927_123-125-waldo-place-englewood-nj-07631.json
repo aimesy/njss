@@ -1,0 +1,56 @@
+{
+  "address": "123-125 WALDO PLACE ENGLEWOOD NJ 07631",
+  "attorney": "STERN AND EISENBERG PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01050624",
+  "current_status": "BANKRUPTCY",
+  "defendant": "MICHAEL DE SAN PEDRO, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CHARLES DE SAN PEDRO A/K/A CHARLES DE SAN PEDRO, SR.; MRS. DE SAN PEDRO, UNKNOWN SPOUSE OF MICHAEL DE SAN PEDRO; ET AL",
+  "description": "UPSET PRICE: $636,151.29, GOOD THROUGH APRIL 11, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+  "extracted": {
+    "occupancy": "OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "upset_amount": 636151.29
+  },
+  "fields": {
+    "Address": "123-125 WALDO PLACE\nENGLEWOOD NJ 07631",
+    "Approx. Upset*": "$583,094.78",
+    "Attorney": "STERN AND EISENBERG PC",
+    "Court Case #": "F01050624",
+    "Defendant": "MICHAEL DE SAN PEDRO, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CHARLES DE SAN PEDRO A/K/A CHARLES DE SAN PEDRO, SR.; MRS. DE SAN PEDRO, UNKNOWN SPOUSE OF MICHAEL DE SAN PEDRO; ET AL",
+    "Description": "UPSET PRICE: $636,151.29, GOOD THROUGH APRIL 11, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 30, BLOCK 909",
+    "Plaintiff": "CITIBANK, N.A., AS TRUSTEE FOR GSAA HOME EQUITY TRUST 2007-9, ASSET-BACKED CERTIFICATES, SERIES 2007-9",
+    "Property Note": "",
+    "Sales Date": "3/11/2026",
+    "Sheriff #": "F-25002927"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "123-125 WALDO PLACE ENGLEWOOD NJ 07631",
+    "defendant": "MICHAEL DE SAN PEDRO, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CHARLES DE SAN PEDRO A/K/A CHARLES DE SAN PEDRO, SR.; MRS. DE SAN PEDRO, UNKNOWN SPOUSE OF MICHAEL DE SAN PEDRO; ET AL",
+    "listing_status": null,
+    "plaintiff": "CITIBANK, N.A., AS TRUSTEE FOR GSAA HOME EQUITY TRUST 2007-9, ASSET-BACKED CERTIFICATES, SERIES 2007-9",
+    "sale_date": "2026-03-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 30, BLOCK 909",
+  "plaintiff": "CITIBANK, N.A., AS TRUSTEE FOR GSAA HOME EQUITY TRUST 2007-9, ASSET-BACKED CERTIFICATES, SERIES 2007-9",
+  "property_note": null,
+  "sale_date": "2026-03-11",
+  "sheriff_number": "F-25002927",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 583094.78,
+  "upset_amount_label": "Approx. Upset*"
+}

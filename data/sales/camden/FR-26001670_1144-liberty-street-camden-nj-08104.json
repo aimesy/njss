@@ -1,0 +1,53 @@
+{
+  "address": "1144 LIBERTY STREET CAMDEN NJ 08104",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "856-352-4905 chews landing office",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00007226",
+  "current_status": "Cancelled",
+  "defendant": "LUIS A. PEREZ, LVNV FUNDING LLC, MIDLAND FUNDING LLC, LAURA PEREZ, MR. OR MRS. PEREZ, THE SPOUSE, DOMESTIC PARTNER OR CIVIL UNION PARTNER OF LUIS A. PEREZ, DAVID RAMIREZ, STATE OF NEW JERSEY, TROY CAPITAL LLC, UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "1144 LIBERTY STREET\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$53,197.17",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "856-352-4905 chews landing office",
+    "Court Case #": "F00007226",
+    "Defendant": "LUIS A. PEREZ, LVNV FUNDING LLC, MIDLAND FUNDING LLC, LAURA PEREZ, MR. OR MRS. PEREZ, THE SPOUSE, DOMESTIC PARTNER OR CIVIL UNION PARTNER OF LUIS A. PEREZ, DAVID RAMIREZ, STATE OF NEW JERSEY, TROY CAPITAL LLC, UNITED STATES OF AMERICA",
+    "Parcel #": "TAX LOT 67 BLOCK 1317",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS\nINDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE\nOF CSMC 2019-RPL5 TRUST",
+    "Property Note": "",
+    "Sales Date": "9/3/2026",
+    "Sheriff #": "FR-26001670"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1144 LIBERTY STREET CAMDEN NJ 08104",
+    "defendant": "LUIS A. PEREZ, LVNV FUNDING LLC, MIDLAND FUNDING LLC, LAURA PEREZ, MR. OR MRS. PEREZ, THE SPOUSE, DOMESTIC PARTNER OR CIVIL UNION PARTNER OF LUIS A. PEREZ, DAVID RAMIREZ, STATE OF NEW JERSEY, TROY CAPITAL LLC, UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS \nINDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE \nOF CSMC 2019-RPL5 TRUST",
+    "sale_date": "2026-09-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 67 BLOCK 1317",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF CSMC 2019-RPL5 TRUST",
+  "property_note": null,
+  "sale_date": "2026-09-03",
+  "sheriff_number": "FR-26001670",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-03",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 53197.17,
+  "upset_amount_label": "Approx. Upset*"
+}

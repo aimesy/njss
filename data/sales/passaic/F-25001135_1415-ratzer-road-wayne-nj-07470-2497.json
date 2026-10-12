@@ -1,0 +1,71 @@
+{
+  "address": "1415 Ratzer Road Wayne NJ 07470-2497",
+  "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004761 24 CTL# 162996",
+  "current_status": "Cancelled",
+  "defendant": "SHAHIN KHALIQUE, ET ALS",
+  "description": "Approximate dimensions: 0.856 AC\nNearest cross street: Meyer Lane\nThe Plaintiff's Upset Bid presently approximates $585,500.00\nOccupancy Status: UNKNOWN\nFor sale information, please visit www.Auction.com or call (800)280-2832\nPrior Tax Lien Holder: PRO CAP 8 FBO FIRSTRUST BANK holds Tax Sale Certificate No. 24-00073 in the amount of $3425.34 as of 12/04/2024.\n***Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "1415 Ratzer Road\nWayne NJ 07470-2497",
+    "Approx. Upset*": "$542,750.30",
+    "Attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+    "Court Case #": "F 004761 24 CTL# 162996",
+    "Defendant": "SHAHIN KHALIQUE, ET ALS",
+    "Description": "Approximate dimensions: 0.856 AC\nNearest cross street: Meyer Lane\nThe Plaintiff's Upset Bid presently approximates $585,500.00\nOccupancy Status: UNKNOWN\nFor sale information, please visit www.Auction.com or call (800)280-2832\nPrior Tax Lien Holder: PRO CAP 8 FBO FIRSTRUST BANK holds Tax Sale Certificate No. 24-00073 in the amount of $3425.34 as of 12/04/2024.\n***Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+    "Parcel #": "Tax Lot: 26 Tax Block: 2800",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "12/16/2025",
+    "Sheriff #": "F-25001135"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1415 Ratzer Road Wayne NJ 07470-2497",
+    "defendant": "SHAHIN KHALIQUE, ET ALS",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2025-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 26 Tax Block: 2800",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-12-16",
+  "sheriff_number": "F-25001135",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-08-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 542750.3,
+  "upset_amount_label": "Approx. Upset*"
+}

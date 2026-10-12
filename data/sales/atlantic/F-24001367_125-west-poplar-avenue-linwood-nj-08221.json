@@ -1,0 +1,62 @@
+{
+  "address": "125 West Poplar Avenue Linwood NJ 08221",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002336-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Edward W. Grist A/K/A Edward Grist; Jennifer L. Grist A/K/A Jennifer Grist; Beneficial New Jersey Inc D/B/A Beneficial Mortgage Co.; Midland Funding LLC; Midland Funding LLC Assignee of Citibank South Dakota NA; Nino Calabrese and; Shore Memorial Hospital; Collections and Recoveries of Pleasantville, Inc. F/K/A Collections and Recoveries Inc; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "125 West Poplar Avenue\nLinwood NJ 08221",
+    "Approx. Judgment*": "$351,597.51",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-002336-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Edward W. Grist A/K/A Edward Grist; Jennifer L. Grist A/K/A Jennifer Grist; Beneficial New Jersey Inc D/B/A Beneficial Mortgage Co.; Midland Funding LLC; Midland Funding LLC Assignee of Citibank South Dakota NA; Nino Calabrese and; Shore Memorial Hospital; Collections and Recoveries of Pleasantville, Inc. F/K/A Collections and Recoveries Inc; State of New Jersey",
+    "Plaintiff": "CSMC 2019-RPL7 Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24001367",
+    "Upset Amount": "$382,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 351597.51,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "125 West Poplar Avenue Linwood NJ 08221",
+    "defendant": "Edward W. Grist A/K/...",
+    "listing_status": null,
+    "plaintiff": "CSMC 2019-RPL7 Trust...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "CSMC 2019-RPL7 Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24001367",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 382000.0,
+  "upset_amount_label": "Upset Amount"
+}

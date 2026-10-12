@@ -1,0 +1,83 @@
+{
+  "address": "466 BELMONT Avenue Haledon NJ 07508",
+  "attorney": "POWERS KIRN, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 001039 22 CTL# 163021",
+  "current_status": "Bankruptcy",
+  "defendant": "RAFAEL SALINAS, ET AL.",
+  "description": "Dimensions of lot: 34.65' x 78.42'\nNearest Cross Street: Southeasterly line of Church Street\nSuperior Interests (if any): Any and all easements, covenants, restrictions and reservations of record. Any set of facts which an accurate survey and inspection would disclose. All unpaid municipal taxes, assessments, and liens; Any unpaid assesssments and any outstanding tax sale, certificate. Rights of any party in possession/rights protected by the NJ Anti-Eviction Act; All Local, County, State and Federal orindances and regulations; Any condominium association lien granted priority by N.J.S.A 46-8B-21B; Any outstanding Condominium, PUD, or Homewoner Associtation dues or fees.; Rights of the United States of America, if any ; The property is sold in its \"AS IS\" condition; Purchaser shall be responsible for the Sheriff's costs, commission, deed recording fees and realty transfer fees.\nHaledon Water Department holds a claim in the amount of $1,585.32 and $.80 plus penalty owed in arrears of 05/07/2025.\nHaledon Boro holds a claim in the amount of $6,322.80- 2nd Quarter 2025 Taxes as of 05/07/2025\nPlaintiffs upset bid: $1,286,796.07 in accordance with the requirements of Section 12 of P.L 1995, c. 244 (C.2A:50-64) as amended.\nThe property is reported to be owner occupied.\nThe full legal description can be found in the Office of the Clerk of Passaic County in Mortgage Book M9472 Page 80.",
+  "extracted": {
+    "lot": "34.65"
+  },
+  "fields": {
+    "Address": "466 BELMONT Avenue\nHaledon NJ 07508",
+    "Approx. Upset*": "$1,254,433.64",
+    "Attorney": "POWERS KIRN, LLC",
+    "Court Case #": "F 001039 22 CTL# 163021",
+    "Defendant": "RAFAEL SALINAS, ET AL.",
+    "Description": "Dimensions of lot: 34.65' x 78.42'\nNearest Cross Street: Southeasterly line of Church Street\nSuperior Interests (if any): Any and all easements, covenants, restrictions and reservations of record. Any set of facts which an accurate survey and inspection would disclose. All unpaid municipal taxes, assessments, and liens; Any unpaid assesssments and any outstanding tax sale, certificate. Rights of any party in possession/rights protected by the NJ Anti-Eviction Act; All Local, County, State and Federal orindances and regulations; Any condominium association lien granted priority by N.J.S.A 46-8B-21B; Any outstanding Condominium, PUD, or Homewoner Associtation dues or fees.; Rights of the United States of America, if any ; The property is sold in its \"AS IS\" condition; Purchaser shall be responsible for the Sheriff's costs, commission, deed recording fees and realty transfer fees.\nHaledon Water Department holds a claim in the amount of $1,585.32 and $.80 plus penalty owed in arrears of 05/07/2025.\nHaledon Boro holds a claim in the amount of $6,322.80- 2nd Quarter 2025 Taxes as of 05/07/2025\nPlaintiffs upset bid: $1,286,796.07 in accordance with the requirements of Section 12 of P.L 1995, c. 244 (C.2A:50-64) as amended.\nThe property is reported to be owner occupied.\nThe full legal description can be found in the Office of the Clerk of Passaic County in Mortgage Book M9472 Page 80.",
+    "Parcel #": "TAX LOT 1 BLOCK 87",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "5/5/2026",
+    "Sheriff #": "F-25001348"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "466 BELMONT Avenue Haledon NJ 07508",
+    "defendant": "RAFAEL SALINAS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-05-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 1 BLOCK 87",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-05-05",
+  "sheriff_number": "F-25001348",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-02-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-05-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-05",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 1254433.64,
+  "upset_amount_label": "Approx. Upset*"
+}

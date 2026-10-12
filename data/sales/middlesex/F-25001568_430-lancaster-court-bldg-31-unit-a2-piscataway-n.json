@@ -1,0 +1,67 @@
+{
+  "address": "430 LANCASTER COURT BLDG 31 UNIT A2 PISCATAWAY NJ 08854",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00057225",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "INGRID RICHARD AKA INGRID CASTLE AKA INGRID J. CASTLE, ET ALS.",
+  "description": "LOT 2 BLOCK 10002 FKA 744.03 QUALIFIER C2430",
+  "extracted": {
+    "block": "10002",
+    "lot": "2"
+  },
+  "fields": {
+    "Approx. Judgment*": "$280,210.88",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00057225",
+    "Defendant": "INGRID RICHARD AKA INGRID CASTLE AKA INGRID J. CASTLE, ET ALS.",
+    "Description": "LOT 2 BLOCK 10002 FKA 744.03 QUALIFIER C2430",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Address": "430 LANCASTER COURT BLDG 31 UNIT A2\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "10/15/2025",
+    "Sheriff #": "F-25001568"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 280210.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "430 LANCASTER COURT BLDG 31 UNIT A2 PISCATAWAY NJ 08854",
+    "defendant": "INGRID RICHARD AKA INGRID CASTLE AKA INGRID J. CASTLE, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-25001568",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

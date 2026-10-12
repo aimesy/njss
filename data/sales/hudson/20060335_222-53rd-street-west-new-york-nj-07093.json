@@ -1,0 +1,83 @@
+{
+  "address": "222 53RD STREET WEST NEW YORK NJ 07093",
+  "attorney": "KML LAW GROUP, P.C",
+  "attorney_phone": "215-627-1322",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-000067-23",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "RONY G. VILLAMAR-KUFFO AKA RONY VILLAMAR-KUFFO",
+  "description": "TAX LOT NO. 22 BLOCK 88\nDIMENSIONS OF LOT: (APPROXIMATELY) 75.00 FEET WIDE BY 50.00 FEET LONG\nNEAREST CROSS STREET: HUDSON AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $867,058.67\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "block": "88",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "222 53RD STREET\nWEST NEW YORK NJ 07093",
+    "Attorney": "KML LAW GROUP, P.C",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-000067-23",
+    "Defendant": "RONY G. VILLAMAR-KUFFO AKA RONY VILLAMAR-KUFFO",
+    "Description": "TAX LOT NO. 22 BLOCK 88\nDIMENSIONS OF LOT: (APPROXIMATELY) 75.00 FEET WIDE BY 50.00 FEET LONG\nNEAREST CROSS STREET: HUDSON AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $867,058.67\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS OCCUPIED BY UNKNOWN",
+    "Good Faith Upset*": "$867,058.67",
+    "Judgment": "$800,362.16",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "9/24/2026",
+    "Sheriff #": "20060335"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 800362.16,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "222 53RD STREET WEST NEW YORK NJ 07093",
+    "defendant": "RONY G. VILLAMAR-KUFFO AKA RONY VILLAMAR-KUFFO",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+    "sale_date": "2026-09-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-09-24",
+  "sheriff_number": "20060335",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-11-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2025-12-22",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": 867058.67,
+  "upset_amount_label": "Good Faith Upset*"
+}

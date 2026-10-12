@@ -1,0 +1,78 @@
+{
+  "address": "611 North Lafayette Avenue Ventnor City NJ 08406",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008291-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Thomas A. Coppolecchia, Jr; His/Her Heirs, Devisees and Personal Representatives and His, Hers, Their or Any of Their Successors in Right, Title and Interest; Joseph Devlin; Barbara Devlin; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "611 North Lafayette Avenue\nVentnor City NJ 08406",
+    "Approx. Judgment*": "$342,587.56",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-008291-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Thomas A. Coppolecchia, Jr; His/Her Heirs, Devisees and Personal Representatives and His, Hers, Their or Any of Their Successors in Right, Title and Interest; Joseph Devlin; Barbara Devlin; State of New Jersey; United States of America",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: TENANT",
+    "Sales Date": "2/13/2025",
+    "Sheriff #": "F-24000786",
+    "Upset Amount": "$372,900.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 342587.56,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "611 North Lafayette Avenue Ventnor City NJ 08406",
+    "defendant": "Thomas A. Coppolecch...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2025-02-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: TENANT",
+  "sale_date": "2025-02-13",
+  "sheriff_number": "F-24000786",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-13",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-03",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-09-05",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-08-08",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 372900.0,
+  "upset_amount_label": "Upset Amount"
+}

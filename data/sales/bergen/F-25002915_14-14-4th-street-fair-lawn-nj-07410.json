@@ -1,0 +1,56 @@
+{
+  "address": "14-14 4TH STREET FAIR LAWN NJ 07410",
+  "attorney": "STERN AND EISENBERG PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00441425",
+  "current_status": "BANKRUPTCY",
+  "defendant": "SERGIO FLORES, MRS. FLORES, UNKNOWN SPOUSE OF SERGIO FLORES, ET AL",
+  "description": "UPSET PRICE: $684,298.85, GOOD THROUGH APRIL 10, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+  "extracted": {
+    "occupancy": "OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "upset_amount": 684298.85
+  },
+  "fields": {
+    "Address": "14-14 4TH STREET\nFAIR LAWN NJ 07410",
+    "Approx. Upset*": "$625,383.89",
+    "Attorney": "STERN AND EISENBERG PC",
+    "Court Case #": "F00441425",
+    "Defendant": "SERGIO FLORES, MRS. FLORES, UNKNOWN SPOUSE OF SERGIO FLORES, ET AL",
+    "Description": "UPSET PRICE: $684,298.85, GOOD THROUGH APRIL 10, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 6, BLOCK 5727",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEHMAN XS TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-16N",
+    "Property Note": "",
+    "Sales Date": "2/19/2026",
+    "Sheriff #": "F-25002915"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "14-14 4TH STREET FAIR LAWN NJ 07410",
+    "defendant": "SERGIO FLORES, MRS. FLORES, UNKNOWN SPOUSE OF SERGIO FLORES, ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEHMAN XS TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-16N",
+    "sale_date": "2026-02-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 6, BLOCK 5727",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEHMAN XS TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-16N",
+  "property_note": null,
+  "sale_date": "2026-02-19",
+  "sheriff_number": "F-25002915",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 625383.89,
+  "upset_amount_label": "Approx. Upset*"
+}

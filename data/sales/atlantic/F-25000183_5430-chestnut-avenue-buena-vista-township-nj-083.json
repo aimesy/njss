@@ -1,0 +1,98 @@
+{
+  "address": "5430 Chestnut Avenue Buena Vista Township NJ 08360",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008962-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Stella A. Bridges; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "5430 Chestnut Avenue\nBuena Vista Township NJ 08360",
+    "Approx. Judgment*": "$82,882.88",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-008962-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Stella A. Bridges; State of New Jersey; United States of America",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/30/2026",
+    "Sheriff #": "F-25000183",
+    "Upset Amount": "$94,900.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 82882.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5430 Chestnut Avenue Buena Vista Township NJ 08360",
+    "defendant": "Stella A. Bridges; S...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2026-04-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-04-30",
+  "sheriff_number": "F-25000183",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "Adjournment Consensual"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-01-29",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-11-06",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-10-09",
+      "status": "Consensual/Mutual Adjournment"
+    },
+    {
+      "date": "2025-09-11",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-07-10",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-06-12",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-15",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-04-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 94900.0,
+  "upset_amount_label": "Upset Amount"
+}

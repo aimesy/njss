@@ -1,0 +1,64 @@
+{
+  "address": "196 HAWTHORNE DRIVE CLARK NJ 07066",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00100125",
+  "current_status": "Cancelled",
+  "defendant": "DENNIS CUNHA; MRS. DENNIS CUNHA, HIS WIFE,; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "LOT 5.01 BLOCK 12",
+  "extracted": {
+    "block": "12",
+    "lot": "5.01"
+  },
+  "fields": {
+    "Address": "196 HAWTHORNE DRIVE\nCLARK NJ 07066",
+    "Approx. Upset*": "$872,265.26",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00100125",
+    "Defendant": "DENNIS CUNHA; MRS. DENNIS CUNHA, HIS WIFE,; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "LOT 5.01 BLOCK 12",
+    "Parcel #": "LOT 5.01 BLOCK 12",
+    "Plaintiff": "HSBC BANK USA, N.A. AS TRUSTEE FOR DEUTSCHE MORTGAGE SECURITIES INC. MORTGAGE LOAN TRUST, SERIES 2004-1",
+    "Property Note": "",
+    "Sales Date": "3/18/2026",
+    "Sheriff #": "CH-25002736"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "196 HAWTHORNE DRIVE CLARK NJ 07066",
+    "defendant": "DENNIS CUNHA; MRS. DENNIS CUNHA, HIS WIFE,; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, N.A. AS TRUSTEE FOR DEUTSCHE MORTGAGE SECURITIES INC. MORTGAGE LOAN TRUST, SERIES 2004-1",
+    "sale_date": "2026-03-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 5.01 BLOCK 12",
+  "plaintiff": "HSBC BANK USA, N.A. AS TRUSTEE FOR DEUTSCHE MORTGAGE SECURITIES INC. MORTGAGE LOAN TRUST, SERIES 2004-1",
+  "property_note": null,
+  "sale_date": "2026-03-18",
+  "sheriff_number": "CH-25002736",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 872265.26,
+  "upset_amount_label": "Approx. Upset*"
+}

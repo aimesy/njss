@@ -1,0 +1,76 @@
+{
+  "address": "506 East 19TH Avenue CONDO UNIT 100 North Wildwood NJ 08260",
+  "attorney": "Hladik, Onorato & Federman, LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-840-5000",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-006581-24",
+  "current_status": "Scheduled",
+  "defendant": "LISA M BARBIERI, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$467,521.02",
+    "Attorney": "Hladik, Onorato & Federman, LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-840-5000",
+    "Court Case #": "F-006581-24",
+    "Defendant": "LISA M BARBIERI, ET AL",
+    "Description": "",
+    "Minimum Bid": "$507,000.00",
+    "Parcel #": "LOT 14 fka 1 C0100, BLOCK 294.06",
+    "Plaintiff": "**SETTLED**U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "Property Address": "506 East 19TH Avenue\nCONDO UNIT 100\nNorth Wildwood NJ 08260",
+    "Property Note": "",
+    "Sale Date": "10/29/2025",
+    "Sheriff #": "F-25000096"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 467521.02,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "506 East 19TH Avenue CONDO UNIT 100 North Wildwood NJ 08260",
+    "defendant": "LISA M BARBIERI, ET AL",
+    "listing_status": null,
+    "plaintiff": "**SETTLED**U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 14 fka 1 C0100, BLOCK 294.06",
+  "plaintiff": "**SETTLED**U.S. BANK TRUST NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25000096",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Bankruptcy Reschedule"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-05-28",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 507000.0,
+  "upset_amount_label": "Minimum Bid"
+}

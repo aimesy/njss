@@ -1,0 +1,58 @@
+{
+  "address": "204 West Adams Avenue Pleasantville NJ 08232",
+  "attorney": "Pellegrino & Feldstein, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002375-25",
+  "current_status": "Scheduled",
+  "deed": "Pleasantville Oppurtunity LLC",
+  "deed_address": "4 Ivy Street Cedarhurst, NY 11516",
+  "defendant": "B & G Partnership; National Community Bank of New Jersey N/K/A The Bank of New York Mellon; MTAG Custodian For FIG Capital Investments NJ13 LLC; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "204 West Adams Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$80,497.70",
+    "Attorney": "Pellegrino & Feldstein, LLC",
+    "Court Case #": "F-002375-25",
+    "Deed": "Pleasantville Oppurtunity LLC",
+    "Deed Address": "4 Ivy Street Cedarhurst, NY 11516",
+    "Defendant": "B & G Partnership; National Community Bank of New Jersey N/K/A The Bank of New York Mellon; MTAG Custodian For FIG Capital Investments NJ13 LLC; State of New Jersey; United States of America",
+    "Plaintiff": "Pleasantville Opportunity LLC",
+    "Priors": "2025 open taxes in the approximate amount of $4,602.43\n2026 open taxes in the approximate amount of $2,301.21\nTotaling: $6,903.64 plus possible subsequent taxes, charges, interest and penalties",
+    "Property Note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+    "Sales Date": "1/22/2026",
+    "Sheriff #": "F-25001187",
+    "Upset Amount": "$89,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 80497.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "204 West Adams Avenue Pleasantville NJ 08232",
+    "defendant": "B & G Partnership; N...",
+    "listing_status": null,
+    "plaintiff": "Pleasantville Opport...",
+    "sale_date": "2026-01-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Pleasantville Opportunity LLC",
+  "priors": "2025 open taxes in the approximate amount of $4,602.43 2026 open taxes in the approximate amount of $2,301.21 Totaling: $6,903.64 plus possible subsequent taxes, charges, interest and penalties",
+  "property_note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+  "sale_date": "2026-01-22",
+  "sheriff_number": "F-25001187",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 89000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,68 @@
+{
+  "address": "1026-1028 East 24th Street Paterson NJ 07513",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 026891 17 CTL# 163030",
+  "current_status": "Bankruptcy",
+  "defendant": "WINSOME JENKINSON ET ALS",
+  "description": "Municipality: City of Paterson\nApproximate dimensions: 100.00 x 36.83 x 100.00 x 36.83 Feet (Irregular)\nNearest cross street: 22nd Avenue\nSubject to: Taxes - Due date 2/1/2025 $3,219.76 Open. Due date 5/1/2025 $3,154.11. Open. Due date 8/1/2025 $3,154.23 Open.\nUtilities - Due date 8/1/2025 $170.50 Open.\nUpset Price: $551,206.20\nOccupancy Status: Occupied\n** To the best of this firm's knowledge, the property is not an affordable united subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 551206.2
+  },
+  "fields": {
+    "Address": "1026-1028 East 24th Street\nPaterson NJ 07513",
+    "Approx. Upset*": "$376,591.98",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 026891 17 CTL# 163030",
+    "Defendant": "WINSOME JENKINSON ET ALS",
+    "Description": "Municipality: City of Paterson\nApproximate dimensions: 100.00 x 36.83 x 100.00 x 36.83 Feet (Irregular)\nNearest cross street: 22nd Avenue\nSubject to: Taxes - Due date 2/1/2025 $3,219.76 Open. Due date 5/1/2025 $3,154.11. Open. Due date 8/1/2025 $3,154.23 Open.\nUtilities - Due date 8/1/2025 $170.50 Open.\nUpset Price: $551,206.20\nOccupancy Status: Occupied\n** To the best of this firm's knowledge, the property is not an affordable united subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 8, Block 8914",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR LONG BEACH MORTGAGE LOAN TRUST 2005-3",
+    "Property Note": "",
+    "Sales Date": "1/13/2026",
+    "Sheriff #": "F-25001433"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1026-1028 East 24th Street Paterson NJ 07513",
+    "defendant": "WINSOME JENKINSON ET ALS",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR LONG BEACH MORTGAGE LOAN TRUST 2005-3",
+    "sale_date": "2026-01-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 8, Block 8914",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR LONG BEACH MORTGAGE LOAN TRUST 2005-3",
+  "property_note": null,
+  "sale_date": "2026-01-13",
+  "sheriff_number": "F-25001433",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 376591.98,
+  "upset_amount_label": "Approx. Upset*"
+}

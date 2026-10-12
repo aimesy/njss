@@ -1,0 +1,59 @@
+{
+  "address": "1308 9th Avenue Neptune NJ 07753",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00156025",
+  "current_status": "Scheduled",
+  "defendant": "Argelia Martin, et al",
+  "description": "Approximate Dimensions: 50 X 150\nNearest Cross Street: Ridge Avenue\nUpset price: $222,349.30 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is definitely known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:8B-21(b)(1), if any.",
+  "extracted": {
+    "upset_amount": 222349.3
+  },
+  "fields": {
+    "Address": "1308 9th Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$203,373.87",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F00156025",
+    "Defendant": "Argelia Martin, et al",
+    "Description": "Approximate Dimensions: 50 X 150\nNearest Cross Street: Ridge Avenue\nUpset price: $222,349.30 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is definitely known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:8B-21(b)(1), if any.",
+    "Parcel #": "Tax Lot 8 (f/k/a 153) 153, Block 407 (f/k/a 203) Tax Map of Township of Neptune",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity but Solely As Owner Trustee For RCF 2 AcquisitionTrust",
+    "Property Note": "",
+    "Sales Date": "12/22/2025",
+    "Sheriff #": "FOR-25001804"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 203373.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1308 9th Avenue Neptune NJ 07753",
+    "defendant": "Argelia Martin, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity but Solely As Owner Trustee For RCF 2 AcquisitionTrust",
+    "sale_date": "2025-12-22"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 8 (f/k/a 153) 153, Block 407 (f/k/a 203) Tax Map of Township of Neptune",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity but Solely As Owner Trustee For RCF 2 AcquisitionTrust",
+  "property_note": null,
+  "sale_date": "2025-12-22",
+  "sheriff_number": "FOR-25001804",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-12-22",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Scheduled"
+    }
+  ]
+}

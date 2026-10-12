@@ -1,0 +1,64 @@
+{
+  "address": "196 WILLIAM STREET SOUTH RIVER NJ 08882",
+  "attorney": "ANTHONY L. VELASQUEZ, ESQ.",
+  "attorney_file_number": null,
+  "attorney_phone": "732-903-1966",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00469123",
+  "current_status": "Adjourned - Court",
+  "defendant": "BARBARA VAN CLEAF, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES OR ANY OF THEIR SUCCESSORS IN RIGHT TITLE AND INTEREST, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$6,354.97",
+    "Attorney": "ANTHONY L. VELASQUEZ, ESQ.",
+    "Attorney File #": "",
+    "Attorney Phone": "732-903-1966",
+    "Court Case #": "F00469123",
+    "Defendant": "BARBARA VAN CLEAF, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES OR ANY OF THEIR SUCCESSORS IN RIGHT TITLE AND INTEREST, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 3.02 BLOCK 82",
+    "Plaintiff": "LILY HOLDINGS, LLC.",
+    "Property Address": "196 WILLIAM STREET\nSOUTH RIVER NJ 08882",
+    "Property Note": "SUCCESSFULLY POSTED 08/06/2024 BY RON WALKO",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-776562"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 6354.97,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "196 WILLIAM STREET SOUTH RIVER NJ 08882",
+    "defendant": "BARBARA VAN CLEAF, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES OR ANY OF THEIR SUCCESSORS IN RIGHT TITLE AND INTEREST, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "LILY HOLDINGS, LLC.",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 3.02 BLOCK 82",
+  "plaintiff": "LILY HOLDINGS, LLC.",
+  "property_note": "SUCCESSFULLY POSTED 08/06/2024 BY RON WALKO",
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-776562",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

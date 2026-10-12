@@ -1,0 +1,71 @@
+{
+  "address": "182 COTTAGE LANE CLIFFSIDE PARK NJ 07010",
+  "attorney": "BROCK AND SCOTT PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00664324",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "CLAUDIO DE LA CRUZ; MRS CLAUDIO DE LA CRUZ, HIS WIFE; YOKASTA DE LA CRUZ; MR DE LA CRUZ, HUSBAND OF YOKASTA DE LA CRUZ",
+  "description": "PLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $740,989.07.\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "upset_amount": 740989.07
+  },
+  "fields": {
+    "Address": "182 COTTAGE LANE\nCLIFFSIDE PARK NJ 07010",
+    "Approx. Upset*": "$694,197.91",
+    "Attorney": "BROCK AND SCOTT PLLC",
+    "Court Case #": "F00664324",
+    "Defendant": "CLAUDIO DE LA CRUZ; MRS CLAUDIO DE LA CRUZ, HIS WIFE; YOKASTA DE LA CRUZ; MR DE LA CRUZ, HUSBAND OF YOKASTA DE LA CRUZ",
+    "Description": "PLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $740,989.07.\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN",
+    "Parcel #": "LOT 8, BLOCK 703",
+    "Plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "Property Note": "",
+    "Sales Date": "10/17/2025",
+    "Sheriff #": "F-25000904"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "182 COTTAGE LANE CLIFFSIDE PARK NJ 07010",
+    "defendant": "CLAUDIO DE LA CRUZ; MRS CLAUDIO DE LA CRUZ, HIS WIFE; YOKASTA DE LA CRUZ; MR DE LA CRUZ, HUSBAND OF YOKASTA DE LA CRUZ",
+    "listing_status": null,
+    "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "sale_date": "2025-10-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 8, BLOCK 703",
+  "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+  "property_note": null,
+  "sale_date": "2025-10-17",
+  "sheriff_number": "F-25000904",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-05-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-05",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 694197.91,
+  "upset_amount_label": "Approx. Upset*"
+}

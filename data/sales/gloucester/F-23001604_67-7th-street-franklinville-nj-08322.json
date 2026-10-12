@@ -1,0 +1,95 @@
+{
+  "address": "67 7TH STREET FRANKLINVILLE NJ 08322",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-005110-23",
+  "current_status": "Cancelled",
+  "defendant": "BRIAN SIX, ET AL",
+  "description": "The plaintiff's upset bid presently approximates $170,000.00. Occupancy status: UNKNOWN.",
+  "extracted": {
+    "occupancy": "UNKNOWN."
+  },
+  "fields": {
+    "Address": "67 7TH STREET\nFRANKLINVILLE NJ 08322",
+    "Approximate Judgment": "$146,587.10",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F-005110-23",
+    "Defendant": "BRIAN SIX, ET AL",
+    "Description": "The plaintiff's upset bid presently approximates $170,000.00. Occupancy status: UNKNOWN.",
+    "Parcel #": "BLOCK: 3401 LOT: 7",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 AQUISTION TRUST",
+    "Property Note": "County: Gloucester\nMunicipality: Township of Franklin\nStreet Address: 67 7th Street, Franklinville, (Franklin Twp), NJ 08322\nTax Lot: 7\nTax Block: 3401\nApproximate dimensions: 100.01' x 209.27' x 49.94' x 61.19' x 239.00'\nNearest Cross Street: Portchtown Road\nThe plaintiff's upset bid presently approximates $170,000.00. Occupancy status: UNKNOWN.",
+    "Sales Date": "10/23/2025",
+    "Sheriff #": "F-23001604"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 146587.1,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "67 7TH STREET FRANKLINVILLE NJ 08322",
+    "defendant": "BRIAN SIX, ET AL",
+    "listing_status": "Cancelled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 AQUISTION TRUST",
+    "sale_date": "2025-10-23"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 3401 LOT: 7",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 AQUISTION TRUST",
+  "property_note": "County: Gloucester\nMunicipality: Township of Franklin\nStreet Address: 67 7th Street, Franklinville, (Franklin Twp), NJ 08322\nTax Lot: 7\nTax Block: 3401\nApproximate dimensions: 100.01' x 209.27' x 49.94' x 61.19' x 239.00'\nNearest Cross Street: Portchtown Road\nThe plaintiff's upset bid presently approximates $170,000.00. Occupancy status: UNKNOWN.",
+  "sale_date": "2025-10-23",
+  "sheriff_number": "F-23001604",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-01-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-02-28",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-03-27",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-04-24",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-05-22",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-05-23",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Cancelled"
+    }
+  ]
+}

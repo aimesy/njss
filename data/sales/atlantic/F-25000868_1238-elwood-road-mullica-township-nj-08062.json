@@ -1,0 +1,66 @@
+{
+  "address": "1238 Elwood Road Mullica Township NJ 08062",
+  "attorney": "Pellegrino & Feldstein, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000106-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Edward Wayne Jenkins Family Trust; The Bank of New York Mellon as Trustee for CWABS, Inc. Asset-Backed Certificates, Series 2007-2; United States of America; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "1238 Elwood Road\nMullica Township NJ 08062",
+    "Approx. Judgment*": "$55,208.39",
+    "Attorney": "Pellegrino & Feldstein, LLC",
+    "Court Case #": "F-000106-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Edward Wayne Jenkins Family Trust; The Bank of New York Mellon as Trustee for CWABS, Inc. Asset-Backed Certificates, Series 2007-2; United States of America; United States of America",
+    "Plaintiff": "Christiana Trust as Custodian GSRAN-Z, LLC",
+    "Priors": "2024 open taxes in the approximate amount of $10,185.94\n2025 open taxes in the approximate amount of $10,185.94\nTotaling: $20,371.88 plus possible subsequent taxes, charges, interest and penalties",
+    "Property Note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+    "Sales Date": "12/4/2025",
+    "Sheriff #": "F-25000868",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 55208.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1238 Elwood Road Mullica Township NJ 08062",
+    "defendant": "Edward Wayne Jenkins...",
+    "listing_status": null,
+    "plaintiff": "Christiana Trust as ...",
+    "sale_date": "2025-12-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Christiana Trust as Custodian GSRAN-Z, LLC",
+  "priors": "2024 open taxes in the approximate amount of $10,185.94 2025 open taxes in the approximate amount of $10,185.94 Totaling: $20,371.88 plus possible subsequent taxes, charges, interest and penalties",
+  "property_note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+  "sale_date": "2025-12-04",
+  "sheriff_number": "F-25000868",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-12-04",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-10-30",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-10-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

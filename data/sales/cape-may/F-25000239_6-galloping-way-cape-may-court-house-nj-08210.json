@@ -1,0 +1,68 @@
+{
+  "address": "6 GALLOPING Way Cape May Court House NJ 08210",
+  "attorney": "KML Law Group, PC",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-002402-25",
+  "current_status": "Scheduled",
+  "defendant": "HOWARD T WATSON III, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$195,011.76",
+    "Attorney": "KML Law Group, PC",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-002402-25",
+    "Defendant": "HOWARD T WATSON III, ET AL",
+    "Description": "",
+    "Minimum Bid": "$213,597.49",
+    "Parcel #": "LOT 21 f/k/a 4.19, BLOCK 166",
+    "Plaintiff": "**SETTLED**PNC BANK, NATIONAL ASSOCIATION",
+    "Property Address": "6 GALLOPING Way\nCape May Court House NJ 08210",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25000239"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 195011.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 GALLOPING Way Cape May Court House NJ 08210",
+    "defendant": "HOWARD T WATSON III, ET AL",
+    "listing_status": null,
+    "plaintiff": "**SETTLED**PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 21 f/k/a 4.19, BLOCK 166",
+  "plaintiff": "**SETTLED**PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25000239",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 213597.49,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,86 @@
+{
+  "address": "312 West Bayview Avenue Pleasantville NJ 08232",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008094-22",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank Trust National Association, not in its indivdual capacity but solely as owner trustee for RCF 2 Acquisition Trust, c/o Selene Finance LP",
+  "deed_address": "3501 Olympus Boulevard, 5th Floor, Suite 500, Dallas, TX 75019",
+  "defendant": "Niemma S. Zackhery; Mr. Zackhery, Husband of Niemma S. Zackhery; Sunnova Management, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "312 West Bayview Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$173,825.39",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-008094-22",
+    "Deed": "U.S. Bank Trust National Association, not in its indivdual capacity but solely as owner trustee for RCF 2 Acquisition Trust, c/o Selene Finance LP",
+    "Deed Address": "3501 Olympus Boulevard, 5th Floor, Suite 500, Dallas, TX 75019",
+    "Defendant": "Niemma S. Zackhery; Mr. Zackhery, Husband of Niemma S. Zackhery; Sunnova Management, LLC",
+    "Plaintiff": "PMIT REI 2021-A LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: IT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24000485",
+    "Upset Amount": "$180,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 173825.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "312 West Bayview Avenue Pleasantville NJ 08232",
+    "defendant": "Niemma S. Zackhery; ...",
+    "listing_status": null,
+    "plaintiff": "PMIT REI 2021-A LLC...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PMIT REI 2021-A LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: IT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24000485",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Consensual/Mutual Adjournment"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-10-03",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-08-08",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-07-11",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-06-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 180000.0,
+  "upset_amount_label": "Upset Amount"
+}

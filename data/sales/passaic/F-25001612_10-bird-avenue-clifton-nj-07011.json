@@ -1,0 +1,51 @@
+{
+  "address": "10 BIRD Avenue Clifton NJ 07011",
+  "attorney": "Brock & Scott PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003564 25 CTL #163067",
+  "current_status": "Cancelled",
+  "defendant": "GREGORY ROBERTS, ET AL",
+  "description": "Dimensions : 60ft x 100ft\nNearest Cross Street: Gilbert Pl.\nThe occupancy status of the property is : Occupied by owner\nPlaintiff's good faith estimate of its upset price is $226,675.64\n* Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The purchaser shall have no further recourse against the Mortgagor. the Mortgage or the Mortgagee's attorney.",
+  "extracted": {
+    "upset_amount": 226675.64
+  },
+  "fields": {
+    "Address": "10 BIRD Avenue\nClifton NJ 07011",
+    "Approx. Upset*": "$206,629.88",
+    "Attorney": "Brock & Scott PLLC",
+    "Court Case #": "F 003564 25 CTL #163067",
+    "Defendant": "GREGORY ROBERTS, ET AL",
+    "Description": "Dimensions : 60ft x 100ft\nNearest Cross Street: Gilbert Pl.\nThe occupancy status of the property is : Occupied by owner\nPlaintiff's good faith estimate of its upset price is $226,675.64\n* Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The purchaser shall have no further recourse against the Mortgagor. the Mortgage or the Mortgagee's attorney.",
+    "Parcel #": "Tax Lot 14 Block 31.01",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "10/29/2025",
+    "Sheriff #": "F-25001612"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "10 BIRD Avenue Clifton NJ 07011",
+    "defendant": "GREGORY ROBERTS, ET AL",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 14 Block 31.01",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25001612",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 206629.88,
+  "upset_amount_label": "Approx. Upset*"
+}

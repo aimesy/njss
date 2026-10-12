@@ -1,0 +1,67 @@
+{
+  "address": "565 DAY AVENUE RIDGEFIELD NJ 07657",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F1132222",
+  "current_status": "BANKRUPTCY",
+  "defendant": "ELENA JORGE; MR/MRS JORGE, SPOUSE OF ELENA JORGE",
+  "description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $529,623.52\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+  "extracted": {
+    "upset_amount": 529623.52
+  },
+  "fields": {
+    "Address": "565 DAY AVENUE\nRIDGEFIELD NJ 07657",
+    "Approx. Upset*": "$437,039.42",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Court Case #": "F1132222",
+    "Defendant": "ELENA JORGE; MR/MRS JORGE, SPOUSE OF ELENA JORGE",
+    "Description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $529,623.52\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+    "Parcel #": "LOT 11, BLOCK 2604",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "11/6/2025",
+    "Sheriff #": "F-25000014"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "565 DAY AVENUE RIDGEFIELD NJ 07657",
+    "defendant": "ELENA JORGE; MR/MRS JORGE, SPOUSE OF ELENA JORGE",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2025-11-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 11, BLOCK 2604",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2025-11-06",
+  "sheriff_number": "F-25000014",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-02-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-05-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-06-13",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-06",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 437039.42,
+  "upset_amount_label": "Approx. Upset*"
+}

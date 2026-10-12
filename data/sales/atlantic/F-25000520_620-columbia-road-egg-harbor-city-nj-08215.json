@@ -1,0 +1,66 @@
+{
+  "address": "620 Columbia Road Egg Harbor City NJ 08215",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012871-24",
+  "current_status": "Scheduled",
+  "deed": "SRKR Holdings LLC",
+  "deed_address": "PO Box 115, Pomona, NJ 08240",
+  "defendant": "John Richard Leithman A/K/A John Richard Leithmann; Tracy Lee Smith",
+  "extracted": {},
+  "fields": {
+    "Address": "620 Columbia Road\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$271,209.87",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-012871-24",
+    "Deed": "SRKR Holdings LLC",
+    "Deed Address": "PO Box 115, Pomona, NJ 08240",
+    "Defendant": "John Richard Leithman A/K/A John Richard Leithmann; Tracy Lee Smith",
+    "Plaintiff": "U.S. Bank Trust Company, National Association, As Trustee, As Successor-Interest to U.S. Bank National Association, As Trustee for Residential Asset Securities Corporation, Home Equity Mortgage Asset-Backed Pass-Through Certificates, Series 2006-KS6",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "9/11/2025",
+    "Sheriff #": "F-25000520",
+    "Upset Amount": "$307,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 271209.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "620 Columbia Road Egg Harbor City NJ 08215",
+    "defendant": "John Richard Leithma...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Comp...",
+    "sale_date": "2025-09-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust Company, National Association, As Trustee, As Successor-Interest to U.S. Bank National Association, As Trustee for Residential Asset Securities Corporation, Home Equity Mortgage Asset-Backed Pass-Through Certificates, Series 2006-KS6",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-09-11",
+  "sheriff_number": "F-25000520",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-11",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-09-11",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-08-14",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-07-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 307500.0,
+  "upset_amount_label": "Upset Amount"
+}

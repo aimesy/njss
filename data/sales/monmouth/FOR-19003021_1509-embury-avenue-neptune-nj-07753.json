@@ -1,0 +1,57 @@
+{
+  "address": "1509 Embury Avenue Neptune NJ 07753",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01851218",
+  "current_status": "Scheduled",
+  "defendant": "Booker Gibson aka Booker T. Gibson, et al.",
+  "description": "Approximate dimensions: 15.71' x 102.00' x 24.00' x 112.00' x 14.00'\nNearest cross street: Plum Lane",
+  "extracted": {},
+  "fields": {
+    "Address": "1509 Embury Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$234,209.30",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F01851218",
+    "Defendant": "Booker Gibson aka Booker T. Gibson, et al.",
+    "Description": "Approximate dimensions: 15.71' x 102.00' x 24.00' x 112.00' x 14.00'\nNearest cross street: Plum Lane",
+    "Parcel #": "Tax Lot: 24 fka 5 Tax Block: 518 fka 197.02 Tax Map of the Township of Neptune",
+    "Plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "Property Note": "",
+    "Sales Date": "3/24/2025",
+    "Sheriff #": "FOR-19003021"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 234209.3,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1509 Embury Avenue Neptune NJ 07753",
+    "defendant": "Booker Gibson aka Booker T. Gibson, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "sale_date": "2025-03-24"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 24 fka 5 Tax Block: 518 fka 197.02 Tax Map of the Township of Neptune",
+  "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+  "property_note": null,
+  "sale_date": "2025-03-24",
+  "sheriff_number": "FOR-19003021",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-24",
+      "status": "Canceled"
+    },
+    {
+      "date": "2019-11-25",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2019-11-25",
+      "status": "Scheduled"
+    }
+  ]
+}

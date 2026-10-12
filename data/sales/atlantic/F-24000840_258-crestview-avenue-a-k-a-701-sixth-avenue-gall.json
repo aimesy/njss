@@ -1,0 +1,70 @@
+{
+  "address": "258 Crestview Avenue a/k/a 701 Sixth Avenue Galloway Township NJ 08205",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-013935-23",
+  "current_status": "Scheduled",
+  "deed": "New Jersey Housing and Mortgage Finance Agency",
+  "deed_address": "637 South Clinton Avenue, Trenton, NJ 08625",
+  "defendant": "Shiloh Pressley; Spouse of Shiloh Pressley; Aurora Financial Group, Inc; SLM Financial Services Corporation",
+  "extracted": {},
+  "fields": {
+    "Address": "258 Crestview Avenue\na/k/a 701 Sixth Avenue\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$190,464.82",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-013935-23",
+    "Deed": "New Jersey Housing and Mortgage Finance Agency",
+    "Deed Address": "637 South Clinton Avenue, Trenton, NJ 08625",
+    "Defendant": "Shiloh Pressley; Spouse of Shiloh Pressley; Aurora Financial Group, Inc; SLM Financial Services Corporation",
+    "Plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24000840",
+    "Upset Amount": "$196,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 190464.82,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "258 Crestview Avenue a/k/a 701 Sixth Avenue Galloway Township NJ 08205",
+    "defendant": "Shiloh Pressley; Spo...",
+    "listing_status": null,
+    "plaintiff": "New Jersey Housing a...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24000840",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 196000.0,
+  "upset_amount_label": "Upset Amount"
+}

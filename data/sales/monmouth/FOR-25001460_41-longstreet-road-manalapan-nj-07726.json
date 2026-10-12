@@ -1,0 +1,80 @@
+{
+  "address": "41 Longstreet Road Manalapan NJ 07726",
+  "attorney": "Newman, Simpson & Cohen, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F881924",
+  "current_status": "Scheduled",
+  "defendant": "Edward Leccese, et al",
+  "description": "Dimensions of Lot: 76 x 217\nNearest Cross Streets Robertsville Road; The property is on the northwesterly R.O.W line of Longstreet.\nEstimated upset bid amount: $757,334.81 plus any additional sums as ordered by the court\nOccupancy Status: Owner occupied (to the best of the foreclosing lender's knowledge)",
+  "extracted": {
+    "lot": "76",
+    "occupancy": "Owner occupied (to the best of the foreclosing lender's knowledge)"
+  },
+  "fields": {
+    "Address": "41 Longstreet Road\nManalapan NJ 07726",
+    "Approx. Judgment*": "$672,258.16",
+    "Attorney": "Newman, Simpson & Cohen, LLP",
+    "Court Case #": "F881924",
+    "Defendant": "Edward Leccese, et al",
+    "Description": "Dimensions of Lot: 76 x 217\nNearest Cross Streets Robertsville Road; The property is on the northwesterly R.O.W line of Longstreet.\nEstimated upset bid amount: $757,334.81 plus any additional sums as ordered by the court\nOccupancy Status: Owner occupied (to the best of the foreclosing lender's knowledge)",
+    "Parcel #": "Tax Lot No. 42 in Block No. 906 Tax Map of the Township of Manalapan",
+    "Plaintiff": "ConnectOne Bank",
+    "Property Note": "",
+    "Sales Date": "3/30/2026",
+    "Sheriff #": "FOR-25001460"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 672258.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "41 Longstreet Road Manalapan NJ 07726",
+    "defendant": "Edward Leccese, et al",
+    "listing_status": "Settled",
+    "plaintiff": "ConnectOne Bank",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 42 in Block No. 906 Tax Map of the Township of Manalapan",
+  "plaintiff": "ConnectOne Bank",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "FOR-25001460",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Scheduled"
+    }
+  ]
+}

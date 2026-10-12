@@ -1,0 +1,86 @@
+{
+  "address": "213 Washington Avenue Egg Harbor City NJ 08215",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004266-23",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman",
+  "deed_address": "413 S. Seaview Ave, Galloway, NJ 08205",
+  "defendant": "Sheila D. Neate, Individually and as Executor of the Estate of Raymond D. Neate; State of New Jersey; United States of America; Liberty Bail Bonds, Inc; U.S. Fire Insurance Company",
+  "extracted": {},
+  "fields": {
+    "Address": "213 Washington Avenue\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$139,108.23",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-004266-23",
+    "Deed": "Amjad Rehman",
+    "Deed Address": "413 S. Seaview Ave, Galloway, NJ 08205",
+    "Defendant": "Sheila D. Neate, Individually and as Executor of the Estate of Raymond D. Neate; State of New Jersey; United States of America; Liberty Bail Bonds, Inc; U.S. Fire Insurance Company",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "7/31/2025",
+    "Sheriff #": "F-24000760",
+    "Upset Amount": "$138,100.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 139108.23,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "213 Washington Avenue Egg Harbor City NJ 08215",
+    "defendant": "Sheila D. Neate, Ind...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2025-07-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2025-07-31",
+  "sheriff_number": "F-24000760",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-31",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-31",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-07-03",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-29",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 138100.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,61 @@
+{
+  "address": "17 COLES RD, BLACKWOOD NJ 08012",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00434425",
+  "current_status": "Defendant Adjournment",
+  "defendant": "BERNARD G. HOULIHAN, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "17 COLES RD,\nBLACKWOOD NJ 08012",
+    "Approx. Upset*": "$139,412.19",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00434425",
+    "Defendant": "BERNARD G. HOULIHAN, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25002104"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "17 COLES RD, BLACKWOOD NJ 08012",
+    "defendant": "BERNARD G. HOULIHAN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25002104",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 139412.19,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,70 @@
+{
+  "address": "10 Mayberry Drive Tinton Falls NJ 07724",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00349725",
+  "current_status": "Scheduled",
+  "defendant": "James E. Gober and Celeste C. Gober, Husband and Wife, et als.",
+  "description": "Dimensions: Approximately: 15X196\nUpset Price: Approximately: $480,999.26 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Sqankum Rd\nBEING KNOWN AND DESIGNATED AS LOT 38.06 IN BLOCK 105.01 AS SHOWN ON MAP ENTITLED \"FINAL MAP - SECTION 1, DITTMAR PROPERTIES, TOWNSHIP OF TINTON FALLS, MONMOUTH COUNTY, NEW JERSEY\" FILED IN THE MONMOUTH COUNTY CLERK'S OFFICE ON OCTOBER 4, 1990 ON MAP NO. 238-6. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 09/03/2025; 2025 Qtr 4 Due: 11/01/2025 $3,335.32 OPEN. Water: PRIVATE - NJ American Water Co. P.O. Box 371331 PITTSBURGH, PA 15250 800-652-6987. Sewer: PRIVATE - Septic.",
+  "extracted": {
+    "block": "105.01",
+    "lot": "38.06",
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 480999.26
+  },
+  "fields": {
+    "Address": "10 Mayberry Drive\nTinton Falls NJ 07724",
+    "Approx. Judgment*": "$444,867.03",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F00349725",
+    "Defendant": "James E. Gober and Celeste C. Gober, Husband and Wife, et als.",
+    "Description": "Dimensions: Approximately: 15X196\nUpset Price: Approximately: $480,999.26 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Sqankum Rd\nBEING KNOWN AND DESIGNATED AS LOT 38.06 IN BLOCK 105.01 AS SHOWN ON MAP ENTITLED \"FINAL MAP - SECTION 1, DITTMAR PROPERTIES, TOWNSHIP OF TINTON FALLS, MONMOUTH COUNTY, NEW JERSEY\" FILED IN THE MONMOUTH COUNTY CLERK'S OFFICE ON OCTOBER 4, 1990 ON MAP NO. 238-6. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 09/03/2025; 2025 Qtr 4 Due: 11/01/2025 $3,335.32 OPEN. Water: PRIVATE - NJ American Water Co. P.O. Box 371331 PITTSBURGH, PA 15250 800-652-6987. Sewer: PRIVATE - Septic.",
+    "Parcel #": "Tax Lot: 38.06; Block: 105.01 Tax Map of Borough of Tinton Falls",
+    "Plaintiff": "The Bank of New York Mellon FKA The Bank of New York As Trustee for The Certificateholders CWMBS, INC. CHL Mortgage Pass-Through Trust 2005-HYB4, Mortgage Pass-Through Certificates, Series 2005-HYB4",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "FOR-25001727"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 444867.03,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 Mayberry Drive Tinton Falls NJ 07724",
+    "defendant": "James E. Gober and Celeste C. Gober, Husband and Wife, et als.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "The Bank of New York Mellon FKA The Bank of New York As Trustee for The Certificateholders CWMBS, INC. CHL Mortgage Pass-Through Trust 2005-HYB4, Mortgage Pass-Through Certificates, Series 2005-HYB4",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 38.06; Block: 105.01 Tax Map of Borough of Tinton Falls",
+  "plaintiff": "The Bank of New York Mellon FKA The Bank of New York As Trustee for The Certificateholders CWMBS, INC. CHL Mortgage Pass-Through Trust 2005-HYB4, Mortgage Pass-Through Certificates, Series 2005-HYB4",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "FOR-25001727",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-02",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Scheduled"
+    }
+  ]
+}

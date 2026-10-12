@@ -1,0 +1,72 @@
+{
+  "address": "82 KNOLLWOOD DRIVE PARAMUS NJ 07652",
+  "attorney": "STERN AND EISENBERG PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01259622",
+  "current_status": "BANKRUPTCY",
+  "defendant": "DAVID BEST; MRS BEST, UNKNOWN SPOUSE OF DAVID BEST; LESHAWN BEST; ET AL",
+  "description": "Upset Price: $789,106.23, good through April 13, 2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown.",
+    "upset_amount": 789106.23
+  },
+  "fields": {
+    "Address": "82 KNOLLWOOD DRIVE\nPARAMUS NJ 07652",
+    "Approx. Upset*": "$676,867.09",
+    "Attorney": "STERN AND EISENBERG PC",
+    "Court Case #": "F01259622",
+    "Defendant": "DAVID BEST; MRS BEST, UNKNOWN SPOUSE OF DAVID BEST; LESHAWN BEST; ET AL",
+    "Description": "Upset Price: $789,106.23, good through April 13, 2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.",
+    "Parcel #": "LOT 1, BLOCK 1401",
+    "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS SUCCESSOR TRUSTEE FOR NOMURA ASSET ACCEPTANCE CORPORATION, ALTERNATIVE LOAN TRUST, SERIES 2005 AP1",
+    "Property Note": "",
+    "Sales Date": "2/17/2026",
+    "Sheriff #": "F-24003147"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "82 KNOLLWOOD DRIVE PARAMUS NJ 07652",
+    "defendant": "DAVID BEST; MRS BEST, UNKNOWN SPOUSE OF DAVID BEST; LESHAWN BEST; ET AL",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS SUCCESSOR TRUSTEE FOR NOMURA ASSET ACCEPTANCE CORPORATION, ALTERNATIVE LOAN TRUST, SERIES 2005 AP1",
+    "sale_date": "2026-02-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 1, BLOCK 1401",
+  "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS SUCCESSOR TRUSTEE FOR NOMURA ASSET ACCEPTANCE CORPORATION, ALTERNATIVE LOAN TRUST, SERIES 2005 AP1",
+  "property_note": null,
+  "sale_date": "2026-02-17",
+  "sheriff_number": "F-24003147",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-01-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-05-30",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-02-06",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-02-06",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 676867.09,
+  "upset_amount_label": "Approx. Upset*"
+}

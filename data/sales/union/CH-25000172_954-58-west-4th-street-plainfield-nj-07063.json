@@ -1,0 +1,65 @@
+{
+  "address": "954-58 WEST 4TH STREET PLAINFIELD NJ 07063",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00506724",
+  "current_status": "Bankuptcy",
+  "defendant": "JOSE E. GARCIA; MWP PROPERTY 954-958 LLC; AQUEDA MARTINEZ, TENANT",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "954-58 WEST 4TH STREET\nPLAINFIELD NJ 07063",
+    "Approx. Upset*": "$488,969.27",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Court Case #": "F00506724",
+    "Defendant": "JOSE E. GARCIA; MWP PROPERTY 954-958 LLC; AQUEDA MARTINEZ, TENANT",
+    "Description": "",
+    "Parcel #": "LOT 17 BLOCK 123",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2023-INV1",
+    "Property Note": "Approximate Dimensions: 54 x 98.27 x 54.05 x 100.55\nNearest Cross Street: Prescott Place\nEstimated Upset Sheriffs Sale Bid Amount: $593,000.00\nSubject to anyfurther Orders ofadditional sums executed by the court.\nSurplus Monies: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any persons claiming surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-1 and 4:57-2 stating the nature and extent of the person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\n\"THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE\nWITHOUT FURTHER NOTICE THROUGH PUBLICATION\"",
+    "Sales Date": "7/29/2026",
+    "Sheriff #": "CH-25000172"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "954-58 WEST 4TH STREET PLAINFIELD NJ 07063",
+    "defendant": "JOSE E. GARCIA; MWP PROPERTY 954-958 LLC; AQUEDA MARTINEZ, TENANT",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2023-INV1",
+    "sale_date": "2026-07-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 17 BLOCK 123",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2023-INV1",
+  "property_note": "Approximate Dimensions: 54 x 98.27 x 54.05 x 100.55\nNearest Cross Street: Prescott Place\nEstimated Upset Sheriffs Sale Bid Amount: $593,000.00\nSubject to anyfurther Orders ofadditional sums executed by the court.\nSurplus Monies: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any persons claiming surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-1 and 4:57-2 stating the nature and extent of the person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\n\"THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE\nWITHOUT FURTHER NOTICE THROUGH PUBLICATION\"",
+  "sale_date": "2026-07-29",
+  "sheriff_number": "CH-25000172",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-02-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-23",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-04-23",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 488969.27,
+  "upset_amount_label": "Approx. Upset*"
+}

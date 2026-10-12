@@ -1,0 +1,68 @@
+{
+  "address": "1012 Old Corlies Avenue Neptune NJ 07753",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01104518",
+  "current_status": "Scheduled",
+  "defendant": "Kevin E. Eldridge aka Kevin Eldridge, et. al.",
+  "description": "Dimensions Approximate: 95 x 100\nNearest Cross Street: Cedar Terrace\nBeginning at a point in the SOUTHWESTERLY line of OLD CORLIES AVENUE, said point being distant 173.43 feet on a course of South 43 degrees 53 minutes 10 seconds east from the intersection formed by the same with the southerly line of Cedar Terrace; thence (This concise description does not constitute a legal description. . A copy of the full legal description can be found at the Office of the Sheriff.)\nUpset Price: Approximately: $373,670.00 and any additional sums as ordered by the court.\nOccupancy Status: Occupied by Unknown\nPursuant to a tax search of 05/05/2025; 2025 Qtr. 2 Due: 05/01/2025 $1,645.94 OPEN; SUBJECT TO POSTING, 2025 Qtr. 3 Due: 08/01/2025 TO BE DETERMINED. Sewer Acct: 73249 0 07/01/2025 - 12/31/2025 $230.00 OPEN AND DUE 09/01/2025 $230.00 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVARE - NJ American Water Co. P.O. Box371331 PITTSBURGH PA. 15250 800-652-6987. General Remark: 2025 SECOND HALF TAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTED ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT. Properties serviced by Ocean Grove Sewer Authority are located in Ocean Grove and are subject to land 'lease charges; please contact OGCMA at 732-775-0035.",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 373670.0
+  },
+  "fields": {
+    "Address": "1012 Old Corlies Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$447,656.80",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F01104518",
+    "Defendant": "Kevin E. Eldridge aka Kevin Eldridge, et. al.",
+    "Description": "Dimensions Approximate: 95 x 100\nNearest Cross Street: Cedar Terrace\nBeginning at a point in the SOUTHWESTERLY line of OLD CORLIES AVENUE, said point being distant 173.43 feet on a course of South 43 degrees 53 minutes 10 seconds east from the intersection formed by the same with the southerly line of Cedar Terrace; thence (This concise description does not constitute a legal description. . A copy of the full legal description can be found at the Office of the Sheriff.)\nUpset Price: Approximately: $373,670.00 and any additional sums as ordered by the court.\nOccupancy Status: Occupied by Unknown\nPursuant to a tax search of 05/05/2025; 2025 Qtr. 2 Due: 05/01/2025 $1,645.94 OPEN; SUBJECT TO POSTING, 2025 Qtr. 3 Due: 08/01/2025 TO BE DETERMINED. Sewer Acct: 73249 0 07/01/2025 - 12/31/2025 $230.00 OPEN AND DUE 09/01/2025 $230.00 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVARE - NJ American Water Co. P.O. Box371331 PITTSBURGH PA. 15250 800-652-6987. General Remark: 2025 SECOND HALF TAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTED ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT. Properties serviced by Ocean Grove Sewer Authority are located in Ocean Grove and are subject to land 'lease charges; please contact OGCMA at 732-775-0035.",
+    "Parcel #": "Tax Lot: 2 fka 3; Block: 4302 fka 1301 Located on the tax map of the Township of Neptune",
+    "Plaintiff": "Bank of America, N.A.",
+    "Property Note": "",
+    "Sales Date": "9/15/2025",
+    "Sheriff #": "FOR-25000848"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 447656.8,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1012 Old Corlies Avenue Neptune NJ 07753",
+    "defendant": "Kevin E. Eldridge aka Kevin Eldridge, et. al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Bank of America, N.A.",
+    "sale_date": "2025-09-15"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 2 fka 3; Block: 4302 fka 1301 Located on the tax map of the Township of Neptune",
+  "plaintiff": "Bank of America, N.A.",
+  "property_note": null,
+  "sale_date": "2025-09-15",
+  "sheriff_number": "FOR-25000848",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-15",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Scheduled"
+    }
+  ]
+}

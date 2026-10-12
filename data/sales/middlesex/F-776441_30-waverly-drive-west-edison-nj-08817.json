@@ -1,0 +1,60 @@
+{
+  "address": "30 WAVERLY DRIVE WEST EDISON NJ 08817",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01291722",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "JESSICA L. PELLICANE A/K/A JESSICA PELLICANE A/K/A PELLICANE",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$496,603.54",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01291722",
+    "Defendant": "JESSICA L. PELLICANE A/K/A JESSICA PELLICANE A/K/A PELLICANE",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 89 BLOCK 265.27 F/K/A 265.AA",
+    "Plaintiff": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+    "Property Address": "30 WAVERLY DRIVE WEST\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "12/13/2024",
+    "Sheriff #": "F-776441"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 496603.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "30 WAVERLY DRIVE WEST EDISON NJ 08817",
+    "defendant": "JESSICA L. PELLICANE A/K/A JESSICA PELLICANE A/K/A PELLICANE",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2024-12-13"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 89 BLOCK 265.27 F/K/A 265.AA",
+  "plaintiff": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2024-12-13",
+  "sheriff_number": "F-776441",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-12-13",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

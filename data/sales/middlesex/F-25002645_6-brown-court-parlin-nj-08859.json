@@ -1,0 +1,56 @@
+{
+  "address": "6 BROWN COURT PARLIN NJ 08859",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-924-0808",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F0073525",
+  "current_status": "Bankruptcy",
+  "defendant": "JOSEPH MARCHESE, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$388,504.82",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F0073525",
+    "Defendant": "JOSEPH MARCHESE, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 41 BLOCK 5000.16",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF MFA 2024-RPL1 TRUST",
+    "Property Address": "6 BROWN COURT\nPARLIN NJ 08859",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25002645"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 388504.82,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 BROWN COURT PARLIN NJ 08859",
+    "defendant": "JOSEPH MARCHESE, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF MFA 2024-RPL1 TRUST",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 41 BLOCK 5000.16",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF MFA 2024-RPL1 TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25002645",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "25 North Aberdeen Place Atlantic City NJ 08401",
+  "attorney": "Fein, Such, Kahn & Shepard P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-5184-20 PLURIES",
+  "current_status": "Scheduled",
+  "deed": "Mohammed Chowdhury",
+  "deed_address": "330 N. Elberon Ave Atlantic City, NJ 08401",
+  "defendant": "Terri Cossaboon A/K/A Terri L. Coosaboon",
+  "extracted": {},
+  "fields": {
+    "Address": "25 North Aberdeen Place\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$167,913.67",
+    "Attorney": "Fein, Such, Kahn & Shepard P.C.",
+    "Court Case #": "F-5184-20 PLURIES",
+    "Deed": "Mohammed Chowdhury",
+    "Deed Address": "330 N. Elberon Ave Atlantic City, NJ 08401",
+    "Defendant": "Terri Cossaboon A/K/A Terri L. Coosaboon",
+    "Plaintiff": "U.S. Bank, N.A., Successor Trustee to Lasalle Bank National Association, On Behalf of the Holders of Bear Stearns Asset Backed Securities I Trust 2007-HE2, Asset-Backed Certificates",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: PRESENTLY UNKNOWN",
+    "Sales Date": "12/5/2024",
+    "Sheriff #": "F-23001254",
+    "Upset Amount": "$214,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 167913.67,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "25 North Aberdeen Place Atlantic City NJ 08401",
+    "defendant": "Terri Cossaboon A/K/...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank, N.A., Suc...",
+    "sale_date": "2024-12-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank, N.A., Successor Trustee to Lasalle Bank National Association, On Behalf of the Holders of Bear Stearns Asset Backed Securities I Trust 2007-HE2, Asset-Backed Certificates",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: PRESENTLY UNKNOWN",
+  "sale_date": "2024-12-05",
+  "sheriff_number": "F-23001254",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-12-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 214000.0,
+  "upset_amount_label": "Upset Amount"
+}

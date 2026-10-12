@@ -1,0 +1,68 @@
+{
+  "address": "193 S Fulton STREET WOODBRIDGE NJ 07095",
+  "attorney": "MARTONE & UHLMANN P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00640322",
+  "current_status": "Adjourned - Court",
+  "defendant": "KENNETH MROZ, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$112,772.59",
+    "Attorney": "MARTONE & UHLMANN P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 813-1700",
+    "Court Case #": "F00640322",
+    "Defendant": "KENNETH MROZ, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "Lot 9 Block 529.06 fka 529.F",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Address": "193 S Fulton STREET\nWOODBRIDGE NJ 07095",
+    "Property Note": "SECCESSUFULLY POSTED 07/11/2023 J. LINDOR",
+    "Sale Date": "4/30/2026",
+    "Sheriff #": "F-776128"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 112772.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "193 S Fulton STREET WOODBRIDGE NJ 07095",
+    "defendant": "KENNETH MROZ, ET ALS",
+    "listing_status": "Cancelled",
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-04-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "Lot 9 Block 529.06 fka 529.F",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": "SECCESSUFULLY POSTED 07/11/2023 J. LINDOR",
+  "sale_date": "2026-04-30",
+  "sheriff_number": "F-776128",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-04-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,72 @@
+{
+  "address": "109 WEST ARTHUR PLACE ISELIN NJ 08830",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00382121",
+  "current_status": "Bankruptcy Dismissed",
+  "defendant": "JOSE MEDEIROS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$267,972.76",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00382121",
+    "Defendant": "JOSE MEDEIROS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 73 BLOCK 484.04 FKA 484D",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VII-A",
+    "Property Address": "109 WEST ARTHUR PLACE\nISELIN NJ 08830",
+    "Property Note": "RE-POSTED 04/30/2025",
+    "Sale Date": "7/23/2025",
+    "Sheriff #": "F-25000449"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 267972.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "109 WEST ARTHUR PLACE ISELIN NJ 08830",
+    "defendant": "JOSE MEDEIROS, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VII-A",
+    "sale_date": "2025-07-23"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 73 BLOCK 484.04 FKA 484D",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VII-A",
+  "property_note": "RE-POSTED 04/30/2025",
+  "sale_date": "2025-07-23",
+  "sheriff_number": "F-25000449",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-07-23",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Bankruptcy Dismissed"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

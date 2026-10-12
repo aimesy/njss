@@ -1,0 +1,56 @@
+{
+  "address": "33 ELM TERRACE PARLIN NJ 08859",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00938922",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "JAMES CRUZ, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$432,163.69",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00938922",
+    "Defendant": "JAMES CRUZ, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 29 BLOCK 32.07",
+    "Plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "33 ELM TERRACE\nPARLIN NJ 08859",
+    "Property Note": "",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-24000393"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 432163.69,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "33 ELM TERRACE PARLIN NJ 08859",
+    "defendant": "JAMES CRUZ, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 29 BLOCK 32.07",
+  "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-24000393",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

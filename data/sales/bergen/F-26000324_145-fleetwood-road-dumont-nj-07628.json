@@ -1,0 +1,55 @@
+{
+  "address": "145 FLEETWOOD ROAD DUMONT NJ 07628",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00979725",
+  "current_status": "Cancelled",
+  "defendant": "ROBERT G. BLACKWELL, SR; LEONORA BLACKWELL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $556,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "145 FLEETWOOD ROAD\nDUMONT NJ 07628",
+    "Approx. Upset*": "$505,807.56",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00979725",
+    "Defendant": "ROBERT G. BLACKWELL, SR; LEONORA BLACKWELL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $556,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 2, BLOCK 405",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "5/29/2026",
+    "Sheriff #": "F-26000324"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "145 FLEETWOOD ROAD DUMONT NJ 07628",
+    "defendant": "ROBERT G. BLACKWELL, SR; LEONORA BLACKWELL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-05-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2, BLOCK 405",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-05-29",
+  "sheriff_number": "F-26000324",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-29",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 505807.56,
+  "upset_amount_label": "Approx. Upset*"
+}

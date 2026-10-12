@@ -1,0 +1,64 @@
+{
+  "address": "38 BALMORAL AVENUE MATAWAN NJ 07747",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00495325",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "STEPHEN MASCARELLA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$456,139.59",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00495325",
+    "Defendant": "STEPHEN MASCARELLA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 15 BLOCK 3236.11",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Address": "38 BALMORAL AVENUE\nMATAWAN NJ 07747",
+    "Property Note": "",
+    "Sale Date": "12/17/2025",
+    "Sheriff #": "F-25002103"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 456139.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "38 BALMORAL AVENUE MATAWAN NJ 07747",
+    "defendant": "STEPHEN MASCARELLA, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 15 BLOCK 3236.11",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25002103",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

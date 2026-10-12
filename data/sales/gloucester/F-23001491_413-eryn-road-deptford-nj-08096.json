@@ -1,0 +1,99 @@
+{
+  "address": "413 ERYN ROAD DEPTFORD NJ 08096",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-001409-22",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "ROBERT M. MORACE, ET AL",
+  "description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES: $734,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "413 ERYN ROAD\nDEPTFORD NJ 08096",
+    "Approximate Judgment": "$652,024.85",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F-001409-22",
+    "Defendant": "ROBERT M. MORACE, ET AL",
+    "Description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES: $734,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "BLOCK: 656.01 LOT: 7",
+    "Plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+    "Property Note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n413 ERYN ROAD DEPTFORD, NJ 08096\nBLOCK: 656.01 LOT: 7\nAPPROXIMATE DIMENSIONS: 60.00' x 100.00'\nNEAREST CROSS STREET: WOODCREEK ROAD\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES: $734,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "F-23001491"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 652024.85,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "413 ERYN ROAD DEPTFORD NJ 08096",
+    "defendant": "ROBERT M. MORACE, ET AL",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 656.01 LOT: 7",
+  "plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+  "property_note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n413 ERYN ROAD DEPTFORD, NJ 08096\nBLOCK: 656.01 LOT: 7\nAPPROXIMATE DIMENSIONS: 60.00' x 100.00'\nNEAREST CROSS STREET: WOODCREEK ROAD\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES: $734,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-23001491",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-01-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-02-14",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-03-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-03-14",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2024-08-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-08-28",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-20",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

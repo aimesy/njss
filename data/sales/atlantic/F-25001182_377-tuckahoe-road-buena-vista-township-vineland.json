@@ -1,0 +1,74 @@
+{
+  "address": "377 Tuckahoe Road Buena Vista Township (Vineland) NJ 08360",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-014134-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Denise L. Hinrichsen; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "377 Tuckahoe Road\nBuena Vista Township (Vineland) NJ 08360",
+    "Approx. Judgment*": "$229,227.39",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-014134-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Denise L. Hinrichsen; United States of America",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "5/14/2026",
+    "Sheriff #": "F-25001182",
+    "Upset Amount": "$251,377.51"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 229227.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "377 Tuckahoe Road Buena Vista Township (Vineland) NJ 08360",
+    "defendant": "Denise L. Hinrichsen...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2026-05-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2026-05-14",
+  "sheriff_number": "F-25001182",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-05-14",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-05-14",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 251377.51,
+  "upset_amount_label": "Upset Amount"
+}

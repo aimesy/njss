@@ -1,0 +1,70 @@
+{
+  "address": "20 Rushwood Drive Egg Harbor Township NJ 08234",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012181-18 PLURIES",
+  "current_status": "Scheduled",
+  "deed": "Wilmington Trust, National Association, Not in its Individual Capacity but Solely As Trustee for MFRA Trust 2016-1",
+  "deed_address": "3217 S. Decker Lake Drive, Salt Lake City, UT 84119",
+  "defendant": "Barbara Taylor",
+  "extracted": {},
+  "fields": {
+    "Address": "20 Rushwood Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$201,979.66",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-012181-18 PLURIES",
+    "Deed": "Wilmington Trust, National Association, Not in its Individual Capacity but Solely As Trustee for MFRA Trust 2016-1",
+    "Deed Address": "3217 S. Decker Lake Drive, Salt Lake City, UT 84119",
+    "Defendant": "Barbara Taylor",
+    "Plaintiff": "Wilmington Trust, National Association, Not In Its Individual Capacity But Solely As Trustee for MFRA Trust 2016-1",
+    "Priors": "Liens: Year: PART 2022 TO PART 2024 Type: 3RD Party Tax, Sewer Amount: $3,893.07 Cert No.: 22-00615 Sold: 12-21-2022 To: FIG20, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-19001101",
+    "Upset Amount": "$293,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 201979.66,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "20 Rushwood Drive Egg Harbor Township NJ 08234",
+    "defendant": "Barbara Taylor...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Trust, Na...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Trust, National Association, Not In Its Individual Capacity But Solely As Trustee for MFRA Trust 2016-1",
+  "priors": "Liens: Year: PART 2022 TO PART 2024 Type: 3RD Party Tax, Sewer Amount: $3,893.07 Cert No.: 22-00615 Sold: 12-21-2022 To: FIG20, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-19001101",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 293000.0,
+  "upset_amount_label": "Upset Amount"
+}

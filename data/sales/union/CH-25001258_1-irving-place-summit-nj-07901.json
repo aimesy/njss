@@ -1,0 +1,68 @@
+{
+  "address": "1 IRVING PLACE SUMMIT NJ 07901",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F03051314",
+  "current_status": "Buy Back",
+  "defendant": "WALTER TOTO; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "LOT 3 BLOCK 2613",
+  "extracted": {
+    "block": "2613",
+    "lot": "3"
+  },
+  "fields": {
+    "Address": "1 IRVING PLACE\nSUMMIT NJ 07901",
+    "Approx. Upset*": "$1,515,965.88",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F03051314",
+    "Defendant": "WALTER TOTO; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "LOT 3 BLOCK 2613",
+    "Parcel #": "LOT 3 BLOCK 2613",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-EMX7",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "CH-25001258"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1 IRVING PLACE SUMMIT NJ 07901",
+    "defendant": "WALTER TOTO; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-EMX7",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 3 BLOCK 2613",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-EMX7",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "CH-25001258",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-07-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-10",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Sheriff Adjournment"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 1515965.88,
+  "upset_amount_label": "Approx. Upset*"
+}

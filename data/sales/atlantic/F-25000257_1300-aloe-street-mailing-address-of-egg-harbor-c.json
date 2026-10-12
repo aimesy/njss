@@ -1,0 +1,58 @@
+{
+  "address": "1300 Aloe Street Mailing address of Egg Harbor City Galloway Township NJ 08215",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006127-24",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman",
+  "deed_address": "413 S. Seaview Ave, Galloway, NJ 08205",
+  "defendant": "Brandon L. Rivera; Christina Rivera; North Fork Bank; Washington Park Apts",
+  "extracted": {},
+  "fields": {
+    "Address": "1300 Aloe Street\nMailing address of Egg Harbor City\nGalloway Township NJ 08215",
+    "Approx. Judgment*": "$175,022.95",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-006127-24",
+    "Deed": "Amjad Rehman",
+    "Deed Address": "413 S. Seaview Ave, Galloway, NJ 08205",
+    "Defendant": "Brandon L. Rivera; Christina Rivera; North Fork Bank; Washington Park Apts",
+    "Plaintiff": "AmeriHome Mortgage Company, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "5/1/2025",
+    "Sheriff #": "F-25000257",
+    "Upset Amount": "$186,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 175022.95,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1300 Aloe Street Mailing address of Egg Harbor City Galloway Township NJ 08215",
+    "defendant": "Brandon L. Rivera; C...",
+    "listing_status": null,
+    "plaintiff": "AmeriHome Mortgage C...",
+    "sale_date": "2025-05-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "AmeriHome Mortgage Company, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-05-01",
+  "sheriff_number": "F-25000257",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-01",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 186500.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,67 @@
+{
+  "address": "241 Midland Boulevard Howell NJ 07731",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00556622",
+  "current_status": "Scheduled",
+  "defendant": "Erick Yakow A/K/A Erik Yakow, et al",
+  "description": "Dimensions of the Lot are (Approximately) 138 x 231 x 138 x 231\nNearest Cross Street: Charles Street\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "241 Midland Boulevard\nHowell NJ 07731",
+    "Approx. Judgment*": "$486,724.85",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F00556622",
+    "Defendant": "Erick Yakow A/K/A Erik Yakow, et al",
+    "Description": "Dimensions of the Lot are (Approximately) 138 x 231 x 138 x 231\nNearest Cross Street: Charles Street\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.",
+    "Parcel #": "Tax Lot 60 Block 144 Tax Map of the Township of Howell",
+    "Plaintiff": "Lehman XS Trust Mortgage Pass-Through Certificates, Series 2007-6, U.S. Bank National Association, As Trustee, Successor In Interest To Wilmington Trust Company, As Trustee, Successor In Interest To Bank Of America National Association, As Trustee, Successor By Merger To Lasalle Bank National Association, As Trustee",
+    "Property Note": "",
+    "Sales Date": "6/24/2025",
+    "Sheriff #": "FOR-22001868"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 486724.85,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "241 Midland Boulevard Howell NJ 07731",
+    "defendant": "Erick Yakow A/K/A Erik Yakow, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Lehman XS Trust Mortgage Pass-Through Certificates, Series 2007-6, U.S. Bank National Association, As Trustee, Successor In Interest To Wilmington Trust Company, As Trustee, Successor In Interest To Bank Of America National Association, As Trustee, Successor By Merger To Lasalle Bank National Association, As Trustee",
+    "sale_date": "2025-06-24"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 60 Block 144 Tax Map of the Township of Howell",
+  "plaintiff": "Lehman XS Trust Mortgage Pass-Through Certificates, Series 2007-6, U.S. Bank National Association, As Trustee, Successor In Interest To Wilmington Trust Company, As Trustee, Successor In Interest To Bank Of America National Association, As Trustee, Successor By Merger To Lasalle Bank National Association, As Trustee",
+  "property_note": null,
+  "sale_date": "2025-06-24",
+  "sheriff_number": "FOR-22001868",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-24",
+      "status": "Settled"
+    },
+    {
+      "date": "2023-01-17",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-01-17",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-12-19",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-11-21",
+      "status": "Scheduled"
+    }
+  ]
+}

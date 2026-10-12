@@ -1,0 +1,53 @@
+{
+  "address": "140 WAYNE Street Wayne NJ 07470",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 009246 24 CTL# 163101",
+  "current_status": "Bankruptcy",
+  "defendant": "ELSAN SENYURT, ET AL.",
+  "description": "Approximate Dimensions: 100x100x100x100\nNearest Cross Street: Monmouth Avenue\nEstimated Upset Sheriff's Sale Bid Amount: $733,000.00, subject to any further Orders of additional sums executed by the court.",
+  "extracted": {},
+  "fields": {
+    "Address": "140 WAYNE Street\nWayne NJ 07470",
+    "Approx. Upset*": "$662,590.47",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Court Case #": "F 009246 24 CTL# 163101",
+    "Defendant": "ELSAN SENYURT, ET AL.",
+    "Description": "Approximate Dimensions: 100x100x100x100\nNearest Cross Street: Monmouth Avenue\nEstimated Upset Sheriff's Sale Bid Amount: $733,000.00, subject to any further Orders of additional sums executed by the court.",
+    "Parcel #": "Tax Lot 3 Block 871",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "3/10/2026",
+    "Sheriff #": "F-25001842"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "140 WAYNE Street Wayne NJ 07470",
+    "defendant": "ELSAN SENYURT, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-03-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 3 Block 871",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-03-10",
+  "sheriff_number": "F-25001842",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-03-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-10",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 662590.47,
+  "upset_amount_label": "Approx. Upset*"
+}

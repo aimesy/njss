@@ -1,0 +1,64 @@
+{
+  "address": "11 DRAW BRIDGE DRIVE MONROE NJ 08831",
+  "attorney": "MARTONE & UHLMANN P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00347625",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "LESLIE F. LEIBOWITZ, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$137,867.35",
+    "Attorney": "MARTONE & UHLMANN P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 813-1700",
+    "Court Case #": "F00347625",
+    "Defendant": "LESLIE F. LEIBOWITZ, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 6 BLOCK 15.02",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Address": "11 DRAW BRIDGE DRIVE\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "1/21/2026",
+    "Sheriff #": "F-25002420"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 137867.35,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 DRAW BRIDGE DRIVE MONROE NJ 08831",
+    "defendant": "LESLIE F. LEIBOWITZ, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 6 BLOCK 15.02",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "F-25002420",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

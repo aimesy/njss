@@ -1,0 +1,53 @@
+{
+  "address": "626 BURNT MILL ROAD ATCO (WATERFORD TOWNSHIP) NJ 08004",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01152619",
+  "current_status": "Scheduled",
+  "defendant": "THOMAS A. CINELLI, JR. A/K/A THOMAS CINELLI; HEATHER L. CINELLI A/K/A HEATHER CINELLI A/K/A HEATHER CINELLI, JR. F/K/A HEATHER L. SIMPSON; HILCO RECEIVABLES LLC,",
+  "extracted": {},
+  "fields": {
+    "Address": "626 BURNT MILL ROAD\nATCO (WATERFORD TOWNSHIP) NJ 08004",
+    "Approx. Upset*": "$249,840.54",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01152619",
+    "Defendant": "THOMAS A. CINELLI, JR. A/K/A THOMAS CINELLI;\nHEATHER L. CINELLI A/K/A HEATHER CINELLI A/K/A\nHEATHER CINELLI, JR. F/K/A HEATHER L. SIMPSON;\nHILCO RECEIVABLES LLC,",
+    "Parcel #": "",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2017-FRE2, U.S. BANK\nNATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+    "Property Note": "",
+    "Sales Date": "5/5/2026",
+    "Sheriff #": "FR-26000287"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "626 BURNT MILL ROAD ATCO (WATERFORD TOWNSHIP) NJ 08004",
+    "defendant": "THOMAS A. CINELLI, JR. A/K/A THOMAS CINELLI; \nHEATHER L. CINELLI A/K/A HEATHER CINELLI A/K/A \nHEATHER CINELLI, JR. F/K/A HEATHER L. SIMPSON; \nHILCO RECEIVABLES LLC,",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2017-FRE2, U.S. BANK \nNATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+    "sale_date": "2026-05-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2017-FRE2, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+  "property_note": null,
+  "sale_date": "2026-05-05",
+  "sheriff_number": "FR-26000287",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 249840.54,
+  "upset_amount_label": "Approx. Upset*"
+}

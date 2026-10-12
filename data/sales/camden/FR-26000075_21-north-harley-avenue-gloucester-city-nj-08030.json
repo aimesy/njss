@@ -1,0 +1,61 @@
+{
+  "address": "21 NORTH HARLEY AVENUE GLOUCESTER CITY NJ 08030",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00827525",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "GATE 7 LLC; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "21 NORTH HARLEY AVENUE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$167,244.30",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00827525",
+    "Defendant": "GATE 7 LLC; ET AL.,",
+    "Parcel #": "",
+    "Plaintiff": "BRAVO RESIDENTAL FUNDING TRUST\n2025-NQM2 FOR CITIBANK, N.A. NOT IN ITS\nINDIVIDUAL CAPACITY BUT SOLELY AS\nOWNER TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "FR-26000075"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "21 NORTH HARLEY AVENUE GLOUCESTER CITY NJ 08030",
+    "defendant": "GATE 7 LLC; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "BRAVO RESIDENTAL FUNDING TRUST \n2025-NQM2 FOR CITIBANK, N.A. NOT IN ITS \nINDIVIDUAL CAPACITY BUT SOLELY AS \nOWNER TRUSTEE",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "BRAVO RESIDENTAL FUNDING TRUST 2025-NQM2 FOR CITIBANK, N.A. NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "FR-26000075",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 167244.3,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,68 @@
+{
+  "address": "42 HARROW DRIVE COLONIA NJ 07067",
+  "attorney": "MCCABE, WEISBERG & CONWAY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 802-4300",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00444623",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "ELINES SANCHEZ PABON, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$936,390.28",
+    "Attorney": "MCCABE, WEISBERG & CONWAY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 802-4300",
+    "Court Case #": "F00444623",
+    "Defendant": "ELINES SANCHEZ PABON, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 3 BLOCK 476.06",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Address": "42 HARROW DRIVE\nCOLONIA NJ 07067",
+    "Property Note": "",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-25001362"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 936390.28,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "42 HARROW DRIVE COLONIA NJ 07067",
+    "defendant": "ELINES SANCHEZ PABON, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 3 BLOCK 476.06",
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-25001362",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

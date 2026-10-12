@@ -1,0 +1,56 @@
+{
+  "address": "33 MARINA DRIVE SEWAREN NJ 07077",
+  "attorney": "CUTOLO BARROS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "732-414-1170",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00399624",
+  "current_status": "Settled",
+  "defendant": "SAMUEL ALBERTO MORALES, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$29,136.14",
+    "Attorney": "CUTOLO BARROS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "732-414-1170",
+    "Court Case #": "F00399624",
+    "Defendant": "SAMUEL ALBERTO MORALES, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.A AKA 1.01 QUAL C0033 BLOCK 668",
+    "Plaintiff": "MARINA WAY CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "33 MARINA DRIVE\nSEWAREN NJ 07077",
+    "Property Note": "",
+    "Sale Date": "3/18/2025",
+    "Sheriff #": "F-25000156"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 29136.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "33 MARINA DRIVE SEWAREN NJ 07077",
+    "defendant": "SAMUEL ALBERTO MORALES, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "MARINA WAY CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2025-03-18"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.A AKA 1.01 QUAL C0033 BLOCK 668",
+  "plaintiff": "MARINA WAY CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2025-03-18",
+  "sheriff_number": "F-25000156",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-18",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

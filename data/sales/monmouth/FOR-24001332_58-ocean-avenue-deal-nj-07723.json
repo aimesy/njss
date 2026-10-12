@@ -1,0 +1,71 @@
+{
+  "address": "58 Ocean Avenue Deal NJ 07723",
+  "attorney": "Brach Eichler LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "SWC-F00640623",
+  "current_status": "Scheduled",
+  "defendant": "58 Ocean Avenue, LLC",
+  "description": "The Premises is located BEGINNING AT A POINT in the Westerly line of Ocean Avenue said point distant 150.00 feet Northerly from the intersection of the said Ocean Avenue and the Southerly side of Roosevelt Avenue; thence:\n(1) Along the Westerly line of Ocean Avenue, South 25 degrees 23 minutes 00 West, 150.00 feet to a point; thence\n(2) North 71 degrees 27 minutes 28 seconds West, 201.37 feet to a point; thence\n(3) North 25 degrees 23 minutes 00 seconds East, 179.00 feet to a point; thence\n(4) South 63 degrees 11 minutes 00 seconds East, 200.00 feet to the point and place of BEGINNING\nGood faith estimate of upset price its credit bid as of 10/7/2024 is:\n$5,111,996.67",
+  "extracted": {
+    "upset_amount": 5111996.67
+  },
+  "fields": {
+    "Address": "58 Ocean Avenue\nDeal NJ 07723",
+    "Approx. Judgment*": "$4,734,192.06",
+    "Attorney": "Brach Eichler LLC",
+    "Court Case #": "SWC-F00640623",
+    "Defendant": "58 Ocean Avenue, LLC",
+    "Description": "The Premises is located BEGINNING AT A POINT in the Westerly line of Ocean Avenue said point distant 150.00 feet Northerly from the intersection of the said Ocean Avenue and the Southerly side of Roosevelt Avenue; thence:\n(1) Along the Westerly line of Ocean Avenue, South 25 degrees 23 minutes 00 West, 150.00 feet to a point; thence\n(2) North 71 degrees 27 minutes 28 seconds West, 201.37 feet to a point; thence\n(3) North 25 degrees 23 minutes 00 seconds East, 179.00 feet to a point; thence\n(4) South 63 degrees 11 minutes 00 seconds East, 200.00 feet to the point and place of BEGINNING\nGood faith estimate of upset price its credit bid as of 10/7/2024 is:\n$5,111,996.67",
+    "Parcel #": "Lot: 1.04 Tax Map of Borough of Deal",
+    "Plaintiff": "Vaster Sub II, LLC",
+    "Property Note": "",
+    "Sales Date": "11/13/2025",
+    "Sheriff #": "FOR-24001332"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 4734192.06,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "58 Ocean Avenue Deal NJ 07723",
+    "defendant": "58 Ocean Avenue, LLC",
+    "listing_status": "Settled",
+    "plaintiff": "Vaster Sub II, LLC",
+    "sale_date": "2025-11-13"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 1.04 Tax Map of Borough of Deal",
+  "plaintiff": "Vaster Sub II, LLC",
+  "property_note": null,
+  "sale_date": "2025-11-13",
+  "sheriff_number": "FOR-24001332",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-13",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Scheduled"
+    }
+  ]
+}

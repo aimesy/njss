@@ -1,0 +1,63 @@
+{
+  "address": "422 Ocean Boulevard N. Unit 5H Long Branch NJ 07740",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00237925",
+  "current_status": "Scheduled",
+  "defendant": "Dean J. Gentile et al.",
+  "description": "Approximate Dimensions: (COND)\nNearest Cross Street: Joline Avenue\nUpset price: $197,406.47 (Note, this is a good faith estimate of the upset price at the sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewage plus interest through date of payoff.\nSubject to any lien in favor of CONDOMINIUM ASSOCIATION which is GRANTED PRIORITY PURSUANT to N.J.S.A. 46:B-21(b), if any.",
+  "extracted": {
+    "upset_amount": 197406.47
+  },
+  "fields": {
+    "Address": "422 Ocean Boulevard N. Unit 5H\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$180,810.12",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F00237925",
+    "Defendant": "Dean J. Gentile et al.",
+    "Description": "Approximate Dimensions: (COND)\nNearest Cross Street: Joline Avenue\nUpset price: $197,406.47 (Note, this is a good faith estimate of the upset price at the sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewage plus interest through date of payoff.\nSubject to any lien in favor of CONDOMINIUM ASSOCIATION which is GRANTED PRIORITY PURSUANT to N.J.S.A. 46:B-21(b), if any.",
+    "Parcel #": "Tax Lot #3.508 Block #416 on the Tax map of The City of Long Branch",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for The Benefit of The Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2020-3",
+    "Property Note": "",
+    "Sales Date": "12/17/2025",
+    "Sheriff #": "FOR-25001511"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 180810.12,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "422 Ocean Boulevard N. Unit 5H Long Branch NJ 07740",
+    "defendant": "Dean J. Gentile et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for The Benefit of The Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2020-3",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot #3.508 Block #416 on the Tax map of The City of Long Branch",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for The Benefit of The Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2020-3",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "FOR-25001511",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    }
+  ]
+}

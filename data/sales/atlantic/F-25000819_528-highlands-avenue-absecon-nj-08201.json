@@ -1,0 +1,66 @@
+{
+  "address": "528 Highlands Avenue Absecon NJ 08201",
+  "attorney": "Leopold & Associates, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010960-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Phoenix Rising Re-Entry LLC; Thomas Strassle, Guarantor; Born Builders, Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "528 Highlands Avenue\nAbsecon NJ 08201",
+    "Approx. Judgment*": "$338,116.01",
+    "Attorney": "Leopold & Associates, PLLC",
+    "Court Case #": "F-010960-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Phoenix Rising Re-Entry LLC; Thomas Strassle, Guarantor; Born Builders, Inc",
+    "Plaintiff": "LHOME Mortgage Trust 2023-RTL2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/13/2025",
+    "Sheriff #": "F-25000819",
+    "Upset Amount": "$356,549.78"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 338116.01,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "528 Highlands Avenue Absecon NJ 08201",
+    "defendant": "Phoenix Rising Re-En...",
+    "listing_status": null,
+    "plaintiff": "LHOME Mortgage Trust...",
+    "sale_date": "2025-11-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "LHOME Mortgage Trust 2023-RTL2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-11-13",
+  "sheriff_number": "F-25000819",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-11-13",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-09-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 356549.78,
+  "upset_amount_label": "Upset Amount"
+}

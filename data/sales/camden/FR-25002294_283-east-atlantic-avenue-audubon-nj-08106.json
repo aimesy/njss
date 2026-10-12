@@ -1,0 +1,53 @@
+{
+  "address": "283 EAST ATLANTIC AVENUE AUDUBON NJ 08106",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00758624",
+  "current_status": "Purchased",
+  "defendant": "ESTELLE REA, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "283 EAST ATLANTIC AVENUE\nAUDUBON NJ 08106",
+    "Approx. Upset*": "$211,332.31",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00758624",
+    "Defendant": "ESTELLE REA, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, N.A. AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-FXD1",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-25002294"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "283 EAST ATLANTIC AVENUE AUDUBON NJ 08106",
+    "defendant": "ESTELLE REA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A. AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-FXD1",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, N.A. AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-FXD1",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-25002294",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 211332.31,
+  "upset_amount_label": "Approx. Upset*"
+}

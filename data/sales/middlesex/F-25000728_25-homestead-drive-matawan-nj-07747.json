@@ -1,0 +1,64 @@
+{
+  "address": "25 HOMESTEAD DRIVE MATAWAN NJ 07747",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F03638714",
+  "current_status": "Adjourned - Court",
+  "defendant": "ANGELA CUOZZO, ET ALS.",
+  "description": "Case No. 25-16029 Chapter 13 Filed 6/6/2025",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$284,739.65",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F03638714",
+    "Defendant": "ANGELA CUOZZO, ET ALS.",
+    "Description": "Case No. 25-16029 Chapter 13 Filed 6/6/2025",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 25 BLOCK 11256",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Address": "25 HOMESTEAD DRIVE\nMATAWAN NJ 07747",
+    "Property Note": "SUCCESSFULLY POSTED 01/26/2016 BY RON WALKO",
+    "Sale Date": "5/14/2026",
+    "Sheriff #": "F-25000728"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 284739.65,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "25 HOMESTEAD DRIVE MATAWAN NJ 07747",
+    "defendant": "ANGELA CUOZZO, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-05-14"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 25 BLOCK 11256",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": "SUCCESSFULLY POSTED 01/26/2016 BY RON WALKO",
+  "sale_date": "2026-05-14",
+  "sheriff_number": "F-25000728",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-05-14",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

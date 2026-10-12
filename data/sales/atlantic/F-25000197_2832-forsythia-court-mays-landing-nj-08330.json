@@ -1,0 +1,58 @@
+{
+  "address": "2832 Forsythia Court Mays Landing NJ 08330",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008115-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Kevin J. Stewart; Kelly Renee Stewart; ABC Bail Bonds, Inc; Lexington National Insurance Corporation; Delinda White; New Century Financial Services, Inc; The Woodlands Community Association, Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "2832 Forsythia Court\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$92,722.27",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-008115-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Kevin J. Stewart; Kelly Renee Stewart; ABC Bail Bonds, Inc; Lexington National Insurance Corporation; Delinda White; New Century Financial Services, Inc; The Woodlands Community Association, Inc",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for Legacy Mortgage Asset Trust 2021-GS2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/24/2025",
+    "Sheriff #": "F-25000197",
+    "Upset Amount": "$103,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 92722.27,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2832 Forsythia Court Mays Landing NJ 08330",
+    "defendant": "Kevin J. Stewart; Ke...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-04-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for Legacy Mortgage Asset Trust 2021-GS2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-04-24",
+  "sheriff_number": "F-25000197",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-24",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 103500.0,
+  "upset_amount_label": "Upset Amount"
+}

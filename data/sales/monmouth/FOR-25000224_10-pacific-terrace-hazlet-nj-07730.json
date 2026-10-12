@@ -1,0 +1,53 @@
+{
+  "address": "10 Pacific Terrace Hazlet NJ 07730",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00113622",
+  "current_status": "Scheduled",
+  "defendant": "William F. Hertke Jr., et al",
+  "description": "Dimensions of Lot: (Approximately) 112.11 feet By 84.17 feet\nNearest Cross Street: Lynn Boulevard\nThe estimated upset amount for the scheduled sheriff sale is currently $183,167.01.\nthe upset price is not the same as a payff or judgment redemption amount.\nThis property is occupied by unknown",
+  "extracted": {},
+  "fields": {
+    "Address": "10 Pacific Terrace\nHazlet NJ 07730",
+    "Approx. Judgment*": "$154,040.64",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00113622",
+    "Defendant": "William F. Hertke Jr., et al",
+    "Description": "Dimensions of Lot: (Approximately) 112.11 feet By 84.17 feet\nNearest Cross Street: Lynn Boulevard\nThe estimated upset amount for the scheduled sheriff sale is currently $183,167.01.\nthe upset price is not the same as a payff or judgment redemption amount.\nThis property is occupied by unknown",
+    "Parcel #": "Lot 16, Block 99 Tax Map of the Township of Hazlet",
+    "Plaintiff": "MidFirst Bank",
+    "Property Note": "",
+    "Sales Date": "3/31/2025",
+    "Sheriff #": "FOR-25000224"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 154040.64,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 Pacific Terrace Hazlet NJ 07730",
+    "defendant": "William F. Hertke Jr., et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "MidFirst Bank",
+    "sale_date": "2025-03-31"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 16, Block 99 Tax Map of the Township of Hazlet",
+  "plaintiff": "MidFirst Bank",
+  "property_note": null,
+  "sale_date": "2025-03-31",
+  "sheriff_number": "FOR-25000224",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-31",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    }
+  ]
+}

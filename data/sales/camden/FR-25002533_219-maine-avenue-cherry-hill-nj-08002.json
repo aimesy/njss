@@ -1,0 +1,65 @@
+{
+  "address": "219 MAINE AVENUE CHERRY HILL NJ 08002",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00049121",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "JUAN B ESPINOSA; JAEL ESPINOSA; STATE OF NEW JERSEY; CHERRY HILL DEPARTMENT OF COMMUNITY DEVELOPMENT; LEKESHA ELTING; TELIA WHITE; BARBRA RICH; CONDOR CAPITAL CORP; UNIFUND CCR PARTNERS",
+  "extracted": {},
+  "fields": {
+    "Address": "219 MAINE AVENUE\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$380,330.23",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F00049121",
+    "Defendant": "JUAN B ESPINOSA; JAEL ESPINOSA; STATE OF NEW JERSEY;\nCHERRY HILL DEPARTMENT OF COMMUNITY DEVELOPMENT;\nLEKESHA ELTING; TELIA WHITE; BARBRA RICH; CONDOR\nCAPITAL CORP; UNIFUND CCR PARTNERS",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN\nITS INDIVIDUALCAPACITY BUT SOLEY AS OWNER\nTRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "FR-25002533"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "219 MAINE AVENUE CHERRY HILL NJ 08002",
+    "defendant": "JUAN B ESPINOSA; JAEL ESPINOSA; STATE OF NEW JERSEY; \nCHERRY HILL DEPARTMENT OF COMMUNITY DEVELOPMENT; \nLEKESHA ELTING; TELIA WHITE; BARBRA RICH; CONDOR \nCAPITAL CORP; UNIFUND CCR PARTNERS",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN \nITS INDIVIDUALCAPACITY BUT SOLEY AS OWNER \nTRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUALCAPACITY BUT SOLEY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "FR-25002533",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 380330.23,
+  "upset_amount_label": "Approx. Upset*"
+}

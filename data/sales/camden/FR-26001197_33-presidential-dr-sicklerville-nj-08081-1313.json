@@ -1,0 +1,65 @@
+{
+  "address": "33 PRESIDENTIAL DR SICKLERVILLE NJ 08081-1313",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00834125",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MELISSA ESCARFULLERYS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "33 PRESIDENTIAL DR\nSICKLERVILLE NJ 08081-1313",
+    "Approx. Upset*": "$108,815.29",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00834125",
+    "Defendant": "MELISSA ESCARFULLERYS, ET AL.",
+    "Parcel #": "LOT 17, BLOCK 16601",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "Pursuit 28 USC 2410C the SAlE subject to 1 year right of redemption held by the United States of America by virtue of Jailene:\nPartial Claims Mortgage: Melissa Escarfullerys two Secretary of Housing and Urban Development, they did November 18, 2021 and recorded January 25, 2022 and book 11949, page 1568, to Secure $11,321.04\nMortgage: Melissa Escarfullerys she Secretary of Housing and Urban Development, dated June 25, 2024 recorded July 26, 2024 in book 12626, page 1667, to Secure $12,511.69.\nSubject to tax sale certificate number 25–05664 for open sore and CCMUA in the amount of $721.72. Third-party purchasers is responsible for obtaining final amount to redeem.",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001197"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "33 PRESIDENTIAL DR SICKLERVILLE NJ 08081-1313",
+    "defendant": "MELISSA ESCARFULLERYS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 17, BLOCK 16601",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "Pursuit 28 USC 2410C the SAlE subject to 1 year right of redemption held by the United States of America by virtue of Jailene:\nPartial Claims Mortgage: Melissa Escarfullerys two Secretary of Housing and Urban Development, they did November 18, 2021 and recorded January 25, 2022 and book 11949, page 1568, to Secure $11,321.04\nMortgage: Melissa Escarfullerys she Secretary of Housing and Urban Development, dated June 25, 2024 recorded July 26, 2024 in book 12626, page 1667, to Secure $12,511.69.\nSubject to tax sale certificate number 25–05664 for open sore and CCMUA in the amount of $721.72. Third-party purchasers is responsible for obtaining final amount to redeem.",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001197",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-05",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 108815.29,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "406 SECOND AVENUE PISCATAWAY NJ 08854",
+  "attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 325-8800",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00343025",
+  "current_status": "Bankruptcy",
+  "defendant": "ROBERT MARTINEAU, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$286,552.58",
+    "Attorney": "FRENKEL, LAMBERT, WEISS, WEISMAN & GORDON LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00343025",
+    "Defendant": "ROBERT MARTINEAU, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 23 BLOCK 6601 FKA 502.13",
+    "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS, INC., MORTGAGE PASS-THROUGH CERTIFICATES, MANA SERIES 2007-OAR4",
+    "Property Address": "406 SECOND AVENUE\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "12/17/2025",
+    "Sheriff #": "F-25003173"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 286552.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "406 SECOND AVENUE PISCATAWAY NJ 08854",
+    "defendant": "ROBERT MARTINEAU, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS, INC., MORTGAGE PASS-THROUGH CERTIFICATES, MANA SERIES 2007-OAR4",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 23 BLOCK 6601 FKA 502.13",
+  "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS, INC., MORTGAGE PASS-THROUGH CERTIFICATES, MANA SERIES 2007-OAR4",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25003173",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

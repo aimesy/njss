@@ -1,0 +1,66 @@
+{
+  "address": "542 Forest Grove Road Buena Borough (Vineland) NJ 08360",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011952-18",
+  "current_status": "Scheduled",
+  "deed": "SHORE WEALTH MANAGEMENT LLC",
+  "deed_address": "903 NJ-50 Bloulevard, Mays Landing, NJ 08330",
+  "defendant": "Susan C. Gabage; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "542 Forest Grove Road\nBuena Borough (Vineland) NJ 08360",
+    "Approx. Judgment*": "$208,652.75",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-011952-18",
+    "Deed": "SHORE WEALTH MANAGEMENT LLC",
+    "Deed Address": "903 NJ-50 Bloulevard, Mays Landing, NJ 08330",
+    "Defendant": "Susan C. Gabage; State of New Jersey",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-21001415",
+    "Upset Amount": "$97,700.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 208652.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "542 Forest Grove Road Buena Borough (Vineland) NJ 08360",
+    "defendant": "Susan C. Gabage; Sta...",
+    "listing_status": null,
+    "plaintiff": "Wells Fargo Bank, N....",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-21001415",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 97700.0,
+  "upset_amount_label": "Upset Amount"
+}

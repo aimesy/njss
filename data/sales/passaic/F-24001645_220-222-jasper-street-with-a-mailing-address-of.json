@@ -1,0 +1,88 @@
+{
+  "address": "220-222 Jasper Street With a Mailing Address of 222 Jasper Street Paterson NJ 07522",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 19219-19 CTL#162838",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "GARRETT BECKFORD, ET ALS.",
+  "description": "DIMENSION OF LOT APPROX: 37 X 100\nNEAREST CROSS STREET DOREMUS STREET\nBEGININING AT A POINT IN THE EASTERLY LINE OF JASPER STREET DISTANT 137.50 FEET NORTHERLY ALONG THE SAME FROM THE POINT FORMED BY THE INTERSECTION OF SAID EASTERLY LINE OF JASPER STREET WITH THE NORTHERLY LINE OF DOREMUS STREET AND RUNNING THENCE:\nPRIOR LIENS/ ENCUMBRANCES\n3RD PARTY TAX, SEWER CERT NO. 23-00241\n3RD QTR TAXED OPEN PLUS PENALTY\nSEWER OPEN AND DUE\nSEWER OPEN PLUS PENALTY\nWATER OPEN PLUS PENALTY\nTOTAL AS OF OCTOBER 2, 2024.\nGOOD FAITH ESTIMATE OF UPSET PRICE: $648,758.13\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOW.",
+  "extracted": {
+    "lot": "APPROX",
+    "upset_amount": 648758.13
+  },
+  "fields": {
+    "Address": "220-222 Jasper Street\nWith a Mailing Address of 222 Jasper Street\nPaterson NJ 07522",
+    "Approx. Upset*": "$568,179.57",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Court Case #": "F 19219-19 CTL#162838",
+    "Defendant": "GARRETT BECKFORD, ET ALS.",
+    "Description": "DIMENSION OF LOT APPROX: 37 X 100\nNEAREST CROSS STREET DOREMUS STREET\nBEGININING AT A POINT IN THE EASTERLY LINE OF JASPER STREET DISTANT 137.50 FEET NORTHERLY ALONG THE SAME FROM THE POINT FORMED BY THE INTERSECTION OF SAID EASTERLY LINE OF JASPER STREET WITH THE NORTHERLY LINE OF DOREMUS STREET AND RUNNING THENCE:\nPRIOR LIENS/ ENCUMBRANCES\n3RD PARTY TAX, SEWER CERT NO. 23-00241\n3RD QTR TAXED OPEN PLUS PENALTY\nSEWER OPEN AND DUE\nSEWER OPEN PLUS PENALTY\nWATER OPEN PLUS PENALTY\nTOTAL AS OF OCTOBER 2, 2024.\nGOOD FAITH ESTIMATE OF UPSET PRICE: $648,758.13\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOW.",
+    "Parcel #": "LOT#35 FKA 8 IN BLOCK NO. 1006 FKA B0169",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, ETC",
+    "Property Note": "",
+    "Sales Date": "3/17/2026",
+    "Sheriff #": "F-24001645"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "220-222 Jasper Street With a Mailing Address of 222 Jasper Street Paterson NJ 07522",
+    "defendant": "GARRETT BECKFORD, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, ETC",
+    "sale_date": "2026-03-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "LOT#35 FKA 8 IN BLOCK NO. 1006 FKA B0169",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, ETC",
+  "property_note": null,
+  "sale_date": "2026-03-17",
+  "sheriff_number": "F-24001645",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2024-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-02-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-05-06",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-05-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 568179.57,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,65 @@
+{
+  "address": "1022 MECHANIC ST CAMDEN NJ 08104",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00056425",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JENNY MORENO LOPEZ, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1022 MECHANIC ST\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$152,678.62",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00056425",
+    "Defendant": "JENNY MORENO LOPEZ, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "GITSIT SOLUTIONS, LLC F/K/A KONDAUR CAPITAL CORPORATION",
+    "Property Note": "",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "FR-25002258"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1022 MECHANIC ST CAMDEN NJ 08104",
+    "defendant": "JENNY MORENO LOPEZ, ET AL.",
+    "listing_status": null,
+    "plaintiff": "GITSIT SOLUTIONS, LLC F/K/A KONDAUR CAPITAL CORPORATION",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "GITSIT SOLUTIONS, LLC F/K/A KONDAUR CAPITAL CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-04-15",
+  "sheriff_number": "FR-25002258",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 152678.62,
+  "upset_amount_label": "Approx. Upset*"
+}

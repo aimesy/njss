@@ -1,0 +1,70 @@
+{
+  "address": "105 Lucille Drive Egg Harbor Township NJ 08234",
+  "attorney": "Fein, Such, Kahn & Shepard P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-4194-20 ALIAS",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Ronelio Jurilla; Mary M. Jurilla; Sunnova TEP II Manager LLC: Discover Bank",
+  "extracted": {},
+  "fields": {
+    "Address": "105 Lucille Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$267,999.69",
+    "Attorney": "Fein, Such, Kahn & Shepard P.C.",
+    "Court Case #": "F-4194-20 ALIAS",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Ronelio Jurilla; Mary M. Jurilla; Sunnova TEP II Manager LLC: Discover Bank",
+    "Plaintiff": "Magerick, LLC",
+    "Priors": "3rd PARTY TAX CERT NO. 24-00183, amount: $6,142.29\nTOTAL AS OF April 21, 2025: $6,142.29",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "9/25/2025",
+    "Sheriff #": "F-23000501",
+    "Upset Amount": "$328,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 267999.69,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "105 Lucille Drive Egg Harbor Township NJ 08234",
+    "defendant": "Ronelio Jurilla; Mar...",
+    "listing_status": null,
+    "plaintiff": "Magerick, LLC...",
+    "sale_date": "2025-09-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Magerick, LLC",
+  "priors": "3rd PARTY TAX CERT NO. 24-00183, amount: $6,142.29 TOTAL AS OF April 21, 2025: $6,142.29",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-09-25",
+  "sheriff_number": "F-23000501",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-25",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-09-25",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 328000.0,
+  "upset_amount_label": "Upset Amount"
+}

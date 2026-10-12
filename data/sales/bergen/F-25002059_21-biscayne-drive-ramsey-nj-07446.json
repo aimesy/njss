@@ -1,0 +1,55 @@
+{
+  "address": "21 BISCAYNE DRIVE RAMSEY NJ 07446",
+  "attorney": "FAZZIO LAW OFFICES LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00355625",
+  "current_status": "Cancelled",
+  "defendant": "DAVID M LOMBARDO A/K/A DAVID LOMBARDO; JOHNNA LOMBARDO; ET AL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $593,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "21 BISCAYNE DRIVE\nRAMSEY NJ 07446",
+    "Approx. Upset*": "$543,703.33",
+    "Attorney": "FAZZIO LAW OFFICES LLC",
+    "Court Case #": "F00355625",
+    "Defendant": "DAVID M LOMBARDO A/K/A DAVID LOMBARDO; JOHNNA LOMBARDO; ET AL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $593,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 38, BLOCK 5405",
+    "Plaintiff": "HSBC BANK USA, NA, AS TRUSTEE ON BEHALF OF ACE SECURITIES CORP HOME EQUITY LOAN TRUST AND FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP HOME EQUITY LOAN TRUST, SERIES 2007-WM2, ASSET BACKED PASS-THROUGH CERTIFICATES",
+    "Property Note": "",
+    "Sales Date": "12/2/2025",
+    "Sheriff #": "F-25002059"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "21 BISCAYNE DRIVE RAMSEY NJ 07446",
+    "defendant": "DAVID M LOMBARDO A/K/A DAVID LOMBARDO; JOHNNA LOMBARDO; ET AL",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, NA, AS TRUSTEE ON BEHALF OF ACE SECURITIES CORP HOME EQUITY LOAN TRUST AND FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP HOME EQUITY LOAN TRUST, SERIES 2007-WM2, ASSET BACKED PASS-THROUGH CERTIFICATES",
+    "sale_date": "2025-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 38, BLOCK 5405",
+  "plaintiff": "HSBC BANK USA, NA, AS TRUSTEE ON BEHALF OF ACE SECURITIES CORP HOME EQUITY LOAN TRUST AND FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP HOME EQUITY LOAN TRUST, SERIES 2007-WM2, ASSET BACKED PASS-THROUGH CERTIFICATES",
+  "property_note": null,
+  "sale_date": "2025-12-02",
+  "sheriff_number": "F-25002059",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 543703.33,
+  "upset_amount_label": "Approx. Upset*"
+}

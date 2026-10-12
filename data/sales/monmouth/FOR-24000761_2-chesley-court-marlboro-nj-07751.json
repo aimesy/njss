@@ -1,0 +1,65 @@
+{
+  "address": "2 Chesley Court Marlboro NJ 07751",
+  "attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00717523",
+  "current_status": "Scheduled",
+  "defendant": "Anthony Massato et al.",
+  "description": "Dimensions of lot Approximately: 123 x 160\nNearest Cross Street: Georgina Bay Drive\nBeginning at a point and corner located at the terminus point of a herein described curve connecting the Westerly Line Chelsey Court, 50' wide row, with the Southerly line of Georgina Bay Drive, 50' wide row, as shown on the hereinafter reference map filed in the Monmouth County Clerk's Office and running thence from said beginning point;\nUPSET PRICE: Approximately $823,925.80 and any additional sums as ordered by the court\nOCCUPANCY STATUS: Occupied by UNKNOWN\nPursuant to a tax search of 04/02/2024; 2024 Qtr.2 due: 05/01/2024 $2,470.97 OPEN, Sewer Acct. 7145 0 05/01/2024 - 07/31/2024 $125.00 OPEN and DUE 05/28/2024 $744.82 OPEN PLUS PENALTY; owed in appears. Water Acct. 40719 to: 01/17/2024 $127.99 PAID subject to final reading.\n(This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff)",
+  "extracted": {
+    "lot": "Approximately",
+    "occupancy": "Occupied by UNKNOWN",
+    "upset_amount": 823925.8
+  },
+  "fields": {
+    "Address": "2 Chesley Court\nMarlboro NJ 07751",
+    "Approx. Judgment*": "$767,776.26",
+    "Attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+    "Court Case #": "F00717523",
+    "Defendant": "Anthony Massato et al.",
+    "Description": "Dimensions of lot Approximately: 123 x 160\nNearest Cross Street: Georgina Bay Drive\nBeginning at a point and corner located at the terminus point of a herein described curve connecting the Westerly Line Chelsey Court, 50' wide row, with the Southerly line of Georgina Bay Drive, 50' wide row, as shown on the hereinafter reference map filed in the Monmouth County Clerk's Office and running thence from said beginning point;\nUPSET PRICE: Approximately $823,925.80 and any additional sums as ordered by the court\nOCCUPANCY STATUS: Occupied by UNKNOWN\nPursuant to a tax search of 04/02/2024; 2024 Qtr.2 due: 05/01/2024 $2,470.97 OPEN, Sewer Acct. 7145 0 05/01/2024 - 07/31/2024 $125.00 OPEN and DUE 05/28/2024 $744.82 OPEN PLUS PENALTY; owed in appears. Water Acct. 40719 to: 01/17/2024 $127.99 PAID subject to final reading.\n(This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff)",
+    "Parcel #": "Tax Lot 9 Block 257 Located on the Tax map of The Township of Marlboro",
+    "Plaintiff": "U.S. Bank National Association, as Trustee for the Certificate Holders of CSFB Mortgage-Backed Passed-Through Certificates, Series 2004-AR6",
+    "Property Note": "",
+    "Sales Date": "10/21/2024",
+    "Sheriff #": "FOR-24000761"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 767776.26,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2 Chesley Court Marlboro NJ 07751",
+    "defendant": "Anthony Massato et al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "U.S. Bank National Association, as Trustee for the Certificate Holders of CSFB Mortgage-Backed Passed-Through Certificates, Series 2004-AR6",
+    "sale_date": "2024-10-21"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 9 Block 257 Located on the Tax map of The Township of Marlboro",
+  "plaintiff": "U.S. Bank National Association, as Trustee for the Certificate Holders of CSFB Mortgage-Backed Passed-Through Certificates, Series 2004-AR6",
+  "property_note": null,
+  "sale_date": "2024-10-21",
+  "sheriff_number": "FOR-24000761",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-10-21",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "address": "55 Cherokee Drive Galloway Township NJ 08205",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006725-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Andrea Kennedy Deceased, Her Heirs, Devisees And Personal Represenatives and His, Her, Their or Any of Their Successors In Right, Title, and Interest; Ronald D. Roberts, Deceased, His Heirs, Devisees And Personal Represenatives and His, Her, Their or Any of Their Successors In Right, Title, and Interest; Dawn M. Roberts, As Heir of Andrea Kennedy; AMQ Properties LLC; County Educators FCU; Allegheny AA Bail Bonds Inc O/B/O Allegheny Casualty Company; Bushberg Brothers Furniture Co; ACMC Anesthesiologists; FFPM Carmel Holdings I LLC; New Century Financial Services; Earthtech Contracting Inc.; Cape Atlantic Oral and Maxillofacial Surgeons PA; Society Hill At Galloway II Condominium Association, Inc.; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "55 Cherokee Drive\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$150,988.18",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-006725-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Andrea Kennedy Deceased, Her Heirs, Devisees And Personal Represenatives and His, Her, Their or Any of Their Successors In Right, Title, and Interest; Ronald D. Roberts, Deceased, His Heirs, Devisees And Personal Represenatives and His, Her, Their or Any of Their Successors In Right, Title, and Interest; Dawn M. Roberts, As Heir of Andrea Kennedy; AMQ Properties LLC; County Educators FCU; Allegheny AA Bail Bonds Inc O/B/O Allegheny Casualty Company; Bushberg Brothers Furniture Co; ACMC Anesthesiologists; FFPM Carmel Holdings I LLC; New Century Financial Services; Earthtech Contracting Inc.; Cape Atlantic Oral and Maxillofacial Surgeons PA; Society Hill At Galloway II Condominium Association, Inc.; State of New Jersey; United States of America",
+    "Plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For VRMTG Asset Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STAUS: OWNER OCCUPIED",
+    "Sales Date": "7/30/2026",
+    "Sheriff #": "F-26000036",
+    "Upset Amount": "$172,302.17"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 150988.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "55 Cherokee Drive Galloway Township NJ 08205",
+    "defendant": "Andrea Kennedy Decea...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2026-07-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For VRMTG Asset Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STAUS: OWNER OCCUPIED",
+  "sale_date": "2026-07-30",
+  "sheriff_number": "F-26000036",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-07-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-07-30",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-07-02",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-06-04",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 172302.17,
+  "upset_amount_label": "Upset Amount"
+}

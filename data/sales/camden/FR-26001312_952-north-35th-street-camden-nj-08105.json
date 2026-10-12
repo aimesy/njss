@@ -1,0 +1,53 @@
+{
+  "address": "952 NORTH 35TH STREET CAMDEN NJ 08105",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00744625",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "TEODONIO R. RIVERA DECEASED, HIS HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "952 NORTH 35TH STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$184,452.52",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00744625",
+    "Defendant": "TEODONIO R. RIVERA DECEASED, HIS\nHEIRS, DEVISEES, AND PERSONAL\nREPRESENTATIVES, AND HIS, HER, THEIR,\nOR ANY OF THEIR SUCCESSORS IN RIGHT,\nTITLE, AND INTEREST; ET AL.,",
+    "Parcel #": "TAX LOT(S): 51, IN BLOCK:944",
+    "Plaintiff": "US BANK TRUST NANTIONAL ASSOCIATION,\nNOT IN ITS INDIVIDUAL CAPACITY BUT\nSOLELY AS OWNER TRUSTEE FOR VRMTG\nASSET TRUST",
+    "Property Note": "IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99-SUMMIT BANK VS DENNIS THIEL (A-58-98).\nTAX CERTIFICATE\nHOLDER: CAMDEN COUNTY\nAMOUNT: $304.25\nINSTRUMENT NUMBER: CERT NO. 25-05471",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26001312"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "952 NORTH 35TH STREET CAMDEN NJ 08105",
+    "defendant": "TEODONIO R. RIVERA DECEASED, HIS \nHEIRS, DEVISEES, AND PERSONAL \nREPRESENTATIVES, AND HIS, HER, THEIR, \nOR ANY OF THEIR SUCCESSORS IN RIGHT, \nTITLE, AND INTEREST; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NANTIONAL ASSOCIATION, \nNOT IN ITS INDIVIDUAL CAPACITY BUT \nSOLELY AS OWNER TRUSTEE FOR VRMTG \nASSET TRUST",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT(S): 51, IN BLOCK:944",
+  "plaintiff": "US BANK TRUST NANTIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": "IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99-SUMMIT BANK VS DENNIS THIEL (A-58-98).\nTAX CERTIFICATE\nHOLDER: CAMDEN COUNTY\nAMOUNT: $304.25\nINSTRUMENT NUMBER: CERT NO. 25-05471",
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26001312",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 184452.52,
+  "upset_amount_label": "Approx. Upset*"
+}

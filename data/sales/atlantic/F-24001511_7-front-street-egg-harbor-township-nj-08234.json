@@ -1,0 +1,58 @@
+{
+  "address": "7 Front Street Egg Harbor Township NJ 08234",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005035-21",
+  "current_status": "Scheduled",
+  "deed": "Cascade Funding Mortgage Trust HB4",
+  "deed_address": "5720 Premier Park Drive, West Palm Beach, FL 33407",
+  "defendant": "Robert William Lemon, Individually and as Co-Executor of the Estate of Robert Francis Lemon; Donna Lee Burger, Individually and as Co-Executrix of the Estate of Robert Francis Lemon; United States of America on behalf of the Secretary of Housing and Urban Development; Sunnova Management, LLC; State of New Jersey and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "7 Front Street\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$308,352.28",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-005035-21",
+    "Deed": "Cascade Funding Mortgage Trust HB4",
+    "Deed Address": "5720 Premier Park Drive, West Palm Beach, FL 33407",
+    "Defendant": "Robert William Lemon, Individually and as Co-Executor of the Estate of Robert Francis Lemon; Donna Lee Burger, Individually and as Co-Executrix of the Estate of Robert Francis Lemon; United States of America on behalf of the Secretary of Housing and Urban Development; Sunnova Management, LLC; State of New Jersey and United States of America",
+    "Plaintiff": "Cascade Funding Mortgage Trust HB4",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/16/2025",
+    "Sheriff #": "F-24001511",
+    "Upset Amount": "$235,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 308352.28,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 Front Street Egg Harbor Township NJ 08234",
+    "defendant": "Robert William Lemon...",
+    "listing_status": null,
+    "plaintiff": "Cascade Funding Mort...",
+    "sale_date": "2025-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Cascade Funding Mortgage Trust HB4",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-01-16",
+  "sheriff_number": "F-24001511",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-16",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 235000.0,
+  "upset_amount_label": "Upset Amount"
+}

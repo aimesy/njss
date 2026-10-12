@@ -1,0 +1,82 @@
+{
+  "address": "28 Cypress Lane Matawan NJ 07747",
+  "attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F04296414",
+  "current_status": "Scheduled",
+  "defendant": "Antonio Lawrence, et al",
+  "description": "Dimensions: Approximately: 159 X 89\nNearest Cross Street: Church Street\nBEING KNOWN AND DESIGNATED AS LOT NO. 8 IN BLOCK 301 ON A CERTAIN PLAN ENTITLED SUBDIVISION MAP, CAMBRIDGE PARK, STRATHMORE AT MATAWAN-SECTION 15 SITUATED IN THE TOWNSHIP OF MATAWAN, MONMOUTH COUNTY, NEW JERSEY OWNED BY LEVITT AND SONS, INCORPORATED DATED OCTOBER 1, 1962, SURVEY AND MAP BY C.A. MONROE P.E. & L.S. SAID PLAN DULY RECORDED WITH THE OFFICE OF THE COUNTY CLERK, MONMOUTH COUNTY ON OCTOBER 24, 1962 AS CASE NO. 37 SHEET 26. (This concise description does not constitute a full legal description. A full legal description can be found at the Office of the Sheriff.\nUpset Price: Approximately: $797,230.31 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nPursuant to a tax search of 9/18/24; 2024 Qtr 4 Due: 11/01/2024 $3,838.02 OPEN. Sewer: Acct: 1093 0 07/01/2024 - 09/30/2024 $182.00 PAID. Subject to final reading. Water: PRIVATE - NJ American Water Co. 131 Woodcrest Road Cherry Hill, NJ 08034 800-272-1325 Consent order dated 08/10/2020 and recorded on November 24,2020 as instrument 2020140642 grants priority over any interest held by Mosiac Ventures, LLC.",
+  "extracted": {
+    "block": "301",
+    "lot": "NO",
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 797230.31
+  },
+  "fields": {
+    "Address": "28 Cypress Lane\nMatawan NJ 07747",
+    "Approx. Judgment*": "$602,027.47",
+    "Attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+    "Court Case #": "F04296414",
+    "Defendant": "Antonio Lawrence, et al",
+    "Description": "Dimensions: Approximately: 159 X 89\nNearest Cross Street: Church Street\nBEING KNOWN AND DESIGNATED AS LOT NO. 8 IN BLOCK 301 ON A CERTAIN PLAN ENTITLED SUBDIVISION MAP, CAMBRIDGE PARK, STRATHMORE AT MATAWAN-SECTION 15 SITUATED IN THE TOWNSHIP OF MATAWAN, MONMOUTH COUNTY, NEW JERSEY OWNED BY LEVITT AND SONS, INCORPORATED DATED OCTOBER 1, 1962, SURVEY AND MAP BY C.A. MONROE P.E. & L.S. SAID PLAN DULY RECORDED WITH THE OFFICE OF THE COUNTY CLERK, MONMOUTH COUNTY ON OCTOBER 24, 1962 AS CASE NO. 37 SHEET 26. (This concise description does not constitute a full legal description. A full legal description can be found at the Office of the Sheriff.\nUpset Price: Approximately: $797,230.31 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nPursuant to a tax search of 9/18/24; 2024 Qtr 4 Due: 11/01/2024 $3,838.02 OPEN. Sewer: Acct: 1093 0 07/01/2024 - 09/30/2024 $182.00 PAID. Subject to final reading. Water: PRIVATE - NJ American Water Co. 131 Woodcrest Road Cherry Hill, NJ 08034 800-272-1325 Consent order dated 08/10/2020 and recorded on November 24,2020 as instrument 2020140642 grants priority over any interest held by Mosiac Ventures, LLC.",
+    "Parcel #": "Lot 18, Block 62 Tax Map of the Township of Aberdeen",
+    "Plaintiff": "U.S. Bank N.A., as Trustee, for J.P. Morgan Alternative Loan Trust 2007-A2",
+    "Property Note": "",
+    "Sales Date": "12/12/2024",
+    "Sheriff #": "FOR-23000868"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 602027.47,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "28 Cypress Lane Matawan NJ 07747",
+    "defendant": "Antonio Lawrence, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank N.A., as Trustee, for J.P. Morgan Alternative Loan Trust 2007-A2",
+    "sale_date": "2024-12-12"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 18, Block 62 Tax Map of the Township of Aberdeen",
+  "plaintiff": "U.S. Bank N.A., as Trustee, for J.P. Morgan Alternative Loan Trust 2007-A2",
+  "property_note": null,
+  "sale_date": "2024-12-12",
+  "sheriff_number": "FOR-23000868",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-12",
+      "status": "Canceled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-09-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-08-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-07-24",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2023-06-26",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2023-05-30",
+      "status": "Scheduled"
+    }
+  ]
+}

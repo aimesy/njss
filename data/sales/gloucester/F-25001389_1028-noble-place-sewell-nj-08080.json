@@ -1,0 +1,64 @@
+{
+  "address": "1028 NOBLE PLACE SEWELL NJ 08080",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-001023-25",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "RAYMOND CHRISTOPHER TINES, ET AL.",
+  "description": "ESTIMATED UPSET PRICE: $349,916.01\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OF JUDGMENT REDEMPTION AMOUNT.\nOCCUPANCY STATUS: VACANT",
+  "extracted": {
+    "occupancy": "VACANT",
+    "upset_amount": 349916.01
+  },
+  "fields": {
+    "Address": "1028 NOBLE PLACE\nSEWELL NJ 08080",
+    "Approximate Judgment": "$325,594.09",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-001023-25",
+    "Defendant": "RAYMOND CHRISTOPHER TINES, ET AL.",
+    "Description": "ESTIMATED UPSET PRICE: $349,916.01\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OF JUDGMENT REDEMPTION AMOUNT.\nOCCUPANCY STATUS: VACANT",
+    "Parcel #": "LOT: 44 BLOCK: 51.09",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "TOWNSHIP OF WASHINGTON\nCOUNTY OF GLOUCESTER\n1028 NOBLE PLACE SEWELL, NJ 08080\nLOT: 44 BLOCK: 51.09\nAPPROXIMATE DIMENSIONS: 25 FEET WIDE BY 90 FEET LONG\nNEAREST CROSS STREET: PRIME PLACE\nESTIMATED UPSET PRICE: $349,916.01\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OF JUDGMENT REDEMPTION AMOUNT.\nOCCUPANCY STATUS: VACANT",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "F-25001389"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 325594.09,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1028 NOBLE PLACE SEWELL NJ 08080",
+    "defendant": "RAYMOND CHRISTOPHER TINES, ET AL.",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 44 BLOCK: 51.09",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": "TOWNSHIP OF WASHINGTON\nCOUNTY OF GLOUCESTER\n1028 NOBLE PLACE SEWELL, NJ 08080\nLOT: 44 BLOCK: 51.09\nAPPROXIMATE DIMENSIONS: 25 FEET WIDE BY 90 FEET LONG\nNEAREST CROSS STREET: PRIME PLACE\nESTIMATED UPSET PRICE: $349,916.01\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OF JUDGMENT REDEMPTION AMOUNT.\nOCCUPANCY STATUS: VACANT",
+  "sale_date": "2026-04-15",
+  "sheriff_number": "F-25001389",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "address": "50 East Fifth Street Howell NJ 07731",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00391720",
+  "current_status": "Scheduled",
+  "defendant": "Israel Garriga, Sr., et al",
+  "description": "Dimensions of the lot are (Approximately) 50 x 200 x 50 x 200\nNearest Cross Street: Roosevelt Avenue\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservayions, and easements of record.\nThe occupancy status of the subject property is unknown.\nThe approximate upset sum is $376,542.15 calculated through April 26, 2024 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "50 East Fifth Street\nHowell NJ 07731",
+    "Approx. Judgment*": "$353,582.47",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F00391720",
+    "Defendant": "Israel Garriga, Sr., et al",
+    "Description": "Dimensions of the lot are (Approximately) 50 x 200 x 50 x 200\nNearest Cross Street: Roosevelt Avenue\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservayions, and easements of record.\nThe occupancy status of the subject property is unknown.\nThe approximate upset sum is $376,542.15 calculated through April 26, 2024 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+    "Parcel #": "Tax Lot 28 Block 123 Tax Map of the Township of Howell",
+    "Plaintiff": "HSBC Bank USA, National Association As Trustee For Ellington Loan Acquisition Trust 2007-2 Mortgage Pass-Through Certificates, Series 2007-2",
+    "Property Note": "",
+    "Sales Date": "11/18/2024",
+    "Sheriff #": "FOR-24001089"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 353582.47,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "50 East Fifth Street Howell NJ 07731",
+    "defendant": "Israel Garriga, Sr., et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "HSBC Bank USA, National Association As Trustee For Ellington Loan Acquisition Trust 2007-2 Mortgage Pass-Through Certificates, Series 2007-2",
+    "sale_date": "2024-11-18"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 28 Block 123 Tax Map of the Township of Howell",
+  "plaintiff": "HSBC Bank USA, National Association As Trustee For Ellington Loan Acquisition Trust 2007-2 Mortgage Pass-Through Certificates, Series 2007-2",
+  "property_note": null,
+  "sale_date": "2024-11-18",
+  "sheriff_number": "FOR-24001089",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Canceled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Scheduled"
+    }
+  ]
+}

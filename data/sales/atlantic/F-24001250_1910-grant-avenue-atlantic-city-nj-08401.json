@@ -1,0 +1,58 @@
+{
+  "address": "1910 Grant Avenue Atlantic City NJ 08401",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012388-22",
+  "current_status": "Scheduled",
+  "deed": "Ahasan Realty LLC",
+  "deed_address": "410 Montrose Lane Galloway NJ 08205",
+  "defendant": "Stanley F. Fenner aka Stanley Fenner; Mr. or Mrs. Fenner husband or wife of Stanley F. Fenner aka Stanley Fenner; the spouse, domestic partner or civil partner of Stanley F. Fenner aka Stanley Fenner; Sun National Bank",
+  "extracted": {},
+  "fields": {
+    "Address": "1910 Grant Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$230,194.53",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-012388-22",
+    "Deed": "Ahasan Realty LLC",
+    "Deed Address": "410 Montrose Lane Galloway NJ 08205",
+    "Defendant": "Stanley F. Fenner aka Stanley Fenner; Mr. or Mrs. Fenner husband or wife of Stanley F. Fenner aka Stanley Fenner; the spouse, domestic partner or civil partner of Stanley F. Fenner aka Stanley Fenner; Sun National Bank",
+    "Plaintiff": "Babylon Capital, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24001250",
+    "Upset Amount": "$68,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 230194.53,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1910 Grant Avenue Atlantic City NJ 08401",
+    "defendant": "Stanley F. Fenner ak...",
+    "listing_status": null,
+    "plaintiff": "Babylon Capital, LLC...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Babylon Capital, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24001250",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 68000.0,
+  "upset_amount_label": "Upset Amount"
+}

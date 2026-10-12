@@ -1,0 +1,79 @@
+{
+  "address": "144 SHEPARD AVENUE EAST ORANGE NJ 07018",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00737123",
+  "current_status": "Purchased - Foreclosure",
+  "defendant": "CAROLYN VAULTZ, DECEASED, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES; ET. AL",
+  "description": "LOT:26 BLOCK: 424\nNEAREST CROSS STREET: APPOXIMATELY 150FT TO THE NEAREST CROSS STREET KNOWN AS ELMWOOD AVENUE\nAPPROXIMATE DIMENSIONS: 50FT X 223FT X 50FT X 223FT\nAPPROXIMATE UPSET AMOUNT IS $130,132.01 FOR THE SHERIFF SALE. OCCUPANCY STATUS: BORROWER OCCUPIED. PURSUANT TO A MUNICIPAL TAX SEARCH DATED JULY 30, 2025. SUBJECT TO: 2025 3RD QUARTER TAXES DUE 8/1/2025, TO BE DETERMINES. 2025 4TH QUARTER TAXES DUE 11/1/2025, TO BE DETERMINES. WATER/SEWER: ACCT. 13561 0, TO: 7/23/2025, $576.62 OPEN PLUS PENALTY SUBJECT TO FINAL READING.\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN DEED BOOK 5480, AT PAGE 127",
+  "extracted": {
+    "block": "424",
+    "lot": "26",
+    "occupancy": "BORROWER OCCUPIED. PURSUANT TO A MUNICIPAL TAX SEARCH DATED JULY 30, 2025. SUBJECT TO: 2025 3RD QUARTER TAXES DUE 8/1/2025, TO BE DETERMINES. 2025 4TH QUARTER TAXES DUE 11/1/2025, TO BE DETERMINES. WATER/SEWER: ACCT. 13561 0, TO: 7/23/2025, $576.62 OPEN PLUS PENALTY SUBJECT TO FINAL READING."
+  },
+  "fields": {
+    "Address": "144 SHEPARD AVENUE\nEAST ORANGE NJ 07018",
+    "Approx. Upset*": "$111,514.67",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F00737123",
+    "Defendant": "CAROLYN VAULTZ, DECEASED, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES; ET. AL",
+    "Description": "LOT:26 BLOCK: 424\nNEAREST CROSS STREET: APPOXIMATELY 150FT TO THE NEAREST CROSS STREET KNOWN AS ELMWOOD AVENUE\nAPPROXIMATE DIMENSIONS: 50FT X 223FT X 50FT X 223FT\nAPPROXIMATE UPSET AMOUNT IS $130,132.01 FOR THE SHERIFF SALE. OCCUPANCY STATUS: BORROWER OCCUPIED. PURSUANT TO A MUNICIPAL TAX SEARCH DATED JULY 30, 2025. SUBJECT TO: 2025 3RD QUARTER TAXES DUE 8/1/2025, TO BE DETERMINES. 2025 4TH QUARTER TAXES DUE 11/1/2025, TO BE DETERMINES. WATER/SEWER: ACCT. 13561 0, TO: 7/23/2025, $576.62 OPEN PLUS PENALTY SUBJECT TO FINAL READING.\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN DEED BOOK 5480, AT PAGE 127",
+    "Parcel #": "",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+    "Property Note": "",
+    "Sales Date": "7/21/2026",
+    "Sheriff #": "F-25002895"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "144 SHEPARD AVENUE EAST ORANGE NJ 07018",
+    "defendant": "CAROLYN VAULTZ, DECEASED, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES; ET. AL",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+    "sale_date": "2026-07-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+  "property_note": null,
+  "sale_date": "2026-07-21",
+  "sheriff_number": "F-25002895",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-09-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-11-11",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "SALE-VACATED CWPP HOMEOWNER"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Purchased - Foreclosure"
+    }
+  ],
+  "upset_amount": 111514.67,
+  "upset_amount_label": "Approx. Upset*"
+}

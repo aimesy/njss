@@ -1,0 +1,67 @@
+{
+  "address": "27 Bennett Street Freehold NJ 07728",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00082820",
+  "current_status": "Scheduled",
+  "defendant": "Carol Lida, et al",
+  "description": "Dimensions of Lot: 37 feet wide by 120 feet long\nNearest Cross Street: Jackson St.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n*2021 Qtr. 4 Due: 11/01/2021 $1,318.25 OPEN\n*2022 Qtr. 1 Due: 02/01/2022 $1,301.67 OPEN\n*2022 Qtr. 2 Due: 05/01/2022 $1,301.66 OPEN\n*2021 Qtr. 3 Due: 08/01/2021 $1,318.25 OPEN; SUBJECT TO POSTING; GRACE PERIOD EXTENDED TO: 08/25/2021\n*Water: Freehold Boro Water + Sewer Dept 51 West Mian St. Freehold, NJ 07728 732-462-1410 Acct: 1844 0 04/01/2021-6/30/2021 $255.88 OPEN PLUS PENALTY Subject to final reading.",
+  "extracted": {
+    "lot": "37"
+  },
+  "fields": {
+    "Address": "27 Bennett Street\nFreehold NJ 07728",
+    "Approx. Judgment*": "$218,348.57",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00082820",
+    "Defendant": "Carol Lida, et al",
+    "Description": "Dimensions of Lot: 37 feet wide by 120 feet long\nNearest Cross Street: Jackson St.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n*2021 Qtr. 4 Due: 11/01/2021 $1,318.25 OPEN\n*2022 Qtr. 1 Due: 02/01/2022 $1,301.67 OPEN\n*2022 Qtr. 2 Due: 05/01/2022 $1,301.66 OPEN\n*2021 Qtr. 3 Due: 08/01/2021 $1,318.25 OPEN; SUBJECT TO POSTING; GRACE PERIOD EXTENDED TO: 08/25/2021\n*Water: Freehold Boro Water + Sewer Dept 51 West Mian St. Freehold, NJ 07728 732-462-1410 Acct: 1844 0 04/01/2021-6/30/2021 $255.88 OPEN PLUS PENALTY Subject to final reading.",
+    "Parcel #": "Lot 25, Block 50 Tax Map of the Borough of Freehold",
+    "Plaintiff": "U.S. Bank Trust, N.A., as Trustee for LSF9 Master Participation Trust",
+    "Property Note": "",
+    "Sales Date": "11/25/2024",
+    "Sheriff #": "FOR-21001460"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 218348.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "27 Bennett Street Freehold NJ 07728",
+    "defendant": "Carol Lida, et al",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank Trust, N.A., as Trustee for LSF9 Master Participation Trust",
+    "sale_date": "2024-11-25"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 25, Block 50 Tax Map of the Borough of Freehold",
+  "plaintiff": "U.S. Bank Trust, N.A., as Trustee for LSF9 Master Participation Trust",
+  "property_note": null,
+  "sale_date": "2024-11-25",
+  "sheriff_number": "FOR-21001460",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-25",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-02-26",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-02-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-01-10",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-01-10",
+      "status": "Scheduled"
+    }
+  ]
+}

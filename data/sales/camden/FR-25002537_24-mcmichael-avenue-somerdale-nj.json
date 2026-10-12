@@ -1,0 +1,57 @@
+{
+  "address": "24 MCMICHAEL AVENUE SOMERDALE NJ",
+  "attorney": "KEARNEY AND ASSOCIATES, PC",
+  "attorney_phone": "856-547-7733",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "L246323/J14584323",
+  "current_status": "Defendant Adjournment",
+  "defendant": "SAMUEL MALAT",
+  "extracted": {},
+  "fields": {
+    "Address": "24 MCMICHAEL AVENUE\nSOMERDALE NJ",
+    "Approx. Upset*": "$283,265.00",
+    "Attorney": "KEARNEY AND ASSOCIATES, PC",
+    "Attorney Phone": "856-547-7733",
+    "Court Case #": "L246323/J14584323",
+    "Defendant": "SAMUEL MALAT",
+    "Parcel #": "",
+    "Plaintiff": "BOROUGH OF SOMERDALE",
+    "Property Note": "",
+    "Sales Date": "3/17/2026",
+    "Sheriff #": "FR-25002537"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "24 MCMICHAEL AVENUE SOMERDALE NJ",
+    "defendant": "SAMUEL MALAT",
+    "listing_status": null,
+    "plaintiff": "BOROUGH OF SOMERDALE",
+    "sale_date": "2026-03-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "BOROUGH OF SOMERDALE",
+  "property_note": null,
+  "sale_date": "2026-03-17",
+  "sheriff_number": "FR-25002537",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 283265.0,
+  "upset_amount_label": "Approx. Upset*"
+}

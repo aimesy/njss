@@ -1,0 +1,63 @@
+{
+  "address": "40 North Shore Street Keansburg NJ 07734",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01645319",
+  "current_status": "Scheduled",
+  "defendant": "Michael Ward, et al",
+  "description": "Approximate dimensions: 48.77' x 95.23' x 42.60' x 71.49'\nNearest cross street: West Shore Street\nThe Plaintiff's Upset Bid presently approximates $387,000.00\nOccupancy Status: UNKNOWN\nIf after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "40 North Shore Street\nKeansburg NJ 07734",
+    "Approx. Judgment*": "$316,824.63",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F01645319",
+    "Defendant": "Michael Ward, et al",
+    "Description": "Approximate dimensions: 48.77' x 95.23' x 42.60' x 71.49'\nNearest cross street: West Shore Street\nThe Plaintiff's Upset Bid presently approximates $387,000.00\nOccupancy Status: UNKNOWN\nIf after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+    "Parcel #": "Tax Lot: 20 Tax Block: 64 Tax Map of Borough of Keansburg",
+    "Plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "Property Note": "",
+    "Sales Date": "3/16/2026",
+    "Sheriff #": "FOR-25000056"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 316824.63,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40 North Shore Street Keansburg NJ 07734",
+    "defendant": "Michael Ward, et al",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "sale_date": "2026-03-16"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 20 Tax Block: 64 Tax Map of Borough of Keansburg",
+  "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+  "property_note": null,
+  "sale_date": "2026-03-16",
+  "sheriff_number": "FOR-25000056",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-16",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Scheduled"
+    }
+  ]
+}

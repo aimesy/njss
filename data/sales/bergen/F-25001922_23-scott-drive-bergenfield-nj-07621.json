@@ -1,0 +1,73 @@
+{
+  "address": "23 SCOTT DRIVE BERGENFIELD NJ 07621",
+  "attorney": "WEBER GALLAGHER",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00136325",
+  "current_status": "Redeemed",
+  "defendant": "HERRERA REALTY LLC AND STEVEN HERRERA",
+  "description": "THIS IS AN INVESTMENT PROPERTY, AND THE COMMUNITY WEALTH PRESERVATION PROGRAM (CWPP) DOES NOT APPLY.",
+  "extracted": {},
+  "fields": {
+    "Address": "23 SCOTT DRIVE\nBERGENFIELD NJ 07621",
+    "Approx. Upset*": "$594,032.09",
+    "Attorney": "WEBER GALLAGHER",
+    "Court Case #": "F00136325",
+    "Defendant": "HERRERA REALTY LLC AND STEVEN HERRERA",
+    "Description": "THIS IS AN INVESTMENT PROPERTY, AND THE COMMUNITY WEALTH PRESERVATION PROGRAM (CWPP) DOES NOT APPLY.",
+    "Parcel #": "LOT 64, BLOCK 268",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 36809",
+    "Property Note": "",
+    "Sales Date": "5/8/2026",
+    "Sheriff #": "F-25001922"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "23 SCOTT DRIVE BERGENFIELD NJ 07621",
+    "defendant": "HERRERA REALTY LLC AND STEVEN HERRERA",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 36809",
+    "sale_date": "2026-05-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 64, BLOCK 268",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 36809",
+  "property_note": null,
+  "sale_date": "2026-05-08",
+  "sheriff_number": "F-25001922",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-01-23",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-06",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-05-08",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 594032.09,
+  "upset_amount_label": "Approx. Upset*"
+}

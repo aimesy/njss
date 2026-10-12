@@ -1,0 +1,73 @@
+{
+  "address": "17 WEST CLOVERDALE AVENUE PINE HILL NJ 08021",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01288124",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "BRIAN J. SCHREINER, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "17 WEST CLOVERDALE AVENUE\nPINE HILL NJ 08021",
+    "Approx. Upset*": "$134,708.55",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F01288124",
+    "Defendant": "BRIAN J. SCHREINER, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26000094"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "17 WEST CLOVERDALE AVENUE PINE HILL NJ 08021",
+    "defendant": "BRIAN J. SCHREINER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26000094",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 134708.55,
+  "upset_amount_label": "Approx. Upset*"
+}

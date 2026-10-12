@@ -1,0 +1,72 @@
+{
+  "address": "66 SAYREVILLE BOULEVARD SOUTH SAYREVILLE NJ 08872",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-924-0808",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00635122",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "MARVIN TYLER, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$756,176.88",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F00635122",
+    "Defendant": "MARVIN TYLER, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 128 BLOCK 136",
+    "Plaintiff": "BARCLAYS MORTGAGE LOAN TRUST 2021-NQM1",
+    "Property Address": "66 SAYREVILLE BOULEVARD SOUTH\nSAYREVILLE NJ 08872",
+    "Property Note": "",
+    "Sale Date": "4/8/2026",
+    "Sheriff #": "F-25002599"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 756176.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "66 SAYREVILLE BOULEVARD SOUTH SAYREVILLE NJ 08872",
+    "defendant": "MARVIN TYLER, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "BARCLAYS MORTGAGE LOAN TRUST 2021-NQM1",
+    "sale_date": "2026-04-08"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 128 BLOCK 136",
+  "plaintiff": "BARCLAYS MORTGAGE LOAN TRUST 2021-NQM1",
+  "property_note": null,
+  "sale_date": "2026-04-08",
+  "sheriff_number": "F-25002599",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-04-08",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

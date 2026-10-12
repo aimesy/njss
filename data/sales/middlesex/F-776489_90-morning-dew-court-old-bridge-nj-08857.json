@@ -1,0 +1,60 @@
+{
+  "address": "90 MORNING DEW COURT OLD BRIDGE NJ 08857",
+  "attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-840-5000",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01075923",
+  "current_status": "Settled",
+  "defendant": "KISHWAR MAHMOOD",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$229,888.30",
+    "Attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-840-5000",
+    "Court Case #": "F01075923",
+    "Defendant": "KISHWAR MAHMOOD",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 13 BLOCK 9002",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "90 MORNING DEW COURT\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "1/22/2025",
+    "Sheriff #": "F-776489"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 229888.3,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "90 MORNING DEW COURT OLD BRIDGE NJ 08857",
+    "defendant": "KISHWAR MAHMOOD",
+    "listing_status": "Adjourned - Court",
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-01-22"
+  },
+  "listing_status": "Adjourned - Court",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 13 BLOCK 9002",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2025-01-22",
+  "sheriff_number": "F-776489",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-01-22",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-01-02",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

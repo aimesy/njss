@@ -1,0 +1,53 @@
+{
+  "address": "4562 HARDING ROAD PENNSAUKEN TOWNSHIP NJ 08109",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01020825",
+  "current_status": "Purchased",
+  "defendant": "LOUIS NORMAN",
+  "extracted": {},
+  "fields": {
+    "Address": "4562 HARDING ROAD\nPENNSAUKEN TOWNSHIP NJ 08109",
+    "Approx. Upset*": "$212,101.65",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F01020825",
+    "Defendant": "LOUIS NORMAN",
+    "Parcel #": "TAX BLOCK AND LOT: BLOCK:5206 LOT:13",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "MERCHANTVILLE-PENNSAUKEN WATER CO. HOLDS A CLAIM IN THE AMOUNT OF $30.00 AND $174.50 PLUS PENALTY AS OF 01/29/2026\nPENNSAUKEN SEWER AUTHORITY HOLDS A CLAIM IN THE AMOUNT OF $51.50 AND $229.50 PLUS PENALTY AS OF 01/29/2026.\nCCMUA HOLDS A CLAIM IN THE AMOUNT OF $93.00 AND $372.00 PLUS PENALTY AS OF 01/29/2026\nPROPERTY REGISTRATION FEE EXISTS- CONTACT THE ABANDONED, VACANT AND FORCLOSURE PROPERTIES DEPARTMENT AT 856-665-1000 X 1410 FOR INFORMATION",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "FR-26000533"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "4562 HARDING ROAD PENNSAUKEN TOWNSHIP NJ 08109",
+    "defendant": "LOUIS NORMAN",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX BLOCK AND LOT: BLOCK:5206 LOT:13",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": "MERCHANTVILLE-PENNSAUKEN WATER CO. HOLDS A CLAIM IN THE AMOUNT OF $30.00 AND $174.50 PLUS PENALTY AS OF 01/29/2026\nPENNSAUKEN SEWER AUTHORITY HOLDS A CLAIM IN THE AMOUNT OF $51.50 AND $229.50 PLUS PENALTY AS OF 01/29/2026.\nCCMUA HOLDS A CLAIM IN THE AMOUNT OF $93.00 AND $372.00 PLUS PENALTY AS OF 01/29/2026\nPROPERTY REGISTRATION FEE EXISTS- CONTACT THE ABANDONED, VACANT AND FORCLOSURE PROPERTIES DEPARTMENT AT 856-665-1000 X 1410 FOR INFORMATION",
+  "sale_date": "2026-06-03",
+  "sheriff_number": "FR-26000533",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 212101.65,
+  "upset_amount_label": "Approx. Upset*"
+}

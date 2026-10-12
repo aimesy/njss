@@ -1,0 +1,60 @@
+{
+  "address": "89-B GOLDEN SQUARE WOODBRIDGE NJ 07095",
+  "attorney": "MCCABE, WEISBERG & CONWAY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 802-4300",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00518223",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "LORENA GOMEZ, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$226,721.67",
+    "Attorney": "MCCABE, WEISBERG & CONWAY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 802-4300",
+    "Court Case #": "F00518223",
+    "Defendant": "LORENA GOMEZ, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.01 C0892 F/K/A LOT 89.02 F/K/A LOT 989.B BLOCK 408",
+    "Plaintiff": "NEWREZ, LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "89-B GOLDEN SQUARE\nWOODBRIDGE NJ 07095",
+    "Property Note": "SUCCESSFULLY POSTED 02/20/2024 AREA2 BY MICHAEL COLON",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-776401"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 226721.67,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "89-B GOLDEN SQUARE WOODBRIDGE NJ 07095",
+    "defendant": "LORENA GOMEZ, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "NEWREZ, LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.01 C0892 F/K/A LOT 89.02 F/K/A LOT 989.B BLOCK 408",
+  "plaintiff": "NEWREZ, LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": "SUCCESSFULLY POSTED 02/20/2024 AREA2 BY MICHAEL COLON",
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-776401",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-05-22",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

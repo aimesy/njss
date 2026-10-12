@@ -1,0 +1,60 @@
+{
+  "address": "328 COLLEGE DRIVE EDISON NJ 08817",
+  "attorney": "CUTOLO BARROS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "732-414-1170",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00325123",
+  "current_status": "Bankruptcy",
+  "defendant": "RUBEN VEGA",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$35,644.84",
+    "Attorney": "CUTOLO BARROS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "732-414-1170",
+    "Court Case #": "F00325123",
+    "Defendant": "RUBEN VEGA",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 25 QUAL. C0328 BLOCK 375.32 FKA BLOCK 375.FF",
+    "Plaintiff": "MILL POINTE CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "328 COLLEGE DRIVE\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-776538"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 35644.84,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "328 COLLEGE DRIVE EDISON NJ 08817",
+    "defendant": "RUBEN VEGA",
+    "listing_status": "Cancelled",
+    "plaintiff": "MILL POINTE CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 25 QUAL. C0328 BLOCK 375.32 FKA BLOCK 375.FF",
+  "plaintiff": "MILL POINTE CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-776538",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

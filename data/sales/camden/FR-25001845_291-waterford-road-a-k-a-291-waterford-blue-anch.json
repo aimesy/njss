@@ -1,0 +1,57 @@
+{
+  "address": "291 WATERFORD ROAD A/K/A 291 WATERFORD-BLUE ANCHOR ROAD WINSLOW TWP., NJ 08037 WINSLOW TWP NJ 08037",
+  "attorney": "ROMANO GARUBO & ARGENTIERI",
+  "attorney_phone": "(856) 384-1515",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00890124",
+  "current_status": "Purchased",
+  "defendant": "MICHELE MCADAMS; MR. MCADAMS, HUSBAND OF MICHELE MCADAMS; CITIFINANCIALSERVICES, INC. N/K/A CFNA RECEIVABLES (PA) INC.; COMMUNITY SURGICAL SUPPLY,",
+  "extracted": {},
+  "fields": {
+    "Address": "291 WATERFORD ROAD\nA/K/A 291 WATERFORD-BLUE ANCHOR ROAD WINSLOW TWP., NJ 08037\nWINSLOW TWP NJ 08037",
+    "Approx. Upset*": "$176,467.82",
+    "Attorney": "ROMANO GARUBO & ARGENTIERI",
+    "Attorney Phone": "(856) 384-1515",
+    "Court Case #": "F00890124",
+    "Defendant": "MICHELE MCADAMS; MR. MCADAMS, HUSBAND OF MICHELE MCADAMS;\nCITIFINANCIALSERVICES, INC. N/K/A CFNA RECEIVABLES (PA) INC.;\nCOMMUNITY SURGICAL SUPPLY,",
+    "Parcel #": "",
+    "Plaintiff": "CSMC 2022-RPL2 TRUST,",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-25001845"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "291 WATERFORD ROAD A/K/A 291 WATERFORD-BLUE ANCHOR ROAD WINSLOW TWP., NJ 08037 WINSLOW TWP NJ 08037",
+    "defendant": "MICHELE MCADAMS; MR. MCADAMS, HUSBAND OF MICHELE MCADAMS; \nCITIFINANCIALSERVICES, INC. N/K/A CFNA RECEIVABLES (PA) INC.; \nCOMMUNITY SURGICAL SUPPLY,",
+    "listing_status": null,
+    "plaintiff": "CSMC 2022-RPL2 TRUST,",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CSMC 2022-RPL2 TRUST,",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-25001845",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 176467.82,
+  "upset_amount_label": "Approx. Upset*"
+}

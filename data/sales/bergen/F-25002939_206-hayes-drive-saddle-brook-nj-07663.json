@@ -1,0 +1,59 @@
+{
+  "address": "206 HAYES DRIVE SADDLE BROOK NJ 07663",
+  "attorney": "BROCK AND SCOTT PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00453624",
+  "current_status": "Cancelled",
+  "defendant": "VIMALKUMAR PATEL; MRS. VIMALKUMAR PATEL, HIS WIFE; AMBALAL PATEL; ET AL",
+  "description": "PLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $355,029.49\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "upset_amount": 355029.49
+  },
+  "fields": {
+    "Address": "206 HAYES DRIVE\nSADDLE BROOK NJ 07663",
+    "Approx. Upset*": "$312,188.61",
+    "Attorney": "BROCK AND SCOTT PLLC",
+    "Court Case #": "F00453624",
+    "Defendant": "VIMALKUMAR PATEL; MRS. VIMALKUMAR PATEL, HIS WIFE; AMBALAL PATEL; ET AL",
+    "Description": "PLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $355,029.49\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN",
+    "Parcel #": "LOT 7, BLOCK 1715",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "3/18/2026",
+    "Sheriff #": "F-25002939"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "206 HAYES DRIVE SADDLE BROOK NJ 07663",
+    "defendant": "VIMALKUMAR PATEL; MRS. VIMALKUMAR PATEL, HIS WIFE; AMBALAL PATEL; ET AL",
+    "listing_status": null,
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2026-03-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 7, BLOCK 1715",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-03-18",
+  "sheriff_number": "F-25002939",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "BANKRUPTCY"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 312188.61,
+  "upset_amount_label": "Approx. Upset*"
+}

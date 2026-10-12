@@ -1,0 +1,51 @@
+{
+  "address": "216 White Road Little Silver NJ 07739",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00973924",
+  "current_status": "Reinstated",
+  "defendant": "Michael J. Donadio, et al.",
+  "description": "Dimensions of Lot (approximately): unknown\nNearest Cross Street: George Street\nApprox Upset Price - $240,180.73\nProperty Status - Borrower Occupied\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 240180.73
+  },
+  "fields": {
+    "Address": "216 White Road\nLittle Silver NJ 07739",
+    "Approx. Judgment*": "$224,620.49",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F00973924",
+    "Defendant": "Michael J. Donadio, et al.",
+    "Description": "Dimensions of Lot (approximately): unknown\nNearest Cross Street: George Street\nApprox Upset Price - $240,180.73\nProperty Status - Borrower Occupied\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Block 31 Lot 4 Tax Map of Borough of Little Silver",
+    "Plaintiff": "Citizens Bank NA f/k/a RBS Citizens NS",
+    "Property Note": "",
+    "Sales Date": "2/26/2025",
+    "Sheriff #": "FOR-25000149"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 224620.49,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "216 White Road Little Silver NJ 07739",
+    "defendant": "Michael J. Donadio, et al.",
+    "listing_status": "Reinstated",
+    "plaintiff": "Citizens Bank NA f/k/a RBS Citizens NS",
+    "sale_date": "2025-02-26"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 31 Lot 4 Tax Map of Borough of Little Silver",
+  "plaintiff": "Citizens Bank NA f/k/a RBS Citizens NS",
+  "property_note": null,
+  "sale_date": "2025-02-26",
+  "sheriff_number": "FOR-25000149",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-26",
+      "status": "Reinstated"
+    }
+  ]
+}

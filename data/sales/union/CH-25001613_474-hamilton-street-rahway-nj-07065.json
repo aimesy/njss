@@ -1,0 +1,72 @@
+{
+  "address": "474 HAMILTON STREET RAHWAY NJ 07065",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00935922",
+  "current_status": "Bankuptcy",
+  "defendant": "THOMAS J. WETHERELL, CHRISTINA WETHERELL AND ELIZABETH NJ, FIREMEN'S FEDERAL CREDIT UNION",
+  "description": "LOT 30 FKA 36 BLOCK 167 FKA 938",
+  "extracted": {
+    "block": "167",
+    "lot": "30"
+  },
+  "fields": {
+    "Address": "474 HAMILTON STREET\nRAHWAY NJ 07065",
+    "Approx. Upset*": "$245,232.75",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F00935922",
+    "Defendant": "THOMAS J. WETHERELL, CHRISTINA WETHERELL AND ELIZABETH NJ, FIREMEN'S FEDERAL CREDIT UNION",
+    "Description": "LOT 30 FKA 36 BLOCK 167 FKA 938",
+    "Parcel #": "LOT 30 FKA 36 BLOCK 167 FKA 938",
+    "Plaintiff": "LSRMF MH MASTER PARTICIPATION TRUST II",
+    "Property Note": "",
+    "Sales Date": "2/11/2026",
+    "Sheriff #": "CH-25001613"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "474 HAMILTON STREET RAHWAY NJ 07065",
+    "defendant": "THOMAS J. WETHERELL, CHRISTINA WETHERELL AND ELIZABETH NJ, FIREMEN'S FEDERAL CREDIT UNION",
+    "listing_status": null,
+    "plaintiff": "LSRMF MH MASTER PARTICIPATION TRUST II",
+    "sale_date": "2026-02-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 30 FKA 36 BLOCK 167 FKA 938",
+  "plaintiff": "LSRMF MH MASTER PARTICIPATION TRUST II",
+  "property_note": null,
+  "sale_date": "2026-02-11",
+  "sheriff_number": "CH-25001613",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 245232.75,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,72 @@
+{
+  "address": "295 Oakley Avenue Long Branch NJ 07740",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01166323",
+  "current_status": "Scheduled",
+  "defendant": "Solomon Franco et al.",
+  "description": "Dimensions of Lot: 137FT x 100FT AVG\nNearest Cross Street: Woodgate Avenue\nPlaintiff's good faith estimate of its upset price is: $692,559.72\nThe occupancy status of the property is: OWNER OCCUPIED\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation, to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney. **",
+  "extracted": {
+    "lot": "137FT",
+    "upset_amount": 692559.72
+  },
+  "fields": {
+    "Address": "295 Oakley Avenue\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$637,564.08",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F01166323",
+    "Defendant": "Solomon Franco et al.",
+    "Description": "Dimensions of Lot: 137FT x 100FT AVG\nNearest Cross Street: Woodgate Avenue\nPlaintiff's good faith estimate of its upset price is: $692,559.72\nThe occupancy status of the property is: OWNER OCCUPIED\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation, to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney. **",
+    "Parcel #": "Lot: 10.04, Block: 72 on the official tax map of The City of Long Branch",
+    "Plaintiff": "FM Home Loans, LLC",
+    "Property Note": "",
+    "Sales Date": "11/18/2024",
+    "Sheriff #": "FOR-24000597"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 637564.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "295 Oakley Avenue Long Branch NJ 07740",
+    "defendant": "Solomon Franco et al.",
+    "listing_status": "Reinstated",
+    "plaintiff": "FM Home Loans, LLC",
+    "sale_date": "2024-11-18"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 10.04, Block: 72 on the official tax map of The City of Long Branch",
+  "plaintiff": "FM Home Loans, LLC",
+  "property_note": null,
+  "sale_date": "2024-11-18",
+  "sheriff_number": "FOR-24000597",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-18",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Scheduled"
+    }
+  ]
+}

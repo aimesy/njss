@@ -1,0 +1,51 @@
+{
+  "address": "808 MORTON STREET EAST RUTHERFORD NJ 07073",
+  "attorney": "PARKER MCCAY PA",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00742625",
+  "current_status": "BANKRUPTCY",
+  "defendant": "AVELINO AVELENDA; MRS. AVELINO AVELENDA, HIS WIFE; ET AL",
+  "description": "UPSET PRICE: $331,049.58 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+  "extracted": {
+    "upset_amount": 331049.58
+  },
+  "fields": {
+    "Address": "808 MORTON STREET\nEAST RUTHERFORD NJ 07073",
+    "Approx. Upset*": "$306,269.74",
+    "Attorney": "PARKER MCCAY PA",
+    "Court Case #": "F00742625",
+    "Defendant": "AVELINO AVELENDA; MRS. AVELINO AVELENDA, HIS WIFE; ET AL",
+    "Description": "UPSET PRICE: $331,049.58 (NOTE, THIS IS A GOOD FAITH ESTIMATE OF THE UPSET PRICE AT SHERIFF'S SALE THAT IS BEING PROVIDED TO YOU PURSUANT TO N.J.S.A. 2A:50-64 (AS AMENDED)).\nIT IS NOT DEFINITIVELY KNOWN AT THIS TIME WHETHER THE PROPERTY IS VACANT, TENANT-OCCUPIED OR OWNER-OCCUPIED. NO REPRESENTATION IS MADE REGARDING OCCUPANCY.",
+    "Parcel #": "LOT 14, BLOCK 8",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "12/11/2025",
+    "Sheriff #": "F-25002718"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "808 MORTON STREET EAST RUTHERFORD NJ 07073",
+    "defendant": "AVELINO AVELENDA; MRS. AVELINO AVELENDA, HIS WIFE; ET AL",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-12-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 14, BLOCK 8",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2025-12-11",
+  "sheriff_number": "F-25002718",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-11",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 306269.74,
+  "upset_amount_label": "Approx. Upset*"
+}

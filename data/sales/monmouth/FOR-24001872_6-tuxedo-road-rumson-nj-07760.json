@@ -1,0 +1,59 @@
+{
+  "address": "6 Tuxedo Road Rumson NJ 07760",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00605321",
+  "current_status": "Scheduled",
+  "defendant": "S. Henry Shaheen and Jane P. Shaheen, Husband and Wife;",
+  "description": "Dimensions of the Lot are (Approximately) 229.76x44.24x237.93x274.00x239.41\nNearest Cross Street: Rumson Road\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe occupancy status of the subject property is unknown.\nThe approximate upset sum is $895,850.05 calculated through August 22, 2024 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "6 Tuxedo Road\nRumson NJ 07760",
+    "Approx. Judgment*": "$858,885.49",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F00605321",
+    "Defendant": "S. Henry Shaheen and Jane P. Shaheen, Husband and Wife;",
+    "Description": "Dimensions of the Lot are (Approximately) 229.76x44.24x237.93x274.00x239.41\nNearest Cross Street: Rumson Road\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist. The sale may be further subject to Restrictions, reversions, reservations, and easements of record.\nThe occupancy status of the subject property is unknown.\nThe approximate upset sum is $895,850.05 calculated through August 22, 2024 plus any additional advance, interest, Sheriff's cost and commission to the date of sale.",
+    "Parcel #": "Tax Lot 14 Block 124 Tax Map of Borough of Rumson",
+    "Plaintiff": "Wells Fargo Bank, National Association Successor By Merger To Wells Fargo Bank Minnesota, National Association, As Trustee For Structured Asset Securities Corporation Pass-Through Certificates, Series 2003-26A",
+    "Property Note": "",
+    "Sales Date": "1/31/2025",
+    "Sheriff #": "FOR-24001872"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 858885.49,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 Tuxedo Road Rumson NJ 07760",
+    "defendant": "S. Henry Shaheen and Jane P. Shaheen, Husband and Wife;",
+    "listing_status": "Canceled",
+    "plaintiff": "Wells Fargo Bank, National Association Successor By Merger To Wells Fargo Bank Minnesota, National Association, As Trustee For Structured Asset Securities Corporation Pass-Through Certificates, Series 2003-26A",
+    "sale_date": "2025-01-31"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 14 Block 124 Tax Map of Borough of Rumson",
+  "plaintiff": "Wells Fargo Bank, National Association Successor By Merger To Wells Fargo Bank Minnesota, National Association, As Trustee For Structured Asset Securities Corporation Pass-Through Certificates, Series 2003-26A",
+  "property_note": null,
+  "sale_date": "2025-01-31",
+  "sheriff_number": "FOR-24001872",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-31",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Scheduled"
+    }
+  ]
+}

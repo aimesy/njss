@@ -1,0 +1,49 @@
+{
+  "address": "828 BERGEN STREET GLOUCESTER NJ 08030",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F105626",
+  "current_status": "Scheduled",
+  "defendant": "AARON EDWARD LYLE, ET ALS",
+  "extracted": {},
+  "fields": {
+    "Address": "828 BERGEN STREET\nGLOUCESTER NJ 08030",
+    "Approx. Upset*": "$186,599.48",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F105626",
+    "Defendant": "AARON EDWARD LYLE, ET ALS",
+    "Parcel #": "Tax Lot No. 3.02 in Block No. 163",
+    "Plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+    "Property Note": "PRIOR LIENS/ENCUMBRANCES\nWATER OPEN AND DUE $82.00\nWATER OPEN PLUS PENALTY $294.00\nSEWER OPEN AND DUE $105.00\nSEWER OPEN PLUS PENALTY $210.00\nCCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY $186.00\nTOTAL AS OF July 28, 2026: $970.00",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002101"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "828 BERGEN STREET GLOUCESTER NJ 08030",
+    "defendant": "AARON EDWARD LYLE, ET ALS",
+    "listing_status": null,
+    "plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot No. 3.02 in Block No. 163",
+  "plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+  "property_note": "PRIOR LIENS/ENCUMBRANCES\nWATER OPEN AND DUE $82.00\nWATER OPEN PLUS PENALTY $294.00\nSEWER OPEN AND DUE $105.00\nSEWER OPEN PLUS PENALTY $210.00\nCCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY $186.00\nTOTAL AS OF July 28, 2026: $970.00",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002101",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 186599.48,
+  "upset_amount_label": "Approx. Upset*"
+}

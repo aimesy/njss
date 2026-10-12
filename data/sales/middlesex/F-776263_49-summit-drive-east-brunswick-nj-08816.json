@@ -1,0 +1,60 @@
+{
+  "address": "49 SUMMIT DRIVE EAST BRUNSWICK NJ 08816",
+  "attorney": "SHERMAN ATLAS SYLVESTER & STAMELMAN",
+  "attorney_file_number": null,
+  "attorney_phone": "973-302-9700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F415122",
+  "current_status": "Bankruptcy",
+  "defendant": "PARESH K. RIJSINGHANI",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$1,488,873.81",
+    "Attorney": "SHERMAN ATLAS SYLVESTER & STAMELMAN",
+    "Attorney File #": "",
+    "Attorney Phone": "973-302-9700",
+    "Court Case #": "F415122",
+    "Defendant": "PARESH K. RIJSINGHANI",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 48 BLOCK 22.01",
+    "Plaintiff": "THE BANCORP BANK",
+    "Property Address": "49 SUMMIT DRIVE\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-776263"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1488873.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "49 SUMMIT DRIVE EAST BRUNSWICK NJ 08816",
+    "defendant": "PARESH K. RIJSINGHANI",
+    "listing_status": "Cancelled",
+    "plaintiff": "THE BANCORP BANK",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 48 BLOCK 22.01",
+  "plaintiff": "THE BANCORP BANK",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-776263",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-02-28",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

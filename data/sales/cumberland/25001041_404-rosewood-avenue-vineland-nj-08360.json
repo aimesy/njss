@@ -1,0 +1,58 @@
+{
+  "address": "404 ROSEWOOD AVENUE VINELAND NJ 08360",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+  "county": "Cumberland County, NJ",
+  "county_id": 6,
+  "court_case_number": "F01133824",
+  "current_status": "Sold to Plaintiff",
+  "deed": null,
+  "deed_address": "LOT 23 BLOCK 2221",
+  "defendant": "DANIEL PRATTS ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "404 ROSEWOOD AVENUE\nVINELAND NJ 08360",
+    "Approx. Judgment*": "$159,065.82",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+    "Court Case #": "F01133824",
+    "Deed": "",
+    "Deed Address": "LOT 23 BLOCK 2221",
+    "Defendant": "DANIEL PRATTS ET AL",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF II ACQUISITION TRUST",
+    "Priors": "UPSET: $174,200 SOLD:$100",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "25001041",
+    "Upset Amount": "$100.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 159065.82,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "404 ROSEWOOD AVENUE VINELAND NJ 08360",
+    "defendant": "DANIEL PRATTS ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF II ACQUISITION TRUST",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cumberland County, NJ)",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF II ACQUISITION TRUST",
+  "priors": "UPSET: $174,200 SOLD:$100",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "25001041",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Sold to Plaintiff"
+    }
+  ],
+  "upset_amount": 100.0,
+  "upset_amount_label": "Upset Amount"
+}

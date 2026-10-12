@@ -1,0 +1,56 @@
+{
+  "address": "31 Howland Place Long Branch NJ 07740",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00383323",
+  "current_status": "Scheduled",
+  "defendant": "Jeffrey C. Chambers, et al",
+  "description": "Approximate dimensions: 133.28 x 40.00 x 139.92 x 59.49 Feet IRREGULAR\nNearest cross street: Broadway\nSubject to: First Mortgage in the amount of $225,000.00 recorded on 07/28/2005.\n2024 3rd Quarter Taxes in the amount of $1,846.28, open plus penalty.\nUpset Price: $133,111.56\nOccupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 133111.56
+  },
+  "fields": {
+    "Address": "31 Howland Place\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$118,284.68",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00383323",
+    "Defendant": "Jeffrey C. Chambers, et al",
+    "Description": "Approximate dimensions: 133.28 x 40.00 x 139.92 x 59.49 Feet IRREGULAR\nNearest cross street: Broadway\nSubject to: First Mortgage in the amount of $225,000.00 recorded on 07/28/2005.\n2024 3rd Quarter Taxes in the amount of $1,846.28, open plus penalty.\nUpset Price: $133,111.56\nOccupancy Status: Unknown",
+    "Parcel #": "Lot 7, Block 241 Tax Map of the City of Long Branch",
+    "Plaintiff": "U.S. Bank National Association, as Indenture Trustee of the GMACM Home Equity Loan Trust 2005-HE3",
+    "Property Note": "",
+    "Sales Date": "12/2/2024",
+    "Sheriff #": "FOR-24001810"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 118284.68,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 Howland Place Long Branch NJ 07740",
+    "defendant": "Jeffrey C. Chambers, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "U.S. Bank National Association, as Indenture Trustee of the GMACM Home Equity Loan Trust 2005-HE3",
+    "sale_date": "2024-12-02"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 7, Block 241 Tax Map of the City of Long Branch",
+  "plaintiff": "U.S. Bank National Association, as Indenture Trustee of the GMACM Home Equity Loan Trust 2005-HE3",
+  "property_note": null,
+  "sale_date": "2024-12-02",
+  "sheriff_number": "FOR-24001810",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-02",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Scheduled"
+    }
+  ]
+}

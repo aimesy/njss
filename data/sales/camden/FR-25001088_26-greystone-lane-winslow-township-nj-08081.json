@@ -1,0 +1,69 @@
+{
+  "address": "26 GREYSTONE LANE WINSLOW TOWNSHIP NJ 08081",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01197324",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "JEAN ANDRE LOUIS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "26 GREYSTONE LANE\nWINSLOW TOWNSHIP NJ 08081",
+    "Approx. Upset*": "$198,715.76",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F01197324",
+    "Defendant": "JEAN ANDRE LOUIS, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "FR-25001088"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "26 GREYSTONE LANE WINSLOW TOWNSHIP NJ 08081",
+    "defendant": "JEAN ANDRE LOUIS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "FR-25001088",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-07-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-09",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 198715.76,
+  "upset_amount_label": "Approx. Upset*"
+}

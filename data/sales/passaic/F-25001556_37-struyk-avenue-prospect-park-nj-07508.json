@@ -1,0 +1,61 @@
+{
+  "address": "37 STRUYK Avenue Prospect Park NJ 07508",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003516 25 CTL# 163058",
+  "current_status": "Cancelled",
+  "defendant": "CARLOS A. SANCHEZ, ET AL.",
+  "description": "Dimensions of Lot ( approximately) 115.91 feet wife by 37.50 feet long\nNearest Cross Street: North 10th Street\nThe estimated upset amount for the scheduled sheriff sale is currently $369,865.62\nThe upset price is not the same as a payoff or judgement redemption amount.\nProperty is occupied by unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "37 STRUYK Avenue\nProspect Park NJ 07508",
+    "Approx. Upset*": "$339,089.75",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F 003516 25 CTL# 163058",
+    "Defendant": "CARLOS A. SANCHEZ, ET AL.",
+    "Description": "Dimensions of Lot ( approximately) 115.91 feet wife by 37.50 feet long\nNearest Cross Street: North 10th Street\nThe estimated upset amount for the scheduled sheriff sale is currently $369,865.62\nThe upset price is not the same as a payoff or judgement redemption amount.\nProperty is occupied by unknown.",
+    "Parcel #": "Tax Lot 21 Block 59",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "2/12/2026",
+    "Sheriff #": "F-25001556"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "37 STRUYK Avenue Prospect Park NJ 07508",
+    "defendant": "CARLOS A. SANCHEZ, ET AL.",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-02-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 21 Block 59",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-02-12",
+  "sheriff_number": "F-25001556",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-12-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-12",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 339089.75,
+  "upset_amount_label": "Approx. Upset*"
+}

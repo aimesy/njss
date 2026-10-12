@@ -1,0 +1,55 @@
+{
+  "address": "25 LAKEVIEW DRIVE EMERSON NJ 07630",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00813724",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "THE FILCHAK FAMILY TRUST DATED JUNE 16, 1998; GEORGE R. FILCHAK A/K/A GEORGE FILCHAK, EXECUTOR OF THE ESTATE OF JOAN H. FILCHAK AND CO-TRUSTEE OF THE FILCHAK FAMILY TRUST DATED JUNE 16, 1998, ET AL.",
+  "description": "ESTIMATED UPSET BID AMOUNT: $589,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: VACANT",
+  "extracted": {
+    "occupancy": "VACANT"
+  },
+  "fields": {
+    "Address": "25 LAKEVIEW DRIVE\nEMERSON NJ 07630",
+    "Approx. Upset*": "$542,385.20",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00813724",
+    "Defendant": "THE FILCHAK FAMILY TRUST DATED JUNE 16, 1998; GEORGE R. FILCHAK A/K/A GEORGE FILCHAK, EXECUTOR OF THE ESTATE OF JOAN H. FILCHAK AND CO-TRUSTEE OF THE FILCHAK FAMILY TRUST DATED JUNE 16, 1998, ET AL.",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $589,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: VACANT",
+    "Parcel #": "LOT 3, BLOCK 1303",
+    "Plaintiff": "ONITY LOAN ACQUISITION TRUST 2025-HB1",
+    "Property Note": "",
+    "Sales Date": "3/13/2026",
+    "Sheriff #": "F-26000218"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "25 LAKEVIEW DRIVE EMERSON NJ 07630",
+    "defendant": "THE FILCHAK FAMILY TRUST DATED JUNE 16, 1998; GEORGE R. FILCHAK A/K/A GEORGE FILCHAK, EXECUTOR OF THE ESTATE OF JOAN H. FILCHAK AND CO-TRUSTEE OF THE FILCHAK FAMILY TRUST DATED JUNE 16, 1998, ET AL.",
+    "listing_status": null,
+    "plaintiff": "ONITY LOAN ACQUISITION TRUST 2025-HB1",
+    "sale_date": "2026-03-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, BLOCK 1303",
+  "plaintiff": "ONITY LOAN ACQUISITION TRUST 2025-HB1",
+  "property_note": null,
+  "sale_date": "2026-03-13",
+  "sheriff_number": "F-26000218",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-13",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 542385.2,
+  "upset_amount_label": "Approx. Upset*"
+}

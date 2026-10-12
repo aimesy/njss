@@ -1,0 +1,70 @@
+{
+  "address": "114 South River Drive (Williamstown) Folsom NJ 08094",
+  "attorney": "Knuckles & Manfro, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010123-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Yvonne M. Rickard; Mr/Mrs Yvonne M. Rickard, Spouse of Yvonne M. Rickard; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "114 South River Drive\n(Williamstown)\nFolsom NJ 08094",
+    "Approx. Judgment*": "$223,236.84",
+    "Attorney": "Knuckles & Manfro, LLP",
+    "Court Case #": "F-010123-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Yvonne M. Rickard; Mr/Mrs Yvonne M. Rickard, Spouse of Yvonne M. Rickard; State of New Jersey",
+    "Plaintiff": "MCLP Asset Company, Inc",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "9/4/2025",
+    "Sheriff #": "F-25000331",
+    "Upset Amount": "$265,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 223236.84,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "114 South River Drive (Williamstown) Folsom NJ 08094",
+    "defendant": "Yvonne M. Rickard; M...",
+    "listing_status": null,
+    "plaintiff": "MCLP Asset Company, ...",
+    "sale_date": "2025-09-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "MCLP Asset Company, Inc",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-09-04",
+  "sheriff_number": "F-25000331",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-04",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-09-04",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-07-17",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-06-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 265000.0,
+  "upset_amount_label": "Upset Amount"
+}

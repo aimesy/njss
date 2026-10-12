@@ -1,0 +1,53 @@
+{
+  "address": "401 COOPER LANDING ROAD UNITS C-1 AND C-2 PLAYA DEL SOL CONDOS CHERRY HILL NJ 08002",
+  "attorney": "HONIG & GREENBERG, L.L.C.",
+  "attorney_phone": "(856) 770-0990",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F997925",
+  "current_status": "Settled",
+  "defendant": "CHERRY HILL COMMUNITY KOLLEL, INC.,",
+  "extracted": {},
+  "fields": {
+    "Address": "401 COOPER LANDING ROAD\nUNITS C-1 AND C-2 PLAYA DEL SOL CONDOS\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$23,419.15",
+    "Attorney": "HONIG & GREENBERG, L.L.C.",
+    "Attorney Phone": "(856) 770-0990",
+    "Court Case #": "F997925",
+    "Defendant": "CHERRY HILL COMMUNITY KOLLEL, INC.,",
+    "Parcel #": "Block 340.31 Lot 99 Units C0001 and C0002",
+    "Plaintiff": "PLAYA DEL SOL 380 CONDOMINIUM ASSOCIATION, INC.,",
+    "Property Note": "As of May 29, 2026, Second quarter taxes for tax year 2026 are due and owing in the amount of $zero",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26001458"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "401 COOPER LANDING ROAD UNITS C-1 AND C-2 PLAYA DEL SOL CONDOS CHERRY HILL NJ 08002",
+    "defendant": "CHERRY HILL COMMUNITY KOLLEL, INC.,",
+    "listing_status": null,
+    "plaintiff": "PLAYA DEL SOL 380 CONDOMINIUM ASSOCIATION, INC.,",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 340.31 Lot 99 Units C0001 and C0002",
+  "plaintiff": "PLAYA DEL SOL 380 CONDOMINIUM ASSOCIATION, INC.,",
+  "property_note": "As of May 29, 2026, Second quarter taxes for tax year 2026 are due and owing in the amount of $zero",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26001458",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 23419.15,
+  "upset_amount_label": "Approx. Upset*"
+}

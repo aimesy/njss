@@ -1,0 +1,72 @@
+{
+  "address": "66 Bonnie Drive Manalapan NJ 07726",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00905822",
+  "current_status": "Scheduled",
+  "defendant": "Vincent Curreri, et al",
+  "description": "Dimensions (Approx.): 2,933 Sq Ft\nNearest Cross Street: Saupe Drive\nGood Faith Estimated Upset Price: $790,485.21\nOccupancy Status: Owner Occupied\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nTax Certificate\nRecorded: October 07, 2021\nHolder: CHIN CHENG CHEN\nAmount: $288.16\nBook: OR-9549\nPage: 4486\nInstrument Number: 2021149255",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 790485.21
+  },
+  "fields": {
+    "Address": "66 Bonnie Drive\nManalapan NJ 07726",
+    "Approx. Judgment*": "$664,702.92",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00905822",
+    "Defendant": "Vincent Curreri, et al",
+    "Description": "Dimensions (Approx.): 2,933 Sq Ft\nNearest Cross Street: Saupe Drive\nGood Faith Estimated Upset Price: $790,485.21\nOccupancy Status: Owner Occupied\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nTax Certificate\nRecorded: October 07, 2021\nHolder: CHIN CHENG CHEN\nAmount: $288.16\nBook: OR-9549\nPage: 4486\nInstrument Number: 2021149255",
+    "Parcel #": "Tax Lot(s): 19, in Block: 337 Tax Map of the Township of Manalapan",
+    "Plaintiff": "U.S. Bank Trust National Association As Trustee Of Dwelling Series IV Trust",
+    "Property Note": "",
+    "Sales Date": "1/5/2026",
+    "Sheriff #": "FOR-24001173"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 664702.92,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "66 Bonnie Drive Manalapan NJ 07726",
+    "defendant": "Vincent Curreri, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "U.S. Bank Trust National Association As Trustee Of Dwelling Series IV Trust",
+    "sale_date": "2026-01-05"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 19, in Block: 337 Tax Map of the Township of Manalapan",
+  "plaintiff": "U.S. Bank Trust National Association As Trustee Of Dwelling Series IV Trust",
+  "property_note": null,
+  "sale_date": "2026-01-05",
+  "sheriff_number": "FOR-24001173",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-05",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Scheduled"
+    }
+  ]
+}

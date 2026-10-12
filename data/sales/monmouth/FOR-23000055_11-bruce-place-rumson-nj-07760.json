@@ -1,0 +1,96 @@
+{
+  "address": "11 Bruce Place Rumson NJ 07760",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00645322",
+  "current_status": "Scheduled",
+  "defendant": "Matthew Farr AKA Matthew N. Farr, et al",
+  "description": "Dimensions of Lot: 50 feet wide by IRR feet long\nNearest Cross Street: East River Road\nEstimated upset bid amount: $774,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr. 1 Due: 02/01/2025 $2,840.48 OPEN\n2025 Qtr. 2 Due: 05/01/2025 $2,840.47 OPEN\n*Sewer: Rumson Boro 80 East River Road Rumson, NJ 07760 732-842-1170 Acct: 861 0 01/01/2025 - 06/30/2025 $200.00 OPEN",
+  "extracted": {
+    "lot": "50",
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "11 Bruce Place\nRumson NJ 07760",
+    "Approx. Judgment*": "$698,918.57",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00645322",
+    "Defendant": "Matthew Farr AKA Matthew N. Farr, et al",
+    "Description": "Dimensions of Lot: 50 feet wide by IRR feet long\nNearest Cross Street: East River Road\nEstimated upset bid amount: $774,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr. 1 Due: 02/01/2025 $2,840.48 OPEN\n2025 Qtr. 2 Due: 05/01/2025 $2,840.47 OPEN\n*Sewer: Rumson Boro 80 East River Road Rumson, NJ 07760 732-842-1170 Acct: 861 0 01/01/2025 - 06/30/2025 $200.00 OPEN",
+    "Parcel #": "Lot 18, Block 45 Tax Map of the Borough of Rumson",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity But Solely as Owner Trustee for RCF 2 Acquisition Trust C/O U.S. Bank Trust National Association",
+    "Property Note": "",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "FOR-23000055"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 698918.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 Bruce Place Rumson NJ 07760",
+    "defendant": "Matthew Farr AKA Matthew N. Farr, et al",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity But Solely as Owner Trustee for RCF 2 Acquisition Trust C/O U.S. Bank Trust National Association",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 18, Block 45 Tax Map of the Borough of Rumson",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity But Solely as Owner Trustee for RCF 2 Acquisition Trust C/O U.S. Bank Trust National Association",
+  "property_note": null,
+  "sale_date": "2026-09-15",
+  "sheriff_number": "FOR-23000055",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-09-15",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-10-23",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-10-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-07-31",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-07-31",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2023-07-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-02-27",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-02-27",
+      "status": "Scheduled"
+    }
+  ]
+}

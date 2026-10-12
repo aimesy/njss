@@ -1,0 +1,56 @@
+{
+  "address": "1205 SASSAFRAS COURT WILLIAMSTOWN NJ 08094",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-000881-20",
+  "current_status": "Cancelled",
+  "defendant": "LISA EARLY, ET AL",
+  "description": "MUNICIPALITY: TOWNSHIP OF MONROE\nAPPROXIMATE DIMENSIONS: 80.00 x 135.00 FEET\nNEAREST CROSS STREET: TAMARIND PLACE\nUPSET PRICE: $373,222.23\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 373222.23
+  },
+  "fields": {
+    "Address": "1205 SASSAFRAS COURT\nWILLIAMSTOWN NJ 08094",
+    "Approximate Judgment": "$287,200.94",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-000881-20",
+    "Defendant": "LISA EARLY, ET AL",
+    "Description": "MUNICIPALITY: TOWNSHIP OF MONROE\nAPPROXIMATE DIMENSIONS: 80.00 x 135.00 FEET\nNEAREST CROSS STREET: TAMARIND PLACE\nUPSET PRICE: $373,222.23\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBECT TO THE FAIR HOUSING ACT.**",
+    "Parcel #": "LOT 55, BLOCK 110.301",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "5/18/2026",
+    "Sheriff #": "F-26000739"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 287200.94,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1205 SASSAFRAS COURT WILLIAMSTOWN NJ 08094",
+    "defendant": "LISA EARLY, ET AL",
+    "listing_status": "Cancelled",
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-05-18"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT 55, BLOCK 110.301",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-05-18",
+  "sheriff_number": "F-26000739",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-05-18",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2026-05-18",
+      "status": "Cancelled"
+    }
+  ]
+}

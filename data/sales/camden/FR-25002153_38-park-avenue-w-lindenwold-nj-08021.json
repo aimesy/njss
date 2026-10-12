@@ -1,0 +1,57 @@
+{
+  "address": "38 PARK AVENUE W. LINDENWOLD NJ 08021",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00235625",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "JAMES C. BRIGGS III, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "38 PARK AVENUE W.\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$230,028.61",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00235625",
+    "Defendant": "JAMES C. BRIGGS III, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "FR-25002153"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "38 PARK AVENUE W. LINDENWOLD NJ 08021",
+    "defendant": "JAMES C. BRIGGS III, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-04-01",
+  "sheriff_number": "FR-25002153",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 230028.61,
+  "upset_amount_label": "Approx. Upset*"
+}

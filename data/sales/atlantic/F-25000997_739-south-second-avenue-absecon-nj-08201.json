@@ -1,0 +1,62 @@
+{
+  "address": "739 South Second Avenue Absecon NJ 08201",
+  "attorney": "POLSINELLI",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "SWC-F-006540-25",
+  "current_status": "Scheduled",
+  "deed": "Stormfield Offshore SPV I, LLC",
+  "deed_address": "200 Pequot Avenue, Southport, CT 06890",
+  "defendant": "739 S Second LLC, a New Jersey limited liability company",
+  "extracted": {},
+  "fields": {
+    "Address": "739 South Second Avenue\nAbsecon NJ 08201",
+    "Approx. Judgment*": "$1,001,682.43",
+    "Attorney": "POLSINELLI",
+    "Court Case #": "SWC-F-006540-25",
+    "Deed": "Stormfield Offshore SPV I, LLC",
+    "Deed Address": "200 Pequot Avenue, Southport, CT 06890",
+    "Defendant": "739 S Second LLC, a New Jersey limited liability company",
+    "Plaintiff": "Stormfield Real Estate Income Offshore Fund, LTD.",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "12/11/2025",
+    "Sheriff #": "F-25000997",
+    "Upset Amount": "$1,001,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1001682.43,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "739 South Second Avenue Absecon NJ 08201",
+    "defendant": "739 S Second LLC, a ...",
+    "listing_status": null,
+    "plaintiff": "Stormfield Real Esta...",
+    "sale_date": "2025-12-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Stormfield Real Estate Income Offshore Fund, LTD.",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2025-12-11",
+  "sheriff_number": "F-25000997",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-12-11",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 1001000.0,
+  "upset_amount_label": "Upset Amount"
+}

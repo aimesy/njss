@@ -1,0 +1,68 @@
+{
+  "address": "1260 SOUTH 9TH STREET SOUTH PLAINFIELD NJ 07080",
+  "attorney": "LAROCCA HORNIK GREENBERG KITTREDGE CARLIN & MCPARTLAND LLP",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00010923",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "1260 S 9TH STREET REALTY LLC., ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$305,763.19",
+    "Attorney": "LAROCCA HORNIK GREENBERG KITTREDGE CARLIN & MCPARTLAND LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00010923",
+    "Defendant": "1260 S 9TH STREET REALTY LLC., ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 49 BLOCK 7",
+    "Plaintiff": "SSA NE ASSETS, LLC",
+    "Property Address": "1260 SOUTH 9TH STREET\nSOUTH PLAINFIELD NJ 07080",
+    "Property Note": "SUCCESSFULLY POSTED 07/30/2024 BY JOANY COLLADO",
+    "Sale Date": "11/6/2024",
+    "Sheriff #": "F-776546"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 305763.19,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1260 SOUTH 9TH STREET SOUTH PLAINFIELD NJ 07080",
+    "defendant": "1260 S 9TH STREET REALTY LLC., ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "SSA NE ASSETS, LLC",
+    "sale_date": "2024-11-06"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 49 BLOCK 7",
+  "plaintiff": "SSA NE ASSETS, LLC",
+  "property_note": "SUCCESSFULLY POSTED 07/30/2024 BY JOANY COLLADO",
+  "sale_date": "2024-11-06",
+  "sheriff_number": "F-776546",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-11-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-10-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

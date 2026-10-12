@@ -1,0 +1,60 @@
+{
+  "address": "156 WENTZ AVENUE SPRINGFIELD NJ 07081",
+  "attorney": "SHNAYDER LAW FIRM LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00840424",
+  "current_status": "Cancelled",
+  "defendant": "GENNARO CASCARANO; CHRISTINE CASCARANO; MIDLAND FUNDING LLC; LVNV FUNDING LLC",
+  "description": "LOT 19 BLOCK 3401",
+  "extracted": {
+    "block": "3401",
+    "lot": "19"
+  },
+  "fields": {
+    "Address": "156 WENTZ AVENUE\nSPRINGFIELD NJ 07081",
+    "Approx. Upset*": "$442,871.66",
+    "Attorney": "SHNAYDER LAW FIRM LLC",
+    "Court Case #": "F00840424",
+    "Defendant": "GENNARO CASCARANO; CHRISTINE CASCARANO; MIDLAND FUNDING LLC; LVNV FUNDING LLC",
+    "Description": "LOT 19 BLOCK 3401",
+    "Parcel #": "LOT 19 BLOCK 3401",
+    "Plaintiff": "FTS CAPITAL, LLC",
+    "Property Note": "",
+    "Sales Date": "9/1/2026",
+    "Sheriff #": "CH-25002333"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "156 WENTZ AVENUE SPRINGFIELD NJ 07081",
+    "defendant": "GENNARO CASCARANO; CHRISTINE CASCARANO; MIDLAND FUNDING LLC; LVNV FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "FTS CAPITAL, LLC",
+    "sale_date": "2026-09-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 19 BLOCK 3401",
+  "plaintiff": "FTS CAPITAL, LLC",
+  "property_note": null,
+  "sale_date": "2026-09-01",
+  "sheriff_number": "CH-25002333",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 442871.66,
+  "upset_amount_label": "Approx. Upset*"
+}

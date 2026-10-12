@@ -1,0 +1,69 @@
+{
+  "address": "835 SO 2ND STREET CAMDEN NJ",
+  "attorney": "PELLEGRINO & FELDSTEIN, LLC.",
+  "attorney_phone": "(973) 586-2300",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01718618",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "PITT STOP SERVICES, LLC; WHITNEY MANAGEMENT CORP; STATE OF NEW JERSEY; UNITED STATES OF AMERICA;",
+  "extracted": {},
+  "fields": {
+    "Address": "835 SO 2ND STREET\nCAMDEN NJ",
+    "Approx. Upset*": "$79,656.14",
+    "Attorney": "PELLEGRINO & FELDSTEIN, LLC.",
+    "Attorney Phone": "(973) 586-2300",
+    "Court Case #": "F01718618",
+    "Defendant": "PITT STOP SERVICES, LLC; WHITNEY MANAGEMENT CORP;\nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA;",
+    "Parcel #": "",
+    "Plaintiff": "MTAG CUST/FIG CAP INV NJ13 LLC",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-25000192"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "835 SO 2ND STREET CAMDEN NJ",
+    "defendant": "PITT STOP SERVICES, LLC; WHITNEY MANAGEMENT CORP; \nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA;",
+    "listing_status": null,
+    "plaintiff": "MTAG CUST/FIG CAP INV NJ13 LLC",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "MTAG CUST/FIG CAP INV NJ13 LLC",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-25000192",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 79656.14,
+  "upset_amount_label": "Approx. Upset*"
+}

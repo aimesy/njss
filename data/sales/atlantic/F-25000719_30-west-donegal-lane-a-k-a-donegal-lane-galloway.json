@@ -1,0 +1,58 @@
+{
+  "address": "30 West Donegal Lane A/K/A Donegal Lane Galloway Township NJ 08205",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011128-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Mary Foster A/K/A Mary M. Foster; William Foster A/K/A William H. Foster A/K/A Billy Foster A/K/A Bill Foster; Mrs. Foster, Spouse of William Foster A/K/A William H. Foster A/K/A Billy Foster A/K/A Bill Foster; Public Service Electric and Gas Company; Hackensack University Medical; NETS Trailer Leasing of NJ LLC; Women First; Discover Bank; Midland Funding LLC; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "30 West Donegal Lane\nA/K/A Donegal Lane\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$351,921.04",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-011128-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Mary Foster A/K/A Mary M. Foster; William Foster A/K/A William H. Foster A/K/A Billy Foster A/K/A Bill Foster; Mrs. Foster, Spouse of William Foster A/K/A William H. Foster A/K/A Billy Foster A/K/A Bill Foster; Public Service Electric and Gas Company; Hackensack University Medical; NETS Trailer Leasing of NJ LLC; Women First; Discover Bank; Midland Funding LLC; State of New Jersey; United States of America",
+    "Plaintiff": "MCLP Assest Company, Inc",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "8/28/2025",
+    "Sheriff #": "F-25000719",
+    "Upset Amount": "$386,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 351921.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "30 West Donegal Lane A/K/A Donegal Lane Galloway Township NJ 08205",
+    "defendant": "Mary Foster A/K/A Ma...",
+    "listing_status": null,
+    "plaintiff": "MCLP Assest Company,...",
+    "sale_date": "2025-08-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "MCLP Assest Company, Inc",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-08-28",
+  "sheriff_number": "F-25000719",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-28",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-08-28",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 386500.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,66 @@
+{
+  "address": "6518 Ventnor Avenue Ventnor City NJ 08406",
+  "attorney": "Dembo, Brown & Burns, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007138-24",
+  "current_status": "Scheduled",
+  "deed": "Beis Tikun Olam",
+  "deed_address": "23 S Troy Ave Ventnor, NJ 08406",
+  "defendant": "Michael Shellem; Joseph Shellem; and Dr. Joseph Lowenstein, individually and d/b/a Ventnor Chiropractic Center",
+  "extracted": {},
+  "fields": {
+    "Address": "6518 Ventnor Avenue\nVentnor City NJ 08406",
+    "Approx. Judgment*": "$328,919.51",
+    "Attorney": "Dembo, Brown & Burns, LLP",
+    "Court Case #": "F-007138-24",
+    "Deed": "Beis Tikun Olam",
+    "Deed Address": "23 S Troy Ave Ventnor, NJ 08406",
+    "Defendant": "Michael Shellem; Joseph Shellem; and Dr. Joseph Lowenstein, individually and d/b/a Ventnor Chiropractic Center",
+    "Plaintiff": "Y.A.H. Inc. Profit Sharing Plan",
+    "Priors": "VENTNOR CITY WATER/SEWER (Acct 1906-0) as of 2-1-2025, amount: $3,123.71\nVENTNOR CITY WATER/SEWER (Acct 1906-1) as of 2-1-2025, amount: $2,535.62\nTotal: $5,659.33",
+    "Property Note": "OCCUPANCY STATUS: COMMERICAL PROPERTY",
+    "Sales Date": "5/1/2025",
+    "Sheriff #": "F-25000018",
+    "Upset Amount": "$387,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 328919.51,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6518 Ventnor Avenue Ventnor City NJ 08406",
+    "defendant": "Michael Shellem; Jos...",
+    "listing_status": null,
+    "plaintiff": "Y.A.H. Inc. Profit S...",
+    "sale_date": "2025-05-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Y.A.H. Inc. Profit Sharing Plan",
+  "priors": "VENTNOR CITY WATER/SEWER (Acct 1906-0) as of 2-1-2025, amount: $3,123.71 VENTNOR CITY WATER/SEWER (Acct 1906-1) as of 2-1-2025, amount: $2,535.62 Total: $5,659.33",
+  "property_note": "OCCUPANCY STATUS: COMMERICAL PROPERTY",
+  "sale_date": "2025-05-01",
+  "sheriff_number": "F-25000018",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-01",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 387000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,63 @@
+{
+  "address": "606 Stamford Drive Neptune NJ 07753",
+  "attorney": "Hladik, Onorato & Federman, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00492224",
+  "current_status": "Scheduled",
+  "defendant": "Jason A. Jones, Kenisha M. Jelks-Jones, et al",
+  "description": "Approximate Dimensions: 164.56 x 148.61 x 111.33 x 100\nNearest Cross Street: Chadwell Court\nOccupancy Status: Tenant Occupied\nEstimated Upset Sheriff's Sale Bid Amount: $290,000.00\nSubject to any further Orders of additional sums executed by the court.",
+  "extracted": {
+    "occupancy": "Tenant Occupied"
+  },
+  "fields": {
+    "Address": "606 Stamford Drive\nNeptune NJ 07753",
+    "Approx. Judgment*": "$263,017.93",
+    "Attorney": "Hladik, Onorato & Federman, LLP",
+    "Court Case #": "F00492224",
+    "Defendant": "Jason A. Jones, Kenisha M. Jelks-Jones, et al",
+    "Description": "Approximate Dimensions: 164.56 x 148.61 x 111.33 x 100\nNearest Cross Street: Chadwell Court\nOccupancy Status: Tenant Occupied\nEstimated Upset Sheriff's Sale Bid Amount: $290,000.00\nSubject to any further Orders of additional sums executed by the court.",
+    "Parcel #": "Tax Lot: 18 Block: 1504 Tax Map of the Township of Neptune",
+    "Plaintiff": "U.S. Bank National Association, Not In Its Individual Capacity But Solely As Trustee For The RMAC Trust, Series 2018 G-CTT",
+    "Property Note": "",
+    "Sales Date": "1/5/2026",
+    "Sheriff #": "FOR-25001684"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 263017.93,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "606 Stamford Drive Neptune NJ 07753",
+    "defendant": "Jason A. Jones, Kenisha M. Jelks-Jones, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "U.S. Bank National Association, Not In Its Individual Capacity But Solely As Trustee For The RMAC Trust, Series 2018 G-CTT",
+    "sale_date": "2026-01-05"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 18 Block: 1504 Tax Map of the Township of Neptune",
+  "plaintiff": "U.S. Bank National Association, Not In Its Individual Capacity But Solely As Trustee For The RMAC Trust, Series 2018 G-CTT",
+  "property_note": null,
+  "sale_date": "2026-01-05",
+  "sheriff_number": "FOR-25001684",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-05",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Scheduled"
+    }
+  ]
+}

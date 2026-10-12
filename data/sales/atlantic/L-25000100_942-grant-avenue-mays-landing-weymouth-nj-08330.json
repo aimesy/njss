@@ -1,0 +1,78 @@
+{
+  "address": "942 Grant Avenue Mays Landing (Weymouth) NJ 08330",
+  "attorney": "Hyberg, White & Mann",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "ATL-DC-002766-22 / DJ-110397-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Maria Vega",
+  "extracted": {},
+  "fields": {
+    "Address": "942 Grant Avenue\nMays Landing (Weymouth) NJ 08330",
+    "Approx. Judgment*": "$4,127.47",
+    "Attorney": "Hyberg, White & Mann",
+    "Court Case #": "ATL-DC-002766-22 / DJ-110397-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Maria Vega",
+    "Plaintiff": "Lenape Landing Townhouse Association, Inc.",
+    "Priors": "United States of America, Rural Housing Service, amount: $133,500.00\nLenape Landing Lien Claim #2022015388, amount: $2,912.00\nLenape Landing Lien Claim #2023045432, amount: $3,931.00\nTotal: $140,343.00",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "8/21/2025",
+    "Sheriff #": "L-25000100",
+    "Upset Amount": "$5,900.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 4127.47,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "942 Grant Avenue Mays Landing (Weymouth) NJ 08330",
+    "defendant": "Maria Vega...",
+    "listing_status": null,
+    "plaintiff": "Lenape Landing Townh...",
+    "sale_date": "2025-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lenape Landing Townhouse Association, Inc.",
+  "priors": "United States of America, Rural Housing Service, amount: $133,500.00 Lenape Landing Lien Claim #2022015388, amount: $2,912.00 Lenape Landing Lien Claim #2023045432, amount: $3,931.00 Total: $140,343.00",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-08-21",
+  "sheriff_number": "L-25000100",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-21",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Consensual/Mutual Adjournment"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 5900.0,
+  "upset_amount_label": "Upset Amount"
+}

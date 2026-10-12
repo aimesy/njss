@@ -1,0 +1,58 @@
+{
+  "address": "231 West Father Keis Drive Pomona NJ 08240",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005182-24",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust C/O c/o Selene Finance LP",
+  "deed_address": "3501 Olympus Boulevard, 5th Floor, Suite 500, Dallas, TX 75019",
+  "defendant": "Raymond R. Kollman, His Heirs, Devisees, and Personal Representatives, and His, Her, or any of Their Successors in Right, Title and Interest; Beth Anne Kollman, Her Heirs, Devisees, and Personal Representatives, and His, Her, or any of Their Successors in Right, Title and Interest; Nicholas Kollman; Tara Kollman; Megan Kollman; State of New Jersey; United States of America; Discover Bank",
+  "extracted": {},
+  "fields": {
+    "Address": "231 West Father Keis Drive\nPomona NJ 08240",
+    "Approx. Judgment*": "$328,592.55",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-005182-24",
+    "Deed": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust C/O c/o Selene Finance LP",
+    "Deed Address": "3501 Olympus Boulevard, 5th Floor, Suite 500, Dallas, TX 75019",
+    "Defendant": "Raymond R. Kollman, His Heirs, Devisees, and Personal Representatives, and His, Her, or any of Their Successors in Right, Title and Interest; Beth Anne Kollman, Her Heirs, Devisees, and Personal Representatives, and His, Her, or any of Their Successors in Right, Title and Interest; Nicholas Kollman; Tara Kollman; Megan Kollman; State of New Jersey; United States of America; Discover Bank",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee fo RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "5/8/2025",
+    "Sheriff #": "F-25000275",
+    "Upset Amount": "$340,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 328592.55,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "231 West Father Keis Drive Pomona NJ 08240",
+    "defendant": "Raymond R. Kollman, ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-05-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee fo RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-05-08",
+  "sheriff_number": "F-25000275",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-08",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 340000.0,
+  "upset_amount_label": "Upset Amount"
+}

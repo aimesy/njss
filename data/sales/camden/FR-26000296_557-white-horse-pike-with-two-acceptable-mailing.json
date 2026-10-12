@@ -1,0 +1,53 @@
+{
+  "address": "557 WHITE HORSE PIKE WITH TWO ACCEPTABLE MAILING ADDRESSES OF 557 WHITE HORSE PIKE, HAMMONTON NJ, 08037 AND 559 SOUTH WHITE HORSE PIKE, HAMMONTON, NJ 08037 TOWNSHIP OF WINSLOW NJ 08037",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00908525",
+  "current_status": "Scheduled",
+  "defendant": "CHRISTOPHER RAY SNEDDON; AND THE UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "557 WHITE HORSE PIKE\nWITH TWO ACCEPTABLE MAILING ADDRESSES OF 557 WHITE HORSE PIKE, HAMMONTON NJ, 08037 AND 559 SOUTH WHITE HORSE PIKE, HAMMONTON, NJ 08037\nTOWNSHIP OF WINSLOW NJ 08037",
+    "Approx. Upset*": "$225,910.18",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00908525",
+    "Defendant": "CHRISTOPHER RAY SNEDDON; AND THE UNITED STATES OF AMERICA",
+    "Parcel #": "",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "5/6/2026",
+    "Sheriff #": "FR-26000296"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "557 WHITE HORSE PIKE WITH TWO ACCEPTABLE MAILING ADDRESSES OF 557 WHITE HORSE PIKE, HAMMONTON NJ, 08037 AND 559 SOUTH WHITE HORSE PIKE, HAMMONTON, NJ 08037 TOWNSHIP OF WINSLOW NJ 08037",
+    "defendant": "CHRISTOPHER RAY SNEDDON; AND THE UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICING, LLC",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CARRINGTON MORTGAGE SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "FR-26000296",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-09",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 225910.18,
+  "upset_amount_label": "Approx. Upset*"
+}

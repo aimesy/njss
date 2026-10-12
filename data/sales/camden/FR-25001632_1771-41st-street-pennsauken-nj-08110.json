@@ -1,0 +1,61 @@
+{
+  "address": "1771 41ST STREET PENNSAUKEN NJ 08110",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "SWCF00155524",
+  "current_status": "Purchased",
+  "defendant": "LAWRENCE CARTER AKA LAWRENCE D. CARTER; LANCE D. CARTER AKA LANCE CARTER; ALYCIA CARTER; UNITED STATES OF AMERICA; ABCO FEDERAL CREDIT UNION; NEW CENTURY FINANCIAL SERVICES; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "1771 41ST STREET\nPENNSAUKEN NJ 08110",
+    "Approx. Upset*": "$241,679.23",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "SWCF00155524",
+    "Defendant": "LAWRENCE CARTER AKA LAWRENCE D. CARTER; LANCE D. CARTER AKA LANCE CARTER;\nALYCIA CARTER; UNITED STATES OF AMERICA; ABCO FEDERAL CREDIT UNION; NEW\nCENTURY FINANCIAL SERVICES; STATE OF NEW JERSEY",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF STANWICH MORTGAGE\nLOAN TRUST 1",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "FR-25001632"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1771 41ST STREET PENNSAUKEN NJ 08110",
+    "defendant": "LAWRENCE CARTER AKA LAWRENCE D. CARTER; LANCE D. CARTER AKA LANCE CARTER; \nALYCIA CARTER; UNITED STATES OF AMERICA; ABCO FEDERAL CREDIT UNION; NEW \nCENTURY FINANCIAL SERVICES; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF STANWICH MORTGAGE \nLOAN TRUST 1",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF STANWICH MORTGAGE LOAN TRUST 1",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "FR-25001632",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 241679.23,
+  "upset_amount_label": "Approx. Upset*"
+}

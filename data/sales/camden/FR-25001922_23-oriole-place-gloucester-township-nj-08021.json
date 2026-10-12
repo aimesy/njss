@@ -1,0 +1,53 @@
+{
+  "address": "23 ORIOLE PLACE GLOUCESTER TOWNSHIP NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00845824",
+  "current_status": "Scheduled",
+  "defendant": "BETTY J. DIXON A/K/A BETTY DIXON; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "23 ORIOLE PLACE\nGLOUCESTER TOWNSHIP NJ 08021",
+    "Approx. Upset*": "$148,496.61",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00845824",
+    "Defendant": "BETTY J. DIXON A/K/A BETTY DIXON; UNITED STATES OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+    "Property Note": "",
+    "Sales Date": "10/27/2025",
+    "Sheriff #": "FR-25001922"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "23 ORIOLE PLACE GLOUCESTER TOWNSHIP NJ 08021",
+    "defendant": "BETTY J. DIXON A/K/A BETTY DIXON; UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+    "sale_date": "2025-10-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
+  "property_note": null,
+  "sale_date": "2025-10-27",
+  "sheriff_number": "FR-25001922",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-27",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 148496.61,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,66 @@
+{
+  "address": "622 North Kentucky Avenue Atlantic City NJ 08401",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007798-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Muhammad H. Newkirk; Jaquetta Blackwell; CIty of Atlantic City; United States of America; State od New Jersey; Atlantic Co Bd Social Services; and Jacquetta R. Blackwell",
+  "extracted": {},
+  "fields": {
+    "Address": "622 North Kentucky Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$85,559.92",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-007798-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Muhammad H. Newkirk; Jaquetta Blackwell; CIty of Atlantic City; United States of America; State od New Jersey; Atlantic Co Bd Social Services; and Jacquetta R. Blackwell",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/9/2026",
+    "Sheriff #": "F-25001331",
+    "Upset Amount": "$96,470.97"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 85559.92,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "622 North Kentucky Avenue Atlantic City NJ 08401",
+    "defendant": "Muhammad H. Newkirk;...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2026-04-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-04-09",
+  "sheriff_number": "F-25001331",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-09",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-12",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-02-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 96470.97,
+  "upset_amount_label": "Upset Amount"
+}

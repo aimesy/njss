@@ -1,0 +1,64 @@
+{
+  "address": "1611 GREEN HOLLOW DRIVE ISELIN NJ 08830",
+  "attorney": "MCGOVERN LEGAL SERVICES",
+  "attorney_file_number": null,
+  "attorney_phone": "732 246-1221",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00882123",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ANGEL M. LOPEZ, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$6,927.50",
+    "Attorney": "MCGOVERN LEGAL SERVICES",
+    "Attorney File #": "",
+    "Attorney Phone": "732 246-1221",
+    "Court Case #": "F00882123",
+    "Defendant": "ANGEL M. LOPEZ, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 21.01 C1611 BLOCK 380",
+    "Plaintiff": "GREEN HOLLOW CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "1611 GREEN HOLLOW DRIVE\nISELIN NJ 08830",
+    "Property Note": "SUCCESSFULLY POSTED 09/03/2024 BY DOUGLAS HARVATT AREA2 SERVER RECEIVED DATE 08/29/2024",
+    "Sale Date": "12/4/2024",
+    "Sheriff #": "F-776590"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 6927.5,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1611 GREEN HOLLOW DRIVE ISELIN NJ 08830",
+    "defendant": "ANGEL M. LOPEZ, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "GREEN HOLLOW CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2024-12-04"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 21.01 C1611 BLOCK 380",
+  "plaintiff": "GREEN HOLLOW CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": "SUCCESSFULLY POSTED 09/03/2024 BY DOUGLAS HARVATT AREA2 SERVER RECEIVED DATE 08/29/2024",
+  "sale_date": "2024-12-04",
+  "sheriff_number": "F-776590",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-11-25",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

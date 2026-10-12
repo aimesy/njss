@@ -1,0 +1,78 @@
+{
+  "address": "508 Martinelli Avenue Buena NJ 08341",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-014041-23",
+  "current_status": "Scheduled",
+  "deed": "AHASAN Realty LLC",
+  "deed_address": "410 Montrose Lane Galloway NJ 08205",
+  "defendant": "Shannon Tuso",
+  "extracted": {},
+  "fields": {
+    "Address": "508 Martinelli Avenue\nBuena NJ 08341",
+    "Approx. Judgment*": "$215,632.27",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F-014041-23",
+    "Deed": "AHASAN Realty LLC",
+    "Deed Address": "410 Montrose Lane Galloway NJ 08205",
+    "Defendant": "Shannon Tuso",
+    "Plaintiff": "PennyMac Loan Services, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "3/6/2025",
+    "Sheriff #": "F-24001053",
+    "Upset Amount": "$150,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 215632.27,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "508 Martinelli Avenue Buena NJ 08341",
+    "defendant": "Shannon Tuso...",
+    "listing_status": null,
+    "plaintiff": "PennyMac Loan Servic...",
+    "sale_date": "2025-03-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PennyMac Loan Services, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-03-06",
+  "sheriff_number": "F-24001053",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-06",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 150000.0,
+  "upset_amount_label": "Upset Amount"
+}

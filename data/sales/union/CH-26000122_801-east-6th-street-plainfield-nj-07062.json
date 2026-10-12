@@ -1,0 +1,56 @@
+{
+  "address": "801 EAST 6TH STREET PLAINFIELD NJ 07062",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00681725",
+  "current_status": "Scheduled",
+  "defendant": "JUAN ROSARIO; ROSALIA MERINO H/W; MWP PROPERTIES 801 E 6TH ST LLC YORK FUNDING LLC; YORK CAPITAL MANAGEMENT LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "LOT 18 BLOCK 620",
+  "extracted": {
+    "block": "620",
+    "lot": "18"
+  },
+  "fields": {
+    "Address": "801 EAST 6TH STREET\nPLAINFIELD NJ 07062",
+    "Approx. Upset*": "$432,942.56",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F00681725",
+    "Defendant": "JUAN ROSARIO; ROSALIA MERINO H/W; MWP PROPERTIES 801 E 6TH ST LLC YORK FUNDING LLC; YORK CAPITAL MANAGEMENT LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "LOT 18 BLOCK 620",
+    "Parcel #": "LOT 18 BLOCK 620",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "CH-26000122"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "801 EAST 6TH STREET PLAINFIELD NJ 07062",
+    "defendant": "JUAN ROSARIO; ROSALIA MERINO H/W; MWP PROPERTIES 801 E 6TH ST LLC YORK FUNDING LLC; YORK CAPITAL MANAGEMENT LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 18 BLOCK 620",
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2026-02-18",
+  "sheriff_number": "CH-26000122",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-27",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 432942.56,
+  "upset_amount_label": "Approx. Upset*"
+}

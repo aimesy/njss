@@ -1,0 +1,66 @@
+{
+  "address": "303 Colin Lane Buena Vista (Williamstown) NJ 08094",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009378-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Luis Benalcazar; Rosa Benalcazarl Collings Lake Civic Association Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "303 Colin Lane\nBuena Vista (Williamstown) NJ 08094",
+    "Approx. Judgment*": "$98,023.42",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-009378-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Luis Benalcazar; Rosa Benalcazarl Collings Lake Civic Association Inc",
+    "Plaintiff": "Flagstar Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "8/28/2025",
+    "Sheriff #": "F-25000471",
+    "Upset Amount": "$109,052.24"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 98023.42,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "303 Colin Lane Buena Vista (Williamstown) NJ 08094",
+    "defendant": "Luis Benalcazar; Ros...",
+    "listing_status": null,
+    "plaintiff": "Flagstar Bank, N.A....",
+    "sale_date": "2025-08-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Flagstar Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-08-28",
+  "sheriff_number": "F-25000471",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-28",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-08-28",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-07-31",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-07-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 109052.24,
+  "upset_amount_label": "Upset Amount"
+}

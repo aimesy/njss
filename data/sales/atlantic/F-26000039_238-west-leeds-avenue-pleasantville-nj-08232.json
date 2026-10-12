@@ -1,0 +1,66 @@
+{
+  "address": "238 West Leeds Avenue Pleasantville NJ 08232",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011454-24",
+  "current_status": "Scheduled",
+  "deed": "Aamad Abro",
+  "deed_address": "415 Glenn Ave Egg Harbor Twp NJ 08234",
+  "defendant": "Ingra Johnson; Unknown Occupants #1-10 N/K/A Brian Joseph. Tenant/Occupant; Unknown Occupants #1-10 N/K/A Melanie Joseph, Tenant/Occupant",
+  "extracted": {},
+  "fields": {
+    "Address": "238 West Leeds Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$188,919.27",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-011454-24",
+    "Deed": "Aamad Abro",
+    "Deed Address": "415 Glenn Ave Egg Harbor Twp NJ 08234",
+    "Defendant": "Ingra Johnson; Unknown Occupants #1-10 N/K/A Brian Joseph. Tenant/Occupant; Unknown Occupants #1-10 N/K/A Melanie Joseph, Tenant/Occupant",
+    "Plaintiff": "U.S. Bank National Association, As Trustee of BKPL-EG Holding Trust",
+    "Priors": "Tax Cert: CCTS Tax Liens LLC $730.90\nTax Cert: US Bank Cust Pro Cap II LLC $1,071.38\nTax Cert: TSF Cust for Fig NJ13 LLC $369.80\nTax Cert: Fig As Cust for Fig NJ18 LLC $318.53\nTax Cert: Fig Cust For NJ19 LLC & Sec Pty $1,121.96\nTax Cert: PCB LLC PC8 FBO Firstrust Bank $582.22\nTax Cert: Fig 20 LLC Fig 20 FBO Sec Pty $592.33\nTotal: $4,787.12",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "4/30/2026",
+    "Sheriff #": "F-26000039",
+    "Upset Amount": "$161,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 188919.27,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "238 West Leeds Avenue Pleasantville NJ 08232",
+    "defendant": "Ingra Johnson; Unkno...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2026-04-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association, As Trustee of BKPL-EG Holding Trust",
+  "priors": "Tax Cert: CCTS Tax Liens LLC $730.90 Tax Cert: US Bank Cust Pro Cap II LLC $1,071.38 Tax Cert: TSF Cust for Fig NJ13 LLC $369.80 Tax Cert: Fig As Cust for Fig NJ18 LLC $318.53 Tax Cert: Fig Cust For NJ19 LLC & Sec Pty $1,121.96 Tax Cert: PCB LLC PC8 FBO Firstrust Bank $582.22 Tax Cert: Fig 20 LLC Fig 20 FBO Sec Pty $592.33 Total: $4,787.12",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2026-04-30",
+  "sheriff_number": "F-26000039",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-30",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 161500.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,61 @@
+{
+  "address": "3 SLALOM CT PINE HILL NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00053224",
+  "current_status": "Cancelled",
+  "defendant": "WILLIAM M. DAVIS, SR. A/K/A WILLIAM M. DAVIS A/K/A WILLIAM DAVIS; RENEE V. DAVIS A/K/A RENEE DAVIS; BURLINGTON COUNTY WELFARE BOARD N/K/A BURLINGTON COUNTY BOARD OF SOCIAL SERVICES; KIM CRUMP; CALVARY PORTFOLIO SERVICES LLC; CALVARY SPV I LLC; MITSUBISHI; CHASE BANK USA NA N/K/A JPMORGAN CHASE BANK NATIONAL ASSOCIATION; ROBERT WOOD JOHNSON HOSPITAL; STATE OF NEW JERSEY; BETTY SCHAFFER,",
+  "extracted": {},
+  "fields": {
+    "Address": "3 SLALOM CT\nPINE HILL NJ 08021",
+    "Approx. Upset*": "$235,026.89",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00053224",
+    "Defendant": "WILLIAM M. DAVIS, SR. A/K/A WILLIAM M. DAVIS A/K/A WILLIAM DAVIS;\nRENEE V. DAVIS A/K/A RENEE DAVIS; BURLINGTON COUNTY WELFARE BOARD\nN/K/A BURLINGTON COUNTY BOARD OF SOCIAL SERVICES; KIM CRUMP; CALVARY\nPORTFOLIO SERVICES LLC; CALVARY SPV I LLC; MITSUBISHI; CHASE BANK USA NA\nN/K/A JPMORGAN CHASE BANK NATIONAL ASSOCIATION; ROBERT WOOD JOHNSON\nHOSPITAL; STATE OF NEW JERSEY; BETTY SCHAFFER,",
+    "Parcel #": "",
+    "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR ACE SECURITIES\nCORP, HOME EQUITY LOAN TRUST, SERIES 2006-OP1,",
+    "Property Note": "",
+    "Sales Date": "2/13/2026",
+    "Sheriff #": "FR-25002010"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3 SLALOM CT PINE HILL NJ 08021",
+    "defendant": "WILLIAM M. DAVIS, SR. A/K/A WILLIAM M. DAVIS A/K/A WILLIAM DAVIS; \nRENEE V. DAVIS A/K/A RENEE DAVIS; BURLINGTON COUNTY WELFARE BOARD \n N/K/A BURLINGTON COUNTY BOARD OF SOCIAL SERVICES; KIM CRUMP; CALVARY \nPORTFOLIO SERVICES LLC; CALVARY SPV I LLC; MITSUBISHI; CHASE BANK USA NA \nN/K/A JPMORGAN CHASE BANK NATIONAL ASSOCIATION; ROBERT WOOD JOHNSON \nHOSPITAL; STATE OF NEW JERSEY; BETTY SCHAFFER,",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR ACE SECURITIES \nCORP, HOME EQUITY LOAN TRUST, SERIES 2006-OP1,",
+    "sale_date": "2026-02-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR ACE SECURITIES CORP, HOME EQUITY LOAN TRUST, SERIES 2006-OP1,",
+  "property_note": null,
+  "sale_date": "2026-02-13",
+  "sheriff_number": "FR-25002010",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-13",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 235026.89,
+  "upset_amount_label": "Approx. Upset*"
+}

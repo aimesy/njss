@@ -1,0 +1,56 @@
+{
+  "address": null,
+  "attorney": "WONG FLEMING PC",
+  "attorney_file_number": null,
+  "attorney_phone": "609-951-9520",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "L630915",
+  "current_status": "Cancelled",
+  "defendant": "EAPT Solutions, Inc.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$431,693.16",
+    "Attorney": "WONG FLEMING PC",
+    "Attorney File #": "",
+    "Attorney Phone": "609-951-9520",
+    "Court Case #": "L630915",
+    "Defendant": "EAPT Solutions, Inc.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "Bank of America, NA",
+    "Property Address": "",
+    "Property Note": "",
+    "Sale Date": "3/9/2026",
+    "Sheriff #": "F-775507"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 431693.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "",
+    "defendant": "EAPT Solutions, Inc.",
+    "listing_status": "Cancelled",
+    "plaintiff": "Bank of America, NA",
+    "sale_date": "2026-03-09"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "Bank of America, NA",
+  "property_note": null,
+  "sale_date": "2026-03-09",
+  "sheriff_number": "F-775507",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-09",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

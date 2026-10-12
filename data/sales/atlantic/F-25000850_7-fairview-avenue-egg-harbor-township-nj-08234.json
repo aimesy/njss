@@ -1,0 +1,66 @@
+{
+  "address": "7 Fairview Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006579-24",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman Incorporation Corporation",
+  "deed_address": "413 S. Seaview Avenue Galloway, NJ 08205",
+  "defendant": "Russell P. Brown, Sr",
+  "extracted": {},
+  "fields": {
+    "Address": "7 Fairview Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$234,788.04",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-006579-24",
+    "Deed": "Amjad Rehman Incorporation Corporation",
+    "Deed Address": "413 S. Seaview Avenue Galloway, NJ 08205",
+    "Defendant": "Russell P. Brown, Sr",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/20/2025",
+    "Sheriff #": "F-25000850",
+    "Upset Amount": "$198,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 234788.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 Fairview Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Russell P. Brown, Sr...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2025-11-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-11-20",
+  "sheriff_number": "F-25000850",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-11-20",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-09-25",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 198000.0,
+  "upset_amount_label": "Upset Amount"
+}

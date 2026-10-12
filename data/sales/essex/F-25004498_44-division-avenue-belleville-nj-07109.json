@@ -1,0 +1,91 @@
+{
+  "address": "44 DIVISION AVENUE BELLEVILLE NJ 07109",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "844 856-6646",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00702925",
+  "current_status": "Settled - Foreclosure",
+  "defendant": "ROBERT PISKO, ET. AL",
+  "description": "LOT 18, BLOCK 7903\nDIMENSIONS: 31.25 FT. X 75 FT.\nNEAREST CROSS STREET: LINDEN AVE\nPLAINTIFF GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $255,521.04 THE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTERESTS REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON.\nIF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY TO A RETURN OF THE DEPOSTI PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, THE MORTGAGEE OR THE MORTGAGEE’S ATTORNEY.",
+  "extracted": {
+    "block": "7903",
+    "lot": "18",
+    "upset_amount": 255521.04
+  },
+  "fields": {
+    "Address": "44 DIVISION AVENUE\nBELLEVILLE NJ 07109",
+    "Approx. Upset*": "$235,986.70",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "844 856-6646",
+    "Court Case #": "F00702925",
+    "Defendant": "ROBERT PISKO, ET. AL",
+    "Description": "LOT 18, BLOCK 7903\nDIMENSIONS: 31.25 FT. X 75 FT.\nNEAREST CROSS STREET: LINDEN AVE\nPLAINTIFF GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $255,521.04 THE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTERESTS REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON.\nIF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY TO A RETURN OF THE DEPOSTI PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, THE MORTGAGEE OR THE MORTGAGEE’S ATTORNEY.",
+    "Parcel #": "",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "F-25004498"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "44 DIVISION AVENUE BELLEVILLE NJ 07109",
+    "defendant": "ROBERT PISKO, ET. AL",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-09-15",
+  "sheriff_number": "F-25004498",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-07-07",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Settled - Foreclosure"
+    }
+  ],
+  "upset_amount": 235986.7,
+  "upset_amount_label": "Approx. Upset*"
+}

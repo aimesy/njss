@@ -1,0 +1,53 @@
+{
+  "address": "601 FOURTH AVENUE LINDENWOLD NJ 08021",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F958823",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "WAYNE L. MORTON, HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS/HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET ALS.",
+  "extracted": {},
+  "fields": {
+    "Address": "601 FOURTH AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$273,503.75",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F958823",
+    "Defendant": "WAYNE L. MORTON, HIS/HER HEIRS, DEVISEES AND\nPERSONAL REPRESENTATIVES, AND HIS/HER, THEIR OR\nANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST,\nET ALS.",
+    "Parcel #": "",
+    "Plaintiff": "PENNYMAC LOAN SERVICES,LLC",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "FR-25001999"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "601 FOURTH AVENUE LINDENWOLD NJ 08021",
+    "defendant": "WAYNE L. MORTON, HIS/HER HEIRS, DEVISEES AND \nPERSONAL REPRESENTATIVES, AND HIS/HER, THEIR OR \nANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, \nET ALS.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES,LLC",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PENNYMAC LOAN SERVICES,LLC",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "FR-25001999",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 273503.75,
+  "upset_amount_label": "Approx. Upset*"
+}

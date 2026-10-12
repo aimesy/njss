@@ -1,0 +1,72 @@
+{
+  "address": "718-720 MCKINLEY STREET ELIZABETH NJ 07202",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00560425",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "NATALIE VEGA; MR. OR MRS. VEGA, HUSBAND OR WIFE OF NATALIE VEGA, THE SPOUSE, DOMESTIC PARTNER OR CIVIL UNION PARTNER OF NATALIE VEGA; STATE OF NEW JERSEY; ATLANTIC CITY ELECTRIC",
+  "description": "LOT 1013 BLOCK 4",
+  "extracted": {
+    "block": "4",
+    "lot": "1013"
+  },
+  "fields": {
+    "Address": "718-720 MCKINLEY STREET\nELIZABETH NJ 07202",
+    "Approx. Upset*": "$118,761.56",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F00560425",
+    "Defendant": "NATALIE VEGA; MR. OR MRS. VEGA, HUSBAND OR WIFE OF NATALIE VEGA, THE SPOUSE, DOMESTIC PARTNER OR CIVIL UNION PARTNER OF NATALIE VEGA; STATE OF NEW JERSEY; ATLANTIC CITY ELECTRIC",
+    "Description": "LOT 1013 BLOCK 4",
+    "Parcel #": "LOT 1013 BLOCK 4",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "5/20/2026",
+    "Sheriff #": "CH-25002281"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "718-720 MCKINLEY STREET ELIZABETH NJ 07202",
+    "defendant": "NATALIE VEGA; MR. OR MRS. VEGA, HUSBAND OR WIFE OF NATALIE VEGA, THE SPOUSE, DOMESTIC PARTNER OR CIVIL UNION PARTNER OF NATALIE VEGA; STATE OF NEW JERSEY; ATLANTIC CITY ELECTRIC",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-05-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 1013 BLOCK 4",
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2026-05-20",
+  "sheriff_number": "CH-25002281",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 118761.56,
+  "upset_amount_label": "Approx. Upset*"
+}

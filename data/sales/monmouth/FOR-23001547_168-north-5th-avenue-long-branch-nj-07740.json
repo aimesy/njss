@@ -1,0 +1,61 @@
+{
+  "address": "168 North 5th Avenue Long Branch NJ 07740",
+  "attorney": "Stern Lavinthal & Frankenberg LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00230123",
+  "current_status": "Scheduled",
+  "defendant": "Rodolfo Itzol, Jr.; Adrianna Itzol, et al",
+  "description": "The dimensions are approximately - 40' X 135'\nNearest cross street: Joline Avenue\nThe Good faith Estimate of the upset bid amount for said sale date is $192,807.23\nThe property is OCCUPIED\nPrior lien(s): SEWER ACCOUNT past due in the approx. amount of $612.00\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {},
+  "fields": {
+    "Address": "168 North 5th Avenue\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$176,459.53",
+    "Attorney": "Stern Lavinthal & Frankenberg LLC",
+    "Court Case #": "F00230123",
+    "Defendant": "Rodolfo Itzol, Jr.; Adrianna Itzol, et al",
+    "Description": "The dimensions are approximately - 40' X 135'\nNearest cross street: Joline Avenue\nThe Good faith Estimate of the upset bid amount for said sale date is $192,807.23\nThe property is OCCUPIED\nPrior lien(s): SEWER ACCOUNT past due in the approx. amount of $612.00\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Block 323, Lot 17 Tax Map of City of Long Branch",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Property Note": "",
+    "Sales Date": "3/31/2025",
+    "Sheriff #": "FOR-23001547"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 176459.53,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "168 North 5th Avenue Long Branch NJ 07740",
+    "defendant": "Rodolfo Itzol, Jr.; Adrianna Itzol, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Lakeview Loan Servicing, LLC",
+    "sale_date": "2025-03-31"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 323, Lot 17 Tax Map of City of Long Branch",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "property_note": null,
+  "sale_date": "2025-03-31",
+  "sheriff_number": "FOR-23001547",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-31",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-12",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-09-12",
+      "status": "Scheduled"
+    }
+  ]
+}

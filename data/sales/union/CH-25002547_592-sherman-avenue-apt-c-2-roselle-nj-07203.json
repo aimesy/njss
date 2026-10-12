@@ -1,0 +1,56 @@
+{
+  "address": "592 SHERMAN AVENUE APT C-2 ROSELLE NJ 07203",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00752825",
+  "current_status": "Scheduled",
+  "defendant": "STACY EWING; WOODS END ASSOCIATION, INC",
+  "description": "LOT 1 BLOCK 7401 QUALIFIER C8C02",
+  "extracted": {
+    "block": "7401",
+    "lot": "1"
+  },
+  "fields": {
+    "Address": "592 SHERMAN AVENUE\nAPT C-2\nROSELLE NJ 07203",
+    "Approx. Upset*": "$112,257.39",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00752825",
+    "Defendant": "STACY EWING; WOODS END ASSOCIATION, INC",
+    "Description": "LOT 1 BLOCK 7401 QUALIFIER C8C02",
+    "Parcel #": "LOT 1 BLOCK 7401 QUALIFIER C8C02",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "CH-25002547"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "592 SHERMAN AVENUE APT C-2 ROSELLE NJ 07203",
+    "defendant": "STACY EWING; WOODS END ASSOCIATION, INC",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 1 BLOCK 7401 QUALIFIER C8C02",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "CH-25002547",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-11-24",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 112257.39,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,72 @@
+{
+  "address": "503-505 15TH AVE NEWARK NJ 07103",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00239125",
+  "current_status": "Settled - Foreclosure",
+  "defendant": "BLUE STONE PROPERTIES, LLC; ET. ALS.",
+  "description": "LOT: 26.03 BLOCK: 288\nDIMENSIONS (APPROX.): 3,383 SF\nNEAREST CROSS STREET: S 11TH STREET\nGOOD FAITH ESTIMATED UPSET PRICE $746,392.27\nOCCUPANCY STATUS: NON-OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL",
+  "extracted": {
+    "block": "288",
+    "lot": "26.03",
+    "occupancy": "NON-OWNER OCCUPIED",
+    "upset_amount": 746392.27
+  },
+  "fields": {
+    "Address": "503-505 15TH AVE\nNEWARK NJ 07103",
+    "Approx. Upset*": "$681,557.59",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00239125",
+    "Defendant": "BLUE STONE PROPERTIES, LLC; ET. ALS.",
+    "Description": "LOT: 26.03 BLOCK: 288\nDIMENSIONS (APPROX.): 3,383 SF\nNEAREST CROSS STREET: S 11TH STREET\nGOOD FAITH ESTIMATED UPSET PRICE $746,392.27\nOCCUPANCY STATUS: NON-OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF OBX 2024-NQM8 TRUST",
+    "Property Note": "",
+    "Sales Date": "12/16/2026",
+    "Sheriff #": "F-25003308"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "503-505 15TH AVE NEWARK NJ 07103",
+    "defendant": "BLUE STONE PROPERTIES, LLC; ET. ALS.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF OBX 2024-NQM8 TRUST",
+    "sale_date": "2026-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF OBX 2024-NQM8 TRUST",
+  "property_note": null,
+  "sale_date": "2026-12-16",
+  "sheriff_number": "F-25003308",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-10-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-11",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-12-09",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-12-16",
+      "status": "Settled - Foreclosure"
+    }
+  ],
+  "upset_amount": 681557.59,
+  "upset_amount_label": "Approx. Upset*"
+}

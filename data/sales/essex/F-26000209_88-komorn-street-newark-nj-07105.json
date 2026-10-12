@@ -1,0 +1,79 @@
+{
+  "address": "88 KOMORN STREET NEWARK NJ 07105",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00433225",
+  "current_status": "Settled - Foreclosure",
+  "defendant": "DOROTHY O'SHEA DECEASED, HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST, ET. AL",
+  "description": "TAX LOT(S): 50, IN BLOCK: 2074\nDIMENSIONS (APPROX.): 20X100\nNEAREST CROSS STREET: MAGAZINE ST.\nIMPORTANT:\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nSHERIFF, KINDLY ADVERTISE THE FOLLOWING.\nGOOD FAITH ESTIMATED UPSET PRICE: $315,000.00\nOCCUPANCY STATUS:\nVACANT",
+  "extracted": {
+    "block": "2074",
+    "occupancy": "VACANT",
+    "upset_amount": 315000.0
+  },
+  "fields": {
+    "Address": "88 KOMORN STREET\nNEWARK NJ 07105",
+    "Approx. Upset*": "$427,884.22",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00433225",
+    "Defendant": "DOROTHY O'SHEA DECEASED, HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST, ET. AL",
+    "Description": "TAX LOT(S): 50, IN BLOCK: 2074\nDIMENSIONS (APPROX.): 20X100\nNEAREST CROSS STREET: MAGAZINE ST.\nIMPORTANT:\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nSHERIFF, KINDLY ADVERTISE THE FOLLOWING.\nGOOD FAITH ESTIMATED UPSET PRICE: $315,000.00\nOCCUPANCY STATUS:\nVACANT",
+    "Parcel #": "",
+    "Plaintiff": "SAFEGUARD CREDIT COUNSELING SERVICES, INC.,",
+    "Property Note": "",
+    "Sales Date": "7/21/2026",
+    "Sheriff #": "F-26000209"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "88 KOMORN STREET NEWARK NJ 07105",
+    "defendant": "DOROTHY O'SHEA DECEASED, HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST, ET. AL",
+    "listing_status": null,
+    "plaintiff": "SAFEGUARD CREDIT COUNSELING SERVICES, INC.,",
+    "sale_date": "2026-07-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "SAFEGUARD CREDIT COUNSELING SERVICES, INC.,",
+  "property_note": null,
+  "sale_date": "2026-07-21",
+  "sheriff_number": "F-26000209",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-03-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Settled - Foreclosure"
+    }
+  ],
+  "upset_amount": 427884.22,
+  "upset_amount_label": "Approx. Upset*"
+}

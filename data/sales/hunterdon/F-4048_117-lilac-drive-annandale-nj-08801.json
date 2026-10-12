@@ -1,0 +1,71 @@
+{
+  "address": "117 LILAC DRIVE ANNANDALE NJ 08801",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Hunterdon County, NJ",
+  "county_id": 32,
+  "court_case_number": "F-002384-24",
+  "current_status": "Scheduled",
+  "defendant": "WILLIAM J. MUSICK ; ET AL.",
+  "description": "APPROXIMATE UPSET AMOUNT IS $407,756.21",
+  "extracted": {},
+  "fields": {
+    "Address": "117 LILAC DRIVE\nANNANDALE NJ 08801",
+    "Approx Judgment": "$371,442.88",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F-002384-24",
+    "Defendant": "WILLIAM J. MUSICK ; ET AL.",
+    "Parcel #": "LOT 14, BLOCK 89",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-B",
+    "Property Details": "APPROXIMATE UPSET AMOUNT IS $407,756.21",
+    "Property Note": "PURSUANT TO A MUNICIPAL TAX SEARCH DATED JULY 18, 2024.\nSUBJECT TO: 2024 3RD QUARTER TAXES DUE 8/1/2024, $2,225.42 BILLED; $2,221.58 OPEN; $3.84 PAID, INTEREST TO 8/16/2024 $10.41 OPEN\n2024 4TH QUARTER TAXES DUE 11/1/2024, $2,225.41 OPEN\nOCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "12/30/2026",
+    "Sheriff #": "F-4048"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 371442.88,
+  "judgment_amount_label": "Approx Judgment",
+  "listing": {
+    "address": "117 LILAC DRIVE ANNANDALE NJ 08801",
+    "defendant": "WILLIAM J. MUSICK ; ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-B",
+    "sale_date": "2026-12-30"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
+  "parcel": "LOT 14, BLOCK 89",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-B",
+  "property_note": "PURSUANT TO A MUNICIPAL TAX SEARCH DATED JULY 18, 2024.\nSUBJECT TO: 2024 3RD QUARTER TAXES DUE 8/1/2024, $2,225.42 BILLED; $2,221.58 OPEN; $3.84 PAID, INTEREST TO 8/16/2024 $10.41 OPEN\n2024 4TH QUARTER TAXES DUE 11/1/2024, $2,225.41 OPEN\nOCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2026-12-30",
+  "sheriff_number": "F-4048",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
+  "status_history": [
+    {
+      "date": "2026-12-30",
+      "status": "Bankruptcy/Adjourned"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-12-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-11-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-10-23",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Scheduled"
+    }
+  ]
+}

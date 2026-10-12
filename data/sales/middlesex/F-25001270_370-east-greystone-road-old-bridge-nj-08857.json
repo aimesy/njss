@@ -1,0 +1,56 @@
+{
+  "address": "370 EAST GREYSTONE ROAD OLD BRIDGE NJ 08857",
+  "attorney": "LAW OFFICES OF TAE H. WHANG, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "201-461-0300",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00820524",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "ALL HANDS CONTRACTING LLC, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$259,551.94",
+    "Attorney": "LAW OFFICES OF TAE H. WHANG, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "201-461-0300",
+    "Court Case #": "F00820524",
+    "Defendant": "ALL HANDS CONTRACTING LLC, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 9 BLOCK 20002",
+    "Plaintiff": "UMB BANK, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS LEGAL TITLE TRUSTEE FOR PRL TITLE TRUST I",
+    "Property Address": "370 EAST GREYSTONE ROAD\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "7/9/2025",
+    "Sheriff #": "F-25001270"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 259551.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "370 EAST GREYSTONE ROAD OLD BRIDGE NJ 08857",
+    "defendant": "ALL HANDS CONTRACTING LLC, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "UMB BANK, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS LEGAL TITLE TRUSTEE FOR PRL TITLE TRUST I",
+    "sale_date": "2025-07-09"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 9 BLOCK 20002",
+  "plaintiff": "UMB BANK, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS LEGAL TITLE TRUSTEE FOR PRL TITLE TRUST I",
+  "property_note": null,
+  "sale_date": "2025-07-09",
+  "sheriff_number": "F-25001270",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-07-09",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

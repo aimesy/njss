@@ -1,0 +1,53 @@
+{
+  "address": "715 WALNUT STREET CAMDEN NJ",
+  "attorney": "OBERMAYER, REBMANN, MAXWELL & HIPPELL LLP",
+  "attorney_phone": "(856) 795-3300",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F644224",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "MICHAEL HILL; MRS. MICHAEL HILL; AND THE UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "715 WALNUT STREET\nCAMDEN NJ",
+    "Approx. Upset*": "$154,513.03",
+    "Attorney": "OBERMAYER, REBMANN, MAXWELL & HIPPELL LLP",
+    "Attorney Phone": "(856) 795-3300",
+    "Court Case #": "F644224",
+    "Defendant": "MICHAEL HILL; MRS. MICHAEL HILL; AND THE UNITED STATES OF AMERICA",
+    "Parcel #": "",
+    "Plaintiff": "VISION CAPITAL INVESTMENTS, LLC., A NEW JERSEY LIMITED LIABILITY COMPANY,",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25002149"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "715 WALNUT STREET CAMDEN NJ",
+    "defendant": "MICHAEL HILL; MRS. MICHAEL HILL; AND THE UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "VISION CAPITAL INVESTMENTS, LLC., A NEW JERSEY LIMITED LIABILITY COMPANY,",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "VISION CAPITAL INVESTMENTS, LLC., A NEW JERSEY LIMITED LIABILITY COMPANY,",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25002149",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 154513.03,
+  "upset_amount_label": "Approx. Upset*"
+}

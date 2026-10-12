@@ -1,0 +1,80 @@
+{
+  "address": "447 DAVIS AVENUE KEARNY NJ 07032",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-009143-22",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "JAY DIMATTEO, ET AL.",
+  "description": "TAX LOT: 31 TAX BLOCK: 199\nAPPROXIMATE DIMENSIONS: 25' X 95'\nNEAREST CROSS STREET: MIDLAND AVENUE\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $556,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "199",
+    "lot": "31",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "447 DAVIS AVENUE\nKEARNY NJ 07032",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-009143-22",
+    "Defendant": "JAY DIMATTEO, ET AL.",
+    "Description": "TAX LOT: 31 TAX BLOCK: 199\nAPPROXIMATE DIMENSIONS: 25' X 95'\nNEAREST CROSS STREET: MIDLAND AVENUE\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $556,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Good Faith Upset*": "$556,000.00",
+    "Judgment": "$467,782.47",
+    "Plaintiff": "PMIT REI 2021-A LLC",
+    "Property Note": "",
+    "Sales Date": "9/23/2026",
+    "Sheriff #": "20058243"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 467782.47,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "447 DAVIS AVENUE KEARNY NJ 07032",
+    "defendant": "JAY DIMATTEO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PMIT REI 2021-A LLC",
+    "sale_date": "2026-09-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PMIT REI 2021-A LLC",
+  "property_note": null,
+  "sale_date": "2026-09-23",
+  "sheriff_number": "20058243",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-05-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2025-07-08",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 556000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

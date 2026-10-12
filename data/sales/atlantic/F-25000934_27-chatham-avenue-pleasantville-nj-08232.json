@@ -1,0 +1,58 @@
+{
+  "address": "27 Chatham Avenue Pleasantville NJ 08232",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011257-24",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman Incorporation Corporation",
+  "deed_address": "413 S. Seaview Ave Galloway NJ 08205",
+  "defendant": "Maria Amaro, her heirs, devisees and personal representatives and her or their successors in right, title and interest; Alexandra Lozada a/k/a Alexandra Rodriguez; State of New Jersey; United States of America; Discover Bank; JFJ Delgados Landscaping & General Contractor LLC; Citizens Bank, National Association",
+  "extracted": {},
+  "fields": {
+    "Address": "27 Chatham Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$126,100.75",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-011257-24",
+    "Deed": "Amjad Rehman Incorporation Corporation",
+    "Deed Address": "413 S. Seaview Ave Galloway NJ 08205",
+    "Defendant": "Maria Amaro, her heirs, devisees and personal representatives and her or their successors in right, title and interest; Alexandra Lozada a/k/a Alexandra Rodriguez; State of New Jersey; United States of America; Discover Bank; JFJ Delgados Landscaping & General Contractor LLC; Citizens Bank, National Association",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation as Trustee for Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2021-1",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "10/23/2025",
+    "Sheriff #": "F-25000934",
+    "Upset Amount": "$131,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 126100.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "27 Chatham Avenue Pleasantville NJ 08232",
+    "defendant": "Maria Amaro, her hei...",
+    "listing_status": null,
+    "plaintiff": "Federal Home Loan Mo...",
+    "sale_date": "2025-10-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Federal Home Loan Mortgage Corporation as Trustee for Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2021-1",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-10-23",
+  "sheriff_number": "F-25000934",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-23",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 131500.0,
+  "upset_amount_label": "Upset Amount"
+}

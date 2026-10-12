@@ -1,0 +1,76 @@
+{
+  "address": "94 ELLIOT PLACE EAST ORANGE NJ 07018",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00695825",
+  "current_status": "Cancelled",
+  "defendant": "JOANNE E. EDWARDS, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL",
+  "description": "LOT 1.04 FKA 1D, BLOCK 762\nAPPROXIMATE DIMENSIONS: 100.00 X 50.00 FEET\nNEAREST CROSS STREET: SOUTH HARRISON STREETH\nSUBJECT TO: TAXES- DUE 2/1/2026 BILLED; $2,593.77\nOPEN; $0.65 PAID\nUPSET PRICE: $280,653.11\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "762",
+    "lot": "1.04",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 280653.11
+  },
+  "fields": {
+    "Address": "94 ELLIOT PLACE\nEAST ORANGE NJ 07018",
+    "Approx. Upset*": "$266,178.05",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00695825",
+    "Defendant": "JOANNE E. EDWARDS, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL",
+    "Description": "LOT 1.04 FKA 1D, BLOCK 762\nAPPROXIMATE DIMENSIONS: 100.00 X 50.00 FEET\nNEAREST CROSS STREET: SOUTH HARRISON STREETH\nSUBJECT TO: TAXES- DUE 2/1/2026 BILLED; $2,593.77\nOPEN; $0.65 PAID\nUPSET PRICE: $280,653.11\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+    "Property Note": "",
+    "Sales Date": "7/21/2026",
+    "Sheriff #": "F-26000507"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "94 ELLIOT PLACE EAST ORANGE NJ 07018",
+    "defendant": "JOANNE E. EDWARDS, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+    "sale_date": "2026-07-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+  "property_note": null,
+  "sale_date": "2026-07-21",
+  "sheriff_number": "F-26000507",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-03-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 266178.05,
+  "upset_amount_label": "Approx. Upset*"
+}

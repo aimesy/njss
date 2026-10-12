@@ -1,0 +1,69 @@
+{
+  "address": "1463 BRADLEY AVENUE CAMDEN NJ 08103",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00505124",
+  "current_status": "Defendant Adjournment",
+  "defendant": "TERRY L. GREEN; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "1463 BRADLEY AVENUE\nCAMDEN NJ 08103",
+    "Approx. Upset*": "$46,798.43",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00505124",
+    "Defendant": "TERRY L. GREEN; ET AL.,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST,",
+    "Property Note": "",
+    "Sales Date": "7/31/2026",
+    "Sheriff #": "FR-25002772"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1463 BRADLEY AVENUE CAMDEN NJ 08103",
+    "defendant": "TERRY L. GREEN; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST,",
+    "sale_date": "2026-07-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST,",
+  "property_note": null,
+  "sale_date": "2026-07-31",
+  "sheriff_number": "FR-25002772",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-31",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 46798.43,
+  "upset_amount_label": "Approx. Upset*"
+}

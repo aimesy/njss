@@ -1,0 +1,61 @@
+{
+  "address": "216 POWELL STREET GLOUCESTER CITY NJ",
+  "attorney": "ARCHER & GREINER, P.C.",
+  "attorney_phone": "(856) 795-2121",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01102225",
+  "current_status": "Bankruptcy",
+  "defendant": "TKO RENU LLC; INTI HOME REALTY LLC; AMORPHOUS VENTURES LLC; TYREE L. JONES; DEANNA O. JONES; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "216 POWELL STREET\nGLOUCESTER CITY NJ",
+    "Approx. Upset*": "$163,906.89",
+    "Attorney": "ARCHER & GREINER, P.C.",
+    "Attorney Phone": "(856) 795-2121",
+    "Court Case #": "F01102225",
+    "Defendant": "TKO RENU LLC; INTI HOME REALTY LLC;\nAMORPHOUS VENTURES LLC;\nTYREE L. JONES; DEANNA O. JONES;\nSTATE OF NEW JERSEY",
+    "Parcel #": "BLOCK 77, LOT 8",
+    "Plaintiff": "EQUITY TRUST COMPANY CUSTODIAN FBO JASON KLAUSING",
+    "Property Note": "",
+    "Sales Date": "9/16/2026",
+    "Sheriff #": "FR-26001303"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "216 POWELL STREET GLOUCESTER CITY NJ",
+    "defendant": "TKO RENU LLC; INTI HOME REALTY LLC; \nAMORPHOUS VENTURES LLC; \nTYREE L. JONES; DEANNA O. JONES; \nSTATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "EQUITY TRUST COMPANY CUSTODIAN FBO JASON KLAUSING",
+    "sale_date": "2026-09-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 77, LOT 8",
+  "plaintiff": "EQUITY TRUST COMPANY CUSTODIAN FBO JASON KLAUSING",
+  "property_note": null,
+  "sale_date": "2026-09-16",
+  "sheriff_number": "FR-26001303",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 163906.89,
+  "upset_amount_label": "Approx. Upset*"
+}

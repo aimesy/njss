@@ -1,0 +1,72 @@
+{
+  "address": "23 Twin Terrace Holmdel NJ 07733",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01347016",
+  "current_status": "Scheduled",
+  "defendant": "Reza Farzan, et al",
+  "description": "Dimensions (Approx.): 82.62*128.133*312.82*40.70*23.56*103\nNearest Cross Street: Prospect Street\nGood Faith Estimated Upset Price: $420,757.29\nOccupancy Status: Owner Occupied\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 420757.29
+  },
+  "fields": {
+    "Address": "23 Twin Terrace\nHolmdel NJ 07733",
+    "Approx. Judgment*": "$617,372.02",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F01347016",
+    "Defendant": "Reza Farzan, et al",
+    "Description": "Dimensions (Approx.): 82.62*128.133*312.82*40.70*23.56*103\nNearest Cross Street: Prospect Street\nGood Faith Estimated Upset Price: $420,757.29\nOccupancy Status: Owner Occupied\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).",
+    "Parcel #": "Tax Lot(s): 30, in block: 58.04 Tax Map of the Township of Holmdel",
+    "Plaintiff": "Bayview Loan Servicing, LLC",
+    "Property Note": "",
+    "Sales Date": "2/17/2026",
+    "Sheriff #": "FOR-25001476"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 617372.02,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "23 Twin Terrace Holmdel NJ 07733",
+    "defendant": "Reza Farzan, et al",
+    "listing_status": "On Hold By Court",
+    "plaintiff": "Bayview Loan Servicing, LLC",
+    "sale_date": "2026-02-17"
+  },
+  "listing_status": "On Hold By Court",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 30, in block: 58.04 Tax Map of the Township of Holmdel",
+  "plaintiff": "Bayview Loan Servicing, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-17",
+  "sheriff_number": "FOR-25001476",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-17",
+      "status": "On Hold By Court"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    }
+  ]
+}

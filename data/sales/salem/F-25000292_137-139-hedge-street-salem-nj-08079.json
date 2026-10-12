@@ -1,0 +1,42 @@
+{
+  "address": "137-139 Hedge Street Salem NJ 08079",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-004601-25",
+  "current_status": "Cancelled",
+  "defendant": "Thomas Brown, et al",
+  "description": "Approximate Dimensions: 117.50 feet wide by 48 feet long. Approximate Upset Price: $106,133.79. The upset amount may be subject to further orders of additional sums. Occupancy Staus: Occupied by unknown",
+  "extracted": {
+    "upset_amount": 106133.79
+  },
+  "fields": {
+    "Address": "137-139 Hedge Street\nSalem NJ 08079",
+    "Court Case #": "F-004601-25",
+    "Defendant": "Thomas Brown, et al",
+    "Description": "Approximate Dimensions: 117.50 feet wide by 48 feet long. Approximate Upset Price: $106,133.79. The upset amount may be subject to further orders of additional sums. Occupancy Staus: Occupied by unknown",
+    "Plaintiff": "GS Mortgage-Backed Securities Trust 2023-CCM1",
+    "Sales Date": "12/05/2025 02:00 PM",
+    "Sheriff #": "F-25000292"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "137-139 Hedge Street Salem NJ 08079",
+    "defendant": "Thomas Brown, et al",
+    "listing_status": null,
+    "plaintiff": "GS Mortgage-Backed Securities Trust 2023-CCM1",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "GS Mortgage-Backed Securities Trust 2023-CCM1",
+  "sale_date": null,
+  "sheriff_number": "F-25000292",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

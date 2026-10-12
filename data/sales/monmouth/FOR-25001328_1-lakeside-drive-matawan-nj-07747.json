@@ -1,0 +1,69 @@
+{
+  "address": "1 Lakeside Drive Matawan NJ 07747",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01970619",
+  "current_status": "Scheduled",
+  "defendant": "James Smith, III, et al",
+  "description": "Dimensions (Approx.): 40* 145 (lot 36); 75 x 169 (lot 35)\nNearest Cross Street: Weldon Road\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimate Upset Price: $500,000.00\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "lot": "36",
+    "occupancy": "Owner Occupied",
+    "upset_amount": 500000.0
+  },
+  "fields": {
+    "Address": "1 Lakeside Drive\nMatawan NJ 07747",
+    "Approx. Judgment*": "$531,638.86",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F01970619",
+    "Defendant": "James Smith, III, et al",
+    "Description": "Dimensions (Approx.): 40* 145 (lot 36); 75 x 169 (lot 35)\nNearest Cross Street: Weldon Road\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimate Upset Price: $500,000.00\nOccupancy Status: Owner Occupied",
+    "Parcel #": "Lot 35 & 36, Block 115 Tax Map of the Borough of Matawan",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "12/8/2025",
+    "Sheriff #": "FOR-25001328"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 531638.86,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1 Lakeside Drive Matawan NJ 07747",
+    "defendant": "James Smith, III, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "U.S. Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+    "sale_date": "2025-12-08"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 35 & 36, Block 115 Tax Map of the Borough of Matawan",
+  "plaintiff": "U.S. Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-12-08",
+  "sheriff_number": "FOR-25001328",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-12-08",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Scheduled"
+    }
+  ]
+}

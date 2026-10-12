@@ -1,0 +1,62 @@
+{
+  "address": "39 Jenkins Avenue Pennsville NJ 08070",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-007194-24",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "SNP Enterprises LLC, a New Jersey limited liability company",
+  "description": "Approximate Dimensions: 50ft x 139ft x 50ft x 139ft. Approximate Upset: $207,271.89. The upset amount may be subject to further orders of additional sums. Occupancy Status: Tenant Occupied",
+  "extracted": {
+    "occupancy": "Tenant Occupied"
+  },
+  "fields": {
+    "Address": "39 Jenkins Avenue\nPennsville NJ 08070",
+    "Court Case #": "F-007194-24",
+    "Defendant": "SNP Enterprises LLC, a New Jersey limited liability company",
+    "Description": "Approximate Dimensions: 50ft x 139ft x 50ft x 139ft. Approximate Upset: $207,271.89. The upset amount may be subject to further orders of additional sums. Occupancy Status: Tenant Occupied",
+    "Plaintiff": "EF Mortgage LLC",
+    "Sales Date": "03/02/2026 02:00 PM",
+    "Sheriff #": "F-25000249"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "39 Jenkins Avenue Pennsville NJ 08070",
+    "defendant": "SNP Enterprises LLC, a New Jersey limited liability company",
+    "listing_status": null,
+    "plaintiff": "EF Mortgage LLC",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "EF Mortgage LLC",
+  "sale_date": null,
+  "sheriff_number": "F-25000249",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Per Sheriff"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Per Sheriff"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

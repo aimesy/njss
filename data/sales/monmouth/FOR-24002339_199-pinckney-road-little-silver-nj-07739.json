@@ -1,0 +1,55 @@
+{
+  "address": "199 Pinckney Road Little Silver NJ 07739",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01914016",
+  "current_status": "Scheduled",
+  "defendant": "Mark Robertson et al.",
+  "description": "Approximate Dimensions: 124' x 200' IRR\nNearest Cross Street: Branch Avenue\nThe Plaintiff's Upset Bid presently approximates $1,274,000.00\nOccupancy Status: UNKNOWN.",
+  "extracted": {
+    "occupancy": "UNKNOWN."
+  },
+  "fields": {
+    "Address": "199 Pinckney Road\nLittle Silver NJ 07739",
+    "Approx. Judgment*": "$1,199,265.57",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F01914016",
+    "Defendant": "Mark Robertson et al.",
+    "Description": "Approximate Dimensions: 124' x 200' IRR\nNearest Cross Street: Branch Avenue\nThe Plaintiff's Upset Bid presently approximates $1,274,000.00\nOccupancy Status: UNKNOWN.",
+    "Parcel #": "Tax Lot: 11 Block: 10",
+    "Plaintiff": "Homebridge Financial Services, Inc.",
+    "Property Note": "",
+    "Sales Date": "2/18/2025",
+    "Sheriff #": "FOR-24002339"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1199265.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "199 Pinckney Road Little Silver NJ 07739",
+    "defendant": "Mark Robertson et al.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Homebridge Financial Services, Inc.",
+    "sale_date": "2025-02-18"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 11 Block: 10",
+  "plaintiff": "Homebridge Financial Services, Inc.",
+  "property_note": null,
+  "sale_date": "2025-02-18",
+  "sheriff_number": "FOR-24002339",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-18",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Scheduled"
+    }
+  ]
+}

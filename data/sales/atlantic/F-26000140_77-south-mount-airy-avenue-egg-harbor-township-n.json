@@ -1,0 +1,58 @@
+{
+  "address": "77 South Mount Airy Avenue Egg Harbor Township NJ 08234",
+  "attorney": "LOGS Legal Group LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004044-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "William Tozer a/k/a William J. Tozer, Jr.; Tracey Tozer a/k/a Tracey Lynn Hermann; Cheryl Pavia; Collections and Recoveries Inc.; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "77 South Mount Airy Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$321,968.42",
+    "Attorney": "LOGS Legal Group LLP",
+    "Court Case #": "F-004044-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "William Tozer a/k/a William J. Tozer, Jr.; Tracey Tozer a/k/a Tracey Lynn Hermann; Cheryl Pavia; Collections and Recoveries Inc.; State of New Jersey",
+    "Plaintiff": "HSBC Bank USA, National Association as Trustee for Wells Fargo Home Equity Asset-Backed Securities 2006-1 Trust, Home Equity Asset-Backed Certificates, Series 2006-1",
+    "Priors": "Cynthia A. Brassington DJ-331917-2005 $1,947.51",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/2/2026",
+    "Sheriff #": "F-26000140",
+    "Upset Amount": "$352,422.23"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 321968.42,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "77 South Mount Airy Avenue Egg Harbor Township NJ 08234",
+    "defendant": "William Tozer a/k/a ...",
+    "listing_status": null,
+    "plaintiff": "HSBC Bank USA, Natio...",
+    "sale_date": "2026-04-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "HSBC Bank USA, National Association as Trustee for Wells Fargo Home Equity Asset-Backed Securities 2006-1 Trust, Home Equity Asset-Backed Certificates, Series 2006-1",
+  "priors": "Cynthia A. Brassington DJ-331917-2005 $1,947.51",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-04-02",
+  "sheriff_number": "F-26000140",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-02",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 352422.23,
+  "upset_amount_label": "Upset Amount"
+}

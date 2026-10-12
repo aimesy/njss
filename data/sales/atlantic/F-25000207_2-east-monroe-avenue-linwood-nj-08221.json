@@ -1,0 +1,58 @@
+{
+  "address": "2 East Monroe Avenue Linwood NJ 08221",
+  "attorney": "Gross Polowy, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006520-21",
+  "current_status": "Scheduled",
+  "deed": "Federal Home Loan Mortgage Corporation",
+  "deed_address": "5000 Plano Parkway, Carrollton, TX 75010",
+  "defendant": "Hien C. Tran; Dang KY Truong; OceanFirst Bank Successor by Merger to Cape Bank and State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "2 East Monroe Avenue\nLinwood NJ 08221",
+    "Approx. Judgment*": "$635,944.12",
+    "Attorney": "Gross Polowy, LLC",
+    "Court Case #": "F-006520-21",
+    "Deed": "Federal Home Loan Mortgage Corporation",
+    "Deed Address": "5000 Plano Parkway, Carrollton, TX 75010",
+    "Defendant": "Hien C. Tran; Dang KY Truong; OceanFirst Bank Successor by Merger to Cape Bank and State of New Jersey",
+    "Plaintiff": "Select Portfolio Servicing, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "4/24/2025",
+    "Sheriff #": "F-25000207",
+    "Upset Amount": "$644,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 635944.12,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2 East Monroe Avenue Linwood NJ 08221",
+    "defendant": "Hien C. Tran; Dang K...",
+    "listing_status": null,
+    "plaintiff": "Select Portfolio Ser...",
+    "sale_date": "2025-04-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Select Portfolio Servicing, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-04-24",
+  "sheriff_number": "F-25000207",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-24",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 644000.0,
+  "upset_amount_label": "Upset Amount"
+}

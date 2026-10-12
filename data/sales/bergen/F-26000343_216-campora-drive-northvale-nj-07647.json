@@ -1,0 +1,65 @@
+{
+  "address": "216 CAMPORA DRIVE NORTHVALE NJ 07647",
+  "attorney": "BROCK AND SCOTT PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00934125",
+  "current_status": "Cancelled",
+  "defendant": "PETER GRAF; MIDLAND FUNDING LLC, ET AL.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "216 CAMPORA DRIVE\nNORTHVALE NJ 07647",
+    "Approx. Upset*": "$397,803.18",
+    "Attorney": "BROCK AND SCOTT PLLC",
+    "Court Case #": "F00934125",
+    "Defendant": "PETER GRAF; MIDLAND FUNDING LLC, ET AL.",
+    "Description": "",
+    "Parcel #": "LOT 14, BLOCK 503",
+    "Plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS AS TRUSTEE FOR RALI 2007-QA3",
+    "Property Note": "THE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED; PLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $424,264.46",
+    "Sales Date": "9/11/2026",
+    "Sheriff #": "F-26000343"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "216 CAMPORA DRIVE NORTHVALE NJ 07647",
+    "defendant": "PETER GRAF; MIDLAND FUNDING LLC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS AS TRUSTEE FOR RALI 2007-QA3",
+    "sale_date": "2026-09-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 14, BLOCK 503",
+  "plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS AS TRUSTEE FOR RALI 2007-QA3",
+  "property_note": "THE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED; PLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $424,264.46",
+  "sale_date": "2026-09-11",
+  "sheriff_number": "F-26000343",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-03-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-08-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-09-11",
+      "status": "Adjourned - Joint"
+    },
+    {
+      "date": "2026-09-11",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 397803.18,
+  "upset_amount_label": "Approx. Upset*"
+}

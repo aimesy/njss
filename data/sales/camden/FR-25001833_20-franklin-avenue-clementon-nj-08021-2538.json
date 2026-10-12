@@ -1,0 +1,53 @@
+{
+  "address": "20 FRANKLIN AVENUE CLEMENTON NJ 08021-2538",
+  "attorney": "DUANE MORRIS LLP",
+  "attorney_phone": "(215) 979-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00934223",
+  "current_status": "Purchased",
+  "defendant": "CAROL R BROWN; SOUTH JERSEY RADIOLOGY ASSOCIATES; JEFFERSON HEALTH; AND THE STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "20 FRANKLIN AVENUE\nCLEMENTON NJ 08021-2538",
+    "Approx. Upset*": "$104,165.79",
+    "Attorney": "DUANE MORRIS LLP",
+    "Attorney Phone": "(215) 979-1000",
+    "Court Case #": "F00934223",
+    "Defendant": "CAROL R BROWN; SOUTH JERSEY RADIOLOGY ASSOCIATES; JEFFERSON HEALTH;\nAND THE STATE OF NEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "TD BANK, N.A.,",
+    "Property Note": "",
+    "Sales Date": "11/5/2025",
+    "Sheriff #": "FR-25001833"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "20 FRANKLIN AVENUE CLEMENTON NJ 08021-2538",
+    "defendant": "CAROL R BROWN; SOUTH JERSEY RADIOLOGY ASSOCIATES; JEFFERSON HEALTH; \nAND THE STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "TD BANK, N.A.,",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "TD BANK, N.A.,",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "FR-25001833",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 104165.79,
+  "upset_amount_label": "Approx. Upset*"
+}

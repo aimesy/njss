@@ -1,0 +1,61 @@
+{
+  "address": "132 EAST HARWOOD TERRACE PALISADES PARK NJ 07650",
+  "attorney": "STONEMANDIA, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00208425",
+  "current_status": "Cancelled",
+  "defendant": "NIKOLAOS PSAROS; EFFIE PSAROS, ET AL.",
+  "description": "THE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $572,832.15. THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHE PROPERTY IS OCCUPIED BY UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "132 EAST HARWOOD TERRACE\nPALISADES PARK NJ 07650",
+    "Approx. Upset*": "$542,413.00",
+    "Attorney": "STONEMANDIA, LLC",
+    "Court Case #": "F00208425",
+    "Defendant": "NIKOLAOS PSAROS; EFFIE PSAROS, ET AL.",
+    "Description": "THE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $572,832.15. THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHE PROPERTY IS OCCUPIED BY UNKNOWN.",
+    "Parcel #": "LOT 7, BLOCK 612",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "12/12/2025",
+    "Sheriff #": "F-25002080"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "132 EAST HARWOOD TERRACE PALISADES PARK NJ 07650",
+    "defendant": "NIKOLAOS PSAROS; EFFIE PSAROS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2025-12-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 7, BLOCK 612",
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2025-12-12",
+  "sheriff_number": "F-25002080",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 542413.0,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "702 Ravenwood Drive Galloway Township NJ 08205",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004679-24",
+  "current_status": "Scheduled",
+  "deed": "Carrington Mortgage Services LLC",
+  "deed_address": "3900 Capital City Landsing, Michigan 48906-2147",
+  "defendant": "Harvey A. Burden A/K/A Harvey Burden, His Heirs, Devisees and Personal Representatives and His, Hers, Their or any of Their Successors in Right, Title and Interest; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "702 Ravenwood Drive\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$226,386.62",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-004679-24",
+    "Deed": "Carrington Mortgage Services LLC",
+    "Deed Address": "3900 Capital City Landsing, Michigan 48906-2147",
+    "Defendant": "Harvey A. Burden A/K/A Harvey Burden, His Heirs, Devisees and Personal Representatives and His, Hers, Their or any of Their Successors in Right, Title and Interest; State of New Jersey; United States of America",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-24001308",
+    "Upset Amount": "$249,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 226386.62,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "702 Ravenwood Drive Galloway Township NJ 08205",
+    "defendant": "Harvey A. Burden A/K...",
+    "listing_status": null,
+    "plaintiff": "Carrington Mortgage ...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24001308",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 249000.0,
+  "upset_amount_label": "Upset Amount"
+}

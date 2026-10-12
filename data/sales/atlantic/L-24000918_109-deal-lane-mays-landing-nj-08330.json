@@ -1,0 +1,70 @@
+{
+  "address": "109 Deal Lane Mays Landing NJ 08330",
+  "attorney": "Ansell Grimm & Aaron, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "ATL-L-2933-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "The A&A Trust, Elizabeth Peter and Anina Peter",
+  "extracted": {},
+  "fields": {
+    "Address": "109 Deal Lane\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$43,939.73",
+    "Attorney": "Ansell Grimm & Aaron, PC",
+    "Court Case #": "ATL-L-2933-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "The A&A Trust, Elizabeth Peter and Anina Peter",
+    "Plaintiff": "Tavistock at Mays Landing Homeowners Association, Inc.",
+    "Priors": "MERS, Inc., as nominee for Keller Mortgage, LLC dba Keller Mortgage (Recorded 10.18.2019; OP $153,200.00)\nNavy Federal Credit Union (Recorded 3.16.2023; OP $60,000.00)\nTavistock at Mays Landing HOA Lien (Recorded 11.21.22) $6,753.50\nTavistock at Mays Landing HOA Lien (Recorded 4.3.2023) $10,613.06\nTavistock at Mays Landing HOA Lien (Pending recording) $69,622.87\nAnina Peter-Judgment DJ-147521-2023 Motor Vehicle Commission Docketed 12.12.23 $350.00\nAnina Peter-Judgment DJ-096348-2024 Motor Vehicle Commission Docketed 8.20.24 $250.00\nTotal: $300,789.23",
+    "Property Note": "",
+    "Sales Date": "4/10/2025",
+    "Sheriff #": "L-24000918",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 43939.73,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "109 Deal Lane Mays Landing NJ 08330",
+    "defendant": "The A&A Trust, Eliza...",
+    "listing_status": null,
+    "plaintiff": "Tavistock at Mays La...",
+    "sale_date": "2025-04-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Tavistock at Mays Landing Homeowners Association, Inc.",
+  "priors": "MERS, Inc., as nominee for Keller Mortgage, LLC dba Keller Mortgage (Recorded 10.18.2019; OP $153,200.00) Navy Federal Credit Union (Recorded 3.16.2023; OP $60,000.00) Tavistock at Mays Landing HOA Lien (Recorded 11.21.22) $6,753.50 Tavistock at Mays Landing HOA Lien (Recorded 4.3.2023) $10,613.06 Tavistock at Mays Landing HOA Lien (Pending recording) $69,622.87 Anina Peter-Judgment DJ-147521-2023 Motor Vehicle Commission Docketed 12.12.23 $350.00 Anina Peter-Judgment DJ-096348-2024 Motor Vehicle Commission Docketed 8.20.24 $250.00 Total: $300,789.23",
+  "property_note": null,
+  "sale_date": "2025-04-10",
+  "sheriff_number": "L-24000918",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-10",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "12 Fourteenth Street Folsom NJ 08094",
+  "attorney": "Fein, Such, Kahn & Shepard P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-9605-20 CORRECTIVE ALIAS",
+  "current_status": "Scheduled",
+  "deed": "EN Properties",
+  "deed_address": "P.O. Box 1221 Hockesson, DE 19707",
+  "defendant": "Margretann Hall; Colin A. Sargent; Collings Lakes Civic Association, Inc., Mary Davis; Ina Z. Cabanas",
+  "extracted": {},
+  "fields": {
+    "Address": "12 Fourteenth Street\nFolsom NJ 08094",
+    "Approx. Judgment*": "$235,346.32",
+    "Attorney": "Fein, Such, Kahn & Shepard P.C.",
+    "Court Case #": "F-9605-20 CORRECTIVE ALIAS",
+    "Deed": "EN Properties",
+    "Deed Address": "P.O. Box 1221 Hockesson, DE 19707",
+    "Defendant": "Margretann Hall; Colin A. Sargent; Collings Lakes Civic Association, Inc., Mary Davis; Ina Z. Cabanas",
+    "Plaintiff": "OneMain Financial Services, Inc.",
+    "Priors": "3rd Party Tax Cert NO. 23-00001, Amount; $8,575.71\n3rd Party Tax Cert NO. 23-00002, Amount; $256.86\nTotal: $8,832.57",
+    "Property Note": "OCCUPANCY STATUS: PRESENTLY UNKNOWN",
+    "Sales Date": "12/5/2024",
+    "Sheriff #": "F-22000932",
+    "Upset Amount": "$119,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 235346.32,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "12 Fourteenth Street Folsom NJ 08094",
+    "defendant": "Margretann Hall; Col...",
+    "listing_status": null,
+    "plaintiff": "OneMain Financial Se...",
+    "sale_date": "2024-12-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "OneMain Financial Services, Inc.",
+  "priors": "3rd Party Tax Cert NO. 23-00001, Amount; $8,575.71 3rd Party Tax Cert NO. 23-00002, Amount; $256.86 Total: $8,832.57",
+  "property_note": "OCCUPANCY STATUS: PRESENTLY UNKNOWN",
+  "sale_date": "2024-12-05",
+  "sheriff_number": "F-22000932",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-12-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 119000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,63 @@
+{
+  "address": "59 HILLE PLACE RIDGEFIELD PARK NJ 07660",
+  "attorney": "HILL WALLACK LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00179425",
+  "current_status": "Cancelled",
+  "defendant": "DANIEL P. BRINK; ANTHONY DENTE, ET AL.",
+  "description": "OCCUPANCY STATUS: BORROWER OCCUPIED\nAPPROXIMATE UPSET AMOUNT IS $194,681.44 FOR THE SHERIFF'S SALE",
+  "extracted": {
+    "occupancy": "BORROWER OCCUPIED"
+  },
+  "fields": {
+    "Address": "59 HILLE PLACE\nRIDGEFIELD PARK NJ 07660",
+    "Approx. Upset*": "$175,244.85",
+    "Attorney": "HILL WALLACK LLP",
+    "Court Case #": "F00179425",
+    "Defendant": "DANIEL P. BRINK; ANTHONY DENTE, ET AL.",
+    "Description": "OCCUPANCY STATUS: BORROWER OCCUPIED\nAPPROXIMATE UPSET AMOUNT IS $194,681.44 FOR THE SHERIFF'S SALE",
+    "Parcel #": "LOT 7, BLOCK 132",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK, AS SUCCESSOR IN INTEREST TO JPMORGAN CHASE BANK, NA AS TRUSTEE FOR STRUCTURED ASSET MORTGAGE INVESTMENTS II INC., BEAR STEARNS ALT-A TRUST 2005-2, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-2",
+    "Property Note": "",
+    "Sales Date": "1/23/2026",
+    "Sheriff #": "F-25002087"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "59 HILLE PLACE RIDGEFIELD PARK NJ 07660",
+    "defendant": "DANIEL P. BRINK; ANTHONY DENTE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK, AS SUCCESSOR IN INTEREST TO JPMORGAN CHASE BANK, NA AS TRUSTEE FOR STRUCTURED ASSET MORTGAGE INVESTMENTS II INC., BEAR STEARNS ALT-A TRUST 2005-2, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-2",
+    "sale_date": "2026-01-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 7, BLOCK 132",
+  "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK, AS SUCCESSOR IN INTEREST TO JPMORGAN CHASE BANK, NA AS TRUSTEE FOR STRUCTURED ASSET MORTGAGE INVESTMENTS II INC., BEAR STEARNS ALT-A TRUST 2005-2, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-2",
+  "property_note": null,
+  "sale_date": "2026-01-23",
+  "sheriff_number": "F-25002087",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-23",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 175244.85,
+  "upset_amount_label": "Approx. Upset*"
+}

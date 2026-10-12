@@ -1,0 +1,67 @@
+{
+  "address": "600 Berkeley Lane aka 600 Berkley Lane Neptune NJ 07753",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01034423",
+  "current_status": "Scheduled",
+  "defendant": "Marsha L. Holts et al.",
+  "description": "Approximate Dimensions: 100' x 103'\nNearest Cross Street: Edgeware Lane\nPlaintiff's Upset Bid presently approximates $322,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "600 Berkeley Lane\naka 600 Berkley Lane\nNeptune NJ 07753",
+    "Approx. Judgment*": "$295,882.85",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F01034423",
+    "Defendant": "Marsha L. Holts et al.",
+    "Description": "Approximate Dimensions: 100' x 103'\nNearest Cross Street: Edgeware Lane\nPlaintiff's Upset Bid presently approximates $322,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot: #12 fka 10 Block: #1604 fka 3020 Located on the tax map of the Township of Neptune",
+    "Plaintiff": "U.S. Bank National Association, not in its individual capacity, but solely as Trustee for the RMAC Trust, Series 2016-HC-CTT",
+    "Property Note": "",
+    "Sales Date": "4/23/2025",
+    "Sheriff #": "FOR-24002000"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 295882.85,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "600 Berkeley Lane aka 600 Berkley Lane Neptune NJ 07753",
+    "defendant": "Marsha L. Holts et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank National Association, not in its individual capacity, but solely as Trustee for the RMAC Trust, Series 2016-HC-CTT",
+    "sale_date": "2025-04-23"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: #12 fka 10 Block: #1604 fka 3020 Located on the tax map of the Township of Neptune",
+  "plaintiff": "U.S. Bank National Association, not in its individual capacity, but solely as Trustee for the RMAC Trust, Series 2016-HC-CTT",
+  "property_note": null,
+  "sale_date": "2025-04-23",
+  "sheriff_number": "FOR-24002000",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-23",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Scheduled"
+    }
+  ]
+}

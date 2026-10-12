@@ -1,0 +1,62 @@
+{
+  "address": "604 Shires Way Egg Harbor Township NJ 08234",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004913-23",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman Incorporation Corporation",
+  "deed_address": "413 S. Seaview Ave Galloway, NJ 08205",
+  "defendant": "Davinee L. Fundenberg; Frank W. Turner; OceanFirst Bank. National Association",
+  "extracted": {},
+  "fields": {
+    "Address": "604 Shires Way\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$370,792.37",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-004913-23",
+    "Deed": "Amjad Rehman Incorporation Corporation",
+    "Deed Address": "413 S. Seaview Ave Galloway, NJ 08205",
+    "Defendant": "Davinee L. Fundenberg; Frank W. Turner; OceanFirst Bank. National Association",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but solely as owner trustee for RCF 2 Acquisition Trust",
+    "Priors": "Tax Sale Certificate No. 23-00109, amount: $702.08",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/14/2024",
+    "Sheriff #": "F-24001150",
+    "Upset Amount": "$261,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 370792.37,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "604 Shires Way Egg Harbor Township NJ 08234",
+    "defendant": "Davinee L. Fundenber...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2024-11-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but solely as owner trustee for RCF 2 Acquisition Trust",
+  "priors": "Tax Sale Certificate No. 23-00109, amount: $702.08",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-14",
+  "sheriff_number": "F-24001150",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-14",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 261000.0,
+  "upset_amount_label": "Upset Amount"
+}

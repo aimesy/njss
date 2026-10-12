@@ -1,0 +1,84 @@
+{
+  "address": "44 MERRILL AVENUE EAST BRUNSWICK NJ 08816",
+  "attorney": "STERN & EISENBERG P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "609 397-9200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00377025",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JORGE A. REYES, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$165,958.23",
+    "Attorney": "STERN & EISENBERG P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "609 397-9200",
+    "Court Case #": "F00377025",
+    "Defendant": "JORGE A. REYES, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 7 BLOCK 717",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR MORGAN STANLEY DEAN WITTER CAPITAL I INC. TRUST 2003-NC3, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2003-NC3",
+    "Property Address": "44 MERRILL AVENUE\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "",
+    "Sale Date": "7/30/2026",
+    "Sheriff #": "F-25002844"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 165958.23,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "44 MERRILL AVENUE EAST BRUNSWICK NJ 08816",
+    "defendant": "JORGE A. REYES, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR MORGAN STANLEY DEAN WITTER CAPITAL I INC. TRUST 2003-NC3, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2003-NC3",
+    "sale_date": "2026-07-30"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 7 BLOCK 717",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR MORGAN STANLEY DEAN WITTER CAPITAL I INC. TRUST 2003-NC3, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2003-NC3",
+  "property_note": null,
+  "sale_date": "2026-07-30",
+  "sheriff_number": "F-25002844",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-07-30",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-22",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-22",
+      "status": "Vacated"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

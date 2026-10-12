@@ -1,0 +1,60 @@
+{
+  "address": "78 Malibu Drive Eatontown NJ 07724",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00794225",
+  "current_status": "Scheduled",
+  "defendant": "Patrick Gongora, et. al.",
+  "description": "Nearest Cross Street: Brookwood Drive\nApproximate Dimensions: 24 FT\nTaxes and Other Encumbrances:\nTaxes current through 1st Quarter of 2026\nWater/Sewer-Plaintiff is unable to these amounts. Prospective purchaser must conduct their own investigation to determine the same.\nTax Sale Certificate No. 25-00032, open balance in the amount of $620.28 good through 1/13/2026\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $141,134.49, good through 5/9/2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nSUBJECT TO THE CONDITIONS OF SALE AS SET FORTH BY THE SHERIFF WHO RESERVES THE RIGHT TO ADJOURN THE SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION\nProperty is part of a homeowner association and buyer is responsible for any unpaid assessments to which the association is entitled pursuant to NJSA 45:22A-44.1",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown.",
+    "upset_amount": 141134.49
+  },
+  "fields": {
+    "Address": "78 Malibu Drive\nEatontown NJ 07724",
+    "Approx. Judgment*": "$129,417.92",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F00794225",
+    "Defendant": "Patrick Gongora, et. al.",
+    "Description": "Nearest Cross Street: Brookwood Drive\nApproximate Dimensions: 24 FT\nTaxes and Other Encumbrances:\nTaxes current through 1st Quarter of 2026\nWater/Sewer-Plaintiff is unable to these amounts. Prospective purchaser must conduct their own investigation to determine the same.\nTax Sale Certificate No. 25-00032, open balance in the amount of $620.28 good through 1/13/2026\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.\nUpset Price: $141,134.49, good through 5/9/2026 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.\nSUBJECT TO THE CONDITIONS OF SALE AS SET FORTH BY THE SHERIFF WHO RESERVES THE RIGHT TO ADJOURN THE SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION\nProperty is part of a homeowner association and buyer is responsible for any unpaid assessments to which the association is entitled pursuant to NJSA 45:22A-44.1",
+    "Parcel #": "Lot and Block: Lot 23, Block 2401 Tax Map of Borough of Eatontown",
+    "Plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Property Note": "",
+    "Sales Date": "4/22/2026",
+    "Sheriff #": "FOR-25002515"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 129417.92,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "78 Malibu Drive Eatontown NJ 07724",
+    "defendant": "Patrick Gongora, et. al.",
+    "listing_status": "Settled",
+    "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "sale_date": "2026-04-22"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 23, Block 2401 Tax Map of Borough of Eatontown",
+  "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+  "property_note": null,
+  "sale_date": "2026-04-22",
+  "sheriff_number": "FOR-25002515",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-04-22",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Scheduled"
+    }
+  ]
+}

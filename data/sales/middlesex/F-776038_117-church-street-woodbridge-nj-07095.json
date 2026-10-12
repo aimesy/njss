@@ -1,0 +1,64 @@
+{
+  "address": "117 CHURCH STREET WOODBRIDGE NJ 07095",
+  "attorney": "PLUESE BECKER SALTZMAN LLC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01103622",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "KEVIN GITTER, ET ALS",
+  "description": "SUCCESSFULLY POSTED 04/27/2023 BY MARKGAUF",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$359,489.52",
+    "Attorney": "PLUESE BECKER SALTZMAN LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F01103622",
+    "Defendant": "KEVIN GITTER, ET ALS",
+    "Description": "SUCCESSFULLY POSTED 04/27/2023 BY MARKGAUF",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2 BLOCK 561",
+    "Plaintiff": "PROVIDENT BANK F/K/A THE PROVIDENT BANK",
+    "Property Address": "117 CHURCH STREET\nWOODBRIDGE NJ 07095",
+    "Property Note": "",
+    "Sale Date": "1/31/2024",
+    "Sheriff #": "F-776038"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 359489.52,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "117 CHURCH STREET WOODBRIDGE NJ 07095",
+    "defendant": "KEVIN GITTER, ET ALS",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "PROVIDENT BANK F/K/A THE PROVIDENT BANK",
+    "sale_date": "2024-01-31"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2 BLOCK 561",
+  "plaintiff": "PROVIDENT BANK F/K/A THE PROVIDENT BANK",
+  "property_note": null,
+  "sale_date": "2024-01-31",
+  "sheriff_number": "F-776038",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-01-31",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-01-31",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-07-05",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "42 MACFARLANE CIRCLE MONROE NJ 08831",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01050824",
+  "current_status": "Settled",
+  "defendant": "DANIEL V. TUMMINIA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$617,992.38",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F01050824",
+    "Defendant": "DANIEL V. TUMMINIA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.33 BLOCK 51",
+    "Plaintiff": "MASTR ALTERNATIVE LOAN TRUST 2004-1 MORTGAGE PASS THROUGH CERTIFICATES, SERIES 2004-1 U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO WACHOVIA BANK, NATIONAL ASSOCIATION, AS TRUSTEE",
+    "Property Address": "42 MACFARLANE CIRCLE\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25002628"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 617992.38,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "42 MACFARLANE CIRCLE MONROE NJ 08831",
+    "defendant": "DANIEL V. TUMMINIA, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "MASTR ALTERNATIVE LOAN TRUST 2004-1 MORTGAGE PASS THROUGH CERTIFICATES, SERIES 2004-1 U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO WACHOVIA BANK, NATIONAL ASSOCIATION, AS TRUSTEE",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.33 BLOCK 51",
+  "plaintiff": "MASTR ALTERNATIVE LOAN TRUST 2004-1 MORTGAGE PASS THROUGH CERTIFICATES, SERIES 2004-1 U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO WACHOVIA BANK, NATIONAL ASSOCIATION, AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25002628",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,49 @@
+{
+  "address": "19 Lynne Avenue Hawthorne NJ 07506",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 001315 26 CTL#163256",
+  "current_status": "Scheduled",
+  "defendant": "SCOTT R. STOLL ET ALS",
+  "description": "Dimensions of Lot (Approximately) 55 feet wide by 92 feet long\nNearest Cross Street: Kaywin Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $277,521.93\nThe upset price is not the same as a payoff or judgment redemption amount.\nProperty occupied by unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "19 Lynne Avenue\nHawthorne NJ 07506",
+    "Approx. Upset*": "$254,161.28",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F 001315 26 CTL#163256",
+    "Defendant": "SCOTT R. STOLL ET ALS",
+    "Description": "Dimensions of Lot (Approximately) 55 feet wide by 92 feet long\nNearest Cross Street: Kaywin Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $277,521.93\nThe upset price is not the same as a payoff or judgment redemption amount.\nProperty occupied by unknown.",
+    "Parcel #": "Tax Lot No. 4 Block 233.03 fka 24D",
+    "Plaintiff": "ROCKET MORTGAGE LLC F/K/A QUICKEN LOANS LLC",
+    "Property Note": "",
+    "Sales Date": "12/8/2026",
+    "Sheriff #": "F-26001395"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "19 Lynne Avenue Hawthorne NJ 07506",
+    "defendant": "SCOTT R. STOLL ET ALS",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE LLC F/K/A QUICKEN LOANS LLC",
+    "sale_date": "2026-12-08"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot No. 4 Block 233.03 fka 24D",
+  "plaintiff": "ROCKET MORTGAGE LLC F/K/A QUICKEN LOANS LLC",
+  "property_note": null,
+  "sale_date": "2026-12-08",
+  "sheriff_number": "F-26001395",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-12-08",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 254161.28,
+  "upset_amount_label": "Approx. Upset*"
+}

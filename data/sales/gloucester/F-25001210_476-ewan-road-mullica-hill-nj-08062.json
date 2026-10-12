@@ -1,0 +1,56 @@
+{
+  "address": "476 EWAN ROAD MULLICA HILL NJ 08062",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-010970-24",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "DIANE L. CURRY",
+  "description": "ESTIMATED UPSET PRICE: $221,802.62\nOCCUPANCY STATUS: VACANT",
+  "extracted": {
+    "occupancy": "VACANT",
+    "upset_amount": 221802.62
+  },
+  "fields": {
+    "Address": "476 EWAN ROAD\nMULLICA HILL NJ 08062",
+    "Approximate Judgment": "$204,170.08",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-010970-24",
+    "Defendant": "DIANE L. CURRY",
+    "Description": "ESTIMATED UPSET PRICE: $221,802.62\nOCCUPANCY STATUS: VACANT",
+    "Parcel #": "LOT:17 FKA 3.C BLOCK: 6",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "TOWNSHIP OF ELK\nCOUNTY OF GLOUCESTER\n476 EWAN ROAD MULLICA HILL, NJ 08062\nLOT:17 FKA 3.C BLOCK: 6\nAPPROXIMATE DIMENSIONS: 238.87 x 110.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: N/A\nESTIMATED UPSET PRICE: $221,802.62\nOCCUPANCY STATUS: VACANT",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "F-25001210"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 204170.08,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "476 EWAN ROAD MULLICA HILL NJ 08062",
+    "defendant": "DIANE L. CURRY",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT:17 FKA 3.C BLOCK: 6",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": "TOWNSHIP OF ELK\nCOUNTY OF GLOUCESTER\n476 EWAN ROAD MULLICA HILL, NJ 08062\nLOT:17 FKA 3.C BLOCK: 6\nAPPROXIMATE DIMENSIONS: 238.87 x 110.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: N/A\nESTIMATED UPSET PRICE: $221,802.62\nOCCUPANCY STATUS: VACANT",
+  "sale_date": "2026-01-21",
+  "sheriff_number": "F-25001210",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

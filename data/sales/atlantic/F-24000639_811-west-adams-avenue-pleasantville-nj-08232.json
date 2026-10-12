@@ -1,0 +1,82 @@
+{
+  "address": "811 West Adams Avenue Pleasantville NJ 08232",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012098-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Theodore Meadows aka Theodore Meadows, Jr.; Tamara D. Miller, Individually and as Administratrix of the Estate of Victoria A. Miller; Sean Miller; Mr. or Mrs. Miller, Husband or Wife of Sean Miller; State of New Jersey; United States of America; Shore Medical Center",
+  "extracted": {},
+  "fields": {
+    "Address": "811 West Adams Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$112,788.17",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F-012098-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Theodore Meadows aka Theodore Meadows, Jr.; Tamara D. Miller, Individually and as Administratrix of the Estate of Victoria A. Miller; Sean Miller; Mr. or Mrs. Miller, Husband or Wife of Sean Miller; State of New Jersey; United States of America; Shore Medical Center",
+    "Plaintiff": "Bank of America, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24000639",
+    "Upset Amount": "$129,094.74"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 112788.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "811 West Adams Avenue Pleasantville NJ 08232",
+    "defendant": "Theodore Meadows aka...",
+    "listing_status": null,
+    "plaintiff": "Bank of America, N.A...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank of America, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24000639",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 129094.74,
+  "upset_amount_label": "Upset Amount"
+}

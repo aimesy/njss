@@ -1,0 +1,65 @@
+{
+  "address": "425 HILL AVENUE LINDENWOLD NJ 08021",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00874125",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "BRIAN D'ALO; UNITED STATES OF AMERICA ON BEHALF OF THE SECETARY OF HOUSING AND URBAN DEVELOPMENT; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "425 HILL AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$178,851.41",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00874125",
+    "Defendant": "BRIAN D'ALO; UNITED STATES OF AMERICA ON\nBEHALF OF THE SECETARY OF HOUSING AND\nURBAN DEVELOPMENT; STATE OF NEW JERSEY",
+    "Parcel #": "TAX LOT 1.05 BLOCK 171",
+    "Plaintiff": "SELENE FINANCE LP,",
+    "Property Note": "2026 QTR 2 DUE: 05/01/2026 $1,828.08 OPEN\nSEWER: Lindenwold boro 2001 Egg Harbor Rd. Lindenwold, NJ 08021 856-783-2121 Acct: 1510 0 04/01/2026- 06/30/2026 $50.00 OPEN $50.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct:220017354 01/01/2026-03/31/2026 $93.00 OPEN PLUS PENALTY $372.00 OPEN PLUS PENALTY\nGENERAL REMARK: 2026 TAXES WILL REFLECT CHANGE IN ASSESSED VALUE",
+    "Sales Date": "8/26/2026",
+    "Sheriff #": "FR-26000568"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "425 HILL AVENUE LINDENWOLD NJ 08021",
+    "defendant": "BRIAN D'ALO; UNITED STATES OF AMERICA ON \nBEHALF OF THE SECETARY OF HOUSING AND \nURBAN DEVELOPMENT; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "SELENE FINANCE LP,",
+    "sale_date": "2026-08-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 1.05 BLOCK 171",
+  "plaintiff": "SELENE FINANCE LP,",
+  "property_note": "2026 QTR 2 DUE: 05/01/2026 $1,828.08 OPEN\nSEWER: Lindenwold boro 2001 Egg Harbor Rd. Lindenwold, NJ 08021 856-783-2121 Acct: 1510 0 04/01/2026- 06/30/2026 $50.00 OPEN $50.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct:220017354 01/01/2026-03/31/2026 $93.00 OPEN PLUS PENALTY $372.00 OPEN PLUS PENALTY\nGENERAL REMARK: 2026 TAXES WILL REFLECT CHANGE IN ASSESSED VALUE",
+  "sale_date": "2026-08-26",
+  "sheriff_number": "FR-26000568",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-26",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 178851.41,
+  "upset_amount_label": "Approx. Upset*"
+}

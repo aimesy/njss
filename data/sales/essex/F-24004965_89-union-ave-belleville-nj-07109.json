@@ -1,0 +1,71 @@
+{
+  "address": "89 UNION AVE BELLEVILLE NJ 07109",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F01378323",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "ANGEL GAUD; ET. AL.",
+  "description": "LOT: 16 BLOCK: 5804\nOCCUPANCY STATUS: BORROWER OCCUPIED\nNEAREST CROSS STREET: APPROXIMATELY 76.50 FT TO THE NEAREST CROSS STREET KNOWN AS WILLIAM STREET\nAPPROXIMATE DIMENSIONS: 95.00FT X 28.50FT X 95.00FT X 28.50FT\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN DEED BOOK 5751, AT PAGE 0721\nAPPROXIMATE UPSET AMOUNT IS $551,789.79 FOR THE SHERIFF SALE\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED NOVEMBER 20, 2024.\nSUBJECT TO: 2025 1ST QUARTER TAXES DUE 2/1/2025, $2,186.90 OPEN 2025 2ND QUARTER TAXES DUE 5/1/2025, $2,186.89 OPEN\nSEWER: INCLUDED WITH TAXES, SUBJECT TO EXCESS CHARGES WATER: ACCT. 6327 0, TO: 9/28/2024, $124.17 OPEN PLUS PENALTY SUBJECT TO FINAL READING",
+  "extracted": {
+    "block": "5804",
+    "lot": "16",
+    "occupancy": "BORROWER OCCUPIED"
+  },
+  "fields": {
+    "Address": "89 UNION AVE\nBELLEVILLE NJ 07109",
+    "Approx. Upset*": "$511,107.97",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F01378323",
+    "Defendant": "ANGEL GAUD; ET. AL.",
+    "Description": "LOT: 16 BLOCK: 5804\nOCCUPANCY STATUS: BORROWER OCCUPIED\nNEAREST CROSS STREET: APPROXIMATELY 76.50 FT TO THE NEAREST CROSS STREET KNOWN AS WILLIAM STREET\nAPPROXIMATE DIMENSIONS: 95.00FT X 28.50FT X 95.00FT X 28.50FT\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN DEED BOOK 5751, AT PAGE 0721\nAPPROXIMATE UPSET AMOUNT IS $551,789.79 FOR THE SHERIFF SALE\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED NOVEMBER 20, 2024.\nSUBJECT TO: 2025 1ST QUARTER TAXES DUE 2/1/2025, $2,186.90 OPEN 2025 2ND QUARTER TAXES DUE 5/1/2025, $2,186.89 OPEN\nSEWER: INCLUDED WITH TAXES, SUBJECT TO EXCESS CHARGES WATER: ACCT. 6327 0, TO: 9/28/2024, $124.17 OPEN PLUS PENALTY SUBJECT TO FINAL READING",
+    "Parcel #": "",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "F-24004965"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "89 UNION AVE BELLEVILLE NJ 07109",
+    "defendant": "ANGEL GAUD; ET. AL.",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "F-24004965",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-04",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-04-01",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-04-01",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 511107.97,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,70 @@
+{
+  "address": "181 RENNER AVE A/K/A 179-181 NEWARK NJ 07112",
+  "attorney": "STERN & EISENBERG, PC",
+  "attorney_phone": "609 397-9200",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00071524",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "CHRISTOPHER BRUTON, ET.AL.",
+  "description": "TAX LOT #9 BLOCK #3668\nAPPROIMATE DIMENSIONS: 38.1 X 100\nNEAREST CROSS STREET: SEYMOUR AVE\nA FULL LEGAL DESCRIPTION CAN BE FOUND AT THE OFFICE OF THE REGISTER\nTAXES AND OTHER ENCUMBRANCES:\n4TH QUARTER OF 2024 OPEN BALANCE IN THE AMOUNT OF $1,356.64*\nWATER/SEWER- PLAINTIFF IS UNABLE TO CONFIRM THESE AMOUNTS. PROPECTIVE PURCHASERS MUST CONDUCT THEIR OWN INVESTIGATION TODETERMINE THE SAME.\n*PLUS INTEREST ON THESE FIGURES THROUGH DATE OF PAYOFF AND ANY AND ALL SUBSEQUENT TAXES, WATER AND SEWER AMOUNTS.\nUPSET PRICE: $277,210.80, GOOD THROUGH MARCH 13, 2025 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+  "extracted": {
+    "occupancy": "OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "upset_amount": 277210.8
+  },
+  "fields": {
+    "Address": "181 RENNER AVE\nA/K/A 179-181\nNEWARK NJ 07112",
+    "Approx. Upset*": "$254,554.74",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Attorney Phone": "609 397-9200",
+    "Court Case #": "F00071524",
+    "Defendant": "CHRISTOPHER BRUTON, ET.AL.",
+    "Description": "TAX LOT #9 BLOCK #3668\nAPPROIMATE DIMENSIONS: 38.1 X 100\nNEAREST CROSS STREET: SEYMOUR AVE\nA FULL LEGAL DESCRIPTION CAN BE FOUND AT THE OFFICE OF THE REGISTER\nTAXES AND OTHER ENCUMBRANCES:\n4TH QUARTER OF 2024 OPEN BALANCE IN THE AMOUNT OF $1,356.64*\nWATER/SEWER- PLAINTIFF IS UNABLE TO CONFIRM THESE AMOUNTS. PROPECTIVE PURCHASERS MUST CONDUCT THEIR OWN INVESTIGATION TODETERMINE THE SAME.\n*PLUS INTEREST ON THESE FIGURES THROUGH DATE OF PAYOFF AND ANY AND ALL SUBSEQUENT TAXES, WATER AND SEWER AMOUNTS.\nUPSET PRICE: $277,210.80, GOOD THROUGH MARCH 13, 2025 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE FOR AEGIS ASSET BACKED SECURITIES TRUST 2006-1, MORTGAGE BACKED NOTES,",
+    "Property Note": "",
+    "Sales Date": "10/8/2026",
+    "Sheriff #": "F-24004418"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "181 RENNER AVE A/K/A 179-181 NEWARK NJ 07112",
+    "defendant": "CHRISTOPHER BRUTON, ET.AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE FOR AEGIS ASSET BACKED SECURITIES TRUST 2006-1, MORTGAGE BACKED NOTES,",
+    "sale_date": "2026-10-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE FOR AEGIS ASSET BACKED SECURITIES TRUST 2006-1, MORTGAGE BACKED NOTES,",
+  "property_note": null,
+  "sale_date": "2026-10-08",
+  "sheriff_number": "F-24004418",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-04",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-04",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-03-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-08",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 254554.74,
+  "upset_amount_label": "Approx. Upset*"
+}

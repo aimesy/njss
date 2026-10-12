@@ -1,0 +1,57 @@
+{
+  "address": "771 WEST MOUNT VERNON AVENUE HADDONFIELD NJ 08033",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01271822",
+  "current_status": "Settled",
+  "defendant": "RICHARD D. WALSH, ET AL,",
+  "extracted": {},
+  "fields": {
+    "Address": "771 WEST MOUNT VERNON AVENUE\nHADDONFIELD NJ 08033",
+    "Approx. Upset*": "$486,579.39",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F01271822",
+    "Defendant": "RICHARD D. WALSH, ET AL,",
+    "Parcel #": "",
+    "Plaintiff": "HOMEBRIDGE FINANCIAL SERVICES, INC.",
+    "Property Note": "",
+    "Sales Date": "8/30/2026",
+    "Sheriff #": "FR-23001213"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "771 WEST MOUNT VERNON AVENUE HADDONFIELD NJ 08033",
+    "defendant": "RICHARD D. WALSH, ET AL,",
+    "listing_status": null,
+    "plaintiff": "HOMEBRIDGE FINANCIAL SERVICES, INC.",
+    "sale_date": "2026-08-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "HOMEBRIDGE FINANCIAL SERVICES, INC.",
+  "property_note": null,
+  "sale_date": "2026-08-30",
+  "sheriff_number": "FR-23001213",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2023-06-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-07-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-30",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 486579.39,
+  "upset_amount_label": "Approx. Upset*"
+}

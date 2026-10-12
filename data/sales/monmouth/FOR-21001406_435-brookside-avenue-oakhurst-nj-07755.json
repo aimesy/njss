@@ -1,0 +1,65 @@
+{
+  "address": "435 Brookside Avenue Oakhurst NJ 07755",
+  "attorney": "Parker McCay P.A.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02977212",
+  "current_status": "Scheduled",
+  "defendant": "Frederick Andrew Stankiewicz, et al.",
+  "description": "APPROXIMATE DIMENSIONS: 100 X 145\nNEAREST CROSS STREET: Oakhurst Road\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.",
+  "extracted": {},
+  "fields": {
+    "Address": "435 Brookside Avenue\nOakhurst NJ 07755",
+    "Approx. Judgment*": "$356,719.01",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F02977212",
+    "Defendant": "Frederick Andrew Stankiewicz, et al.",
+    "Description": "APPROXIMATE DIMENSIONS: 100 X 145\nNEAREST CROSS STREET: Oakhurst Road\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.",
+    "Parcel #": "Lot 11, Block 25.34 Tax Map of the Township of Ocean",
+    "Plaintiff": "Wells Fargo Bank, N.A., As Certificate Trustee (Not in its Individual Capacity but Solely as Certificate Trustee), in Trust for Registered Holders of VNT Trust Series 2010-2",
+    "Property Note": "",
+    "Sales Date": "6/25/2025",
+    "Sheriff #": "FOR-21001406"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 356719.01,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "435 Brookside Avenue Oakhurst NJ 07755",
+    "defendant": "Frederick Andrew Stankiewicz, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Wells Fargo Bank, N.A., As Certificate Trustee (Not in its Individual Capacity but Solely as Certificate Trustee), in Trust for Registered Holders of VNT Trust Series 2010-2",
+    "sale_date": "2025-06-25"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 11, Block 25.34 Tax Map of the Township of Ocean",
+  "plaintiff": "Wells Fargo Bank, N.A., As Certificate Trustee (Not in its Individual Capacity but Solely as Certificate Trustee), in Trust for Registered Holders of VNT Trust Series 2010-2",
+  "property_note": null,
+  "sale_date": "2025-06-25",
+  "sheriff_number": "FOR-21001406",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-25",
+      "status": "Canceled"
+    },
+    {
+      "date": "2022-02-28",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-02-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-01-31",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2021-12-13",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "address": "24 HILLMAN Street Paterson NJ 07522",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004737 24 CTL# 163035",
+  "current_status": "Cancelled",
+  "defendant": "137 RIDGE LLC, ET AL",
+  "description": "Dimensions (Approx) 25 x 100\nNearest Cross Street: E Main Street\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs Dennis Thiel (A-58-98)\nTax Certificate\nRecorded: October 21,2019\nHolder: Milnej Enterprise LLC\nAmount: $2,967.08\nBook: M15784 Page: 273\nInstrument Number: 20-00064\nTax Certificate\nRecorded: August 26,2020\nHolder: US Bank Cust for Pro Cap 8/ProCapital MGT II\nAmount: $72.72\nBook: M16358 Page:199\nInstrument Number: 21-01218\nTax Certificate\nRecorded: March 01, 2023\nHolder: Pro Cap 8 FBO FirstTrust Bank\nAmount: $441.88\nBook:M18392 Page:112\nInstrument Number: 23-00031\nGood Faith Estimated Upset Price: $430,609.45\nOccupancy Status: Occupied by unknown\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill",
+  "extracted": {
+    "occupancy": "Occupied by unknown",
+    "upset_amount": 430609.45
+  },
+  "fields": {
+    "Address": "24 HILLMAN Street\nPaterson NJ 07522",
+    "Approx. Upset*": "$183,973.80",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 004737 24 CTL# 163035",
+    "Defendant": "137 RIDGE LLC, ET AL",
+    "Description": "Dimensions (Approx) 25 x 100\nNearest Cross Street: E Main Street\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs Dennis Thiel (A-58-98)\nTax Certificate\nRecorded: October 21,2019\nHolder: Milnej Enterprise LLC\nAmount: $2,967.08\nBook: M15784 Page: 273\nInstrument Number: 20-00064\nTax Certificate\nRecorded: August 26,2020\nHolder: US Bank Cust for Pro Cap 8/ProCapital MGT II\nAmount: $72.72\nBook: M16358 Page:199\nInstrument Number: 21-01218\nTax Certificate\nRecorded: March 01, 2023\nHolder: Pro Cap 8 FBO FirstTrust Bank\nAmount: $441.88\nBook:M18392 Page:112\nInstrument Number: 23-00031\nGood Faith Estimated Upset Price: $430,609.45\nOccupancy Status: Occupied by unknown\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill",
+    "Parcel #": "TAX LOT 8 BLOCK 118",
+    "Plaintiff": "UMB BANK, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS LEGAL TITLE TRUSTEE FOR LVS TITLE TRUST 2018-3",
+    "Property Note": "",
+    "Sales Date": "2/3/2026",
+    "Sheriff #": "F-25001440"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "24 HILLMAN Street Paterson NJ 07522",
+    "defendant": "137 RIDGE LLC, ET AL",
+    "listing_status": null,
+    "plaintiff": "UMB BANK, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS LEGAL TITLE TRUSTEE FOR LVS TITLE TRUST 2018-3",
+    "sale_date": "2026-02-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 8 BLOCK 118",
+  "plaintiff": "UMB BANK, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS LEGAL TITLE TRUSTEE FOR LVS TITLE TRUST 2018-3",
+  "property_note": null,
+  "sale_date": "2026-02-03",
+  "sheriff_number": "F-25001440",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-25",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 183973.8,
+  "upset_amount_label": "Approx. Upset*"
+}

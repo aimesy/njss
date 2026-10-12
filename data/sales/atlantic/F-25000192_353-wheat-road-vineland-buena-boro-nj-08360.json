@@ -1,0 +1,70 @@
+{
+  "address": "353 Wheat Road (Vineland) Buena Boro NJ 08360",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011774-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Stephen Michael Sachetti and Kam Sachetti",
+  "extracted": {},
+  "fields": {
+    "Address": "353 Wheat Road\n(Vineland)\nBuena Boro NJ 08360",
+    "Approx. Judgment*": "$239,427.07",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F-011774-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Stephen Michael Sachetti and Kam Sachetti",
+    "Plaintiff": "Servbank, SB",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "7/10/2025",
+    "Sheriff #": "F-25000192",
+    "Upset Amount": "$155,250.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 239427.07,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "353 Wheat Road (Vineland) Buena Boro NJ 08360",
+    "defendant": "Stephen Michael Sach...",
+    "listing_status": null,
+    "plaintiff": "Servbank, SB...",
+    "sale_date": "2025-07-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Servbank, SB",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-07-10",
+  "sheriff_number": "F-25000192",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-10",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-07-10",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-06-12",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 155250.0,
+  "upset_amount_label": "Upset Amount"
+}

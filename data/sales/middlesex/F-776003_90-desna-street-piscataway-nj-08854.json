@@ -1,0 +1,80 @@
+{
+  "address": "90 DESNA STREET PISCATAWAY NJ 08854",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01009322",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "SHAWN UYEMURA",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$243,462.73",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F01009322",
+    "Defendant": "SHAWN UYEMURA",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 25.01 BLOCK FKA 312",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Address": "90 DESNA STREET\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "1/8/2025",
+    "Sheriff #": "F-776003"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 243462.73,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "90 DESNA STREET PISCATAWAY NJ 08854",
+    "defendant": "SHAWN UYEMURA",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2025-01-08"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 25.01 BLOCK FKA 312",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-01-08",
+  "sheriff_number": "F-776003",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-01-08",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-07-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2023-06-21",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2023-05-24",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,59 @@
+{
+  "address": "78-80 Wayne Avenue Paterson NJ 07522",
+  "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003365 25 CTL# 163078",
+  "current_status": "Cancelled",
+  "defendant": "SHAHIN KHALIQUE",
+  "description": "Approximate dimensions: 50.00' x 100.00'\nNearest cross street: Liberty Street\nThe Plaintiff's Upset Bid presently approximates $190,900.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "78-80 Wayne Avenue\nPaterson NJ 07522",
+    "Approx. Upset*": "$173,637.31",
+    "Attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+    "Court Case #": "F 003365 25 CTL# 163078",
+    "Defendant": "SHAHIN KHALIQUE",
+    "Description": "Approximate dimensions: 50.00' x 100.00'\nNearest cross street: Liberty Street\nThe Plaintiff's Upset Bid presently approximates $190,900.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot: 33 Tax Block: 1404",
+    "Plaintiff": "UNITED MORTGAGE CORP.",
+    "Property Note": "",
+    "Sales Date": "3/23/2026",
+    "Sheriff #": "F-25001694"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "78-80 Wayne Avenue Paterson NJ 07522",
+    "defendant": "SHAHIN KHALIQUE",
+    "listing_status": null,
+    "plaintiff": "UNITED MORTGAGE CORP.",
+    "sale_date": "2026-03-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 33 Tax Block: 1404",
+  "plaintiff": "UNITED MORTGAGE CORP.",
+  "property_note": null,
+  "sale_date": "2026-03-23",
+  "sheriff_number": "F-25001694",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-01-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 173637.31,
+  "upset_amount_label": "Approx. Upset*"
+}

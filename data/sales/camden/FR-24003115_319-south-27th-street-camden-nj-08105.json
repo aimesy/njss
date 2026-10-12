@@ -1,0 +1,73 @@
+{
+  "address": "319 SOUTH 27TH STREET CAMDEN NJ 08105",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00473424",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "RONALD C. WALLS A/K/A RONALD WALLS; VANESSA MOORE A/K/A VANESSA R. MOORE; LEXINGTON NATIONAL INSURANCE CORPORATION; ABC BAIL BONDS, INC.; CAVALRY PORTFOLIO SERVICES LLC, ASSIGNEE; CAVALRY INVESTMENTS LLC, ASSIGNEE; AMERICREDIT; NEW CENTURY FINANCIAL SEVICES INC; DISCOVER BANK,",
+  "extracted": {},
+  "fields": {
+    "Address": "319 SOUTH 27TH STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$32,124.53",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00473424",
+    "Defendant": "RONALD C. WALLS A/K/A RONALD WALLS; VANESSA MOORE A/K/A VANESSA R.\nMOORE; LEXINGTON NATIONAL INSURANCE CORPORATION; ABC BAIL BONDS, INC.;\nCAVALRY PORTFOLIO SERVICES LLC, ASSIGNEE; CAVALRY INVESTMENTS LLC,\nASSIGNEE; AMERICREDIT; NEW CENTURY FINANCIAL SEVICES INC; DISCOVER BANK,",
+    "Parcel #": "",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2019-HY1, U.S. BANK NATIONAL ASSOCIATION,\nAS INDENTURE TRUSTEE,",
+    "Property Note": "",
+    "Sales Date": "1/12/2026",
+    "Sheriff #": "FR-24003115"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "319 SOUTH 27TH STREET CAMDEN NJ 08105",
+    "defendant": "RONALD C. WALLS A/K/A RONALD WALLS; VANESSA MOORE A/K/A VANESSA R. \nMOORE; LEXINGTON NATIONAL INSURANCE CORPORATION; ABC BAIL BONDS, INC.; \nCAVALRY PORTFOLIO SERVICES LLC, ASSIGNEE; CAVALRY INVESTMENTS LLC, \nASSIGNEE; AMERICREDIT; NEW CENTURY FINANCIAL SEVICES INC; DISCOVER BANK,",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2019-HY1, U.S. BANK NATIONAL ASSOCIATION, \nAS INDENTURE TRUSTEE,",
+    "sale_date": "2026-01-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2019-HY1, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE,",
+  "property_note": null,
+  "sale_date": "2026-01-12",
+  "sheriff_number": "FR-24003115",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-02-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 32124.53,
+  "upset_amount_label": "Approx. Upset*"
+}

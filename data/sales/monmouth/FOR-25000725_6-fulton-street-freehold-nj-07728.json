@@ -1,0 +1,71 @@
+{
+  "address": "6 Fulton Street Freehold NJ 07728",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00087824",
+  "current_status": "Scheduled",
+  "defendant": "Louis Carotenuto, Deceased, His Heirs, Devisees, and Personal Representatives, et al",
+  "description": "Dimensions (Approx.): 62 x 111\nNearest Cross Street: Broadway Rd.\nImportant:\nIndicate lien information, if any, to be advertsed pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upsed Price: $165,059.20\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "6 Fulton Street\nFreehold NJ 07728",
+    "Approx. Judgment*": "$149,879.34",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00087824",
+    "Defendant": "Louis Carotenuto, Deceased, His Heirs, Devisees, and Personal Representatives, et al",
+    "Description": "Dimensions (Approx.): 62 x 111\nNearest Cross Street: Broadway Rd.\nImportant:\nIndicate lien information, if any, to be advertsed pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upsed Price: $165,059.20\nOccupancy Status: Owner Occupied",
+    "Parcel #": "Tax Lot(s) 14, in Block: 44 Tax Map of Borough of Freehold",
+    "Plaintiff": "US Bank Trust National Association, As Trustee For LB-Ranch Series V Trust",
+    "Property Note": "",
+    "Sales Date": "10/24/2025",
+    "Sheriff #": "FOR-25000725"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 149879.34,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 Fulton Street Freehold NJ 07728",
+    "defendant": "Louis Carotenuto, Deceased, His Heirs, Devisees, and Personal Representatives, et al",
+    "listing_status": "Settled",
+    "plaintiff": "US Bank Trust National Association, As Trustee For LB-Ranch Series V Trust",
+    "sale_date": "2025-10-24"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s) 14, in Block: 44 Tax Map of Borough of Freehold",
+  "plaintiff": "US Bank Trust National Association, As Trustee For LB-Ranch Series V Trust",
+  "property_note": null,
+  "sale_date": "2025-10-24",
+  "sheriff_number": "FOR-25000725",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-24",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Scheduled"
+    }
+  ]
+}

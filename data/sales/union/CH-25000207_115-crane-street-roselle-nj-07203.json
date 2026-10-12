@@ -1,0 +1,68 @@
+{
+  "address": "115 CRANE STREET ROSELLE NJ 07203",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00521224",
+  "current_status": "Cancelled",
+  "defendant": "GINA P. EARLEY; GEORGE EARLEY; ALEXANDRA EARLEY, TENANT/OCCUPANT; STATE OF NEW JERSEY",
+  "description": "LOT 6 BLOCK 4303",
+  "extracted": {
+    "block": "4303",
+    "lot": "6"
+  },
+  "fields": {
+    "Address": "115 CRANE STREET\nROSELLE NJ 07203",
+    "Approx. Upset*": "$228,051.41",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F00521224",
+    "Defendant": "GINA P. EARLEY; GEORGE EARLEY; ALEXANDRA EARLEY, TENANT/OCCUPANT; STATE OF NEW JERSEY",
+    "Description": "LOT 6 BLOCK 4303",
+    "Parcel #": "LOT 6 BLOCK 4303",
+    "Plaintiff": "CSMC 2021-RPL6 TRUST",
+    "Property Note": "",
+    "Sales Date": "2/5/2026",
+    "Sheriff #": "CH-25000207"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "115 CRANE STREET ROSELLE NJ 07203",
+    "defendant": "GINA P. EARLEY; GEORGE EARLEY; ALEXANDRA EARLEY, TENANT/OCCUPANT; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "CSMC 2021-RPL6 TRUST",
+    "sale_date": "2026-02-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 6 BLOCK 4303",
+  "plaintiff": "CSMC 2021-RPL6 TRUST",
+  "property_note": null,
+  "sale_date": "2026-02-05",
+  "sheriff_number": "CH-25000207",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-03-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 228051.41,
+  "upset_amount_label": "Approx. Upset*"
+}

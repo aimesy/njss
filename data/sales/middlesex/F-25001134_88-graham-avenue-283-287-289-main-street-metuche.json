@@ -1,0 +1,64 @@
+{
+  "address": "88 GRAHAM AVENUE 283, 287, 289 MAIN STREET METUCHEN NJ 08840",
+  "attorney": "JACOBOWITZ NEWMAN TVERSKY",
+  "attorney_file_number": null,
+  "attorney_phone": "212-221-9610",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01130124",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "K&W REALTY LLC, ET ALS.",
+  "description": "283, 287, 289 MAIN ST AND 88 GRAHAM AVE METUCHEN, NJ\nALL FOUR PARCELS ARE DIRECTED TO BE SOLD TOGETHER IN A SINGLE SALE",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$931,832.20",
+    "Attorney": "JACOBOWITZ NEWMAN TVERSKY",
+    "Attorney File #": "",
+    "Attorney Phone": "212-221-9610",
+    "Court Case #": "F01130124",
+    "Defendant": "K&W REALTY LLC, ET ALS.",
+    "Description": "283, 287, 289 MAIN ST AND 88 GRAHAM AVE METUCHEN, NJ\nALL FOUR PARCELS ARE DIRECTED TO BE SOLD TOGETHER IN A SINGLE SALE",
+    "Minimum Bid": "",
+    "Parcel #": "LOTS 3, 14, 17, 19 & 21 BLOCK 148",
+    "Plaintiff": "OCEANFIRST BANK N.A.",
+    "Property Address": "88 GRAHAM AVENUE\n283, 287, 289 MAIN STREET\nMETUCHEN NJ 08840",
+    "Property Note": "",
+    "Sale Date": "8/20/2025",
+    "Sheriff #": "F-25001134"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 931832.2,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "88 GRAHAM AVENUE 283, 287, 289 MAIN STREET METUCHEN NJ 08840",
+    "defendant": "K&W REALTY LLC, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "OCEANFIRST BANK N.A.",
+    "sale_date": "2025-08-20"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOTS 3, 14, 17, 19 & 21 BLOCK 148",
+  "plaintiff": "OCEANFIRST BANK N.A.",
+  "property_note": null,
+  "sale_date": "2025-08-20",
+  "sheriff_number": "F-25001134",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

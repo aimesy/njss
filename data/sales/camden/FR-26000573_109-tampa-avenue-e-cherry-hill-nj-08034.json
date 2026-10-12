@@ -1,0 +1,61 @@
+{
+  "address": "109 TAMPA AVENUE E CHERRY HILL NJ 08034",
+  "attorney": "GOLDENBERG, MACKLER, SAYEGH, MINTZ, PFEFFER, BONCHI & GILL",
+  "attorney_phone": "(609) 646-0222",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00858524",
+  "current_status": "Purchased",
+  "defendant": "ROSEMARY O'DONNELL, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF ROBERT O. RUTHERFORD; DAVID E. RUTHERFORD; BRUCE C. RUTHERFORD; ALISA L. RUTHERFORD; KATHERINE M. O'DONNELL; STATE OF NEW JERSEY; PNC BANK",
+  "extracted": {},
+  "fields": {
+    "Address": "109 TAMPA AVENUE E\nCHERRY HILL NJ 08034",
+    "Approx. Upset*": "$55,836.04",
+    "Attorney": "GOLDENBERG, MACKLER, SAYEGH, MINTZ, PFEFFER, BONCHI & GILL",
+    "Attorney Phone": "(609) 646-0222",
+    "Court Case #": "F00858524",
+    "Defendant": "ROSEMARY O'DONNELL, INDIVIDUALLY AND AS EXECUTRIX OF\nTHE ESTATE OF ROBERT O. RUTHERFORD; DAVID E. RUTHERFORD;\nBRUCE C. RUTHERFORD; ALISA L. RUTHERFORD; KATHERINE M.\nO'DONNELL; STATE OF NEW JERSEY; PNC BANK",
+    "Parcel #": "Tax Lot: 4 Tax Block: 453.01",
+    "Plaintiff": "ACT PROPERTY LLC",
+    "Property Note": "TAXES FOR THE 4TH QUARTER OF 2025 AND THE 1ST QUARTER OF 2026 IN THE APPROXIMATE AMOUNT OF $4,744.12 PLUS INTEREST TO DATE.",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26000573"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "109 TAMPA AVENUE E CHERRY HILL NJ 08034",
+    "defendant": "ROSEMARY O'DONNELL, INDIVIDUALLY AND AS EXECUTRIX OF \nTHE ESTATE OF ROBERT O. RUTHERFORD; DAVID E. RUTHERFORD; \nBRUCE C. RUTHERFORD; ALISA L. RUTHERFORD; KATHERINE M. \nO'DONNELL; STATE OF NEW JERSEY; PNC BANK",
+    "listing_status": null,
+    "plaintiff": "ACT PROPERTY LLC",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot: 4 Tax Block: 453.01",
+  "plaintiff": "ACT PROPERTY LLC",
+  "property_note": "TAXES FOR THE 4TH QUARTER OF 2025 AND THE 1ST QUARTER OF 2026 IN THE APPROXIMATE AMOUNT OF $4,744.12 PLUS INTEREST TO DATE.",
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26000573",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 55836.04,
+  "upset_amount_label": "Approx. Upset*"
+}

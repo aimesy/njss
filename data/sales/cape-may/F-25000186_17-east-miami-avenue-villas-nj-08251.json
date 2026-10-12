@@ -1,0 +1,72 @@
+{
+  "address": "17 East MIAMI Avenue Villas NJ 08251",
+  "attorney": "KML Law Group, PC",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-012936-24",
+  "current_status": "Scheduled",
+  "defendant": "KIMBERLY A MOORE, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$126,032.54",
+    "Attorney": "KML Law Group, PC",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-012936-24",
+    "Defendant": "KIMBERLY A MOORE, ET AL",
+    "Description": "",
+    "Minimum Bid": "$132,900.00",
+    "Parcel #": "LOT 35 & 36, BLOCK 12",
+    "Plaintiff": "**SETTLED**LAKEVIEW LOAN SERVICING, LLC",
+    "Property Address": "17 East MIAMI Avenue\nVillas NJ 08251",
+    "Property Note": "",
+    "Sale Date": "11/12/2025",
+    "Sheriff #": "F-25000186"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 126032.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "17 East MIAMI Avenue Villas NJ 08251",
+    "defendant": "KIMBERLY A MOORE, ET AL",
+    "listing_status": null,
+    "plaintiff": "**SETTLED**LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2025-11-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 35 & 36, BLOCK 12",
+  "plaintiff": "**SETTLED**LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2025-11-12",
+  "sheriff_number": "F-25000186",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-11-12",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 132900.0,
+  "upset_amount_label": "Minimum Bid"
+}

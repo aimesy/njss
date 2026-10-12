@@ -1,0 +1,80 @@
+{
+  "address": "535 CHESTNUT STREET MIDDLESEX NJ 08846",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00279122",
+  "current_status": "Adjourned - Court",
+  "defendant": "SHAWN LARUE A/K/A SHAWN A. LARUE",
+  "description": "Writ Expired 8/16/2024",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$280,615.34",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00279122",
+    "Defendant": "SHAWN LARUE A/K/A SHAWN A. LARUE",
+    "Description": "Writ Expired 8/16/2024",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1 BLOCK 148",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Address": "535 CHESTNUT STREET\nMIDDLESEX NJ 08846",
+    "Property Note": "",
+    "Sale Date": "4/23/2026",
+    "Sheriff #": "F-775808"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 280615.34,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "535 CHESTNUT STREET MIDDLESEX NJ 08846",
+    "defendant": "SHAWN LARUE A/K/A SHAWN A. LARUE",
+    "listing_status": "Cancelled",
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-04-23"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1 BLOCK 148",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-04-23",
+  "sheriff_number": "F-775808",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-11-08",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2023-11-08",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-01-18",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-01-11",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2022-12-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2022-11-09",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

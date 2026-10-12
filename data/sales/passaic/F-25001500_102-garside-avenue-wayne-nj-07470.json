@@ -1,0 +1,68 @@
+{
+  "address": "102 GARSIDE Avenue Wayne NJ 07470",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 011995 24 CTL# 163048",
+  "current_status": "Cancelled",
+  "defendant": "JOSEPH C. ESPOSITO, ET AL.",
+  "description": "Dimensions (approx): 116.03 x 54.27 x 175.53 x 155.82 x 26.85 x 17.72 x 128.90\nNearest Cross Street: Ratcliffe Road\nImportant* Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99- Summit Bank vs. Dennis Thiel (A-58-98)\nTax Certificate: Recorded: February 15,2013\nHolder: US Bank Cust/Pro Capital Fund 1 LLC\nAmount: $1,858.11\nBook: 12446 Page: 177\nInstrument Number: 2013009821\nTax Certificate: Recorded: February 12,2024\nHolder: Pro Cap 8 FBO FirstTrust Bank\nAmount: $ 4,119.77\nBook: 18801 Page: 1\nInstrument Number: 2024004750\nGood Faith Estimated Upset Price: $1,224,958.47\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 1224958.47
+  },
+  "fields": {
+    "Address": "102 GARSIDE Avenue\nWayne NJ 07470",
+    "Approx. Upset*": "$1,127,979.39",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 011995 24 CTL# 163048",
+    "Defendant": "JOSEPH C. ESPOSITO, ET AL.",
+    "Description": "Dimensions (approx): 116.03 x 54.27 x 175.53 x 155.82 x 26.85 x 17.72 x 128.90\nNearest Cross Street: Ratcliffe Road\nImportant* Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99- Summit Bank vs. Dennis Thiel (A-58-98)\nTax Certificate: Recorded: February 15,2013\nHolder: US Bank Cust/Pro Capital Fund 1 LLC\nAmount: $1,858.11\nBook: 12446 Page: 177\nInstrument Number: 2013009821\nTax Certificate: Recorded: February 12,2024\nHolder: Pro Cap 8 FBO FirstTrust Bank\nAmount: $ 4,119.77\nBook: 18801 Page: 1\nInstrument Number: 2024004750\nGood Faith Estimated Upset Price: $1,224,958.47\nOccupancy Status: Owner Occupied",
+    "Parcel #": "Tax Lot 95 Block 1902",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF THE NRZ PASS-THROUGH TRUST XI",
+    "Property Note": "",
+    "Sales Date": "4/29/2026",
+    "Sheriff #": "F-25001500"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "102 GARSIDE Avenue Wayne NJ 07470",
+    "defendant": "JOSEPH C. ESPOSITO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF THE NRZ PASS-THROUGH TRUST XI",
+    "sale_date": "2026-04-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 95 Block 1902",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF THE NRZ PASS-THROUGH TRUST XI",
+  "property_note": null,
+  "sale_date": "2026-04-29",
+  "sheriff_number": "F-25001500",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-12-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-04-29",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 1127979.39,
+  "upset_amount_label": "Approx. Upset*"
+}

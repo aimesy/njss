@@ -1,0 +1,61 @@
+{
+  "address": "120 LEHIGH AVENUE BLACKWOOD NJ 08012",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "856-352-4905 chews landing office",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01234424",
+  "current_status": "Bankruptcy",
+  "defendant": "JOSEPH R. MORGAN; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "120 LEHIGH AVENUE\nBLACKWOOD NJ 08012",
+    "Approx. Upset*": "$147,772.56",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "856-352-4905 chews landing office",
+    "Court Case #": "F01234424",
+    "Defendant": "JOSEPH R. MORGAN; UNITED STATES OF AMERICA",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "FR-25002497"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "120 LEHIGH AVENUE BLACKWOOD NJ 08012",
+    "defendant": "JOSEPH R. MORGAN; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-04-15",
+  "sheriff_number": "FR-25002497",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 147772.56,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "1151 CHARLOTTE PLACE RAHWAY NJ 07065",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00746924",
+  "current_status": "Purchased",
+  "defendant": "CHARLES R. HARVATT and UNITED STATES OF AMERICA",
+  "description": "TAX LOT 25 BLOCK 180",
+  "extracted": {
+    "block": "180",
+    "lot": "25"
+  },
+  "fields": {
+    "Address": "1151 CHARLOTTE PLACE\nRAHWAY NJ 07065",
+    "Approx. Upset*": "$339,694.63",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F00746924",
+    "Defendant": "CHARLES R. HARVATT and UNITED STATES OF AMERICA",
+    "Description": "TAX LOT 25 BLOCK 180",
+    "Parcel #": "TAX LOT 25 BLOCK 180",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "CH-25002428"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1151 CHARLOTTE PLACE RAHWAY NJ 07065",
+    "defendant": "CHARLES R. HARVATT and UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "TAX LOT 25 BLOCK 180",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-18",
+  "sheriff_number": "CH-25002428",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-12-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 339694.63,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "6301 Roberts Avenue Mays Landing NJ 08330",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012105-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Joan Daisey; Mr. Daisey, Husband of Joan Daisey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "6301 Roberts Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$205,965.41",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-012105-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Joan Daisey; Mr. Daisey, Husband of Joan Daisey; United States of America",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "7/3/2025",
+    "Sheriff #": "F-25000472",
+    "Upset Amount": "$225,649.95"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 205965.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6301 Roberts Avenue Mays Landing NJ 08330",
+    "defendant": "Joan Daisey; Mr. Dai...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2025-07-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-07-03",
+  "sheriff_number": "F-25000472",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-03",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-07-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 225649.95,
+  "upset_amount_label": "Upset Amount"
+}

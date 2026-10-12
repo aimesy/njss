@@ -1,0 +1,53 @@
+{
+  "address": "21 GRANT LANE BERLIN NJ 08009",
+  "attorney": "WALDMAN & KAPLAN, P.A.",
+  "attorney_phone": "(727) 538-4160",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00432725",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "BARBARA M. MANION, HER UNKNOWN HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HER OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "21 GRANT LANE\nBERLIN NJ 08009",
+    "Approx. Upset*": "$212,861.08",
+    "Attorney": "WALDMAN & KAPLAN, P.A.",
+    "Attorney Phone": "(727) 538-4160",
+    "Court Case #": "F00432725",
+    "Defendant": "BARBARA M. MANION, HER UNKNOWN\nHEIRS, DEVISEES, AND PERSONAL\nREPRESENTATIVES, AND HER OR ANY\nOF THEIR SUCCESSORS IN RIGHT,\nTITLE AND INTEREST, ET AL.,",
+    "Parcel #": "LOT 44, BLOCK 115.07",
+    "Plaintiff": "BONCIDIUM, LLC,",
+    "Property Note": "",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26001329"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "21 GRANT LANE BERLIN NJ 08009",
+    "defendant": "BARBARA M. MANION, HER UNKNOWN \nHEIRS, DEVISEES, AND PERSONAL \nREPRESENTATIVES, AND HER OR ANY \nOF THEIR SUCCESSORS IN RIGHT, \nTITLE AND INTEREST, ET AL.,",
+    "listing_status": null,
+    "plaintiff": "BONCIDIUM, LLC,",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 44, BLOCK 115.07",
+  "plaintiff": "BONCIDIUM, LLC,",
+  "property_note": null,
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26001329",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 212861.08,
+  "upset_amount_label": "Approx. Upset*"
+}

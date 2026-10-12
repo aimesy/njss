@@ -1,0 +1,72 @@
+{
+  "address": "93 HICKORY STREET EDISON NJ 08817",
+  "attorney": "Fein Such Kahn Shepard, PC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F1160317",
+  "current_status": "Bankruptcy",
+  "defendant": "Richard Bottone, et als",
+  "description": "SUCCESSFULLY POSTED 07/09/2024 BY RON WALKO",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$260,577.58",
+    "Attorney": "Fein Such Kahn Shepard, PC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F1160317",
+    "Defendant": "Richard Bottone, et als",
+    "Description": "SUCCESSFULLY POSTED 07/09/2024 BY RON WALKO",
+    "Minimum Bid": "",
+    "Parcel #": "Lot 29 Block 159",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation",
+    "Property Address": "93 HICKORY STREET\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "6/11/2025",
+    "Sheriff #": "F-776232"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 260577.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "93 HICKORY STREET EDISON NJ 08817",
+    "defendant": "Richard Bottone, et als",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "Federal Home Loan Mortgage Corporation",
+    "sale_date": "2025-06-11"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "Lot 29 Block 159",
+  "plaintiff": "Federal Home Loan Mortgage Corporation",
+  "property_note": null,
+  "sale_date": "2025-06-11",
+  "sheriff_number": "F-776232",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-06-11",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-05-28",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-10-26",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

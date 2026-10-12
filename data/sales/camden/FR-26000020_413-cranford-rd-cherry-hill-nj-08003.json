@@ -1,0 +1,61 @@
+{
+  "address": "413 CRANFORD RD CHERRY HILL NJ 08003",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00865925",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "JOANNE WOLOSHIN A/K/A JOANNE M. WOLOSHIN A/K/A JOANNE O'REILLY; MR WOLOSHIN, SPOUSE OF JOANNE WOLOSHIN A/KA JOANNE M. WOLOSHIN A/K/A JOANNE O'REILLY; MIDLAND FUNDING LLC; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+  "extracted": {},
+  "fields": {
+    "Address": "413 CRANFORD RD\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$329,775.54",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00865925",
+    "Defendant": "JOANNE WOLOSHIN A/K/A JOANNE M. WOLOSHIN A/K/A JOANNE O'REILLY;\nMR WOLOSHIN, SPOUSE OF JOANNE WOLOSHIN A/KA JOANNE M.\nWOLOSHIN A/K/A JOANNE O'REILLY; MIDLAND FUNDING LLC; UNITED\nSTATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND\nURBAN DEVELOPMENT,",
+    "Parcel #": "",
+    "Plaintiff": "PHH MORTGAGE CORPORATION,",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "FR-26000020"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "413 CRANFORD RD CHERRY HILL NJ 08003",
+    "defendant": "JOANNE WOLOSHIN A/K/A JOANNE M. WOLOSHIN A/K/A JOANNE O'REILLY; \nMR WOLOSHIN, SPOUSE OF JOANNE WOLOSHIN A/KA JOANNE M. \nWOLOSHIN A/K/A JOANNE O'REILLY; MIDLAND FUNDING LLC; UNITED \nSTATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND \nURBAN DEVELOPMENT,",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION,",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PHH MORTGAGE CORPORATION,",
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "FR-26000020",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 329775.54,
+  "upset_amount_label": "Approx. Upset*"
+}

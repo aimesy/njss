@@ -1,0 +1,59 @@
+{
+  "address": "238 THE PROMENADE EDGEWATER NJ 07020",
+  "attorney": "BROCK AND SCOTT PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01173224",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "M. HANS DELLY; MRS. M. HANS DELLY, HIS WIFE, ET AL.",
+  "description": "THE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $561,853.62",
+  "extracted": {
+    "upset_amount": 561853.62
+  },
+  "fields": {
+    "Address": "238 THE PROMENADE\nEDGEWATER NJ 07020",
+    "Approx. Upset*": "$527,200.58",
+    "Attorney": "BROCK AND SCOTT PLLC",
+    "Court Case #": "F01173224",
+    "Defendant": "M. HANS DELLY; MRS. M. HANS DELLY, HIS WIFE, ET AL.",
+    "Description": "THE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $561,853.62",
+    "Parcel #": "LOT 3, QUALIFIER C0238, BLOCK 91",
+    "Plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS AS INDENTURE TRUSTEE FOR THE REGISTERED HOLDERS OF SAXON ASSET SECURITIES TRUST 2006-1 MORTGAGE LOAN ASSET BACKED NOTES, SERIES 2006-1",
+    "Property Note": "",
+    "Sales Date": "3/20/2026",
+    "Sheriff #": "F-25002963"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "238 THE PROMENADE EDGEWATER NJ 07020",
+    "defendant": "M. HANS DELLY; MRS. M. HANS DELLY, HIS WIFE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS AS INDENTURE TRUSTEE FOR THE REGISTERED HOLDERS OF SAXON ASSET SECURITIES TRUST 2006-1 MORTGAGE LOAN ASSET BACKED NOTES, SERIES 2006-1",
+    "sale_date": "2026-03-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, QUALIFIER C0238, BLOCK 91",
+  "plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS AS INDENTURE TRUSTEE FOR THE REGISTERED HOLDERS OF SAXON ASSET SECURITIES TRUST 2006-1 MORTGAGE LOAN ASSET BACKED NOTES, SERIES 2006-1",
+  "property_note": null,
+  "sale_date": "2026-03-20",
+  "sheriff_number": "F-25002963",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 527200.58,
+  "upset_amount_label": "Approx. Upset*"
+}

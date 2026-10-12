@@ -1,0 +1,71 @@
+{
+  "address": "25 Cliff Street Haledon NJ 07508",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004213 24 CTL#162972",
+  "current_status": "Cancelled",
+  "defendant": "GOLAM R. CHOUDHURY, ET AL.",
+  "description": "Dimensions of Lot (approximately): 50'x100'\nNearest Cross Street: Barbour Street\nApprox Upset Price - $107,394.71\nProperty Status - Mortgagor Occupied\nSubject to Senior Mortgage recorded 6/3/2016 book 13950, page 1 in the amount of $237,433.00, interested parties must conduct their own investigation and payoff.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 107394.71
+  },
+  "fields": {
+    "Address": "25 Cliff Street\nHaledon NJ 07508",
+    "Approx. Upset*": "$96,588.03",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F 004213 24 CTL#162972",
+    "Defendant": "GOLAM R. CHOUDHURY, ET AL.",
+    "Description": "Dimensions of Lot (approximately): 50'x100'\nNearest Cross Street: Barbour Street\nApprox Upset Price - $107,394.71\nProperty Status - Mortgagor Occupied\nSubject to Senior Mortgage recorded 6/3/2016 book 13950, page 1 in the amount of $237,433.00, interested parties must conduct their own investigation and payoff.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "BLOCK 124, LOT 7",
+    "Plaintiff": "CITIBANK",
+    "Property Note": "",
+    "Sales Date": "10/21/2025",
+    "Sheriff #": "F-25000828"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "25 Cliff Street Haledon NJ 07508",
+    "defendant": "GOLAM R. CHOUDHURY, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIBANK",
+    "sale_date": "2025-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "BLOCK 124, LOT 7",
+  "plaintiff": "CITIBANK",
+  "property_note": null,
+  "sale_date": "2025-10-21",
+  "sheriff_number": "F-25000828",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-07-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-10-21",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-10-21",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 96588.03,
+  "upset_amount_label": "Approx. Upset*"
+}

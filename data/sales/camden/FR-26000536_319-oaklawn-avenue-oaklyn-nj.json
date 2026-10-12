@@ -1,0 +1,53 @@
+{
+  "address": "319 OAKLAWN AVENUE OAKLYN NJ",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "215-572-5095 JENKINTOWN",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00660724",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "319 OAKLAWN LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "319 OAKLAWN AVENUE\nOAKLYN NJ",
+    "Approx. Upset*": "$595,086.53",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "215-572-5095 JENKINTOWN",
+    "Court Case #": "F00660724",
+    "Defendant": "319 OAKLAWN LLC",
+    "Parcel #": "TAX LOT:5 BLOCK:65",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN\nITS INDIVIDUAL CAPACITY BUT SOELY AS TRUSTEE OF\nGREAT LAKE FUNDING I TRUST",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "FR-26000536"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "319 OAKLAWN AVENUE OAKLYN NJ",
+    "defendant": "319 OAKLAWN LLC",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN \nITS INDIVIDUAL CAPACITY BUT SOELY AS TRUSTEE OF \nGREAT LAKE FUNDING I TRUST",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT:5 BLOCK:65",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOELY AS TRUSTEE OF GREAT LAKE FUNDING I TRUST",
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "FR-26000536",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 595086.53,
+  "upset_amount_label": "Approx. Upset*"
+}

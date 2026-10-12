@@ -1,0 +1,80 @@
+{
+  "address": "25 MOUNTAIN AVE WEST ORANGE NJ 07052",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732 902-5399",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "@F00860820",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "ANTHONY L. WILLIAMS; ET. ALS.",
+  "description": "LOT: 10.32 BLOCK: 104\nAPPROXIMATE DIMENSIONS: 394.66 X 293.78 X 20.88 X 78.42 X 302.75 X 75.00 X 147.13 X 271.56 X 41.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: LYNWOOD WAY\nSUBJECT TO: TAX SALE CERTIFICATE NO. 23-036 IN THE ORIGINAL AMOUNT OF $89,430.88 2024 3RD QUARTER TAXES IN THE AMOUNT OF $10,972.01 OPEN PLUS PENALTY\nUPSET PRICE: $1,100,00.00\nOCCUPANCY STATUS: UNKNOWN\nTO THE BEST OF THIS FIRM'S KNOWLEDGE THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT",
+  "extracted": {
+    "block": "104",
+    "lot": "10.32",
+    "occupancy": "UNKNOWN",
+    "upset_amount": 110000.0
+  },
+  "fields": {
+    "Address": "25 MOUNTAIN AVE\nWEST ORANGE NJ 07052",
+    "Approx. Upset*": "$1,243,103.68",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732 902-5399",
+    "Court Case #": "@F00860820",
+    "Defendant": "ANTHONY L. WILLIAMS; ET. ALS.",
+    "Description": "LOT: 10.32 BLOCK: 104\nAPPROXIMATE DIMENSIONS: 394.66 X 293.78 X 20.88 X 78.42 X 302.75 X 75.00 X 147.13 X 271.56 X 41.00 FEET (IRREGULAR)\nNEAREST CROSS STREET: LYNWOOD WAY\nSUBJECT TO: TAX SALE CERTIFICATE NO. 23-036 IN THE ORIGINAL AMOUNT OF $89,430.88 2024 3RD QUARTER TAXES IN THE AMOUNT OF $10,972.01 OPEN PLUS PENALTY\nUPSET PRICE: $1,100,00.00\nOCCUPANCY STATUS: UNKNOWN\nTO THE BEST OF THIS FIRM'S KNOWLEDGE THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE ON BEHALF OF ANTLR MORTGAGE TRUST 2021-RTL1",
+    "Property Note": "",
+    "Sales Date": "8/16/2026",
+    "Sheriff #": "F-24003576"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "25 MOUNTAIN AVE WEST ORANGE NJ 07052",
+    "defendant": "ANTHONY L. WILLIAMS; ET. ALS.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE ON BEHALF OF ANTLR MORTGAGE TRUST 2021-RTL1",
+    "sale_date": "2026-08-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE ON BEHALF OF ANTLR MORTGAGE TRUST 2021-RTL1",
+  "property_note": null,
+  "sale_date": "2026-08-16",
+  "sheriff_number": "F-24003576",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2024-10-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-11-12",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2025-01-07",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-16",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 1243103.68,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,68 @@
+{
+  "address": "31 CLAUDIA STREET ISELIN NJ 08830",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-867-4541",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F940022",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ASAD ABID ISMAEEL, ET ALS.",
+  "description": "SUCCESSFULLY POSTED 05/15/2023 BY DOUGLAS HARVATT",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$674,279.09",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-867-4541",
+    "Court Case #": "F940022",
+    "Defendant": "ASAD ABID ISMAEEL, ET ALS.",
+    "Description": "SUCCESSFULLY POSTED 05/15/2023 BY DOUGLAS HARVATT",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 5 BLOCK 430.03 FKA 430C",
+    "Plaintiff": "MAGERICK, LLC.",
+    "Property Address": "31 CLAUDIA STREET\nISELIN NJ 08830",
+    "Property Note": "",
+    "Sale Date": "4/23/2026",
+    "Sheriff #": "F-776051"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 674279.09,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 CLAUDIA STREET ISELIN NJ 08830",
+    "defendant": "ASAD ABID ISMAEEL, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "MAGERICK, LLC.",
+    "sale_date": "2026-04-23"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 5 BLOCK 430.03 FKA 430C",
+  "plaintiff": "MAGERICK, LLC.",
+  "property_note": null,
+  "sale_date": "2026-04-23",
+  "sheriff_number": "F-776051",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-08-16",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2023-08-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-07-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

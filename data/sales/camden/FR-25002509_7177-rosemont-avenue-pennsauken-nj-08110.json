@@ -1,0 +1,57 @@
+{
+  "address": "7177 ROSEMONT AVENUE PENNSAUKEN NJ 08110",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00169924",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "BERDINA S. BIDDLE, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "7177 ROSEMONT AVENUE\nPENNSAUKEN NJ 08110",
+    "Approx. Upset*": "$47,413.92",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00169924",
+    "Defendant": "BERDINA S. BIDDLE, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "FR-25002509"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7177 ROSEMONT AVENUE PENNSAUKEN NJ 08110",
+    "defendant": "BERDINA S. BIDDLE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-18",
+  "sheriff_number": "FR-25002509",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 47413.92,
+  "upset_amount_label": "Approx. Upset*"
+}

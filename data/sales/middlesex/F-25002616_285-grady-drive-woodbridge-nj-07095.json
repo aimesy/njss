@@ -1,0 +1,64 @@
+{
+  "address": "285 GRADY DRIVE WOODBRIDGE NJ 07095",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01079124",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "TRACY J. KING AKA TRACY KING AKA TRACEY KING, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$397,890.94",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01079124",
+    "Defendant": "TRACY J. KING AKA TRACY KING AKA TRACEY KING, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 8 BLOCK 263",
+    "Plaintiff": "PLANET HOME LENDING, LLC.",
+    "Property Address": "285 GRADY DRIVE\nWOODBRIDGE NJ 07095",
+    "Property Note": "",
+    "Sale Date": "2/11/2026",
+    "Sheriff #": "F-25002616"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 397890.94,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "285 GRADY DRIVE WOODBRIDGE NJ 07095",
+    "defendant": "TRACY J. KING AKA TRACY KING AKA TRACEY KING, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "PLANET HOME LENDING, LLC.",
+    "sale_date": "2026-02-11"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 8 BLOCK 263",
+  "plaintiff": "PLANET HOME LENDING, LLC.",
+  "property_note": null,
+  "sale_date": "2026-02-11",
+  "sheriff_number": "F-25002616",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-02-11",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

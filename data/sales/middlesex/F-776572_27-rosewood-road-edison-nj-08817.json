@@ -1,0 +1,60 @@
+{
+  "address": "27 ROSEWOOD ROAD EDISON NJ 08817",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00136524",
+  "current_status": "Settled",
+  "defendant": "ROBERT HEDENBURG",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$156,177.43",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00136524",
+    "Defendant": "ROBERT HEDENBURG",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT NO. 27 BLOCK 1102",
+    "Plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "Property Address": "27 ROSEWOOD ROAD\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "1/8/2025",
+    "Sheriff #": "F-776572"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 156177.43,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "27 ROSEWOOD ROAD EDISON NJ 08817",
+    "defendant": "ROBERT HEDENBURG",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "sale_date": "2025-01-08"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT NO. 27 BLOCK 1102",
+  "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+  "property_note": null,
+  "sale_date": "2025-01-08",
+  "sheriff_number": "F-776572",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-01-02",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "10 ACADEMY DRIVE STRATFORD NJ 08084",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00114525",
+  "current_status": "Scheduled",
+  "defendant": "PATRICK HUBER",
+  "extracted": {},
+  "fields": {
+    "Address": "10 ACADEMY DRIVE\nSTRATFORD NJ 08084",
+    "Approx. Upset*": "$203,412.61",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F00114525",
+    "Defendant": "PATRICK HUBER",
+    "Parcel #": "",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "5/5/2026",
+    "Sheriff #": "FR-26000233"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "10 ACADEMY DRIVE STRATFORD NJ 08084",
+    "defendant": "PATRICK HUBER",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-05-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-05-05",
+  "sheriff_number": "FR-26000233",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-05",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 203412.61,
+  "upset_amount_label": "Approx. Upset*"
+}

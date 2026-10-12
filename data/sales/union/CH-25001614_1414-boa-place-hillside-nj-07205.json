@@ -1,0 +1,64 @@
+{
+  "address": "1414 BOA PLACE HILLSIDE NJ 07205",
+  "attorney": "GROSS POLOWY, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00105923",
+  "current_status": "Bankuptcy",
+  "defendant": "JEAN SAMEDI, MARIE EMILE, ROMEL RODNEY, AND \"JANE DOE\", TENANT (NAME REFUSED)",
+  "description": "BLOCK 1106 LOT 58",
+  "extracted": {
+    "block": "1106",
+    "lot": "58"
+  },
+  "fields": {
+    "Address": "1414 BOA PLACE\nHILLSIDE NJ 07205",
+    "Approx. Upset*": "$285,730.17",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Court Case #": "F00105923",
+    "Defendant": "JEAN SAMEDI, MARIE EMILE, ROMEL RODNEY, AND \"JANE DOE\", TENANT (NAME REFUSED)",
+    "Description": "BLOCK 1106 LOT 58",
+    "Parcel #": "BLOCK 1106 LOT 58",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "10/29/2025",
+    "Sheriff #": "CH-25001614"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1414 BOA PLACE HILLSIDE NJ 07205",
+    "defendant": "JEAN SAMEDI, MARIE EMILE, ROMEL RODNEY, AND \"JANE DOE\", TENANT (NAME REFUSED)",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "BLOCK 1106 LOT 58",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "CH-25001614",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 285730.17,
+  "upset_amount_label": "Approx. Upset*"
+}

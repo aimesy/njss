@@ -1,0 +1,68 @@
+{
+  "address": "111 FULTON COURT NEW BRUNSWICK NJ 08901",
+  "attorney": "ANSELL GRIMM & AARON, PC",
+  "attorney_file_number": null,
+  "attorney_phone": "888 247-1844",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00322921",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "BRIGHTKEY PROPERTY, LLC, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$9,936.78",
+    "Attorney": "ANSELL GRIMM & AARON, PC",
+    "Attorney File #": "",
+    "Attorney Phone": "888 247-1844",
+    "Court Case #": "F00322921",
+    "Defendant": "BRIGHTKEY PROPERTY, LLC, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2.06 C0036 BLOCK 237",
+    "Plaintiff": "RENAISSANCE STATION CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "111 FULTON COURT\nNEW BRUNSWICK NJ 08901",
+    "Property Note": "POSTED SUCCESSFULLY BY : R. WALKO, JULY 29, 2024 AREA4",
+    "Sale Date": "12/4/2024",
+    "Sheriff #": "F-776549"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 9936.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "111 FULTON COURT NEW BRUNSWICK NJ 08901",
+    "defendant": "BRIGHTKEY PROPERTY, LLC, ET ALS.",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "RENAISSANCE STATION CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2024-12-04"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2.06 C0036 BLOCK 237",
+  "plaintiff": "RENAISSANCE STATION CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": "POSTED SUCCESSFULLY BY : R. WALKO, JULY 29, 2024 AREA4",
+  "sale_date": "2024-12-04",
+  "sheriff_number": "F-776549",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-11-26",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

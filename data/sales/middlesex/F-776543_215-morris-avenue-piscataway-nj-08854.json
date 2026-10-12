@@ -1,0 +1,64 @@
+{
+  "address": "215 MORRIS AVENUE PISCATAWAY NJ 08854",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00056624",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "POTENCIANO S. MAGPAYO",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$93,575.95",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00056624",
+    "Defendant": "POTENCIANO S. MAGPAYO",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 51 BLOCK 9701 FKA 736",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON, AS TRUSTEE FOR THE BEAR STEARNS ASSET BACKED SECURITIES TRUST 2003-2, ASSET-BACKED CERTIFICATES, SERIES 2003-2",
+    "Property Address": "215 MORRIS AVENUE\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "11/6/2024",
+    "Sheriff #": "F-776543"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 93575.95,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "215 MORRIS AVENUE PISCATAWAY NJ 08854",
+    "defendant": "POTENCIANO S. MAGPAYO",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "THE BANK OF NEW YORK MELLON, AS TRUSTEE FOR THE BEAR STEARNS ASSET BACKED SECURITIES TRUST 2003-2, ASSET-BACKED CERTIFICATES, SERIES 2003-2",
+    "sale_date": "2024-11-06"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 51 BLOCK 9701 FKA 736",
+  "plaintiff": "THE BANK OF NEW YORK MELLON, AS TRUSTEE FOR THE BEAR STEARNS ASSET BACKED SECURITIES TRUST 2003-2, ASSET-BACKED CERTIFICATES, SERIES 2003-2",
+  "property_note": null,
+  "sale_date": "2024-11-06",
+  "sheriff_number": "F-776543",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-11-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

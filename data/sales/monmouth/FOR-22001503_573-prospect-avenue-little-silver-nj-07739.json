@@ -1,0 +1,92 @@
+{
+  "address": "573 Prospect Avenue Little Silver NJ 07739",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00093522",
+  "current_status": "Scheduled",
+  "defendant": "Erik Pica and Marisa N. Pica",
+  "description": "Dimensions (Approx.): 175 X 186 IR\nNearest Cross Street: Willow Drive\nGood faith estimated Upset Price; $1,209,149.49\noccupancy Status: Occupied by Unknown\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98)",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 1209149.49
+  },
+  "fields": {
+    "Address": "573 Prospect Avenue\nLittle Silver NJ 07739",
+    "Approx. Judgment*": "$1,019,430.59",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00093522",
+    "Defendant": "Erik Pica and Marisa N. Pica",
+    "Description": "Dimensions (Approx.): 175 X 186 IR\nNearest Cross Street: Willow Drive\nGood faith estimated Upset Price; $1,209,149.49\noccupancy Status: Occupied by Unknown\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98)",
+    "Parcel #": "Tax Lot(s): 2, in Block: 46 Tax Map of Borough of Little Silver",
+    "Plaintiff": "Greene Street Funding Trust",
+    "Property Note": "",
+    "Sales Date": "4/14/2025",
+    "Sheriff #": "FOR-22001503"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1019430.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "573 Prospect Avenue Little Silver NJ 07739",
+    "defendant": "Erik Pica and Marisa N. Pica",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Greene Street Funding Trust",
+    "sale_date": "2025-04-14"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 2, in Block: 46 Tax Map of Borough of Little Silver",
+  "plaintiff": "Greene Street Funding Trust",
+  "property_note": null,
+  "sale_date": "2025-04-14",
+  "sheriff_number": "FOR-22001503",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-14",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-09-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-11-21",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-11-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-10-24",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-09-26",
+      "status": "Scheduled"
+    }
+  ]
+}

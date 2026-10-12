@@ -1,0 +1,53 @@
+{
+  "address": "422 COOLIDGE ROAD CHERRY HILL NJ 08002",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01417723",
+  "current_status": "Scheduled",
+  "defendant": "DON VALENTINO",
+  "extracted": {},
+  "fields": {
+    "Address": "422 COOLIDGE ROAD\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$507,499.46",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F01417723",
+    "Defendant": "DON VALENTINO",
+    "Parcel #": "",
+    "Plaintiff": "ALLY BANK",
+    "Property Note": "",
+    "Sales Date": "10/14/2025",
+    "Sheriff #": "FR-25002043"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "422 COOLIDGE ROAD CHERRY HILL NJ 08002",
+    "defendant": "DON VALENTINO",
+    "listing_status": null,
+    "plaintiff": "ALLY BANK",
+    "sale_date": "2025-10-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "ALLY BANK",
+  "property_note": null,
+  "sale_date": "2025-10-14",
+  "sheriff_number": "FR-25002043",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-14",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 507499.46,
+  "upset_amount_label": "Approx. Upset*"
+}

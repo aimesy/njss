@@ -1,0 +1,58 @@
+{
+  "address": "4530 Atlantic Avenue Hammonton NJ 08037",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012973-23",
+  "current_status": "Scheduled",
+  "deed": "AHASAN Realty LLC",
+  "deed_address": "410 Montrose Lane Galloway, NJ 08205",
+  "defendant": "John Jay Irwin; Katherine Irwin",
+  "extracted": {},
+  "fields": {
+    "Address": "4530 Atlantic Avenue\nHammonton NJ 08037",
+    "Approx. Judgment*": "$316,518.77",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-012973-23",
+    "Deed": "AHASAN Realty LLC",
+    "Deed Address": "410 Montrose Lane Galloway, NJ 08205",
+    "Defendant": "John Jay Irwin; Katherine Irwin",
+    "Plaintiff": "PHH Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "8/14/2025",
+    "Sheriff #": "F-25000638",
+    "Upset Amount": "$142,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 316518.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4530 Atlantic Avenue Hammonton NJ 08037",
+    "defendant": "John Jay Irwin; Kath...",
+    "listing_status": null,
+    "plaintiff": "PHH Mortgage Corpora...",
+    "sale_date": "2025-08-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PHH Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-08-14",
+  "sheriff_number": "F-25000638",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-14",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 142500.0,
+  "upset_amount_label": "Upset Amount"
+}

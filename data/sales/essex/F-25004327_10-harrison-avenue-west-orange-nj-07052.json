@@ -1,0 +1,83 @@
+{
+  "address": "10 HARRISON AVENUE WEST ORANGE NJ 07052",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "844 856-6646",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00537824",
+  "current_status": "Settled - Foreclosure",
+  "defendant": "ALIM BOWMAN, ET. AL",
+  "description": "LOT 21, BLOCK 139.01\nDIMENSIONS: 42FT. X 133FT. IRR\nNEAREST CROSS STREET: KIRK STREET\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $403,374.70. THE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN.\nPURSUANT TO 28 USC 2410(C) THIS SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN: JUDGMENT: UNITED STATES OF AMERICA versus ALIM BOWMAN A/K/A ALIM BOMAN, docketed as CR-000591-2023 ON 02/22/2024 in the amount of $100.00, plus interest and costs. JUDGMENT: UNITED STATES OF AMERICA versus ALIM BOMAN, docketed as MG-012246-2020\non 07/27/2020 in the amount of $100,000.00, plus interest and costs. PARTIAL CLAIM MORTGAGE: ALIM BOWMAN TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 09/29/2021 and recorded on 11/09/2021, as Instrument Number 2021134174, to secure $73,313.68.\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTERESTS REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON. IF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY TO A RETURN OF THE DEPOSTI PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, THE MORTGAGEE OR THE MORTGAGEE’S ATTORNEY.",
+  "extracted": {
+    "block": "139.01",
+    "lot": "21",
+    "upset_amount": 403374.7
+  },
+  "fields": {
+    "Address": "10 HARRISON AVENUE\nWEST ORANGE NJ 07052",
+    "Approx. Upset*": "$369,329.61",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "844 856-6646",
+    "Court Case #": "F00537824",
+    "Defendant": "ALIM BOWMAN, ET. AL",
+    "Description": "LOT 21, BLOCK 139.01\nDIMENSIONS: 42FT. X 133FT. IRR\nNEAREST CROSS STREET: KIRK STREET\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $403,374.70. THE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN.\nPURSUANT TO 28 USC 2410(C) THIS SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN: JUDGMENT: UNITED STATES OF AMERICA versus ALIM BOWMAN A/K/A ALIM BOMAN, docketed as CR-000591-2023 ON 02/22/2024 in the amount of $100.00, plus interest and costs. JUDGMENT: UNITED STATES OF AMERICA versus ALIM BOMAN, docketed as MG-012246-2020\non 07/27/2020 in the amount of $100,000.00, plus interest and costs. PARTIAL CLAIM MORTGAGE: ALIM BOWMAN TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 09/29/2021 and recorded on 11/09/2021, as Instrument Number 2021134174, to secure $73,313.68.\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTERESTS REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON. IF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY TO A RETURN OF THE DEPOSTI PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, THE MORTGAGEE OR THE MORTGAGEE’S ATTORNEY.",
+    "Parcel #": "",
+    "Plaintiff": "ROCKET MORTGAGE, LLC",
+    "Property Note": "",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "F-25004327"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "10 HARRISON AVENUE WEST ORANGE NJ 07052",
+    "defendant": "ALIM BOWMAN, ET. AL",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "ROCKET MORTGAGE, LLC",
+  "property_note": null,
+  "sale_date": "2026-09-15",
+  "sheriff_number": "F-25004327",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-02-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Settled - Foreclosure"
+    }
+  ],
+  "upset_amount": 369329.61,
+  "upset_amount_label": "Approx. Upset*"
+}

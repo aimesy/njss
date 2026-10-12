@@ -1,0 +1,56 @@
+{
+  "address": "427 MADISON AVENUE MONROE NJ 08831",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01003024",
+  "current_status": "Bankruptcy",
+  "defendant": "ANTONIO FAZZOLARI, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$418,236.61",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F01003024",
+    "Defendant": "ANTONIO FAZZOLARI, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 30 BLOCK 169.10 FKA 16910",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ABFC 2005-WF1 TRUST, ABFC ASSET-BACKED CERTIFICATES, SERIES 2005-WF1",
+    "Property Address": "427 MADISON AVENUE\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "5/14/2025",
+    "Sheriff #": "F-25000485"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 418236.61,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "427 MADISON AVENUE MONROE NJ 08831",
+    "defendant": "ANTONIO FAZZOLARI, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ABFC 2005-WF1 TRUST, ABFC ASSET-BACKED CERTIFICATES, SERIES 2005-WF1",
+    "sale_date": "2025-05-14"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 30 BLOCK 169.10 FKA 16910",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR ABFC 2005-WF1 TRUST, ABFC ASSET-BACKED CERTIFICATES, SERIES 2005-WF1",
+  "property_note": null,
+  "sale_date": "2025-05-14",
+  "sheriff_number": "F-25000485",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-05-14",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

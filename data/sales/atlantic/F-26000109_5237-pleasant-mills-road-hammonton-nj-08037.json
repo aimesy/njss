@@ -1,0 +1,70 @@
+{
+  "address": "5237 Pleasant Mills Road Hammonton NJ 08037",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006543-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Rochel Brecher; Natalie Vespe; Tenant/Occupant",
+  "extracted": {},
+  "fields": {
+    "Address": "5237 Pleasant Mills Road\nHammonton NJ 08037",
+    "Approx. Judgment*": "$168,977.78",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-006543-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Rochel Brecher; Natalie Vespe; Tenant/Occupant",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, not in its individual capacity, but solely as trustee of admt 2024-NQMI",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "6/18/2026",
+    "Sheriff #": "F-26000109",
+    "Upset Amount": "$189,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 168977.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5237 Pleasant Mills Road Hammonton NJ 08037",
+    "defendant": "Rochel Brecher; Nata...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Savings F...",
+    "sale_date": "2026-06-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, not in its individual capacity, but solely as trustee of admt 2024-NQMI",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-06-18",
+  "sheriff_number": "F-26000109",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-06-18",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 189500.0,
+  "upset_amount_label": "Upset Amount"
+}

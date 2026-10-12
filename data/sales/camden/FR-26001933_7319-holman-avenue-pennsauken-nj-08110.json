@@ -1,0 +1,53 @@
+{
+  "address": "7319 HOLMAN AVENUE PENNSAUKEN NJ 08110",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00010026",
+  "current_status": "Scheduled",
+  "defendant": "WILLIAM PATTERSON, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS/HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "7319 HOLMAN AVENUE\nPENNSAUKEN NJ 08110",
+    "Approx. Upset*": "$177,868.35",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F00010026",
+    "Defendant": "WILLIAM PATTERSON, HIS HEIRS, DEVISEES AND\nPERSONAL REPRESENTATIVES AND HIS/HER,\nTHEIR OR ANY OF THEIR SUCCESSORS IN RIGHT,\nTITLE AND INTEREST, ET AL.",
+    "Parcel #": "Block 1317, Lot 19",
+    "Plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "Property Note": "",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001933"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7319 HOLMAN AVENUE PENNSAUKEN NJ 08110",
+    "defendant": "WILLIAM PATTERSON, HIS HEIRS, DEVISEES AND \nPERSONAL REPRESENTATIVES AND HIS/HER, \nTHEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, \nTITLE AND INTEREST, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 1317, Lot 19",
+  "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+  "property_note": null,
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001933",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-08",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 177868.35,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,70 @@
+{
+  "address": "511 Shires Way Egg Harbor Township NJ 08234",
+  "attorney": "Eisenberg, Gold & Agrawal, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-013934-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Aubrey A. McIntosh a/k/a Aubrey A. McIntosh, Sr.; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "511 Shires Way\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$69,602.62",
+    "Attorney": "Eisenberg, Gold & Agrawal, P.C.",
+    "Court Case #": "F-013934-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Aubrey A. McIntosh a/k/a Aubrey A. McIntosh, Sr.; State of New Jersey; United States of America",
+    "Plaintiff": "Fulton Bank, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24000847",
+    "Upset Amount": "$79,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 69602.62,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "511 Shires Way Egg Harbor Township NJ 08234",
+    "defendant": "Aubrey A. McIntosh a...",
+    "listing_status": null,
+    "plaintiff": "Fulton Bank, N.A....",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Fulton Bank, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24000847",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 79000.0,
+  "upset_amount_label": "Upset Amount"
+}

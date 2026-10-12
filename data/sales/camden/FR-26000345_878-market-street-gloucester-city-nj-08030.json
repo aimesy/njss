@@ -1,0 +1,65 @@
+{
+  "address": "878 MARKET STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F001113524",
+  "current_status": "Bankruptcy",
+  "defendant": "TKO RENU LLC, ETAL;",
+  "extracted": {},
+  "fields": {
+    "Address": "878 MARKET STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$185,544.95",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F001113524",
+    "Defendant": "TKO RENU LLC, ETAL;",
+    "Parcel #": "",
+    "Plaintiff": "WILMINTON SAVINGS FUND SOCIETY, FSB,\nAS OWNER TRUSTEE OF THE RESIDENTIAL\nCREDIT OPPORTUNITIES TRUST VIII-A,",
+    "Property Note": "",
+    "Sales Date": "9/16/2026",
+    "Sheriff #": "FR-26000345"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "878 MARKET STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "TKO RENU LLC, ETAL;",
+    "listing_status": null,
+    "plaintiff": "WILMINTON SAVINGS FUND SOCIETY, FSB, \nAS OWNER TRUSTEE OF THE RESIDENTIAL \nCREDIT OPPORTUNITIES TRUST VIII-A,",
+    "sale_date": "2026-09-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-A,",
+  "property_note": null,
+  "sale_date": "2026-09-16",
+  "sheriff_number": "FR-26000345",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Buy Back"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 185544.95,
+  "upset_amount_label": "Approx. Upset*"
+}

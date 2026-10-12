@@ -1,0 +1,49 @@
+{
+  "address": "57 KNOLLWOOD DRIVE CHERRY HILL NJ 08002",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00489025",
+  "current_status": "Scheduled",
+  "defendant": "SOEURETTE GUSTAVE; MR./MRS. GUSTAVE, SPOUSE OR CIVIL PARTNER OF SOEURETTE GUSTAVE; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY;",
+  "extracted": {},
+  "fields": {
+    "Address": "57 KNOLLWOOD DRIVE\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$484,163.00",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00489025",
+    "Defendant": "SOEURETTE GUSTAVE; MR./MRS. GUSTAVE, SPOUSE OR CIVIL PARTNER OF SOEURETTE GUSTAVE; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY;",
+    "Parcel #": "Lot: 9; Block: 286.10",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISTION TRIST,",
+    "Property Note": "Pursuant to a municipal tax search dated September 22, 2026.\nSubject to: 2026 4th quarter taxes due 11/1/2026, $3,549.77 OPEN\n2027 1 st quarter taxes due 2/1/2027, TO BE DETERMINED\nCCMUA: Acct. 090034208, 7/1/2026-9/30/2026, $93.00 OPEN PLUS PENALTY;' $104.52 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002469"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "57 KNOLLWOOD DRIVE CHERRY HILL NJ 08002",
+    "defendant": "SOEURETTE GUSTAVE; MR./MRS. GUSTAVE, SPOUSE OR CIVIL PARTNER OF SOEURETTE GUSTAVE; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY;",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISTION TRIST,",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot: 9; Block: 286.10",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISTION TRIST,",
+  "property_note": "Pursuant to a municipal tax search dated September 22, 2026.\nSubject to: 2026 4th quarter taxes due 11/1/2026, $3,549.77 OPEN\n2027 1 st quarter taxes due 2/1/2027, TO BE DETERMINED\nCCMUA: Acct. 090034208, 7/1/2026-9/30/2026, $93.00 OPEN PLUS PENALTY;' $104.52 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002469",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 484163.0,
+  "upset_amount_label": "Approx. Upset*"
+}

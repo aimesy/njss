@@ -1,0 +1,84 @@
+{
+  "address": "816 SHARON GARDEN COURT WOODBRIDGE NJ 07905",
+  "attorney": "CUTOLO BARROS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "732-414-1170",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01080623",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "SATYAMOORTHY PADMANABHAN, ET ALS.",
+  "description": "Property Address: 816 Sharon Garden Court, Woodbridge, New Jersey\nBlock: 301\nLot: 100 Qual. C0816\nMunicipality : Township of Woodbridge\nCounty : Middlesex\nLocated in the Township of Woodbridge, Block 301 Lot 100 Qual. C08 16, commonly known as 816 Sharon Garden Court, Woodbridge, New Jersey 07095 .\nNearest cross street is Woodbridge Center Drive.\nBeing commonly known as 816 Sharon Garden Court, Woodbridge, New Jersey. Property to be sold subject to a mortgage in the initial amount of $157,000.00.\nThe approximate amount of the upset price is $19,831.32, more or less, which consists of the final judgment amount of $7,083.44, plus an Order Directing the Sheriff to Collect Additional Lawful Sums in the amount of $7,688.09 plus an Order to Collect Additional Lawful Sums in the amount of $5,059.79, plus interest together with the costs of this sale.",
+  "extracted": {
+    "block": "301",
+    "lot": "100",
+    "upset_amount": 19831.32
+  },
+  "fields": {
+    "Approx. Judgment*": "$19,831.32",
+    "Attorney": "CUTOLO BARROS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "732-414-1170",
+    "Court Case #": "F01080623",
+    "Defendant": "SATYAMOORTHY PADMANABHAN, ET ALS.",
+    "Description": "Property Address: 816 Sharon Garden Court, Woodbridge, New Jersey\nBlock: 301\nLot: 100 Qual. C0816\nMunicipality : Township of Woodbridge\nCounty : Middlesex\nLocated in the Township of Woodbridge, Block 301 Lot 100 Qual. C08 16, commonly known as 816 Sharon Garden Court, Woodbridge, New Jersey 07095 .\nNearest cross street is Woodbridge Center Drive.\nBeing commonly known as 816 Sharon Garden Court, Woodbridge, New Jersey. Property to be sold subject to a mortgage in the initial amount of $157,000.00.\nThe approximate amount of the upset price is $19,831.32, more or less, which consists of the final judgment amount of $7,083.44, plus an Order Directing the Sheriff to Collect Additional Lawful Sums in the amount of $7,688.09 plus an Order to Collect Additional Lawful Sums in the amount of $5,059.79, plus interest together with the costs of this sale.",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "SHARON GARDENS CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "816 SHARON GARDEN COURT\nWOODBRIDGE NJ 07905",
+    "Property Note": "",
+    "Sale Date": "1/14/2026",
+    "Sheriff #": "F-25001505"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 19831.32,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "816 SHARON GARDEN COURT WOODBRIDGE NJ 07905",
+    "defendant": "SATYAMOORTHY PADMANABHAN, ET ALS.",
+    "listing_status": "Redeemed",
+    "plaintiff": "SHARON GARDENS CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2026-01-14"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "SHARON GARDENS CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2026-01-14",
+  "sheriff_number": "F-25001505",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-01-14",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

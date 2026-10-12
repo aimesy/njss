@@ -1,0 +1,64 @@
+{
+  "address": "1028-32 MYRTLE AVENUE PLAINFIELD NJ 07063",
+  "attorney": "POWERS KIRN LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00011425",
+  "current_status": "Bankuptcy",
+  "defendant": "TISHA M. WATTS, MARCUS WILLIAMS. UNITED STATES OF AMERICA. STATE OF NEW JERSEY",
+  "description": "BLOCK 225 LOT 5",
+  "extracted": {
+    "block": "225",
+    "lot": "5"
+  },
+  "fields": {
+    "Address": "1028-32 MYRTLE AVENUE\nPLAINFIELD NJ 07063",
+    "Approx. Upset*": "$265,924.63",
+    "Attorney": "POWERS KIRN LLC",
+    "Court Case #": "F00011425",
+    "Defendant": "TISHA M. WATTS, MARCUS WILLIAMS. UNITED STATES OF AMERICA. STATE OF NEW JERSEY",
+    "Description": "BLOCK 225 LOT 5",
+    "Parcel #": "BLOCK 225 LOT 5",
+    "Plaintiff": "SERVBANK, SB",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "CH-25001892"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1028-32 MYRTLE AVENUE PLAINFIELD NJ 07063",
+    "defendant": "TISHA M. WATTS, MARCUS WILLIAMS. UNITED STATES OF AMERICA. STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "SERVBANK, SB",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "BLOCK 225 LOT 5",
+  "plaintiff": "SERVBANK, SB",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "CH-25001892",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 265924.63,
+  "upset_amount_label": "Approx. Upset*"
+}

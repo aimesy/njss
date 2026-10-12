@@ -1,0 +1,61 @@
+{
+  "address": "18 HONEYSUCKLE AVENUE WITH A MAILING ADDRESS OF 18 HONEYSUCKLE AVENUE, SICKLERVILLE, NJ 08081 AND 18 HONEYSUCKLE AVENUE, ERIAL,NJ 08081 TOWNSHIP OF GLOUCESTER NJ 08081",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F80123",
+  "current_status": "Cancelled",
+  "defendant": "JONATHAN T. HECTOR, ET ALS.",
+  "extracted": {},
+  "fields": {
+    "Address": "18 HONEYSUCKLE AVENUE\nWITH A MAILING ADDRESS OF 18 HONEYSUCKLE AVENUE, SICKLERVILLE, NJ 08081 AND 18 HONEYSUCKLE AVENUE, ERIAL,NJ 08081\nTOWNSHIP OF GLOUCESTER NJ 08081",
+    "Approx. Upset*": "$355,536.44",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F80123",
+    "Defendant": "JONATHAN T. HECTOR, ET ALS.",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS\nINDENTURE TRUSTEE, ON BEHALF OF THE HOLDERS\nOF THE ACCREDITED MORTGAGE LOAN TRUST 2005-4\nASSET BACKED NOTES",
+    "Property Note": "",
+    "Sales Date": "9/21/2026",
+    "Sheriff #": "FR-25000896"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "18 HONEYSUCKLE AVENUE WITH A MAILING ADDRESS OF 18 HONEYSUCKLE AVENUE, SICKLERVILLE, NJ 08081 AND 18 HONEYSUCKLE AVENUE, ERIAL,NJ 08081 TOWNSHIP OF GLOUCESTER NJ 08081",
+    "defendant": "JONATHAN T. HECTOR, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS \nINDENTURE TRUSTEE, ON BEHALF OF THE HOLDERS \nOF THE ACCREDITED MORTGAGE LOAN TRUST 2005-4 \nASSET BACKED NOTES",
+    "sale_date": "2026-09-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE, ON BEHALF OF THE HOLDERS OF THE ACCREDITED MORTGAGE LOAN TRUST 2005-4 ASSET BACKED NOTES",
+  "property_note": null,
+  "sale_date": "2026-09-21",
+  "sheriff_number": "FR-25000896",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-07-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-21",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 355536.44,
+  "upset_amount_label": "Approx. Upset*"
+}

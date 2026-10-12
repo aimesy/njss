@@ -1,0 +1,64 @@
+{
+  "address": "73 East 7th Street Clifton NJ 07011",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000608 22 CTRL# 162922",
+  "current_status": "Cancelled",
+  "defendant": "JOSE A SANCHEZ, ET ALS",
+  "description": "Dimensions (Approx.) 50x100\nNearest Cross Street: Louise Street\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98)\nSheriff, kindly advertise the following:\nTax Certificate Recorded: January 08, 2018 Holder: FIG Capital Investments NJ13, LLC Amount: $414.29 Book: M14846 Page: 139 Instrument Number: Cert. No: 2017-013\nTax Certificate Recorded: December 27, 2019 Holder: CC1 NJ II LLC Amount: $597.77 Book: M15912 Page: 213 Instrument Number: Cert. No: 2019-006\nTax Certificate Holder: Fig Cust FigNJ19LLC & Sec Pty Amount: $813.86 Book: M17730 Page: 30 Instrument Number: Cert. No: 2021-004\nGood Faith Estimated Upset Price: $444,071.52\nOccupancy Status: Occupied",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 444071.52
+  },
+  "fields": {
+    "Address": "73 East 7th Street\nClifton NJ 07011",
+    "Approx. Upset*": "$403,739.53",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 000608 22 CTRL# 162922",
+    "Defendant": "JOSE A SANCHEZ, ET ALS",
+    "Description": "Dimensions (Approx.) 50x100\nNearest Cross Street: Louise Street\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98)\nSheriff, kindly advertise the following:\nTax Certificate Recorded: January 08, 2018 Holder: FIG Capital Investments NJ13, LLC Amount: $414.29 Book: M14846 Page: 139 Instrument Number: Cert. No: 2017-013\nTax Certificate Recorded: December 27, 2019 Holder: CC1 NJ II LLC Amount: $597.77 Book: M15912 Page: 213 Instrument Number: Cert. No: 2019-006\nTax Certificate Holder: Fig Cust FigNJ19LLC & Sec Pty Amount: $813.86 Book: M17730 Page: 30 Instrument Number: Cert. No: 2021-004\nGood Faith Estimated Upset Price: $444,071.52\nOccupancy Status: Occupied",
+    "Parcel #": "Tax Lot(s): 7, in Block: 1.33",
+    "Plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST",
+    "Property Note": "",
+    "Sales Date": "7/7/2026",
+    "Sheriff #": "F-25000216"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "73 East 7th Street Clifton NJ 07011",
+    "defendant": "JOSE A SANCHEZ, ET ALS",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST",
+    "sale_date": "2026-07-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot(s): 7, in Block: 1.33",
+  "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST",
+  "property_note": null,
+  "sale_date": "2026-07-07",
+  "sheriff_number": "F-25000216",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-04-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-05-20",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 403739.53,
+  "upset_amount_label": "Approx. Upset*"
+}

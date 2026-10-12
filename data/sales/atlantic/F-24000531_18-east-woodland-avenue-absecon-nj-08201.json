@@ -1,0 +1,62 @@
+{
+  "address": "18 East Woodland Avenue Absecon NJ 08201",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009687-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Donald Medley; Carol Lawrence and Valley National Bank",
+  "extracted": {},
+  "fields": {
+    "Address": "18 East Woodland Avenue\nAbsecon NJ 08201",
+    "Approx. Judgment*": "$136,652.41",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-009687-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Donald Medley; Carol Lawrence and Valley National Bank",
+    "Plaintiff": "Citizens Bank NA f/k/a RBS Citizens NA",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "4/13/2026",
+    "Sheriff #": "F-24000531",
+    "Upset Amount": "$147,326.24"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 136652.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "18 East Woodland Avenue Absecon NJ 08201",
+    "defendant": "Donald Medley; Carol...",
+    "listing_status": null,
+    "plaintiff": "Citizens Bank NA f/k...",
+    "sale_date": "2026-04-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Citizens Bank NA f/k/a RBS Citizens NA",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2026-04-13",
+  "sheriff_number": "F-24000531",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-13",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 147326.24,
+  "upset_amount_label": "Upset Amount"
+}

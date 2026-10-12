@@ -1,0 +1,49 @@
+{
+  "address": "27 HARRINGTON COURT HARRINGTON PARK NJ 07640",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01199018",
+  "current_status": "BANKRUPTCY",
+  "defendant": "CHANG RYONG KIM; HYO JEONG KIM; ET AL",
+  "description": "THE APPROXIMATE UPSET SUM IS $1,474,332.01 CALCULATED THROUGH DECEMBER 22, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "27 HARRINGTON COURT\nHARRINGTON PARK NJ 07640",
+    "Approx. Upset*": "$1,101,619.88",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F01199018",
+    "Defendant": "CHANG RYONG KIM; HYO JEONG KIM; ET AL",
+    "Description": "THE APPROXIMATE UPSET SUM IS $1,474,332.01 CALCULATED THROUGH DECEMBER 22, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 5 C027A, BLOCK 111 FKA LOT 5 C027B, BLOCK 111",
+    "Plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR GSAA HOME EQUITY TRUST 2007-7, ASSET-BACKED CERTIFICATES, SERIES 2007-7",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "F-25003213"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "27 HARRINGTON COURT HARRINGTON PARK NJ 07640",
+    "defendant": "CHANG RYONG KIM; HYO JEONG KIM; ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR GSAA HOME EQUITY TRUST 2007-7, ASSET-BACKED CERTIFICATES, SERIES 2007-7",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 5 C027A, BLOCK 111 FKA LOT 5 C027B, BLOCK 111",
+  "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR GSAA HOME EQUITY TRUST 2007-7, ASSET-BACKED CERTIFICATES, SERIES 2007-7",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "F-25003213",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-02-02",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 1101619.88,
+  "upset_amount_label": "Approx. Upset*"
+}

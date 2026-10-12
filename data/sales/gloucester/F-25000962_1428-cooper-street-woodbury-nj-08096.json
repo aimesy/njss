@@ -1,0 +1,63 @@
+{
+  "address": "1428 COOPER STREET WOODBURY NJ 08096",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-001158-25",
+  "current_status": "Cancelled",
+  "defendant": "MARY MORRISETTE, ET AL.",
+  "description": "ESTIMATED UPSET AMOUNT: $184,899.25\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "occupancy": "OCCUPIED BY UNKNOWN"
+  },
+  "fields": {
+    "Address": "1428 COOPER STREET\nWOODBURY NJ 08096",
+    "Approximate Judgment": "$176,451.92",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-001158-25",
+    "Defendant": "MARY MORRISETTE, ET AL.",
+    "Description": "ESTIMATED UPSET AMOUNT: $184,899.25\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Parcel #": "LOT: 10 BLOCK: 199",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n1428 COOPER STREET WOODBURY, NJ 08096\nLOT: 10 BLOCK: 199\nAPPROXIMATE DIMENSIONS: 100 FEET BY 150 FEET\nNEAREST CROSS STREET: KRAEMER COURT\nESTIMATED UPSET AMOUNT: $184,899.25\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "1/29/2026",
+    "Sheriff #": "F-25000962"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 176451.92,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1428 COOPER STREET WOODBURY NJ 08096",
+    "defendant": "MARY MORRISETTE, ET AL.",
+    "listing_status": "Cancelled",
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-01-29"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 10 BLOCK: 199",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n1428 COOPER STREET WOODBURY, NJ 08096\nLOT: 10 BLOCK: 199\nAPPROXIMATE DIMENSIONS: 100 FEET BY 150 FEET\nNEAREST CROSS STREET: KRAEMER COURT\nESTIMATED UPSET AMOUNT: $184,899.25\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2026-01-29",
+  "sheriff_number": "F-25000962",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-01-29",
+      "status": "Cancelled"
+    }
+  ]
+}

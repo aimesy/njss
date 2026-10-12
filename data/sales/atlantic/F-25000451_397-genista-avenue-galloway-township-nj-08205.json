@@ -1,0 +1,66 @@
+{
+  "address": "397 Genista Avenue Galloway Township NJ 08205",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012606-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Ann Marie K. Price; Joseph B. Price, Jr",
+  "extracted": {},
+  "fields": {
+    "Address": "397 Genista Avenue\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$172,805.78",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-012606-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Ann Marie K. Price; Joseph B. Price, Jr",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "8/21/2025",
+    "Sheriff #": "F-25000451",
+    "Upset Amount": "$192,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 172805.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "397 Genista Avenue Galloway Township NJ 08205",
+    "defendant": "Ann Marie K. Price; ...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-08-21",
+  "sheriff_number": "F-25000451",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-21",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 192500.0,
+  "upset_amount_label": "Upset Amount"
+}

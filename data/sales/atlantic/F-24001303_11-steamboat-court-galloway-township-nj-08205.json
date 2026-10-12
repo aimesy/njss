@@ -1,0 +1,70 @@
+{
+  "address": "11 Steamboat Court Galloway Township NJ 08205",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003557-24",
+  "current_status": "Scheduled",
+  "deed": "Par 5 Investment Group",
+  "deed_address": "213 E. Collins Rd, Galloway, NJ 08205",
+  "defendant": "Christina DiStefano; Ryan's Ridge Condominium Association and Mr. DiStefano, Husband of Christina DiStefano",
+  "extracted": {},
+  "fields": {
+    "Address": "11 Steamboat Court\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$56,572.58",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-003557-24",
+    "Deed": "Par 5 Investment Group",
+    "Deed Address": "213 E. Collins Rd, Galloway, NJ 08205",
+    "Defendant": "Christina DiStefano; Ryan's Ridge Condominium Association and Mr. DiStefano, Husband of Christina DiStefano",
+    "Plaintiff": "Truist Bank, formerly known as Branch Banking and Trust Company",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "2/20/2025",
+    "Sheriff #": "F-24001303",
+    "Upset Amount": "$67,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 56572.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 Steamboat Court Galloway Township NJ 08205",
+    "defendant": "Christina DiStefano;...",
+    "listing_status": null,
+    "plaintiff": "Truist Bank, formerl...",
+    "sale_date": "2025-02-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Truist Bank, formerly known as Branch Banking and Trust Company",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2025-02-20",
+  "sheriff_number": "F-24001303",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-20",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-02-20",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 67000.0,
+  "upset_amount_label": "Upset Amount"
+}

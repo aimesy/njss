@@ -1,0 +1,65 @@
+{
+  "address": "218 KINGSTON AVENUE BARRINGTON NJ 08007",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01354025",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "ASHLEY ZIMMERMAN AND VOLODYMYR YUSHKO, WIFE AND HUSBAND",
+  "extracted": {},
+  "fields": {
+    "Address": "218 KINGSTON AVENUE\nBARRINGTON NJ 08007",
+    "Approx. Upset*": "$375,949.31",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01354025",
+    "Defendant": "ASHLEY ZIMMERMAN AND VOLODYMYR YUSHKO, WIFE AND HUSBAND",
+    "Parcel #": "LOT 19, BLOCK 33",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+    "Property Note": "2026 2ND quarter taxes in the amount of $2,389.52.\nSewer in the amount of $120.00, open and due 10/01/2026.\nSewer in the amount of $360.00 open plus penalty; owed in arrears.\nCCMUA in the amount of $93.00, open plus penalty; owed in arrears.\nCCMUA in the amount of $279.00,open plus penalty; owed in arrears.",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001243"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "218 KINGSTON AVENUE BARRINGTON NJ 08007",
+    "defendant": "ASHLEY ZIMMERMAN AND VOLODYMYR YUSHKO, WIFE AND HUSBAND",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 19, BLOCK 33",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+  "property_note": "2026 2ND quarter taxes in the amount of $2,389.52.\nSewer in the amount of $120.00, open and due 10/01/2026.\nSewer in the amount of $360.00 open plus penalty; owed in arrears.\nCCMUA in the amount of $93.00, open plus penalty; owed in arrears.\nCCMUA in the amount of $279.00,open plus penalty; owed in arrears.",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001243",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 375949.31,
+  "upset_amount_label": "Approx. Upset*"
+}

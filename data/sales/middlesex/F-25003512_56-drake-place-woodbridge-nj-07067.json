@@ -1,0 +1,60 @@
+{
+  "address": "56 DRAKE PLACE WOODBRIDGE NJ 07067",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01159424",
+  "current_status": "Settled",
+  "defendant": "ANTHONY L. PAUL III, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$425,667.15",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F01159424",
+    "Defendant": "ANTHONY L. PAUL III, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF MFRA TRUST 2015-1",
+    "Property Address": "56 DRAKE PLACE\nWOODBRIDGE NJ 07067",
+    "Property Note": "",
+    "Sale Date": "2/25/2026",
+    "Sheriff #": "F-25003512"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 425667.15,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "56 DRAKE PLACE WOODBRIDGE NJ 07067",
+    "defendant": "ANTHONY L. PAUL III, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF MFRA TRUST 2015-1",
+    "sale_date": "2026-02-25"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF MFRA TRUST 2015-1",
+  "property_note": null,
+  "sale_date": "2026-02-25",
+  "sheriff_number": "F-25003512",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-02-25",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-24",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

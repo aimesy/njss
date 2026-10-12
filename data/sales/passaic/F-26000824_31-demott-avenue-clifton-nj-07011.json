@@ -1,0 +1,52 @@
+{
+  "address": "31 Demott Avenue Clifton NJ 07011",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 012560 25 CTL#163199",
+  "current_status": "Cancelled",
+  "defendant": "ALVARO AHUMADA ET ALS",
+  "description": "Dimensions of Lot: 50 feet wide by 114 feet long\nNearest Cross Street: First Street\nEstimated upset bid amount: $526,200.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n2026 Qtr 2 Due: 05/01/2026 $2,473.05 OPEN\nSewer: Clifton City 900 Clifton Ave. Clifton, NJ 07013 973-470-5833 Acct: 50347 0 07/01/2025 - 12/31/2025 $220.27 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton, NJ 07011 973-340-4300 Acct: 0174701-009700 To: 04/23/2026 $127.61 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "50",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "31 Demott Avenue\nClifton NJ 07011",
+    "Approx. Upset*": "$485,182.19",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 012560 25 CTL#163199",
+    "Defendant": "ALVARO AHUMADA ET ALS",
+    "Description": "Dimensions of Lot: 50 feet wide by 114 feet long\nNearest Cross Street: First Street\nEstimated upset bid amount: $526,200.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n2026 Qtr 2 Due: 05/01/2026 $2,473.05 OPEN\nSewer: Clifton City 900 Clifton Ave. Clifton, NJ 07013 973-470-5833 Acct: 50347 0 07/01/2025 - 12/31/2025 $220.27 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton, NJ 07011 973-340-4300 Acct: 0174701-009700 To: 04/23/2026 $127.61 OPEN PLUS PENALTY",
+    "Parcel #": "Tax LOT 4 BLOCK 12.20",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY",
+    "Property Note": "",
+    "Sales Date": "5/27/2026",
+    "Sheriff #": "F-26000824"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "31 Demott Avenue Clifton NJ 07011",
+    "defendant": "ALVARO AHUMADA ET ALS",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY",
+    "sale_date": "2026-05-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax LOT 4 BLOCK 12.20",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY",
+  "property_note": null,
+  "sale_date": "2026-05-27",
+  "sheriff_number": "F-26000824",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-05-27",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 485182.19,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "78 HOPEWELL LANE WITH A MAILING ASSRESS OF 78 HOPEWELL LANE, SICKLERVILLE, NJ 08081 WINSLOW NJ 08081",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F482525",
+  "current_status": "Purchased",
+  "defendant": "TARA LYNN BOOKER, ET ALS.",
+  "extracted": {},
+  "fields": {
+    "Address": "78 HOPEWELL LANE\nWITH A MAILING ASSRESS OF 78 HOPEWELL LANE, SICKLERVILLE, NJ 08081\nWINSLOW NJ 08081",
+    "Approx. Upset*": "$169,890.12",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F482525",
+    "Defendant": "TARA LYNN BOOKER, ET ALS.",
+    "Parcel #": "TAX LOT NO. 18 IN BLOCK NO. 11805",
+    "Plaintiff": "PENNEYMAC LOANS SERVICES, LLC",
+    "Property Note": "PRIOR LIENS/ENCUMBRANCES\nWATER OPEN PLUS PENALTY $106.00\nSEWER OPEN PLUS PENALTY $102.00\nCCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY $465.00\n3RD PARTY WATER, SEWER, CCMUA CERT NO. 25-00333\nTOTAL AS OF MARCH 24, 2026: $1,601.84",
+    "Sales Date": "6/17/2026",
+    "Sheriff #": "FR-26000717"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "78 HOPEWELL LANE WITH A MAILING ASSRESS OF 78 HOPEWELL LANE, SICKLERVILLE, NJ 08081 WINSLOW NJ 08081",
+    "defendant": "TARA LYNN BOOKER, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "PENNEYMAC LOANS SERVICES, LLC",
+    "sale_date": "2026-06-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT NO. 18 IN BLOCK NO. 11805",
+  "plaintiff": "PENNEYMAC LOANS SERVICES, LLC",
+  "property_note": "PRIOR LIENS/ENCUMBRANCES\nWATER OPEN PLUS PENALTY $106.00\nSEWER OPEN PLUS PENALTY $102.00\nCCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY $465.00\n3RD PARTY WATER, SEWER, CCMUA CERT NO. 25-00333\nTOTAL AS OF MARCH 24, 2026: $1,601.84",
+  "sale_date": "2026-06-17",
+  "sheriff_number": "FR-26000717",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 169890.12,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "86-90 Lincoln Avenue Hawthorne NJ 07506",
+  "attorney": "NORGAARD O'BOYLE & HANNON",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 1520 25 CTL# 163039",
+  "current_status": "Bankruptcy",
+  "defendant": "EASTFORD LLC, ET ALS",
+  "description": "Dimensions (approx.): 50 x 140 ; 50 x 140\nApproximate Upset: $1,200,000.00, plus any additional advances, interest, sheriff's costs and comission to the date of sale\nOccupancystatus: Unknown\nAmount Due for Taxes: As of July 10, 2025, the third quarter taxes for tax year 2025 are due and owing in the amount of $Undetermined: There is aslo due and owing an outstanding tax sale certificate, number 23-0002, in the original amount of $35,567.27 against Lot 23,Block 20 and a tax sale certificate number 23-00003, in the original amount of $9,182.87, against Lot 24, Block 20, plus subsequent taxes, interest and charges.\nThe sale is subject to any unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereof. **If the sale is set aside for any reason, the purchaser at the sale may be entitled only to a return of the deposit paid. The purchaser shall habe no further recourse against the mortgagor, the mortgagee or the mortgagee's attorney.\nAs the above description does not constitute a full legal description, said full description is annexed to that certain mortgage recorded in the Office of the Clerk of Passaic County in Book Z18483 at Page 201, et seq., Paterson, New Jersey, and the Writ of Execution on file with the Sheriff of Passaic County",
+  "extracted": {
+    "block": "20",
+    "lot": "23"
+  },
+  "fields": {
+    "Address": "86-90 Lincoln Avenue\nHawthorne NJ 07506",
+    "Approx. Upset*": "$7,606,575.28",
+    "Attorney": "NORGAARD O'BOYLE & HANNON",
+    "Court Case #": "F 1520 25 CTL# 163039",
+    "Defendant": "EASTFORD LLC, ET ALS",
+    "Description": "Dimensions (approx.): 50 x 140 ; 50 x 140\nApproximate Upset: $1,200,000.00, plus any additional advances, interest, sheriff's costs and comission to the date of sale\nOccupancystatus: Unknown\nAmount Due for Taxes: As of July 10, 2025, the third quarter taxes for tax year 2025 are due and owing in the amount of $Undetermined: There is aslo due and owing an outstanding tax sale certificate, number 23-0002, in the original amount of $35,567.27 against Lot 23,Block 20 and a tax sale certificate number 23-00003, in the original amount of $9,182.87, against Lot 24, Block 20, plus subsequent taxes, interest and charges.\nThe sale is subject to any unpaid taxes and assessments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereof. **If the sale is set aside for any reason, the purchaser at the sale may be entitled only to a return of the deposit paid. The purchaser shall habe no further recourse against the mortgagor, the mortgagee or the mortgagee's attorney.\nAs the above description does not constitute a full legal description, said full description is annexed to that certain mortgage recorded in the Office of the Clerk of Passaic County in Book Z18483 at Page 201, et seq., Paterson, New Jersey, and the Writ of Execution on file with the Sheriff of Passaic County",
+    "Parcel #": "Tax Lots 23 & 24 in Block 20",
+    "Plaintiff": "PRIVATE MORTGAGE INVESTMENTS, LLC SERIES 61 C/O PRIVATE MORTGAGE FINANCING PARTNERS, LLC",
+    "Property Note": "",
+    "Sales Date": "1/6/2026",
+    "Sheriff #": "F-25001457"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "86-90 Lincoln Avenue Hawthorne NJ 07506",
+    "defendant": "EASTFORD LLC, ET ALS",
+    "listing_status": null,
+    "plaintiff": "PRIVATE MORTGAGE INVESTMENTS, LLC SERIES 61 C/O PRIVATE MORTGAGE FINANCING PARTNERS, LLC",
+    "sale_date": "2026-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lots 23 & 24 in Block 20",
+  "plaintiff": "PRIVATE MORTGAGE INVESTMENTS, LLC SERIES 61 C/O PRIVATE MORTGAGE FINANCING PARTNERS, LLC",
+  "property_note": null,
+  "sale_date": "2026-01-06",
+  "sheriff_number": "F-25001457",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-25",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 7606575.28,
+  "upset_amount_label": "Approx. Upset*"
+}

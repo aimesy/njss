@@ -1,0 +1,74 @@
+{
+  "address": "73 LESLIE STREET EAST ORANGE NJ 07017",
+  "attorney": "HONIG & GREENBERG, L.L.C.",
+  "attorney_phone": "856 770 0990",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F557124",
+  "current_status": "Adjourned Court",
+  "defendant": "ALONZO T. HOBBS, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DORIS C. BEST, DECEASED, ET. AL",
+  "description": "TAX LOT 2.05 BLOCK 100, OF THE CITY OF EAST ORANGE\nDIMENSIONS: 37 X 100\nNUMBER OF FEET TO NEAREST CROSS-STREET: 213 FEET TO 1ST AVE.\nAPPROXIMATE GOOD FAITH ESTIMATE: $110,000.00\n(X) PROPERTY OWNER(S): ALONZO T. HOBBS, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DORIS C. BEST, DECEASED\n(XX) METES AND BOUNDS DESCRIPTION: THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. THE FULL LEGAL\nDESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN BOOK 4533 AT PAGE 821\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $13,544.05",
+  "extracted": {
+    "block": "100",
+    "lot": "2.05"
+  },
+  "fields": {
+    "Address": "73 LESLIE STREET\nEAST ORANGE NJ 07017",
+    "Approx. Upset*": "$87,979.06",
+    "Attorney": "HONIG & GREENBERG, L.L.C.",
+    "Attorney Phone": "856 770 0990",
+    "Court Case #": "F557124",
+    "Defendant": "ALONZO T. HOBBS, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DORIS C. BEST, DECEASED, ET. AL",
+    "Description": "TAX LOT 2.05 BLOCK 100, OF THE CITY OF EAST ORANGE\nDIMENSIONS: 37 X 100\nNUMBER OF FEET TO NEAREST CROSS-STREET: 213 FEET TO 1ST AVE.\nAPPROXIMATE GOOD FAITH ESTIMATE: $110,000.00\n(X) PROPERTY OWNER(S): ALONZO T. HOBBS, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DORIS C. BEST, DECEASED\n(XX) METES AND BOUNDS DESCRIPTION: THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. THE FULL LEGAL\nDESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN BOOK 4533 AT PAGE 821\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $13,544.05",
+    "Parcel #": "",
+    "Plaintiff": "PINE VALLEY ONE REAL ESTATE, LLC,",
+    "Property Note": "",
+    "Sales Date": "10/13/2026",
+    "Sheriff #": "F-26001273"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "73 LESLIE STREET EAST ORANGE NJ 07017",
+    "defendant": "ALONZO T. HOBBS, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DORIS C. BEST, DECEASED, ET. AL",
+    "listing_status": null,
+    "plaintiff": "PINE VALLEY ONE REAL ESTATE, LLC,",
+    "sale_date": "2026-10-13"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "PINE VALLEY ONE REAL ESTATE, LLC,",
+  "property_note": null,
+  "sale_date": "2026-10-13",
+  "sheriff_number": "F-26001273",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-05-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Adjourned Court"
+    }
+  ],
+  "upset_amount": 87979.06,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,60 @@
+{
+  "address": "18 LIBERTY STREET FORDS NJ 08863",
+  "attorney": "PLUESE BECKER SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00909324",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "CZARWIE G. LAPINIG, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$267,729.80",
+    "Attorney": "PLUESE BECKER SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00909324",
+    "Defendant": "CZARWIE G. LAPINIG, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 5.01 BLOCK 13.03",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Address": "18 LIBERTY STREET\nFORDS NJ 08863",
+    "Property Note": "",
+    "Sale Date": "6/25/2025",
+    "Sheriff #": "F-25000754"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 267729.8,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "18 LIBERTY STREET FORDS NJ 08863",
+    "defendant": "CZARWIE G. LAPINIG, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2025-06-25"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 5.01 BLOCK 13.03",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2025-06-25",
+  "sheriff_number": "F-25000754",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-06-25",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

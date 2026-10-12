@@ -1,0 +1,74 @@
+{
+  "address": "3851 Boardwalk Apt 1809 Atlantic City NJ 08401",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-014061-23",
+  "current_status": "Scheduled",
+  "deed": "Cascade Funding Mortgage Trust HB13",
+  "deed_address": "1661 Worthington Road Ste 100, West Palm Beach, FL 33409",
+  "defendant": "Marcy L. Reese A/K/A Marcy Reese; Mr. Reese, Spouse of Marcy L. Reese A/K/A Marcy Reese; The Enclave Condominium Association, Inc; New Jersey Property-Liability Insurance Guaranty Association; Bank of America NA; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "3851 Boardwalk\nApt 1809\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$362,680.39",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-014061-23",
+    "Deed": "Cascade Funding Mortgage Trust HB13",
+    "Deed Address": "1661 Worthington Road Ste 100, West Palm Beach, FL 33409",
+    "Defendant": "Marcy L. Reese A/K/A Marcy Reese; Mr. Reese, Spouse of Marcy L. Reese A/K/A Marcy Reese; The Enclave Condominium Association, Inc; New Jersey Property-Liability Insurance Guaranty Association; Bank of America NA; United States of America",
+    "Plaintiff": "Mortgage Assets Management, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "4/3/2025",
+    "Sheriff #": "F-24001309",
+    "Upset Amount": "$250,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 362680.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3851 Boardwalk Apt 1809 Atlantic City NJ 08401",
+    "defendant": "Marcy L. Reese A/K/A...",
+    "listing_status": null,
+    "plaintiff": "Mortgage Assets Mana...",
+    "sale_date": "2025-04-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Mortgage Assets Management, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-04-03",
+  "sheriff_number": "F-24001309",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-03",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 250000.0,
+  "upset_amount_label": "Upset Amount"
+}

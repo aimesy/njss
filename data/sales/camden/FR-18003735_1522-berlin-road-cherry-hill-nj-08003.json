@@ -1,0 +1,89 @@
+{
+  "address": "1522 BERLIN ROAD CHERRY HILL NJ 08003",
+  "attorney": "RAGAN & RAGAN P.C.",
+  "attorney_phone": "(732) 280-4100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "DJ02655509/DC-DC01745507",
+  "current_status": "Settled",
+  "defendant": "SYLVIA C. KETT AKA SYLVIA KETT-SOLOTOFF AKA SYLVIA C. SOLOTOFF",
+  "extracted": {},
+  "fields": {
+    "Address": "1522 BERLIN ROAD\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$9,858.09",
+    "Attorney": "RAGAN & RAGAN P.C.",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "DJ02655509/DC-DC01745507",
+    "Defendant": "SYLVIA C. KETT AKA SYLVIA KETT-SOLOTOFF AKA SYLVIA C. SOLOTOFF",
+    "Parcel #": "",
+    "Plaintiff": "VELOCITY INVESTMENTS LLC",
+    "Property Note": "",
+    "Sales Date": "3/6/2026",
+    "Sheriff #": "FR-18003735"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1522 BERLIN ROAD CHERRY HILL NJ 08003",
+    "defendant": "SYLVIA C. KETT AKA SYLVIA KETT-SOLOTOFF AKA SYLVIA C. SOLOTOFF",
+    "listing_status": null,
+    "plaintiff": "VELOCITY INVESTMENTS LLC",
+    "sale_date": "2026-03-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "VELOCITY INVESTMENTS LLC",
+  "property_note": null,
+  "sale_date": "2026-03-06",
+  "sheriff_number": "FR-18003735",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2018-10-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2018-10-24",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2018-11-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2018-11-21",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2019-01-09",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2019-04-10",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2019-07-10",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2019-10-09",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2020-01-08",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2020-04-08",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-06",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 9858.09,
+  "upset_amount_label": "Approx. Upset*"
+}

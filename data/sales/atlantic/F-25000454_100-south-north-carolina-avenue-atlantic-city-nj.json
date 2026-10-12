@@ -1,0 +1,58 @@
+{
+  "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+  "attorney": "K&L Gates, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-014383-23",
+  "current_status": "Scheduled",
+  "deed": "Wyndham Vacation Resorts, Inc",
+  "deed_address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+  "defendant": "Carolyn Christopher, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Dwight P. Bunting, Deceased, His Devisees and Personal Representatives, and His, Their or any of Their Successors in Right, Title and Interest; Diane Keepes, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest",
+  "extracted": {},
+  "fields": {
+    "Address": "100 South North Carolina Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$2,218.73",
+    "Attorney": "K&L Gates, LLP",
+    "Court Case #": "F-014383-23",
+    "Deed": "Wyndham Vacation Resorts, Inc",
+    "Deed Address": "100 S. North Carolina Avenue, Atlantic City, NJ 08401",
+    "Defendant": "Carolyn Christopher, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest; Dwight P. Bunting, Deceased, His Devisees and Personal Representatives, and His, Their or any of Their Successors in Right, Title and Interest; Diane Keepes, Deceased, Her Devisees and Personal Representatives, and Her, Their or any of Their Successors in Right, Title and Interest",
+    "Plaintiff": "Skyline Tower Vacation Condominium Association, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: PROPERTY IS NOT VACANT, TENANT-OCCUPIED OR OWNER OCCUPIED BUT INSTEAD IS A TIMESHARE VACATION PROPERTY",
+    "Sales Date": "7/3/2025",
+    "Sheriff #": "F-25000454",
+    "Upset Amount": "$868.43"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 2218.73,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "100 South North Carolina Avenue Atlantic City NJ 08401",
+    "defendant": "Carolyn Christopher,...",
+    "listing_status": null,
+    "plaintiff": "Skyline Tower Vacati...",
+    "sale_date": "2025-07-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Skyline Tower Vacation Condominium Association, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: PROPERTY IS NOT VACANT, TENANT-OCCUPIED OR OWNER OCCUPIED BUT INSTEAD IS A TIMESHARE VACATION PROPERTY",
+  "sale_date": "2025-07-03",
+  "sheriff_number": "F-25000454",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-03",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-07-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 868.43,
+  "upset_amount_label": "Upset Amount"
+}

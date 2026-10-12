@@ -1,0 +1,52 @@
+{
+  "address": "43 Harbor Rd Morganville NJ 07751",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00134722",
+  "current_status": "Canceled",
+  "defendant": "Eric J. Greer, et al.",
+  "description": "Dimensions (Approx.): 155.65 x 130.00 x 162.60 x 130.00\nNearest Cross Street: Hillside Terrace\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upset Price: $329,063.93\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 329063.93
+  },
+  "fields": {
+    "Address": "43 Harbor Rd\nMorganville NJ 07751",
+    "Approx. Judgment*": "$294,061.88",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00134722",
+    "Defendant": "Eric J. Greer, et al.",
+    "Description": "Dimensions (Approx.): 155.65 x 130.00 x 162.60 x 130.00\nNearest Cross Street: Hillside Terrace\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upset Price: $329,063.93\nOccupancy Status: Owner Occupied",
+    "Parcel #": "Tax Lot(s): 22, in Block: 170 Tax Map of the Township of Marlboro\nTax Lot(s): 22, in Block: 170 Tax Map of the Township of Marlboro",
+    "Plaintiff": "U.S. Bank Trust National Association, As Trustee Of Dwelling Series IV Trust",
+    "Property Note": "",
+    "Sales Date": "1/28/2025",
+    "Sheriff #": "FOR-24002245"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 294061.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "43 Harbor Rd Morganville NJ 07751",
+    "defendant": "Eric J. Greer, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank Trust National Association, As Trustee Of Dwelling Series IV Trust",
+    "sale_date": "2025-01-28"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 22, in Block: 170 Tax Map of the Township of Marlboro Tax Lot(s): 22, in Block: 170 Tax Map of the Township of Marlboro",
+  "plaintiff": "U.S. Bank Trust National Association, As Trustee Of Dwelling Series IV Trust",
+  "property_note": null,
+  "sale_date": "2025-01-28",
+  "sheriff_number": "FOR-24002245",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-28",
+      "status": "Canceled"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "address": "665 MAPLE AVE ATCO NJ 08004",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01289125",
+  "current_status": "Scheduled",
+  "defendant": "LONNY IULIUCCI; CONNIE IULIUCCI; DISCOVER BANK; MIDLAND FUNDING, LLC,",
+  "extracted": {},
+  "fields": {
+    "Address": "665 MAPLE AVE\nATCO NJ 08004",
+    "Approx. Upset*": "$208,356.31",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01289125",
+    "Defendant": "LONNY IULIUCCI; CONNIE IULIUCCI; DISCOVER BANK; MIDLAND FUNDING, LLC,",
+    "Parcel #": "TAX LOT 3 FKA 2.02 BLOCK 2604 FKA 125",
+    "Plaintiff": "NEWRA LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "2026 QTR 2 DUE: 05/01/2026 $2,844.30 OPEN\nSEWER: WATERFORD TWP. UTILITY DEPT. 2131 AUBURN AVE. ATCO, NJ 08004 856-768-2300 ACCT: 26107 0 01/01/2026-03/31/2026 $54.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT: 350019089 03/01/2026 -05/31/2026 $93.00 OPEN AND DUW 04/15/2026 $99.25 OPEN PLUS PENALTY",
+    "Sales Date": "4/9/2026",
+    "Sheriff #": "FR-26000801"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "665 MAPLE AVE ATCO NJ 08004",
+    "defendant": "LONNY IULIUCCI; CONNIE IULIUCCI; DISCOVER BANK; MIDLAND FUNDING, LLC,",
+    "listing_status": null,
+    "plaintiff": "NEWRA LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2026-04-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 3 FKA 2.02 BLOCK 2604 FKA 125",
+  "plaintiff": "NEWRA LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": "2026 QTR 2 DUE: 05/01/2026 $2,844.30 OPEN\nSEWER: WATERFORD TWP. UTILITY DEPT. 2131 AUBURN AVE. ATCO, NJ 08004 856-768-2300 ACCT: 26107 0 01/01/2026-03/31/2026 $54.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT: 350019089 03/01/2026 -05/31/2026 $93.00 OPEN AND DUW 04/15/2026 $99.25 OPEN PLUS PENALTY",
+  "sale_date": "2026-04-09",
+  "sheriff_number": "FR-26000801",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-09",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 208356.31,
+  "upset_amount_label": "Approx. Upset*"
+}

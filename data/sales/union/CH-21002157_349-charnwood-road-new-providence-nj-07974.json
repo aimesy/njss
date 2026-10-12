@@ -1,0 +1,92 @@
+{
+  "address": "349 CHARNWOOD ROAD NEW PROVIDENCE NJ 07974",
+  "attorney": "PETER J. LISKA, LLC - ATTORNEY",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F02016119",
+  "current_status": "Settled",
+  "defendant": "LUCIANO RICCIARDI AND VALERIE RICCIARDI",
+  "description": "LOT 21 BLOCK 25",
+  "extracted": {
+    "block": "25",
+    "lot": "21"
+  },
+  "fields": {
+    "Address": "349 CHARNWOOD ROAD\nNEW PROVIDENCE NJ 07974",
+    "Approx. Upset*": "$453,845.45",
+    "Attorney": "PETER J. LISKA, LLC - ATTORNEY",
+    "Court Case #": "F02016119",
+    "Defendant": "LUCIANO RICCIARDI AND VALERIE RICCIARDI",
+    "Description": "LOT 21 BLOCK 25",
+    "Parcel #": "LOT 21 BLOCK 25",
+    "Plaintiff": "AFFINITY FEDERAL CREDIT UNION",
+    "Property Note": "",
+    "Sales Date": "11/24/2025",
+    "Sheriff #": "CH-21002157"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "349 CHARNWOOD ROAD NEW PROVIDENCE NJ 07974",
+    "defendant": "LUCIANO RICCIARDI AND VALERIE RICCIARDI",
+    "listing_status": null,
+    "plaintiff": "AFFINITY FEDERAL CREDIT UNION",
+    "sale_date": "2025-11-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 21 BLOCK 25",
+  "plaintiff": "AFFINITY FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2025-11-24",
+  "sheriff_number": "CH-21002157",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2022-01-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-03-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-03-23",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2022-03-23",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2022-07-27",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2022-07-27",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2024-08-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-11",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-10-09",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-10-09",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 453845.45,
+  "upset_amount_label": "Approx. Upset*"
+}

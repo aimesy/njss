@@ -1,0 +1,75 @@
+{
+  "address": "30 Brookrace Drive Mendham NJ 07945",
+  "county": "Morris County, NJ",
+  "county_id": 9,
+  "court_case_number": "F-000227-22",
+  "current_status": "Hold - Court Order",
+  "defendant": "John J. McKeon and Susan J. McKeon, husband and wife; Chris Karamanos; Maxine A. Reid and Discover Bank",
+  "description": "Plaintiff Upset Price: $135,000.00\nOccupancy Status: Occupied\nApproximate Dimensions: 127.16 x 232.35 x 222.15 x 232.35 Feet (IRREGULAR)\nNearest Cross Street: Rockwell Court",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 135000.0
+  },
+  "fields": {
+    "Address": "30 Brookrace Drive\nMendham NJ 07945",
+    "Court Case #": "F-000227-22",
+    "Defendant": "John J. McKeon and Susan J. McKeon, husband and wife; Chris Karamanos; Maxine A. Reid and Discover Bank",
+    "Description": "Plaintiff Upset Price: $135,000.00\nOccupancy Status: Occupied\nApproximate Dimensions: 127.16 x 232.35 x 222.15 x 232.35 Feet (IRREGULAR)\nNearest Cross Street: Rockwell Court",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, not in its individual capacity but solely as Owner Trustee of the Aspen Growth IV Trust, a Deleware statutory trust",
+    "Sales Date": "4/20/2028",
+    "Sheriff #": "24001361"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "30 Brookrace Drive Mendham NJ 07945",
+    "defendant": "John J. McKeon and Susan J. McKeon, husband and wife; Chris Karamanos; Maxine A. Reid and Discover Bank",
+    "listing_status": null,
+    "plaintiff": "Wilmington Savings Fund Society, FSB, not in its individual capacity but solely as Owner Trustee of the Aspen Growth IV Trust, a Deleware statutory trust",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Morris County, NJ)",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, not in its individual capacity but solely as Owner Trustee of the Aspen Growth IV Trust, a Deleware statutory trust",
+  "sale_date": "2028-04-20",
+  "sheriff_number": "24001361",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=9",
+  "status_history": [
+    {
+      "date": "2024-10-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Hold - Court Order"
+    },
+    {
+      "date": "2025-06-12",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-07-10",
+      "status": "Adjourned by the Plaintiff to"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2025-09-18",
+      "status": "Adjourned by the Plaintiff to"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2028-04-20",
+      "status": "Hold - Court Order"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "address": "554 Clubhouse Drive Middletown NJ 07748",
+  "attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00819423",
+  "current_status": "Scheduled",
+  "defendant": "Anthony Raymond Bianchi, individually and as Administrator of the Estate of Ellen Maureen Bianchi, et al.",
+  "description": "Dimensions : Approximately: 20 x 80\nNearest Cross Street: Palmer Avenue\nUPSET PRICE: Approximately $103,517.67 and any additional sums as ordered by the court\nOCCUPANCY STATUS: Occupied by Unknown\nBeginning at the intersection of the center line of Palmer Avenue and the centerline of Clubhouse Drive and from said intersection running, thence\nPursuant to a tax search of 05/24/2024; 2024 Qtr. 2 due: 05/01/2024 @1,407.78 Paid, 2024 Qtr. 3 due: 08/01/2024 to be determined. Sewer Acct: 35644 0 03/01/2024 - 05/31/2024 $106.00 OPEN $320.00 OPEN PLUS PENALTY; owed in the arrears. Water: PRIVATE - NJ American Water Co. P.O. Box 371331 Pittsburgh, PA 15250 800-652-6987. General Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES. This property address is part of a planned unit development (\"PUD\") known as Cherry Tree Village.\n(This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)",
+  "extracted": {
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 103517.67
+  },
+  "fields": {
+    "Address": "554 Clubhouse Drive\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$101,744.43",
+    "Attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+    "Court Case #": "F00819423",
+    "Defendant": "Anthony Raymond Bianchi, individually and as Administrator of the Estate of Ellen Maureen Bianchi, et al.",
+    "Description": "Dimensions : Approximately: 20 x 80\nNearest Cross Street: Palmer Avenue\nUPSET PRICE: Approximately $103,517.67 and any additional sums as ordered by the court\nOCCUPANCY STATUS: Occupied by Unknown\nBeginning at the intersection of the center line of Palmer Avenue and the centerline of Clubhouse Drive and from said intersection running, thence\nPursuant to a tax search of 05/24/2024; 2024 Qtr. 2 due: 05/01/2024 @1,407.78 Paid, 2024 Qtr. 3 due: 08/01/2024 to be determined. Sewer Acct: 35644 0 03/01/2024 - 05/31/2024 $106.00 OPEN $320.00 OPEN PLUS PENALTY; owed in the arrears. Water: PRIVATE - NJ American Water Co. P.O. Box 371331 Pittsburgh, PA 15250 800-652-6987. General Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES. This property address is part of a planned unit development (\"PUD\") known as Cherry Tree Village.\n(This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)",
+    "Parcel #": "Lot: 231, Block: 596 located on the tax map of the Township of Middletown",
+    "Plaintiff": "Bank of America, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/6/2025",
+    "Sheriff #": "FOR-24001126"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 101744.43,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "554 Clubhouse Drive Middletown NJ 07748",
+    "defendant": "Anthony Raymond Bianchi, individually and as Administrator of the Estate of Ellen Maureen Bianchi, et al.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Bank of America, N.A.",
+    "sale_date": "2025-01-06"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 231, Block: 596 located on the tax map of the Township of Middletown",
+  "plaintiff": "Bank of America, N.A.",
+  "property_note": null,
+  "sale_date": "2025-01-06",
+  "sheriff_number": "FOR-24001126",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-06",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Scheduled"
+    }
+  ]
+}

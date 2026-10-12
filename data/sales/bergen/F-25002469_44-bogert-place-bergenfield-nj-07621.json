@@ -1,0 +1,61 @@
+{
+  "address": "44 BOGERT PLACE BERGENFIELD NJ 07621",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F02461216",
+  "current_status": "Cancelled",
+  "defendant": "JULIO C ZANETTI AND MAYRA L ZANETTI, HUSBAND AND WIFE; ET AL",
+  "description": "The approximate upset sum is $738,678.07 calculated through September 26, 2025 plus any additional advance, interest, Sheriff’s cost and commission to the date of sale.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "44 BOGERT PLACE\nBERGENFIELD NJ 07621",
+    "Approx. Upset*": "$532,586.32",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F02461216",
+    "Defendant": "JULIO C ZANETTI AND MAYRA L ZANETTI, HUSBAND AND WIFE; ET AL",
+    "Description": "The approximate upset sum is $738,678.07 calculated through September 26, 2025 plus any additional advance, interest, Sheriff’s cost and commission to the date of sale.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 7, BLOCK 186 F/K/A LOT 427, BLOCK 247",
+    "Plaintiff": "WELLS FARGO BANK, NA",
+    "Property Note": "",
+    "Sales Date": "3/11/2026",
+    "Sheriff #": "F-25002469"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "44 BOGERT PLACE BERGENFIELD NJ 07621",
+    "defendant": "JULIO C ZANETTI AND MAYRA L ZANETTI, HUSBAND AND WIFE; ET AL",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, NA",
+    "sale_date": "2026-03-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 7, BLOCK 186 F/K/A LOT 427, BLOCK 247",
+  "plaintiff": "WELLS FARGO BANK, NA",
+  "property_note": null,
+  "sale_date": "2026-03-11",
+  "sheriff_number": "F-25002469",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 532586.32,
+  "upset_amount_label": "Approx. Upset*"
+}

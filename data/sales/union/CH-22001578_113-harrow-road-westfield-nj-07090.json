@@ -1,0 +1,72 @@
+{
+  "address": "113 HARROW ROAD WESTFIELD NJ 07090",
+  "attorney": "PARKER McCAY P.A.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01999218",
+  "current_status": "Cancelled",
+  "defendant": "TRAN LE HILL F/K/A TRAN LE BAKER; JAMES J. HILL; CRESCENT TIRE & AUTO INC.; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; MIDLAND FUNDING LLC",
+  "description": "LOT 8 BLOCK 4912",
+  "extracted": {
+    "block": "4912",
+    "lot": "8"
+  },
+  "fields": {
+    "Address": "113 HARROW ROAD\nWESTFIELD NJ 07090",
+    "Approx. Upset*": "$2,216,975.26",
+    "Attorney": "PARKER McCAY P.A.",
+    "Court Case #": "F01999218",
+    "Defendant": "TRAN LE HILL F/K/A TRAN LE BAKER; JAMES J. HILL; CRESCENT TIRE & AUTO INC.; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; MIDLAND FUNDING LLC",
+    "Description": "LOT 8 BLOCK 4912",
+    "Parcel #": "LOT 8 BLOCK 4912",
+    "Plaintiff": "MORGAN STANLEY MORTGAGE LOAN TRUST 2007-8XS, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "10/5/2026",
+    "Sheriff #": "CH-22001578"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "113 HARROW ROAD WESTFIELD NJ 07090",
+    "defendant": "TRAN LE HILL F/K/A TRAN LE BAKER; JAMES J. HILL; CRESCENT TIRE & AUTO INC.; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "MORGAN STANLEY MORTGAGE LOAN TRUST 2007-8XS, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "sale_date": "2026-10-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 8 BLOCK 4912",
+  "plaintiff": "MORGAN STANLEY MORTGAGE LOAN TRUST 2007-8XS, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-10-05",
+  "sheriff_number": "CH-22001578",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2022-10-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-12-14",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-12-14",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2023-08-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-08-09",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-10-05",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 2216975.26,
+  "upset_amount_label": "Approx. Upset*"
+}

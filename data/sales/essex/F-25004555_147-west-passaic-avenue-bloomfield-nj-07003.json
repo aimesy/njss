@@ -1,0 +1,86 @@
+{
+  "address": "147 WEST PASSAIC AVENUE BLOOMFIELD NJ 07003",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00303725",
+  "current_status": "Purchased - Foreclosure",
+  "defendant": "MARC J. DRURY, ET. AL",
+  "description": "TAX LOT 21 BLOCK 1262\nDIMENSIONS OF THE LOT ARE (APPROXIMATELY) 166.54 X 50.00 X 171.13 X 50.21\nNEAREST CROSS STREET: DAY STREET\nTHE SALE IS SUBJECT TO UNPAID AND ASSESSMENTS, TAX, WATER AND SEWER LIENS AND OTHER MUNICIPAL ASSESSMENTS. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNER ASSOCIATION LIENS WHICH MAY EXIST. THE SALE MAY BE FURTHER SUBJECT TO RESTRICTIONS, REVERSIONS, RESERVATIONS, AND EASEMENTS OF RECORD. THE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.\nTHE APPROXIMATE UPSET SUM IS $346,000.00 CALCULATED THROUGH DECEMBER 9, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.",
+  "extracted": {
+    "block": "1262",
+    "lot": "21"
+  },
+  "fields": {
+    "Address": "147 WEST PASSAIC AVENUE\nBLOOMFIELD NJ 07003",
+    "Approx. Upset*": "$308,756.21",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F00303725",
+    "Defendant": "MARC J. DRURY, ET. AL",
+    "Description": "TAX LOT 21 BLOCK 1262\nDIMENSIONS OF THE LOT ARE (APPROXIMATELY) 166.54 X 50.00 X 171.13 X 50.21\nNEAREST CROSS STREET: DAY STREET\nTHE SALE IS SUBJECT TO UNPAID AND ASSESSMENTS, TAX, WATER AND SEWER LIENS AND OTHER MUNICIPAL ASSESSMENTS. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNER ASSOCIATION LIENS WHICH MAY EXIST. THE SALE MAY BE FURTHER SUBJECT TO RESTRICTIONS, REVERSIONS, RESERVATIONS, AND EASEMENTS OF RECORD. THE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.\nTHE APPROXIMATE UPSET SUM IS $346,000.00 CALCULATED THROUGH DECEMBER 9, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "F-25004555"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "147 WEST PASSAIC AVENUE BLOOMFIELD NJ 07003",
+    "defendant": "MARC J. DRURY, ET. AL",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-09-15",
+  "sheriff_number": "F-25004555",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-08-11",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Purchased - Foreclosure"
+    }
+  ],
+  "upset_amount": 308756.21,
+  "upset_amount_label": "Approx. Upset*"
+}

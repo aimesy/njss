@@ -1,0 +1,72 @@
+{
+  "address": "435 18th Avenue Paterson NJ 07504",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000686 24 CTL#162793",
+  "current_status": "Cancelled",
+  "defendant": "DONZA J. FRASIER, ET ALS",
+  "description": "Dimensions of Lot: 65 feet wide by 100 feet long\nNearest Cross Street: E 42nd Street\nEstimated upset bud amount: $304,400.00 pluse any additional sums as ordered by the court.\nOccupancy Status: Owner Occuped.\nSubject to any unpaid taxes, municipal liens or other charges and any such taxes, charges, liens, insurance premiums or other advances made by the plaintiff prior to this sale. All Interested parties are to conduct and rely upon their own independant investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and if so the current amount due theron.\n2025 Qtr 2 Due: 05/01/2025 $3,356.25 Open\nSewer: Paterson Sewer Dept. 155 Market St. Paterson, NJ 07501 973-321-1230 Acct:10014028 0\n07/1/2025-09/30/2025 $89.75 Open and due 08/01/2025 $179.26 Open",
+  "extracted": {
+    "lot": "65",
+    "occupancy": "Owner Occuped."
+  },
+  "fields": {
+    "Address": "435 18th Avenue\nPaterson NJ 07504",
+    "Approx. Upset*": "$265,158.91",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 000686 24 CTL#162793",
+    "Defendant": "DONZA J. FRASIER, ET ALS",
+    "Description": "Dimensions of Lot: 65 feet wide by 100 feet long\nNearest Cross Street: E 42nd Street\nEstimated upset bud amount: $304,400.00 pluse any additional sums as ordered by the court.\nOccupancy Status: Owner Occuped.\nSubject to any unpaid taxes, municipal liens or other charges and any such taxes, charges, liens, insurance premiums or other advances made by the plaintiff prior to this sale. All Interested parties are to conduct and rely upon their own independant investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and if so the current amount due theron.\n2025 Qtr 2 Due: 05/01/2025 $3,356.25 Open\nSewer: Paterson Sewer Dept. 155 Market St. Paterson, NJ 07501 973-321-1230 Acct:10014028 0\n07/1/2025-09/30/2025 $89.75 Open and due 08/01/2025 $179.26 Open",
+    "Parcel #": "Tax Lot 9 FKA 11 in BLOCK L1444",
+    "Plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "Property Note": "",
+    "Sales Date": "1/2/2026",
+    "Sheriff #": "F-24001309"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "435 18th Avenue Paterson NJ 07504",
+    "defendant": "DONZA J. FRASIER, ET ALS",
+    "listing_status": null,
+    "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+    "sale_date": "2026-01-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 9 FKA 11 in BLOCK L1444",
+  "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+  "property_note": null,
+  "sale_date": "2026-01-02",
+  "sheriff_number": "F-24001309",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2024-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-17",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-10-21",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-02",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 265158.91,
+  "upset_amount_label": "Approx. Upset*"
+}

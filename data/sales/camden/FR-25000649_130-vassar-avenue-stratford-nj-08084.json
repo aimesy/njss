@@ -1,0 +1,65 @@
+{
+  "address": "130 VASSAR AVENUE STRATFORD NJ 08084",
+  "attorney": "PARKER MCCAY P.A.",
+  "attorney_phone": "(856) 596-8900",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00937624",
+  "current_status": "Scheduled",
+  "defendant": "CHARLES S. REISS; MRS. CHARLES S. REISS, HIS WIFE",
+  "extracted": {},
+  "fields": {
+    "Address": "130 VASSAR AVENUE\nSTRATFORD NJ 08084",
+    "Approx. Upset*": "$171,709.67",
+    "Attorney": "PARKER MCCAY P.A.",
+    "Attorney Phone": "(856) 596-8900",
+    "Court Case #": "F00937624",
+    "Defendant": "CHARLES S. REISS; MRS. CHARLES S. REISS, HIS WIFE",
+    "Parcel #": "TAX LOT #7 BLOCK #27",
+    "Plaintiff": "GATEWAY MORTGAGE, A DIVISION OF GATEWAY FIRST BANK,",
+    "Property Note": "*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. if any.",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "FR-25000649"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "130 VASSAR AVENUE STRATFORD NJ 08084",
+    "defendant": "CHARLES S. REISS; MRS. CHARLES S. REISS, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "GATEWAY MORTGAGE, A DIVISION OF GATEWAY FIRST BANK,",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT #7 BLOCK #27",
+  "plaintiff": "GATEWAY MORTGAGE, A DIVISION OF GATEWAY FIRST BANK,",
+  "property_note": "*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. if any.",
+  "sale_date": "2026-09-15",
+  "sheriff_number": "FR-25000649",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-05-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 171709.67,
+  "upset_amount_label": "Approx. Upset*"
+}

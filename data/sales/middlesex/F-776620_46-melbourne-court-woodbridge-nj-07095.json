@@ -1,0 +1,64 @@
+{
+  "address": "46 MELBOURNE COURT WOODBRIDGE NJ 07095",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01118823",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "NICHOLAS S. MURAWSKI A/K/A NICHOLAS MURAWSKI",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$381,927.12",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01118823",
+    "Defendant": "NICHOLAS S. MURAWSKI A/K/A NICHOLAS MURAWSKI",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 13 BLOCK 563.29",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Address": "46 MELBOURNE COURT\nWOODBRIDGE NJ 07095",
+    "Property Note": "A/K/A LOT 21.02 BLOCK 563.12 F/K/A 563.CC",
+    "Sale Date": "1/22/2025",
+    "Sheriff #": "F-776620"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 381927.12,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "46 MELBOURNE COURT WOODBRIDGE NJ 07095",
+    "defendant": "NICHOLAS S. MURAWSKI A/K/A NICHOLAS MURAWSKI",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2025-01-22"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 13 BLOCK 563.29",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": "A/K/A LOT 21.02 BLOCK 563.12 F/K/A 563.CC",
+  "sale_date": "2025-01-22",
+  "sheriff_number": "F-776620",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-01-22",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-01-22",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-12-18",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

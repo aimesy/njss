@@ -1,0 +1,60 @@
+{
+  "address": "104 JORDYN COURT MATAWAN NJ 07747",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00417526",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "JOSEPH ALDORASI, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$127,901.66",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00417526",
+    "Defendant": "JOSEPH ALDORASI, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 97 BLOCK 11252.11",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Address": "104 JORDYN COURT\nMATAWAN NJ 07747",
+    "Property Note": "The property to be sold is located in the TOWNSHIP of OLD BRIDGE in the County of MIDDLESEX and State of New Jersey.\nCommonly known as 104 JORDYN COURT, MATAWAN, NJ 07747\nTax LOT 97 Block 11252.11\nDimensions of Lot: 100 feet wide by 125 feet long\nNearest Cross Street: Amboy Road\nEstimated upset bid amount: $140,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\n2026 Qtr 3 Due: 08/01/2026 $4,797.53 OPEN\n2026 Qtr 4 Due: 11/01/2026 $4,797.53 OPEN\n2027 Qtr 1 Due: 02/01/2027 $4,421.50 OPEN\n2027 Qtr 2 Due: 05/01/2027 $4,421.50 OPEN",
+    "Sale Date": "11/4/2026",
+    "Sheriff #": "F-26002277"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 127901.66,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "104 JORDYN COURT MATAWAN NJ 07747",
+    "defendant": "JOSEPH ALDORASI, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 97 BLOCK 11252.11",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": "The property to be sold is located in the TOWNSHIP of OLD BRIDGE in the County of MIDDLESEX and State of New Jersey.\nCommonly known as 104 JORDYN COURT, MATAWAN, NJ 07747\nTax LOT 97 Block 11252.11\nDimensions of Lot: 100 feet wide by 125 feet long\nNearest Cross Street: Amboy Road\nEstimated upset bid amount: $140,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\n2026 Qtr 3 Due: 08/01/2026 $4,797.53 OPEN\n2026 Qtr 4 Due: 11/01/2026 $4,797.53 OPEN\n2027 Qtr 1 Due: 02/01/2027 $4,421.50 OPEN\n2027 Qtr 2 Due: 05/01/2027 $4,421.50 OPEN",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "F-26002277",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

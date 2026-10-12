@@ -1,0 +1,80 @@
+{
+  "address": "58 Brighton Avenue Deal NJ 07723",
+  "attorney": "Goldenberg Mackler Sayegh Mintz Pfeffer Bonchi & Gill PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00449723",
+  "current_status": "Scheduled",
+  "defendant": "Habib Tawil and Lilly Tawil, husband and wife, et al",
+  "description": "Size of Property: 88' x 223.50' x 88' x 223.50\nNearest Intersection: Ocean Avenue N\nJudgment Amount: $1,909,815.48\n(besides interest, costs and fees)\nUpset Price: $7,087,016.38\nOccupancy: Occupied Residential Property\nSale Subject To:\nSewer Service Charges In The Approximate Amount of $2,125.16 Plus Interest To Date.",
+  "extracted": {
+    "occupancy": "Occupied Residential Property",
+    "upset_amount": 7087016.38
+  },
+  "fields": {
+    "Address": "58 Brighton Avenue\nDeal NJ 07723",
+    "Approx. Judgment*": "$6,084,946.52",
+    "Attorney": "Goldenberg Mackler Sayegh Mintz Pfeffer Bonchi & Gill PC",
+    "Court Case #": "F00449723",
+    "Defendant": "Habib Tawil and Lilly Tawil, husband and wife, et al",
+    "Description": "Size of Property: 88' x 223.50' x 88' x 223.50\nNearest Intersection: Ocean Avenue N\nJudgment Amount: $1,909,815.48\n(besides interest, costs and fees)\nUpset Price: $7,087,016.38\nOccupancy: Occupied Residential Property\nSale Subject To:\nSewer Service Charges In The Approximate Amount of $2,125.16 Plus Interest To Date.",
+    "Parcel #": "Tax Lot: 2 Block: 30 Tax Map of Borough of Deal",
+    "Plaintiff": "Joseph Lazarus and Renah Lazarus",
+    "Property Note": "",
+    "Sales Date": "9/29/2025",
+    "Sheriff #": "FOR-25000223"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 6084946.52,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "58 Brighton Avenue Deal NJ 07723",
+    "defendant": "Habib Tawil and Lilly Tawil, husband and wife, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Joseph Lazarus and Renah Lazarus",
+    "sale_date": "2025-09-29"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 2 Block: 30 Tax Map of Borough of Deal",
+  "plaintiff": "Joseph Lazarus and Renah Lazarus",
+  "property_note": null,
+  "sale_date": "2025-09-29",
+  "sheriff_number": "FOR-25000223",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-29",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    }
+  ]
+}

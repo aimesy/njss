@@ -1,0 +1,55 @@
+{
+  "address": "144-146 VERNON Avenue Paterson NJ 07503",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 012978 24 CTL #163103",
+  "current_status": "Cancelled",
+  "defendant": "NELSON GUZMAN, ET AL.",
+  "description": "Dimensions of Lot Aprroximately: 150.00 feet wide by 50.00 feet long\nNearest Cross Street: Florida Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $574,436.30\nThe upset price is not the same as a payoff or judgement redemption amount\nProperty is owner occupied",
+  "extracted": {
+    "lot": "Aprroximately"
+  },
+  "fields": {
+    "Address": "144-146 VERNON Avenue\nPaterson NJ 07503",
+    "Approx. Upset*": "$530,456.72",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F 012978 24 CTL #163103",
+    "Defendant": "NELSON GUZMAN, ET AL.",
+    "Description": "Dimensions of Lot Aprroximately: 150.00 feet wide by 50.00 feet long\nNearest Cross Street: Florida Avenue\nThe estimated upset amount for the scheduled sheriff sale is currently $574,436.30\nThe upset price is not the same as a payoff or judgement redemption amount\nProperty is owner occupied",
+    "Parcel #": "Tax Lot 12 Block 7608",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "4/6/2026",
+    "Sheriff #": "F-25001853"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "144-146 VERNON Avenue Paterson NJ 07503",
+    "defendant": "NELSON GUZMAN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-04-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 12 Block 7608",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-04-06",
+  "sheriff_number": "F-25001853",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-03-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 530456.72,
+  "upset_amount_label": "Approx. Upset*"
+}

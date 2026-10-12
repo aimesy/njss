@@ -1,0 +1,60 @@
+{
+  "address": "805 Alpine Trail Neptune NJ 07753",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01025724",
+  "current_status": "Scheduled",
+  "defendant": "Richard Flores",
+  "description": "Approximate Dimensions: Condominium\nNearest Cross Street: Condominium\nUpset price is: $245,118.81\nOccupancy status: OCCUPIED\nSubject to: 2023 Sewer Lien: Certificate Number: 24-00085; Sold: 07/24/24; Amount $481.68\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 245118.81
+  },
+  "fields": {
+    "Address": "805 Alpine Trail\nNeptune NJ 07753",
+    "Approx. Judgment*": "$225,877.38",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F01025724",
+    "Defendant": "Richard Flores",
+    "Description": "Approximate Dimensions: Condominium\nNearest Cross Street: Condominium\nUpset price is: $245,118.81\nOccupancy status: OCCUPIED\nSubject to: 2023 Sewer Lien: Certificate Number: 24-00085; Sold: 07/24/24; Amount $481.68\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "Tax Lot: 3 fka 37, qual. C0808 Block: 1402 fka 3000 Located on the tax map of the Township of Neptune",
+    "Plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Property Note": "",
+    "Sales Date": "6/18/2025",
+    "Sheriff #": "FOR-25000391"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 225877.38,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "805 Alpine Trail Neptune NJ 07753",
+    "defendant": "Richard Flores",
+    "listing_status": "Settled",
+    "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "sale_date": "2025-06-18"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 3 fka 37, qual. C0808 Block: 1402 fka 3000 Located on the tax map of the Township of Neptune",
+  "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+  "property_note": null,
+  "sale_date": "2025-06-18",
+  "sheriff_number": "FOR-25000391",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-18",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "address": "77 CONDUIT WAY COLONIA NJ 07067",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00344025",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "ARMANDO NAJAR AKA ARMANDO NAJA, JR. ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$197,008.22",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00344025",
+    "Defendant": "ARMANDO NAJAR AKA ARMANDO NAJA, JR. ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 70 BLOCK 517.12 FKA 517.L",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2",
+    "Property Address": "77 CONDUIT WAY\nCOLONIA NJ 07067",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25002363"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 197008.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "77 CONDUIT WAY COLONIA NJ 07067",
+    "defendant": "ARMANDO NAJAR AKA ARMANDO NAJA, JR. ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 70 BLOCK 517.12 FKA 517.L",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25002363",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

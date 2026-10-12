@@ -1,0 +1,64 @@
+{
+  "address": "70 CREEMER AVENUE ISELIN NJ 08830",
+  "attorney": "GROSS POLOWY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01078024",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "PADMA J. SIDANA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$151,000.40",
+    "Attorney": "GROSS POLOWY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F01078024",
+    "Defendant": "PADMA J. SIDANA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 19.02 BLOCK 376.04",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+    "Property Address": "70 CREEMER AVENUE\nISELIN NJ 08830",
+    "Property Note": "",
+    "Sale Date": "1/7/2026",
+    "Sheriff #": "F-25002220"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 151000.4,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "70 CREEMER AVENUE ISELIN NJ 08830",
+    "defendant": "PADMA J. SIDANA, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 19.02 BLOCK 376.04",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25002220",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-31",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

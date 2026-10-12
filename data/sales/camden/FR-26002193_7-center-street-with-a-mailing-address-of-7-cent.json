@@ -1,0 +1,49 @@
+{
+  "address": "7 CENTER STREET WITH A MAILING ADDRESS OF 7 CENTER STREET, WESTMONT, NJ 08108, TOWNSHIP OF HADDON NJ 08108",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01044525",
+  "current_status": "Scheduled",
+  "defendant": "VERNON C. STAMM AND DIANE M. DEHAVEN, HUSBAND AND WIFE,",
+  "extracted": {},
+  "fields": {
+    "Address": "7 CENTER STREET\nWITH A MAILING ADDRESS OF 7 CENTER STREET, WESTMONT, NJ 08108,\nTOWNSHIP OF HADDON NJ 08108",
+    "Approx. Upset*": "$56,224.38",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01044525",
+    "Defendant": "VERNON C. STAMM AND DIANE M. DEHAVEN, HUSBAND AND WIFE,",
+    "Parcel #": "LOT14 F/K/A LOT 19, BLOCK 21.07 F/K/A BLOCK 75",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002193"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7 CENTER STREET WITH A MAILING ADDRESS OF 7 CENTER STREET, WESTMONT, NJ 08108, TOWNSHIP OF HADDON NJ 08108",
+    "defendant": "VERNON C. STAMM AND DIANE M. DEHAVEN, HUSBAND AND WIFE,",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT14 F/K/A LOT 19, BLOCK 21.07 F/K/A BLOCK 75",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002193",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 56224.38,
+  "upset_amount_label": "Approx. Upset*"
+}

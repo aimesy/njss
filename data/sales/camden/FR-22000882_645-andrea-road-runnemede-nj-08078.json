@@ -1,0 +1,77 @@
+{
+  "address": "645 ANDREA ROAD RUNNEMEDE NJ 08078",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00027317",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "MARIO M. PANARA AND NANCY C. PANARA, HUSBAND AND WIFE,",
+  "extracted": {},
+  "fields": {
+    "Address": "645 ANDREA ROAD\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$357,818.30",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00027317",
+    "Defendant": "MARIO M. PANARA AND NANCY C. PANARA, HUSBAND AND WIFE,",
+    "Parcel #": "11, BLOCK 166",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR REGISTERED\nHOLDERS OF LONG BEACH MORTGAGE LOAN TRUST 2006-1, ASSET-BACKED CERTIFICATES,\nSERIES 2006-1 CERTIFICATES, SERIES 2006-1",
+    "Property Note": "SEWER-07/01/2025-12/31/2025 $99.00 OPEN PLUS PENALTY $99.00 OPEN PLUS PENALTY; OWED IN ARREARS\nCCMUA- 12/01/2025- 02/28/2026 $93.00 OPEN PLUS PENALTY $279.00 OPEN PLUS PENALTY; OWED IN ARREARS\nVACANT LOT CHARGE: TO: 10/05/2022 $500.00 OPEN PLUS PENALTY\nTO THE BEST OF THIS FIRMS KNOWLEDGE, THE PROPERTY IN NOT AN AFFORDABLE UNIT SUBJECT TO FAIR HOUSING ACT.",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-22000882"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "645 ANDREA ROAD RUNNEMEDE NJ 08078",
+    "defendant": "MARIO M. PANARA AND NANCY C. PANARA, HUSBAND AND WIFE,",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR REGISTERED \nHOLDERS OF LONG BEACH MORTGAGE LOAN TRUST 2006-1, ASSET-BACKED CERTIFICATES, \nSERIES 2006-1 CERTIFICATES, SERIES 2006-1",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "11, BLOCK 166",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE, IN TRUST FOR REGISTERED HOLDERS OF LONG BEACH MORTGAGE LOAN TRUST 2006-1, ASSET-BACKED CERTIFICATES, SERIES 2006-1 CERTIFICATES, SERIES 2006-1",
+  "property_note": "SEWER-07/01/2025-12/31/2025 $99.00 OPEN PLUS PENALTY $99.00 OPEN PLUS PENALTY; OWED IN ARREARS\nCCMUA- 12/01/2025- 02/28/2026 $93.00 OPEN PLUS PENALTY $279.00 OPEN PLUS PENALTY; OWED IN ARREARS\nVACANT LOT CHARGE: TO: 10/05/2022 $500.00 OPEN PLUS PENALTY\nTO THE BEST OF THIS FIRMS KNOWLEDGE, THE PROPERTY IN NOT AN AFFORDABLE UNIT SUBJECT TO FAIR HOUSING ACT.",
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-22000882",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2022-06-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-11-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-01-11",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 357818.3,
+  "upset_amount_label": "Approx. Upset*"
+}

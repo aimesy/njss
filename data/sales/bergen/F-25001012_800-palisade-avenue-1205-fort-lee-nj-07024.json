@@ -1,0 +1,63 @@
+{
+  "address": "800 PALISADE AVENUE #1205 FORT LEE NJ 07024",
+  "attorney": "STEPHEN G. PAPE ATTORNEY AT LAW",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00334024",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "KITTY G JONES; JANET PAGAN; JOSE ALEJANDRO; ET AL",
+  "description": "ESTIMATED UPSET SHERIFF'S SALE BID AMOUNT: $759,000.00\nSUBJECT TO ANY FURTHER ORDERS OF ADDITIONAL SUMS EXECUTED BY THE COURT.\nOCCUPANCY: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "800 PALISADE AVENUE\n#1205\nFORT LEE NJ 07024",
+    "Approx. Upset*": "$691,789.24",
+    "Attorney": "STEPHEN G. PAPE ATTORNEY AT LAW",
+    "Court Case #": "F00334024",
+    "Defendant": "KITTY G JONES; JANET PAGAN; JOSE ALEJANDRO; ET AL",
+    "Description": "ESTIMATED UPSET SHERIFF'S SALE BID AMOUNT: $759,000.00\nSUBJECT TO ANY FURTHER ORDERS OF ADDITIONAL SUMS EXECUTED BY THE COURT.\nOCCUPANCY: OCCUPIED",
+    "Parcel #": "LOT 1 C1205, BLOCK 651",
+    "Plaintiff": "FIDELITY BANK, NA",
+    "Property Note": "",
+    "Sales Date": "10/24/2025",
+    "Sheriff #": "F-25001012"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "800 PALISADE AVENUE #1205 FORT LEE NJ 07024",
+    "defendant": "KITTY G JONES; JANET PAGAN; JOSE ALEJANDRO; ET AL",
+    "listing_status": null,
+    "plaintiff": "FIDELITY BANK, NA",
+    "sale_date": "2025-10-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 1 C1205, BLOCK 651",
+  "plaintiff": "FIDELITY BANK, NA",
+  "property_note": null,
+  "sale_date": "2025-10-24",
+  "sheriff_number": "F-25001012",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-06-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 691789.24,
+  "upset_amount_label": "Approx. Upset*"
+}

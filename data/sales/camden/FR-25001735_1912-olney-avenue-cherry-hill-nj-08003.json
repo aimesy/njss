@@ -1,0 +1,57 @@
+{
+  "address": "1912 OLNEY AVENUE CHERRY HILL NJ 08003",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "(973) 538-4700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F184423",
+  "current_status": "Scheduled",
+  "defendant": "JOSEPH H. OSBORNE JR., INDIVIDUALLY AND AS EXECUTOR OF THE ESTATE OF BARBARA A. OSBORNE, ET ALS.",
+  "extracted": {},
+  "fields": {
+    "Address": "1912 OLNEY AVENUE\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$186,869.81",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "(973) 538-4700",
+    "Court Case #": "F184423",
+    "Defendant": "JOSEPH H. OSBORNE JR., INDIVIDUALLY AND AS EXECUTOR\nOF THE ESTATE OF BARBARA A. OSBORNE, ET ALS.",
+    "Parcel #": "Tax Lot No. 8 in Block No. 479.01",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Note": "PRIOR LIENS/ENCUMBRANCES\n1 ST QTR TAXES OPEN PLUS PENALTY $1,394.01\n2 ND QTR TAXES OPEN PLUS PENALTY $1,394.00\nSEWER OPEN PLUS PENALTY $95.00\nCCMUA OPEN PLUS PENALTY $832.36\nMISCELLANEOUS PROPERIY MAINTENANCE $154.05\nTOTAL AS OF June 19, 2026: $3,869.42",
+    "Sales Date": "8/7/2026",
+    "Sheriff #": "FR-25001735"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1912 OLNEY AVENUE CHERRY HILL NJ 08003",
+    "defendant": "JOSEPH H. OSBORNE JR., INDIVIDUALLY AND AS EXECUTOR \nOF THE ESTATE OF BARBARA A. OSBORNE, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-08-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot No. 8 in Block No. 479.01",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": "PRIOR LIENS/ENCUMBRANCES\n1 ST QTR TAXES OPEN PLUS PENALTY $1,394.01\n2 ND QTR TAXES OPEN PLUS PENALTY $1,394.00\nSEWER OPEN PLUS PENALTY $95.00\nCCMUA OPEN PLUS PENALTY $832.36\nMISCELLANEOUS PROPERIY MAINTENANCE $154.05\nTOTAL AS OF June 19, 2026: $3,869.42",
+  "sale_date": "2026-08-07",
+  "sheriff_number": "FR-25001735",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-07",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 186869.81,
+  "upset_amount_label": "Approx. Upset*"
+}

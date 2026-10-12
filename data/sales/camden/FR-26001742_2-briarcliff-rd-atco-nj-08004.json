@@ -1,0 +1,53 @@
+{
+  "address": "2 BRIARCLIFF RD ATCO NJ 08004",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00186126",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "LUIS E. CINTRON, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "2 BRIARCLIFF RD\nATCO NJ 08004",
+    "Approx. Upset*": "$379,484.54",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00186126",
+    "Defendant": "LUIS E. CINTRON, ET AL.",
+    "Parcel #": "LOT 4, BLOCK 2402 ON THE OFFICAL TAX MAP OF THE TOWNSHIP OF WINSLOW.",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.",
+    "Sales Date": "9/2/2026",
+    "Sheriff #": "FR-26001742"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2 BRIARCLIFF RD ATCO NJ 08004",
+    "defendant": "LUIS E. CINTRON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-09-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 4, BLOCK 2402 ON THE OFFICAL TAX MAP OF THE TOWNSHIP OF WINSLOW.",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.",
+  "sale_date": "2026-09-02",
+  "sheriff_number": "FR-26001742",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 379484.54,
+  "upset_amount_label": "Approx. Upset*"
+}

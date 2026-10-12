@@ -1,0 +1,65 @@
+{
+  "address": "50-58 GARRISON Street Paterson NJ 07522",
+  "attorney": "BERG & DAVID PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 007864 22 CTRL#162969",
+  "current_status": "Cancelled",
+  "defendant": "DIEGO GOMEZ; CANDIDA GOMEZ; MIDLAND FUNDING LLC",
+  "description": "Dimensions (Approx.): .1997 acres of land\nNumber of feet to Nearest Cross Street: approximately 50 feet\nThis concise statement does not constitute a full legal description.\nThe full legal description can be found in the Office of the Clerk of Passaic County in Book X39 at Page 282.\nPlaintiff upset bid: $130,000.00",
+  "extracted": {},
+  "fields": {
+    "Address": "50-58 GARRISON Street\nPaterson NJ 07522",
+    "Approx. Upset*": "$133,739.51",
+    "Attorney": "BERG & DAVID PLLC",
+    "Court Case #": "F 007864 22 CTRL#162969",
+    "Defendant": "DIEGO GOMEZ; CANDIDA GOMEZ; MIDLAND FUNDING LLC",
+    "Description": "Dimensions (Approx.): .1997 acres of land\nNumber of feet to Nearest Cross Street: approximately 50 feet\nThis concise statement does not constitute a full legal description.\nThe full legal description can be found in the Office of the Clerk of Passaic County in Book X39 at Page 282.\nPlaintiff upset bid: $130,000.00",
+    "Parcel #": "Tax Lot : 11 in Block#:612",
+    "Plaintiff": "ARCPE 1 LLC",
+    "Property Note": "",
+    "Sales Date": "10/24/2025",
+    "Sheriff #": "F-25000820"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "50-58 GARRISON Street Paterson NJ 07522",
+    "defendant": "DIEGO GOMEZ; CANDIDA GOMEZ; MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "ARCPE 1 LLC",
+    "sale_date": "2025-10-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot : 11 in Block#:612",
+  "plaintiff": "ARCPE 1 LLC",
+  "property_note": null,
+  "sale_date": "2025-10-24",
+  "sheriff_number": "F-25000820",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-07-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-30",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 133739.51,
+  "upset_amount_label": "Approx. Upset*"
+}

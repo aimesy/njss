@@ -1,0 +1,53 @@
+{
+  "address": "17 WRIGHT AVENUE LINDENWOLD NJ 08021",
+  "attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+  "attorney_phone": "(856) 330-6200 EXT 12 SYLVIA",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00306525",
+  "current_status": "Purchased",
+  "defendant": "JASMINE M POLK A/K/A JASMINE POLK; MR. POLK, HUSBAND OF JASMINE M. POLK A/K/A JASMINE POLK,",
+  "extracted": {},
+  "fields": {
+    "Address": "17 WRIGHT AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$62,079.00",
+    "Attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+    "Attorney Phone": "(856) 330-6200 EXT 12 SYLVIA",
+    "Court Case #": "F00306525",
+    "Defendant": "JASMINE M POLK A/K/A JASMINE POLK; MR. POLK, HUSBAND OF JASMINE M. POLK\nA/K/A JASMINE POLK,",
+    "Parcel #": "",
+    "Plaintiff": "FIRST HARVEST CREDIT UNION",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25002137"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "17 WRIGHT AVENUE LINDENWOLD NJ 08021",
+    "defendant": "JASMINE M POLK A/K/A JASMINE POLK; MR. POLK, HUSBAND OF JASMINE M. POLK \nA/K/A JASMINE POLK,",
+    "listing_status": null,
+    "plaintiff": "FIRST HARVEST CREDIT UNION",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "FIRST HARVEST CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25002137",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 62079.0,
+  "upset_amount_label": "Approx. Upset*"
+}

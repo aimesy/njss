@@ -1,0 +1,88 @@
+{
+  "address": "1007 NORTH OAKS BOULEVARD NORTH BRUNSWICK NJ 08902",
+  "attorney": "HUESTON MCNULTY",
+  "attorney_file_number": null,
+  "attorney_phone": "973-377-0200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01107123",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "GIANNI SPRADLEY, AN ADULT",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$60,293.92",
+    "Attorney": "HUESTON MCNULTY",
+    "Attorney File #": "",
+    "Attorney Phone": "973-377-0200",
+    "Court Case #": "F01107123",
+    "Defendant": "GIANNI SPRADLEY, AN ADULT",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT NO. 9.037 BLOCK NO. 140.01",
+    "Plaintiff": "THE OAKS AT NORTH BRUNSWICK CONDOMINIUM ASSOCIATION, INC., A NJ NON-PROFIT CORPORATION",
+    "Property Address": "1007 NORTH OAKS BOULEVARD\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "",
+    "Sale Date": "8/6/2025",
+    "Sheriff #": "F-776607"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 60293.92,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1007 NORTH OAKS BOULEVARD NORTH BRUNSWICK NJ 08902",
+    "defendant": "GIANNI SPRADLEY, AN ADULT",
+    "listing_status": "Settled",
+    "plaintiff": "THE OAKS AT NORTH BRUNSWICK CONDOMINIUM ASSOCIATION, INC., A NJ NON-PROFIT CORPORATION",
+    "sale_date": "2025-08-06"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT NO. 9.037 BLOCK NO. 140.01",
+  "plaintiff": "THE OAKS AT NORTH BRUNSWICK CONDOMINIUM ASSOCIATION, INC., A NJ NON-PROFIT CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-08-06",
+  "sheriff_number": "F-776607",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-06",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-05-28",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

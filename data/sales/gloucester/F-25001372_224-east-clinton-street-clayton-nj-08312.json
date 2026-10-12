@@ -1,0 +1,63 @@
+{
+  "address": "224 EAST CLINTON STREET CLAYTON NJ 08312",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-005766-25",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "MILDRED ZERNONE",
+  "description": "ESTIMATED UPSET BID: $303,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "224 EAST CLINTON STREET\nCLAYTON NJ 08312",
+    "Approximate Judgment": "$282,266.30",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F-005766-25",
+    "Defendant": "MILDRED ZERNONE",
+    "Description": "ESTIMATED UPSET BID: $303,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT: 3 BLOCK: 1501",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "BOROUGH OF CLAYTON\nCOUNTY OF GLOUCESTER\n224 EAST CLINTON STREET CLAYTON, NJ 08312\nLOT: 3 BLOCK: 1501\nAPPROXIMATE DIMENSIONS: 63' x 131.45'\nNEAREST CROSS STREET: NORTH NEW STREET\nESTIMATED UPSET BID: $303,000.00\nOCCUPANCY STATUS: UNKNOWN\nPRIORITY TAX LIEN HOLDER: FIG 20, LLC FBO SEC PTY HOLDS TAX SALE CERTIFICATE NO.25-00012 IN THE AMOUNT OF $287.14 AS OF 09/30/2025\n***LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTOR FOR THE AMOUNT (THE \"REDEMPTION SUM\") NECESSARY TO REDEEM.***",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "F-25001372"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 282266.3,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "224 EAST CLINTON STREET CLAYTON NJ 08312",
+    "defendant": "MILDRED ZERNONE",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 3 BLOCK: 1501",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": "BOROUGH OF CLAYTON\nCOUNTY OF GLOUCESTER\n224 EAST CLINTON STREET CLAYTON, NJ 08312\nLOT: 3 BLOCK: 1501\nAPPROXIMATE DIMENSIONS: 63' x 131.45'\nNEAREST CROSS STREET: NORTH NEW STREET\nESTIMATED UPSET BID: $303,000.00\nOCCUPANCY STATUS: UNKNOWN\nPRIORITY TAX LIEN HOLDER: FIG 20, LLC FBO SEC PTY HOLDS TAX SALE CERTIFICATE NO.25-00012 IN THE AMOUNT OF $287.14 AS OF 09/30/2025\n***LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTOR FOR THE AMOUNT (THE \"REDEMPTION SUM\") NECESSARY TO REDEEM.***",
+  "sale_date": "2026-04-15",
+  "sheriff_number": "F-25001372",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "address": "14 John Street Clifton NJ 07013",
+  "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 014236 23 CTRL# 162957",
+  "current_status": "Cancelled",
+  "defendant": "MIWON LEE, ET AL.",
+  "description": "Approximate Dimensions: 61' x 100'\nNearest cross street: John Street\nThe Plaintiff's Upset Bid presently approximates $777,200.00\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the Sale will have information regarding the surplus, if any.\nPriority Tax Lien Holder: FIG 20, LLC FBO SEC PTY holds Tax Sale Certificate No. 24-00184 in the amount of $1,461.46 as of 10/17/2024.\nLien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "14 John Street\nClifton NJ 07013",
+    "Approx. Upset*": "$725,101.36",
+    "Attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+    "Court Case #": "F 014236 23 CTRL# 162957",
+    "Defendant": "MIWON LEE, ET AL.",
+    "Description": "Approximate Dimensions: 61' x 100'\nNearest cross street: John Street\nThe Plaintiff's Upset Bid presently approximates $777,200.00\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the Sale will have information regarding the surplus, if any.\nPriority Tax Lien Holder: FIG 20, LLC FBO SEC PTY holds Tax Sale Certificate No. 24-00184 in the amount of $1,461.46 as of 10/17/2024.\nLien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.",
+    "Parcel #": "Tax Lot: 9 Tax Block: 22.17",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, ETC.,",
+    "Property Note": "",
+    "Sales Date": "2/9/2026",
+    "Sheriff #": "F-25000699"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "14 John Street Clifton NJ 07013",
+    "defendant": "MIWON LEE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, ETC.,",
+    "sale_date": "2026-02-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 9 Tax Block: 22.17",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, ETC.,",
+  "property_note": null,
+  "sale_date": "2026-02-09",
+  "sheriff_number": "F-25000699",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-15",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-08-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-07",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-02-09",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 725101.36,
+  "upset_amount_label": "Approx. Upset*"
+}

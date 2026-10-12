@@ -1,0 +1,72 @@
+{
+  "address": "1213-1215 PUTNAM AVENUE PLAINFIELD NJ 07060",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01297423",
+  "current_status": "Settled",
+  "defendant": "PPS PROPERTY 1213-1215 PUTNAM AVE LLC; MARIO BAROHONA, TENANT",
+  "description": "LOT 23 BLOCK 636",
+  "extracted": {
+    "block": "636",
+    "lot": "23"
+  },
+  "fields": {
+    "Address": "1213-1215 PUTNAM AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$492,482.76",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Court Case #": "F01297423",
+    "Defendant": "PPS PROPERTY 1213-1215 PUTNAM AVE LLC; MARIO BAROHONA, TENANT",
+    "Description": "LOT 23 BLOCK 636",
+    "Parcel #": "LOT 23 BLOCK 636",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2023-4",
+    "Property Note": "",
+    "Sales Date": "1/9/2026",
+    "Sheriff #": "CH-24002007"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1213-1215 PUTNAM AVENUE PLAINFIELD NJ 07060",
+    "defendant": "PPS PROPERTY 1213-1215 PUTNAM AVE LLC; MARIO BAROHONA, TENANT",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2023-4",
+    "sale_date": "2026-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 23 BLOCK 636",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2023-4",
+  "property_note": null,
+  "sale_date": "2026-01-09",
+  "sheriff_number": "CH-24002007",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-10-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 492482.76,
+  "upset_amount_label": "Approx. Upset*"
+}

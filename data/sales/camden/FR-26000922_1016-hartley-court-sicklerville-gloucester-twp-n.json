@@ -1,0 +1,53 @@
+{
+  "address": "1016 HARTLEY COURT SICKLERVILLE(GLOUCESTER TWP) NJ",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00568125",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ANDRE J. HORSEY, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OR THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "1016 HARTLEY COURT\nSICKLERVILLE(GLOUCESTER TWP) NJ",
+    "Approx. Upset*": "$296,500.69",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00568125",
+    "Defendant": "ANDRE J. HORSEY, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES\nAND HIS, HER, THEIR OR ANY OR THEIR SUCCESSORS IN RIGHT, TITLE\nAND INTEREST, ET AL",
+    "Parcel #": "TAX LOT: 71 TAX BLOCK:15703",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "PROPERTY TAX LIEN HOLDER: RTLF-NJ IIB, LLC HOLDS TAX SALE CERTIFICATE NO. 25-05528 IN THE AMOUNT OF $162.53 AS OF 12/30/2025.\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTOR FOR THE AMOUNT (THE \"REDEMPTION SUM\" NECESSARY TO REDEEM.",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-26000922"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1016 HARTLEY COURT SICKLERVILLE(GLOUCESTER TWP) NJ",
+    "defendant": "ANDRE J. HORSEY, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES \nAND HIS, HER, THEIR OR ANY OR THEIR SUCCESSORS IN RIGHT, TITLE \nAND INTEREST, ET AL",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 71 TAX BLOCK:15703",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "PROPERTY TAX LIEN HOLDER: RTLF-NJ IIB, LLC HOLDS TAX SALE CERTIFICATE NO. 25-05528 IN THE AMOUNT OF $162.53 AS OF 12/30/2025.\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTOR FOR THE AMOUNT (THE \"REDEMPTION SUM\" NECESSARY TO REDEEM.",
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-26000922",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 296500.69,
+  "upset_amount_label": "Approx. Upset*"
+}

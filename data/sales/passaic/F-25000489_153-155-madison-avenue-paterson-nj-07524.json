@@ -1,0 +1,72 @@
+{
+  "address": "153-155 MADISON Avenue Paterson NJ 07524",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 006594 24 CTRL# 162940",
+  "current_status": "Rescheduled",
+  "defendant": "JOSE TAVAREZ A/K/A JOSE TAVARES A/K/A JOSE PENA; JUAN GALVAN; MRS. GALVAN, SPOUSE OF JUAN GALVAN; ALERT AMBULANCE SERVICE; UNITED STATES OF AMERICA",
+  "description": "Nearest Cross Street: Fourth Ave\nDimensions of lot: 50 x 100 Occupancy status: Tenant Occupied\nDimensions of lot: 50 x 100 Occupancy Status: Vacant Land\nEstimated upset bid amount: $556,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Tenant Occupied\n*Subject to any upaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed, and if so the current amount thereon.\n2026 Qtr 3 Due: 08/01/2026 $3,655.30 OPEN\nSewer: Paterson Sewer Dept. 155 Market St, Paterson, NJ 07501 973-321-1230 Acct:10019290 0 07/01/26-09/30/2026 $170.50 OPEN AND DUE 08/01/2026 $682.39 OPEN\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton NJ 07011 973-340-4300 Acct: 0017461-088526 To: 07/13/2026 $107.93 OPEN",
+  "extracted": {
+    "lot": "50",
+    "occupancy": "Tenant Occupied"
+  },
+  "fields": {
+    "Address": "153-155 MADISON Avenue\nPaterson NJ 07524",
+    "Approx. Upset*": "$463,183.69",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 006594 24 CTRL# 162940",
+    "Defendant": "JOSE TAVAREZ A/K/A JOSE TAVARES A/K/A JOSE PENA; JUAN GALVAN; MRS. GALVAN, SPOUSE OF JUAN GALVAN; ALERT AMBULANCE SERVICE; UNITED STATES OF AMERICA",
+    "Description": "Nearest Cross Street: Fourth Ave\nDimensions of lot: 50 x 100 Occupancy status: Tenant Occupied\nDimensions of lot: 50 x 100 Occupancy Status: Vacant Land\nEstimated upset bid amount: $556,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Tenant Occupied\n*Subject to any upaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed, and if so the current amount thereon.\n2026 Qtr 3 Due: 08/01/2026 $3,655.30 OPEN\nSewer: Paterson Sewer Dept. 155 Market St, Paterson, NJ 07501 973-321-1230 Acct:10019290 0 07/01/26-09/30/2026 $170.50 OPEN AND DUE 08/01/2026 $682.39 OPEN\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton NJ 07011 973-340-4300 Acct: 0017461-088526 To: 07/13/2026 $107.93 OPEN",
+    "Parcel #": "Tax Lot 7 and 7.01 FKA 4.01 and 4.02 FKA 4 Block 2405 FKA 394 FKA C0394\nTax Lot 7.01 Block 2405 Dimensions of Lot 50x100 Occupancy Status: Vacant Land",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE FOR AMERICAN HOME MORTGAGE INVESTMENT TRUST 2007-1",
+    "Property Note": "",
+    "Sales Date": "11/17/2026",
+    "Sheriff #": "F-25000489"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "153-155 MADISON Avenue Paterson NJ 07524",
+    "defendant": "JOSE TAVAREZ A/K/A JOSE TAVARES A/K/A JOSE PENA; JUAN GALVAN; MRS. GALVAN, SPOUSE OF JUAN GALVAN; ALERT AMBULANCE SERVICE; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE FOR AMERICAN HOME MORTGAGE INVESTMENT TRUST 2007-1",
+    "sale_date": "2026-11-17"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 7 and 7.01 FKA 4.01 and 4.02 FKA 4 Block 2405 FKA 394 FKA C0394 Tax Lot 7.01 Block 2405 Dimensions of Lot 50x100 Occupancy Status: Vacant Land",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE FOR AMERICAN HOME MORTGAGE INVESTMENT TRUST 2007-1",
+  "property_note": null,
+  "sale_date": "2026-11-17",
+  "sheriff_number": "F-25000489",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-15",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-02-24",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-02-24",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-11-17",
+      "status": "Rescheduled"
+    }
+  ],
+  "upset_amount": 463183.69,
+  "upset_amount_label": "Approx. Upset*"
+}

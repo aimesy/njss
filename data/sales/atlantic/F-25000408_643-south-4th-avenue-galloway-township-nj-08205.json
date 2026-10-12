@@ -1,0 +1,58 @@
+{
+  "address": "643 South 4th Avenue Galloway Township NJ 08205",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008026-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "David C. Latsch, his heirs, devisees and personal representatives and his or their, successors in right, title and interest; Lisa Latsch; State of New Jersey and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "643 South 4th Avenue\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$188,427.41",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-008026-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "David C. Latsch, his heirs, devisees and personal representatives and his or their, successors in right, title and interest; Lisa Latsch; State of New Jersey and United States of America",
+    "Plaintiff": "US Bank Trust National Association, not in its individual capacity, but solely as owner trustee for GS Mortgage-Backed Securities Trust 2021-RPL2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "6/12/2025",
+    "Sheriff #": "F-25000408",
+    "Upset Amount": "$212,170.76"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 188427.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "643 South 4th Avenue Galloway Township NJ 08205",
+    "defendant": "David C. Latsch, his...",
+    "listing_status": null,
+    "plaintiff": "US Bank Trust Nation...",
+    "sale_date": "2025-06-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "US Bank Trust National Association, not in its individual capacity, but solely as owner trustee for GS Mortgage-Backed Securities Trust 2021-RPL2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-06-12",
+  "sheriff_number": "F-25000408",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-12",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-06-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 212170.76,
+  "upset_amount_label": "Upset Amount"
+}

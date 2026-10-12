@@ -1,0 +1,62 @@
+{
+  "address": "52 Seventh Street Salem NJ 08079",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-006329-24",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "SNP Enterprises LLC, A New Jersey Limited Liability Company; Lambert Fraser; State of New Jersey",
+  "description": "Approximate Dimensions: 29.00FT x 154.00FT x 29.00FT x 154.00FT\nApproximate Upset Price: $126,787.19.\nThe upset amount may be subject to further orders of additional sums.\nPlease be advised that definitive occupancy information is not available, and Plaintiff makes no representation regarding occupancy.",
+  "extracted": {
+    "upset_amount": 126787.19
+  },
+  "fields": {
+    "Address": "52 Seventh Street\nSalem NJ 08079",
+    "Court Case #": "F-006329-24",
+    "Defendant": "SNP Enterprises LLC, A New Jersey Limited Liability Company; Lambert Fraser; State of New Jersey",
+    "Description": "Approximate Dimensions: 29.00FT x 154.00FT x 29.00FT x 154.00FT\nApproximate Upset Price: $126,787.19.\nThe upset amount may be subject to further orders of additional sums.\nPlease be advised that definitive occupancy information is not available, and Plaintiff makes no representation regarding occupancy.",
+    "Plaintiff": "EF Mortgage LLC",
+    "Sales Date": "03/02/2026 02:00 PM",
+    "Sheriff #": "F-25000242"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "52 Seventh Street Salem NJ 08079",
+    "defendant": "SNP Enterprises LLC, A New Jersey Limited Liability Company; Lambert Fraser; State of New Jersey",
+    "listing_status": null,
+    "plaintiff": "EF Mortgage LLC",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "EF Mortgage LLC",
+  "sale_date": null,
+  "sheriff_number": "F-25000242",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Per Sheriff"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Per Sheriff"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

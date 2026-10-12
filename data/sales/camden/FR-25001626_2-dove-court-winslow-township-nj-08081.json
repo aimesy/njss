@@ -1,0 +1,65 @@
+{
+  "address": "2 DOVE COURT WINSLOW TOWNSHIP NJ 08081",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00691224",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "RODNEY PETERS; MELISSA PETERS; UNITED STATES OF AMERICA; STATE OF NEW JERSEY; ROBERT GAUDIOSI; PROPERTY LIABILITY INSURANCE GUARANTY ASSOCIATION ASSIGNEE OF PUBLIC SERVICE ELECTRIC AND GAS",
+  "extracted": {},
+  "fields": {
+    "Address": "2 DOVE COURT\nWINSLOW TOWNSHIP NJ 08081",
+    "Approx. Upset*": "$209,819.14",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F00691224",
+    "Defendant": "RODNEY PETERS; MELISSA PETERS; UNITED STATES OF\nAMERICA; STATE OF NEW JERSEY; ROBERT GAUDIOSI;\nPROPERTY LIABILITY INSURANCE GUARANTY ASSOCIATION\nASSIGNEE OF PUBLIC SERVICE ELECTRIC AND GAS",
+    "Parcel #": "",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "12/30/2025",
+    "Sheriff #": "FR-25001626"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2 DOVE COURT WINSLOW TOWNSHIP NJ 08081",
+    "defendant": "RODNEY PETERS; MELISSA PETERS; UNITED STATES OF \nAMERICA; STATE OF NEW JERSEY; ROBERT GAUDIOSI; \nPROPERTY LIABILITY INSURANCE GUARANTY ASSOCIATION \nASSIGNEE OF PUBLIC SERVICE ELECTRIC AND GAS",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2025-12-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-12-30",
+  "sheriff_number": "FR-25001626",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 209819.14,
+  "upset_amount_label": "Approx. Upset*"
+}

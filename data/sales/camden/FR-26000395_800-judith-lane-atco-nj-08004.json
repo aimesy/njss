@@ -1,0 +1,65 @@
+{
+  "address": "800 JUDITH LANE ATCO NJ 08004",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01012525",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "WILLIAM WATTS A/K/A WILLIAM L. WATTS; CAROL E. WATTS A/K/A CAROL WATTS; DICKINSON FINANCIAL LLC; KENSEAL CONSTRUCTION PRODUCTS; AHERN RENTALS INC.; THE BREAKERS ON THE BOARDWALK; STATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "800 JUDITH LANE\nATCO NJ 08004",
+    "Approx. Upset*": "$279,442.89",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01012525",
+    "Defendant": "WILLIAM WATTS A/K/A WILLIAM L. WATTS; CAROL E.\nWATTS A/K/A CAROL WATTS; DICKINSON FINANCIAL LLC;\nKENSEAL CONSTRUCTION PRODUCTS; AHERN RENTALS\nINC.; THE BREAKERS ON THE BOARDWALK; STATE OF\nNEW JERSEY; UNITED STATES OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, NATIONAL, AS TRUSTEE FOR\nABFC 2004-OPT5 TRUST, ABFC ASSETBACKED\nCERTIFICATES, SERIES 2004-OPT5",
+    "Property Note": "",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-26000395"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "800 JUDITH LANE ATCO NJ 08004",
+    "defendant": "WILLIAM WATTS A/K/A WILLIAM L. WATTS; CAROL E. \nWATTS A/K/A CAROL WATTS; DICKINSON FINANCIAL LLC; \nKENSEAL CONSTRUCTION PRODUCTS; AHERN RENTALS \nINC.; THE BREAKERS ON THE BOARDWALK; STATE OF \nNEW JERSEY; UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, NATIONAL, AS TRUSTEE FOR \nABFC 2004-OPT5 TRUST, ABFC ASSETBACKED \nCERTIFICATES, SERIES 2004-OPT5",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, NATIONAL, AS TRUSTEE FOR ABFC 2004-OPT5 TRUST, ABFC ASSETBACKED CERTIFICATES, SERIES 2004-OPT5",
+  "property_note": null,
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-26000395",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 279442.89,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,65 @@
+{
+  "address": "436 WALNUT AVENUE LINDENWOLD NJ 08021",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00173224",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "JAMES L. BROOKS; ALYSSA R. TAYLOR ; CAPE MAY COUNTY SOCIAL SERVICE ; CAVALRY SPV I , LLC ASSIGNEE OF CITIBANK, N.A./MY BEST BUY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "436 WALNUT AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$179,060.52",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00173224",
+    "Defendant": "JAMES L. BROOKS; ALYSSA R. TAYLOR ; CAPE MAY COUNTY SOCIAL SERVICE ;\nCAVALRY SPV I , LLC ASSIGNEE OF CITIBANK, N.A./MY BEST BUY; STATE OF\nNEW JERSEY; UNITED STATES OF AMERICA,",
+    "Parcel #": "TAX LOT(S): 26, IN BLOCK: 102.02",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY\nAS TRUSTEE FOR RMTP TRUST, SERIES 2021 BKM-TT-V,",
+    "Property Note": "TAX CERTIFICATE\nRECORDED: JANUARY 05, 2023\nHOLDER: FIG 20, LLC FBO SEC PTY\nAMOUNT: $247.55\nBOOK:12261\nPAGE:270",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-25002531"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "436 WALNUT AVENUE LINDENWOLD NJ 08021",
+    "defendant": "JAMES L. BROOKS; ALYSSA R. TAYLOR ; CAPE MAY COUNTY SOCIAL SERVICE ; \n CAVALRY SPV I , LLC ASSIGNEE OF CITIBANK, N.A./MY BEST BUY; STATE OF \nNEW JERSEY; UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY \n AS TRUSTEE FOR RMTP TRUST, SERIES 2021 BKM-TT-V,",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT(S): 26, IN BLOCK: 102.02",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMTP TRUST, SERIES 2021 BKM-TT-V,",
+  "property_note": "TAX CERTIFICATE\nRECORDED: JANUARY 05, 2023\nHOLDER: FIG 20, LLC FBO SEC PTY\nAMOUNT: $247.55\nBOOK:12261\nPAGE:270",
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-25002531",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 179060.52,
+  "upset_amount_label": "Approx. Upset*"
+}

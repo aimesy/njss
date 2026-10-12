@@ -1,0 +1,57 @@
+{
+  "address": null,
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02223918",
+  "current_status": "Scheduled",
+  "defendant": "Robert M. Hughes, et al.",
+  "description": "Dimensions: 110 x 75\nNearest Cross Street: Oak Glen Road\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98).\nN/A",
+  "extracted": {},
+  "fields": {
+    "Address": "",
+    "Approx. Judgment*": "$233,322.55",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F02223918",
+    "Defendant": "Robert M. Hughes, et al.",
+    "Description": "Dimensions: 110 x 75\nNearest Cross Street: Oak Glen Road\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98).\nN/A",
+    "Parcel #": "Lot 143, Block 35.70 Tax Map of the Township of Howell",
+    "Plaintiff": "U.S. Bank National Association, as Trustee, Successor in Interest to Wachovia Bank, National Association, as Trustee for Wells Fargo Asset Securities Corporation, Mortgage Pass-Through Certificates, Series 2004-I",
+    "Property Note": "",
+    "Sales Date": "6/26/2026",
+    "Sheriff #": "FOR-23000746"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 233322.55,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "",
+    "defendant": "Robert M. Hughes, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank National Association, as Trustee, Successor in Interest to Wachovia Bank, National Association, as Trustee for Wells Fargo Asset Securities Corporation, Mortgage Pass-Through Certificates, Series 2004-I",
+    "sale_date": "2026-06-26"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 143, Block 35.70 Tax Map of the Township of Howell",
+  "plaintiff": "U.S. Bank National Association, as Trustee, Successor in Interest to Wachovia Bank, National Association, as Trustee for Wells Fargo Asset Securities Corporation, Mortgage Pass-Through Certificates, Series 2004-I",
+  "property_note": null,
+  "sale_date": "2026-06-26",
+  "sheriff_number": "FOR-23000746",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-06-26",
+      "status": "Canceled"
+    },
+    {
+      "date": "2023-05-15",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-05-15",
+      "status": "Scheduled"
+    }
+  ]
+}

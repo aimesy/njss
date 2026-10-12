@@ -1,0 +1,63 @@
+{
+  "address": "1101 FRANKLIN STREET CLAYTON NJ 08312",
+  "attorney": "RAGAN & RAGAN, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "L-830-19; J-149035-19",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "LAIRD'S MECHANICAL, THOMAS LAIRD & MICHAEL LAIRD",
+  "description": "APPROXIMATE UPSET AMOUNT: $166,274.19\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "1101 FRANKLIN STREET\nCLAYTON NJ 08312",
+    "Approximate Judgment": "$136,656.67",
+    "Attorney": "RAGAN & RAGAN, P.C.",
+    "Court Case #": "L-830-19; J-149035-19",
+    "Defendant": "LAIRD'S MECHANICAL, THOMAS LAIRD & MICHAEL LAIRD",
+    "Description": "APPROXIMATE UPSET AMOUNT: $166,274.19\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "BLOCK: 205 LOT: 1",
+    "Plaintiff": "THE WALLACE ORGANIZATION- WALLACE SUPPLY COMPANY MMU, LLC",
+    "Property Note": "BOROUGH OF CLAYTON\nCOUNTY OF GLOUCESTER\n1101 FRANKLIN STREET CLAYTON, NJ 08312\nBLOCK: 205 LOT: 1\nAPPROXIMATE DIMENSIONS: 100' x 335' IR\nNUMBER OF FEET TO NEAREST CROSS STREET: CORNER OF PINE AVENUE AND FRANKLIN STREET\nAPPROXIMATE UPSET AMOUNT: $166,274.19\nOCCUPANCY STATUS: UNKNOWN\nPRIOR LIENS: WELLS FARGO BANK +/- $157,320.00; HUD $5,610.01\nFULL DESCRIPTION: DEED BOOK 4439, PAGE 233",
+    "Sales Date": "10/15/2025",
+    "Sheriff #": "F-25000770"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 136656.67,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1101 FRANKLIN STREET CLAYTON NJ 08312",
+    "defendant": "LAIRD'S MECHANICAL, THOMAS LAIRD & MICHAEL LAIRD",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "THE WALLACE ORGANIZATION- WALLACE SUPPLY COMPANY MMU, LLC",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 205 LOT: 1",
+  "plaintiff": "THE WALLACE ORGANIZATION- WALLACE SUPPLY COMPANY MMU, LLC",
+  "property_note": "BOROUGH OF CLAYTON\nCOUNTY OF GLOUCESTER\n1101 FRANKLIN STREET CLAYTON, NJ 08312\nBLOCK: 205 LOT: 1\nAPPROXIMATE DIMENSIONS: 100' x 335' IR\nNUMBER OF FEET TO NEAREST CROSS STREET: CORNER OF PINE AVENUE AND FRANKLIN STREET\nAPPROXIMATE UPSET AMOUNT: $166,274.19\nOCCUPANCY STATUS: UNKNOWN\nPRIOR LIENS: WELLS FARGO BANK +/- $157,320.00; HUD $5,610.01\nFULL DESCRIPTION: DEED BOOK 4439, PAGE 233",
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-25000770",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

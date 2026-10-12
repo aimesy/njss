@@ -1,0 +1,61 @@
+{
+  "address": "1120 BERGEN AVENUE CAMDEN NJ 08105",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00435725",
+  "current_status": "Settled",
+  "defendant": "JAMES WHITAKER, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1120 BERGEN AVENUE\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$86,447.68",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00435725",
+    "Defendant": "JAMES WHITAKER, ET AL.",
+    "Parcel #": "TAX LOT: 21 TAX BLOCK 910",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR LEGACY MORTAGAGE ASSET TRUST 2021-GS2",
+    "Property Note": "Priority Tax Lien Holder: EAST REGION TAX AUCTION LLC holds Tax sale Certificate NO. 26-01161 in the amount of $953.85 as of 04/06/2026.\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for amount (the \"Redemption Sum'') necessary to redeem.",
+    "Sales Date": "9/2/2026",
+    "Sheriff #": "FR-26000819"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1120 BERGEN AVENUE CAMDEN NJ 08105",
+    "defendant": "JAMES WHITAKER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR LEGACY MORTAGAGE ASSET TRUST 2021-GS2",
+    "sale_date": "2026-09-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 21 TAX BLOCK 910",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR LEGACY MORTAGAGE ASSET TRUST 2021-GS2",
+  "property_note": "Priority Tax Lien Holder: EAST REGION TAX AUCTION LLC holds Tax sale Certificate NO. 26-01161 in the amount of $953.85 as of 04/06/2026.\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for amount (the \"Redemption Sum'') necessary to redeem.",
+  "sale_date": "2026-09-02",
+  "sheriff_number": "FR-26000819",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 86447.68,
+  "upset_amount_label": "Approx. Upset*"
+}

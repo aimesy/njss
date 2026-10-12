@@ -1,0 +1,56 @@
+{
+  "address": "260 PARK AVENUE OLD BRIDGE NJ 08857",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00980024",
+  "current_status": "Cancelled",
+  "defendant": "LISA VITALE, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$250,088.38",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00980024",
+    "Defendant": "LISA VITALE, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LODGE SERIES III TRUST",
+    "Property Address": "260 PARK AVENUE\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "1/7/2026",
+    "Sheriff #": "F-25003319"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 250088.38,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "260 PARK AVENUE OLD BRIDGE NJ 08857",
+    "defendant": "LISA VITALE, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LODGE SERIES III TRUST",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LODGE SERIES III TRUST",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25003319",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

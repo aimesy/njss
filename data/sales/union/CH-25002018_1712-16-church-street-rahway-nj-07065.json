@@ -1,0 +1,64 @@
+{
+  "address": "1712-16 CHURCH STREET RAHWAY NJ 07065",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01274123",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "JEFFREY H. PATTIE, JENNIFER R. PATTI N/K/A JENNIFER R. VAN DAM",
+  "description": "LOT 27 FKA 43 BLOCK 205 FKA 360",
+  "extracted": {
+    "block": "205",
+    "lot": "27"
+  },
+  "fields": {
+    "Address": "1712-16 CHURCH STREET\nRAHWAY NJ 07065",
+    "Approx. Upset*": "$376,623.93",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F01274123",
+    "Defendant": "JEFFREY H. PATTIE, JENNIFER R. PATTI N/K/A JENNIFER R. VAN DAM",
+    "Description": "LOT 27 FKA 43 BLOCK 205 FKA 360",
+    "Parcel #": "LOT 27 FKA 43 BLOCK 205 FKA 360",
+    "Plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "CH-25002018"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1712-16 CHURCH STREET RAHWAY NJ 07065",
+    "defendant": "JEFFREY H. PATTIE, JENNIFER R. PATTI N/K/A JENNIFER R. VAN DAM",
+    "listing_status": null,
+    "plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 27 FKA 43 BLOCK 205 FKA 360",
+  "plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "CH-25002018",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 376623.93,
+  "upset_amount_label": "Approx. Upset*"
+}

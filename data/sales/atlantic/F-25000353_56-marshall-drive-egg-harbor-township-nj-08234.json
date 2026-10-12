@@ -1,0 +1,58 @@
+{
+  "address": "56 Marshall Drive Egg Harbor Township NJ 08234",
+  "attorney": "Martone & Uhlmann, A Professional Corporation",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010685-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "William A. Arabea and Lisa Kohl Arabea, Husband and Wife",
+  "extracted": {},
+  "fields": {
+    "Address": "56 Marshall Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$66,331.23",
+    "Attorney": "Martone & Uhlmann, A Professional Corporation",
+    "Court Case #": "F-010685-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "William A. Arabea and Lisa Kohl Arabea, Husband and Wife",
+    "Plaintiff": "PNC Bank, National Association",
+    "Priors": "PNC Bank, National Association, amount: $252,100.00 (OPEN PLUS INTEREST AND PENALTY AFTER (11/28/14)",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "5/29/2025",
+    "Sheriff #": "F-25000353",
+    "Upset Amount": "$74,913.23"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 66331.23,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "56 Marshall Drive Egg Harbor Township NJ 08234",
+    "defendant": "William A. Arabea an...",
+    "listing_status": null,
+    "plaintiff": "PNC Bank, National A...",
+    "sale_date": "2025-05-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PNC Bank, National Association",
+  "priors": "PNC Bank, National Association, amount: $252,100.00 (OPEN PLUS INTEREST AND PENALTY AFTER (11/28/14)",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-05-29",
+  "sheriff_number": "F-25000353",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-29",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 74913.23,
+  "upset_amount_label": "Upset Amount"
+}

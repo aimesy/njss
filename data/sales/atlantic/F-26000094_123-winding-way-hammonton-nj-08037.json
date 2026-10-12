@@ -1,0 +1,62 @@
+{
+  "address": "123 Winding Way Hammonton NJ 08037",
+  "attorney": "Dembo, Brown & Burns, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-8234-25",
+  "current_status": "Scheduled",
+  "deed": "Beltway Capital, LLC",
+  "deed_address": "11350 McCormick Road EP II, Suite 903 Hunt Valley, MD 21031",
+  "defendant": "Judith A. Gibson, heir of the Estate of Anthony C. Berenato, deceased; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "123 Winding Way\nHammonton NJ 08037",
+    "Approx. Judgment*": "$638,478.10",
+    "Attorney": "Dembo, Brown & Burns, LLP",
+    "Court Case #": "F-8234-25",
+    "Deed": "Beltway Capital, LLC",
+    "Deed Address": "11350 McCormick Road EP II, Suite 903 Hunt Valley, MD 21031",
+    "Defendant": "Judith A. Gibson, heir of the Estate of Anthony C. Berenato, deceased; State of New Jersey; United States of America",
+    "Plaintiff": "Beltway Capital, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "4/16/2026",
+    "Sheriff #": "F-26000094",
+    "Upset Amount": "$474,900.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 638478.1,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "123 Winding Way Hammonton NJ 08037",
+    "defendant": "Judith A. Gibson, he...",
+    "listing_status": null,
+    "plaintiff": "Beltway Capital, LLC...",
+    "sale_date": "2026-04-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Beltway Capital, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2026-04-16",
+  "sheriff_number": "F-26000094",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-16",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 474900.0,
+  "upset_amount_label": "Upset Amount"
+}

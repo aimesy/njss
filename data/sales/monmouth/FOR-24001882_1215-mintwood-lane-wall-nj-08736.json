@@ -1,0 +1,72 @@
+{
+  "address": "1215 Mintwood Lane Wall NJ 08736",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00307424",
+  "current_status": "Scheduled",
+  "defendant": "Clarence J. Harris, et al",
+  "description": "Approximate Dimensions: 60 x 127 IRR, A copy of the full legal description can be found at the Office of Register\nNearest Cross Street: Church Street\nUpset Price: $341,440.31, good throught January 19, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown\nTaxes and Other Encumbrances:\nTaxes current through 3rd Quartet of 2024*\nWater open balance in the amount of $213.41, good through 8/25/2024*\nSewer open balance in the amount of $254.44, good through 8/25/2024*\n* Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown",
+    "upset_amount": 341440.31
+  },
+  "fields": {
+    "Address": "1215 Mintwood Lane\nWall NJ 08736",
+    "Approx. Judgment*": "$314,705.22",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F00307424",
+    "Defendant": "Clarence J. Harris, et al",
+    "Description": "Approximate Dimensions: 60 x 127 IRR, A copy of the full legal description can be found at the Office of Register\nNearest Cross Street: Church Street\nUpset Price: $341,440.31, good throught January 19, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown\nTaxes and Other Encumbrances:\nTaxes current through 3rd Quartet of 2024*\nWater open balance in the amount of $213.41, good through 8/25/2024*\nSewer open balance in the amount of $254.44, good through 8/25/2024*\n* Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts",
+    "Parcel #": "Tax Lot# 30 Block# 317 located on the tax map of the Township of Wall",
+    "Plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2006-1, Asset-Backed Certificates Series 2006-1",
+    "Property Note": "",
+    "Sales Date": "7/14/2025",
+    "Sheriff #": "FOR-24001882"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 314705.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1215 Mintwood Lane Wall NJ 08736",
+    "defendant": "Clarence J. Harris, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2006-1, Asset-Backed Certificates Series 2006-1",
+    "sale_date": "2025-07-14"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot# 30 Block# 317 located on the tax map of the Township of Wall",
+  "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2006-1, Asset-Backed Certificates Series 2006-1",
+  "property_note": null,
+  "sale_date": "2025-07-14",
+  "sheriff_number": "FOR-24001882",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-14",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    }
+  ]
+}

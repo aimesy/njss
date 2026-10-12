@@ -1,0 +1,61 @@
+{
+  "address": "54 CENTURA CHERRY HILL NJ 08003",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00459024",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "DANIELLE M. GUNTER-WARD; CENTURA CONDOMINIUM ASSOCIATION; FIA CARD SERVICES NA AND THE UNITED STATE OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "54 CENTURA\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$203,048.29",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00459024",
+    "Defendant": "DANIELLE M. GUNTER-WARD; CENTURA CONDOMINIUM\nASSOCIATION; FIA CARD SERVICES NA AND THE UNITED\nSTATE OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "M&T BANK,",
+    "Property Note": "",
+    "Sales Date": "10/15/2025",
+    "Sheriff #": "FR-25001256"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "54 CENTURA CHERRY HILL NJ 08003",
+    "defendant": "DANIELLE M. GUNTER-WARD; CENTURA CONDOMINIUM \nASSOCIATION; FIA CARD SERVICES NA AND THE UNITED \nSTATE OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "M&T BANK,",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "M&T BANK,",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "FR-25001256",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 203048.29,
+  "upset_amount_label": "Approx. Upset*"
+}

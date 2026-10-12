@@ -1,0 +1,68 @@
+{
+  "address": "2-4 FULTON STREET UNIT 1B WEEHAWKEN NJ 07086",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "401-217-8701",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-012196-25",
+  "current_status": "Adjourned - Court",
+  "defendant": "RICCARDO D'IPPOLITO, ET AL.",
+  "description": "LOT 12, BLOCK 59\nDIMENSIONS: CONDO UNIT (NONE GIVEN)\nNEAREST CROSS STREET: CONDO UNIT (NONE GIVEN)\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $258,762.92.\nSUBJECT TO THE RIGHTS OF AN APPLICABLE CONDOMINIUM ASSOCIATION UNDER N.J.S.A. § 46:8B-21, ET AL., IF ANY.",
+  "extracted": {
+    "block": "59",
+    "lot": "12",
+    "upset_amount": 258762.92
+  },
+  "fields": {
+    "Address": "2-4 FULTON STREET UNIT 1B\nWEEHAWKEN NJ 07086",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "401-217-8701",
+    "Court Case #": "F-012196-25",
+    "Defendant": "RICCARDO D'IPPOLITO, ET AL.",
+    "Description": "LOT 12, BLOCK 59\nDIMENSIONS: CONDO UNIT (NONE GIVEN)\nNEAREST CROSS STREET: CONDO UNIT (NONE GIVEN)\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $258,762.92.\nSUBJECT TO THE RIGHTS OF AN APPLICABLE CONDOMINIUM ASSOCIATION UNDER N.J.S.A. § 46:8B-21, ET AL., IF ANY.",
+    "Good Faith Upset*": "$258,762.92",
+    "Judgment": "$232,113.55",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR HS1 ASSET SECURITIZATION CORPORATION 2006-OPT1 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-OPT1",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20062887"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 232113.55,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "2-4 FULTON STREET UNIT 1B WEEHAWKEN NJ 07086",
+    "defendant": "RICCARDO D'IPPOLITO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR HS1 ASSET SECURITIZATION CORPORATION 2006-OPT1 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-OPT1",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR HS1 ASSET SECURITIZATION CORPORATION 2006-OPT1 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-OPT1",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20062887",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-07-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-10-08",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": 258762.92,
+  "upset_amount_label": "Good Faith Upset*"
+}

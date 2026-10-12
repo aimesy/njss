@@ -1,0 +1,67 @@
+{
+  "address": "5 Island View Way, Unit #53 Sea Bright NJ 07760",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02841617",
+  "current_status": "Scheduled",
+  "defendant": "Mary Lamagra, Deceased, her heirs, devisees and personal representatives and his, hers, their or any of their successors in right, title and interest, et al.",
+  "description": "Dimensions: (CONDO UNIT - None Given)\nNearest Cross Street: (CONDO UNIT - None Given)\nPlaintiff's good faith estimate of its upset price is: $692,750.00\nThe occupancy status of the property is: Owner Occupied\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\nSubject to the rights of an applicable Condominium Association under N.J.S.A. 46:8B-21, et al., if any.",
+  "extracted": {
+    "upset_amount": 692750.0
+  },
+  "fields": {
+    "Address": "5 Island View Way,\nUnit #53\nSea Bright NJ 07760",
+    "Approx. Judgment*": "$932,484.44",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F02841617",
+    "Defendant": "Mary Lamagra, Deceased, her heirs, devisees and personal representatives and his, hers, their or any of their successors in right, title and interest, et al.",
+    "Description": "Dimensions: (CONDO UNIT - None Given)\nNearest Cross Street: (CONDO UNIT - None Given)\nPlaintiff's good faith estimate of its upset price is: $692,750.00\nThe occupancy status of the property is: Owner Occupied\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\nSubject to the rights of an applicable Condominium Association under N.J.S.A. 46:8B-21, et al., if any.",
+    "Parcel #": "Block 1.13 n/k/a Block 1, Lot 52, n/k/a Lot 7, Qualifier #C0053 on the official Tax Map of the Bprough of Sea Bright",
+    "Plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2006-2, Asset-Backed Certificates, Series 2006-2",
+    "Property Note": "",
+    "Sales Date": "7/7/2025",
+    "Sheriff #": "FOR-25000203"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 932484.44,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 Island View Way, Unit #53 Sea Bright NJ 07760",
+    "defendant": "Mary Lamagra, Deceased, her heirs, devisees and personal representatives and his, hers, their or any of their successors in right, title and interest, et al.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2006-2, Asset-Backed Certificates, Series 2006-2",
+    "sale_date": "2025-07-07"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 1.13 n/k/a Block 1, Lot 52, n/k/a Lot 7, Qualifier #C0053 on the official Tax Map of the Bprough of Sea Bright",
+  "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2006-2, Asset-Backed Certificates, Series 2006-2",
+  "property_note": null,
+  "sale_date": "2025-07-07",
+  "sheriff_number": "FOR-25000203",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-07",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    }
+  ]
+}

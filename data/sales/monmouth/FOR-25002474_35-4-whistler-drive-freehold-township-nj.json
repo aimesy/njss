@@ -1,0 +1,63 @@
+{
+  "address": "35-4 Whistler Drive Freehold Township NJ",
+  "attorney": "Cutolo Barros LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01124024",
+  "current_status": "Scheduled",
+  "defendant": "Michael L. Bonavita, Sr. et. al.",
+  "description": "Nearest cross street is Park Ave; Route 33. The property is currently owner occupied.\nBeing commonly known as 35-4 Whistler Drive, Freehold, New Jersey 07728. Property to be sold free and clear. Property is to be sold subject to Freehold Township affordability controls.\nThe approximate amount of the upset price is $37,759.14, more or less, which consists of the final judgement amount of $37,759.14, plus interest together with the costs of this sale.",
+  "extracted": {
+    "upset_amount": 37759.14
+  },
+  "fields": {
+    "Address": "35-4 Whistler Drive\nFreehold Township NJ",
+    "Approx. Judgment*": "$37,759.14",
+    "Attorney": "Cutolo Barros LLC",
+    "Court Case #": "F01124024",
+    "Defendant": "Michael L. Bonavita, Sr. et. al.",
+    "Description": "Nearest cross street is Park Ave; Route 33. The property is currently owner occupied.\nBeing commonly known as 35-4 Whistler Drive, Freehold, New Jersey 07728. Property to be sold free and clear. Property is to be sold subject to Freehold Township affordability controls.\nThe approximate amount of the upset price is $37,759.14, more or less, which consists of the final judgement amount of $37,759.14, plus interest together with the costs of this sale.",
+    "Parcel #": "Lot and Block: Lot 35.08 FKA 35.04, Block 49.36 Tax Map of Township of Freehold",
+    "Plaintiff": "Independence Square Condominium Association",
+    "Property Note": "",
+    "Sales Date": "5/22/2026",
+    "Sheriff #": "FOR-25002474"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 37759.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "35-4 Whistler Drive Freehold Township NJ",
+    "defendant": "Michael L. Bonavita, Sr. et. al.",
+    "listing_status": "Settled",
+    "plaintiff": "Independence Square Condominium Association",
+    "sale_date": "2026-05-22"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 35.08 FKA 35.04, Block 49.36 Tax Map of Township of Freehold",
+  "plaintiff": "Independence Square Condominium Association",
+  "property_note": null,
+  "sale_date": "2026-05-22",
+  "sheriff_number": "FOR-25002474",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-05-22",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-04-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "address": "520 SAINT JOHN STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00441025",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "JASON GREEN; MRS. JASON GREEN, WIFE OF JASON GREEN; AND UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "520 SAINT JOHN STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$207,683.66",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00441025",
+    "Defendant": "JASON GREEN; MRS. JASON GREEN, WIFE OF JASON GREEN; AND UNITED STATES OF\nAMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "PARAMOUNT RESIDENTIAL MORTGAGE GROUP, INC.,",
+    "Property Note": "",
+    "Sales Date": "2/27/2026",
+    "Sheriff #": "FR-25002237"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "520 SAINT JOHN STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "JASON GREEN; MRS. JASON GREEN, WIFE OF JASON GREEN; AND UNITED STATES OF \nAMERICA,",
+    "listing_status": null,
+    "plaintiff": "PARAMOUNT RESIDENTIAL MORTGAGE GROUP, INC.,",
+    "sale_date": "2026-02-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PARAMOUNT RESIDENTIAL MORTGAGE GROUP, INC.,",
+  "property_note": null,
+  "sale_date": "2026-02-27",
+  "sheriff_number": "FR-25002237",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 207683.66,
+  "upset_amount_label": "Approx. Upset*"
+}

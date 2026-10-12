@@ -1,0 +1,61 @@
+{
+  "address": "47 BELLEVIEW AVE SICKLERVILLE NJ 08081-1237",
+  "attorney": "STERN & EISENBERG, PC",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01402125",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "JOHN K. WHARTON, III, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "47 BELLEVIEW AVE\nSICKLERVILLE NJ 08081-1237",
+    "Approx. Upset*": "$162,848.98",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F01402125",
+    "Defendant": "JOHN K. WHARTON, III, ET AL.",
+    "Parcel #": "TAX LOT 3 Block 16105",
+    "Plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+    "Property Note": "Taxes current through 2 nd Quarter of 2026\nWater/Sewer Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nTax Sale Certificate # 25-05606 due in the amount of $921.18, good through June 30, 2026*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.",
+    "Sales Date": "9/29/2026",
+    "Sheriff #": "FR-26001440"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "47 BELLEVIEW AVE SICKLERVILLE NJ 08081-1237",
+    "defendant": "JOHN K. WHARTON, III, ET AL.",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+    "sale_date": "2026-09-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 3 Block 16105",
+  "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+  "property_note": "Taxes current through 2 nd Quarter of 2026\nWater/Sewer Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nTax Sale Certificate # 25-05606 due in the amount of $921.18, good through June 30, 2026*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.",
+  "sale_date": "2026-09-29",
+  "sheriff_number": "FR-26001440",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-29",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 162848.98,
+  "upset_amount_label": "Approx. Upset*"
+}

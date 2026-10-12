@@ -1,0 +1,58 @@
+{
+  "address": "602 West Adams Avenue Pleasantville NJ 08232",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-8253-25",
+  "current_status": "Scheduled",
+  "deed": "SAIF Property LLC",
+  "deed_address": "410 Montrose Lane Galloway, NJ 08205",
+  "defendant": "Ruth J. Self;Her Heirs;Devisees;And Personal Representatives;And His,Her,Or Any of Their Successors In Right; Title; And Interest;Mr.Self, Husband of Ruth J. Self;Sunrun,Inc.;State Of New Jersey;United States Of America,",
+  "extracted": {},
+  "fields": {
+    "Address": "602 West Adams Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$88,936.96",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-8253-25",
+    "Deed": "SAIF Property LLC",
+    "Deed Address": "410 Montrose Lane Galloway, NJ 08205",
+    "Defendant": "Ruth J. Self;Her Heirs;Devisees;And Personal Representatives;And His,Her,Or Any of Their Successors In Right; Title; And Interest;Mr.Self, Husband of Ruth J. Self;Sunrun,Inc.;State Of New Jersey;United States Of America,",
+    "Plaintiff": "Wilmington Savings Fund Society;FSB;Not In ITs Individual Capacity;But Solely As Owner Trustee For CSMC 2018-RPL6 Trust;",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "3/26/2026",
+    "Sheriff #": "F-26000111",
+    "Upset Amount": "$101,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 88936.96,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "602 West Adams Avenue Pleasantville NJ 08232",
+    "defendant": "Ruth J. Self;Her Hei...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Savings F...",
+    "sale_date": "2026-03-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Savings Fund Society;FSB;Not In ITs Individual Capacity;But Solely As Owner Trustee For CSMC 2018-RPL6 Trust;",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-03-26",
+  "sheriff_number": "F-26000111",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-03-26",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 101000.0,
+  "upset_amount_label": "Upset Amount"
+}

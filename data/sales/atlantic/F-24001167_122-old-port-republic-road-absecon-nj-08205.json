@@ -1,0 +1,70 @@
+{
+  "address": "122 Old Port Republic Road Absecon NJ 08205",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001472-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Thomas A. Bolton, Jr; Mrs. Thomas A. Bolton, Jr.; His Wife; South Jersey Federal Credit Union; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "122 Old Port Republic Road\nAbsecon NJ 08205",
+    "Approx. Judgment*": "$148,737.22",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-001472-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Thomas A. Bolton, Jr; Mrs. Thomas A. Bolton, Jr.; His Wife; South Jersey Federal Credit Union; State of New Jersey",
+    "Plaintiff": "US Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "2/13/2025",
+    "Sheriff #": "F-24001167",
+    "Upset Amount": "$153,954.49"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 148737.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "122 Old Port Republic Road Absecon NJ 08205",
+    "defendant": "Thomas A. Bolton, Jr...",
+    "listing_status": null,
+    "plaintiff": "US Bank Trust Nation...",
+    "sale_date": "2025-02-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "US Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-02-13",
+  "sheriff_number": "F-24001167",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-13",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-12-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 153954.49,
+  "upset_amount_label": "Upset Amount"
+}

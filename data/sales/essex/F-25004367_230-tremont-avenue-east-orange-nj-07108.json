@@ -1,0 +1,74 @@
+{
+  "address": "230 TREMONT AVENUE EAST ORANGE NJ 07108",
+  "attorney": "HLADIK ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "215 855-9521",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00294124",
+  "current_status": "Bankruptcy",
+  "defendant": "VELLEY SHAREHOLDER LLC,",
+  "description": "TAX LOT: 29.01 BLOCK: 772\nAPPROXIMATE DIMENSIONS: 100 X 35 X 100 X 35\nNEAREST CROSS STREET: CRAWFORD STREET\nESTIMATED UPSET SHERIFF'S SALE BID AMOUNT: $1,410,000.00. SUBJECT TO ANY FURTHER ORDERS OF ADDITIONAL SUMS EXECUTED BY THE COURT.",
+  "extracted": {
+    "block": "772",
+    "lot": "29.01"
+  },
+  "fields": {
+    "Address": "230 TREMONT AVENUE\nEAST ORANGE NJ 07108",
+    "Approx. Upset*": "$1,253,697.51",
+    "Attorney": "HLADIK ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "215 855-9521",
+    "Court Case #": "F00294124",
+    "Defendant": "VELLEY SHAREHOLDER LLC,",
+    "Description": "TAX LOT: 29.01 BLOCK: 772\nAPPROXIMATE DIMENSIONS: 100 X 35 X 100 X 35\nNEAREST CROSS STREET: CRAWFORD STREET\nESTIMATED UPSET SHERIFF'S SALE BID AMOUNT: $1,410,000.00. SUBJECT TO ANY FURTHER ORDERS OF ADDITIONAL SUMS EXECUTED BY THE COURT.",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2023-INV2",
+    "Property Note": "",
+    "Sales Date": "8/4/2026",
+    "Sheriff #": "F-25004367"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "230 TREMONT AVENUE EAST ORANGE NJ 07108",
+    "defendant": "VELLEY SHAREHOLDER LLC,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2023-INV2",
+    "sale_date": "2026-08-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2023-INV2",
+  "property_note": null,
+  "sale_date": "2026-08-04",
+  "sheriff_number": "F-25004367",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-02-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 1253697.51,
+  "upset_amount_label": "Approx. Upset*"
+}

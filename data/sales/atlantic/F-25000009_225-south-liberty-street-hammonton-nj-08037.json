@@ -1,0 +1,74 @@
+{
+  "address": "225 South Liberty Street Hammonton NJ 08037",
+  "attorney": "Gross Polowy, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001612-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Patrick S. Sbarra and Debra R. Sbarra",
+  "extracted": {},
+  "fields": {
+    "Address": "225 South Liberty Street\nHammonton NJ 08037",
+    "Approx. Judgment*": "$81,716.88",
+    "Attorney": "Gross Polowy, LLC",
+    "Court Case #": "F-001612-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Patrick S. Sbarra and Debra R. Sbarra",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "6/19/2025",
+    "Sheriff #": "F-25000009",
+    "Upset Amount": "$86,690.69"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 81716.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "225 South Liberty Street Hammonton NJ 08037",
+    "defendant": "Patrick S. Sbarra an...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2025-06-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-06-19",
+  "sheriff_number": "F-25000009",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-19",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-06-19",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-27",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-27",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 86690.69,
+  "upset_amount_label": "Upset Amount"
+}

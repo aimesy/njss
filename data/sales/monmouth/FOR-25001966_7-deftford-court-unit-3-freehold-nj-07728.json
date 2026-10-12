@@ -1,0 +1,63 @@
+{
+  "address": "7 Deftford Court Unit 3 Freehold NJ 07728",
+  "attorney": "Cutolo Barros LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01135624",
+  "current_status": "Scheduled",
+  "defendant": "Marc Bakia",
+  "description": "Nearest cross street: is Joda Drive\nThe property is currently owner occupied\nProperty to be sold free and clear.\nThe approximate amount of the upset price is $22,184.32, more or less, which consists of the final judgment amount of $22,184.32, plus interest together with the costs of this sale.",
+  "extracted": {
+    "upset_amount": 22184.32
+  },
+  "fields": {
+    "Address": "7 Deftford Court Unit 3\nFreehold NJ 07728",
+    "Approx. Judgment*": "$22,184.32",
+    "Attorney": "Cutolo Barros LLC",
+    "Court Case #": "F01135624",
+    "Defendant": "Marc Bakia",
+    "Description": "Nearest cross street: is Joda Drive\nThe property is currently owner occupied\nProperty to be sold free and clear.\nThe approximate amount of the upset price is $22,184.32, more or less, which consists of the final judgment amount of $22,184.32, plus interest together with the costs of this sale.",
+    "Parcel #": "Block: 86.180 Lot: 7.03 Qual. S02 Tax Map of Freehold",
+    "Plaintiff": "Wyndham Place at Freehold Condominium Association Inc",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "FOR-25001966"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 22184.32,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 Deftford Court Unit 3 Freehold NJ 07728",
+    "defendant": "Marc Bakia",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Wyndham Place at Freehold Condominium Association Inc",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block: 86.180 Lot: 7.03 Qual. S02 Tax Map of Freehold",
+  "plaintiff": "Wyndham Place at Freehold Condominium Association Inc",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "FOR-25001966",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-02",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Scheduled"
+    }
+  ]
+}

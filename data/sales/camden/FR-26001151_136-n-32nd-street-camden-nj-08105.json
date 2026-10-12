@@ -1,0 +1,53 @@
+{
+  "address": "136 N 32ND STREET CAMDEN NJ 08105",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "attorney_phone": "215-572-5095 JENKINTOWN",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00981922",
+  "current_status": "Scheduled",
+  "defendant": "ADALGIZA DURAN, WINSTON H. DURAN,",
+  "extracted": {},
+  "fields": {
+    "Address": "136 N 32ND STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$94,858.86",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Attorney Phone": "215-572-5095 JENKINTOWN",
+    "Court Case #": "F00981922",
+    "Defendant": "ADALGIZA DURAN, WINSTON H. DURAN,",
+    "Parcel #": "TAX LOT: 11.01 BLOCK:1025",
+    "Plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS2",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26001151"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "136 N 32ND STREET CAMDEN NJ 08105",
+    "defendant": "ADALGIZA DURAN, WINSTON H. DURAN,",
+    "listing_status": null,
+    "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS2",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 11.01 BLOCK:1025",
+  "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2021-GS2",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26001151",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-18",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 94858.86,
+  "upset_amount_label": "Approx. Upset*"
+}

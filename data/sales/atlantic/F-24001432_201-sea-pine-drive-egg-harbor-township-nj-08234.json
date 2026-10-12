@@ -1,0 +1,62 @@
+{
+  "address": "201 Sea Pine Drive Egg Harbor Township NJ 08234",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003206-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "John F. Qualtieri; Valley National Bank; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "201 Sea Pine Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$325,494.87",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-003206-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "John F. Qualtieri; Valley National Bank; United States of America",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "2/6/2025",
+    "Sheriff #": "F-24001432",
+    "Upset Amount": "$360,232.31"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 325494.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "201 Sea Pine Drive Egg Harbor Township NJ 08234",
+    "defendant": "John F. Qualtieri; V...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2025-02-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-02-06",
+  "sheriff_number": "F-24001432",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-06",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 360232.31,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "848 ANTHONY ROAD ATCO NJ 08004",
+  "attorney": null,
+  "attorney_phone": null,
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00547217",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ROBERT M. PIENTA, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS/HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT , TITLE AND INTEREST; ANN L. KLEIN-PIENTA, INDIVIDUALLY AND AS GUARDIAN FOR DYLAN PIENTA, A MINOR; XIAOHONG ZHANG; DYLAN PIENTA, A MINOR; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "848 ANTHONY ROAD\nATCO NJ 08004",
+    "Approx. Upset*": "$430,059.09",
+    "Attorney": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00547217",
+    "Defendant": "ROBERT M. PIENTA, HIS HEIRS, DEVISEES AND PERSONAL\nREPRESENTATIVES, AND HIS/HER, THEIR OR ANY OF THEIR\nSUCCESSORS IN RIGHT , TITLE AND INTEREST; ANN L. KLEIN-PIENTA,\nINDIVIDUALLY AND AS GUARDIAN FOR DYLAN PIENTA, A MINOR;\nXIAOHONG ZHANG; DYLAN PIENTA, A MINOR; STATE OF NEW\nJERSEY; UNITED STATES OF AMERICA",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE\nFOR RCF 2 ACQUISITION TRUST,",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25002587"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "848 ANTHONY ROAD ATCO NJ 08004",
+    "defendant": "ROBERT M. PIENTA, HIS HEIRS, DEVISEES AND PERSONAL \nREPRESENTATIVES, AND HIS/HER, THEIR OR ANY OF THEIR \nSUCCESSORS IN RIGHT , TITLE AND INTEREST; ANN L. KLEIN-PIENTA, \nINDIVIDUALLY AND AS GUARDIAN FOR DYLAN PIENTA, A MINOR; \nXIAOHONG ZHANG; DYLAN PIENTA, A MINOR; STATE OF NEW \nJERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE \nFOR RCF 2 ACQUISITION TRUST,",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25002587",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 430059.09,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,59 @@
+{
+  "address": "95 ORIENT AVENUE JERSEY CITY NJ 07305",
+  "attorney": "STERN, LAVINTHAL & FRANKENBERG, LLC",
+  "attorney_phone": "973-797-1100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-000828-26",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "DEBRA MARIE HENDON, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES 1-5 AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; MR. HENDON, HUSBAND OF DEBRA MARIE HENDON; UNITED STATES OF AMERICA AND STATE OF NEW JERSEY",
+  "description": "Block 22503, Lot 23\nThe dimensions are approximately — 16.67' X 111'\nNearest cross street: Rose Avenue\nProperty is Occupied by Unknown\nThe Good Faith Estimate of the Upset Bid amount as of 7/24/2026 is $21,632.06.\nPrior lien(s): 2026 1ST & 2ND QUARTER TAXES PAST DUE in the approx. amount of $2,011.61\nWATER/SEWER ACCOUNT PAST DUE in the approx. amount of $665.78\nSubject to the rights of redemption of the United States of America by virtue of any federal estate taxes due to it by reason of the deaths of Debra Marie Hendon.",
+  "extracted": {
+    "block": "22503",
+    "lot": "23"
+  },
+  "fields": {
+    "Address": "95 ORIENT AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "STERN, LAVINTHAL & FRANKENBERG, LLC",
+    "Attorney Phone": "973-797-1100",
+    "Court Case #": "F-000828-26",
+    "Defendant": "DEBRA MARIE HENDON, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES 1-5 AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; MR. HENDON, HUSBAND OF DEBRA MARIE HENDON; UNITED STATES OF AMERICA AND STATE OF NEW JERSEY",
+    "Description": "Block 22503, Lot 23\nThe dimensions are approximately — 16.67' X 111'\nNearest cross street: Rose Avenue\nProperty is Occupied by Unknown\nThe Good Faith Estimate of the Upset Bid amount as of 7/24/2026 is $21,632.06.\nPrior lien(s): 2026 1ST & 2ND QUARTER TAXES PAST DUE in the approx. amount of $2,011.61\nWATER/SEWER ACCOUNT PAST DUE in the approx. amount of $665.78\nSubject to the rights of redemption of the United States of America by virtue of any federal estate taxes due to it by reason of the deaths of Debra Marie Hendon.",
+    "Good Faith Upset*": "$21,632.06",
+    "Judgment": "$20,194.06",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20063880"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 20194.06,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "95 ORIENT AVENUE JERSEY CITY NJ 07305",
+    "defendant": "DEBRA MARIE HENDON, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES 1-5 AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; MR. HENDON, HUSBAND OF DEBRA MARIE HENDON; UNITED STATES OF AMERICA AND STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20063880",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 21632.06,
+  "upset_amount_label": "Good Faith Upset*"
+}

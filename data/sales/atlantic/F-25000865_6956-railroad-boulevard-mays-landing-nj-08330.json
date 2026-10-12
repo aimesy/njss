@@ -1,0 +1,70 @@
+{
+  "address": "6956 Railroad Boulevard Mays Landing NJ 08330",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002511-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Christopher E. Caubre A/K/A Christopher Caubre A/K/A Christoph Caubre; Allegheny Mutual Casualty Company; AA Bail Bonds Inc A/K/A AA Baild Bonds",
+  "extracted": {},
+  "fields": {
+    "Address": "6956 Railroad Boulevard\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$50,039.55",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-002511-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Christopher E. Caubre A/K/A Christopher Caubre A/K/A Christoph Caubre; Allegheny Mutual Casualty Company; AA Bail Bonds Inc A/K/A AA Baild Bonds",
+    "Plaintiff": "Credit Suisse First Boston Mortgage Securities Corp. CSFB Mortgage-Backed Pass-Through Certificates, Series 2002-30, U.S. Bank National Association, as Trustee, Successor in Interest to Bank One, National Association, as Trustee",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/15/2026",
+    "Sheriff #": "F-25000865",
+    "Upset Amount": "$58,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 50039.55,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6956 Railroad Boulevard Mays Landing NJ 08330",
+    "defendant": "Christopher E. Caubr...",
+    "listing_status": null,
+    "plaintiff": "Credit Suisse First ...",
+    "sale_date": "2026-01-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Credit Suisse First Boston Mortgage Securities Corp. CSFB Mortgage-Backed Pass-Through Certificates, Series 2002-30, U.S. Bank National Association, as Trustee, Successor in Interest to Bank One, National Association, as Trustee",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-15",
+  "sheriff_number": "F-25000865",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-15",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 58000.0,
+  "upset_amount_label": "Upset Amount"
+}

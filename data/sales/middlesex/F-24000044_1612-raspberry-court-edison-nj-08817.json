@@ -1,0 +1,64 @@
+{
+  "address": "1612 RASPBERRY COURT EDISON NJ 08817",
+  "attorney": "GROSS POLOWY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(215) 419-5889",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00086924",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "MICHAEL C. MRAZ, III, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$131,726.22",
+    "Attorney": "GROSS POLOWY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(215) 419-5889",
+    "Court Case #": "F00086924",
+    "Defendant": "MICHAEL C. MRAZ, III, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "BLOCK 4.01 LOT 18.02 QUAL C1612 FKA BLOCK 4.A LOT 18.B",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Address": "1612 RASPBERRY COURT\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "3/5/2025",
+    "Sheriff #": "F-24000044"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 131726.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1612 RASPBERRY COURT EDISON NJ 08817",
+    "defendant": "MICHAEL C. MRAZ, III, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2025-03-05"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "BLOCK 4.01 LOT 18.02 QUAL C1612 FKA BLOCK 4.A LOT 18.B",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2025-03-05",
+  "sheriff_number": "F-24000044",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

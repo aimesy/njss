@@ -1,0 +1,68 @@
+{
+  "address": "1625 ALDINE STREET HILLSIDE NJ 07205",
+  "attorney": "ANTHONY L. VELASQUEZ, ESQ",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00447825",
+  "current_status": "Redeemed",
+  "defendant": "BARBARA THOMPSON AND 20 SUMMIT STREET OPERATIONS, LLC DBA SUMMIT RIDGE CENTER",
+  "description": "LOT 9 BLOCK 416",
+  "extracted": {
+    "block": "416",
+    "lot": "9"
+  },
+  "fields": {
+    "Address": "1625 ALDINE STREET\nHILLSIDE NJ 07205",
+    "Approx. Upset*": "$53,547.39",
+    "Attorney": "ANTHONY L. VELASQUEZ, ESQ",
+    "Court Case #": "F00447825",
+    "Defendant": "BARBARA THOMPSON AND 20 SUMMIT STREET OPERATIONS, LLC DBA SUMMIT RIDGE CENTER",
+    "Description": "LOT 9 BLOCK 416",
+    "Parcel #": "LOT 9 BLOCK 416",
+    "Plaintiff": "TRYSTONE CAPITAL ASSETS, LLC",
+    "Property Note": "",
+    "Sales Date": "4/23/2026",
+    "Sheriff #": "CH-25002717"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1625 ALDINE STREET HILLSIDE NJ 07205",
+    "defendant": "BARBARA THOMPSON AND 20 SUMMIT STREET OPERATIONS, LLC DBA SUMMIT RIDGE CENTER",
+    "listing_status": null,
+    "plaintiff": "TRYSTONE CAPITAL ASSETS, LLC",
+    "sale_date": "2026-04-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 9 BLOCK 416",
+  "plaintiff": "TRYSTONE CAPITAL ASSETS, LLC",
+  "property_note": null,
+  "sale_date": "2026-04-23",
+  "sheriff_number": "CH-25002717",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 53547.39,
+  "upset_amount_label": "Approx. Upset*"
+}

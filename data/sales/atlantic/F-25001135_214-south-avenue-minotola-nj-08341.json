@@ -1,0 +1,58 @@
+{
+  "address": "214 South Avenue Minotola NJ 08341",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002730-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Ana F. Bacon; Kenyatta M. Bacon; New Jersey Housing and Mortgage Finance Agency and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "214 South Avenue\nMinotola NJ 08341",
+    "Approx. Judgment*": "$140,514.31",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-002730-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Ana F. Bacon; Kenyatta M. Bacon; New Jersey Housing and Mortgage Finance Agency and United States of America",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "1/15/2026",
+    "Sheriff #": "F-25001135",
+    "Upset Amount": "$156,690.12"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 140514.31,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "214 South Avenue Minotola NJ 08341",
+    "defendant": "Ana F. Bacon; Kenyat...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2026-01-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2026-01-15",
+  "sheriff_number": "F-25001135",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-15",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 156690.12,
+  "upset_amount_label": "Upset Amount"
+}

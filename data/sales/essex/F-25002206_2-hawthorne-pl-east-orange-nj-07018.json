@@ -1,0 +1,91 @@
+{
+  "address": "2 HAWTHORNE PL EAST ORANGE NJ 07018",
+  "attorney": "McCABE, WEISBERG & CONWAY LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F01054423",
+  "current_status": "Adjourned Plaintiff",
+  "defendant": "CHRIS TEESDALE; ET. ALS.",
+  "description": "LOT: 10 BLOCK: 210\nDIMENSIONS OF LOT (APPROXIMATELY): 54' X 111' APPROX\nNEAREST CROSS STREET: CENTRAL AVENUE\nAPPROX UPSET PRICE $525,000.00 PROPERTY STATUS-POSSIBLE TENANT\nALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+  "extracted": {
+    "block": "210",
+    "lot": "10",
+    "upset_amount": 525000.0
+  },
+  "fields": {
+    "Address": "2 HAWTHORNE PL\nEAST ORANGE NJ 07018",
+    "Approx. Upset*": "$408,587.32",
+    "Attorney": "McCABE, WEISBERG & CONWAY LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F01054423",
+    "Defendant": "CHRIS TEESDALE; ET. ALS.",
+    "Description": "LOT: 10 BLOCK: 210\nDIMENSIONS OF LOT (APPROXIMATELY): 54' X 111' APPROX\nNEAREST CROSS STREET: CENTRAL AVENUE\nAPPROX UPSET PRICE $525,000.00 PROPERTY STATUS-POSSIBLE TENANT\nALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "10/13/2026",
+    "Sheriff #": "F-25002206"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2 HAWTHORNE PL EAST ORANGE NJ 07018",
+    "defendant": "CHRIS TEESDALE; ET. ALS.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-10-13"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-10-13",
+  "sheriff_number": "F-25002206",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-07-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-19",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-09-16",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-07-07",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Adjourned Plaintiff"
+    }
+  ],
+  "upset_amount": 408587.32,
+  "upset_amount_label": "Approx. Upset*"
+}

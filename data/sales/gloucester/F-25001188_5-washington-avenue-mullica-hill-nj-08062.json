@@ -1,0 +1,71 @@
+{
+  "address": "5 WASHINGTON AVENUE MULLICA HILL NJ 08062",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-004946-25",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "JOSEPH M. ELIASEN, ET ALS",
+  "description": "GOOD FAITH ESTIMATED UPSET: $267,862.27\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "5 WASHINGTON AVENUE\nMULLICA HILL NJ 08062",
+    "Approximate Judgment": "$250,195.48",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+    "Court Case #": "F-004946-25",
+    "Defendant": "JOSEPH M. ELIASEN, ET ALS",
+    "Description": "GOOD FAITH ESTIMATED UPSET: $267,862.27\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "BLOCK: 68 LOT: 19",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "TOWNSHIP OF HARRISON\nCOUNTY OF GLOUCESTER\n5 WASHINGTON AVENUE MULLICA HILL, NJ 08062\nBLOCK: 68 LOT: 19\nAPPROXIMATE DIMENSIONS: 77' x 132'\nNEAREST CROSS STREET: HIGH STREET\nGOOD FAITH ESTIMATED UPSET: $267,862.27\nOCCUPANCY STATUS: UNKNOWN\nSUBJECT TO THE RIGHT OF REDEMPTION OF THE UNITED STATES OF AMERICA BY VIRTUE OF A MORTGAGE DATED 4/3/2023 RECORDED ON 7/20/2023 IN BOOK 18058 BAT PAGE 225 IN THE AMOUNT OF $74,496.19\nSEWER ACCOUNT PAST DUE IN THE APPROXIMATE AMOUNT OF $1,792.93\nHARRISON MUA ACCOUNT PAST DUE ON THE APPRIOXMATE AMOUNT OF $98.45.",
+    "Sales Date": "9/12/2027",
+    "Sheriff #": "F-25001188"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 250195.48,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "5 WASHINGTON AVENUE MULLICA HILL NJ 08062",
+    "defendant": "JOSEPH M. ELIASEN, ET ALS",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2027-09-12"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 68 LOT: 19",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": "TOWNSHIP OF HARRISON\nCOUNTY OF GLOUCESTER\n5 WASHINGTON AVENUE MULLICA HILL, NJ 08062\nBLOCK: 68 LOT: 19\nAPPROXIMATE DIMENSIONS: 77' x 132'\nNEAREST CROSS STREET: HIGH STREET\nGOOD FAITH ESTIMATED UPSET: $267,862.27\nOCCUPANCY STATUS: UNKNOWN\nSUBJECT TO THE RIGHT OF REDEMPTION OF THE UNITED STATES OF AMERICA BY VIRTUE OF A MORTGAGE DATED 4/3/2023 RECORDED ON 7/20/2023 IN BOOK 18058 BAT PAGE 225 IN THE AMOUNT OF $74,496.19\nSEWER ACCOUNT PAST DUE IN THE APPROXIMATE AMOUNT OF $1,792.93\nHARRISON MUA ACCOUNT PAST DUE ON THE APPRIOXMATE AMOUNT OF $98.45.",
+  "sale_date": "2027-09-12",
+  "sheriff_number": "F-25001188",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2027-09-12",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

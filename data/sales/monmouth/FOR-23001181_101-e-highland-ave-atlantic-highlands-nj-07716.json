@@ -1,0 +1,84 @@
+{
+  "address": "101 E Highland Ave Atlantic Highlands NJ 07716",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00591420",
+  "current_status": "Scheduled",
+  "defendant": "Thomas S Scafati; Linda Scafati, et al",
+  "description": "Dimensions of Lot: 100x105\nNearest Cross Street: Central Avenue\nEstimated upset bid amount: $373,000.00, plus any additional sums as ordered by the court.\nOccupancy status: Owner occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr. 2 Due:: 05/01/2025 $2,333.33 OPEN\n+ Water: Atlantic Highlands 100 First Ave Atlantic highlands, NJ 07716 732-291-3297 Acct: 844 0 10/01/2024 - 12/31/2024 $161.11 OPEN.\n+ Sewer: Atlantic Highlands 100 First Ave Atlantic Highlands, NJ 07716 732-291-3297 Acct: 844 0 10/01/2024 - 12/31/2024 $310.20 OPEN.\n+ Liens: Year: 2023 Type: 3RD PARTY WATER, SEWER Amount: $3,305.21 Cert No.: 24-00006 Sold: 10/16/2024 to: Carol L. Baron Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+  "extracted": {
+    "lot": "100x105",
+    "occupancy": "Owner occupied"
+  },
+  "fields": {
+    "Address": "101 E Highland Ave\nAtlantic Highlands NJ 07716",
+    "Approx. Judgment*": "$331,231.30",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00591420",
+    "Defendant": "Thomas S Scafati; Linda Scafati, et al",
+    "Description": "Dimensions of Lot: 100x105\nNearest Cross Street: Central Avenue\nEstimated upset bid amount: $373,000.00, plus any additional sums as ordered by the court.\nOccupancy status: Owner occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr. 2 Due:: 05/01/2025 $2,333.33 OPEN\n+ Water: Atlantic Highlands 100 First Ave Atlantic highlands, NJ 07716 732-291-3297 Acct: 844 0 10/01/2024 - 12/31/2024 $161.11 OPEN.\n+ Sewer: Atlantic Highlands 100 First Ave Atlantic Highlands, NJ 07716 732-291-3297 Acct: 844 0 10/01/2024 - 12/31/2024 $310.20 OPEN.\n+ Liens: Year: 2023 Type: 3RD PARTY WATER, SEWER Amount: $3,305.21 Cert No.: 24-00006 Sold: 10/16/2024 to: Carol L. Baron Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+    "Parcel #": "Tax Lot 11 and 12, Block 68 Tax Map of municipality of Atlantic Highlands",
+    "Plaintiff": "Deutsche Bank National Trust Company, As Trustee For Morgan Stanley Dean Witter Capital I Inc. Trust 2002-NC4",
+    "Property Note": "",
+    "Sales Date": "7/23/2025",
+    "Sheriff #": "FOR-23001181"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 331231.3,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "101 E Highland Ave Atlantic Highlands NJ 07716",
+    "defendant": "Thomas S Scafati; Linda Scafati, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Deutsche Bank National Trust Company, As Trustee For Morgan Stanley Dean Witter Capital I Inc. Trust 2002-NC4",
+    "sale_date": "2025-07-23"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 11 and 12, Block 68 Tax Map of municipality of Atlantic Highlands",
+  "plaintiff": "Deutsche Bank National Trust Company, As Trustee For Morgan Stanley Dean Witter Capital I Inc. Trust 2002-NC4",
+  "property_note": null,
+  "sale_date": "2025-07-23",
+  "sheriff_number": "FOR-23001181",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-23",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-01-16",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-12",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-09-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-08-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-07-17",
+      "status": "Scheduled"
+    }
+  ]
+}

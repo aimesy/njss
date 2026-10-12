@@ -1,0 +1,64 @@
+{
+  "address": "607 ALMON AVENUE WOODBRIDGE NJ 07095",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00057224",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "JOSE A. TORRES, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$490,112.23",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00057224",
+    "Defendant": "JOSE A. TORRES, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 434 BLOCK 563.01 FKA 563.A",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
+    "Property Address": "607 ALMON AVENUE\nWOODBRIDGE NJ 07095",
+    "Property Note": "POSTED SUCESSFULLY BY DOUGLAS HORVATH\nOCTOBER 29, 2024",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-776642"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 490112.23,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "607 ALMON AVENUE WOODBRIDGE NJ 07095",
+    "defendant": "JOSE A. TORRES, ET ALS",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 434 BLOCK 563.01 FKA 563.A",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
+  "property_note": "POSTED SUCESSFULLY BY DOUGLAS HORVATH\nOCTOBER 29, 2024",
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-776642",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

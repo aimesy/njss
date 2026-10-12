@@ -1,0 +1,53 @@
+{
+  "address": "116 LAUREBA AVENUE STRATFORD NJ 08084",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01078625",
+  "current_status": "Scheduled",
+  "defendant": "MICHAEL W. IVINS; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "116 LAUREBA AVENUE\nSTRATFORD NJ 08084",
+    "Approx. Upset*": "$90,741.71",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F01078625",
+    "Defendant": "MICHAEL W. IVINS; ET AL.,",
+    "Parcel #": "19, in Block: 58 f/k/a 58A",
+    "Plaintiff": "AURORA FINANCIAL GROUP, INC.,",
+    "Property Note": "",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-26001609"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "116 LAUREBA AVENUE STRATFORD NJ 08084",
+    "defendant": "MICHAEL W. IVINS; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "AURORA FINANCIAL GROUP, INC.,",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "19, in Block: 58 f/k/a 58A",
+  "plaintiff": "AURORA FINANCIAL GROUP, INC.,",
+  "property_note": null,
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-26001609",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-28",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 90741.71,
+  "upset_amount_label": "Approx. Upset*"
+}

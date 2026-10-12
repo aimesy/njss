@@ -1,0 +1,57 @@
+{
+  "address": "149 COOPER FOLLY RD WINSLOW NJ",
+  "attorney": "GARY C. ZEITZ L.L.C.",
+  "attorney_phone": "856-857-1222",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F1297324",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JOSEPH G. FLORES AND MARY ANN FLORES, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "149 COOPER FOLLY RD\nWINSLOW NJ",
+    "Approx. Upset*": "$35,179.51",
+    "Attorney": "GARY C. ZEITZ L.L.C.",
+    "Attorney Phone": "856-857-1222",
+    "Court Case #": "F1297324",
+    "Defendant": "JOSEPH G. FLORES AND MARY ANN FLORES, ET AL.",
+    "Parcel #": "Block 2401, Lot 34 on the official Tax Map of the Township of Winslow",
+    "Plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "Property Note": "Prior liens and encumbrances not extinguished by sale:\nOpen tax quarters and unpaid municipal charges due and owing to the Township of Winslow: $443.88 as of June 23, 2026.\nThe full legal description can be found in the Office of the Clerk of Camden in Book 3145 at page 54.",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001707"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "149 COOPER FOLLY RD WINSLOW NJ",
+    "defendant": "JOSEPH G. FLORES AND MARY ANN FLORES, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 2401, Lot 34 on the official Tax Map of the Township of Winslow",
+  "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+  "property_note": "Prior liens and encumbrances not extinguished by sale:\nOpen tax quarters and unpaid municipal charges due and owing to the Township of Winslow: $443.88 as of June 23, 2026.\nThe full legal description can be found in the Office of the Clerk of Camden in Book 3145 at page 54.",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001707",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 35179.51,
+  "upset_amount_label": "Approx. Upset*"
+}

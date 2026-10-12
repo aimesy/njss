@@ -1,0 +1,80 @@
+{
+  "address": "263 CHURCHILL ROAD TEANECK NJ 07666",
+  "attorney": "JOHNSON AND ASSOCIATES AT LAW PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01168024",
+  "current_status": "BANKRUPTCY",
+  "defendant": "TOYA WOODSON AND MICKEY BENTSON",
+  "description": "UPSET PRICE: $734,188.23\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 734188.23
+  },
+  "fields": {
+    "Address": "263 CHURCHILL ROAD\nTEANECK NJ 07666",
+    "Approx. Upset*": "$682,674.43",
+    "Attorney": "JOHNSON AND ASSOCIATES AT LAW PC",
+    "Court Case #": "F01168024",
+    "Defendant": "TOYA WOODSON AND MICKEY BENTSON",
+    "Description": "UPSET PRICE: $734,188.23\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 18, BLOCK 1906",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007- MLN1",
+    "Property Note": "",
+    "Sales Date": "1/23/2026",
+    "Sheriff #": "F-25001402"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "263 CHURCHILL ROAD TEANECK NJ 07666",
+    "defendant": "TOYA WOODSON AND MICKEY BENTSON",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007- MLN1",
+    "sale_date": "2026-01-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 18, BLOCK 1906",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007- MLN1",
+  "property_note": null,
+  "sale_date": "2026-01-23",
+  "sheriff_number": "F-25001402",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-07-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-12",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Adjourned - Joint"
+    },
+    {
+      "date": "2025-12-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-23",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-01-23",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 682674.43,
+  "upset_amount_label": "Approx. Upset*"
+}

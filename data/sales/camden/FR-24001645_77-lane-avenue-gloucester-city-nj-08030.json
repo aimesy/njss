@@ -1,0 +1,85 @@
+{
+  "address": "77 LANE AVENUE GLOUCESTER CITY NJ 08030",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01231022",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "BRIAN W. LICHTY, HIS OR HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR, OR ANY OF THEIR, SUCCESSORS IN RIGHT, TITLE AND INTEREST; KELLIE A. LICHTY; BRIAN LICHTY, JR. AS HEIR TO THE ESTATE OF BRIAN W. LICHTY; KEITH LICHTY AS HEIR TO THE ESTATE OF BRIAN W. LICHTY; MATTHEW LICHTY AS HEIR TO THE ESTATE OF BRIAN W. LICHTY; CAMDEN COUNTY COMMUNITY DEVELOPMENT; UNITED STATES OF AMERICA; STATE OF NEW JERSEY;",
+  "extracted": {},
+  "fields": {
+    "Address": "77 LANE AVENUE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$112,641.58",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F01231022",
+    "Defendant": "BRIAN W. LICHTY, HIS OR HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR, OR ANY OF THEIR, SUCCESSORS IN RIGHT, TITLE AND INTEREST; KELLIE A. LICHTY; BRIAN LICHTY, JR. AS HEIR TO THE ESTATE OF BRIAN W. LICHTY; KEITH LICHTY AS HEIR TO THE ESTATE OF BRIAN W. LICHTY; MATTHEW LICHTY AS HEIR TO THE ESTATE OF BRIAN W. LICHTY; CAMDEN COUNTY COMMUNITY DEVELOPMENT; UNITED STATES OF AMERICA; STATE OF NEW JERSEY;",
+    "Parcel #": "",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "11/13/2025",
+    "Sheriff #": "FR-24001645"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "77 LANE AVENUE GLOUCESTER CITY NJ 08030",
+    "defendant": "BRIAN W. LICHTY, HIS OR HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR, OR ANY OF THEIR, SUCCESSORS IN RIGHT, TITLE AND INTEREST; KELLIE A. LICHTY; BRIAN LICHTY, JR. AS HEIR TO THE ESTATE OF BRIAN W. LICHTY; KEITH LICHTY AS HEIR TO THE ESTATE OF BRIAN W. LICHTY; MATTHEW LICHTY AS HEIR TO THE ESTATE OF BRIAN W. LICHTY; CAMDEN COUNTY COMMUNITY DEVELOPMENT; UNITED STATES OF AMERICA; STATE OF NEW JERSEY;",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2025-11-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-11-13",
+  "sheriff_number": "FR-24001645",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-08-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-07-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 112641.58,
+  "upset_amount_label": "Approx. Upset*"
+}

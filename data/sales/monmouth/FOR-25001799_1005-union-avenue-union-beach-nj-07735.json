@@ -1,0 +1,67 @@
+{
+  "address": "1005 Union Avenue Union Beach NJ 07735",
+  "attorney": "Goldenberg Mackler Sayegh Mintz Pfeffer Bonchi & Gill PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00976524",
+  "current_status": "Scheduled",
+  "defendant": "John Roder, et al.",
+  "description": "Property Size: 60.29' x 96.08' x 40' x 54.80' x 100' x 145'\nNearest Intersection: Cambridge Avenue\nUpset Price: $70,000.00",
+  "extracted": {
+    "upset_amount": 70000.0
+  },
+  "fields": {
+    "Address": "1005 Union Avenue\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$57,531.41",
+    "Attorney": "Goldenberg Mackler Sayegh Mintz Pfeffer Bonchi & Gill PC",
+    "Court Case #": "F00976524",
+    "Defendant": "John Roder, et al.",
+    "Description": "Property Size: 60.29' x 96.08' x 40' x 54.80' x 100' x 145'\nNearest Intersection: Cambridge Avenue\nUpset Price: $70,000.00",
+    "Parcel #": "Tax Lot 11 Tax Block 191 Tax Map of Borough of Union Beach",
+    "Plaintiff": "QUAKER 22, LLC",
+    "Property Note": "",
+    "Sales Date": "3/31/2026",
+    "Sheriff #": "FOR-25001799"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 57531.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1005 Union Avenue Union Beach NJ 07735",
+    "defendant": "John Roder, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "QUAKER 22, LLC",
+    "sale_date": "2026-03-31"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 11 Tax Block 191 Tax Map of Borough of Union Beach",
+  "plaintiff": "QUAKER 22, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-31",
+  "sheriff_number": "FOR-25001799",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-31",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Scheduled"
+    }
+  ]
+}

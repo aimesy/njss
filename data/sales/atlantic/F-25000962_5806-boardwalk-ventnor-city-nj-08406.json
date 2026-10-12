@@ -1,0 +1,82 @@
+{
+  "address": "5806 Boardwalk Ventnor City NJ 08406",
+  "attorney": "Chapman and Cutler LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005481-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "5806 Boardwalk LLC; Steven E. Fishman; LCP Ventures 7 LLC; The State of New Jersey; The United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "5806 Boardwalk\nVentnor City NJ 08406",
+    "Approx. Judgment*": "$2,652,894.77",
+    "Attorney": "Chapman and Cutler LLP",
+    "Court Case #": "F-005481-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "5806 Boardwalk LLC; Steven E. Fishman; LCP Ventures 7 LLC; The State of New Jersey; The United States of America",
+    "Plaintiff": "Bank of America, N.A.",
+    "Priors": "Outstanding Property Taxes estimated to be due to Ventnor City Tax Collector, amount: $115,535.76",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "11/5/2026",
+    "Sheriff #": "F-25000962",
+    "Upset Amount": "$2,652,894.77"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 2652894.77,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5806 Boardwalk Ventnor City NJ 08406",
+    "defendant": "5806 Boardwalk LLC; ...",
+    "listing_status": null,
+    "plaintiff": "Bank of America, N.A...",
+    "sale_date": "2026-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank of America, N.A.",
+  "priors": "Outstanding Property Taxes estimated to be due to Ventnor City Tax Collector, amount: $115,535.76",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-11-05",
+  "sheriff_number": "F-25000962",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-11-05",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-07-09",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "Consensual/Mutual Adjournment"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-10-30",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 2652894.77,
+  "upset_amount_label": "Upset Amount"
+}

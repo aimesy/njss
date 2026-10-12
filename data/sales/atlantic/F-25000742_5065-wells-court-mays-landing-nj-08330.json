@@ -1,0 +1,66 @@
+{
+  "address": "5065 Wells Court Mays Landing NJ 08330",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008058-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Beverly A. Harmon A/K/A Beverly Harmon; LVNV Funding LLC, Successor in Interest to Credit One Bank NA; Midlantic National Bank/South N/K/A PNC Bank, National Association; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "5065 Wells Court\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$275,920.46",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-008058-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Beverly A. Harmon A/K/A Beverly Harmon; LVNV Funding LLC, Successor in Interest to Credit One Bank NA; Midlantic National Bank/South N/K/A PNC Bank, National Association; State of New Jersey",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, not in its individual capacity but solely as Owner Trustee of MFA 2022-RPL1 Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "10/30/2025",
+    "Sheriff #": "F-25000742",
+    "Upset Amount": "$287,222.34"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 275920.46,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5065 Wells Court Mays Landing NJ 08330",
+    "defendant": "Beverly A. Harmon A/...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Savings F...",
+    "sale_date": "2025-10-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, not in its individual capacity but solely as Owner Trustee of MFA 2022-RPL1 Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-10-30",
+  "sheriff_number": "F-25000742",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-30",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-10-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-02",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-09-04",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 287222.34,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,76 @@
+{
+  "address": "210 HILLSIDE AVENUE SPRINGFIELD NJ 07081",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00074425",
+  "current_status": "Bankuptcy",
+  "defendant": "WAJUHN HERBERT, TASHA HERBERT, ZENOLA L. MONCREASE AND UNITED STATES OF AMERICA",
+  "description": "LOT 51 BLOCK 2901",
+  "extracted": {
+    "block": "2901",
+    "lot": "51"
+  },
+  "fields": {
+    "Address": "210 HILLSIDE AVENUE\nSPRINGFIELD NJ 07081",
+    "Approx. Upset*": "$637,355.48",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F00074425",
+    "Defendant": "WAJUHN HERBERT, TASHA HERBERT, ZENOLA L. MONCREASE AND UNITED STATES OF AMERICA",
+    "Description": "LOT 51 BLOCK 2901",
+    "Parcel #": "LOT 51 BLOCK 2901",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "4/8/2026",
+    "Sheriff #": "CH-25002085"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "210 HILLSIDE AVENUE SPRINGFIELD NJ 07081",
+    "defendant": "WAJUHN HERBERT, TASHA HERBERT, ZENOLA L. MONCREASE AND UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-04-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 51 BLOCK 2901",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-04-08",
+  "sheriff_number": "CH-25002085",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Sheriff Adjournment"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 637355.48,
+  "upset_amount_label": "Approx. Upset*"
+}

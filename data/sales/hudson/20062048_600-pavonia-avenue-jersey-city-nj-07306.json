@@ -1,0 +1,79 @@
+{
+  "address": "600 PAVONIA AVENUE JERSEY CITY NJ 07306",
+  "attorney": "CERTILMAN BALIN ADLER & HYMAN, LLP",
+  "attorney_phone": "516-296-7000",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "SWC-F-004844-24",
+  "current_status": "RESCHEDULED",
+  "defendant": "PAVONIA REALTY HOLDINGS LLC; RHODIUM PARTNERS LLC; RHODIUM REALTY HOLDINGS LTD; MOSHE SILBER; SAINT BARNABAS REALTY DEVELOPMENT CORPORATION; SHREE KOTYARK INC. D/B/A PAVONIA PHARMACY; JUBILEE VAPE; ALLIED DIGESTIVE HEALTH, LLC; COMPREHENSIVE NEUROLOGICAL SERVICES; RETINA CONSULTANTS, PA II; NEUROLOGY PARTNERS OF HUDSON COUNTY; ARTHRITIS CENTER OF NJ; HERITAGE MEDICAL MANAGEMENT LLC; NJEYE LLC D/B/A PRISM VISION GROUP, THERAPRO CORF, LLC; AND UNKNOWN TENANTS/OCCUPANTS 1-10",
+  "description": "LOT 13, BLOCK 7904\nDIMENSIONS OF LOT: 100.00' X 115.00'\nNUMBER OF FEET TO NEAREST CROSS STREET - 137.16' TO SUMMIT AVENUE",
+  "extracted": {
+    "block": "7904",
+    "lot": "13"
+  },
+  "fields": {
+    "Address": "600 PAVONIA AVENUE\nJERSEY CITY NJ 07306",
+    "Attorney": "CERTILMAN BALIN ADLER & HYMAN, LLP",
+    "Attorney Phone": "516-296-7000",
+    "Court Case #": "SWC-F-004844-24",
+    "Defendant": "PAVONIA REALTY HOLDINGS LLC; RHODIUM PARTNERS LLC; RHODIUM REALTY HOLDINGS LTD; MOSHE SILBER; SAINT BARNABAS REALTY DEVELOPMENT CORPORATION; SHREE KOTYARK INC. D/B/A PAVONIA PHARMACY; JUBILEE VAPE; ALLIED DIGESTIVE HEALTH, LLC; COMPREHENSIVE NEUROLOGICAL SERVICES; RETINA CONSULTANTS, PA II; NEUROLOGY PARTNERS OF HUDSON COUNTY; ARTHRITIS CENTER OF NJ; HERITAGE MEDICAL MANAGEMENT LLC; NJEYE LLC D/B/A PRISM VISION GROUP, THERAPRO CORF, LLC; AND UNKNOWN TENANTS/OCCUPANTS 1-10",
+    "Description": "LOT 13, BLOCK 7904\nDIMENSIONS OF LOT: 100.00' X 115.00'\nNUMBER OF FEET TO NEAREST CROSS STREET - 137.16' TO SUMMIT AVENUE",
+    "Good Faith Upset*": "",
+    "Judgment": "$27,390,784.36",
+    "Plaintiff": "BETHPAGE FEDERAL CREDIT UNION",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20062048"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 27390784.36,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "600 PAVONIA AVENUE JERSEY CITY NJ 07306",
+    "defendant": "PAVONIA REALTY HOLDINGS LLC; RHODIUM PARTNERS LLC; RHODIUM REALTY HOLDINGS LTD; MOSHE SILBER; SAINT BARNABAS REALTY DEVELOPMENT CORPORATION; SHREE KOTYARK INC. D/B/A PAVONIA PHARMACY; JUBILEE VAPE; ALLIED DIGESTIVE HEALTH, LLC; COMPREHENSIVE NEUROLOGICAL SERVICES; RETINA CONSULTANTS, PA II; NEUROLOGY PARTNERS OF HUDSON COUNTY; ARTHRITIS CENTER OF NJ; HERITAGE MEDICAL MANAGEMENT LLC; NJEYE LLC D/B/A PRISM VISION GROUP, THERAPRO CORF, LLC; AND UNKNOWN TENANTS/OCCUPANTS 1-10",
+    "listing_status": null,
+    "plaintiff": "BETHPAGE FEDERAL CREDIT UNION",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "BETHPAGE FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20062048",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-05-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-09-09",
+      "status": "HOLD"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "RESCHEDULED"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

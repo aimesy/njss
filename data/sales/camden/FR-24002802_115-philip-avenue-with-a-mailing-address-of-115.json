@@ -1,0 +1,73 @@
+{
+  "address": "115 PHILIP AVENUE WITH A MAILING ADDRESS OF 115 PHILLIPS AVENUE, MAGNOLIA NEW JERSEY 08049 MAGNOLIA NJ 08049",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "attorney_phone": "(973) 325-8800",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00677620",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "LINDA K. ELLIS; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "115 PHILIP AVENUE\nWITH A MAILING ADDRESS OF 115 PHILLIPS AVENUE, MAGNOLIA NEW JERSEY 08049\nMAGNOLIA NJ 08049",
+    "Approx. Upset*": "$233,055.61",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00677620",
+    "Defendant": "LINDA K. ELLIS; STATE OF NEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, D/B/A CHRISTIANA TRUST,\nNOT INDIVIDUALLY BUT AS TRUSTEE FOR RCF 2 ACQUISITION TRUST B,",
+    "Property Note": "",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "FR-24002802"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "115 PHILIP AVENUE WITH A MAILING ADDRESS OF 115 PHILLIPS AVENUE, MAGNOLIA NEW JERSEY 08049 MAGNOLIA NJ 08049",
+    "defendant": "LINDA K. ELLIS; STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, D/B/A CHRISTIANA TRUST, \nNOT INDIVIDUALLY BUT AS TRUSTEE FOR RCF 2 ACQUISITION TRUST B,",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR RCF 2 ACQUISITION TRUST B,",
+  "property_note": null,
+  "sale_date": "2026-04-01",
+  "sheriff_number": "FR-24002802",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 233055.61,
+  "upset_amount_label": "Approx. Upset*"
+}

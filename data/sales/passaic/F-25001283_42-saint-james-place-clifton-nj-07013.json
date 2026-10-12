@@ -1,0 +1,63 @@
+{
+  "address": "42 SAINT JAMES Place Clifton NJ 07013",
+  "attorney": "Brock & Scott PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 005281 24 CTL# 163013",
+  "current_status": "Cancelled",
+  "defendant": "BRADHY P. GUERRERO-PENA ET ALS",
+  "description": "Dimensions: 100 FT x 91 FT\nNearest Cross Street: OAK RIDGE RD\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\nThe occupancy status of the property is: OCCUPIED BY UNKNOWN.\nPlaintiff's good faith estimate of its upset price is: $725,514.81",
+  "extracted": {
+    "upset_amount": 725514.81
+  },
+  "fields": {
+    "Address": "42 SAINT JAMES Place\nClifton NJ 07013",
+    "Approx. Upset*": "$674,626.43",
+    "Attorney": "Brock & Scott PLLC",
+    "Court Case #": "F 005281 24 CTL# 163013",
+    "Defendant": "BRADHY P. GUERRERO-PENA ET ALS",
+    "Description": "Dimensions: 100 FT x 91 FT\nNearest Cross Street: OAK RIDGE RD\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\nThe occupancy status of the property is: OCCUPIED BY UNKNOWN.\nPlaintiff's good faith estimate of its upset price is: $725,514.81",
+    "Parcel #": "Lot 1 Block 41.04",
+    "Plaintiff": "CHANGE LENDING, LLC DBA CHANGE HOME MORTGAGE",
+    "Property Note": "",
+    "Sales Date": "11/18/2025",
+    "Sheriff #": "F-25001283"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "42 SAINT JAMES Place Clifton NJ 07013",
+    "defendant": "BRADHY P. GUERRERO-PENA ET ALS",
+    "listing_status": null,
+    "plaintiff": "CHANGE LENDING, LLC DBA CHANGE HOME MORTGAGE",
+    "sale_date": "2025-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 1 Block 41.04",
+  "plaintiff": "CHANGE LENDING, LLC DBA CHANGE HOME MORTGAGE",
+  "property_note": null,
+  "sale_date": "2025-11-18",
+  "sheriff_number": "F-25001283",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-09-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 674626.43,
+  "upset_amount_label": "Approx. Upset*"
+}

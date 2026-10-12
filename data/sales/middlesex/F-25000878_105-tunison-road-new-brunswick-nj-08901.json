@@ -1,0 +1,68 @@
+{
+  "address": "105 TUNISON ROAD NEW BRUNSWICK NJ 08901",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00643522",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JOSE LUIS TORRES, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$324,775.51",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F00643522",
+    "Defendant": "JOSE LUIS TORRES, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 21 BLOCK 742",
+    "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-HL1, ASSET BACKED CERTIFICATES, SERIES 2007-HL1",
+    "Property Address": "105 TUNISON ROAD\nNEW BRUNSWICK NJ 08901",
+    "Property Note": "",
+    "Sale Date": "8/20/2025",
+    "Sheriff #": "F-25000878"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 324775.51,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "105 TUNISON ROAD NEW BRUNSWICK NJ 08901",
+    "defendant": "JOSE LUIS TORRES, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-HL1, ASSET BACKED CERTIFICATES, SERIES 2007-HL1",
+    "sale_date": "2025-08-20"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 21 BLOCK 742",
+  "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-HL1, ASSET BACKED CERTIFICATES, SERIES 2007-HL1",
+  "property_note": null,
+  "sale_date": "2025-08-20",
+  "sheriff_number": "F-25000878",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

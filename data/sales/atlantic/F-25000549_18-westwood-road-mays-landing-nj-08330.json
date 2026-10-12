@@ -1,0 +1,70 @@
+{
+  "address": "18 Westwood Road Mays Landing NJ 08330",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011203-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Eric William Hall; Brenda Southavong; Sassafras Run Condominium Association, Inc; Jersey Shore Federal Credit Union",
+  "extracted": {},
+  "fields": {
+    "Address": "18 Westwood Road\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$124,978.19",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-011203-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Eric William Hall; Brenda Southavong; Sassafras Run Condominium Association, Inc; Jersey Shore Federal Credit Union",
+    "Plaintiff": "JH Residential Whole Loan Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "10/2/2025",
+    "Sheriff #": "F-25000549",
+    "Upset Amount": "$133,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 124978.19,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "18 Westwood Road Mays Landing NJ 08330",
+    "defendant": "Eric William Hall; B...",
+    "listing_status": null,
+    "plaintiff": "JH Residential Whole...",
+    "sale_date": "2025-10-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "JH Residential Whole Loan Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-10-02",
+  "sheriff_number": "F-25000549",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-02",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-10-02",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-09-18",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 133000.0,
+  "upset_amount_label": "Upset Amount"
+}

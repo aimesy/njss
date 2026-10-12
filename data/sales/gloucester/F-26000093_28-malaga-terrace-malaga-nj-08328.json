@@ -1,0 +1,63 @@
+{
+  "address": "28 MALAGA TERRACE MALAGA NJ 08328",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-003303-25",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "CHERYL HENDRICKS, ET AL.",
+  "description": "ESTIMATED UPSET AMOUNT: $286,195.70\nTHE UPSET PRICE IS NOT THE SAME AS A PAYFF OF JUDGMENT REDEMPTION AMOUNT\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "occupancy": "OCCUPIED BY UNKNOWN"
+  },
+  "fields": {
+    "Address": "28 MALAGA TERRACE\nMALAGA NJ 08328",
+    "Approximate Judgment": "$265,459.27",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-003303-25",
+    "Defendant": "CHERYL HENDRICKS, ET AL.",
+    "Description": "ESTIMATED UPSET AMOUNT: $286,195.70\nTHE UPSET PRICE IS NOT THE SAME AS A PAYFF OF JUDGMENT REDEMPTION AMOUNT\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Parcel #": "LOT: 9 BLOCK: 4733",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "TOWNSHIP OF FRANKLIN\nCOUNTY OF GLOUCESTER\n28 MALAGA TERRACE MALAGA, NJ 08328\nLOT: 9 BLOCK: 4733\nAPPROXIMATE DIMENSIONS: 100 FEET WIDE BY 200 FEET LONG\nNEAREST CROSS STREET: DELSEA DRIVE\nESTIMATED UPSET AMOUNT: $286,195.70\nTHE UPSET PRICE IS NOT THE SAME AS A PAYFF OF JUDGMENT REDEMPTION AMOUNT\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "5/13/2026",
+    "Sheriff #": "F-26000093"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 265459.27,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "28 MALAGA TERRACE MALAGA NJ 08328",
+    "defendant": "CHERYL HENDRICKS, ET AL.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-05-13"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 9 BLOCK: 4733",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": "TOWNSHIP OF FRANKLIN\nCOUNTY OF GLOUCESTER\n28 MALAGA TERRACE MALAGA, NJ 08328\nLOT: 9 BLOCK: 4733\nAPPROXIMATE DIMENSIONS: 100 FEET WIDE BY 200 FEET LONG\nNEAREST CROSS STREET: DELSEA DRIVE\nESTIMATED UPSET AMOUNT: $286,195.70\nTHE UPSET PRICE IS NOT THE SAME AS A PAYFF OF JUDGMENT REDEMPTION AMOUNT\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2026-05-13",
+  "sheriff_number": "F-26000093",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

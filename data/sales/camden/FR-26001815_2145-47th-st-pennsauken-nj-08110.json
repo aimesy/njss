@@ -1,0 +1,53 @@
+{
+  "address": "2145 47TH ST PENNSAUKEN NJ 08110",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00134426",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "DESWA EVANS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "2145 47TH ST\nPENNSAUKEN NJ 08110",
+    "Approx. Upset*": "$92,700.34",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00134426",
+    "Defendant": "DESWA EVANS, ET AL.",
+    "Parcel #": "Lot 6, Block 813 on the official Tax Map of the TOWNSHIP OF PENNSAUKEN",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "Pursuant to 28 USC 2410(c) this sale is subject to a 1 year right of redemption held by the United States of America by virtue of its lien:\nSUBORDINATE MORTGAGE: DESWA EVANS AND SINOVIA WALKER to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 03/12/2015 and recorded 06/05/2015 in Book OR 10208, Page 914, to secure $40,221.70",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26001815"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2145 47TH ST PENNSAUKEN NJ 08110",
+    "defendant": "DESWA EVANS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 6, Block 813 on the official Tax Map of the TOWNSHIP OF PENNSAUKEN",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "Pursuant to 28 USC 2410(c) this sale is subject to a 1 year right of redemption held by the United States of America by virtue of its lien:\nSUBORDINATE MORTGAGE: DESWA EVANS AND SINOVIA WALKER to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 03/12/2015 and recorded 06/05/2015 in Book OR 10208, Page 914, to secure $40,221.70",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26001815",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 92700.34,
+  "upset_amount_label": "Approx. Upset*"
+}

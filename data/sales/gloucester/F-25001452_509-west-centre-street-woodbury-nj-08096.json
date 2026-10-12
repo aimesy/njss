@@ -1,0 +1,52 @@
+{
+  "address": "509 WEST CENTRE STREET WOODBURY NJ 08096",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-006097-25",
+  "current_status": "Cancelled",
+  "defendant": "JACOB BOWE, ET AL.",
+  "description": "ESTIMATED UPSET PRICEE: $165,461.99\nOCCUPANCY STATUS: OCCUPIED BY OWNER",
+  "extracted": {
+    "occupancy": "OCCUPIED BY OWNER",
+    "upset_amount": 165461.99
+  },
+  "fields": {
+    "Address": "509 WEST CENTRE STREET\nWOODBURY NJ 08096",
+    "Approximate Judgment": "$154,024.91",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F-006097-25",
+    "Defendant": "JACOB BOWE, ET AL.",
+    "Description": "ESTIMATED UPSET PRICEE: $165,461.99\nOCCUPANCY STATUS: OCCUPIED BY OWNER",
+    "Parcel #": "LOT: 13 BLOCK: 11",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "CITY OF WOODBURY\nCOUNTY OF GLOUCESTER\n509 WEST CENTRE STREET WOODBURY, NJ 08096\nLOT: 13 BLOCK: 11\nAPPROXIMATE DIMENSIONS: 46 FT. X 150 FT.\nNEAREST CROSS STREET: S GIRARD ST.\nESTIMATED UPSET PRICEE: $165,461.99\nOCCUPANCY STATUS: OCCUPIED BY OWNER\nNEW JERSEY MORTGAGE: JACOB BOWE AND HELEN BOWE TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 09/04/2024 AND RECORDED ON 09/25/2024, IN BOOK MB 18505, PAGE 11, TO SECURE $16,002.82. THE MORTGAGE WAS ALSO EXECUTED BY HELEN BOWE TO ACKNOWLEDGE THIS AGREEMENT, BUT NOT TO INCUR ANY PERSONAL LIABILLTY FOR THE DEBT.",
+    "Sales Date": "12/16/2025",
+    "Sheriff #": "F-25001452"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 154024.91,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "509 WEST CENTRE STREET WOODBURY NJ 08096",
+    "defendant": "JACOB BOWE, ET AL.",
+    "listing_status": "Cancelled",
+    "plaintiff": "M&T BANK",
+    "sale_date": "2025-12-16"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 13 BLOCK: 11",
+  "plaintiff": "M&T BANK",
+  "property_note": "CITY OF WOODBURY\nCOUNTY OF GLOUCESTER\n509 WEST CENTRE STREET WOODBURY, NJ 08096\nLOT: 13 BLOCK: 11\nAPPROXIMATE DIMENSIONS: 46 FT. X 150 FT.\nNEAREST CROSS STREET: S GIRARD ST.\nESTIMATED UPSET PRICEE: $165,461.99\nOCCUPANCY STATUS: OCCUPIED BY OWNER\nNEW JERSEY MORTGAGE: JACOB BOWE AND HELEN BOWE TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 09/04/2024 AND RECORDED ON 09/25/2024, IN BOOK MB 18505, PAGE 11, TO SECURE $16,002.82. THE MORTGAGE WAS ALSO EXECUTED BY HELEN BOWE TO ACKNOWLEDGE THIS AGREEMENT, BUT NOT TO INCUR ANY PERSONAL LIABILLTY FOR THE DEBT.",
+  "sale_date": "2025-12-16",
+  "sheriff_number": "F-25001452",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-12-16",
+      "status": "Cancelled"
+    }
+  ]
+}

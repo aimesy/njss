@@ -1,0 +1,59 @@
+{
+  "address": "5 HIGHLAND AVENUE FLEMINGTON NJ 08822",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE",
+  "attorney_phone": "732-902-5399",
+  "county": "Hunterdon County, NJ",
+  "county_id": 32,
+  "court_case_number": "F-003492-25",
+  "current_status": "Scheduled",
+  "defendant": "PAUL A. DEMARCO ;ET AL.",
+  "description": "UPSET PRICE: 194,335.69\nOCCUPANCY STATUS : OCCUPIED",
+  "extracted": {},
+  "fields": {
+    "Address": "5 HIGHLAND AVENUE\nFLEMINGTON NJ 08822",
+    "Approx Judgment": "$167,791.99",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F-003492-25",
+    "Defendant": "PAUL A. DEMARCO ;ET AL.",
+    "Parcel #": "LOT 2, BLOCK 12",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST ;ET AL.",
+    "Property Details": "UPSET PRICE: 194,335.69\nOCCUPANCY STATUS : OCCUPIED",
+    "Property Note": "UPSET PRICE: 194,335.69\nOCCUPANCY STATUS : OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**\nSUBJECT TO: TAX SALE CERTIFICATE NO. 24-00005 IN THE AMOUNT OF $9,075.76.\nWATER/SEWER IN THE AMOUNT OF $379.10, OPEN PLUS PENALTY.\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "F-4128"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 167791.99,
+  "judgment_amount_label": "Approx Judgment",
+  "listing": {
+    "address": "5 HIGHLAND AVENUE FLEMINGTON NJ 08822",
+    "defendant": "PAUL A. DEMARCO ;ET AL.",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST ;ET AL.",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
+  "parcel": "LOT 2, BLOCK 12",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST ;ET AL.",
+  "property_note": "UPSET PRICE: 194,335.69\nOCCUPANCY STATUS : OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**\nSUBJECT TO: TAX SALE CERTIFICATE NO. 24-00005 IN THE AMOUNT OF $9,075.76.\nWATER/SEWER IN THE AMOUNT OF $379.10, OPEN PLUS PENALTY.\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "sale_date": "2026-08-05",
+  "sheriff_number": "F-4128",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Scheduled"
+    }
+  ]
+}

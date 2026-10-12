@@ -1,0 +1,64 @@
+{
+  "address": "255 NORTH MIDDLESEX COURT THOROFARE NJ 08086",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-010612-22",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "JOSEPH W. PALESE; ET AL.",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $455,800.00\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 455800.0
+  },
+  "fields": {
+    "Address": "255 NORTH MIDDLESEX COURT\nTHOROFARE NJ 08086",
+    "Approximate Judgment": "$552,353.97",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-010612-22",
+    "Defendant": "JOSEPH W. PALESE; ET AL.",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $455,800.00\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT: 50 BLOCK: 241",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-IGLOO SERIES IV TRUST",
+    "Property Note": "TOWNSHIP OF WEST DEPTFORD\nCOUNTY OF GLOUCESTER\n255 NORTH MIDDLESEX COURT, THOROFARE, NJ 08086\nLOT: 50 BLOCK: 241\nAPPROXIMATE DIMENSIONS: 80 x 102.35\nNEAREST CROSS STREET: HARDING AVE.\nGOOD FAITH ESTIMATED UPSET PRICE: $455,800.00\nOCCUPANCY STATUS: OWNER OCCUPIED\nTAX CERTIFICATE\nRECORDED: NOVEMBER 04, 2021\nHOLDER: FIG CUST FIGNJ19LLC & SEC PTY\nAMOUNT: $696.30\nBOOK: 17284\nPAGE: 61\nINSTRUMENT NUMBER: 21-00049\nJUDGMENT\nRECORDED: 10/01/2004\nHOLDER: KLM CONTRACTOR SERVICES\nAMOUNT: $829.89\nJUDGMENT NUMBER: DJ-264423-2004\nJUDGMENT\nRECORDED: 02/10/2006\nHOLDER: MULTI SERVICE\nAMOUNT: $10,326.78\nJUDGMENT NMBER: DJ-35364-2006",
+    "Sales Date": "11/16/2025",
+    "Sheriff #": "F-25000781"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 552353.97,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "255 NORTH MIDDLESEX COURT THOROFARE NJ 08086",
+    "defendant": "JOSEPH W. PALESE; ET AL.",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-IGLOO SERIES IV TRUST",
+    "sale_date": "2025-11-16"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 50 BLOCK: 241",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-IGLOO SERIES IV TRUST",
+  "property_note": "TOWNSHIP OF WEST DEPTFORD\nCOUNTY OF GLOUCESTER\n255 NORTH MIDDLESEX COURT, THOROFARE, NJ 08086\nLOT: 50 BLOCK: 241\nAPPROXIMATE DIMENSIONS: 80 x 102.35\nNEAREST CROSS STREET: HARDING AVE.\nGOOD FAITH ESTIMATED UPSET PRICE: $455,800.00\nOCCUPANCY STATUS: OWNER OCCUPIED\nTAX CERTIFICATE\nRECORDED: NOVEMBER 04, 2021\nHOLDER: FIG CUST FIGNJ19LLC & SEC PTY\nAMOUNT: $696.30\nBOOK: 17284\nPAGE: 61\nINSTRUMENT NUMBER: 21-00049\nJUDGMENT\nRECORDED: 10/01/2004\nHOLDER: KLM CONTRACTOR SERVICES\nAMOUNT: $829.89\nJUDGMENT NUMBER: DJ-264423-2004\nJUDGMENT\nRECORDED: 02/10/2006\nHOLDER: MULTI SERVICE\nAMOUNT: $10,326.78\nJUDGMENT NMBER: DJ-35364-2006",
+  "sale_date": "2025-11-16",
+  "sheriff_number": "F-25000781",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-11-16",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

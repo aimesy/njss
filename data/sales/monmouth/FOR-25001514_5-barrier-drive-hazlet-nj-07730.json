@@ -1,0 +1,64 @@
+{
+  "address": "5 Barrier Drive Hazlet NJ 07730",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01265424",
+  "current_status": "Scheduled",
+  "defendant": "Anna M. Telesino et at.",
+  "description": "Dimensions of Lot:\n78 feet wide by 115 IRR feet long .2059 AC\nNearest Cross Street: Coral Drive\nEstimated upset bid amount: $40,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 3 Due: 08/01/2025 $2,621.07 OPEN: Grace Period Extended to: 08/27/2025\n2025 Qtr 4 Due: 11/01/2025 $2,621.06 OPEN\n2026 Qtr 1 Due: 02/01/2026 $2,590.21 OPEN\n2026 Qtr 2 Due: 05/01/2026 $2,590.21 OPEN\nSewer: Hazlet Township 1766 Union Ave. Hazlet, NJ 07730 732-264-1700\nAcct: 353 0 10/01/2025 - 12/31/2025 $99.00 OPEN $198.29 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "78",
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "5 Barrier Drive\nHazlet NJ 07730",
+    "Approx. Judgment*": "$41,940.17",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F01265424",
+    "Defendant": "Anna M. Telesino et at.",
+    "Description": "Dimensions of Lot:\n78 feet wide by 115 IRR feet long .2059 AC\nNearest Cross Street: Coral Drive\nEstimated upset bid amount: $40,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nto ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 3 Due: 08/01/2025 $2,621.07 OPEN: Grace Period Extended to: 08/27/2025\n2025 Qtr 4 Due: 11/01/2025 $2,621.06 OPEN\n2026 Qtr 1 Due: 02/01/2026 $2,590.21 OPEN\n2026 Qtr 2 Due: 05/01/2026 $2,590.21 OPEN\nSewer: Hazlet Township 1766 Union Ave. Hazlet, NJ 07730 732-264-1700\nAcct: 353 0 10/01/2025 - 12/31/2025 $99.00 OPEN $198.29 OPEN PLUS PENALTY",
+    "Parcel #": "Tax Lot 31 Block 197.01 Tax Map of the Township of Hazlet",
+    "Plaintiff": "Selene Finance, LP",
+    "Property Note": "",
+    "Sales Date": "11/24/2025",
+    "Sheriff #": "FOR-25001514"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 41940.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 Barrier Drive Hazlet NJ 07730",
+    "defendant": "Anna M. Telesino et at.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Selene Finance, LP",
+    "sale_date": "2025-11-24"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 31 Block 197.01 Tax Map of the Township of Hazlet",
+  "plaintiff": "Selene Finance, LP",
+  "property_note": null,
+  "sale_date": "2025-11-24",
+  "sheriff_number": "FOR-25001514",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-24",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "address": "3013 FENWICK ROAD CAMDEN NJ 08104",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00476224",
+  "current_status": "Purchased",
+  "defendant": "MIGUEL A SUAREZ, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF BETTY ANN SUAREZ, ET. AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "3013 FENWICK ROAD\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$83,241.02",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00476224",
+    "Defendant": "MIGUEL A SUAREZ, INDIVIDUALLY AND AS ADMINISTRATOR\nOF THE ESTATE OF BETTY ANN SUAREZ, ET. AL.",
+    "Parcel #": "",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "",
+    "Sales Date": "12/3/2025",
+    "Sheriff #": "FR-25002007"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3013 FENWICK ROAD CAMDEN NJ 08104",
+    "defendant": "MIGUEL A SUAREZ, INDIVIDUALLY AND AS ADMINISTRATOR \nOF THE ESTATE OF BETTY ANN SUAREZ, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "FR-25002007",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 83241.02,
+  "upset_amount_label": "Approx. Upset*"
+}

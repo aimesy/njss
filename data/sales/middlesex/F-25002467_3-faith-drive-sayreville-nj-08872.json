@@ -1,0 +1,60 @@
+{
+  "address": "3 FAITH DRIVE SAYREVILLE NJ 08872",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00894324",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "KEVIN ARI SKOLNIK, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$285,196.27",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00894324",
+    "Defendant": "KEVIN ARI SKOLNIK, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 42.03 BLOCK 247.12",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR GS MORTGAGE-BACKED SECURITIES TRUST 2022-RPL2",
+    "Property Address": "3 FAITH DRIVE\nSAYREVILLE NJ 08872",
+    "Property Note": "",
+    "Sale Date": "12/17/2025",
+    "Sheriff #": "F-25002467"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 285196.27,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 FAITH DRIVE SAYREVILLE NJ 08872",
+    "defendant": "KEVIN ARI SKOLNIK, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR GS MORTGAGE-BACKED SECURITIES TRUST 2022-RPL2",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 42.03 BLOCK 247.12",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR GS MORTGAGE-BACKED SECURITIES TRUST 2022-RPL2",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "F-25002467",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-17",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

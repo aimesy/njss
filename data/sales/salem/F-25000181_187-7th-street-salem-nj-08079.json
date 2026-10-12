@@ -1,0 +1,59 @@
+{
+  "address": "187 7th Street Salem NJ 08079",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-012092-24",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "Theresa L. Pitts, Et Al.",
+  "description": "Approximate Dimensions: 40' X 168'\nUpset Price: $125,80.00. The upset amount may be subject to further orders of additional sums. Occupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 12580.0
+  },
+  "fields": {
+    "Address": "187 7th Street\nSalem NJ 08079",
+    "Court Case #": "F-012092-24",
+    "Defendant": "Theresa L. Pitts, Et Al.",
+    "Description": "Approximate Dimensions: 40' X 168'\nUpset Price: $125,80.00. The upset amount may be subject to further orders of additional sums. Occupancy Status: Unknown",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, As Trustee For The Benefit Of The Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-1",
+    "Sales Date": "12/01/2025 02:00 PM",
+    "Sheriff #": "F-25000181"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "187 7th Street Salem NJ 08079",
+    "defendant": "Theresa L. Pitts, Et Al.",
+    "listing_status": null,
+    "plaintiff": "Federal Home Loan Mortgage Corporation, As Trustee For The Benefit Of The Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-1",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, As Trustee For The Benefit Of The Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-1",
+  "sale_date": null,
+  "sheriff_number": "F-25000181",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Court Order"
+    },
+    {
+      "date": null,
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

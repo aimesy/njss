@@ -1,0 +1,51 @@
+{
+  "address": "79 Crescent Drive Ringwood NJ 07456",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004787 26 CTL#163274",
+  "current_status": "Scheduled",
+  "defendant": "MIGUEL A. VIVAS ET ALS",
+  "description": "Dimensions of Lot (approximately): 5.5 acres\nNearest Cross Street: Burnt Meadow Road\nApprox Upset Price: $29,000.00\nProperty Status - Borrowed Occupied\nSubject to senior mortgage, Freedom Mortgage Corporation, original mortgage recorded 08/14/2020 in book M16342, page 231 in the original amount of $625,500.00, third parties must obtain their own payoff and payoff senior mortgage.\nPursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.",
+  "extracted": {
+    "upset_amount": 29000.0
+  },
+  "fields": {
+    "Address": "79 Crescent Drive\nRingwood NJ 07456",
+    "Approx. Upset*": "$23,931.33",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F 004787 26 CTL#163274",
+    "Defendant": "MIGUEL A. VIVAS ET ALS",
+    "Description": "Dimensions of Lot (approximately): 5.5 acres\nNearest Cross Street: Burnt Meadow Road\nApprox Upset Price: $29,000.00\nProperty Status - Borrowed Occupied\nSubject to senior mortgage, Freedom Mortgage Corporation, original mortgage recorded 08/14/2020 in book M16342, page 231 in the original amount of $625,500.00, third parties must obtain their own payoff and payoff senior mortgage.\nPursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.",
+    "Parcel #": "Block 200.01 Lot 10,11",
+    "Plaintiff": "CITIZENS BANK N.A.",
+    "Property Note": "",
+    "Sales Date": "1/19/2027",
+    "Sheriff #": "F-26001652"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "79 Crescent Drive Ringwood NJ 07456",
+    "defendant": "MIGUEL A. VIVAS ET ALS",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK N.A.",
+    "sale_date": "2027-01-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Block 200.01 Lot 10,11",
+  "plaintiff": "CITIZENS BANK N.A.",
+  "property_note": null,
+  "sale_date": "2027-01-19",
+  "sheriff_number": "F-26001652",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-01-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 23931.33,
+  "upset_amount_label": "Approx. Upset*"
+}

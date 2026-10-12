@@ -1,0 +1,51 @@
+{
+  "address": "25 Alvine Road Pittsgrove NJ 08318",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-012037-22",
+  "current_status": "Cancelled",
+  "defendant": "Matthew S Gibson; Mr. or Mrs. Gibson, The Spouse, Domestic Partner, Civil Union Partner of Matthew S. Gibson",
+  "description": "Approximate Dimensions: 200 x 288.63 x 197.77 x 262.05. Approximate Upset Price: $361,000.00. The upset amount may be subject to further orders of additional sums. Occupancy Status: Owner Occupied",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 361000.0
+  },
+  "fields": {
+    "Address": "25 Alvine Road\nPittsgrove NJ 08318",
+    "Court Case #": "F-012037-22",
+    "Defendant": "Matthew S Gibson; Mr. or Mrs. Gibson, The Spouse, Domestic Partner, Civil Union Partner of Matthew S. Gibson",
+    "Description": "Approximate Dimensions: 200 x 288.63 x 197.77 x 262.05. Approximate Upset Price: $361,000.00. The upset amount may be subject to further orders of additional sums. Occupancy Status: Owner Occupied",
+    "Plaintiff": "Towne Mortgage Company",
+    "Sales Date": "01/26/2026 02:00 PM",
+    "Sheriff #": "F-25000278"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "25 Alvine Road Pittsgrove NJ 08318",
+    "defendant": "Matthew S Gibson; Mr. or Mrs. Gibson, The Spouse, Domestic Partner, Civil Union Partner of Matthew S. Gibson",
+    "listing_status": null,
+    "plaintiff": "Towne Mortgage Company",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Towne Mortgage Company",
+  "sale_date": null,
+  "sheriff_number": "F-25000278",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

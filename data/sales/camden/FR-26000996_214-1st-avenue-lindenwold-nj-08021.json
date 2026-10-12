@@ -1,0 +1,53 @@
+{
+  "address": "214 1ST AVENUE LINDENWOLD NJ 08021",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "(856) 858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01322325",
+  "current_status": "Purchased",
+  "defendant": "JAMION JEROD ANDERSON, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "214 1ST AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$304,662.69",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "(856) 858-7080",
+    "Court Case #": "F01322325",
+    "Defendant": "JAMION JEROD ANDERSON, ET AL.",
+    "Parcel #": "BLOCK: 183 LOT 6 & 7",
+    "Plaintiff": "NAVY FEDERAL CREDIT UNION",
+    "Property Note": "",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-26000996"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "214 1ST AVENUE LINDENWOLD NJ 08021",
+    "defendant": "JAMION JEROD ANDERSON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NAVY FEDERAL CREDIT UNION",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK: 183 LOT 6 & 7",
+  "plaintiff": "NAVY FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-26000996",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 304662.69,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,70 @@
+{
+  "address": "165-169 RICHELIEU TERRACE MAILING ADDRESS OF 167 RICHELIEU TERRACE NEWARK NJ 07106",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_phone": null,
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F02299416",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "DIANE BROWN-STITH, ET.AL.",
+  "description": "TAX LOT NO. 31, BLOCK 4126.\nDIMENSIONS OF LOT: ( APPROXIMATELY) 75 FEET BY 93.63 FEET\nNEAREST CROSS STREET: VARSITY ROAD\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $145,091.06\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHIS PROPERTY IS OCCUPIED BY UNKNOWN.",
+  "extracted": {
+    "block": "4126",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "165-169 RICHELIEU TERRACE\nMAILING ADDRESS OF 167 RICHELIEU TERRACE\nNEWARK NJ 07106",
+    "Approx. Upset*": "$104,472.90",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney Phone": "",
+    "Court Case #": "F02299416",
+    "Defendant": "DIANE BROWN-STITH, ET.AL.",
+    "Description": "TAX LOT NO. 31, BLOCK 4126.\nDIMENSIONS OF LOT: ( APPROXIMATELY) 75 FEET BY 93.63 FEET\nNEAREST CROSS STREET: VARSITY ROAD\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $145,091.06\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHIS PROPERTY IS OCCUPIED BY UNKNOWN.",
+    "Parcel #": "",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "10/16/2026",
+    "Sheriff #": "F-24004548"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "165-169 RICHELIEU TERRACE MAILING ADDRESS OF 167 RICHELIEU TERRACE NEWARK NJ 07106",
+    "defendant": "DIANE BROWN-STITH, ET.AL.",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-10-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-10-16",
+  "sheriff_number": "F-24004548",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-07",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-06-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-10",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-16",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 104472.9,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,61 @@
+{
+  "address": "534 LIVINGSTON STREET ELIZABETH NJ 07201",
+  "attorney": "HILL WALLACK LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00961225",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "JOSE HERNANDEZ; MARIA HERNANDEZ; CENTRAL JERSEY FED CREDIT UNION; BANK OF AMERICANA; KINGSBRIDGE ASSOC LLC; NJ PPTY LIAB INS. GTY ASSN; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "534 LIVINGSTON STREET\nELIZABETH NJ 07201",
+    "Approx. Upset*": "$259,101.10",
+    "Attorney": "HILL WALLACK LLP",
+    "Court Case #": "F00961225",
+    "Defendant": "JOSE HERNANDEZ; MARIA HERNANDEZ; CENTRAL JERSEY FED CREDIT UNION; BANK OF AMERICANA; KINGSBRIDGE ASSOC LLC; NJ PPTY LIAB INS. GTY ASSN; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "",
+    "Parcel #": "LOT 9 F/K/A 639 BLOCK 662 F/K/A 3",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "All that certain land and premises situated in the City of Elizabeth, County of Union, State of New Jersey, being more particularly described as follows:\nProperty Occupancy: Non-Owner Occupied on the Tax Map of the City of Elizabeth\nNearest Cross Street: Approximately 379.02ft to the Nearest Cross Street known as 6th Street\nApproximate Dimensions: 100.00ft x 25.00ft x 100.00ft x 25.00f\nThe full legal description can be found in the Office of the Clerk of Union County in Deed Book 6142, at Page 46\nAPPROXIMATE UPSET AMOUNT IS $280,788.31 FOR THE SHERIFF SALE\nPursuant to a municipal tax search dated March 17, 2026.\nSubject to: 2026 2nd quarter taxes due 5/1/2026, $2,034.83 OPEN\n2026 3rd quarter taxes due 8/1/2026, TO BE DETERMINED\nWater/Sewer: To: 3/1/2026, $5,016.89 OPEN PLUS PENLATY; OWED IN ARREARS\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE\nWITHOUT FURTHER NOTICE THROUGH PUBLICATION\n4914-9936-6555, v. 1\nHILL WALLACK LLP\nATTORNEYS AT LAW\nPage 3\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding surplus, if any.\n4914-9936-6555, v. 1",
+    "Sales Date": "7/29/2026",
+    "Sheriff #": "CH-26000794"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "534 LIVINGSTON STREET ELIZABETH NJ 07201",
+    "defendant": "JOSE HERNANDEZ; MARIA HERNANDEZ; CENTRAL JERSEY FED CREDIT UNION; BANK OF AMERICANA; KINGSBRIDGE ASSOC LLC; NJ PPTY LIAB INS. GTY ASSN; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-07-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 9 F/K/A 639 BLOCK 662 F/K/A 3",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": "All that certain land and premises situated in the City of Elizabeth, County of Union, State of New Jersey, being more particularly described as follows:\nProperty Occupancy: Non-Owner Occupied on the Tax Map of the City of Elizabeth\nNearest Cross Street: Approximately 379.02ft to the Nearest Cross Street known as 6th Street\nApproximate Dimensions: 100.00ft x 25.00ft x 100.00ft x 25.00f\nThe full legal description can be found in the Office of the Clerk of Union County in Deed Book 6142, at Page 46\nAPPROXIMATE UPSET AMOUNT IS $280,788.31 FOR THE SHERIFF SALE\nPursuant to a municipal tax search dated March 17, 2026.\nSubject to: 2026 2nd quarter taxes due 5/1/2026, $2,034.83 OPEN\n2026 3rd quarter taxes due 8/1/2026, TO BE DETERMINED\nWater/Sewer: To: 3/1/2026, $5,016.89 OPEN PLUS PENLATY; OWED IN ARREARS\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE\nWITHOUT FURTHER NOTICE THROUGH PUBLICATION\n4914-9936-6555, v. 1\nHILL WALLACK LLP\nATTORNEYS AT LAW\nPage 3\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding surplus, if any.\n4914-9936-6555, v. 1",
+  "sale_date": "2026-07-29",
+  "sheriff_number": "CH-26000794",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-07-28",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 259101.1,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,71 @@
+{
+  "address": "27 Henry Street Freehold NJ 07728",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00744123",
+  "current_status": "Scheduled",
+  "defendant": "Morgan McNulty, et al",
+  "description": "Dimensions of Lot: 50' x 153'\nNearest Cross Street: Broadway\nSUPERIOR INTERESTS (if any): Any and all easements, covenants, restrictions and reservations of record; Any set of facts which an accurate survey and inspection would disclose; All unpaid municipal taxes, assessments and liens; Any unpaid assessment and any outstanding tax sale certificate; Rights of any party in possession/rights protected by the NJ Anti-Eviction act; All Local, County, State and Federal ordinances and regulations; Any condominium association lien granted priority by N.J.S.A 46:8B-21b; Any outstanding Condominium, PUD or Homeowner Association dues or fees; Rights of the United States of America, if any; The property is sold in its “AS IS” condition; Purchaser shall be responsible for Sheriff’s costs, commission, deed recording fees and realty transfer fees.\nFreehold Boro holds a claim in the amount of $.06 plus penalty for 4th Quarter 2023 Taxes as of 12/14/2023.\nFreehold Boro Water and Sewer Department holds a claim in the amount of $82.22 plus penalty as of 12/14/2023.",
+  "extracted": {
+    "lot": "50"
+  },
+  "fields": {
+    "Address": "27 Henry Street\nFreehold NJ 07728",
+    "Approx. Judgment*": "$109,715.02",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F00744123",
+    "Defendant": "Morgan McNulty, et al",
+    "Description": "Dimensions of Lot: 50' x 153'\nNearest Cross Street: Broadway\nSUPERIOR INTERESTS (if any): Any and all easements, covenants, restrictions and reservations of record; Any set of facts which an accurate survey and inspection would disclose; All unpaid municipal taxes, assessments and liens; Any unpaid assessment and any outstanding tax sale certificate; Rights of any party in possession/rights protected by the NJ Anti-Eviction act; All Local, County, State and Federal ordinances and regulations; Any condominium association lien granted priority by N.J.S.A 46:8B-21b; Any outstanding Condominium, PUD or Homeowner Association dues or fees; Rights of the United States of America, if any; The property is sold in its “AS IS” condition; Purchaser shall be responsible for Sheriff’s costs, commission, deed recording fees and realty transfer fees.\nFreehold Boro holds a claim in the amount of $.06 plus penalty for 4th Quarter 2023 Taxes as of 12/14/2023.\nFreehold Boro Water and Sewer Department holds a claim in the amount of $82.22 plus penalty as of 12/14/2023.",
+    "Parcel #": "Block: 43 Lot: 41 Tax Map of Freehold Borough",
+    "Plaintiff": "CitiMortgage, Inc.",
+    "Property Note": "",
+    "Sales Date": "12/11/2024",
+    "Sheriff #": "FOR-24000076"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 109715.02,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "27 Henry Street Freehold NJ 07728",
+    "defendant": "Morgan McNulty, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "CitiMortgage, Inc.",
+    "sale_date": "2024-12-11"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block: 43 Lot: 41 Tax Map of Freehold Borough",
+  "plaintiff": "CitiMortgage, Inc.",
+  "property_note": null,
+  "sale_date": "2024-12-11",
+  "sheriff_number": "FOR-24000076",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-11",
+      "status": "Canceled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-09-09",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2024-07-01",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-06-03",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-05-06",
+      "status": "Scheduled"
+    }
+  ]
+}

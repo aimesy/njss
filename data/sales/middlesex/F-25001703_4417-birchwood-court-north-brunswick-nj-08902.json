@@ -1,0 +1,64 @@
+{
+  "address": "4417 BIRCHWOOD COURT NORTH BRUNSWICK NJ 08902",
+  "attorney": "PLUESE BECKER SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00967824",
+  "current_status": "Settled",
+  "defendant": "LESLEY EASTMAN, HEIR AND ADMINISTRATOR OF THE ESTATE OF BARBARA F. EASTMAN",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$23,996.45",
+    "Attorney": "PLUESE BECKER SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00967824",
+    "Defendant": "LESLEY EASTMAN, HEIR AND ADMINISTRATOR OF THE ESTATE OF BARBARA F. EASTMAN",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 18.4417 FKA 18.11 C4417 BLOCK 143",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Address": "4417 BIRCHWOOD COURT\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "",
+    "Sale Date": "10/29/2025",
+    "Sheriff #": "F-25001703"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 23996.45,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4417 BIRCHWOOD COURT NORTH BRUNSWICK NJ 08902",
+    "defendant": "LESLEY EASTMAN, HEIR AND ADMINISTRATOR OF THE ESTATE OF BARBARA F. EASTMAN",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 18.4417 FKA 18.11 C4417 BLOCK 143",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25001703",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-05",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

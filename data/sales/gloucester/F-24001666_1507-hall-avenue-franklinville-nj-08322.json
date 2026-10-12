@@ -1,0 +1,75 @@
+{
+  "address": "1507 HALL AVENUE FRANKLINVILLE NJ 08322",
+  "attorney": "RAS CITRON, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-007761-24",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "NASIR PRICE",
+  "description": "Estimated upset bid amount: $458,000.00, plus any additional sums as ordered by the court. Occupancy status: Owner occupied.",
+  "extracted": {
+    "occupancy": "Owner occupied."
+  },
+  "fields": {
+    "Address": "1507 HALL AVENUE\nFRANKLINVILLE NJ 08322",
+    "Approximate Judgment": "$396,338.05",
+    "Attorney": "RAS CITRON, LLC",
+    "Court Case #": "F-007761-24",
+    "Defendant": "NASIR PRICE",
+    "Description": "Estimated upset bid amount: $458,000.00, plus any additional sums as ordered by the court. Occupancy status: Owner occupied.",
+    "Parcel #": "BLOCK: 2201 LOT: 1",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2017-2, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "Property Note": "The property to be sold is located in the Township of FRANKLIN in the County of GLOUCESTER and State of New Jersey.\nCommonly known as 1507 HALL AVENUE, FRANKLINVILLE, NJ 08322\nTax LOT 1 BLOCK 2201\nDimensions of Lot: 480 feet wide by 329 IRR 4.71 AC\nNearest Cross Street: Woodland Ave\nEstimated upset bid amount: $458,000.00, plus any additional sums as ordered by the court. Occupancy status: Owner occupied.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\n2025 Qtr 4 Due: 11/01/2025 $1,883.65 OPEN\n2026 Qtr 1 Due: 02/01/2026 $1,853.94 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,853.94 OPEN",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "F-24001666"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 396338.05,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1507 HALL AVENUE FRANKLINVILLE NJ 08322",
+    "defendant": "NASIR PRICE",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2017-2, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 2201 LOT: 1",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2017-2, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+  "property_note": "The property to be sold is located in the Township of FRANKLIN in the County of GLOUCESTER and State of New Jersey.\nCommonly known as 1507 HALL AVENUE, FRANKLINVILLE, NJ 08322\nTax LOT 1 BLOCK 2201\nDimensions of Lot: 480 feet wide by 329 IRR 4.71 AC\nNearest Cross Street: Woodland Ave\nEstimated upset bid amount: $458,000.00, plus any additional sums as ordered by the court. Occupancy status: Owner occupied.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\n2025 Qtr 4 Due: 11/01/2025 $1,883.65 OPEN\n2026 Qtr 1 Due: 02/01/2026 $1,853.94 OPEN\n2026 Qtr 2 Due: 05/01/2026 $1,853.94 OPEN",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-24001666",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-03-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-05-28",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-28",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

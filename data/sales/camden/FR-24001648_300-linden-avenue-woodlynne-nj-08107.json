@@ -1,0 +1,57 @@
+{
+  "address": "300 LINDEN AVENUE WOODLYNNE NJ 08107",
+  "attorney": "ROMANO GARUBO & ARGENTIERI",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00719319",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "HANG THI NGUYEN, ET ALS,",
+  "extracted": {},
+  "fields": {
+    "Address": "300 LINDEN AVENUE\nWOODLYNNE NJ 08107",
+    "Approx. Upset*": "$129,263.28",
+    "Attorney": "ROMANO GARUBO & ARGENTIERI",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00719319",
+    "Defendant": "HANG THI NGUYEN, ET ALS,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST, N.A. AS TRUSTEE FOR LSF10 MASTER PARTICIPATION TRUST;",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-24001648"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "300 LINDEN AVENUE WOODLYNNE NJ 08107",
+    "defendant": "HANG THI NGUYEN, ET ALS,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST, N.A. AS TRUSTEE FOR LSF10 MASTER PARTICIPATION TRUST;",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST, N.A. AS TRUSTEE FOR LSF10 MASTER PARTICIPATION TRUST;",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-24001648",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-08-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 129263.28,
+  "upset_amount_label": "Approx. Upset*"
+}

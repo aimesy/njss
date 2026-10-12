@@ -1,0 +1,57 @@
+{
+  "address": "323 JACKSON AVENUE MAGNOLIA BOROUGH NJ 08049",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00777625",
+  "current_status": "Redeemed",
+  "defendant": "STEVEN P. MURPHY, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "323 JACKSON AVENUE\nMAGNOLIA BOROUGH NJ 08049",
+    "Approx. Upset*": "$90,823.52",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00777625",
+    "Defendant": "STEVEN P. MURPHY, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "BANK OF AMERICA, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "FR-25002284"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "323 JACKSON AVENUE MAGNOLIA BOROUGH NJ 08049",
+    "defendant": "STEVEN P. MURPHY, ET AL.",
+    "listing_status": null,
+    "plaintiff": "BANK OF AMERICA, N.A.",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "BANK OF AMERICA, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-02",
+  "sheriff_number": "FR-25002284",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 90823.52,
+  "upset_amount_label": "Approx. Upset*"
+}

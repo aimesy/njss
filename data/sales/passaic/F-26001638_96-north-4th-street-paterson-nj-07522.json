@@ -1,0 +1,52 @@
+{
+  "address": "96 North 4th Street Paterson NJ 07522",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003643 25 CTL# 163273",
+  "current_status": "Scheduled",
+  "defendant": "96 N 4TH INVESTMENT, LLC, ET AL.",
+  "description": "Dimensions (Approx.): 25.00x100.00x25.00x1000.00\nNearest cross street: Clinton Street\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Cour decision of 10/28/99- Summit bank vs. Dennis Thiel (A-58-98)\nGood faith estimated upset price: $571,825.88\nOccupancy status: Non-owner occupied\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill",
+  "extracted": {
+    "occupancy": "Non-owner occupied",
+    "upset_amount": 571825.88
+  },
+  "fields": {
+    "Address": "96 North 4th Street\nPaterson NJ 07522",
+    "Approx. Upset*": "$564,993.66",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F 003643 25 CTL# 163273",
+    "Defendant": "96 N 4TH INVESTMENT, LLC, ET AL.",
+    "Description": "Dimensions (Approx.): 25.00x100.00x25.00x1000.00\nNearest cross street: Clinton Street\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Cour decision of 10/28/99- Summit bank vs. Dennis Thiel (A-58-98)\nGood faith estimated upset price: $571,825.88\nOccupancy status: Non-owner occupied\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill",
+    "Parcel #": "Tax lot(s) 21 F/K/A 11 in Block 409 F/K/A A0075",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2022-2",
+    "Property Note": "",
+    "Sales Date": "1/19/2027",
+    "Sheriff #": "F-26001638"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "96 North 4th Street Paterson NJ 07522",
+    "defendant": "96 N 4TH INVESTMENT, LLC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2022-2",
+    "sale_date": "2027-01-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot(s) 21 F/K/A 11 in Block 409 F/K/A A0075",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2022-2",
+  "property_note": null,
+  "sale_date": "2027-01-19",
+  "sheriff_number": "F-26001638",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-01-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 564993.66,
+  "upset_amount_label": "Approx. Upset*"
+}

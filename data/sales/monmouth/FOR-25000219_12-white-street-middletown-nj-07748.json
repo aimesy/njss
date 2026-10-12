@@ -1,0 +1,57 @@
+{
+  "address": "12 White Street Middletown NJ 07748",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00655324",
+  "current_status": "Scheduled",
+  "defendant": "Blake Laughlin, Individually and as Administrator of the Estate of Martin E Laughlin; et al",
+  "description": "Dimensions of the lot (Approximately): 75x100\nNearest Cross Street: Harmony Avenue\nThe Plaintiffs Good Faith Estimate is $256,908.74. The upset amount may be subject to further Orders of additional sums.",
+  "extracted": {},
+  "fields": {
+    "Address": "12 White Street\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$252,568.04",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "F00655324",
+    "Defendant": "Blake Laughlin, Individually and as Administrator of the Estate of Martin E Laughlin; et al",
+    "Description": "Dimensions of the lot (Approximately): 75x100\nNearest Cross Street: Harmony Avenue\nThe Plaintiffs Good Faith Estimate is $256,908.74. The upset amount may be subject to further Orders of additional sums.",
+    "Parcel #": "Lot(s) 65, Block 190 Tax Map of Township of Middletown",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Property Note": "",
+    "Sales Date": "5/1/2025",
+    "Sheriff #": "FOR-25000219"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 252568.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "12 White Street Middletown NJ 07748",
+    "defendant": "Blake Laughlin, Individually and as Administrator of the Estate of Martin E Laughlin; et al",
+    "listing_status": "Settled",
+    "plaintiff": "Nationstar Mortgage LLC",
+    "sale_date": "2025-05-01"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot(s) 65, Block 190 Tax Map of Township of Middletown",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "property_note": null,
+  "sale_date": "2025-05-01",
+  "sheriff_number": "FOR-25000219",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-01",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Scheduled"
+    }
+  ]
+}

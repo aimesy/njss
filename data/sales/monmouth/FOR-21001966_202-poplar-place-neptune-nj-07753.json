@@ -1,0 +1,93 @@
+{
+  "address": "202 Poplar Place Neptune NJ 07753",
+  "attorney": "Stern Lavinthal & Frankenberg LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00086117",
+  "current_status": "Scheduled",
+  "defendant": "Darian Vitello, et al",
+  "description": "The dimensions are approximately 70' X 125'.\nNearest Cross Street: Donald Place\nProperty is Occupied by Unknown\nThe Good Faith Estimate of the Upset Bid amount as of 12/9/2024 is $399,060.76\nPrior lien(s): SEWER ACCOUNT past due in the amount of $475.28\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {},
+  "fields": {
+    "Address": "202 Poplar Place\nNeptune NJ 07753",
+    "Approx. Judgment*": "$341,134.42",
+    "Attorney": "Stern Lavinthal & Frankenberg LLC",
+    "Court Case #": "F00086117",
+    "Defendant": "Darian Vitello, et al",
+    "Description": "The dimensions are approximately 70' X 125'.\nNearest Cross Street: Donald Place\nProperty is Occupied by Unknown\nThe Good Faith Estimate of the Upset Bid amount as of 12/9/2024 is $399,060.76\nPrior lien(s): SEWER ACCOUNT past due in the amount of $475.28\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Block 1703, Lot 18 (f/k/a Lot 16, Block 3034) Tax Map of the Township of Neptune",
+    "Plaintiff": "U.S. Bank National Association, Not in its Individual Capacity, But Solely as Trustee for the RMAC Trust, Series 2016-CTT",
+    "Property Note": "",
+    "Sales Date": "4/10/2026",
+    "Sheriff #": "FOR-21001966"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 341134.42,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "202 Poplar Place Neptune NJ 07753",
+    "defendant": "Darian Vitello, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "U.S. Bank National Association, Not in its Individual Capacity, But Solely as Trustee for the RMAC Trust, Series 2016-CTT",
+    "sale_date": "2026-04-10"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 1703, Lot 18 (f/k/a Lot 16, Block 3034) Tax Map of the Township of Neptune",
+  "plaintiff": "U.S. Bank National Association, Not in its Individual Capacity, But Solely as Trustee for the RMAC Trust, Series 2016-CTT",
+  "property_note": null,
+  "sale_date": "2026-04-10",
+  "sheriff_number": "FOR-21001966",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-04-10",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-03-31",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-06-05",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-06-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-04-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-04-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-03-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2022-02-22",
+      "status": "Scheduled"
+    }
+  ]
+}

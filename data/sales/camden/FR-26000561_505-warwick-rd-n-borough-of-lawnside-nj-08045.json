@@ -1,0 +1,53 @@
+{
+  "address": "505 WARWICK RD N BOROUGH OF LAWNSIDE NJ 08045",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00235623",
+  "current_status": "Scheduled",
+  "defendant": "LEAH M. LEVIN A/K/A LEAH LEVIN; MR. LEVIN, SPOUSE OF LEAH M. LEVIN A/K/A LEAH LEVIN; AQUA FINANCE, INC.,,",
+  "extracted": {},
+  "fields": {
+    "Address": "505 WARWICK RD N\nBOROUGH OF LAWNSIDE NJ 08045",
+    "Approx. Upset*": "$200,857.62",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00235623",
+    "Defendant": "LEAH M. LEVIN A/K/A LEAH LEVIN; MR. LEVIN, SPOUSE\nOF LEAH M. LEVIN A/K/A LEAH LEVIN; AQUA FINANCE, INC.,,",
+    "Parcel #": "LOT 26 BLOCK 202",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN\nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER\nTRUSTEE FOR VRMTG ASSET TRUST,",
+    "Property Note": "2026 Qtr 2 DUE: 05/01/2026 $1,320.18 OPEN\nSEWER: LAWNSIDE BORO 4 E DOUGLAS AVE LAWNSIDE, NJ 08045 856-573-6203 ACCT:62 0\n04/01/2026-06/30/2026 $90.00 OPEN AND DUE 04/01/2026 $135.40 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT:210001350\n01/01/2026-03/31/2026-03/31/2026 $93.00 OPEN PLUS PENALTY $286.94 OPEN PLUS PENALTY\nVACANT LOT CHAREG: PROPERTY REGISTRATION FEES EXIST. PLEASE CONTACT HERA PROPERTY REGISTRY 321-234-5303 FOR DETAILS.",
+    "Sales Date": "3/18/2026",
+    "Sheriff #": "FR-26000561"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "505 WARWICK RD N BOROUGH OF LAWNSIDE NJ 08045",
+    "defendant": "LEAH M. LEVIN A/K/A LEAH LEVIN; MR. LEVIN, SPOUSE \nOF LEAH M. LEVIN A/K/A LEAH LEVIN; AQUA FINANCE, INC.,,",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN \nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER \nTRUSTEE FOR VRMTG ASSET TRUST,",
+    "sale_date": "2026-03-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 26 BLOCK 202",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+  "property_note": "2026 Qtr 2 DUE: 05/01/2026 $1,320.18 OPEN\nSEWER: LAWNSIDE BORO 4 E DOUGLAS AVE LAWNSIDE, NJ 08045 856-573-6203 ACCT:62 0\n04/01/2026-06/30/2026 $90.00 OPEN AND DUE 04/01/2026 $135.40 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 FERRY AVE. CAMDEN, NJ 08104 856-541-3700 ACCT:210001350\n01/01/2026-03/31/2026-03/31/2026 $93.00 OPEN PLUS PENALTY $286.94 OPEN PLUS PENALTY\nVACANT LOT CHAREG: PROPERTY REGISTRATION FEES EXIST. PLEASE CONTACT HERA PROPERTY REGISTRY 321-234-5303 FOR DETAILS.",
+  "sale_date": "2026-03-18",
+  "sheriff_number": "FR-26000561",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-18",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 200857.62,
+  "upset_amount_label": "Approx. Upset*"
+}

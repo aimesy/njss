@@ -1,0 +1,61 @@
+{
+  "address": "1411 HIGHLAND AVENUE HILLSIDE NJ 07205",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01089825",
+  "current_status": "Cancelled",
+  "defendant": "LOUISE BALLARD",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Address": "1411 HIGHLAND AVENUE\nHILLSIDE NJ 07205",
+    "Approx. Upset*": "$99,831.25",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F01089825",
+    "Defendant": "LOUISE BALLARD",
+    "Description": "",
+    "Parcel #": "LOT 11 BLOCK 1104",
+    "Plaintiff": "WELLS FARGO BANK, NA",
+    "Property Note": "Dimensions: 43FT. X IOOFT.\nNearest cross Street: I-flLLSIDE AVENUE\nThe Sheriff hereby reserves the right to adjourn this sale without further notice by publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a retum of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n** *If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: OWNER OCCUPIED\nPlaintiffs good faith estimate of its upset price is: $109,187.31\nFile No.: 25-26093 FCOI",
+    "Sales Date": "9/23/2026",
+    "Sheriff #": "CH-26001424"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1411 HIGHLAND AVENUE HILLSIDE NJ 07205",
+    "defendant": "LOUISE BALLARD",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, NA",
+    "sale_date": "2026-09-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 11 BLOCK 1104",
+  "plaintiff": "WELLS FARGO BANK, NA",
+  "property_note": "Dimensions: 43FT. X IOOFT.\nNearest cross Street: I-flLLSIDE AVENUE\nThe Sheriff hereby reserves the right to adjourn this sale without further notice by publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a retum of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n** *If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: OWNER OCCUPIED\nPlaintiffs good faith estimate of its upset price is: $109,187.31\nFile No.: 25-26093 FCOI",
+  "sale_date": "2026-09-23",
+  "sheriff_number": "CH-26001424",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-07-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-26",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 99831.25,
+  "upset_amount_label": "Approx. Upset*"
+}

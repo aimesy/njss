@@ -1,0 +1,68 @@
+{
+  "address": "11 NANCY STREET KENDALL PARK NJ 08824",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01850217",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "DOREEN CARBONE, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$625,105.04",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01850217",
+    "Defendant": "DOREEN CARBONE, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 38 BLOCK 414",
+    "Plaintiff": "RUSHMORE MANAGEMENT SERVICES, LLC.",
+    "Property Address": "11 NANCY STREET\nKENDALL PARK NJ 08824",
+    "Property Note": "SUCCESSFULLY POSTED 09/04/2024 BY RON WALKO AREA1 SERVER RECEIVED DATE 08/29/2024",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-776587"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 625105.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 NANCY STREET KENDALL PARK NJ 08824",
+    "defendant": "DOREEN CARBONE, ET ALS.",
+    "listing_status": "Adjourned - Court",
+    "plaintiff": "RUSHMORE MANAGEMENT SERVICES, LLC.",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Adjourned - Court",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 38 BLOCK 414",
+  "plaintiff": "RUSHMORE MANAGEMENT SERVICES, LLC.",
+  "property_note": "SUCCESSFULLY POSTED 09/04/2024 BY RON WALKO AREA1 SERVER RECEIVED DATE 08/29/2024",
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-776587",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-01-30",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

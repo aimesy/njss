@@ -1,0 +1,55 @@
+{
+  "address": "50 HENRY STREET ELMWOOD PARK NJ 07407",
+  "attorney": "PLUESE, BECKER, SALTZMAN AND THOMAS, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00717925",
+  "current_status": "Cancelled",
+  "defendant": "MARTHA SGAMBATI, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; THEODORE ORLOUSKI, HEIR; JEFFREY ORLOUSKI, HEIR; LAUREN ORLOUSKI, HEIR; KARA BRADY, HEIR; ET AL",
+  "description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $460,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "50 HENRY STREET\nELMWOOD PARK NJ 07407",
+    "Approx. Upset*": "$429,837.53",
+    "Attorney": "PLUESE, BECKER, SALTZMAN AND THOMAS, LLC",
+    "Court Case #": "F00717925",
+    "Defendant": "MARTHA SGAMBATI, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; THEODORE ORLOUSKI, HEIR; JEFFREY ORLOUSKI, HEIR; LAUREN ORLOUSKI, HEIR; KARA BRADY, HEIR; ET AL",
+    "Description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $460,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 18, BLOCK 1801",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "4/16/2026",
+    "Sheriff #": "F-26000092"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "50 HENRY STREET ELMWOOD PARK NJ 07407",
+    "defendant": "MARTHA SGAMBATI, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; THEODORE ORLOUSKI, HEIR; JEFFREY ORLOUSKI, HEIR; LAUREN ORLOUSKI, HEIR; KARA BRADY, HEIR; ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-04-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 18, BLOCK 1801",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-04-16",
+  "sheriff_number": "F-26000092",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-02-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 429837.53,
+  "upset_amount_label": "Approx. Upset*"
+}

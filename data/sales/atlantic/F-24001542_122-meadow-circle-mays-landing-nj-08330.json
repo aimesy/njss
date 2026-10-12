@@ -1,0 +1,74 @@
+{
+  "address": "122 Meadow Circle Mays Landing NJ 08330",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009798-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Lisa Marano; Jeffrey Marano; Victoria Pointe Community Association; Midland Credit Management, Inc; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "122 Meadow Circle\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$283,203.36",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-009798-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Lisa Marano; Jeffrey Marano; Victoria Pointe Community Association; Midland Credit Management, Inc; State of New Jersey",
+    "Plaintiff": "US Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "12/4/2025",
+    "Sheriff #": "F-24001542",
+    "Upset Amount": "$331,469.78"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 283203.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "122 Meadow Circle Mays Landing NJ 08330",
+    "defendant": "Lisa Marano; Jeffrey...",
+    "listing_status": null,
+    "plaintiff": "US Bank Trust Nation...",
+    "sale_date": "2025-12-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "US Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-12-04",
+  "sheriff_number": "F-24001542",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-12-04",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 331469.78,
+  "upset_amount_label": "Upset Amount"
+}

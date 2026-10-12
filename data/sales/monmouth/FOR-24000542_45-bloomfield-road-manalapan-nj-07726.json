@@ -1,0 +1,68 @@
+{
+  "address": "45 Bloomfield Road Manalapan NJ 07726",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01186123",
+  "current_status": "Scheduled",
+  "defendant": "Audrey A. Malkin, et al",
+  "description": "Dimensions of Lot: .27 AC\nNearest Cross Street: Monkton Road\nEstimated upset bid amount: $494,000.00 plus any additional sums as ordered by the court.\nOccupancy status: Owner\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n# 2024 Qtr 2 Due: 05/01/2024 $3,805.36 OPEN\n# Sewer: Western Monmouth Utilities Auth. 103 Pension Rd Manalapan, NJ 07726 732-446-9300 Acct: 23754 0 05/01/2024 - 07/31/2024 $125.00 OPEN AND DUE 05/27/2024 $114.60 OPEN PLUS PENALTY; OWE IN ARREARS\n# Liens: Year: 2022 Type: 3RD PARTY SEWER Amount: 41,285.65 Cert No.: 23-00159 Sold: 09/14/2023 To: PRO CAP 8 FBO FIRSTRUST BANK Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+  "extracted": {
+    "lot": ".27",
+    "occupancy": "Owner"
+  },
+  "fields": {
+    "Address": "45 Bloomfield Road\nManalapan NJ 07726",
+    "Approx. Judgment*": "$454,189.18",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F01186123",
+    "Defendant": "Audrey A. Malkin, et al",
+    "Description": "Dimensions of Lot: .27 AC\nNearest Cross Street: Monkton Road\nEstimated upset bid amount: $494,000.00 plus any additional sums as ordered by the court.\nOccupancy status: Owner\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n# 2024 Qtr 2 Due: 05/01/2024 $3,805.36 OPEN\n# Sewer: Western Monmouth Utilities Auth. 103 Pension Rd Manalapan, NJ 07726 732-446-9300 Acct: 23754 0 05/01/2024 - 07/31/2024 $125.00 OPEN AND DUE 05/27/2024 $114.60 OPEN PLUS PENALTY; OWE IN ARREARS\n# Liens: Year: 2022 Type: 3RD PARTY SEWER Amount: 41,285.65 Cert No.: 23-00159 Sold: 09/14/2023 To: PRO CAP 8 FBO FIRSTRUST BANK Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+    "Parcel #": "Tax Lot 11 Block 6505 Tax Map of Township of Manalapan",
+    "Plaintiff": "PHH Mortgage Corporation",
+    "Property Note": "",
+    "Sales Date": "11/18/2024",
+    "Sheriff #": "FOR-24000542"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 454189.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "45 Bloomfield Road Manalapan NJ 07726",
+    "defendant": "Audrey A. Malkin, et al",
+    "listing_status": "Settled",
+    "plaintiff": "PHH Mortgage Corporation",
+    "sale_date": "2024-11-18"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 11 Block 6505 Tax Map of Township of Manalapan",
+  "plaintiff": "PHH Mortgage Corporation",
+  "property_note": null,
+  "sale_date": "2024-11-18",
+  "sheriff_number": "FOR-24000542",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-18",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-08-26",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Scheduled"
+    }
+  ]
+}

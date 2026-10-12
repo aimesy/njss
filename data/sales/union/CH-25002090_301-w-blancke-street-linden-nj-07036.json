@@ -1,0 +1,68 @@
+{
+  "address": "301 W BLANCKE STREET LINDEN NJ 07036",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00767124",
+  "current_status": "Defendant Adjournment",
+  "defendant": "CARMEN BABASTRO-ESTRADA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "LOT 1 BLOCK 286 ADDITIONAL LOT 61 AND 2A",
+  "extracted": {
+    "block": "286",
+    "lot": "1"
+  },
+  "fields": {
+    "Address": "301 W BLANCKE STREET\nLINDEN NJ 07036",
+    "Approx. Upset*": "$402,669.68",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+    "Court Case #": "F00767124",
+    "Defendant": "CARMEN BABASTRO-ESTRADA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "LOT 1 BLOCK 286 ADDITIONAL LOT 61 AND 2A",
+    "Parcel #": "LOT 1 BLOCK 286 ADDITIONAL LOT 61 AND 2A",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "CH-25002090"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "301 W BLANCKE STREET LINDEN NJ 07036",
+    "defendant": "CARMEN BABASTRO-ESTRADA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 1 BLOCK 286 ADDITIONAL LOT 61 AND 2A",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "CH-25002090",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-06",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 402669.68,
+  "upset_amount_label": "Approx. Upset*"
+}

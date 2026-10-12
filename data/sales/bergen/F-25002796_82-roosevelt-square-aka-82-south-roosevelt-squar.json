@@ -1,0 +1,71 @@
+{
+  "address": "82 ROOSEVELT SQUARE AKA 82 SOUTH ROOSEVELT SQUARE ENGLEWOOD NJ 07631",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00760525",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "ADELA ROMERO; CITIBANK, NA; ET AL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $332,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "82 ROOSEVELT SQUARE\nAKA 82 SOUTH ROOSEVELT SQUARE\nENGLEWOOD NJ 07631",
+    "Approx. Upset*": "$312,378.34",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F00760525",
+    "Defendant": "ADELA ROMERO; CITIBANK, NA; ET AL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $332,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 3, BLOCK 805",
+    "Plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR ASSET BACKED FUNDING CORPORATION ASSET-BACKED CERTIFICATES, SERIES 2007-NC1",
+    "Property Note": "",
+    "Sales Date": "6/12/2026",
+    "Sheriff #": "F-25002796"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "82 ROOSEVELT SQUARE AKA 82 SOUTH ROOSEVELT SQUARE ENGLEWOOD NJ 07631",
+    "defendant": "ADELA ROMERO; CITIBANK, NA; ET AL",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR ASSET BACKED FUNDING CORPORATION ASSET-BACKED CERTIFICATES, SERIES 2007-NC1",
+    "sale_date": "2026-06-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, BLOCK 805",
+  "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR ASSET BACKED FUNDING CORPORATION ASSET-BACKED CERTIFICATES, SERIES 2007-NC1",
+  "property_note": null,
+  "sale_date": "2026-06-12",
+  "sheriff_number": "F-25002796",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-05-08",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 312378.34,
+  "upset_amount_label": "Approx. Upset*"
+}

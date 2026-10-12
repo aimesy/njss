@@ -1,0 +1,56 @@
+{
+  "address": "1235 STELTON ROAD PISCATAWAY NJ 08854",
+  "attorney": "EISENBERG, GOLD & AGRAWAL",
+  "attorney_file_number": null,
+  "attorney_phone": "856-330-6200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00027024",
+  "current_status": "Bankruptcy",
+  "defendant": "FOOD LAND USA LLC, ET ALS.",
+  "description": "SUCCESSFULLY POSTED 07/29/2024 BY RON WALKO",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$310,074.07",
+    "Attorney": "EISENBERG, GOLD & AGRAWAL",
+    "Attorney File #": "",
+    "Attorney Phone": "856-330-6200",
+    "Court Case #": "F00027024",
+    "Defendant": "FOOD LAND USA LLC, ET ALS.",
+    "Description": "SUCCESSFULLY POSTED 07/29/2024 BY RON WALKO",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 10 BLOCK 8509",
+    "Plaintiff": "FULTON BANK, N.A.",
+    "Property Address": "1235 STELTON ROAD\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "8/28/2024",
+    "Sheriff #": "F-776539"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 310074.07,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1235 STELTON ROAD PISCATAWAY NJ 08854",
+    "defendant": "FOOD LAND USA LLC, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "FULTON BANK, N.A.",
+    "sale_date": "2024-08-28"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 10 BLOCK 8509",
+  "plaintiff": "FULTON BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2024-08-28",
+  "sheriff_number": "F-776539",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-08-28",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

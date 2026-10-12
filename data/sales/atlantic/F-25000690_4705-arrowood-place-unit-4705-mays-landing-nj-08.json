@@ -1,0 +1,58 @@
+{
+  "address": "4705 Arrowood Place Unit 4705 Mays Landing NJ 08330",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001357-25",
+  "current_status": "Scheduled",
+  "deed": "Ahasan Realty LLC",
+  "deed_address": "410 Montrose Lane, Galloway, NJ 08205",
+  "defendant": "Christine Delusant; Charles Evans A/K/A Charles D. Evans; Atlantic County Board of Social Services; Anita James A/k/A Perez Anita",
+  "extracted": {},
+  "fields": {
+    "Address": "4705 Arrowood Place\nUnit 4705\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$259,004.36",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-001357-25",
+    "Deed": "Ahasan Realty LLC",
+    "Deed Address": "410 Montrose Lane, Galloway, NJ 08205",
+    "Defendant": "Christine Delusant; Charles Evans A/K/A Charles D. Evans; Atlantic County Board of Social Services; Anita James A/k/A Perez Anita",
+    "Plaintiff": "Planet Home Lending, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "8/21/2025",
+    "Sheriff #": "F-25000690",
+    "Upset Amount": "$162,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 259004.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4705 Arrowood Place Unit 4705 Mays Landing NJ 08330",
+    "defendant": "Christine Delusant; ...",
+    "listing_status": null,
+    "plaintiff": "Planet Home Lending,...",
+    "sale_date": "2025-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Planet Home Lending, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-08-21",
+  "sheriff_number": "F-25000690",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-21",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 162500.0,
+  "upset_amount_label": "Upset Amount"
+}

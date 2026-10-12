@@ -1,0 +1,79 @@
+{
+  "address": "361 ALDEBERAN DRIVE SEWELL NJ 08080",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-008695-23",
+  "current_status": "Cancelled",
+  "defendant": "RICHARD A. KOEGEL, JR., ET AL",
+  "description": "THE PLAINTIFF'S UPSET BID AMOUNT PRESENTLY APPROXIMATES $108,000.00.\nOCCUPANCY STATUS: UNKNOWN.",
+  "extracted": {
+    "occupancy": "UNKNOWN."
+  },
+  "fields": {
+    "Address": "361 ALDEBERAN DRIVE\nSEWELL NJ 08080",
+    "Approximate Judgment": "$94,855.55",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F-008695-23",
+    "Defendant": "RICHARD A. KOEGEL, JR., ET AL",
+    "Description": "THE PLAINTIFF'S UPSET BID AMOUNT PRESENTLY APPROXIMATES $108,000.00.\nOCCUPANCY STATUS: UNKNOWN.",
+    "Parcel #": "BLOCK: 82.93 LOT: 21",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "TOWNSHIP OF WASHINGTON\nCOUNTY OF GLOUCESTER\n361 ALDEBERAN DRIVE SEWELL, NJ 08080\nBLOCK: 82.93 LOT: 21\nAPPROXIMATE DIMENSIONS: 30.07' x 134.53' x 31.24' x 145.27'\nNEAREST CROSS STREET: LIBRA LANE\nTHE PLAINTIFF'S UPSET BID AMOUNT PRESENTLY APPROXIMATES $108,000.00.\nOCCUPANCY STATUS: UNKNOWN.",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "F-24000487"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 94855.55,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "361 ALDEBERAN DRIVE SEWELL NJ 08080",
+    "defendant": "RICHARD A. KOEGEL, JR., ET AL",
+    "listing_status": "Cancelled",
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 82.93 LOT: 21",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "TOWNSHIP OF WASHINGTON\nCOUNTY OF GLOUCESTER\n361 ALDEBERAN DRIVE SEWELL, NJ 08080\nBLOCK: 82.93 LOT: 21\nAPPROXIMATE DIMENSIONS: 30.07' x 134.53' x 31.24' x 145.27'\nNEAREST CROSS STREET: LIBRA LANE\nTHE PLAINTIFF'S UPSET BID AMOUNT PRESENTLY APPROXIMATES $108,000.00.\nOCCUPANCY STATUS: UNKNOWN.",
+  "sale_date": "2026-03-04",
+  "sheriff_number": "F-24000487",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-04-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Cancelled"
+    }
+  ]
+}

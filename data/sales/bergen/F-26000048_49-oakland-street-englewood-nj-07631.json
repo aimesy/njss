@@ -1,0 +1,59 @@
+{
+  "address": "49 OAKLAND STREET ENGLEWOOD NJ 07631",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00851922",
+  "current_status": "Cancelled",
+  "defendant": "RAFAEL J. THOMAS; LISA THOMAS A/K/A LISA G. THOMAS",
+  "description": "ESTIMATED UPSET BID AMOUNT: $322,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "49 OAKLAND STREET\nENGLEWOOD NJ 07631",
+    "Approx. Upset*": "$266,569.58",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F00851922",
+    "Defendant": "RAFAEL J. THOMAS; LISA THOMAS A/K/A LISA G. THOMAS",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $322,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 19, BLOCK 308",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "4/24/2026",
+    "Sheriff #": "F-26000048"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "49 OAKLAND STREET ENGLEWOOD NJ 07631",
+    "defendant": "RAFAEL J. THOMAS; LISA THOMAS A/K/A LISA G. THOMAS",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2026-04-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 19, BLOCK 308",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2026-04-24",
+  "sheriff_number": "F-26000048",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-02-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 266569.58,
+  "upset_amount_label": "Approx. Upset*"
+}

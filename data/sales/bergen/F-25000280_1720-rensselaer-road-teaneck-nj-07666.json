@@ -1,0 +1,95 @@
+{
+  "address": "1720 RENSSELAER ROAD TEANECK NJ 07666",
+  "attorney": "PLUESE, BECKER, SALTZMAN AND THOMAS, LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00526723",
+  "current_status": "Cancelled",
+  "defendant": "ERNESTO RAMOS, JR; CYNTHIA RIVERA, ET AL.",
+  "description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $610,000.00.\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "1720 RENSSELAER ROAD\nTEANECK NJ 07666",
+    "Approx. Upset*": "$600,571.16",
+    "Attorney": "PLUESE, BECKER, SALTZMAN AND THOMAS, LLC",
+    "Court Case #": "F00526723",
+    "Defendant": "ERNESTO RAMOS, JR; CYNTHIA RIVERA, ET AL.",
+    "Description": "THE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $610,000.00.\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 24, BLOCK 5412",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "8/10/2026",
+    "Sheriff #": "F-25000280"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1720 RENSSELAER ROAD TEANECK NJ 07666",
+    "defendant": "ERNESTO RAMOS, JR; CYNTHIA RIVERA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF ACQUISITION TRUST",
+    "sale_date": "2026-08-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 24, BLOCK 5412",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-08-10",
+  "sheriff_number": "F-25000280",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-03-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-30",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-08-01",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-09-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Adjourned - Joint"
+    },
+    {
+      "date": "2026-01-23",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-01",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-07-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-08-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 600571.16,
+  "upset_amount_label": "Approx. Upset*"
+}

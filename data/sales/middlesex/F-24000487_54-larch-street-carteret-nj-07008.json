@@ -1,0 +1,64 @@
+{
+  "address": "54 LARCH STREET CARTERET NJ 07008",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 485-3584",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00071819",
+  "current_status": "Settled",
+  "defendant": "MANUEL GUEVARA AKA MANUEL A. GUEVARA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$445,438.88",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 485-3584",
+    "Court Case #": "F00071819",
+    "Defendant": "MANUEL GUEVARA AKA MANUEL A. GUEVARA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 12 BLOCK 730\nLOT 12 BLOCK 7303 FKA LOT 13 BLOCK 259",
+    "Plaintiff": "J.P. MORGAN MORTGAGE TRUST 2005-A3, MORTGAGE PASS-THROUGH CERTIFICATES, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO WACHOVIA BANK, N.A. AS TRUSTEE",
+    "Property Address": "54 LARCH STREET\nCARTERET NJ 07008",
+    "Property Note": "",
+    "Sale Date": "4/16/2025",
+    "Sheriff #": "F-24000487"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 445438.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "54 LARCH STREET CARTERET NJ 07008",
+    "defendant": "MANUEL GUEVARA AKA MANUEL A. GUEVARA, ET ALS.",
+    "listing_status": "Adjourned - Defendant",
+    "plaintiff": "J.P. MORGAN MORTGAGE TRUST 2005-A3, MORTGAGE PASS-THROUGH CERTIFICATES, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO WACHOVIA BANK, N.A. AS TRUSTEE",
+    "sale_date": "2025-04-16"
+  },
+  "listing_status": "Adjourned - Defendant",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 12 BLOCK 730 LOT 12 BLOCK 7303 FKA LOT 13 BLOCK 259",
+  "plaintiff": "J.P. MORGAN MORTGAGE TRUST 2005-A3, MORTGAGE PASS-THROUGH CERTIFICATES, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO WACHOVIA BANK, N.A. AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2025-04-16",
+  "sheriff_number": "F-24000487",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

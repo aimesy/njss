@@ -1,0 +1,61 @@
+{
+  "address": "6152 ROGERS AVENUE PENNSAUKEN NJ 08109",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01481119",
+  "current_status": "Cancelled",
+  "defendant": "NORA GARLITOS A/K/A NORA AVILLA A/K/A NORA AVILA; SUNRUN, INC.; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "6152 ROGERS AVENUE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$260,757.05",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01481119",
+    "Defendant": "NORA GARLITOS A/K/A NORA AVILLA A/K/A NORA AVILA; SUNRUN, INC.;\nUNITED STATES OF AMERICA",
+    "Parcel #": "",
+    "Plaintiff": "ONITY LOAN ACQUISITION TRUST 2024-HB2,",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25002202"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "6152 ROGERS AVENUE PENNSAUKEN NJ 08109",
+    "defendant": "NORA GARLITOS A/K/A NORA AVILLA A/K/A NORA AVILA; SUNRUN, INC.; \nUNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "ONITY LOAN ACQUISITION TRUST 2024-HB2,",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "ONITY LOAN ACQUISITION TRUST 2024-HB2,",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25002202",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 260757.05,
+  "upset_amount_label": "Approx. Upset*"
+}

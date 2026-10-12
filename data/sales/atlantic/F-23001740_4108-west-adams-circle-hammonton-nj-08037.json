@@ -1,0 +1,62 @@
+{
+  "address": "4108 West Adams Circle Hammonton NJ 08037",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003675-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jose M. Cosme; Lordes Cosme and Atlantic County Improvement Authority",
+  "extracted": {},
+  "fields": {
+    "Address": "4108 West Adams Circle\nHammonton NJ 08037",
+    "Approx. Judgment*": "$182,695.08",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-003675-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jose M. Cosme; Lordes Cosme and Atlantic County Improvement Authority",
+    "Plaintiff": "Legacy Mortgage Asset Trust 2020-GS2",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "9/17/2025",
+    "Sheriff #": "F-23001740",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 182695.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4108 West Adams Circle Hammonton NJ 08037",
+    "defendant": "Jose M. Cosme; Lorde...",
+    "listing_status": null,
+    "plaintiff": "Legacy Mortgage Asse...",
+    "sale_date": "2025-09-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Legacy Mortgage Asset Trust 2020-GS2",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2025-09-17",
+  "sheriff_number": "F-23001740",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-17",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-02-15",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-02-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

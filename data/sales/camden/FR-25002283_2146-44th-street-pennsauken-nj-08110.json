@@ -1,0 +1,61 @@
+{
+  "address": "2146 44TH STREET PENNSAUKEN NJ 08110",
+  "attorney": "LAW OFFICE OF MARTONE & UHLMANN",
+  "attorney_phone": "(973) 473-3000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00484625",
+  "current_status": "Defendant Adjournment",
+  "defendant": "OSCAR HERNANDEZ; DORIS V. HERNANDEZ; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "2146 44TH STREET\nPENNSAUKEN NJ 08110",
+    "Approx. Upset*": "$165,066.23",
+    "Attorney": "LAW OFFICE OF MARTONE & UHLMANN",
+    "Attorney Phone": "(973) 473-3000",
+    "Court Case #": "F00484625",
+    "Defendant": "OSCAR HERNANDEZ; DORIS V. HERNANDEZ; UNITED STATES OF AMERICA",
+    "Parcel #": "",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "3/18/2026",
+    "Sheriff #": "FR-25002283"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2146 44TH STREET PENNSAUKEN NJ 08110",
+    "defendant": "OSCAR HERNANDEZ; DORIS V. HERNANDEZ; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-03-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-03-18",
+  "sheriff_number": "FR-25002283",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 165066.23,
+  "upset_amount_label": "Approx. Upset*"
+}

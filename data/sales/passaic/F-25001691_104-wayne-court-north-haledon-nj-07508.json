@@ -1,0 +1,67 @@
+{
+  "address": "104 WAYNE Court North Haledon NJ 07508",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 006840 25 CTL #163077",
+  "current_status": "Bankruptcy",
+  "defendant": "BRYANT J. WEISS, ET AL.",
+  "description": "Dimensions of Lot (approx): 90'X175'\nNearest Cross Street: North Haledon Ave\nSubject to: Approx Upset Price $234,352.10\nProperty Status: Borrower Occupied\nSubject to Tax Sale Certification NO. 24-00002, interested parties must obtain their own payoff amount from tax collector\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/ Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/ or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 234352.1
+  },
+  "fields": {
+    "Address": "104 WAYNE Court\nNorth Haledon NJ 07508",
+    "Approx. Upset*": "$214,603.31",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F 006840 25 CTL #163077",
+    "Defendant": "BRYANT J. WEISS, ET AL.",
+    "Description": "Dimensions of Lot (approx): 90'X175'\nNearest Cross Street: North Haledon Ave\nSubject to: Approx Upset Price $234,352.10\nProperty Status: Borrower Occupied\nSubject to Tax Sale Certification NO. 24-00002, interested parties must obtain their own payoff amount from tax collector\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/ Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/ or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Tax Lot 26 Block 37",
+    "Plaintiff": "CITIZENS BANK, N.A",
+    "Property Note": "",
+    "Sales Date": "4/21/2026",
+    "Sheriff #": "F-25001691"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "104 WAYNE Court North Haledon NJ 07508",
+    "defendant": "BRYANT J. WEISS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A",
+    "sale_date": "2026-04-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 26 Block 37",
+  "plaintiff": "CITIZENS BANK, N.A",
+  "property_note": null,
+  "sale_date": "2026-04-21",
+  "sheriff_number": "F-25001691",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-01-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-21",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-04-21",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 214603.31,
+  "upset_amount_label": "Approx. Upset*"
+}

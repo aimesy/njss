@@ -1,0 +1,59 @@
+{
+  "address": "629 PACIFIC AVENUE PERTH AMBOY NJ 08861",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00059924",
+  "current_status": "Bankruptcy",
+  "defendant": "JORGE AROCHO, ET ALS.",
+  "description": "LOT 36 BLOCK 282",
+  "extracted": {
+    "block": "282",
+    "lot": "36"
+  },
+  "fields": {
+    "Approx. Judgment*": "$129,243.64",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00059924",
+    "Defendant": "JORGE AROCHO, ET ALS.",
+    "Description": "LOT 36 BLOCK 282",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE TIKI SERIES IV TRUST",
+    "Property Address": "629 PACIFIC AVENUE\nPERTH AMBOY NJ 08861",
+    "Property Note": "",
+    "Sale Date": "8/6/2025",
+    "Sheriff #": "F-25001456"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 129243.64,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "629 PACIFIC AVENUE PERTH AMBOY NJ 08861",
+    "defendant": "JORGE AROCHO, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE TIKI SERIES IV TRUST",
+    "sale_date": "2025-08-06"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE TIKI SERIES IV TRUST",
+  "property_note": null,
+  "sale_date": "2025-08-06",
+  "sheriff_number": "F-25001456",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-06",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

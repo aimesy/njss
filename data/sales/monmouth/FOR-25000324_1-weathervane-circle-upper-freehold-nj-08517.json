@@ -1,0 +1,68 @@
+{
+  "address": "1 Weathervane Circle Upper Freehold NJ 08517",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00543623",
+  "current_status": "Scheduled",
+  "defendant": "Francis Owoh et al.",
+  "description": "Approximate Dimensions: 47.08 x 135.08 x 210.03 x 248.03 x 208.10 x 19.84 Feet (IRREGULAR)\nNearest Cross Street: Weathervane Circle\nUpset Price $804,173.19\nOccupancy Status: OCCUPIED\nSubject to: N/A\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 804173.19
+  },
+  "fields": {
+    "Address": "1 Weathervane Circle\nUpper Freehold NJ 08517",
+    "Approx. Judgment*": "$752,287.73",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00543623",
+    "Defendant": "Francis Owoh et al.",
+    "Description": "Approximate Dimensions: 47.08 x 135.08 x 210.03 x 248.03 x 208.10 x 19.84 Feet (IRREGULAR)\nNearest Cross Street: Weathervane Circle\nUpset Price $804,173.19\nOccupancy Status: OCCUPIED\nSubject to: N/A\n**TO THE BEST OF THIS FIRM’S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "Tax Lot: 1 Block: 33.01 (former QFARM) Located on the tax map of the Township of Upper Freehold",
+    "Plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+    "Property Note": "",
+    "Sales Date": "7/7/2025",
+    "Sheriff #": "FOR-25000324"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 752287.73,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1 Weathervane Circle Upper Freehold NJ 08517",
+    "defendant": "Francis Owoh et al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+    "sale_date": "2025-07-07"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 1 Block: 33.01 (former QFARM) Located on the tax map of the Township of Upper Freehold",
+  "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+  "property_note": null,
+  "sale_date": "2025-07-07",
+  "sheriff_number": "FOR-25000324",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-07-07",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    }
+  ]
+}

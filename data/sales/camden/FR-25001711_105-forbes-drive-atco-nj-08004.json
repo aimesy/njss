@@ -1,0 +1,53 @@
+{
+  "address": "105 FORBES DRIVE ATCO NJ 08004",
+  "attorney": "DUANE MORRIS LLP",
+  "attorney_phone": "(215) 979-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00992618",
+  "current_status": "Scheduled",
+  "defendant": "RAWLE B. HINES AND PATRICIA HINES;",
+  "extracted": {},
+  "fields": {
+    "Address": "105 FORBES DRIVE\nATCO NJ 08004",
+    "Approx. Upset*": "$312,436.09",
+    "Attorney": "DUANE MORRIS LLP",
+    "Attorney Phone": "(215) 979-1000",
+    "Court Case #": "F00992618",
+    "Defendant": "RAWLE B. HINES AND PATRICIA HINES;",
+    "Parcel #": "",
+    "Plaintiff": "TD BANK, N.A.,",
+    "Property Note": "",
+    "Sales Date": "9/29/2025",
+    "Sheriff #": "FR-25001711"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "105 FORBES DRIVE ATCO NJ 08004",
+    "defendant": "RAWLE B. HINES AND PATRICIA HINES;",
+    "listing_status": null,
+    "plaintiff": "TD BANK, N.A.,",
+    "sale_date": "2025-09-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "TD BANK, N.A.,",
+  "property_note": null,
+  "sale_date": "2025-09-29",
+  "sheriff_number": "FR-25001711",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-09-29",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 312436.09,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "393 TANSBORO ROAD WITH A MAILING ADDRESS OF 393 TANSBORO ROAD, BERLIN, NJ 08009 WINSLOW NJ 08009",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00393525",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "1858 REI LLC; HEATHER MICHALOWSKI,",
+  "extracted": {},
+  "fields": {
+    "Address": "393 TANSBORO ROAD\nWITH A MAILING ADDRESS OF 393 TANSBORO ROAD, BERLIN, NJ 08009\nWINSLOW NJ 08009",
+    "Approx. Upset*": "$244,010.05",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00393525",
+    "Defendant": "1858 REI LLC; HEATHER MICHALOWSKI,",
+    "Parcel #": "TAX LOT(S): 16, BLOCK : 1604",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE\nFOR RCF 2 ACQUISITION TRUST,",
+    "Property Note": "",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26001438"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "393 TANSBORO ROAD WITH A MAILING ADDRESS OF 393 TANSBORO ROAD, BERLIN, NJ 08009 WINSLOW NJ 08009",
+    "defendant": "1858 REI LLC; HEATHER MICHALOWSKI,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE \nFOR RCF 2 ACQUISITION TRUST,",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT(S): 16, BLOCK : 1604",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26001438",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 244010.05,
+  "upset_amount_label": "Approx. Upset*"
+}

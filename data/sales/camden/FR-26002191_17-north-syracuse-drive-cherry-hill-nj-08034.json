@@ -1,0 +1,53 @@
+{
+  "address": "17 NORTH SYRACUSE DRIVE CHERRY HILL NJ 08034",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00097226",
+  "current_status": "Defendant Adjournment",
+  "defendant": "COREY JEFFERSON AND NICOLE JEFFERSON, HUSBAND AND WIFE; TBF FINANCIAL, LLC; SUNRUN, INC.; ANDREWS FEDERAL CREDIT UNION; AND UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "17 NORTH SYRACUSE DRIVE\nCHERRY HILL NJ 08034",
+    "Approx. Upset*": "$228,580.64",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00097226",
+    "Defendant": "COREY JEFFERSON AND NICOLE JEFFERSON, HUSBAND AND WIFE; TBF FINANCIAL, LLC; SUNRUN, INC.; ANDREWS FEDERAL CREDIT UNION; AND UNITED STATES OF AMERICA,",
+    "Parcel #": "LOT 8, BLOCK 338 FKA338.DD",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+    "Property Note": "TAXES - DUE: 8/01/2026 $2,866.15 OPEN\nCCMU - 07/01//2026 -09/30/2026 $93.00 OPEN AND\nDUE 08/15/2026 $561.10 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002191"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "17 NORTH SYRACUSE DRIVE CHERRY HILL NJ 08034",
+    "defendant": "COREY JEFFERSON AND NICOLE JEFFERSON, HUSBAND AND WIFE; TBF FINANCIAL, LLC; SUNRUN, INC.; ANDREWS FEDERAL CREDIT UNION; AND UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 8, BLOCK 338 FKA338.DD",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+  "property_note": "TAXES - DUE: 8/01/2026 $2,866.15 OPEN\nCCMU - 07/01//2026 -09/30/2026 $93.00 OPEN AND\nDUE 08/15/2026 $561.10 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002191",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 228580.64,
+  "upset_amount_label": "Approx. Upset*"
+}

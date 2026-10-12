@@ -1,0 +1,78 @@
+{
+  "address": "223 Arbutus Avenue Galloway Township NJ 08205",
+  "attorney": "Stern Lavinthal & Frankenberg LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-00793-24",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman",
+  "deed_address": "413 S. Seaview Galloway, NJ 08205",
+  "defendant": "Corrinna F. Clarke; Jason B. Clarke and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "223 Arbutus Avenue\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$190,734.35",
+    "Attorney": "Stern Lavinthal & Frankenberg LLC",
+    "Court Case #": "F-00793-24",
+    "Deed": "Amjad Rehman",
+    "Deed Address": "413 S. Seaview Galloway, NJ 08205",
+    "Defendant": "Corrinna F. Clarke; Jason B. Clarke and United States of America",
+    "Plaintiff": "Bankunited N.A",
+    "Priors": "SEWER ACCOUNT PAST DUE $192.50",
+    "Property Note": "",
+    "Sales Date": "3/6/2025",
+    "Sheriff #": "F-24001049",
+    "Upset Amount": "$215,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 190734.35,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "223 Arbutus Avenue Galloway Township NJ 08205",
+    "defendant": "Corrinna F. Clarke; ...",
+    "listing_status": null,
+    "plaintiff": "Bankunited N.A...",
+    "sale_date": "2025-03-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bankunited N.A",
+  "priors": "SEWER ACCOUNT PAST DUE $192.50",
+  "property_note": null,
+  "sale_date": "2025-03-06",
+  "sheriff_number": "F-24001049",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-06",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 215000.0,
+  "upset_amount_label": "Upset Amount"
+}

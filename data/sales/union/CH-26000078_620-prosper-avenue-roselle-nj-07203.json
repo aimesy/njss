@@ -1,0 +1,60 @@
+{
+  "address": "620 PROSPER AVENUE ROSELLE NJ 07203",
+  "attorney": "GROSS POLOWY, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01140124",
+  "current_status": "Defendant Adjournment",
+  "defendant": "ANNE J. DESPREZ INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF JULIE ANNE SAINT JEAN, ANTOINE G. SAINT-JEAN, MUNICIPAL CREDIT UNION, SATE OF NEW JERSEY, AND UNITED STATES OF AMERICA",
+  "description": "BLOCK 6701 LOT 9",
+  "extracted": {
+    "block": "6701",
+    "lot": "9"
+  },
+  "fields": {
+    "Address": "620 PROSPER AVENUE\nROSELLE NJ 07203",
+    "Approx. Upset*": "$401,590.97",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Court Case #": "F01140124",
+    "Defendant": "ANNE J. DESPREZ INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF JULIE ANNE SAINT JEAN, ANTOINE G. SAINT-JEAN, MUNICIPAL CREDIT UNION, SATE OF NEW JERSEY, AND UNITED STATES OF AMERICA",
+    "Description": "BLOCK 6701 LOT 9",
+    "Parcel #": "BLOCK 6701 LOT 9",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "4/8/2026",
+    "Sheriff #": "CH-26000078"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "620 PROSPER AVENUE ROSELLE NJ 07203",
+    "defendant": "ANNE J. DESPREZ INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF JULIE ANNE SAINT JEAN, ANTOINE G. SAINT-JEAN, MUNICIPAL CREDIT UNION, SATE OF NEW JERSEY, AND UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-04-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "BLOCK 6701 LOT 9",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-04-08",
+  "sheriff_number": "CH-26000078",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-02-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 401590.97,
+  "upset_amount_label": "Approx. Upset*"
+}

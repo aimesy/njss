@@ -1,0 +1,64 @@
+{
+  "address": "8 RAMBLE PLACE BLACKWOOD NJ 08012-1421",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-011249-24",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "RAYMOND A. SHUSTER JR.; LYNN CONNERS; DISCOVER BANK",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $328,241.49\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 328241.49
+  },
+  "fields": {
+    "Address": "8 RAMBLE PLACE\nBLACKWOOD NJ 08012-1421",
+    "Approximate Judgment": "$301,122.54",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-011249-24",
+    "Defendant": "RAYMOND A. SHUSTER JR.; LYNN CONNERS; DISCOVER BANK",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $328,241.49\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT: 25 BLOCK: 195.09",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "TOWNSHIP OF WASHINGTON\nCOUNTY OF GLOUCESTER\n8 RAMBLE PLACE BLACKWOOD, NJ 08012-1421\nLOT: 25 BLOCK: 195.09\nAPPROXIMATE DIMENSIONS: 48.00 x 171.44 x 192.29 x 23.40 x 201.04\nNEAREST CROSS STREET: CAMBRIDGE ROAD\nGOOD FAITH ESTIMATED UPSET PRICE: $328,241.49\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "F-25000926"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 301122.54,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "8 RAMBLE PLACE BLACKWOOD NJ 08012-1421",
+    "defendant": "RAYMOND A. SHUSTER JR.; LYNN CONNERS; DISCOVER BANK",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 25 BLOCK: 195.09",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": "TOWNSHIP OF WASHINGTON\nCOUNTY OF GLOUCESTER\n8 RAMBLE PLACE BLACKWOOD, NJ 08012-1421\nLOT: 25 BLOCK: 195.09\nAPPROXIMATE DIMENSIONS: 48.00 x 171.44 x 192.29 x 23.40 x 201.04\nNEAREST CROSS STREET: CAMBRIDGE ROAD\nGOOD FAITH ESTIMATED UPSET PRICE: $328,241.49\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-25000926",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

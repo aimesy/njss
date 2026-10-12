@@ -1,0 +1,76 @@
+{
+  "address": "2704 BAY Drive Villas NJ 08251",
+  "attorney": "GOLDENBERG, MACKLER, SAYEGH, MINTZ, PFEIFFER, BONCHI, & GILL",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-002039-24",
+  "current_status": "Scheduled",
+  "defendant": "JEANINE AUSZMANN, ET AL",
+  "description": "THIS IS IN CONNECTION WITH THE FORESCLOSURE OF TAX SALE CERTIFICATES *NOT A MORTGAGE*",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$48,278.96",
+    "Attorney": "GOLDENBERG, MACKLER, SAYEGH, MINTZ, PFEIFFER, BONCHI, & GILL",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F-002039-24",
+    "Defendant": "JEANINE AUSZMANN, ET AL",
+    "Description": "THIS IS IN CONNECTION WITH THE FORESCLOSURE OF TAX SALE CERTIFICATES *NOT A MORTGAGE*",
+    "Minimum Bid": "$55,500.00",
+    "Parcel #": "LOT 1, BLOCK 494.51",
+    "Plaintiff": "**REDEEMED**CHRISTOPHER LIZZI",
+    "Property Address": "2704 BAY Drive\nVillas NJ 08251",
+    "Property Note": "",
+    "Sale Date": "11/21/2025",
+    "Sheriff #": "F-25000195"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 48278.96,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "2704 BAY Drive Villas NJ 08251",
+    "defendant": "JEANINE AUSZMANN, ET AL",
+    "listing_status": null,
+    "plaintiff": "**REDEEMED**CHRISTOPHER LIZZI",
+    "sale_date": "2025-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 1, BLOCK 494.51",
+  "plaintiff": "**REDEEMED**CHRISTOPHER LIZZI",
+  "property_note": null,
+  "sale_date": "2025-11-21",
+  "sheriff_number": "F-25000195",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-11-21",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Adjourned - Sheriff"
+    },
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 55500.0,
+  "upset_amount_label": "Minimum Bid"
+}

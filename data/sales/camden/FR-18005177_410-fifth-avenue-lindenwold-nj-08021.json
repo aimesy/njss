@@ -1,0 +1,73 @@
+{
+  "address": "410 FIFTH AVENUE LINDENWOLD NJ 08021",
+  "attorney": "PHELAN HALLINAN DIAMOND & JONES, PC",
+  "attorney_phone": "(856) 813-5500",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F02592117",
+  "current_status": "Cancelled",
+  "defendant": "KENNETH R. SMITH, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "410 FIFTH AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$107,410.08",
+    "Attorney": "PHELAN HALLINAN DIAMOND & JONES, PC",
+    "Attorney Phone": "(856) 813-5500",
+    "Court Case #": "F02592117",
+    "Defendant": "KENNETH R. SMITH, ET AL",
+    "Parcel #": "",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "4/10/2026",
+    "Sheriff #": "FR-18005177"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "410 FIFTH AVENUE LINDENWOLD NJ 08021",
+    "defendant": "KENNETH R. SMITH, ET AL",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-04-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-04-10",
+  "sheriff_number": "FR-18005177",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2019-01-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2019-02-27",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2019-07-10",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2019-10-16",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2020-01-22",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2020-04-22",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-04-10",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 107410.08,
+  "upset_amount_label": "Approx. Upset*"
+}

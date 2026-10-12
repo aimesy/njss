@@ -1,0 +1,83 @@
+{
+  "address": "880-882 SOUTH 19TH STREET NEWARK NJ 07108",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00520424",
+  "current_status": "Buy Back",
+  "defendant": "882 S 19 LLC, ET. AL",
+  "description": "TAX LOT(S): 43, IN BLOCK: 3014\nDIMENSIONS (APPROX.): 35 X 100\nNEAREST CROSS STREET: HOPKINS PL.\nIMPORTANT:\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nSHERIFF, KINDLY ADVERTISE THE FOLLOWING:\nGOOD FAITH ESTIMATED UPSET PRICE: $645,717.35\nOCCUPANCY STATUS:\nOCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "block": "3014",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 645717.35
+  },
+  "fields": {
+    "Address": "880-882 SOUTH 19TH STREET\nNEWARK NJ 07108",
+    "Approx. Upset*": "$563,024.30",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00520424",
+    "Defendant": "882 S 19 LLC, ET. AL",
+    "Description": "TAX LOT(S): 43, IN BLOCK: 3014\nDIMENSIONS (APPROX.): 35 X 100\nNEAREST CROSS STREET: HOPKINS PL.\nIMPORTANT:\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nSHERIFF, KINDLY ADVERTISE THE FOLLOWING:\nGOOD FAITH ESTIMATED UPSET PRICE: $645,717.35\nOCCUPANCY STATUS:\nOCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF FIDELITY & GUARANTY LIFE MORTGAGE TRUST 2018-1,",
+    "Property Note": "",
+    "Sales Date": "8/18/2026",
+    "Sheriff #": "F-25002055"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "880-882 SOUTH 19TH STREET NEWARK NJ 07108",
+    "defendant": "882 S 19 LLC, ET. AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF FIDELITY & GUARANTY LIFE MORTGAGE TRUST 2018-1,",
+    "sale_date": "2026-08-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF FIDELITY & GUARANTY LIFE MORTGAGE TRUST 2018-1,",
+  "property_note": null,
+  "sale_date": "2026-08-18",
+  "sheriff_number": "F-25002055",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-07-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-08",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Open"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "SALE-VACATED"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Re-Scheduled"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Buy Back"
+    }
+  ],
+  "upset_amount": 563024.3,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,71 @@
+{
+  "address": "603 GREEN HOLLOW DRIVE ISELIN NJ 08830",
+  "attorney": "MCGOVERN LEGAL SERVICES",
+  "attorney_file_number": null,
+  "attorney_phone": "732-246-1221",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00613024",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "APOORWA MISRA, ET ALS.",
+  "description": "The property to be sold consists of the tract described below and as more particularly described in the description to the Writ of Execution on file with the Sheriff of Middlesex County pursuant to which this sale is being held.\nLocated in the Township of Woodbridge, County of Middlesex, and State of New Jersey. Commonly known as\n603 Green Hollow Drive, Iselin, NJ 08830\nTax Lot 21.01 C0603, Block 380 as shown on the Township of Woodbridge tax map. Upon information and belief, the premises is tenant-occupied.\nFinal upset price $$26,001.18",
+  "extracted": {
+    "block": "380",
+    "lot": "21.01"
+  },
+  "fields": {
+    "Approx. Judgment*": "$24,501.18",
+    "Attorney": "MCGOVERN LEGAL SERVICES",
+    "Attorney File #": "",
+    "Attorney Phone": "732-246-1221",
+    "Court Case #": "F00613024",
+    "Defendant": "APOORWA MISRA, ET ALS.",
+    "Description": "The property to be sold consists of the tract described below and as more particularly described in the description to the Writ of Execution on file with the Sheriff of Middlesex County pursuant to which this sale is being held.\nLocated in the Township of Woodbridge, County of Middlesex, and State of New Jersey. Commonly known as\n603 Green Hollow Drive, Iselin, NJ 08830\nTax Lot 21.01 C0603, Block 380 as shown on the Township of Woodbridge tax map. Upon information and belief, the premises is tenant-occupied.\nFinal upset price $$26,001.18",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 21.01 C0603 BLOCK 380",
+    "Plaintiff": "GREEN HOLLOW CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "603 GREEN HOLLOW DRIVE\nISELIN NJ 08830",
+    "Property Note": "",
+    "Sale Date": "2/11/2026",
+    "Sheriff #": "F-25002226"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 24501.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "603 GREEN HOLLOW DRIVE ISELIN NJ 08830",
+    "defendant": "APOORWA MISRA, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "GREEN HOLLOW CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2026-02-11"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 21.01 C0603 BLOCK 380",
+  "plaintiff": "GREEN HOLLOW CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2026-02-11",
+  "sheriff_number": "F-25002226",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-02-11",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

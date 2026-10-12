@@ -1,0 +1,60 @@
+{
+  "address": "53 PRINCETON AVENUE COLONIA NJ 07067",
+  "attorney": "PARKER MCCAY (MT. LAUREL)",
+  "attorney_file_number": null,
+  "attorney_phone": "(856-810-5815",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01219522",
+  "current_status": "Bankruptcy",
+  "defendant": "MITTAL PUJARA",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$414,193.44",
+    "Attorney": "PARKER MCCAY (MT. LAUREL)",
+    "Attorney File #": "",
+    "Attorney Phone": "(856-810-5815",
+    "Court Case #": "F01219522",
+    "Defendant": "MITTAL PUJARA",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2246 BLOCK 468.04 FKA 468.D",
+    "Plaintiff": "M & T BANK",
+    "Property Address": "53 PRINCETON AVENUE\nCOLONIA NJ 07067",
+    "Property Note": "",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-776085"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 414193.44,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "53 PRINCETON AVENUE COLONIA NJ 07067",
+    "defendant": "MITTAL PUJARA",
+    "listing_status": "Cancelled",
+    "plaintiff": "M & T BANK",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2246 BLOCK 468.04 FKA 468.D",
+  "plaintiff": "M & T BANK",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-776085",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-06-19",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

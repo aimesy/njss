@@ -1,0 +1,63 @@
+{
+  "address": "48 2nd Street a/k/a 48 Second Street Highlands NJ 07732",
+  "attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01152824",
+  "current_status": "Scheduled",
+  "defendant": "Patricia Izzo, et al",
+  "description": "Approximate dimensions: 25.00' x 100.00'\nNearest cross street: Valley Avenue\nThe Plaintiff's Upset Bid presently approximates $145,000.00\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "48 2nd Street\na/k/a 48 Second Street\nHighlands NJ 07732",
+    "Approx. Judgment*": "$131,975.53",
+    "Attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+    "Court Case #": "F01152824",
+    "Defendant": "Patricia Izzo, et al",
+    "Description": "Approximate dimensions: 25.00' x 100.00'\nNearest cross street: Valley Avenue\nThe Plaintiff's Upset Bid presently approximates $145,000.00\nOccupancy Status: UNKNOWN\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.",
+    "Parcel #": "Tax Lot: 26 Tax Block: 63 Tax Map of Borough of Highlands",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "10/8/2025",
+    "Sheriff #": "FOR-25001208"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 131975.53,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "48 2nd Street a/k/a 48 Second Street Highlands NJ 07732",
+    "defendant": "Patricia Izzo, et al",
+    "listing_status": "Redeemed",
+    "plaintiff": "U.S. Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+    "sale_date": "2025-10-08"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 26 Tax Block: 63 Tax Map of Borough of Highlands",
+  "plaintiff": "U.S. Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for RCAF Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2025-10-08",
+  "sheriff_number": "FOR-25001208",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-08",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Scheduled"
+    }
+  ]
+}

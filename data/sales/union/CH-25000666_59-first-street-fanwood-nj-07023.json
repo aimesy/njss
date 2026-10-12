@@ -1,0 +1,64 @@
+{
+  "address": "59 FIRST STREET FANWOOD NJ 07023",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00895924",
+  "current_status": "Settled",
+  "defendant": "RICKO TAMPUSARI; ANDREA TAMPUSARI; STATE OF NEW JERSEY",
+  "description": "LOT 9 BLOCK 65",
+  "extracted": {
+    "block": "65",
+    "lot": "9"
+  },
+  "fields": {
+    "Address": "59 FIRST STREET\nFANWOOD NJ 07023",
+    "Approx. Upset*": "$431,208.50",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F00895924",
+    "Defendant": "RICKO TAMPUSARI; ANDREA TAMPUSARI; STATE OF NEW JERSEY",
+    "Description": "LOT 9 BLOCK 65",
+    "Parcel #": "LOT 9 BLOCK 65",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE TIKI SERIES IV TRUST",
+    "Property Note": "",
+    "Sales Date": "11/25/2025",
+    "Sheriff #": "CH-25000666"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "59 FIRST STREET FANWOOD NJ 07023",
+    "defendant": "RICKO TAMPUSARI; ANDREA TAMPUSARI; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE TIKI SERIES IV TRUST",
+    "sale_date": "2025-11-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 9 BLOCK 65",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE TIKI SERIES IV TRUST",
+  "property_note": null,
+  "sale_date": "2025-11-25",
+  "sheriff_number": "CH-25000666",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-04-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2025-11-25",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 431208.5,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,78 @@
+{
+  "address": "1 Highland Court Linwood NJ 08221",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002534-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "James J. Carr; Allyson A. Carr A/K/A Allyson Sulik and PNC Bank",
+  "extracted": {},
+  "fields": {
+    "Address": "1 Highland Court\nLinwood NJ 08221",
+    "Approx. Judgment*": "$123,567.75",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-002534-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "James J. Carr; Allyson A. Carr A/K/A Allyson Sulik and PNC Bank",
+    "Plaintiff": "U.S Bank Trust National Association; Not in its individual capacity but soley as owner Trustee for RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "4/17/2025",
+    "Sheriff #": "F-23000864",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 123567.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1 Highland Court Linwood NJ 08221",
+    "defendant": "James J. Carr; Allys...",
+    "listing_status": null,
+    "plaintiff": "U.S Bank Trust Natio...",
+    "sale_date": "2025-04-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S Bank Trust National Association; Not in its individual capacity but soley as owner Trustee for RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2025-04-17",
+  "sheriff_number": "F-23000864",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-17",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-04-17",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2023-08-17",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2023-08-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

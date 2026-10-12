@@ -1,0 +1,55 @@
+{
+  "address": "65 DUBOIS AVENUE WOODBURY NJ 08096",
+  "attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-012195-24",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "BARBARA H. KINTZING, ET AL.",
+  "description": "ESTIMATED UPSET BID AMOUNT: $113,000.00\nOCCUPANCY STATUS: VACANT",
+  "extracted": {
+    "occupancy": "VACANT"
+  },
+  "fields": {
+    "Address": "65 DUBOIS AVENUE\nWOODBURY NJ 08096",
+    "Approximate Judgment": "$98,631.26",
+    "Attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+    "Court Case #": "F-012195-24",
+    "Defendant": "BARBARA H. KINTZING, ET AL.",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $113,000.00\nOCCUPANCY STATUS: VACANT",
+    "Parcel #": "LOT: 29 BLOCK: 90.01",
+    "Plaintiff": "FULTON BANK",
+    "Property Note": "CITY OF WOODBURY\nCOUNTY OF GLOUCESTER\n65 DUBOIS AVENUE WOODBURY, NJ 08096\nLOT: 29 BLOCK: 90.01\nAPPROXIMATE DIMENSIONS: 161.90 FEET x 50 FEET x 161.84 FEET x 50 FEET\nNO. OF FEET TO THE NEAREST CROSS STREET: 528 FEET TO NORTH BROAD STREET\nESTIMATED UPSET BID AMOUNT: $113,000.00\nOCCUPANCY STATUS: VACANT\nSUBJECT TO TAX SALE CERTIFICATE IN THE AMOUNT OF $13,495.19 AS OF SEPTEMBER 30, 2025\nSUBJECT TO A FIRST MORTGAGE LIEN ALSO HELD BY FULTON BANK, N.A., IN THE AMOUNT OF $53,451.74 AS OF OCTOVBER 3, 2025",
+    "Sales Date": "11/12/2025",
+    "Sheriff #": "F-25001093"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 98631.26,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "65 DUBOIS AVENUE WOODBURY NJ 08096",
+    "defendant": "BARBARA H. KINTZING, ET AL.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "FULTON BANK",
+    "sale_date": "2025-11-12"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 29 BLOCK: 90.01",
+  "plaintiff": "FULTON BANK",
+  "property_note": "CITY OF WOODBURY\nCOUNTY OF GLOUCESTER\n65 DUBOIS AVENUE WOODBURY, NJ 08096\nLOT: 29 BLOCK: 90.01\nAPPROXIMATE DIMENSIONS: 161.90 FEET x 50 FEET x 161.84 FEET x 50 FEET\nNO. OF FEET TO THE NEAREST CROSS STREET: 528 FEET TO NORTH BROAD STREET\nESTIMATED UPSET BID AMOUNT: $113,000.00\nOCCUPANCY STATUS: VACANT\nSUBJECT TO TAX SALE CERTIFICATE IN THE AMOUNT OF $13,495.19 AS OF SEPTEMBER 30, 2025\nSUBJECT TO A FIRST MORTGAGE LIEN ALSO HELD BY FULTON BANK, N.A., IN THE AMOUNT OF $53,451.74 AS OF OCTOVBER 3, 2025",
+  "sale_date": "2025-11-12",
+  "sheriff_number": "F-25001093",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-11-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

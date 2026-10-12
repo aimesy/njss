@@ -1,0 +1,74 @@
+{
+  "address": "134 Nightingale Way a/k/a 134 E. Nightingale Way Galloway Township NJ 08205",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002442-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Sherry N. Spence-Leslie",
+  "extracted": {},
+  "fields": {
+    "Address": "134 Nightingale Way\na/k/a 134 E. Nightingale Way\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$160,095.72",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-002442-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Sherry N. Spence-Leslie",
+    "Plaintiff": "Servis One Inc. dba BSI Financial Services",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "12/5/2024",
+    "Sheriff #": "F-24000809",
+    "Upset Amount": "$176,671.45"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 160095.72,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "134 Nightingale Way a/k/a 134 E. Nightingale Way Galloway Township NJ 08205",
+    "defendant": "Sherry N. Spence-Les...",
+    "listing_status": null,
+    "plaintiff": "Servis One Inc. dba ...",
+    "sale_date": "2024-12-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Servis One Inc. dba BSI Financial Services",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2024-12-05",
+  "sheriff_number": "F-24000809",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-12-05",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 176671.45,
+  "upset_amount_label": "Upset Amount"
+}

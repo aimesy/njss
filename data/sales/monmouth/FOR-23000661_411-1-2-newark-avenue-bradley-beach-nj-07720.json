@@ -1,0 +1,80 @@
+{
+  "address": "411 1/2 Newark Avenue Bradley Beach NJ 07720",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00620922",
+  "current_status": "Scheduled",
+  "defendant": "Kevin M. O'Connell, et al",
+  "description": "Dimensions of Lot: 25 X 100\nNearest Cross Street: Madison Ave\nOccupancy Status: UNKNOWN\nEstimated Upset bid price: $922,000.00, plus any additional sums as ordered by the court.\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.To ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nSewer: Bradley Beach MUA 701 Main Street Bradley Beach, NJ 07720 732-776-2985 Acct: 319 0 10/01/2024 - 12/31/2024 $119.50 OPEN AND DUE 11/01/2024 $119.53 OPEN",
+  "extracted": {
+    "lot": "25",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "411 1/2 Newark Avenue\nBradley Beach NJ 07720",
+    "Approx. Judgment*": "$834,412.36",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00620922",
+    "Defendant": "Kevin M. O'Connell, et al",
+    "Description": "Dimensions of Lot: 25 X 100\nNearest Cross Street: Madison Ave\nOccupancy Status: UNKNOWN\nEstimated Upset bid price: $922,000.00, plus any additional sums as ordered by the court.\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.To ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nSewer: Bradley Beach MUA 701 Main Street Bradley Beach, NJ 07720 732-776-2985 Acct: 319 0 10/01/2024 - 12/31/2024 $119.50 OPEN AND DUE 11/01/2024 $119.53 OPEN",
+    "Parcel #": "Tax Lot 3 Block 17 Tax Map of municipality of Bradley Beach Boro",
+    "Plaintiff": "Deutsche Bank Trust Company Americas, As Trustee For Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2005-QO5",
+    "Property Note": "",
+    "Sales Date": "11/18/2024",
+    "Sheriff #": "FOR-23000661"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 834412.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "411 1/2 Newark Avenue Bradley Beach NJ 07720",
+    "defendant": "Kevin M. O'Connell, et al",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Deutsche Bank Trust Company Americas, As Trustee For Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2005-QO5",
+    "sale_date": "2024-11-18"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 3 Block 17 Tax Map of municipality of Bradley Beach Boro",
+  "plaintiff": "Deutsche Bank Trust Company Americas, As Trustee For Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2005-QO5",
+  "property_note": null,
+  "sale_date": "2024-11-18",
+  "sheriff_number": "FOR-23000661",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-18",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-04-22",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-04-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-06-26",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-06-26",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-05-30",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2023-05-01",
+      "status": "Scheduled"
+    }
+  ]
+}

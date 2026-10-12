@@ -1,0 +1,52 @@
+{
+  "address": "456-460 East 40TH Street Paterson NJ 07504",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 005216 24 CTL # 163243",
+  "current_status": "Scheduled",
+  "defendant": "ALVIN GUZMAN, ET AL",
+  "description": "Dimensions of Lot: 45 feet wide by 100 feet long\nNearest Cross Street: 19th Avenue\nEstimated upset bid amount: $509,200.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, muncipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 3 Due: 08/01/2026 $2,190.04 OPEN; ESTIMATED TAX BILL\nSewer: Paterson Sewer Dept. 155 Market St. Paterson NJ 07501 973-321-1230 Acct: 10004989 0\n07/01/2026-09/30/2026 $89.75 OPEN AND DUE 08/01/2026 $89.75 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "45",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "456-460 East 40TH Street\nPaterson NJ 07504",
+    "Approx. Upset*": "$435,533.02",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 005216 24 CTL # 163243",
+    "Defendant": "ALVIN GUZMAN, ET AL",
+    "Description": "Dimensions of Lot: 45 feet wide by 100 feet long\nNearest Cross Street: 19th Avenue\nEstimated upset bid amount: $509,200.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, muncipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 3 Due: 08/01/2026 $2,190.04 OPEN; ESTIMATED TAX BILL\nSewer: Paterson Sewer Dept. 155 Market St. Paterson NJ 07501 973-321-1230 Acct: 10004989 0\n07/01/2026-09/30/2026 $89.75 OPEN AND DUE 08/01/2026 $89.75 OPEN PLUS PENALTY",
+    "Parcel #": "Tax Lot 6 Block 8023",
+    "Plaintiff": "FIRST-CITIZENS BANK & TRUST COMPANY, SUCCESSOR BY MERGER TO CIT BANK, N.A",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26001276"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "456-460 East 40TH Street Paterson NJ 07504",
+    "defendant": "ALVIN GUZMAN, ET AL",
+    "listing_status": null,
+    "plaintiff": "FIRST-CITIZENS BANK & TRUST COMPANY, SUCCESSOR BY MERGER TO CIT BANK, N.A",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 6 Block 8023",
+  "plaintiff": "FIRST-CITIZENS BANK & TRUST COMPANY, SUCCESSOR BY MERGER TO CIT BANK, N.A",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26001276",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 435533.02,
+  "upset_amount_label": "Approx. Upset*"
+}

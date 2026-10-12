@@ -1,0 +1,53 @@
+{
+  "address": "2554 TAUTON DRIVE PENNSAUKEN NJ 08109",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00700325",
+  "current_status": "Scheduled",
+  "defendant": "STEPHEN KENNEY; SHELLY KENNEY; CAPITAL ONE BANK USA NA; STATE OF NEW JERSEY;",
+  "extracted": {},
+  "fields": {
+    "Address": "2554 TAUTON DRIVE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$391,820.95",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00700325",
+    "Defendant": "STEPHEN KENNEY; SHELLY KENNEY; CAPITAL ONE BANK USA\nNA; STATE OF NEW JERSEY;",
+    "Parcel #": "Lot: 18; Block: 2807",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "Pursuant to a municipal tax search dated June 4, 2026.\nSubject to: 2026 3rd quarter taxes due 8/1/2026, TO BE DETERMINED\n2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\nWater: To: 4/10/2026, $177.84 OPEN; $177.84 OPEN; OWED IN\nARREARS\nSewer: To: 6/30/2026, $51.50 OPEN\nCCMUA: Acct. 270111222, $93.00 OPEN; $753.47 OPEN PLUS PENALTY; OWED IN ARREARS\nJudgment No. J-000434-2014 in favor of Shaleh I. Hollingsworth against Knieem K. Alford in the amount of $753.29\n*Subject to Indemnification letter dated June 23, 2025 from Old Republic National Title Insurance Company",
+    "Sales Date": "7/17/2026",
+    "Sheriff #": "FR-26001529"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2554 TAUTON DRIVE PENNSAUKEN NJ 08109",
+    "defendant": "STEPHEN KENNEY; SHELLY KENNEY; CAPITAL ONE BANK USA \nNA; STATE OF NEW JERSEY;",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2026-07-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot: 18; Block: 2807",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": "Pursuant to a municipal tax search dated June 4, 2026.\nSubject to: 2026 3rd quarter taxes due 8/1/2026, TO BE DETERMINED\n2026 4th quarter taxes due 11/1/2026, TO BE DETERMINED\nWater: To: 4/10/2026, $177.84 OPEN; $177.84 OPEN; OWED IN\nARREARS\nSewer: To: 6/30/2026, $51.50 OPEN\nCCMUA: Acct. 270111222, $93.00 OPEN; $753.47 OPEN PLUS PENALTY; OWED IN ARREARS\nJudgment No. J-000434-2014 in favor of Shaleh I. Hollingsworth against Knieem K. Alford in the amount of $753.29\n*Subject to Indemnification letter dated June 23, 2025 from Old Republic National Title Insurance Company",
+  "sale_date": "2026-07-17",
+  "sheriff_number": "FR-26001529",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-17",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 391820.95,
+  "upset_amount_label": "Approx. Upset*"
+}

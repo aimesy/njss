@@ -1,0 +1,64 @@
+{
+  "address": "444 Lakewood Farmingdale Road Howell NJ 07731",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00876223",
+  "current_status": "Scheduled",
+  "defendant": "Binyomin Rabinowitz; Mrs. Rabinowitz, Spouse, et al",
+  "description": "Dimensions (Approx.): .92AC\nNearest Cross Street: Old Tavern Road.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nGood Faith Estimated Upset Price: $398,105.87\nOccupancy Status: Vacant",
+  "extracted": {
+    "occupancy": "Vacant",
+    "upset_amount": 398105.87
+  },
+  "fields": {
+    "Address": "444 Lakewood Farmingdale Road\nHowell NJ 07731",
+    "Approx. Judgment*": "$360,657.81",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00876223",
+    "Defendant": "Binyomin Rabinowitz; Mrs. Rabinowitz, Spouse, et al",
+    "Description": "Dimensions (Approx.): .92AC\nNearest Cross Street: Old Tavern Road.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nGood Faith Estimated Upset Price: $398,105.87\nOccupancy Status: Vacant",
+    "Parcel #": "Tax Lot(s): 69, in Block: 50.01 Tax Map of Township of Howell",
+    "Plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+    "Property Note": "",
+    "Sales Date": "6/18/2025",
+    "Sheriff #": "FOR-25000297"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 360657.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "444 Lakewood Farmingdale Road Howell NJ 07731",
+    "defendant": "Binyomin Rabinowitz; Mrs. Rabinowitz, Spouse, et al",
+    "listing_status": "Redeemed",
+    "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+    "sale_date": "2025-06-18"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 69, in Block: 50.01 Tax Map of Township of Howell",
+  "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner Trustee for VRMTG Asset Trust",
+  "property_note": null,
+  "sale_date": "2025-06-18",
+  "sheriff_number": "FOR-25000297",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-06-18",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-06-09",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "address": "134-138 PARKER ROAD ELIZABETH NJ 07208",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01108924",
+  "current_status": "Adjourned per Court Order",
+  "defendant": "WILBERT R. MADRID A/K/A WILBERT R. MADRID NUNEZ A/K/A WILBERT R. NUNEZ A/K/A WILBERT R. MADRIDNUNEZ; ROSSI & CO INC.; STATE OF NEW JERSEY",
+  "description": "LOT 26 FKA 1198 BLOCK 152 FKA 11",
+  "extracted": {
+    "block": "152",
+    "lot": "26"
+  },
+  "fields": {
+    "Address": "134-138 PARKER ROAD\nELIZABETH NJ 07208",
+    "Approx. Upset*": "$273,961.07",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+    "Court Case #": "F01108924",
+    "Defendant": "WILBERT R. MADRID A/K/A WILBERT R. MADRID NUNEZ A/K/A WILBERT R. NUNEZ A/K/A WILBERT R. MADRIDNUNEZ; ROSSI & CO INC.; STATE OF NEW JERSEY",
+    "Description": "LOT 26 FKA 1198 BLOCK 152 FKA 11",
+    "Parcel #": "LOT 26 FKA 1198 BLOCK 152 FKA 11",
+    "Plaintiff": "J.P. MORGAN MORTGAGE ACQUISITION CORP",
+    "Property Note": "",
+    "Sales Date": "1/14/2026",
+    "Sheriff #": "CH-25001983"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "134-138 PARKER ROAD ELIZABETH NJ 07208",
+    "defendant": "WILBERT R. MADRID A/K/A WILBERT R. MADRID NUNEZ A/K/A WILBERT R. NUNEZ A/K/A WILBERT R. MADRIDNUNEZ; ROSSI & CO INC.; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "J.P. MORGAN MORTGAGE ACQUISITION CORP",
+    "sale_date": "2026-01-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 26 FKA 1198 BLOCK 152 FKA 11",
+  "plaintiff": "J.P. MORGAN MORTGAGE ACQUISITION CORP",
+  "property_note": null,
+  "sale_date": "2026-01-14",
+  "sheriff_number": "CH-25001983",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "Adjourned per Court Order"
+    }
+  ],
+  "upset_amount": 273961.07,
+  "upset_amount_label": "Approx. Upset*"
+}

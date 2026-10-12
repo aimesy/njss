@@ -1,0 +1,52 @@
+{
+  "address": "135 North FOURTH Street Paterson NJ 07522",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004732 26 CTL# 163278",
+  "current_status": "Scheduled",
+  "defendant": "LAQUINE J. JOHNSON, ET ALS",
+  "description": "Approximate Dimensions: 100.00 x 25.00 feet\nNearest Cross Street: Jefferson Street\nSubject to: Sewer in the amount of $199.95, open plus penalty\nupset price: $283,230.73\nOccupancy Status: Unknown\nTo the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 283230.73
+  },
+  "fields": {
+    "Address": "135 North FOURTH Street\nPaterson NJ 07522",
+    "Approx. Upset*": "$261,082.79",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 004732 26 CTL# 163278",
+    "Defendant": "LAQUINE J. JOHNSON, ET ALS",
+    "Description": "Approximate Dimensions: 100.00 x 25.00 feet\nNearest Cross Street: Jefferson Street\nSubject to: Sewer in the amount of $199.95, open plus penalty\nupset price: $283,230.73\nOccupancy Status: Unknown\nTo the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.",
+    "Parcel #": "Tax Lot 22 fka 00026, Block 504 fka A0093",
+    "Plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+    "Property Note": "",
+    "Sales Date": "1/26/2027",
+    "Sheriff #": "F-26001668"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "135 North FOURTH Street Paterson NJ 07522",
+    "defendant": "LAQUINE J. JOHNSON, ET ALS",
+    "listing_status": null,
+    "plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+    "sale_date": "2027-01-26"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 22 fka 00026, Block 504 fka A0093",
+  "plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+  "property_note": null,
+  "sale_date": "2027-01-26",
+  "sheriff_number": "F-26001668",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-01-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 261082.79,
+  "upset_amount_label": "Approx. Upset*"
+}

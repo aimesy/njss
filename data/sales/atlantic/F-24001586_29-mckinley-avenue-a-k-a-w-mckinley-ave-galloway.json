@@ -1,0 +1,66 @@
+{
+  "address": "29 McKinley Avenue A/K/A W. McKinley Ave Galloway Township NJ 08205",
+  "attorney": "Martone & Uhlmann, A Professional Corporation",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006466-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Deborah Dalton; New Jersey Housing and Mortgage Finance Agency; State of New Jersey; Absolute Resolutions Investments, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "29 McKinley Avenue\nA/K/A W. McKinley Ave\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$56,468.16",
+    "Attorney": "Martone & Uhlmann, A Professional Corporation",
+    "Court Case #": "F-006466-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Deborah Dalton; New Jersey Housing and Mortgage Finance Agency; State of New Jersey; Absolute Resolutions Investments, LLC",
+    "Plaintiff": "PNC Bank, National Association",
+    "Priors": "Aurora Financial Group, Amount: $110,000.00 (Open Plus Interest and Penalty After 12/17/24)\nMunicipal Lien Certificate #23-00134 Garden State Investment, Amount: $465.40 (Open Plus Interest and Penalty After 12/20/23)\nTotal: $110,465.40",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/3/2025",
+    "Sheriff #": "F-24001586",
+    "Upset Amount": "$63,825.91"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 56468.16,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "29 McKinley Avenue A/K/A W. McKinley Ave Galloway Township NJ 08205",
+    "defendant": "Deborah Dalton; New ...",
+    "listing_status": null,
+    "plaintiff": "PNC Bank, National A...",
+    "sale_date": "2025-04-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "PNC Bank, National Association",
+  "priors": "Aurora Financial Group, Amount: $110,000.00 (Open Plus Interest and Penalty After 12/17/24) Municipal Lien Certificate #23-00134 Garden State Investment, Amount: $465.40 (Open Plus Interest and Penalty After 12/20/23) Total: $110,465.40",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-04-03",
+  "sheriff_number": "F-24001586",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-03",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-06",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 63825.91,
+  "upset_amount_label": "Upset Amount"
+}

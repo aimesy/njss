@@ -1,0 +1,70 @@
+{
+  "address": "100 Tremont Avenue Pleasantville NJ 08232",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "SWC-F-011906-19 PLURIES",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Margaret Adkins aka Margaret Taylor Adkins, her heirs, devisees and personal representatives, and her, their or any of their successors in right, title and interest; United States of America acting on behalf of the Commissioner of Housing and Urban Development; State of New Jersey; Crystal Mcrae aka Crystal Adkins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased; Kenneth Mcrae; Michael Adkins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased, Mark Adkins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased; unknown spouse of Mark Adkins; Dennis Askins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased; unknown spouse of Dennis Adkins; Deborah Adkins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased",
+  "extracted": {},
+  "fields": {
+    "Address": "100 Tremont Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$62,960.13",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "SWC-F-011906-19 PLURIES",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Margaret Adkins aka Margaret Taylor Adkins, her heirs, devisees and personal representatives, and her, their or any of their successors in right, title and interest; United States of America acting on behalf of the Commissioner of Housing and Urban Development; State of New Jersey; Crystal Mcrae aka Crystal Adkins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased; Kenneth Mcrae; Michael Adkins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased, Mark Adkins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased; unknown spouse of Mark Adkins; Dennis Askins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased; unknown spouse of Dennis Adkins; Deborah Adkins, as presumptive heir, devisee, distributee of the Estate of Margaret Adkins aka Margaret Taylor Adkins, deceased",
+    "Plaintiff": "Reverse Mortgage Funding LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "2/2/2026",
+    "Sheriff #": "F-22000632",
+    "Upset Amount": "$68,996.75"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 62960.13,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "100 Tremont Avenue Pleasantville NJ 08232",
+    "defendant": "Margaret Adkins aka ...",
+    "listing_status": null,
+    "plaintiff": "Reverse Mortgage Fun...",
+    "sale_date": "2026-02-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Reverse Mortgage Funding LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-02-02",
+  "sheriff_number": "F-22000632",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-02",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-05-16",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-05-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 68996.75,
+  "upset_amount_label": "Upset Amount"
+}

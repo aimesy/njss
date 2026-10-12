@@ -1,0 +1,75 @@
+{
+  "address": "167-169 EAST 21ST Street Paterson NJ 07513",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 003414 23 #162897",
+  "current_status": "Cancelled",
+  "defendant": "MARY L. PRIMUS ET ALS",
+  "description": "APPROXIMATE DIMENSIONS 35X100 FEET\nNEAREST CROSS STREET FLATBUSH AVENUE\nSUBJECT TO 2ND QUARTER TAXES IN THE AMOUNT OF $3,249.63 OPEN PLUS PENALTY; 3RD QUARTER TAXES IN THE AMOUNT OF $3,399.82 OPEN PLUS PENALTY; 4TH QUARTER TAXES IN THE AMOUNT OF $3,195.42 OPEN PLUS PENALTY; SEWER IN THE AMOUNT OF $709.39 OPEN PLUS PENALTY; WATER IN THE AMOUNT OF $2,997.08 OPEN PLUS PENALTY\nUPSET PRICE $522,832.75\nOCCUPANCY STATUS UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT. **",
+  "extracted": {
+    "upset_amount": 522832.75
+  },
+  "fields": {
+    "Address": "167-169 EAST 21ST Street\nPaterson NJ 07513",
+    "Approx. Upset*": "$499,325.21",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 003414 23 #162897",
+    "Defendant": "MARY L. PRIMUS ET ALS",
+    "Description": "APPROXIMATE DIMENSIONS 35X100 FEET\nNEAREST CROSS STREET FLATBUSH AVENUE\nSUBJECT TO 2ND QUARTER TAXES IN THE AMOUNT OF $3,249.63 OPEN PLUS PENALTY; 3RD QUARTER TAXES IN THE AMOUNT OF $3,399.82 OPEN PLUS PENALTY; 4TH QUARTER TAXES IN THE AMOUNT OF $3,195.42 OPEN PLUS PENALTY; SEWER IN THE AMOUNT OF $709.39 OPEN PLUS PENALTY; WATER IN THE AMOUNT OF $2,997.08 OPEN PLUS PENALTY\nUPSET PRICE $522,832.75\nOCCUPANCY STATUS UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT. **",
+    "Parcel #": "LOT AND BLOCK LOT 21 FKA 9, BLOCK 3918 FKA F0709",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "10/22/2025",
+    "Sheriff #": "F-25000005"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "167-169 EAST 21ST Street Paterson NJ 07513",
+    "defendant": "MARY L. PRIMUS ET ALS",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2025-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "LOT AND BLOCK LOT 21 FKA 9, BLOCK 3918 FKA F0709",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-10-22",
+  "sheriff_number": "F-25000005",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-03-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-07-22",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-09-30",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-22",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 499325.21,
+  "upset_amount_label": "Approx. Upset*"
+}

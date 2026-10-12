@@ -1,0 +1,70 @@
+{
+  "address": "308 Jefferson Avenue Egg Harbor Township NJ 08234",
+  "attorney": "LOGS Legal Group LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-027803-17 PLURIES",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank National Association, as Trustee for SASCO Mortgage Loan Trust 2005-WF2",
+  "deed_address": "1 Home Campus, Des Moines, IA 50328",
+  "defendant": "Patrice J. Dawson, Individually and as Executrix of the Estate of Catherine Dawson; Brian Dunkley; Patrick Dawson; Catherine Dawson, her heirs, devisees and personal representatives, and his/her, their or any of their successors in right, title and interest; State of New Jersey; United States of America; Atlantic County Board of Social Services; Central Physicians & Surgeons; Pleasant Dental Center; Charles K. Paxson, DMD; Kessler Memorial Hospital",
+  "extracted": {},
+  "fields": {
+    "Address": "308 Jefferson Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$181,761.11",
+    "Attorney": "LOGS Legal Group LLP",
+    "Court Case #": "F-027803-17 PLURIES",
+    "Deed": "U.S. Bank National Association, as Trustee for SASCO Mortgage Loan Trust 2005-WF2",
+    "Deed Address": "1 Home Campus, Des Moines, IA 50328",
+    "Defendant": "Patrice J. Dawson, Individually and as Executrix of the Estate of Catherine Dawson; Brian Dunkley; Patrick Dawson; Catherine Dawson, her heirs, devisees and personal representatives, and his/her, their or any of their successors in right, title and interest; State of New Jersey; United States of America; Atlantic County Board of Social Services; Central Physicians & Surgeons; Pleasant Dental Center; Charles K. Paxson, DMD; Kessler Memorial Hospital",
+    "Plaintiff": "U.S. Bank National Association, as Trustee for SASCO Mortgage Loan Trust 2005-WF2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "7/17/2025",
+    "Sheriff #": "F-19000083",
+    "Upset Amount": "$177,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 181761.11,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "308 Jefferson Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Patrice J. Dawson, I...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2025-07-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association, as Trustee for SASCO Mortgage Loan Trust 2005-WF2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-07-17",
+  "sheriff_number": "F-19000083",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-17",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-07-17",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-06-19",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 177000.0,
+  "upset_amount_label": "Upset Amount"
+}

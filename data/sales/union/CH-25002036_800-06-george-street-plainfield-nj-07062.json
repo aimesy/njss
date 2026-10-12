@@ -1,0 +1,60 @@
+{
+  "address": "800-06 GEORGE STREET PLAINFIELD NJ 07062",
+  "attorney": "LAW OFFICES OF TAE H. WHANG, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00897724",
+  "current_status": "Bankuptcy",
+  "defendant": "PPS REALTY 800 GEORGE ST. LLC, STEFANO APISA, ALVARO PADRON, AND STATE OF NEW JERSEY",
+  "description": "LOT 13 BLOCK 339",
+  "extracted": {
+    "block": "339",
+    "lot": "13"
+  },
+  "fields": {
+    "Address": "800-06 GEORGE STREET\nPLAINFIELD NJ 07062",
+    "Approx. Upset*": "$278,716.17",
+    "Attorney": "LAW OFFICES OF TAE H. WHANG, LLC",
+    "Court Case #": "F00897724",
+    "Defendant": "PPS REALTY 800 GEORGE ST. LLC, STEFANO APISA, ALVARO PADRON, AND STATE OF NEW JERSEY",
+    "Description": "LOT 13 BLOCK 339",
+    "Parcel #": "LOT 13 BLOCK 339",
+    "Plaintiff": "TRYON STREET ACQUISITION TRUST I",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "CH-25002036"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "800-06 GEORGE STREET PLAINFIELD NJ 07062",
+    "defendant": "PPS REALTY 800 GEORGE ST. LLC, STEFANO APISA, ALVARO PADRON, AND STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "TRYON STREET ACQUISITION TRUST I",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 13 BLOCK 339",
+  "plaintiff": "TRYON STREET ACQUISITION TRUST I",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "CH-25002036",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 278716.17,
+  "upset_amount_label": "Approx. Upset*"
+}

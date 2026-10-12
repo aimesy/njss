@@ -1,0 +1,58 @@
+{
+  "address": "312 Walmer Street Hammonton NJ 08037",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011507-23",
+  "current_status": "Scheduled",
+  "deed": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+  "deed_address": "1011 Centre Road, Suite 203, Wilmington, DE 19805",
+  "defendant": "Regina Ballin; Christopher Ballin; LVNV Funding LLC C/O Resurgent Capital Services LP; Midland Funding; New Century Financial Services, Inc; Citibank Sea Original Creditor by Assignee",
+  "extracted": {},
+  "fields": {
+    "Address": "312 Walmer Street\nHammonton NJ 08037",
+    "Approx. Judgment*": "$252,780.92",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-011507-23",
+    "Deed": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+    "Deed Address": "1011 Centre Road, Suite 203, Wilmington, DE 19805",
+    "Defendant": "Regina Ballin; Christopher Ballin; LVNV Funding LLC C/O Resurgent Capital Services LP; Midland Funding; New Century Financial Services, Inc; Citibank Sea Original Creditor by Assignee",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Priors": "US Bank Cust / Pro Cap 8 / Pro Cap / ProCapital MGT II, amount: $1,109.90\nTLOA of NJ LLC, amount: $1,212.99\nTotal: $2,322.89",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24001234",
+    "Upset Amount": "$261,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 252780.92,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "312 Walmer Street Hammonton NJ 08037",
+    "defendant": "Regina Ballin; Chris...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity but solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "priors": "US Bank Cust / Pro Cap 8 / Pro Cap / ProCapital MGT II, amount: $1,109.90 TLOA of NJ LLC, amount: $1,212.99 Total: $2,322.89",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24001234",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 261500.0,
+  "upset_amount_label": "Upset Amount"
+}

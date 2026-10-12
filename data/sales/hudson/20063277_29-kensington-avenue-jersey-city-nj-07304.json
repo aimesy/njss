@@ -1,0 +1,64 @@
+{
+  "address": "29 KENSINGTON AVENUE JERSEY CITY NJ 07304",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005234-25",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "TYRELL O'NEAL; ZENITA WASHINGTON; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "Lot: 15 F/K/A 5.B, Block: 16603 F/K/A 1819\nApproximate Dimensions: 25.00ft x 128.25ft x 25.00ft x 128.25ft\nNearest Cross Street: Approximately 350.00ft to the nearest cross street known as Bergen Avenue\nOccupancy Status: Owner Occupied\nAPPROXIMATE UPSET AMOUNT IS $166,873.74 FOR SHERIFF SALE\nPursuant to a municipal tax search dated April 23, 2026.\nSubject to: 2026 2nd quarter taxes due 5/1/2026, $2,103.83 OPEN\n2026 3rd quarter taxes due 8/1/2026, TO BE DETERMINED\nWater/Sewer: $6.97 OPEN AND DUE; $92.57 PAID",
+  "extracted": {
+    "block": "16603",
+    "lot": "15",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "29 KENSINGTON AVENUE\nJERSEY CITY NJ 07304",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F-005234-25",
+    "Defendant": "TYRELL O'NEAL; ZENITA WASHINGTON; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "Lot: 15 F/K/A 5.B, Block: 16603 F/K/A 1819\nApproximate Dimensions: 25.00ft x 128.25ft x 25.00ft x 128.25ft\nNearest Cross Street: Approximately 350.00ft to the nearest cross street known as Bergen Avenue\nOccupancy Status: Owner Occupied\nAPPROXIMATE UPSET AMOUNT IS $166,873.74 FOR SHERIFF SALE\nPursuant to a municipal tax search dated April 23, 2026.\nSubject to: 2026 2nd quarter taxes due 5/1/2026, $2,103.83 OPEN\n2026 3rd quarter taxes due 8/1/2026, TO BE DETERMINED\nWater/Sewer: $6.97 OPEN AND DUE; $92.57 PAID",
+    "Good Faith Upset*": "$166,873.74",
+    "Judgment": "$161,146.50",
+    "Plaintiff": "CITIBANK N.A., not in its individual capacity, but solely as owner trustee of the New Residential Mortgage Loan Trust 2019-5",
+    "Property Note": "",
+    "Sales Date": "11/5/2026",
+    "Sheriff #": "20063277"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 161146.5,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "29 KENSINGTON AVENUE JERSEY CITY NJ 07304",
+    "defendant": "TYRELL O'NEAL; ZENITA WASHINGTON; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "CITIBANK N.A., not in its individual capacity, but solely as owner trustee of the New Residential Mortgage Loan Trust 2019-5",
+    "sale_date": "2026-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "CITIBANK N.A., not in its individual capacity, but solely as owner trustee of the New Residential Mortgage Loan Trust 2019-5",
+  "property_note": null,
+  "sale_date": "2026-11-05",
+  "sheriff_number": "20063277",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 166873.74,
+  "upset_amount_label": "Good Faith Upset*"
+}

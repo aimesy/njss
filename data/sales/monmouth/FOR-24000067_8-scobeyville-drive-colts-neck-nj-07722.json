@@ -1,0 +1,87 @@
+{
+  "address": "8 Scobeyville Drive Colts Neck NJ 07722",
+  "attorney": "Seidman & Pincus LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00409523",
+  "current_status": "Scheduled",
+  "defendant": "Shore Dental Sleep Care, a NJ LLC, et al",
+  "description": "Nearest Cross Street: Hockhockson Road\nDimensions for entire parcel (approx.): 137.67 x 372.22 x 462.74 x 327.41 x 275.00 x 77.18 x 200.00 x 60\nAmount Due for Taxes: $0\nPremises is: Owner Occupied\nUpset Price: $451,848.96 plus Sheriff's Fees\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded on January 2, 2020 in the Monmouth County Clerk's Office in Mortgage Book 9388 at pages 5311 et seq., and the Writ of Execution on file with the Sheriff of Monmouth County. The sale is subject to all prior liens and encumbrances of record.",
+  "extracted": {
+    "upset_amount": 451848.96
+  },
+  "fields": {
+    "Address": "8 Scobeyville Drive\nColts Neck NJ 07722",
+    "Approx. Judgment*": "$422,020.75",
+    "Attorney": "Seidman & Pincus LLC",
+    "Court Case #": "F00409523",
+    "Defendant": "Shore Dental Sleep Care, a NJ LLC, et al",
+    "Description": "Nearest Cross Street: Hockhockson Road\nDimensions for entire parcel (approx.): 137.67 x 372.22 x 462.74 x 327.41 x 275.00 x 77.18 x 200.00 x 60\nAmount Due for Taxes: $0\nPremises is: Owner Occupied\nUpset Price: $451,848.96 plus Sheriff's Fees\nAs the above description does not constitute a full legal description, said full legal description is annexed to that certain mortgage recorded on January 2, 2020 in the Monmouth County Clerk's Office in Mortgage Book 9388 at pages 5311 et seq., and the Writ of Execution on file with the Sheriff of Monmouth County. The sale is subject to all prior liens and encumbrances of record.",
+    "Parcel #": "Block 51, Lot 1.09 Tax Map of the Township of Colts Neck",
+    "Plaintiff": "Hanover Community Bank As Successor By Merger With Savoy Bank",
+    "Property Note": "",
+    "Sales Date": "5/27/2025",
+    "Sheriff #": "FOR-24000067"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 422020.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "8 Scobeyville Drive Colts Neck NJ 07722",
+    "defendant": "Shore Dental Sleep Care, a NJ LLC, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Hanover Community Bank As Successor By Merger With Savoy Bank",
+    "sale_date": "2025-05-27"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 51, Lot 1.09 Tax Map of the Township of Colts Neck",
+  "plaintiff": "Hanover Community Bank As Successor By Merger With Savoy Bank",
+  "property_note": null,
+  "sale_date": "2025-05-27",
+  "sheriff_number": "FOR-24000067",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-27",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-07-01",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-07-01",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-06-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-05-06",
+      "status": "Scheduled"
+    }
+  ]
+}

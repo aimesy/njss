@@ -1,0 +1,64 @@
+{
+  "address": "7512 BROADWAY NORTH BERGEN NJ 07047",
+  "attorney": "PATRICK O. LACSINA LAW OFFICES, LLC",
+  "attorney_phone": "(973)-485-3584",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006842-24",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "VALENTINA REALTY, LLC; ET AL.",
+  "description": "TAX LOT: 48 BLOCK: 303\nDIMENSIONS (APPROXIMATE): 20' X 60'\nNEAREST CROSS STREET: 75TH STREET\nOCCUPANCY STATUS: THE FIRST FLOOR IS A COMMERCIAL SPACE OCCUPIED BY A BAR. THE SECOND FLOOR IS AN OCCUPIED RESIDENTIAL UNIT.",
+  "extracted": {
+    "block": "303",
+    "lot": "48",
+    "occupancy": "THE FIRST FLOOR IS A COMMERCIAL SPACE OCCUPIED BY A BAR. THE SECOND FLOOR IS AN OCCUPIED RESIDENTIAL UNIT."
+  },
+  "fields": {
+    "Address": "7512 BROADWAY\nNORTH BERGEN NJ 07047",
+    "Attorney": "PATRICK O. LACSINA LAW OFFICES, LLC",
+    "Attorney Phone": "(973)-485-3584",
+    "Court Case #": "F-006842-24",
+    "Defendant": "VALENTINA REALTY, LLC; ET AL.",
+    "Description": "TAX LOT: 48 BLOCK: 303\nDIMENSIONS (APPROXIMATE): 20' X 60'\nNEAREST CROSS STREET: 75TH STREET\nOCCUPANCY STATUS: THE FIRST FLOOR IS A COMMERCIAL SPACE OCCUPIED BY A BAR. THE SECOND FLOOR IS AN OCCUPIED RESIDENTIAL UNIT.",
+    "Good Faith Upset*": "",
+    "Judgment": "$1,067,162.01",
+    "Plaintiff": "SAEED KETABCHI",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "20062150"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1067162.01,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "7512 BROADWAY NORTH BERGEN NJ 07047",
+    "defendant": "VALENTINA REALTY, LLC; ET AL.",
+    "listing_status": null,
+    "plaintiff": "SAEED KETABCHI",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "SAEED KETABCHI",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "20062150",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-05-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

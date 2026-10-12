@@ -1,0 +1,65 @@
+{
+  "address": "3716 FREMONT AVENUE CAMDEN NJ 08105",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00590925",
+  "current_status": "Court Adjournment",
+  "defendant": "YAJAIRA DELGAGO RIOS AKA YAJAIRA DELGADO, ET AL. 01282026",
+  "extracted": {},
+  "fields": {
+    "Address": "3716 FREMONT AVENUE\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$94,481.89",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00590925",
+    "Defendant": "YAJAIRA DELGAGO RIOS AKA YAJAIRA DELGADO, ET AL. 01282026",
+    "Parcel #": "LOT 12, BLOCK 1090 ON THE OFFICIALTAX MAP OF THE CITY OF CAMDEN",
+    "Plaintiff": "LOANDEPOT.COM, LLC",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26000530"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3716 FREMONT AVENUE CAMDEN NJ 08105",
+    "defendant": "YAJAIRA DELGAGO RIOS AKA YAJAIRA DELGADO, ET AL. 01282026",
+    "listing_status": null,
+    "plaintiff": "LOANDEPOT.COM, LLC",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 12, BLOCK 1090 ON THE OFFICIALTAX MAP OF THE CITY OF CAMDEN",
+  "plaintiff": "LOANDEPOT.COM, LLC",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26000530",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 94481.89,
+  "upset_amount_label": "Approx. Upset*"
+}

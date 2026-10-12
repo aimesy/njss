@@ -1,0 +1,58 @@
+{
+  "address": "704 Cresson Avenue Northfield NJ 08225",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012263-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Trinh Huynh; VY Tran; Paul Huynh; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "704 Cresson Avenue\nNorthfield NJ 08225",
+    "Approx. Judgment*": "$89,181.36",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-012263-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Trinh Huynh; VY Tran; Paul Huynh; State of New Jersey",
+    "Plaintiff": "US Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+    "Priors": "Fig 20, LLC FBO SEC PTY, amount: $160.25",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "5/1/2025",
+    "Sheriff #": "F-25000252",
+    "Upset Amount": "$95,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 89181.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "704 Cresson Avenue Northfield NJ 08225",
+    "defendant": "Trinh Huynh; VY Tran...",
+    "listing_status": null,
+    "plaintiff": "US Bank Trust Nation...",
+    "sale_date": "2025-05-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "US Bank Trust National Association, not in its Individual Capacity but Solely as Owner Trustee for VRMTG Asset Trust",
+  "priors": "Fig 20, LLC FBO SEC PTY, amount: $160.25",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-05-01",
+  "sheriff_number": "F-25000252",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-01",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 95500.0,
+  "upset_amount_label": "Upset Amount"
+}

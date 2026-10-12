@@ -1,0 +1,97 @@
+{
+  "address": "350 GARRETT MORGAN DRIVE LAWNSIDE NJ 08045",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00100224",
+  "current_status": "Redeemed",
+  "defendant": "JUAN THOMAS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "350 GARRETT MORGAN DRIVE\nLAWNSIDE NJ 08045",
+    "Approx. Upset*": "$257,537.95",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F00100224",
+    "Defendant": "JUAN THOMAS, ET AL.",
+    "Parcel #": "BLOCK 801.02, LOT 3",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "Subjective tax or NO. 25–00046 12/29/2025 in the amount of $624.63. Interested parties must obtain and pay redemption amount with burrow of lawnside.\nSubject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums, or other advances made by plaintiff prior to the sale. The amount due can be obtained from local taxing authority. Pursuant to NJSA 46:8B – 21 the sale may also be subject to the limited lien priority of any condominium/homeowners association liens, which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so, the current amount thereon.",
+    "Sales Date": "9/10/2026",
+    "Sheriff #": "FR-24002558"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "350 GARRETT MORGAN DRIVE LAWNSIDE NJ 08045",
+    "defendant": "JUAN THOMAS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-09-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 801.02, LOT 3",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": "Subjective tax or NO. 25–00046 12/29/2025 in the amount of $624.63. Interested parties must obtain and pay redemption amount with burrow of lawnside.\nSubject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums, or other advances made by plaintiff prior to the sale. The amount due can be obtained from local taxing authority. Pursuant to NJSA 46:8B – 21 the sale may also be subject to the limited lien priority of any condominium/homeowners association liens, which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so, the current amount thereon.",
+  "sale_date": "2026-09-10",
+  "sheriff_number": "FR-24002558",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-12-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-15",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-06-18",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-07-16",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Purchased"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 257537.95,
+  "upset_amount_label": "Approx. Upset*"
+}

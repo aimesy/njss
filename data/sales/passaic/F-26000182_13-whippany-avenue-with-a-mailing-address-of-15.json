@@ -1,0 +1,68 @@
+{
+  "address": "13 WHIPPANY Avenue WITH A MAILING ADDRESS OF 15 WHIPPANY AVENUE Woodland Park NJ 07424",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 005409 23 CTL # 163141",
+  "current_status": "Rescheduled",
+  "defendant": "IAN ISKELIUNAS, ET AL.",
+  "description": "Dimensions of Lot: 40x100\nNearest Cross Street: McBride Avenue\nEstimated Upset bid amount: $554,800.00, Plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 4 Due: 11/01/2026 $2,200.42 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,108.82 OPEN\n2027 Qtr 2 Due: 05/01/2027 $ 2,108.81 OPEN",
+  "extracted": {
+    "lot": "40x100",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "13 WHIPPANY Avenue\nWITH A MAILING ADDRESS OF 15 WHIPPANY AVENUE\nWoodland Park NJ 07424",
+    "Approx. Upset*": "$484,356.29",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 005409 23 CTL # 163141",
+    "Defendant": "IAN ISKELIUNAS, ET AL.",
+    "Description": "Dimensions of Lot: 40x100\nNearest Cross Street: McBride Avenue\nEstimated Upset bid amount: $554,800.00, Plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 4 Due: 11/01/2026 $2,200.42 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,108.82 OPEN\n2027 Qtr 2 Due: 05/01/2027 $ 2,108.81 OPEN",
+    "Parcel #": "Tax Lot 13 Block 100",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "1/19/2027",
+    "Sheriff #": "F-26000182"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "13 WHIPPANY Avenue WITH A MAILING ADDRESS OF 15 WHIPPANY AVENUE Woodland Park NJ 07424",
+    "defendant": "IAN ISKELIUNAS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2027-01-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 13 Block 100",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2027-01-19",
+  "sheriff_number": "F-26000182",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-05-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2027-01-19",
+      "status": "Rescheduled"
+    }
+  ],
+  "upset_amount": 484356.29,
+  "upset_amount_label": "Approx. Upset*"
+}

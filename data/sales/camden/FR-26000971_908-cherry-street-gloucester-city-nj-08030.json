@@ -1,0 +1,53 @@
+{
+  "address": "908 CHERRY STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00824425",
+  "current_status": "Purchased",
+  "defendant": "CARLOS F. VILLARINI, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "908 CHERRY STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$236,113.75",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00824425",
+    "Defendant": "CARLOS F. VILLARINI, ET AL.",
+    "Parcel #": "TAX LOT:3,3,4 TAX BLOCK:97",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "7/1/2026",
+    "Sheriff #": "FR-26000971"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "908 CHERRY STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "CARLOS F. VILLARINI, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-07-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT:3,3,4 TAX BLOCK:97",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-07-01",
+  "sheriff_number": "FR-26000971",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 236113.75,
+  "upset_amount_label": "Approx. Upset*"
+}

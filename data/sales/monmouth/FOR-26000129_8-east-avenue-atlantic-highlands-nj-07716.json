@@ -1,0 +1,53 @@
+{
+  "address": "8 East Avenue Atlantic Highlands NJ 07716",
+  "attorney": "Stern Lavinthal & Frankenberg LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00877425",
+  "current_status": "Scheduled",
+  "defendant": "Amy E. Schnoor",
+  "description": "The dimensions are approximately-100' X 100'\nNearest Cross Street: Lincoln Avenue\nProperty is Occupied by Unknown\nThe Good Faith Estimate of the Upset Bid amount as of 01/13/2026 is $29,069.67.\nPrior lien(s): Property is in Tax Sale\n2025 Taxes open/due in the approx. amount of $7,914.08.\n2026 1st Quarter Taxes open/due in the approx. amount of $1,978.52.\nWater Account past due in the approx. amount of $343.67.\nSewer Account past due in the approx. amount of $600.60.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {},
+  "fields": {
+    "Address": "8 East Avenue\nAtlantic Highlands NJ 07716",
+    "Approx. Judgment*": "$27,003.98",
+    "Attorney": "Stern Lavinthal & Frankenberg LLC",
+    "Court Case #": "F00877425",
+    "Defendant": "Amy E. Schnoor",
+    "Description": "The dimensions are approximately-100' X 100'\nNearest Cross Street: Lincoln Avenue\nProperty is Occupied by Unknown\nThe Good Faith Estimate of the Upset Bid amount as of 01/13/2026 is $29,069.67.\nPrior lien(s): Property is in Tax Sale\n2025 Taxes open/due in the approx. amount of $7,914.08.\n2026 1st Quarter Taxes open/due in the approx. amount of $1,978.52.\nWater Account past due in the approx. amount of $343.67.\nSewer Account past due in the approx. amount of $600.60.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Lot and Block: Lot 10, Block 33 Tax Map of Borough of Atlantic Highlands",
+    "Plaintiff": "Santander Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "3/16/2026",
+    "Sheriff #": "FOR-26000129"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 27003.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "8 East Avenue Atlantic Highlands NJ 07716",
+    "defendant": "Amy E. Schnoor",
+    "listing_status": "Settled",
+    "plaintiff": "Santander Bank, N.A.",
+    "sale_date": "2026-03-16"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 10, Block 33 Tax Map of Borough of Atlantic Highlands",
+  "plaintiff": "Santander Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2026-03-16",
+  "sheriff_number": "FOR-26000129",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-16",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Scheduled"
+    }
+  ]
+}

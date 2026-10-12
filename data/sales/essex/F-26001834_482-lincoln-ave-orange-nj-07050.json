@@ -1,0 +1,79 @@
+{
+  "address": "482 LINCOLN AVE ORANGE NJ 07050",
+  "attorney": "MCCABE WEISBERG & CONWAY",
+  "attorney_phone": "(856) 858-7080",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F02937814",
+  "current_status": "Adjourned Sheriff",
+  "defendant": "JOANN PHILLIPS",
+  "description": "LOT: 2 BLOCK: 5201\nDIMENSIONS OF LOT (APPROXIMATELY): 100' X 200'\nNEAREST CROSS STREET: FAIRVIEW AVENUE\nAPPROX UPSET PRICE $527,000.00 PROPERTY STATUS: BORROWER OCCUPIED\nSUBJECT TO DELINQUENT UTILITIES, MUST CONTACT TAX COLLECTOR TO OBTAIN REDEMPTION AMOUNTS.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "block": "5201",
+    "lot": "2",
+    "upset_amount": 527000.0
+  },
+  "fields": {
+    "Address": "482 LINCOLN AVE\nORANGE NJ 07050",
+    "Approx. Upset*": "$366,827.25",
+    "Attorney": "MCCABE WEISBERG & CONWAY",
+    "Attorney Phone": "(856) 858-7080",
+    "Court Case #": "F02937814",
+    "Defendant": "JOANN PHILLIPS",
+    "Description": "LOT: 2 BLOCK: 5201\nDIMENSIONS OF LOT (APPROXIMATELY): 100' X 200'\nNEAREST CROSS STREET: FAIRVIEW AVENUE\nAPPROX UPSET PRICE $527,000.00 PROPERTY STATUS: BORROWER OCCUPIED\nSUBJECT TO DELINQUENT UTILITIES, MUST CONTACT TAX COLLECTOR TO OBTAIN REDEMPTION AMOUNTS.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "",
+    "Plaintiff": "REVERSE MORTGAGE FUNDING, LLC",
+    "Property Note": "",
+    "Sales Date": "12/15/2026",
+    "Sheriff #": "F-26001834"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "482 LINCOLN AVE ORANGE NJ 07050",
+    "defendant": "JOANN PHILLIPS",
+    "listing_status": null,
+    "plaintiff": "REVERSE MORTGAGE FUNDING, LLC",
+    "sale_date": "2026-12-15"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "REVERSE MORTGAGE FUNDING, LLC",
+  "property_note": null,
+  "sale_date": "2026-12-15",
+  "sheriff_number": "F-26001834",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-06-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-12-08",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-12-15",
+      "status": "Adjourned Sheriff"
+    }
+  ],
+  "upset_amount": 366827.25,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,68 @@
+{
+  "address": "62 S GROVE AVENUE PERTH AMBOY NJ 08861",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F03977210",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "HELEN CAROL STOECKERT",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$290,822.39",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F03977210",
+    "Defendant": "HELEN CAROL STOECKERT",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 28 BLOCK 202.02",
+    "Plaintiff": "DITECH FINANCIAL LLC",
+    "Property Address": "62 S GROVE AVENUE\nPERTH AMBOY NJ 08861",
+    "Property Note": "",
+    "Sale Date": "3/30/2026",
+    "Sheriff #": "F-775790"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 290822.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "62 S GROVE AVENUE PERTH AMBOY NJ 08861",
+    "defendant": "HELEN CAROL STOECKERT",
+    "listing_status": "Cancelled",
+    "plaintiff": "DITECH FINANCIAL LLC",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 28 BLOCK 202.02",
+  "plaintiff": "DITECH FINANCIAL LLC",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-775790",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2023-01-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2023-01-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2022-11-30",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

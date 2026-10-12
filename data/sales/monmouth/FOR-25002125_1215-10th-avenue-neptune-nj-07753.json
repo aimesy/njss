@@ -1,0 +1,64 @@
+{
+  "address": "1215 10th Avenue Neptune NJ 07753",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00637925",
+  "current_status": "Scheduled",
+  "defendant": "Lanayia Hasty et. al.",
+  "description": "Dimensions of Lot:\n50 Feet Wide by 140 Feet Long\nNearest Cross Street: Ridge Avenue\nEstimated upset bid amount: $385,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Unknown\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 4 Due: 11/01/2025 $2,510.07 Open\n2026 Qtr 1 Due: 02/01/2026 $2398.44 Open\n2026 Qtr 2 Due: 05/01/2026 $2,398.44 Open\nSewer: Neptune Township 25 Neptune Blvd Neptune, NJ 07753 732-988-5200\nAcct: 24516 0 07/01/2025-12/31/2025 $230.00 Open Plus Penalty $230.00 Open Plus Penalty\nLiens: Year: 2024 Type: 3rd Party Sewer Amount: $373.65 Cert No.: 25-00032 Sold: 10/09/2025 To: Bala Partners LLC Lien amount is subject to subsequent taxes+interest. Must call prior to settlement for redemption figures. The redemption of liens is outlined in N.J.S.A 54:5-54",
+  "extracted": {
+    "lot": "50",
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "1215 10th Avenue\nNeptune NJ 07753",
+    "Approx. Judgment*": "$352,974.29",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00637925",
+    "Defendant": "Lanayia Hasty et. al.",
+    "Description": "Dimensions of Lot:\n50 Feet Wide by 140 Feet Long\nNearest Cross Street: Ridge Avenue\nEstimated upset bid amount: $385,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Unknown\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2025 Qtr 4 Due: 11/01/2025 $2,510.07 Open\n2026 Qtr 1 Due: 02/01/2026 $2398.44 Open\n2026 Qtr 2 Due: 05/01/2026 $2,398.44 Open\nSewer: Neptune Township 25 Neptune Blvd Neptune, NJ 07753 732-988-5200\nAcct: 24516 0 07/01/2025-12/31/2025 $230.00 Open Plus Penalty $230.00 Open Plus Penalty\nLiens: Year: 2024 Type: 3rd Party Sewer Amount: $373.65 Cert No.: 25-00032 Sold: 10/09/2025 To: Bala Partners LLC Lien amount is subject to subsequent taxes+interest. Must call prior to settlement for redemption figures. The redemption of liens is outlined in N.J.S.A 54:5-54",
+    "Parcel #": "Lot and Block: Lot 27 Fka 73 Block 517 Fka 171 on the official Tax Map of Township of Neptune",
+    "Plaintiff": "U.S. Bank, National Association, As Trustee For Asset Backed Securities Corporation Home Equity Trust, Series 2005-He2, Asset Backed Pass-Through Certificates, Series 2005-He2,",
+    "Property Note": "",
+    "Sales Date": "3/2/2026",
+    "Sheriff #": "FOR-25002125"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 352974.29,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1215 10th Avenue Neptune NJ 07753",
+    "defendant": "Lanayia Hasty et. al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "U.S. Bank, National Association, As Trustee For Asset Backed Securities Corporation Home Equity Trust, Series 2005-He2, Asset Backed Pass-Through Certificates, Series 2005-He2,",
+    "sale_date": "2026-03-02"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 27 Fka 73 Block 517 Fka 171 on the official Tax Map of Township of Neptune",
+  "plaintiff": "U.S. Bank, National Association, As Trustee For Asset Backed Securities Corporation Home Equity Trust, Series 2005-He2, Asset Backed Pass-Through Certificates, Series 2005-He2,",
+  "property_note": null,
+  "sale_date": "2026-03-02",
+  "sheriff_number": "FOR-25002125",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-02",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Scheduled"
+    }
+  ]
+}

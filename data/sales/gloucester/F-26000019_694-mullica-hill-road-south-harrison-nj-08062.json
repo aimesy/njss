@@ -1,0 +1,67 @@
+{
+  "address": "694 MULLICA HILL ROAD SOUTH HARRISON NJ 08062",
+  "attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "DJ-001012-25",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "RITE HOOK TOWING, LLC",
+  "description": "ESTIMATED UPSET AMOUNT: $41,098.03 PLUS ANY ADDITIONAL INTEREST OR ORDER FOR ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: VACANT LOT",
+  "extracted": {
+    "occupancy": "VACANT LOT"
+  },
+  "fields": {
+    "Address": "694 MULLICA HILL ROAD\nSOUTH HARRISON NJ 08062",
+    "Approximate Judgment": "$44,504.13",
+    "Attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+    "Court Case #": "DJ-001012-25",
+    "Defendant": "RITE HOOK TOWING, LLC",
+    "Description": "ESTIMATED UPSET AMOUNT: $41,098.03 PLUS ANY ADDITIONAL INTEREST OR ORDER FOR ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: VACANT LOT",
+    "Parcel #": "LOT: 22 BLOCK: 5",
+    "Plaintiff": "RNB ASSOCIATES, LLC",
+    "Property Note": "TOWNSHIP OF SOUTH HARRISON\nCOUNTY OF GLOUCESTER\n694 MULLICA HILL ROAD SOUTH HARRISON, NJ 08062 A/K/A MONROEVILLE ROAD, MULLICA HILL NJ 08062\nLOT: 22 BLOCK: 5\nAPPROXIMATE DIMENSIONS: 820.11' x 159.25' x 823.20' x 150.18'\nNO. OF FEET TO NEAREST CROSS STREET: ESTIMATED AT ABOUT3500 FEET FROM THE CORNER OF MONROEVILLE ROAD AND RUSSELL MILL ROAD\nESTIMATED UPSET AMOUNT: $41,098.03 PLUS ANY ADDITIONAL INTEREST OR ORDER FOR ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: VACANT LOT",
+    "Sales Date": "5/27/2026",
+    "Sheriff #": "F-26000019"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 44504.13,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "694 MULLICA HILL ROAD SOUTH HARRISON NJ 08062",
+    "defendant": "RITE HOOK TOWING, LLC",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "RNB ASSOCIATES, LLC",
+    "sale_date": "2026-05-27"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 22 BLOCK: 5",
+  "plaintiff": "RNB ASSOCIATES, LLC",
+  "property_note": "TOWNSHIP OF SOUTH HARRISON\nCOUNTY OF GLOUCESTER\n694 MULLICA HILL ROAD SOUTH HARRISON, NJ 08062 A/K/A MONROEVILLE ROAD, MULLICA HILL NJ 08062\nLOT: 22 BLOCK: 5\nAPPROXIMATE DIMENSIONS: 820.11' x 159.25' x 823.20' x 150.18'\nNO. OF FEET TO NEAREST CROSS STREET: ESTIMATED AT ABOUT3500 FEET FROM THE CORNER OF MONROEVILLE ROAD AND RUSSELL MILL ROAD\nESTIMATED UPSET AMOUNT: $41,098.03 PLUS ANY ADDITIONAL INTEREST OR ORDER FOR ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: VACANT LOT",
+  "sale_date": "2026-05-27",
+  "sheriff_number": "F-26000019",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-29",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-05-27",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-05-27",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

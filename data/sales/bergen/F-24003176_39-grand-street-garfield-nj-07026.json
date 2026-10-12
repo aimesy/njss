@@ -1,0 +1,75 @@
+{
+  "address": "39 GRAND STREET GARFIELD NJ 07026",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00423322",
+  "current_status": "Cancelled",
+  "defendant": "LURIA GONZALEZ; MR. GONZALEZ, SPOUSE OF LURIA GONZALEZ, ET. AL",
+  "description": "Estimated upset bid amount: $529,000.00____,plus any additional sums as ordered by the court.\nOccupancy Status: Occupied",
+  "extracted": {
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "39 GRAND STREET\nGARFIELD NJ 07026",
+    "Approx. Upset*": "$451,370.32",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00423322",
+    "Defendant": "LURIA GONZALEZ; MR. GONZALEZ, SPOUSE OF LURIA GONZALEZ, ET. AL",
+    "Description": "Estimated upset bid amount: $529,000.00____,plus any additional sums as ordered by the court.\nOccupancy Status: Occupied",
+    "Parcel #": "LOT 29, BLOCK 70",
+    "Plaintiff": "BANK OF AMERICA, N.A",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "F-24003176"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "39 GRAND STREET GARFIELD NJ 07026",
+    "defendant": "LURIA GONZALEZ; MR. GONZALEZ, SPOUSE OF LURIA GONZALEZ, ET. AL",
+    "listing_status": null,
+    "plaintiff": "BANK OF AMERICA, N.A",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 29, BLOCK 70",
+  "plaintiff": "BANK OF AMERICA, N.A",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-24003176",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-01-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-03-07",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-05-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-08-08",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 451370.32,
+  "upset_amount_label": "Approx. Upset*"
+}

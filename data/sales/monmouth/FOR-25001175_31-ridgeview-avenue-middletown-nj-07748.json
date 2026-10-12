@@ -1,0 +1,67 @@
+{
+  "address": "31 Ridgeview Avenue Middletown NJ 07748",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02164318",
+  "current_status": "Scheduled",
+  "defendant": "Christopher Listo; Galina Listo",
+  "description": "Approximate dimensions: 161.39 x 369.98 x 331.46 x 230.37 Feet (IRREGULAR)\nNearest Cross Street: Mountainside Avenue\nSubject to n/a\nUpset Price $1,485,739.53\nOccupancy Status Occupied\n** To the best of this firm's knowlwdge, the property is not an affordable unit subject to the fair Housing Act. **",
+  "extracted": {
+    "upset_amount": 1485739.53
+  },
+  "fields": {
+    "Address": "31 Ridgeview Avenue\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$1,125,752.98",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F02164318",
+    "Defendant": "Christopher Listo; Galina Listo",
+    "Description": "Approximate dimensions: 161.39 x 369.98 x 331.46 x 230.37 Feet (IRREGULAR)\nNearest Cross Street: Mountainside Avenue\nSubject to n/a\nUpset Price $1,485,739.53\nOccupancy Status Occupied\n** To the best of this firm's knowlwdge, the property is not an affordable unit subject to the fair Housing Act. **",
+    "Parcel #": "Lot 1, Block 741 Tax Map of the Township of Middletown",
+    "Plaintiff": "M&T Bank S/B/M Hudson City Savings Bank",
+    "Property Note": "",
+    "Sales Date": "10/27/2025",
+    "Sheriff #": "FOR-25001175"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1125752.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "31 Ridgeview Avenue Middletown NJ 07748",
+    "defendant": "Christopher Listo; Galina Listo",
+    "listing_status": "Bankrupt",
+    "plaintiff": "M&T Bank S/B/M Hudson City Savings Bank",
+    "sale_date": "2025-10-27"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 1, Block 741 Tax Map of the Township of Middletown",
+  "plaintiff": "M&T Bank S/B/M Hudson City Savings Bank",
+  "property_note": null,
+  "sale_date": "2025-10-27",
+  "sheriff_number": "FOR-25001175",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-27",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-04",
+      "status": "Scheduled"
+    }
+  ]
+}

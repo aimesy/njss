@@ -1,0 +1,58 @@
+{
+  "address": "614 North Main Street Pleasantville NJ 08232",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006466-22 ALIAS",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Jean Leveille Fortune; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "614 North Main Street\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$185,257.91",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-006466-22 ALIAS",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Jean Leveille Fortune; United States of America",
+    "Plaintiff": "Mortgage Assets Management, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "12/5/2024",
+    "Sheriff #": "F-24000070",
+    "Upset Amount": "$211,166.69"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 185257.91,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "614 North Main Street Pleasantville NJ 08232",
+    "defendant": "Jean Leveille Fortun...",
+    "listing_status": null,
+    "plaintiff": "Mortgage Assets Mana...",
+    "sale_date": "2024-12-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Mortgage Assets Management, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2024-12-05",
+  "sheriff_number": "F-24000070",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-12-05",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 211166.69,
+  "upset_amount_label": "Upset Amount"
+}

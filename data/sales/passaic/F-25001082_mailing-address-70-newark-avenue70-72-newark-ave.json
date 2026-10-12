@@ -1,0 +1,67 @@
+{
+  "address": "Mailing Address 70 Newark Avenue70-72 Newark Avenue A/K/A 70 Newark Avenue #72 Paterson NJ 07503",
+  "attorney": "PARKER MCCAY P.A.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 000088 23 CTL# 162987",
+  "current_status": "Cancelled",
+  "defendant": "JAIME FACHIN, ET ALS",
+  "description": "Approximate dimensions: 28 x 65\nNearest cross street: Pacific Street\nUpset price: $331,553.09 (Note, this is good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A 46:8B-21(b)(1),if any.\nA FULL LEGAL DESCRIPTION OF THE PREMISES CAN BE FOUND IN THE OFFICE OF THE SHERIFF OF PASSAIC COUNTY",
+  "extracted": {
+    "upset_amount": 331553.09
+  },
+  "fields": {
+    "Address": "Mailing Address 70 Newark Avenue70-72 Newark Avenue\nA/K/A 70 Newark Avenue #72\nPaterson NJ 07503",
+    "Approx. Upset*": "$264,903.99",
+    "Attorney": "PARKER MCCAY P.A.",
+    "Court Case #": "F 000088 23 CTL# 162987",
+    "Defendant": "JAIME FACHIN, ET ALS",
+    "Description": "Approximate dimensions: 28 x 65\nNearest cross street: Pacific Street\nUpset price: $331,553.09 (Note, this is good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n* Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A 46:8B-21(b)(1),if any.\nA FULL LEGAL DESCRIPTION OF THE PREMISES CAN BE FOUND IN THE OFFICE OF THE SHERIFF OF PASSAIC COUNTY",
+    "Parcel #": "Tax Lot #34 Block #5406",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "11/26/2025",
+    "Sheriff #": "F-25001082"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "Mailing Address 70 Newark Avenue70-72 Newark Avenue A/K/A 70 Newark Avenue #72 Paterson NJ 07503",
+    "defendant": "JAIME FACHIN, ET ALS",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "sale_date": "2025-11-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot #34 Block #5406",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-11-26",
+  "sheriff_number": "F-25001082",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-26",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 264903.99,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "405 COLUMBIA AVENUE LINDENWOLD NJ 08021",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01359125",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "DENNIS RIGGS,",
+  "extracted": {},
+  "fields": {
+    "Address": "405 COLUMBIA AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$197,796.29",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01359125",
+    "Defendant": "DENNIS RIGGS,",
+    "Parcel #": "LOT 21 FKA 4-B, BLOCK 180 FKA 178",
+    "Plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC,",
+    "Property Note": "Taxes – due 5/1/2026 $1,108.53 open\nSewer – 04/01/2026–06/30/2026 $50.00 open plus penalty $250.00 plus penalty; owed in arrears CCMUA – 04/01/2026–06/30/2026 $93.00 open and due 05/15/2026 $466.00 open plus penalty; owed in arrears",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26001256"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "405 COLUMBIA AVENUE LINDENWOLD NJ 08021",
+    "defendant": "DENNIS RIGGS,",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC,",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 21 FKA 4-B, BLOCK 180 FKA 178",
+  "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC,",
+  "property_note": "Taxes – due 5/1/2026 $1,108.53 open\nSewer – 04/01/2026–06/30/2026 $50.00 open plus penalty $250.00 plus penalty; owed in arrears CCMUA – 04/01/2026–06/30/2026 $93.00 open and due 05/15/2026 $466.00 open plus penalty; owed in arrears",
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26001256",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 197796.29,
+  "upset_amount_label": "Approx. Upset*"
+}

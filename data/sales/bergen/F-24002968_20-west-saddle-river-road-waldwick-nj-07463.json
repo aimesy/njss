@@ -1,0 +1,59 @@
+{
+  "address": "20 WEST SADDLE RIVER ROAD WALDWICK NJ 07463",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F04335414",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "THOMAS ALIGO; ELENA ALIGO, ET AL.",
+  "description": "ESTIMATED UPSET BID AMOUNT: $648,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "20 WEST SADDLE RIVER ROAD\nWALDWICK NJ 07463",
+    "Approx. Upset*": "$529,831.95",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F04335414",
+    "Defendant": "THOMAS ALIGO; ELENA ALIGO, ET AL.",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $648,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 23, BLOCK 72.02",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "11/14/2025",
+    "Sheriff #": "F-24002968"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "20 WEST SADDLE RIVER ROAD WALDWICK NJ 07463",
+    "defendant": "THOMAS ALIGO; ELENA ALIGO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
+    "sale_date": "2025-11-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 23, BLOCK 72.02",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2025-11-14",
+  "sheriff_number": "F-24002968",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2024-12-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 529831.95,
+  "upset_amount_label": "Approx. Upset*"
+}

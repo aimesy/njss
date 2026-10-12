@@ -1,0 +1,65 @@
+{
+  "address": "946 CHANTICLEER DRIVE CHERRY HILL NJ 08003",
+  "attorney": "BARRY W. ROSENBERG",
+  "attorney_phone": "(856)-667-1010",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "DC002323DJ10462324",
+  "current_status": "Bankruptcy",
+  "defendant": "DIANNE DOBSON",
+  "extracted": {},
+  "fields": {
+    "Address": "946 CHANTICLEER DRIVE\nCHERRY HILL NJ 08003",
+    "Approx. Upset*": "$7,881.16",
+    "Attorney": "BARRY W. ROSENBERG",
+    "Attorney Phone": "(856)-667-1010",
+    "Court Case #": "DC002323DJ10462324",
+    "Defendant": "DIANNE DOBSON",
+    "Parcel #": "TAX LOT # 1 BLOCK # 250.04",
+    "Plaintiff": "THE MEWS AT CHANTICLEER CONDOMINIUM ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "9/16/2026",
+    "Sheriff #": "FR-25000567"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "946 CHANTICLEER DRIVE CHERRY HILL NJ 08003",
+    "defendant": "DIANNE DOBSON",
+    "listing_status": null,
+    "plaintiff": "THE MEWS AT CHANTICLEER CONDOMINIUM ASSOCIATION",
+    "sale_date": "2026-09-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT # 1 BLOCK # 250.04",
+  "plaintiff": "THE MEWS AT CHANTICLEER CONDOMINIUM ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-09-16",
+  "sheriff_number": "FR-25000567",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-05-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-07-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 7881.16,
+  "upset_amount_label": "Approx. Upset*"
+}

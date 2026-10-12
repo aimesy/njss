@@ -1,0 +1,61 @@
+{
+  "address": "25 Hudson Street Freehold NJ 07728",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00917422",
+  "current_status": "Scheduled",
+  "defendant": "Grethel H. Kinsey",
+  "description": "Dimensions of the lot (Approximately): 60x90\nNearest Cross Street: Mechanic Street\nThe Plaintiffs Good Faith Estimate is $358,403.85. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is Owner Occupied",
+  "extracted": {},
+  "fields": {
+    "Address": "25 Hudson Street\nFreehold NJ 07728",
+    "Approx. Judgment*": "$349,285.29",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "F00917422",
+    "Defendant": "Grethel H. Kinsey",
+    "Description": "Dimensions of the lot (Approximately): 60x90\nNearest Cross Street: Mechanic Street\nThe Plaintiffs Good Faith Estimate is $358,403.85. The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status is Owner Occupied",
+    "Parcel #": "Lot(s) 26, Block 62 Tax Map of City of Freehold",
+    "Plaintiff": "Mortgage Assets Management, LLC",
+    "Property Note": "",
+    "Sales Date": "1/5/2026",
+    "Sheriff #": "FOR-25001832"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 349285.29,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "25 Hudson Street Freehold NJ 07728",
+    "defendant": "Grethel H. Kinsey",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Mortgage Assets Management, LLC",
+    "sale_date": "2026-01-05"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot(s) 26, Block 62 Tax Map of City of Freehold",
+  "plaintiff": "Mortgage Assets Management, LLC",
+  "property_note": null,
+  "sale_date": "2026-01-05",
+  "sheriff_number": "FOR-25001832",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-01-05",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Scheduled"
+    }
+  ]
+}

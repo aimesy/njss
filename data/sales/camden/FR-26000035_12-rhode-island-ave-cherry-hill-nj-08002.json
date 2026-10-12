@@ -1,0 +1,73 @@
+{
+  "address": "12 RHODE ISLAND AVE CHERRY HILL NJ 08002",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00749825",
+  "current_status": "Court Adjournment",
+  "defendant": "ERDINC CABA, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "12 RHODE ISLAND AVE\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$187,824.02",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00749825",
+    "Defendant": "ERDINC CABA, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "9/16/2026",
+    "Sheriff #": "FR-26000035"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 RHODE ISLAND AVE CHERRY HILL NJ 08002",
+    "defendant": "ERDINC CABA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-09-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-09-16",
+  "sheriff_number": "FR-26000035",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-25",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 187824.02,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,67 @@
+{
+  "address": "59 ERIE AVENUE MIDLAND PARK NJ 07432",
+  "attorney": "GROSS POLOWY LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00912024",
+  "current_status": "Cancelled",
+  "defendant": "MATTHEW F. REILLY; UNITED STATES OF AMERICA",
+  "description": "UPSET BID AMOUNT: $418,092.01\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "occupancy": "OCCUPIED BY UNKNOWN"
+  },
+  "fields": {
+    "Address": "59 ERIE AVENUE\nMIDLAND PARK NJ 07432",
+    "Approx. Upset*": "$399,450.01",
+    "Attorney": "GROSS POLOWY LLC",
+    "Court Case #": "F00912024",
+    "Defendant": "MATTHEW F. REILLY; UNITED STATES OF AMERICA",
+    "Description": "UPSET BID AMOUNT: $418,092.01\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Parcel #": "LOT 11.01, BLOCK 18",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "F-25001868"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "59 ERIE AVENUE MIDLAND PARK NJ 07432",
+    "defendant": "MATTHEW F. REILLY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 11.01, BLOCK 18",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "F-25001868",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-19",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 399450.01,
+  "upset_amount_label": "Approx. Upset*"
+}

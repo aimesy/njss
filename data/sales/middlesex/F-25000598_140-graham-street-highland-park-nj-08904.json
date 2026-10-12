@@ -1,0 +1,56 @@
+{
+  "address": "140 GRAHAM STREET HIGHLAND PARK NJ 08904",
+  "attorney": "GROSS POLOWY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00769724",
+  "current_status": "Settled",
+  "defendant": "ISAUL VARGAS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$401,278.43",
+    "Attorney": "GROSS POLOWY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00769724",
+    "Defendant": "ISAUL VARGAS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 11 BLOCK 2501",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Address": "140 GRAHAM STREET\nHIGHLAND PARK NJ 08904",
+    "Property Note": "",
+    "Sale Date": "4/10/2025",
+    "Sheriff #": "F-25000598"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 401278.43,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "140 GRAHAM STREET HIGHLAND PARK NJ 08904",
+    "defendant": "ISAUL VARGAS, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2025-04-10"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 11 BLOCK 2501",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2025-04-10",
+  "sheriff_number": "F-25000598",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-10",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

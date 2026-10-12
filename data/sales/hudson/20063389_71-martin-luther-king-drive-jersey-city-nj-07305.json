@@ -1,0 +1,60 @@
+{
+  "address": "71 MARTIN LUTHER KING DRIVE JERSEY CITY NJ 07305",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-004420-25 (CWPP INELIGIBLE)",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "71-309 JACKSON HILL LLC; THOMAS TERRELL HURLEY; HANRAN HOMES LLC",
+  "description": "Tax Lot(s): 16, in Block: 26401\nDimensions (Approx.): 60.10 x 20.00\nNearest Cross Street: Van Nostrand Avenue\nGood Faith Estimated Upset Price: $511,951.42\nOccupancy Status: Non-Owner Occupied\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill.",
+  "extracted": {
+    "block": "26401",
+    "occupancy": "Non-Owner Occupied",
+    "upset_amount": 511951.42
+  },
+  "fields": {
+    "Address": "71 MARTIN LUTHER KING DRIVE\nJERSEY CITY NJ 07305",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-004420-25 (CWPP INELIGIBLE)",
+    "Defendant": "71-309 JACKSON HILL LLC; THOMAS TERRELL HURLEY; HANRAN HOMES LLC",
+    "Description": "Tax Lot(s): 16, in Block: 26401\nDimensions (Approx.): 60.10 x 20.00\nNearest Cross Street: Van Nostrand Avenue\nGood Faith Estimated Upset Price: $511,951.42\nOccupancy Status: Non-Owner Occupied\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill.",
+    "Good Faith Upset*": "$511,951.42",
+    "Judgment": "$472,352.78",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIATION TRUST 2021-7",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20063389"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 472352.78,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "71 MARTIN LUTHER KING DRIVE JERSEY CITY NJ 07305",
+    "defendant": "71-309 JACKSON HILL LLC; THOMAS TERRELL HURLEY; HANRAN HOMES LLC",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIATION TRUST 2021-7",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIATION TRUST 2021-7",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20063389",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 511951.42,
+  "upset_amount_label": "Good Faith Upset*"
+}

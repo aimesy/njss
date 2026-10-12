@@ -1,0 +1,64 @@
+{
+  "address": "232 CRANN STREET HILLSIDE NJ 07205",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01097224",
+  "current_status": "Defendant Adjournment",
+  "defendant": "ALICE PITTMAN; STATE OF NEW JERSEY",
+  "description": "LOT 21 BLOCK 902",
+  "extracted": {
+    "block": "902",
+    "lot": "21"
+  },
+  "fields": {
+    "Address": "232 CRANN STREET\nHILLSIDE NJ 07205",
+    "Approx. Upset*": "$286,597.55",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F01097224",
+    "Defendant": "ALICE PITTMAN; STATE OF NEW JERSEY",
+    "Description": "LOT 21 BLOCK 902",
+    "Parcel #": "LOT 21 BLOCK 902",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG BASKET TRUST",
+    "Property Note": "",
+    "Sales Date": "12/17/2025",
+    "Sheriff #": "CH-25001942"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "232 CRANN STREET HILLSIDE NJ 07205",
+    "defendant": "ALICE PITTMAN; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG BASKET TRUST",
+    "sale_date": "2025-12-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 21 BLOCK 902",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG BASKET TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-17",
+  "sheriff_number": "CH-25001942",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 286597.55,
+  "upset_amount_label": "Approx. Upset*"
+}

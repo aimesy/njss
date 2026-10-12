@@ -1,0 +1,67 @@
+{
+  "address": "428 BUCKNELL AVENUE DEPTFORD NJ 08090",
+  "attorney": "GREENSPOON MARDER, LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-008829-24",
+  "current_status": "Cancelled",
+  "defendant": "JOHN FRAZIER, DECEASED, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; KATHLEEN A. KESEL; LORI JEAN FRAZIER; JOHN FRAZIER; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "PLAINTIFF'S GOOD FAITH ESTIMATE: $240,153.29 THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "428 BUCKNELL AVENUE\nDEPTFORD NJ 08090",
+    "Approximate Judgment": "$233,737.49",
+    "Attorney": "GREENSPOON MARDER, LLP",
+    "Court Case #": "F-008829-24",
+    "Defendant": "JOHN FRAZIER, DECEASED, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; KATHLEEN A. KESEL; LORI JEAN FRAZIER; JOHN FRAZIER; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "PLAINTIFF'S GOOD FAITH ESTIMATE: $240,153.29 THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT: 15 BLOCK: 534",
+    "Plaintiff": "LONGBRIDGE FINANCIAL, LLC",
+    "Property Note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n428 BUCKNELL AVENUE DEPTFORD, NJ 08090 (COMMONLY KNOWN AS CITY OF WENONAH, NJ 08090)\nLOT: 15 BLOCK: 534\nAPPROXIMATE DIMENSIONS OF LOT: 67X120\nNEAREST CROSS STREET: DREXEL AVENUE\nPLAINTIFF'S GOOD FAITH ESTIMATE: $240,153.29 THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS\nOCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "10/21/2025",
+    "Sheriff #": "F-25000601"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 233737.49,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "428 BUCKNELL AVENUE DEPTFORD NJ 08090",
+    "defendant": "JOHN FRAZIER, DECEASED, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; KATHLEEN A. KESEL; LORI JEAN FRAZIER; JOHN FRAZIER; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": "Cancelled",
+    "plaintiff": "LONGBRIDGE FINANCIAL, LLC",
+    "sale_date": "2025-10-21"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 15 BLOCK: 534",
+  "plaintiff": "LONGBRIDGE FINANCIAL, LLC",
+  "property_note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n428 BUCKNELL AVENUE DEPTFORD, NJ 08090 (COMMONLY KNOWN AS CITY OF WENONAH, NJ 08090)\nLOT: 15 BLOCK: 534\nAPPROXIMATE DIMENSIONS OF LOT: 67X120\nNEAREST CROSS STREET: DREXEL AVENUE\nPLAINTIFF'S GOOD FAITH ESTIMATE: $240,153.29 THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS\nOCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-10-21",
+  "sheriff_number": "F-25000601",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-07-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-10-21",
+      "status": "Cancelled"
+    }
+  ]
+}

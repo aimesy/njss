@@ -1,0 +1,53 @@
+{
+  "address": "214 WEST MAPLE AVENUE COUNTY OF CAMDEN BOROUGH OF MERCHANTVILLE NJ 08109",
+  "attorney": "KAPLIN STEWART MELOFF REITER & STEIN, P.C.",
+  "attorney_phone": "(610)260-6000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00671025",
+  "current_status": "Scheduled",
+  "defendant": "MORNING PROPERTIES, LLC AND NEW FREEDOM BEHAVIORAL HEALTH HOLDING COMPANY, LLC AND THE STATE OF NEW JERSY",
+  "extracted": {},
+  "fields": {
+    "Address": "214 WEST MAPLE AVENUE\nCOUNTY OF CAMDEN\nBOROUGH OF MERCHANTVILLE NJ 08109",
+    "Approx. Upset*": "$858,298.70",
+    "Attorney": "KAPLIN STEWART MELOFF REITER & STEIN, P.C.",
+    "Attorney Phone": "(610)260-6000",
+    "Court Case #": "F00671025",
+    "Defendant": "MORNING PROPERTIES, LLC AND NEW FREEDOM BEHAVIORAL\nHEALTH HOLDING COMPANY, LLC AND THE STATE OF NEW JERSY",
+    "Parcel #": "LOT 1, BLOCK 24",
+    "Plaintiff": "214 W. MAPLE AVENUE, LLC",
+    "Property Note": "",
+    "Sales Date": "5/8/2026",
+    "Sheriff #": "FR-26000863"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "214 WEST MAPLE AVENUE COUNTY OF CAMDEN BOROUGH OF MERCHANTVILLE NJ 08109",
+    "defendant": "MORNING PROPERTIES, LLC AND NEW FREEDOM BEHAVIORAL \nHEALTH HOLDING COMPANY, LLC AND THE STATE OF NEW JERSY",
+    "listing_status": null,
+    "plaintiff": "214 W. MAPLE AVENUE, LLC",
+    "sale_date": "2026-05-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 1, BLOCK 24",
+  "plaintiff": "214 W. MAPLE AVENUE, LLC",
+  "property_note": null,
+  "sale_date": "2026-05-08",
+  "sheriff_number": "FR-26000863",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-08",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 858298.7,
+  "upset_amount_label": "Approx. Upset*"
+}

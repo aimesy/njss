@@ -1,0 +1,53 @@
+{
+  "address": "1 VILLANOVA COURT SICKLERVILLE NJ 08081",
+  "attorney": "SIMEONE & RAYNOR LLC",
+  "attorney_phone": "856-663-6700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "CAML163020/J1817623",
+  "current_status": "Scheduled",
+  "defendant": "TRACEY STANTON A/K/A TRACEY STANTON FORD,",
+  "extracted": {},
+  "fields": {
+    "Address": "1 VILLANOVA COURT\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$13,816.67",
+    "Attorney": "SIMEONE & RAYNOR LLC",
+    "Attorney Phone": "856-663-6700",
+    "Court Case #": "CAML163020/J1817623",
+    "Defendant": "TRACEY STANTON A/K/A TRACEY STANTON FORD,",
+    "Parcel #": "",
+    "Plaintiff": "VICTORIA MANOR HOMEOWNERS ASSOCIATION,",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "FR-25002467"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1 VILLANOVA COURT SICKLERVILLE NJ 08081",
+    "defendant": "TRACEY STANTON A/K/A TRACEY STANTON FORD,",
+    "listing_status": null,
+    "plaintiff": "VICTORIA MANOR HOMEOWNERS ASSOCIATION,",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "VICTORIA MANOR HOMEOWNERS ASSOCIATION,",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "FR-25002467",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 13816.67,
+  "upset_amount_label": "Approx. Upset*"
+}

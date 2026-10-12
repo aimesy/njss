@@ -1,0 +1,60 @@
+{
+  "address": "82 LAWRENCE STREET NEW BRUNSWICK NJ 08901",
+  "attorney": "ANSELL GRIMM & AARON, PC",
+  "attorney_file_number": null,
+  "attorney_phone": "888 247-1844",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01597219",
+  "current_status": "Settled",
+  "defendant": "BRUCE HORVATH",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$8,623.00",
+    "Attorney": "ANSELL GRIMM & AARON, PC",
+    "Attorney File #": "",
+    "Attorney Phone": "888 247-1844",
+    "Court Case #": "F01597219",
+    "Defendant": "BRUCE HORVATH",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 24.01 C0018A BLOCK 276",
+    "Plaintiff": "RENAISSANCE STATION CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "82 LAWRENCE STREET\nNEW BRUNSWICK NJ 08901",
+    "Property Note": "",
+    "Sale Date": "1/8/2025",
+    "Sheriff #": "F-776558"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 8623.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "82 LAWRENCE STREET NEW BRUNSWICK NJ 08901",
+    "defendant": "BRUCE HORVATH",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "RENAISSANCE STATION CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2025-01-08"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 24.01 C0018A BLOCK 276",
+  "plaintiff": "RENAISSANCE STATION CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2025-01-08",
+  "sheriff_number": "F-776558",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-12-30",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

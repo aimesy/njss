@@ -1,0 +1,53 @@
+{
+  "address": "679 HIGHLAND AVENUE CHERRY HILL NJ 08002",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00031125",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ANGELO P. CALABRESE, HIS OR HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR, OR ANY OF THEIR, SUCCESSORS IN RIGHT, TITLE AND INTEREST; CHRISTINE DOWNS; STEVEN G. CALABRESE; RICHARD J. CALABRESE; PATRONS QUAY, LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "679 HIGHLAND AVENUE\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$324,059.74",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F00031125",
+    "Defendant": "ANGELO P. CALABRESE, HIS OR HER HEIRS,\nDEVISEES AND PERSONAL REPRESENTATIVES\nAND HIS, HERS, THEIR, OR ANY OF THEIR,\nSUCCESSORS IN RIGHT, TITLE AND INTEREST;\nCHRISTINE DOWNS; STEVEN G. CALABRESE;\nRICHARD J. CALABRESE; PATRONS QUAY, LLC;\nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Parcel #": "Block 58.01 Lot 1\nTownship of Cheny Hill; County of Camden",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Note": "Taxes due and owing in approximate amount of $5,387.94 as of 7/21/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 7/21/26\nWater/Sewer due and owing in the approximate amount of\n$93.74 as of 7/21/26",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001917"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "679 HIGHLAND AVENUE CHERRY HILL NJ 08002",
+    "defendant": "ANGELO P. CALABRESE, HIS OR HER HEIRS, \nDEVISEES AND PERSONAL REPRESENTATIVES \nAND HIS, HERS, THEIR, OR ANY OF THEIR, \nSUCCESSORS IN RIGHT, TITLE AND INTEREST; \nCHRISTINE DOWNS; STEVEN G. CALABRESE; \nRICHARD J. CALABRESE; PATRONS QUAY, LLC; \nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 58.01 Lot 1 Township of Cheny Hill; County of Camden",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": "Taxes due and owing in approximate amount of $5,387.94 as of 7/21/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 7/21/26\nWater/Sewer due and owing in the approximate amount of\n$93.74 as of 7/21/26",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001917",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 324059.74,
+  "upset_amount_label": "Approx. Upset*"
+}

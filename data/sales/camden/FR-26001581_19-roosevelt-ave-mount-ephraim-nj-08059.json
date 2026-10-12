@@ -1,0 +1,53 @@
+{
+  "address": "19 ROOSEVELT AVE MOUNT EPHRAIM NJ 08059",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00059926",
+  "current_status": "Purchased",
+  "defendant": "LEONARD DANTZLER, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "19 ROOSEVELT AVE\nMOUNT EPHRAIM NJ 08059",
+    "Approx. Upset*": "$167,388.69",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00059926",
+    "Defendant": "LEONARD DANTZLER, ET AL.",
+    "Parcel #": "Lot 4.08, Block 84",
+    "Plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "Property Note": "Subject to tax sale certificate #25-00033 for sewer in the amount of $477.39. Third palty purchaser is responsible for obtaining final amount to redeem.",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-26001581"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "19 ROOSEVELT AVE MOUNT EPHRAIM NJ 08059",
+    "defendant": "LEONARD DANTZLER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 4.08, Block 84",
+  "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+  "property_note": "Subject to tax sale certificate #25-00033 for sewer in the amount of $477.39. Third palty purchaser is responsible for obtaining final amount to redeem.",
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-26001581",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 167388.69,
+  "upset_amount_label": "Approx. Upset*"
+}

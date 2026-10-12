@@ -1,0 +1,64 @@
+{
+  "address": "40-42 ANDOVER AVENUE PLAINFIELD NJ 07060",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01752316",
+  "current_status": "Cancelled",
+  "defendant": "CLARA HARVEY A/K/A CLARA E. HARVEY; HACKENSACK UNIVERSITY MEDICAL CENTER; UNITED STATES OF AMERICA; UNITED STATES OF AMERICA",
+  "description": "LOT 28 BLOCK 438",
+  "extracted": {
+    "block": "438",
+    "lot": "28"
+  },
+  "fields": {
+    "Address": "40-42 ANDOVER AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$285,281.84",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F01752316",
+    "Defendant": "CLARA HARVEY A/K/A CLARA E. HARVEY; HACKENSACK UNIVERSITY MEDICAL CENTER; UNITED STATES OF AMERICA; UNITED STATES OF AMERICA",
+    "Description": "LOT 28 BLOCK 438",
+    "Parcel #": "LOT 28 BLOCK 438",
+    "Plaintiff": "CIT BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "CH-25002586"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "40-42 ANDOVER AVENUE PLAINFIELD NJ 07060",
+    "defendant": "CLARA HARVEY A/K/A CLARA E. HARVEY; HACKENSACK UNIVERSITY MEDICAL CENTER; UNITED STATES OF AMERICA; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "CIT BANK, N.A.",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 28 BLOCK 438",
+  "plaintiff": "CIT BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "CH-25002586",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 285281.84,
+  "upset_amount_label": "Approx. Upset*"
+}

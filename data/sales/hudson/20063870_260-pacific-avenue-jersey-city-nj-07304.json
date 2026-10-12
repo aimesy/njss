@@ -1,0 +1,56 @@
+{
+  "address": "260 PACIFIC AVENUE JERSEY CITY NJ 07304",
+  "attorney": "LAW OFFICES OF TAE H. WHANG, LLC",
+  "attorney_phone": "201-461-0300",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-004116-25",
+  "current_status": "Scheduled",
+  "defendant": "HIGH END PACIFIC CONDOS LLC AND STATE OF NEW JERSEY",
+  "description": "BLOCK 20201; LOT 13\nDIMENSIONS: 100.00' X 37.00' X 100.00' X 37.00'\nNEAREST CROSS STREET: BRAMHALL AVENUE\nPLEASE TAKE NOTICE THAT THE UPSET PRICE FOR THE SALE OF THE PROPERTY BEING SOLD IS $850,000.00.\nTHE PROPERTY IS CURRENTLY EMPTY.\nPROPERTY SOLD SUBJECT TO APPROXIMATELY $85,633.57 PLUS INTEREST AND PENALTIES DUE FOR TAXES, ETC.",
+  "extracted": {
+    "block": "20201",
+    "lot": "13",
+    "upset_amount": 850000.0
+  },
+  "fields": {
+    "Address": "260 PACIFIC AVENUE\nJERSEY CITY NJ 07304",
+    "Attorney": "LAW OFFICES OF TAE H. WHANG, LLC",
+    "Attorney Phone": "201-461-0300",
+    "Court Case #": "F-004116-25",
+    "Defendant": "HIGH END PACIFIC CONDOS LLC AND STATE OF NEW JERSEY",
+    "Description": "BLOCK 20201; LOT 13\nDIMENSIONS: 100.00' X 37.00' X 100.00' X 37.00'\nNEAREST CROSS STREET: BRAMHALL AVENUE\nPLEASE TAKE NOTICE THAT THE UPSET PRICE FOR THE SALE OF THE PROPERTY BEING SOLD IS $850,000.00.\nTHE PROPERTY IS CURRENTLY EMPTY.\nPROPERTY SOLD SUBJECT TO APPROXIMATELY $85,633.57 PLUS INTEREST AND PENALTIES DUE FOR TAXES, ETC.",
+    "Good Faith Upset*": "$850,000.00",
+    "Judgment": "$1,333,935.31",
+    "Plaintiff": "CL-CH RESIDENTIAL CREDIT OPS 2, LLC",
+    "Property Note": "",
+    "Sales Date": "10/8/2026",
+    "Sheriff #": "20063870"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1333935.31,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "260 PACIFIC AVENUE JERSEY CITY NJ 07304",
+    "defendant": "HIGH END PACIFIC CONDOS LLC AND STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "CL-CH RESIDENTIAL CREDIT OPS 2, LLC",
+    "sale_date": "2026-10-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "CL-CH RESIDENTIAL CREDIT OPS 2, LLC",
+  "property_note": null,
+  "sale_date": "2026-10-08",
+  "sheriff_number": "20063870",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-08",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 850000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "1428 North Michigan Avenue Atlantic City NJ 08401",
+  "attorney": "Gross Polowy, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003662-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Joi M Pratt, As Administrator of the Estate of Louis Sidney Bell; Marques Lamar Bell; Louis S. Bell; JPMorgan Chase Bank, N.A.; United States of America; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "1428 North Michigan Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$205,593.24",
+    "Attorney": "Gross Polowy, LLC",
+    "Court Case #": "F-003662-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Joi M Pratt, As Administrator of the Estate of Louis Sidney Bell; Marques Lamar Bell; Louis S. Bell; JPMorgan Chase Bank, N.A.; United States of America; State of New Jersey",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/15/2026",
+    "Sheriff #": "F-25001154",
+    "Upset Amount": "$212,955.82"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 205593.24,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1428 North Michigan Avenue Atlantic City NJ 08401",
+    "defendant": "Joi M Pratt, As Admi...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2026-01-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-15",
+  "sheriff_number": "F-25001154",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-15",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 212955.82,
+  "upset_amount_label": "Upset Amount"
+}

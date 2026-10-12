@@ -1,0 +1,51 @@
+{
+  "address": "23 Vineyard Place Passaic NJ 07055",
+  "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 002068 26 CTL# 163283",
+  "current_status": "Scheduled",
+  "defendant": "SALEEM MYERS, ET AL.",
+  "description": "Approximate dimensions: 25.00' X 80.00'\nNearest cross street: Broadway f/k/a Bloomfield Avenue\nThe plaintiff's upset bid presently approximates $354,400.00\nOccupancy status: Unknown\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the Sale will have information regarding the surplus, if any.\nSheriff hereby reserves the right to adjourn this sale without further publication",
+  "extracted": {
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "23 Vineyard Place\nPassaic NJ 07055",
+    "Approx. Upset*": "$331,413.25",
+    "Attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+    "Court Case #": "F 002068 26 CTL# 163283",
+    "Defendant": "SALEEM MYERS, ET AL.",
+    "Description": "Approximate dimensions: 25.00' X 80.00'\nNearest cross street: Broadway f/k/a Bloomfield Avenue\nThe plaintiff's upset bid presently approximates $354,400.00\nOccupancy status: Unknown\nIf after the Sheriff Sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the Sale will have information regarding the surplus, if any.\nSheriff hereby reserves the right to adjourn this sale without further publication",
+    "Parcel #": "Tax lot 59 in Block 2202",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "2/2/2027",
+    "Sheriff #": "F-26001691"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "23 Vineyard Place Passaic NJ 07055",
+    "defendant": "SALEEM MYERS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2027-02-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot 59 in Block 2202",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2027-02-02",
+  "sheriff_number": "F-26001691",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-02-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 331413.25,
+  "upset_amount_label": "Approx. Upset*"
+}

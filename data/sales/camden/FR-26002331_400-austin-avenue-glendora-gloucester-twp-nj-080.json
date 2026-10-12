@@ -1,0 +1,49 @@
+{
+  "address": "400 AUSTIN AVENUE GLENDORA (GLOUCESTER TWP) NJ 08029",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01401725",
+  "current_status": "Scheduled",
+  "defendant": "EBONY JENNINGS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "400 AUSTIN AVENUE\nGLENDORA (GLOUCESTER TWP) NJ 08029",
+    "Approx. Upset*": "$175,140.00",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F01401725",
+    "Defendant": "EBONY JENNINGS, ET AL.",
+    "Parcel #": "Tax Lot:13 Tax Block: 801",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26002331"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "400 AUSTIN AVENUE GLENDORA (GLOUCESTER TWP) NJ 08029",
+    "defendant": "EBONY JENNINGS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot:13 Tax Block: 801",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26002331",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 175140.0,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,49 @@
+{
+  "address": "2415 SO. 8TH STREET CAMDEN NJ",
+  "attorney": "HONIG & GREENBERG, L.L.C.",
+  "attorney_phone": "(856) 770-0990",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F309523",
+  "current_status": "Scheduled",
+  "defendant": "DUNBAR PROPERTIES, LLC; DINASO & SONS BUILDING SUPPLY CO.; CONTRACOT SERVICE/WDDS ENT., INC.; UNITED RENTALS, INC.;",
+  "extracted": {},
+  "fields": {
+    "Address": "2415 SO. 8TH STREET\nCAMDEN NJ",
+    "Approx. Upset*": "$43,203.71",
+    "Attorney": "HONIG & GREENBERG, L.L.C.",
+    "Attorney Phone": "(856) 770-0990",
+    "Court Case #": "F309523",
+    "Defendant": "DUNBAR PROPERTIES, LLC; DINASO & SONS BUILDING\nSUPPLY CO.; CONTRACOT SERVICE/WDDS ENT., INC.;\nUNITED RENTALS, INC.;",
+    "Parcel #": "TAX LOT 43, BLOCK 620, OF THE CITY OF CAMDEN",
+    "Plaintiff": "FIG CUST FIG NJ19, LLC,",
+    "Property Note": "THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN COUNTY BOOK 11597 AT PAGE 6.\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,179.24",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002388"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2415 SO. 8TH STREET CAMDEN NJ",
+    "defendant": "DUNBAR PROPERTIES, LLC; DINASO & SONS BUILDING \nSUPPLY CO.; CONTRACOT SERVICE/WDDS ENT., INC.; \nUNITED RENTALS, INC.;",
+    "listing_status": null,
+    "plaintiff": "FIG CUST FIG NJ19, LLC,",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 43, BLOCK 620, OF THE CITY OF CAMDEN",
+  "plaintiff": "FIG CUST FIG NJ19, LLC,",
+  "property_note": "THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN COUNTY BOOK 11597 AT PAGE 6.\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,179.24",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002388",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 43203.71,
+  "upset_amount_label": "Approx. Upset*"
+}

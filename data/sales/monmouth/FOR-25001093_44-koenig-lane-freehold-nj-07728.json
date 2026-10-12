@@ -1,0 +1,64 @@
+{
+  "address": "44 Koenig Lane Freehold NJ 07728",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01211024",
+  "current_status": "Scheduled",
+  "defendant": "Christine Letizia, et al",
+  "description": "Dimensions of Lot: 96 feet wide by 176 feet long\nNearest Cross Street: Forsgate Drive\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: OWNER OCCUPIED\nPlaintiff's good faith estimate of its upset price is: $410,550.00",
+  "extracted": {
+    "lot": "96",
+    "upset_amount": 410550.0
+  },
+  "fields": {
+    "Address": "44 Koenig Lane\nFreehold NJ 07728",
+    "Approx. Judgment*": "$432,771.64",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F01211024",
+    "Defendant": "Christine Letizia, et al",
+    "Description": "Dimensions of Lot: 96 feet wide by 176 feet long\nNearest Cross Street: Forsgate Drive\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.\n***If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe occupancy status of the property is: OWNER OCCUPIED\nPlaintiff's good faith estimate of its upset price is: $410,550.00",
+    "Parcel #": "Lot 6, Block 75 Tax Map of the Township of Freehold",
+    "Plaintiff": "Deutsche Bank National Trust Company, As Trustee For Morgan Stanley ABS Capital I Inc. Trust 2007-NC2 Mortgage Pass-Through Certificates, Series 2007-NC2",
+    "Property Note": "",
+    "Sales Date": "9/18/2025",
+    "Sheriff #": "FOR-25001093"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 432771.64,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "44 Koenig Lane Freehold NJ 07728",
+    "defendant": "Christine Letizia, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Deutsche Bank National Trust Company, As Trustee For Morgan Stanley ABS Capital I Inc. Trust 2007-NC2 Mortgage Pass-Through Certificates, Series 2007-NC2",
+    "sale_date": "2025-09-18"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 6, Block 75 Tax Map of the Township of Freehold",
+  "plaintiff": "Deutsche Bank National Trust Company, As Trustee For Morgan Stanley ABS Capital I Inc. Trust 2007-NC2 Mortgage Pass-Through Certificates, Series 2007-NC2",
+  "property_note": null,
+  "sale_date": "2025-09-18",
+  "sheriff_number": "FOR-25001093",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-09-18",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-09-15",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-08-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-21",
+      "status": "Scheduled"
+    }
+  ]
+}

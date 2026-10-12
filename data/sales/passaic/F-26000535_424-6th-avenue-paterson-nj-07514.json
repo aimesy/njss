@@ -1,0 +1,63 @@
+{
+  "address": "424 6TH Avenue Paterson NJ 07514",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 5484 25 CTL#163176",
+  "current_status": "Bankruptcy",
+  "defendant": "RAMON E RAMIREZ, ET ALS.",
+  "description": "Dimensions of lot approximately: 25 X 100\nNearest cross street: East 24th Street\nBEGINNING at a point being the intersection of the southerly line of Sixth Avenue (60 feet wide) and the westerly line of East 24th Street (60 feet wide) and running, thence:\nThe occupancy status of the property being foreclosed herein is presently unknown\nThe sheriff hereby reserves the right to adjourn this sale without further notice though publication\nPrior liens/encumbrances\nSewer open and due $98.13\nTotal as of March 7, 2026: $98.13",
+  "extracted": {
+    "lot": "approximately"
+  },
+  "fields": {
+    "Address": "424 6TH Avenue\nPaterson NJ 07514",
+    "Approx. Upset*": "$394,151.80",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Court Case #": "F 5484 25 CTL#163176",
+    "Defendant": "RAMON E RAMIREZ, ET ALS.",
+    "Description": "Dimensions of lot approximately: 25 X 100\nNearest cross street: East 24th Street\nBEGINNING at a point being the intersection of the southerly line of Sixth Avenue (60 feet wide) and the westerly line of East 24th Street (60 feet wide) and running, thence:\nThe occupancy status of the property being foreclosed herein is presently unknown\nThe sheriff hereby reserves the right to adjourn this sale without further notice though publication\nPrior liens/encumbrances\nSewer open and due $98.13\nTotal as of March 7, 2026: $98.13",
+    "Parcel #": "Tax lot no. 18 FKA1 in Block no. 214 FKA C0329",
+    "Plaintiff": "CAPITAL, LLC",
+    "Property Note": "",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "F-26000535"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "424 6TH Avenue Paterson NJ 07514",
+    "defendant": "RAMON E RAMIREZ, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "CAPITAL, LLC",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot no. 18 FKA1 in Block no. 214 FKA C0329",
+  "plaintiff": "CAPITAL, LLC",
+  "property_note": null,
+  "sale_date": "2026-09-15",
+  "sheriff_number": "F-26000535",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-07-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": 394151.8,
+  "upset_amount_label": "Approx. Upset*"
+}

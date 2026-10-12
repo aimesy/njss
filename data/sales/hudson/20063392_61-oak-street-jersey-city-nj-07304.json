@@ -1,0 +1,60 @@
+{
+  "address": "61 OAK STREET JERSEY CITY NJ 07304",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011283-23",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "61 OAK STREET LLC, ET AL.",
+  "description": "TAX LOT: 33 TAX BLOCK: 19503\nAPPROXIMATE DIMENSIONS: 31.00' X 100.00'\nNEAREST CROSS STREET: MARTIN LUTHER KING DR.\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $3,372,000.00\nOCCUPANCY STATUS: UNKNOWN\n**SUBJECT TO UCC FINANCING STATEMENT: SHARESTATES INTERCAP LINE, LLC",
+  "extracted": {
+    "block": "19503",
+    "lot": "33",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "61 OAK STREET\nJERSEY CITY NJ 07304",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-011283-23",
+    "Defendant": "61 OAK STREET LLC, ET AL.",
+    "Description": "TAX LOT: 33 TAX BLOCK: 19503\nAPPROXIMATE DIMENSIONS: 31.00' X 100.00'\nNEAREST CROSS STREET: MARTIN LUTHER KING DR.\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $3,372,000.00\nOCCUPANCY STATUS: UNKNOWN\n**SUBJECT TO UCC FINANCING STATEMENT: SHARESTATES INTERCAP LINE, LLC",
+    "Good Faith Upset*": "$3,372,000.00",
+    "Judgment": "$3,092,266.92",
+    "Plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2021-NQM2",
+    "Property Note": "",
+    "Sales Date": "8/25/2026",
+    "Sheriff #": "20063392"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 3092266.92,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "61 OAK STREET JERSEY CITY NJ 07304",
+    "defendant": "61 OAK STREET LLC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2021-NQM2",
+    "sale_date": "2026-08-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2021-NQM2",
+  "property_note": null,
+  "sale_date": "2026-08-25",
+  "sheriff_number": "20063392",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-25",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 3372000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,52 @@
+{
+  "address": "12-14 12TH STREET 1X FAIR LAWN NJ 07410",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00447425",
+  "current_status": "Cancelled",
+  "defendant": "JANINA C. ZETA AND ROSELLER T. ZETA, WIFE AND HUSBAND, ET AL",
+  "description": "UPSET PRICE: $515,615.22\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 515615.22
+  },
+  "fields": {
+    "Address": "12-14 12TH STREET 1X\nFAIR LAWN NJ 07410",
+    "Approx. Upset*": "$479,371.12",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Court Case #": "F00447425",
+    "Defendant": "JANINA C. ZETA AND ROSELLER T. ZETA, WIFE AND HUSBAND, ET AL",
+    "Description": "UPSET PRICE: $515,615.22\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 55 AND 56, BLOCK 4605",
+    "Plaintiff": "LOANDEPOT.COM, LLC",
+    "Property Note": "",
+    "Sales Date": "11/5/2025",
+    "Sheriff #": "F-25002335"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12-14 12TH STREET 1X FAIR LAWN NJ 07410",
+    "defendant": "JANINA C. ZETA AND ROSELLER T. ZETA, WIFE AND HUSBAND, ET AL",
+    "listing_status": null,
+    "plaintiff": "LOANDEPOT.COM, LLC",
+    "sale_date": "2025-11-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 55 AND 56, BLOCK 4605",
+  "plaintiff": "LOANDEPOT.COM, LLC",
+  "property_note": null,
+  "sale_date": "2025-11-05",
+  "sheriff_number": "F-25002335",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-05",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 479371.12,
+  "upset_amount_label": "Approx. Upset*"
+}

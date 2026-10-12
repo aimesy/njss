@@ -1,0 +1,55 @@
+{
+  "address": "3 Florence Drive Rockaway NJ 07885",
+  "county": "Morris County, NJ",
+  "county_id": 9,
+  "court_case_number": "F-012083-24",
+  "current_status": "Hold - Bankruptcy",
+  "defendant": "MELISSA H. PERSON-ASHFORTH; PROVIDENT BANK, AS SUCCESSOR BY MERGER TO LAKELAND BANK",
+  "description": "Approximate Dimensions: 2.598 AC\nNearest Cross Street: St. Bernards Road\nPlaintiff Upset Price: $747,860.28\nOccupancy Status: Occupied",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 747860.28
+  },
+  "fields": {
+    "Address": "3 Florence Drive\nRockaway NJ 07885",
+    "Court Case #": "F-012083-24",
+    "Defendant": "MELISSA H. PERSON-ASHFORTH; PROVIDENT BANK, AS SUCCESSOR BY MERGER TO LAKELAND BANK",
+    "Description": "Approximate Dimensions: 2.598 AC\nNearest Cross Street: St. Bernards Road\nPlaintiff Upset Price: $747,860.28\nOccupancy Status: Occupied",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Sales Date": "8/19/2027",
+    "Sheriff #": "25001812"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "3 Florence Drive Rockaway NJ 07885",
+    "defendant": "MELISSA H. PERSON-ASHFORTH; PROVIDENT BANK, AS SUCCESSOR BY MERGER TO LAKELAND BANK",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Morris County, NJ)",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "sale_date": "2027-08-19",
+  "sheriff_number": "25001812",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=9",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2027-08-19",
+      "status": "Hold - Bankruptcy"
+    }
+  ]
+}

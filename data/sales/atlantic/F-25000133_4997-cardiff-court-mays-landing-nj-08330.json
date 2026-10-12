@@ -1,0 +1,70 @@
+{
+  "address": "4997 Cardiff Court Mays Landing NJ 08330",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004724-23",
+  "current_status": "Scheduled",
+  "deed": "Ahasan Realty LLC",
+  "deed_address": "410 Montrose Lane, Galloway, NJ 08205",
+  "defendant": "Kahisha Patterson; Mortgage Electronic Registration Systems as Nominee for RBS Citizens, N.A.",
+  "extracted": {},
+  "fields": {
+    "Address": "4997 Cardiff Court\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$176,055.18",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-004724-23",
+    "Deed": "Ahasan Realty LLC",
+    "Deed Address": "410 Montrose Lane, Galloway, NJ 08205",
+    "Defendant": "Kahisha Patterson; Mortgage Electronic Registration Systems as Nominee for RBS Citizens, N.A.",
+    "Plaintiff": "Legacy Mortgage Asset Trust 2021-GS2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "6/26/2025",
+    "Sheriff #": "F-25000133",
+    "Upset Amount": "$189,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 176055.18,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4997 Cardiff Court Mays Landing NJ 08330",
+    "defendant": "Kahisha Patterson; M...",
+    "listing_status": null,
+    "plaintiff": "Legacy Mortgage Asse...",
+    "sale_date": "2025-06-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Legacy Mortgage Asset Trust 2021-GS2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-06-26",
+  "sheriff_number": "F-25000133",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-26",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Consensual/Mutual Adjournment"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 189000.0,
+  "upset_amount_label": "Upset Amount"
+}

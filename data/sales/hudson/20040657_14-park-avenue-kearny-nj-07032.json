@@ -1,0 +1,92 @@
+{
+  "address": "14 PARK AVENUE KEARNY NJ 07032",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-015834-16",
+  "current_status": "Cancelled",
+  "defendant": "MARIA TERESA CAMPOS; AND UNITED STATES OF AMERICA",
+  "description": "TAX LOT: 42 BLOCK: 49\nDIMENSIONS OF LOT: 47.6X105\nNEAREST CROSS STREET: PASSAIC AVE\nESTIMATED UPSET BID AMOUNT: $519,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOccupancy Status: Owner Occupied\n2025 Taxes: $3,695.53 Open\n2026 QTR 1 Due: 02/01/2025 $3,785.96 Open\n2026 QTR 2 Due: 05/01/2025 $3,785.96 Open\nWater: Veolia Water New Jersey 500 Frank W. Burr Blvd. Teaneck, nj 07666 800-422-5987 Acct: 00309839000000 To: 04/08/2026 $5,802.66 OPEN",
+  "extracted": {
+    "block": "49",
+    "lot": "42",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "14 PARK AVENUE\nKEARNY NJ 07032",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-015834-16",
+    "Defendant": "MARIA TERESA CAMPOS; AND UNITED STATES OF AMERICA",
+    "Description": "TAX LOT: 42 BLOCK: 49\nDIMENSIONS OF LOT: 47.6X105\nNEAREST CROSS STREET: PASSAIC AVE\nESTIMATED UPSET BID AMOUNT: $519,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOccupancy Status: Owner Occupied\n2025 Taxes: $3,695.53 Open\n2026 QTR 1 Due: 02/01/2025 $3,785.96 Open\n2026 QTR 2 Due: 05/01/2025 $3,785.96 Open\nWater: Veolia Water New Jersey 500 Frank W. Burr Blvd. Teaneck, nj 07666 800-422-5987 Acct: 00309839000000 To: 04/08/2026 $5,802.66 OPEN",
+    "Good Faith Upset*": "$519,000.00",
+    "Judgment": "$426,918.81",
+    "Plaintiff": "REVERSE MORTGAGE SOLUTIONS INC.",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "20040657"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 426918.81,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "14 PARK AVENUE KEARNY NJ 07032",
+    "defendant": "MARIA TERESA CAMPOS; AND UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "REVERSE MORTGAGE SOLUTIONS INC.",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "REVERSE MORTGAGE SOLUTIONS INC.",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "20040657",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2019-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2020-01-09",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2020-01-23",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2020-02-06",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 519000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

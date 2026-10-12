@@ -1,0 +1,62 @@
+{
+  "address": "6307 Lance Avenue Mays Landing NJ 08330",
+  "attorney": "Parker McCay P.A.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000179-24",
+  "current_status": "Scheduled",
+  "deed": "Saif Property LLC",
+  "deed_address": "410 Montrose Lane, Galloway, NJ 08205",
+  "defendant": "Denise L. Bush; Shane A. Dillhoff; Mr. Bush, Husband of Denise L. Bush; Mrs. Shane A. Dillhoff, His Wife; Midland Funding LLC; Shore Memorial Hospital",
+  "extracted": {},
+  "fields": {
+    "Address": "6307 Lance Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$428,625.58",
+    "Attorney": "Parker McCay P.A.",
+    "Court Case #": "F-000179-24",
+    "Deed": "Saif Property LLC",
+    "Deed Address": "410 Montrose Lane, Galloway, NJ 08205",
+    "Defendant": "Denise L. Bush; Shane A. Dillhoff; Mr. Bush, Husband of Denise L. Bush; Mrs. Shane A. Dillhoff, His Wife; Midland Funding LLC; Shore Memorial Hospital",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "9/11/2025",
+    "Sheriff #": "F-25000635",
+    "Upset Amount": "$149,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 428625.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6307 Lance Avenue Mays Landing NJ 08330",
+    "defendant": "Denise L. Bush; Shan...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-09-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-09-11",
+  "sheriff_number": "F-25000635",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-11",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-09-11",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-08-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 149000.0,
+  "upset_amount_label": "Upset Amount"
+}

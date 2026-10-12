@@ -1,0 +1,66 @@
+{
+  "address": "300 Chestnut Neck Road Port Republic NJ 08241",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001810-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Timothy R. Cross; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "300 Chestnut Neck Road\nPort Republic NJ 08241",
+    "Approx. Judgment*": "$235,932.76",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-001810-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Timothy R. Cross; United States of America",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "4/23/2026",
+    "Sheriff #": "F-26000005",
+    "Upset Amount": "$259,088.61"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 235932.76,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "300 Chestnut Neck Road Port Republic NJ 08241",
+    "defendant": "Timothy R. Cross; Un...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2026-04-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2026-04-23",
+  "sheriff_number": "F-26000005",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-02-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 259088.61,
+  "upset_amount_label": "Upset Amount"
+}

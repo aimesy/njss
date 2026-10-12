@@ -1,0 +1,64 @@
+{
+  "address": "334 OAKWOOD AVENUE KENILWORTH NJ 07033",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01118124",
+  "current_status": "Defendant Adjournment",
+  "defendant": "BELSIS B. VAZQUEZ; FELIPE M. VAZQUEZ; TD BANK, N.A.",
+  "description": "LOT 17 BLOCK 169",
+  "extracted": {
+    "block": "169",
+    "lot": "17"
+  },
+  "fields": {
+    "Address": "334 OAKWOOD AVENUE\nKENILWORTH NJ 07033",
+    "Approx. Upset*": "$269,740.18",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F01118124",
+    "Defendant": "BELSIS B. VAZQUEZ; FELIPE M. VAZQUEZ; TD BANK, N.A.",
+    "Description": "LOT 17 BLOCK 169",
+    "Parcel #": "LOT 17 BLOCK 169",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP6",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "CH-25001529"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "334 OAKWOOD AVENUE KENILWORTH NJ 07033",
+    "defendant": "BELSIS B. VAZQUEZ; FELIPE M. VAZQUEZ; TD BANK, N.A.",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP6",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 17 BLOCK 169",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP6",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "CH-25001529",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-08-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-24",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 269740.18,
+  "upset_amount_label": "Approx. Upset*"
+}

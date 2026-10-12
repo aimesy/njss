@@ -1,0 +1,66 @@
+{
+  "address": "339 Zion Road Egg Harbor Township NJ 08234",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-014189-23",
+  "current_status": "Scheduled",
+  "deed": "Citigroup Mortgage Loan Trust 2018-RP1",
+  "deed_address": "425 S. Financial Place Suite 2000, Chicago, IL 60605",
+  "defendant": "John R. Mason deceased, his/her heirs, and personal representatives, and his, her, their or any of their successors in right, title and interest; Bonnie H. Mason aka Bonnie Mason, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right title and interest; John Mason Jr.; Mr. or Mrs. Mason husband or wife of John Mason Jr., the spouse, domestic partner of John Mason Jr.; Danielle Mason, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest; Jabob Mason; Julianne Mason, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest; Mr. or Mrs. Mason, husband or wife of Julianne Mason, the spouse, domestic partner or civil union partner of Julianne Mason; Mr. or Mrs. Mason, husband or wife of Danielle Mason, the spouse, domestic partner or civil union partner of Danielle Mason; United States of America; State of New Jersey; Citibank South Dakota NA on Behalf of Citibank; Shore Memorial Hospital; Casey Galosic",
+  "extracted": {},
+  "fields": {
+    "Address": "339 Zion Road\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$282,894.68",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-014189-23",
+    "Deed": "Citigroup Mortgage Loan Trust 2018-RP1",
+    "Deed Address": "425 S. Financial Place Suite 2000, Chicago, IL 60605",
+    "Defendant": "John R. Mason deceased, his/her heirs, and personal representatives, and his, her, their or any of their successors in right, title and interest; Bonnie H. Mason aka Bonnie Mason, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right title and interest; John Mason Jr.; Mr. or Mrs. Mason husband or wife of John Mason Jr., the spouse, domestic partner of John Mason Jr.; Danielle Mason, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest; Jabob Mason; Julianne Mason, his/her heirs, devisees, and personal representatives, and his, her, their or any of their successors in right, title and interest; Mr. or Mrs. Mason, husband or wife of Julianne Mason, the spouse, domestic partner or civil union partner of Julianne Mason; Mr. or Mrs. Mason, husband or wife of Danielle Mason, the spouse, domestic partner or civil union partner of Danielle Mason; United States of America; State of New Jersey; Citibank South Dakota NA on Behalf of Citibank; Shore Memorial Hospital; Casey Galosic",
+    "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as trustee of Citigroup Mortgage Loan Trust 2018-RP1",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "11/21/2024",
+    "Sheriff #": "F-24001035",
+    "Upset Amount": "$310,351.88"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 282894.68,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "339 Zion Road Egg Harbor Township NJ 08234",
+    "defendant": "John R. Mason deceas...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2024-11-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as trustee of Citigroup Mortgage Loan Trust 2018-RP1",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2024-11-21",
+  "sheriff_number": "F-24001035",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 310351.88,
+  "upset_amount_label": "Upset Amount"
+}

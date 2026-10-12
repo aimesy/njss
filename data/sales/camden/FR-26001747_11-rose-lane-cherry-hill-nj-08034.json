@@ -1,0 +1,57 @@
+{
+  "address": "11 ROSE LANE CHERRY HILL NJ 08034",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00224326",
+  "current_status": "Defendant Adjournment",
+  "defendant": "JOSEPH F. BROWN, A/K/A JOSEPH BROWN; LUIS CRUZ; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT,",
+  "extracted": {},
+  "fields": {
+    "Address": "11 ROSE LANE\nCHERRY HILL NJ 08034",
+    "Approx. Upset*": "$204,879.96",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00224326",
+    "Defendant": "JOSEPH F. BROWN, A/K/A JOSEPH BROWN; LUIS CRUZ;\nUNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY\nOF HOUSING AND URBAN DEVELOPMENT,",
+    "Parcel #": "TAX LOT 13 BLOCK 395.06",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT\nINDIVIDUALLY BUT SOLELY AS TRUSTEE FOR FINANCE\nOF AMERICA STRUCTURED SECURITIES ACQUISITION\nTRUST 2019-HB1",
+    "Property Note": "SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\nSewer: Cherry Hill Twp 820 Mercer St Cherry Hill , NJ 08002 856-488-7880 Acct: 12427 0 01/01/2026 - 12/31/2026 $95.00 INCLUDED IN BELOW LIEN\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 090094046 04/01/2026 06/30/2026 $93.00 OPEN PLUS PENALTY $370.14 OPEN PLUS PENALTY\nLiens: Year: 2026 Type: 3RD PARTY SEWER, CCMUA Amount: $553.83\nCert No.: 26-00121 Sold: 06/29/2026 To: AACOL LLC\nLien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54\nGeneral Remark: Property registration fee exists. Contact property maintenance dept. 856-834-3364 for details.\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001747"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "11 ROSE LANE CHERRY HILL NJ 08034",
+    "defendant": "JOSEPH F. BROWN, A/K/A JOSEPH BROWN; LUIS CRUZ; \nUNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY \nOF HOUSING AND URBAN DEVELOPMENT,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT \nINDIVIDUALLY BUT SOLELY AS TRUSTEE FOR FINANCE \nOF AMERICA STRUCTURED SECURITIES ACQUISITION \nTRUST 2019-HB1",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 13 BLOCK 395.06",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT INDIVIDUALLY BUT SOLELY AS TRUSTEE FOR FINANCE OF AMERICA STRUCTURED SECURITIES ACQUISITION TRUST 2019-HB1",
+  "property_note": "SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\nSewer: Cherry Hill Twp 820 Mercer St Cherry Hill , NJ 08002 856-488-7880 Acct: 12427 0 01/01/2026 - 12/31/2026 $95.00 INCLUDED IN BELOW LIEN\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 090094046 04/01/2026 06/30/2026 $93.00 OPEN PLUS PENALTY $370.14 OPEN PLUS PENALTY\nLiens: Year: 2026 Type: 3RD PARTY SEWER, CCMUA Amount: $553.83\nCert No.: 26-00121 Sold: 06/29/2026 To: AACOL LLC\nLien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54\nGeneral Remark: Property registration fee exists. Contact property maintenance dept. 856-834-3364 for details.\nGeneral Remark: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001747",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 204879.96,
+  "upset_amount_label": "Approx. Upset*"
+}

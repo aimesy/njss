@@ -1,0 +1,68 @@
+{
+  "address": "19 KENLEN DRIVE EDISON NJ 08817",
+  "attorney": "ROSS EISENBERG LAW PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "516-882-5122",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00091324",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "HERBY AVELLAN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$16,005.95",
+    "Attorney": "ROSS EISENBERG LAW PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "516-882-5122",
+    "Court Case #": "F00091324",
+    "Defendant": "HERBY AVELLAN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 4 BLOCK 267.H",
+    "Plaintiff": "ARCPE 1 LLC",
+    "Property Address": "19 KENLEN DRIVE\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "4/2/2025",
+    "Sheriff #": "F-24000142"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 16005.95,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "19 KENLEN DRIVE EDISON NJ 08817",
+    "defendant": "HERBY AVELLAN, ET ALS.",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "ARCPE 1 LLC",
+    "sale_date": "2025-04-02"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 4 BLOCK 267.H",
+  "plaintiff": "ARCPE 1 LLC",
+  "property_note": null,
+  "sale_date": "2025-04-02",
+  "sheriff_number": "F-24000142",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-02",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-02-10",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

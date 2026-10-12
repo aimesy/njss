@@ -1,0 +1,67 @@
+{
+  "address": "84 Washington Avenue Hawthorne NJ 07506",
+  "attorney": "PARKER MCCAY P.A.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 007150 24 CTL# 162988",
+  "current_status": "Cancelled",
+  "defendant": "MARCELIN BELFILS; RITA G. CEPEDA, ET ALS",
+  "description": "Approximate dimensions: 40 x 132\nNearest cross street: Royal Avenue\nUpset price: $514,957.09 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nThe sale is subject to the right of redemption of the federal government.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:8B-21(b)(1), if any.",
+  "extracted": {
+    "upset_amount": 514957.09
+  },
+  "fields": {
+    "Address": "84 Washington Avenue\nHawthorne NJ 07506",
+    "Approx. Upset*": "$486,447.95",
+    "Attorney": "PARKER MCCAY P.A.",
+    "Court Case #": "F 007150 24 CTL# 162988",
+    "Defendant": "MARCELIN BELFILS; RITA G. CEPEDA, ET ALS",
+    "Description": "Approximate dimensions: 40 x 132\nNearest cross street: Royal Avenue\nUpset price: $514,957.09 (Note, this is a good faith estimate of the upset price at sheriff's sale that is being provided to you pursuant to N.J.S.A. 2A:50-64 (as amended)).\nIt is not definitively known at this time whether the property is vacant, tenant-occupied or owner-occupied. No representation is made regarding occupancy.\n*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.\nThe sale is subject to the right of redemption of the federal government.\nSubject to any lien in favor of a condominium association which is granted priority pursuant to N.J.S.A. 46:8B-21(b)(1), if any.",
+    "Parcel #": "Tax Lot #39 Block # 29",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "12/11/2025",
+    "Sheriff #": "F-25001088"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "84 Washington Avenue Hawthorne NJ 07506",
+    "defendant": "MARCELIN BELFILS; RITA G. CEPEDA, ET ALS",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-12-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot #39 Block # 29",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2025-12-11",
+  "sheriff_number": "F-25001088",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-16",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 486447.95,
+  "upset_amount_label": "Approx. Upset*"
+}

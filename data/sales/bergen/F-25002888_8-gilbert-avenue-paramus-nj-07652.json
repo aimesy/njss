@@ -1,0 +1,63 @@
+{
+  "address": "8 GILBERT AVENUE PARAMUS NJ 07652",
+  "attorney": "ROMANO GARUBO AND ARGENTIERI",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00832324",
+  "current_status": "Cancelled",
+  "defendant": "WENDY MATERA KUPERSMITH AND HOWARD I. KUPERSMITH, HUSBAND AND WIFE; FRED E. ROMAN; ET AL",
+  "description": "UPSET AMOUNT: $247,000.00 + COMMISSIONS ASSIGNED BY THE SHERIFF. *NOTE THIS UPSET PRICE IS SUBJECT TO INCREASE AS OF THE DATE OF THE SALE AND YOU WILL NEED TO CONTACT THE PLAINTIFF'S COUNSEL FOR THE UPSET AS IT EXISTS ON THE DATE OF SALE.\nOCCUPANCY: SAID PROPERTY IS OCCUPIED.",
+  "extracted": {
+    "occupancy": "SAID PROPERTY IS OCCUPIED."
+  },
+  "fields": {
+    "Address": "8 GILBERT AVENUE\nPARAMUS NJ 07652",
+    "Approx. Upset*": "$223,092.77",
+    "Attorney": "ROMANO GARUBO AND ARGENTIERI",
+    "Court Case #": "F00832324",
+    "Defendant": "WENDY MATERA KUPERSMITH AND HOWARD I. KUPERSMITH, HUSBAND AND WIFE; FRED E. ROMAN; ET AL",
+    "Description": "UPSET AMOUNT: $247,000.00 + COMMISSIONS ASSIGNED BY THE SHERIFF. *NOTE THIS UPSET PRICE IS SUBJECT TO INCREASE AS OF THE DATE OF THE SALE AND YOU WILL NEED TO CONTACT THE PLAINTIFF'S COUNSEL FOR THE UPSET AS IT EXISTS ON THE DATE OF SALE.\nOCCUPANCY: SAID PROPERTY IS OCCUPIED.",
+    "Parcel #": "LOT 4, BLOCK 4507",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP1",
+    "Property Note": "",
+    "Sales Date": "4/13/2026",
+    "Sheriff #": "F-25002888"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "8 GILBERT AVENUE PARAMUS NJ 07652",
+    "defendant": "WENDY MATERA KUPERSMITH AND HOWARD I. KUPERSMITH, HUSBAND AND WIFE; FRED E. ROMAN; ET AL",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP1",
+    "sale_date": "2026-04-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 4, BLOCK 4507",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP1",
+  "property_note": null,
+  "sale_date": "2026-04-13",
+  "sheriff_number": "F-25002888",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 223092.77,
+  "upset_amount_label": "Approx. Upset*"
+}

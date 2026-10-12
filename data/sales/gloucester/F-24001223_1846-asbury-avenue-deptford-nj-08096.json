@@ -1,0 +1,80 @@
+{
+  "address": "1846 ASBURY AVENUE DEPTFORD NJ 08096",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-002329-23",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "NORRIS R. FISHER A/K/A NORRIS FISHER, ET AL",
+  "description": "ESTIMATED UPSET PRICE: $183,504.96 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "occupancy": "OCCUPIED BY UNKNOWN",
+    "upset_amount": 183504.96
+  },
+  "fields": {
+    "Address": "1846 ASBURY AVENUE\nDEPTFORD NJ 08096",
+    "Approximate Judgment": "$156,093.32",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-002329-23",
+    "Defendant": "NORRIS R. FISHER A/K/A NORRIS FISHER, ET AL",
+    "Description": "ESTIMATED UPSET PRICE: $183,504.96 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Parcel #": "BLOCK: 269 LOT: 15",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n1846 ASBURY AVENUE DEPTFORD, NJ 08096\nBLOCK: 269 LOT: 15\nAPPROXIMATE DIMENSIONS: 100 FEET WIDE BY 120 FEET LONG\nNEAREST CROSS STREET: CENTRAL AVENUE\nESTIMATED UPSET PRICE: $183,504.96 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "F-24001223"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 156093.32,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1846 ASBURY AVENUE DEPTFORD NJ 08096",
+    "defendant": "NORRIS R. FISHER A/K/A NORRIS FISHER, ET AL",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 269 LOT: 15",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": "TOWNSHIP OF DEPTFORD\nCOUNTY OF GLOUCESTER\n1846 ASBURY AVENUE DEPTFORD, NJ 08096\nBLOCK: 269 LOT: 15\nAPPROXIMATE DIMENSIONS: 100 FEET WIDE BY 120 FEET LONG\nNEAREST CROSS STREET: CENTRAL AVENUE\nESTIMATED UPSET PRICE: $183,504.96 THE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2026-01-07",
+  "sheriff_number": "F-24001223",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-11-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

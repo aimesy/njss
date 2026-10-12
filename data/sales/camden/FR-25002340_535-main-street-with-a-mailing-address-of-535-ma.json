@@ -1,0 +1,53 @@
+{
+  "address": "535 MAIN STREET WITH A MAILING ADDRESS OF 535 MAIN STREET, GLENDORA, NJ 08029 TOWNSHIP OF GLOUCESTER NJ 08029",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00371425",
+  "current_status": "Scheduled",
+  "defendant": "LINDA S. COMBS A/K/A LINDA SUSAN COMBS, HER HEIRS, DEVISEES ANS PERSONAL REPRESENTATIVES AND HER OR THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET.AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "535 MAIN STREET\nWITH A MAILING ADDRESS OF 535 MAIN STREET, GLENDORA, NJ 08029\nTOWNSHIP OF GLOUCESTER NJ 08029",
+    "Approx. Upset*": "$124,788.08",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00371425",
+    "Defendant": "LINDA S. COMBS A/K/A LINDA SUSAN COMBS, HER\nHEIRS, DEVISEES ANS PERSONAL REPRESENTATIVES\nAND HER OR THEIR SUCCESSORS IN RIGHT, TITLE AND\nINTEREST, ET.AL.",
+    "Parcel #": "",
+    "Plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-25002340"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "535 MAIN STREET WITH A MAILING ADDRESS OF 535 MAIN STREET, GLENDORA, NJ 08029 TOWNSHIP OF GLOUCESTER NJ 08029",
+    "defendant": "LINDA S. COMBS A/K/A LINDA SUSAN COMBS, HER \nHEIRS, DEVISEES ANS PERSONAL REPRESENTATIVES \nAND HER OR THEIR SUCCESSORS IN RIGHT, TITLE AND \nINTEREST, ET.AL.",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-25002340",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-11-25",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 124788.08,
+  "upset_amount_label": "Approx. Upset*"
+}

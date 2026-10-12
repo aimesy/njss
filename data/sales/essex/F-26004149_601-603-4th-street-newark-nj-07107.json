@@ -1,0 +1,54 @@
+{
+  "address": "601-603 4TH STREET NEWARK NJ 07107",
+  "attorney": "HONIG & GREENBERG, L.L.C.",
+  "attorney_phone": "856 770 0990",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F1097725",
+  "current_status": "Scheduled",
+  "defendant": "HELLANE T. FREEMAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF ROSEMARY FREEMAN, DECEASED; ET AL.",
+  "description": "LOT: 46 BLOCK: 600\nAPPROXIMATE DIMENSIONS: 50 X 100\nNEAREST CROSSS STREET: NUMBER OF FEET TO NEAREST CROSS-STREET: 328 FEET TO 1ST AVE\nAPPROXIMATE UPSET AMOUNT: $53,000.00\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,841.78\nMETES AND BOUNDS DESCRIPTION: THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN BOOK 4645 AT PAGE 719\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,841.78",
+  "extracted": {
+    "block": "600",
+    "lot": "46"
+  },
+  "fields": {
+    "Address": "601-603 4TH STREET\nNEWARK NJ 07107",
+    "Approx. Upset*": "$45,287.23",
+    "Attorney": "HONIG & GREENBERG, L.L.C.",
+    "Attorney Phone": "856 770 0990",
+    "Court Case #": "F1097725",
+    "Defendant": "HELLANE T. FREEMAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF ROSEMARY FREEMAN, DECEASED; ET AL.",
+    "Description": "LOT: 46 BLOCK: 600\nAPPROXIMATE DIMENSIONS: 50 X 100\nNEAREST CROSSS STREET: NUMBER OF FEET TO NEAREST CROSS-STREET: 328 FEET TO 1ST AVE\nAPPROXIMATE UPSET AMOUNT: $53,000.00\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,841.78\nMETES AND BOUNDS DESCRIPTION: THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN BOOK 4645 AT PAGE 719\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,841.78",
+    "Parcel #": "",
+    "Plaintiff": "TRENTON OPPORTUNITY 10, LLC",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26004149"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "601-603 4TH STREET NEWARK NJ 07107",
+    "defendant": "HELLANE T. FREEMAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF ROSEMARY FREEMAN, DECEASED; ET AL.",
+    "listing_status": null,
+    "plaintiff": "TRENTON OPPORTUNITY 10, LLC",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "TRENTON OPPORTUNITY 10, LLC",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26004149",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 45287.23,
+  "upset_amount_label": "Approx. Upset*"
+}

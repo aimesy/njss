@@ -1,0 +1,57 @@
+{
+  "address": "8 GLENSIDE AVENUE BERLIN NJ 08009",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01088325",
+  "current_status": "Settled",
+  "defendant": "DENNIS MCGOWAN; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "8 GLENSIDE AVENUE\nBERLIN NJ 08009",
+    "Approx. Upset*": "$114,144.03",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F01088325",
+    "Defendant": "DENNIS MCGOWAN; ET AL.,",
+    "Parcel #": "TAX LOT(S): 16, IN BLOCK: 2103",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY\nAS TRUSTEE FOR THE CIM TRUST 2020- R7 MORTGAGE-BACKED NOTES, SERIES 2020- R7,",
+    "Property Note": "INDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nTAX CERTIFICATE\nRECORDED: APRIL 04,2025\nHOLDER: TRYSTONE CAPITAL ASSETS LLC\nAMOUNT: $454.66\nBOOK: 12788\nPAGE:302\nINSTRUMENT NUMBER: CERT 24-00019",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26000694"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "8 GLENSIDE AVENUE BERLIN NJ 08009",
+    "defendant": "DENNIS MCGOWAN; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY \nAS TRUSTEE FOR THE CIM TRUST 2020- R7 MORTGAGE-BACKED NOTES, SERIES 2020- R7,",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT(S): 16, IN BLOCK: 2103",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE CIM TRUST 2020- R7 MORTGAGE-BACKED NOTES, SERIES 2020- R7,",
+  "property_note": "INDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nTAX CERTIFICATE\nRECORDED: APRIL 04,2025\nHOLDER: TRYSTONE CAPITAL ASSETS LLC\nAMOUNT: $454.66\nBOOK: 12788\nPAGE:302\nINSTRUMENT NUMBER: CERT 24-00019",
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26000694",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 114144.03,
+  "upset_amount_label": "Approx. Upset*"
+}

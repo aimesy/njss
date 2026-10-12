@@ -1,0 +1,53 @@
+{
+  "address": "5036 ORCHARD WAY PENNSAUKEN NJ 08109",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01338018",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "MARIE M. PREVARY, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT TITLE AND INTEREST; DONALD PREVARY; PATRICE FABRIZIO; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "5036 ORCHARD WAY\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$254,007.37",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01338018",
+    "Defendant": "MARIE M. PREVARY, HER UNKNOWN HEIRS, DEVISEES\nAND PERSONAL REPRESENTATIVES AND HERS, THEIR OR\nANY OF THEIR SUCCESSORS IN RIGHT TITLE AND INTEREST;\nDONALD PREVARY; PATRICE FABRIZIO; STATE OF NEW JERSEY\nAND UNITED STATES OF AMERICA,",
+    "Parcel #": "Lot 4, Block 6202 f/K/A 341.G",
+    "Plaintiff": "ONITY MORTGAGE CORPORATION F/K/A PHH MORTGAGE CORPORATION,",
+    "Property Note": "2026 2nd Quarter Taxes in the amount of $485.00, open plus penalty.",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001863"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "5036 ORCHARD WAY PENNSAUKEN NJ 08109",
+    "defendant": "MARIE M. PREVARY, HER UNKNOWN HEIRS, DEVISEES \nAND PERSONAL REPRESENTATIVES AND HERS, THEIR OR \nANY OF THEIR SUCCESSORS IN RIGHT TITLE AND INTEREST; \nDONALD PREVARY; PATRICE FABRIZIO; STATE OF NEW JERSEY \nAND UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "ONITY MORTGAGE CORPORATION F/K/A PHH MORTGAGE CORPORATION,",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 4, Block 6202 f/K/A 341.G",
+  "plaintiff": "ONITY MORTGAGE CORPORATION F/K/A PHH MORTGAGE CORPORATION,",
+  "property_note": "2026 2nd Quarter Taxes in the amount of $485.00, open plus penalty.",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001863",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 254007.37,
+  "upset_amount_label": "Approx. Upset*"
+}

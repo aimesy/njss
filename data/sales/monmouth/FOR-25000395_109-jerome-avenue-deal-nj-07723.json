@@ -1,0 +1,59 @@
+{
+  "address": "109 Jerome Avenue Deal NJ 07723",
+  "attorney": "Herrick Feinstein LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "L00312719",
+  "current_status": "Scheduled",
+  "defendant": "Brooks Fitch Apparel Group, LLC",
+  "description": "Approximate Dimensions: 200 x 214 feet\nNearest Cross Street: Vicinity of Pleasany Place\nThe occupancy status of the property is: UNKNOWN\nThe good faith estimate of its upset price is: $340,778.41\nThe good faith estimate of prior mortgage(s) is $8,900,000.00 and the good faith estimate of prior tax liens is $125,000.00, Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon\nAs the above description does not constitute a full legal description, said legal description is annexed to that certain mortgage recorded in the Office of the Register of Monmouth County in Book Number:OR-9688 at Page 1594, et seq., and the writ of Execution on file with the Sheriff of Monmouth County.",
+  "extracted": {
+    "upset_amount": 340778.41
+  },
+  "fields": {
+    "Address": "109 Jerome Avenue\nDeal NJ 07723",
+    "Approx. Judgment*": "$340,778.41",
+    "Attorney": "Herrick Feinstein LLP",
+    "Court Case #": "L00312719",
+    "Defendant": "Brooks Fitch Apparel Group, LLC",
+    "Description": "Approximate Dimensions: 200 x 214 feet\nNearest Cross Street: Vicinity of Pleasany Place\nThe occupancy status of the property is: UNKNOWN\nThe good faith estimate of its upset price is: $340,778.41\nThe good faith estimate of prior mortgage(s) is $8,900,000.00 and the good faith estimate of prior tax liens is $125,000.00, Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation. To ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon\nAs the above description does not constitute a full legal description, said legal description is annexed to that certain mortgage recorded in the Office of the Register of Monmouth County in Book Number:OR-9688 at Page 1594, et seq., and the writ of Execution on file with the Sheriff of Monmouth County.",
+    "Parcel #": "Tax Lot: 4.01 Block: 4 Located on the tax map of the Township of Deal",
+    "Plaintiff": "Brooklyn Mile, LLC, a limited liability company",
+    "Property Note": "",
+    "Sales Date": "5/29/2025",
+    "Sheriff #": "FOR-25000395"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 340778.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "109 Jerome Avenue Deal NJ 07723",
+    "defendant": "Brooks Fitch Apparel Group, LLC",
+    "listing_status": "Canceled",
+    "plaintiff": "Brooklyn Mile, LLC, a limited liability company",
+    "sale_date": "2025-05-29"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 4.01 Block: 4 Located on the tax map of the Township of Deal",
+  "plaintiff": "Brooklyn Mile, LLC, a limited liability company",
+  "property_note": null,
+  "sale_date": "2025-05-29",
+  "sheriff_number": "FOR-25000395",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-29",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    }
+  ]
+}

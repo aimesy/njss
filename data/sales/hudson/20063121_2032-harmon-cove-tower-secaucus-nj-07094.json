@@ -1,0 +1,63 @@
+{
+  "address": "2032 HARMON COVE TOWER SECAUCUS NJ 07094",
+  "attorney": "GOODMAN LAW OFFICE LLC",
+  "attorney_phone": "(973) 370-3025",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-008302-23",
+  "current_status": "Adjourned - Plaintiff - New Sale Date:",
+  "defendant": "SANDRA SCHWARTZ",
+  "description": "LOT 15 C2032 BLOCK NO. 21\nSQUARE FOOTAGE: 1,372 SQ. FT.\nTYPE OF PROPERTY: CONDOMINIUM\nCROSS-STREET(S): MEADOWLANDS PKWY\nCURRENT AMOUNT DUE:\nMERS AS NOMINEEFOR CROSSCOUNTRY MORTGAGE LLC (ORIGINAL BALANCE AS OF 11/2019) $312,000.00\n2026 QTR 2 UNPAID TAXES $1,435.12",
+  "extracted": {
+    "block": "NO",
+    "lot": "15"
+  },
+  "fields": {
+    "Address": "2032 HARMON COVE TOWER\nSECAUCUS NJ 07094",
+    "Attorney": "GOODMAN LAW OFFICE LLC",
+    "Attorney Phone": "(973) 370-3025",
+    "Court Case #": "F-008302-23",
+    "Defendant": "SANDRA SCHWARTZ",
+    "Description": "LOT 15 C2032 BLOCK NO. 21\nSQUARE FOOTAGE: 1,372 SQ. FT.\nTYPE OF PROPERTY: CONDOMINIUM\nCROSS-STREET(S): MEADOWLANDS PKWY\nCURRENT AMOUNT DUE:\nMERS AS NOMINEEFOR CROSSCOUNTRY MORTGAGE LLC (ORIGINAL BALANCE AS OF 11/2019) $312,000.00\n2026 QTR 2 UNPAID TAXES $1,435.12",
+    "Good Faith Upset*": "",
+    "Judgment": "$51,188.36",
+    "Plaintiff": "HARMON COVE TOWERS I CONDOMIMINIUM ASSOCIATION, INC., A NEW JERSEY NONPROFIT CORPORATION",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20063121"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 51188.36,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "2032 HARMON COVE TOWER SECAUCUS NJ 07094",
+    "defendant": "SANDRA SCHWARTZ",
+    "listing_status": null,
+    "plaintiff": "HARMON COVE TOWERS I CONDOMIMINIUM ASSOCIATION, INC., A NEW JERSEY NONPROFIT CORPORATION",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "HARMON COVE TOWERS I CONDOMIMINIUM ASSOCIATION, INC., A NEW JERSEY NONPROFIT CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20063121",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-07-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

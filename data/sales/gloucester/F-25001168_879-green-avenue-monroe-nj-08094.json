@@ -1,0 +1,64 @@
+{
+  "address": "879 GREEN AVENUE MONROE NJ 08094",
+  "attorney": "FEIN SUCH KAHN & SHEPARD",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-001963-25",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "ZACHARY SNYDER, ET ALS.",
+  "description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $374,213.55\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN",
+    "upset_amount": 374213.55
+  },
+  "fields": {
+    "Address": "879 GREEN AVENUE\nMONROE NJ 08094",
+    "Approximate Judgment": "$338,395.14",
+    "Attorney": "FEIN SUCH KAHN & SHEPARD",
+    "Court Case #": "F-001963-25",
+    "Defendant": "ZACHARY SNYDER, ET ALS.",
+    "Description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $374,213.55\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT: 30 BLOCK: 2401",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "TOWNSHIP OF MONROE\nCOUNTY OF GLOUCESTER\n879 GREEN AVENUE MONROE, NJ 08094 WITH A MAILING ADDRESS OF 879 GREEN AVENUE WILLIAMSTOWN, NJ 08094\nLOT: 30 BLOCK: 2401\nAPPROXIMATE DIMENSIONS OF LOT: 2 AC\nNUMBER OF FEET TO NEAREST CROSS STREET: DARTMOOR AVENUE\nBEGINNING AT A POINT IN THE CENTER LINE OF GREEN AVENUE, DISTANT 737.99 FEET NORTHEASTWARDLY FROM LINE OF LANDS NOW OR FORMERLY JAMES D. TWEED, SAID POINT BEING IN THE DIVISION LINE OF LOTS 23A AD 24, BLOCK 31, TAX MAP OF THE TOWNSHIP OF MONROE; THENCE\nGOOD FAITH ESTIMATE OF UPSET PRICE: $374,213.55\nOCCUPANCY STATUS: UNKNOWN\nPRIOR LIENS/ENCUMBRANCES\nTOTAL AS OF AUGUST 26,2025: $.00",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "F-25001168"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 338395.14,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "879 GREEN AVENUE MONROE NJ 08094",
+    "defendant": "ZACHARY SNYDER, ET ALS.",
+    "listing_status": "Purchased - Plaintiff",
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 30 BLOCK: 2401",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": "TOWNSHIP OF MONROE\nCOUNTY OF GLOUCESTER\n879 GREEN AVENUE MONROE, NJ 08094 WITH A MAILING ADDRESS OF 879 GREEN AVENUE WILLIAMSTOWN, NJ 08094\nLOT: 30 BLOCK: 2401\nAPPROXIMATE DIMENSIONS OF LOT: 2 AC\nNUMBER OF FEET TO NEAREST CROSS STREET: DARTMOOR AVENUE\nBEGINNING AT A POINT IN THE CENTER LINE OF GREEN AVENUE, DISTANT 737.99 FEET NORTHEASTWARDLY FROM LINE OF LANDS NOW OR FORMERLY JAMES D. TWEED, SAID POINT BEING IN THE DIVISION LINE OF LOTS 23A AD 24, BLOCK 31, TAX MAP OF THE TOWNSHIP OF MONROE; THENCE\nGOOD FAITH ESTIMATE OF UPSET PRICE: $374,213.55\nOCCUPANCY STATUS: UNKNOWN\nPRIOR LIENS/ENCUMBRANCES\nTOTAL AS OF AUGUST 26,2025: $.00",
+  "sale_date": "2026-03-04",
+  "sheriff_number": "F-25001168",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Purchased - Plaintiff"
+    }
+  ]
+}

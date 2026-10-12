@@ -1,0 +1,61 @@
+{
+  "address": "16 BUNNING DR VOORHEES NJ 08043",
+  "attorney": "RAGAN & RAGAN P.C.",
+  "attorney_phone": "(732) 280-4100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "L108620 J08735320",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "J&J DEVELOPMENT GROUP, LLC AND JAMES ANGELONI",
+  "extracted": {},
+  "fields": {
+    "Address": "16 BUNNING DR\nVOORHEES NJ 08043",
+    "Approx. Upset*": "$578,885.79",
+    "Attorney": "RAGAN & RAGAN P.C.",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "L108620 J08735320",
+    "Defendant": "J&J DEVELOPMENT GROUP, LLC AND JAMES ANGELONI",
+    "Parcel #": "",
+    "Plaintiff": "RYAN TOLA AND ROBERT COLA BY ASSIGNEE, MMU, LLC (R. 1:4-10)",
+    "Property Note": "",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26000399"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "16 BUNNING DR VOORHEES NJ 08043",
+    "defendant": "J&J DEVELOPMENT GROUP, LLC AND JAMES ANGELONI",
+    "listing_status": null,
+    "plaintiff": "RYAN TOLA AND ROBERT COLA BY ASSIGNEE, MMU, LLC (R. 1:4-10)",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "RYAN TOLA AND ROBERT COLA BY ASSIGNEE, MMU, LLC (R. 1:4-10)",
+  "property_note": null,
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26000399",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 578885.79,
+  "upset_amount_label": "Approx. Upset*"
+}

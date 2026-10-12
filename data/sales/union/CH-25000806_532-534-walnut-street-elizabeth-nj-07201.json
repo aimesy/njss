@@ -1,0 +1,84 @@
+{
+  "address": "532-534 WALNUT STREET ELIZABETH NJ 07201",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01116122",
+  "current_status": "Adjourned per Court Order",
+  "defendant": "ABEL M. SEGERA; ROSEMARY A. MORANGA; BAYVIEW LOAN SERVICING LLC N/K/A COMMUNITY LOAN SERVICING, LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A ISAAC BOSIRE, 2ND FLOOR TENANT; UNKNOWN OCCUPANTS #1-10 N/K/A FAITH (LAST NAME REFUSED), 2ND FLOOR TENANT",
+  "description": "LOT 1317 BLOCK 12",
+  "extracted": {
+    "block": "12",
+    "lot": "1317"
+  },
+  "fields": {
+    "Address": "532-534 WALNUT STREET\nELIZABETH NJ 07201",
+    "Approx. Upset*": "$596,524.21",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F01116122",
+    "Defendant": "ABEL M. SEGERA; ROSEMARY A. MORANGA; BAYVIEW LOAN SERVICING LLC N/K/A COMMUNITY LOAN SERVICING, LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A ISAAC BOSIRE, 2ND FLOOR TENANT; UNKNOWN OCCUPANTS #1-10 N/K/A FAITH (LAST NAME REFUSED), 2ND FLOOR TENANT",
+    "Description": "LOT 1317 BLOCK 12",
+    "Parcel #": "LOT 1317 BLOCK 12",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES IV TRUST",
+    "Property Note": "Property Description\nPursuant to N.J.S.A. 2A:61-1, this form must be completed for all Sheriff's Sales in Union County for publication purposes in two newspapers.\nThis form must be completed by your office, NOT the Sheriff's Office. Assistance in completing this description can be obtained from Title Company. It is not advisable to use the term \"UNKNOWN\"\nProperty to be sold is located in the City of Elizabeth, County of Union and State of New Jersey.\nDimensions (Approx.): 32 x 150\nNearest Cross Street: Mary Street.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise thefollowing:\nGood Faith Estimated Upset Price: $702,297.26\nOccupancy Status:\nOwner Occupied\nBy: Dated: June 18, 202",
+    "Sales Date": "8/26/2026",
+    "Sheriff #": "CH-25000806"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "532-534 WALNUT STREET ELIZABETH NJ 07201",
+    "defendant": "ABEL M. SEGERA; ROSEMARY A. MORANGA; BAYVIEW LOAN SERVICING LLC N/K/A COMMUNITY LOAN SERVICING, LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A ISAAC BOSIRE, 2ND FLOOR TENANT; UNKNOWN OCCUPANTS #1-10 N/K/A FAITH (LAST NAME REFUSED), 2ND FLOOR TENANT",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES IV TRUST",
+    "sale_date": "2026-08-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 1317 BLOCK 12",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES IV TRUST",
+  "property_note": "Property Description\nPursuant to N.J.S.A. 2A:61-1, this form must be completed for all Sheriff's Sales in Union County for publication purposes in two newspapers.\nThis form must be completed by your office, NOT the Sheriff's Office. Assistance in completing this description can be obtained from Title Company. It is not advisable to use the term \"UNKNOWN\"\nProperty to be sold is located in the City of Elizabeth, County of Union and State of New Jersey.\nDimensions (Approx.): 32 x 150\nNearest Cross Street: Mary Street.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise thefollowing:\nGood Faith Estimated Upset Price: $702,297.26\nOccupancy Status:\nOwner Occupied\nBy: Dated: June 18, 202",
+  "sale_date": "2026-08-26",
+  "sheriff_number": "CH-25000806",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-05-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-21",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-08-26",
+      "status": "Adjourned per Court Order"
+    }
+  ],
+  "upset_amount": 596524.21,
+  "upset_amount_label": "Approx. Upset*"
+}

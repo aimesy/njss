@@ -1,0 +1,56 @@
+{
+  "address": "41 LEHIGH AVENUE EDISON NJ 08817",
+  "attorney": "NORGAARD, O'BOYLE & HANNON",
+  "attorney_file_number": null,
+  "attorney_phone": "201-871-1333",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F560725",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "CORAL REAL ESTATE GROUP, LLC",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$1,315,504.29",
+    "Attorney": "NORGAARD, O'BOYLE & HANNON",
+    "Attorney File #": "",
+    "Attorney Phone": "201-871-1333",
+    "Court Case #": "F560725",
+    "Defendant": "CORAL REAL ESTATE GROUP, LLC",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.A2 & LOT 6.A, 7 & 8, BLOCK 735.C",
+    "Plaintiff": "MSND FINANCIAL LLC,",
+    "Property Address": "41 LEHIGH AVENUE\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "12/3/2025",
+    "Sheriff #": "F-25002620"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1315504.29,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "41 LEHIGH AVENUE EDISON NJ 08817",
+    "defendant": "CORAL REAL ESTATE GROUP, LLC",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "MSND FINANCIAL LLC,",
+    "sale_date": "2025-12-03"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.A2 & LOT 6.A, 7 & 8, BLOCK 735.C",
+  "plaintiff": "MSND FINANCIAL LLC,",
+  "property_note": null,
+  "sale_date": "2025-12-03",
+  "sheriff_number": "F-25002620",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

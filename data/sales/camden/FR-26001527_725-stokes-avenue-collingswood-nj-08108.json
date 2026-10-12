@@ -1,0 +1,61 @@
+{
+  "address": "725 STOKES AVENUE COLLINGSWOOD NJ 08108",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00529325",
+  "current_status": "Court Adjournment",
+  "defendant": "MAHMOUD OMAR; MRS./MR. MAHMOUD OMAR, SPOUSE OR CIVIL UNION PARTNER OF MAHMOUD OMAR; UNITED STATES OF AMERICA; CAMDEN COUNTY BOARD OF SOCIAL SERVICES; STATE OF NEW JERSEY;",
+  "extracted": {},
+  "fields": {
+    "Address": "725 STOKES AVENUE\nCOLLINGSWOOD NJ 08108",
+    "Approx. Upset*": "$346,935.61",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00529325",
+    "Defendant": "MAHMOUD OMAR; MRS./MR. MAHMOUD OMAR, SPOUSE OR\nCIVIL UNION PARTNER OF MAHMOUD OMAR; UNITED STATES\nOF AMERICA; CAMDEN COUNTY BOARD OF SOCIAL SERVICES;\nSTATE OF NEW JERSEY;",
+    "Parcel #": "Lot: 19; Block: 88",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "Pursuant to a municipal tax search dated June 5, 2026.\nSubject to:2026 3 rd quarter taxes due 8/1/2026, TO BE DETERMINED\n2026 4th quarter taxes due 11/1/2026, TO BE DETERMIND\nWater/Sewer: Acct. 2686-0, To: 5/1/2026$298.54 OPEN PLUS PENALTY\nCCMUA: Acct. 120026406, $304.73 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001527"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "725 STOKES AVENUE COLLINGSWOOD NJ 08108",
+    "defendant": "MAHMOUD OMAR; MRS./MR. MAHMOUD OMAR, SPOUSE OR \nCIVIL UNION PARTNER OF MAHMOUD OMAR; UNITED STATES \nOF AMERICA; CAMDEN COUNTY BOARD OF SOCIAL SERVICES; \nSTATE OF NEW JERSEY;",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot: 19; Block: 88",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": "Pursuant to a municipal tax search dated June 5, 2026.\nSubject to:2026 3 rd quarter taxes due 8/1/2026, TO BE DETERMINED\n2026 4th quarter taxes due 11/1/2026, TO BE DETERMIND\nWater/Sewer: Acct. 2686-0, To: 5/1/2026$298.54 OPEN PLUS PENALTY\nCCMUA: Acct. 120026406, $304.73 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001527",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 346935.61,
+  "upset_amount_label": "Approx. Upset*"
+}

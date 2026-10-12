@@ -1,0 +1,58 @@
+{
+  "address": "210 Jefferson Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001655-25",
+  "current_status": "Scheduled",
+  "deed": "Aamad Abro",
+  "deed_address": "415 Glenn Ave Egg Harbor Twp NJ 08234",
+  "defendant": "Kenneth Dimarco A/K/A Kenneth C. Dimarco; LVNV Funding LLC; Citibank, N.A",
+  "extracted": {},
+  "fields": {
+    "Address": "210 Jefferson Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$96,304.19",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-001655-25",
+    "Deed": "Aamad Abro",
+    "Deed Address": "415 Glenn Ave Egg Harbor Twp NJ 08234",
+    "Defendant": "Kenneth Dimarco A/K/A Kenneth C. Dimarco; LVNV Funding LLC; Citibank, N.A",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "8/28/2025",
+    "Sheriff #": "F-25000722",
+    "Upset Amount": "$109,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 96304.19,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "210 Jefferson Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Kenneth Dimarco A/K/...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2025-08-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-08-28",
+  "sheriff_number": "F-25000722",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-28",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-28",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 109500.0,
+  "upset_amount_label": "Upset Amount"
+}

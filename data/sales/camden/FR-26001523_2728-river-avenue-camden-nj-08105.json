@@ -1,0 +1,61 @@
+{
+  "address": "2728 RIVER AVENUE CAMDEN NJ 08105",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01056825",
+  "current_status": "Court Adjournment",
+  "defendant": "MARY NEAL, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "2728 RIVER AVENUE\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$210,469.31",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F01056825",
+    "Defendant": "MARY NEAL, ET AL.",
+    "Parcel #": "Tax Lot: 45,46 & 47 Block 932",
+    "Plaintiff": "ROCKET MORTGAGE, LLC",
+    "Property Note": "Priority Tax Lien Holder: East Region Tax Auction, LLC holds Tax Sale Certificate No. 26-01213 in the amount of $1,472.54 as of 04/06/2026.\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26001523"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2728 RIVER AVENUE CAMDEN NJ 08105",
+    "defendant": "MARY NEAL, ET AL.",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot: 45,46 & 47 Block 932",
+  "plaintiff": "ROCKET MORTGAGE, LLC",
+  "property_note": "Priority Tax Lien Holder: East Region Tax Auction, LLC holds Tax Sale Certificate No. 26-01213 in the amount of $1,472.54 as of 04/06/2026.\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26001523",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 210469.31,
+  "upset_amount_label": "Approx. Upset*"
+}

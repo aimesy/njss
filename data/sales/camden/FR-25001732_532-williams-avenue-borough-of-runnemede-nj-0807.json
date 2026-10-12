@@ -1,0 +1,57 @@
+{
+  "address": "532 WILLIAMS AVENUE BOROUGH OF RUNNEMEDE NJ 08078",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "SWCF00554322",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "ELIZABETH L. EXCLUSA, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS/HER OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; UNITED STATES OF COMMUNITY DEVELOPMENT; ELYSSA EXCLUSA; PETER EXCLUSA; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "532 WILLIAMS AVENUE\nBOROUGH OF RUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$154,091.59",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "SWCF00554322",
+    "Defendant": "ELIZABETH L. EXCLUSA, HER HEIRS, DEVISEES AND\nPERSONAL REPRESENTATIVES, AND HIS/HER OR ANY\nOF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST;\nUNITED STATES OF COMMUNITY DEVELOPMENT; ELYSSA\nEXCLUSA; PETER EXCLUSA; STATE OF NEW JERSEY",
+    "Parcel #": "",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "11/18/2025",
+    "Sheriff #": "FR-25001732"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "532 WILLIAMS AVENUE BOROUGH OF RUNNEMEDE NJ 08078",
+    "defendant": "ELIZABETH L. EXCLUSA, HER HEIRS, DEVISEES AND \nPERSONAL REPRESENTATIVES, AND HIS/HER OR ANY \nOF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; \nUNITED STATES OF COMMUNITY DEVELOPMENT; ELYSSA \nEXCLUSA; PETER EXCLUSA; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2025-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2025-11-18",
+  "sheriff_number": "FR-25001732",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-18",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 154091.59,
+  "upset_amount_label": "Approx. Upset*"
+}

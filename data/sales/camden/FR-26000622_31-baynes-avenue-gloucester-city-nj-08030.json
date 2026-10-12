@@ -1,0 +1,57 @@
+{
+  "address": "31 BAYNES AVENUE GLOUCESTER CITY NJ 08030",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00798824",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "MICHAEL P. FAGER, INDIVIDUALLY AND AS EXECUTOR OF THE ESTATE OF ANNA M. FAGER, ET AL;",
+  "extracted": {},
+  "fields": {
+    "Address": "31 BAYNES AVENUE\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$148,376.30",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00798824",
+    "Defendant": "MICHAEL P. FAGER, INDIVIDUALLY AND AS EXECUTOR\nOF THE ESTATE OF ANNA M. FAGER, ET AL;",
+    "Parcel #": "LOT 50; BLOCK: 144.01",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB AS\nOWNER TRUSTEE OF THE RESIDENTIAL CREDIT\nOPPORTUNITIES TRUST IX-A,",
+    "Property Note": "PURSUANT TO A MUNICIPAL TAX SEARCH DATED MARCH 7, 2026\nSUBJECT TO: 2026 2ND QUARTER TAXES DUE 5/1/2026, $1,586.58 OPEN\n2026 3RD TAXES DUE 8/1/2026, TO BE DETERMINED\nWATER: 20688 0, 1/1/2026-3/31/2026, $1,994.95 OPEN PLUS PENALTY\nSUBJECT TO FINAL READING\nSEWER: ACCT:20688 0, 1/1/2026-3/31/2026, $105.00 OPEN PLUS PENALTY",
+    "Sales Date": "7/15/2026",
+    "Sheriff #": "FR-26000622"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "31 BAYNES AVENUE GLOUCESTER CITY NJ 08030",
+    "defendant": "MICHAEL P. FAGER, INDIVIDUALLY AND AS EXECUTOR \nOF THE ESTATE OF ANNA M. FAGER, ET AL;",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB AS \nOWNER TRUSTEE OF THE RESIDENTIAL CREDIT \nOPPORTUNITIES TRUST IX-A,",
+    "sale_date": "2026-07-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 50; BLOCK: 144.01",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A,",
+  "property_note": "PURSUANT TO A MUNICIPAL TAX SEARCH DATED MARCH 7, 2026\nSUBJECT TO: 2026 2ND QUARTER TAXES DUE 5/1/2026, $1,586.58 OPEN\n2026 3RD TAXES DUE 8/1/2026, TO BE DETERMINED\nWATER: 20688 0, 1/1/2026-3/31/2026, $1,994.95 OPEN PLUS PENALTY\nSUBJECT TO FINAL READING\nSEWER: ACCT:20688 0, 1/1/2026-3/31/2026, $105.00 OPEN PLUS PENALTY",
+  "sale_date": "2026-07-15",
+  "sheriff_number": "FR-26000622",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 148376.3,
+  "upset_amount_label": "Approx. Upset*"
+}

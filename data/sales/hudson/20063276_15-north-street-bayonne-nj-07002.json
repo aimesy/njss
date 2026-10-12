@@ -1,0 +1,64 @@
+{
+  "address": "15 NORTH STREET BAYONNE NJ 07002",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-012625-25",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "DANIEL P. BOCK JR",
+  "description": "Tax Lot(s): 16, in Block: 286\nDimensions (Approx.): 27.90X56.421RR\nNearest Cross Street: John F. Kennedy Blvd.\nTax Certificate\nRecorded: August 08, 2019\nHolder: TFS Cust for Fig cap Inv NJ13, LLC\nAmount: $257.76\nBook: 19433\nPage: 438\nInstrument Number: N/A\nGood Faith Estimated Upset Price: $486,081.59\nOccupancy Status: Occupied by Unknown",
+  "extracted": {
+    "block": "286",
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 486081.59
+  },
+  "fields": {
+    "Address": "15 NORTH STREET\nBAYONNE NJ 07002",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-012625-25",
+    "Defendant": "DANIEL P. BOCK JR",
+    "Description": "Tax Lot(s): 16, in Block: 286\nDimensions (Approx.): 27.90X56.421RR\nNearest Cross Street: John F. Kennedy Blvd.\nTax Certificate\nRecorded: August 08, 2019\nHolder: TFS Cust for Fig cap Inv NJ13, LLC\nAmount: $257.76\nBook: 19433\nPage: 438\nInstrument Number: N/A\nGood Faith Estimated Upset Price: $486,081.59\nOccupancy Status: Occupied by Unknown",
+    "Good Faith Upset*": "$486,081.59",
+    "Judgment": "$444,994.70",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE OF CIM TRUST 2023-R4",
+    "Property Note": "",
+    "Sales Date": "8/27/2026",
+    "Sheriff #": "20063276"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 444994.7,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "15 NORTH STREET BAYONNE NJ 07002",
+    "defendant": "DANIEL P. BOCK JR",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE OF CIM TRUST 2023-R4",
+    "sale_date": "2026-08-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE OF CIM TRUST 2023-R4",
+  "property_note": null,
+  "sale_date": "2026-08-27",
+  "sheriff_number": "20063276",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-08-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 486081.59,
+  "upset_amount_label": "Good Faith Upset*"
+}

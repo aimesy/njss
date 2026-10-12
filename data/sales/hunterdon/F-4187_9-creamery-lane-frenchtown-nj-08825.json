@@ -1,0 +1,61 @@
+{
+  "address": "9 CREAMERY LANE FRENCHTOWN NJ 08825",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Hunterdon County, NJ",
+  "county_id": 32,
+  "court_case_number": "F-002279-25",
+  "current_status": "Scheduled",
+  "defendant": "ANDREW UBEL ;ET AL.",
+  "description": "APPROXIMATE UPSET AMOUNT IS $407,824.27 FOR THE SHERIFF SALE\nOCCUPANCY STATUS: OCCUPIED\nOCCUPANCY STATUS: VANCANT LAND",
+  "extracted": {
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "9 CREAMERY LANE\nFRENCHTOWN NJ 08825",
+    "Approx Judgment": "$368,180.02",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F-002279-25",
+    "Defendant": "ANDREW UBEL ;ET AL.",
+    "Parcel #": "LOT: 22 , BLOCK: 33 LOT 22 , QUAL: Q0268; BLOCK: 33",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C,",
+    "Property Details": "APPROXIMATE UPSET AMOUNT IS $407,824.27 FOR THE SHERIFF SALE\nOCCUPANCY STATUS: OCCUPIED\nOCCUPANCY STATUS: VANCANT LAND",
+    "Property Note": "APPROXIMATE UPSET AMOUNT IS $407,824.27 FOR THE SHERIFF SALE\nOCCUPANCY STATUS: OCCUPIED Lot: 22, Block: 33\non the Tax Map of the Kingwood Township\nApproximate Dimensions: 2.00 AC\nBeing more commonly known as: 9 Creamery Lane The full legal description can be found in the Office of the Clerk of Hunterdon County in Deed Book 2027, at Page 791 Frenchtown, New Jersey 08825\nPursuant to an August 11, 2026 municipal tax search.\nSubject to: 2026 2nd quarter taxes due 5/1/2026, $1,751.73 OPEN PLUS PENALTY; OWED IN ARREARS\n2026 3rd quarter taxes due 8/1/2026, $1,992.65 OPEN\n2026 4th quarter taxes due 11/1/2026, $1,992.00 OPEN\nSUJECT TO FARMLAND ROLLBACK TAXES\nAND\nAll that certain land and premises situated in the Kingwood Township, County of Hunterdon, State of New Jersey, being more particularly described as follows:\nLot: 22, Qual: Q0268; Block: 33\nOccupancy Status: Vacant Land\non the Tax Map of the Kingwood Township\nNearest Cross Street: Approximately 665.77ft to nearest cross street known as Byram Kingwood Road\nApproximate Dimensions: 40.00 AC\nBeing more commonly known as: 9 Creamery Lane Frenchtown, New Jersey 08825\nPursuant to an August 11, 2026 municipal tax search.\nSubject to: SUJECT TO FARMLAND ROLLBACK TAXES",
+    "Sales Date": "12/16/2026",
+    "Sheriff #": "F-4187"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 368180.02,
+  "judgment_amount_label": "Approx Judgment",
+  "listing": {
+    "address": "9 CREAMERY LANE FRENCHTOWN NJ 08825",
+    "defendant": "ANDREW UBEL ;ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C,",
+    "sale_date": "2026-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
+  "parcel": "LOT: 22 , BLOCK: 33 LOT 22 , QUAL: Q0268; BLOCK: 33",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C,",
+  "property_note": "APPROXIMATE UPSET AMOUNT IS $407,824.27 FOR THE SHERIFF SALE\nOCCUPANCY STATUS: OCCUPIED Lot: 22, Block: 33\non the Tax Map of the Kingwood Township\nApproximate Dimensions: 2.00 AC\nBeing more commonly known as: 9 Creamery Lane The full legal description can be found in the Office of the Clerk of Hunterdon County in Deed Book 2027, at Page 791 Frenchtown, New Jersey 08825\nPursuant to an August 11, 2026 municipal tax search.\nSubject to: 2026 2nd quarter taxes due 5/1/2026, $1,751.73 OPEN PLUS PENALTY; OWED IN ARREARS\n2026 3rd quarter taxes due 8/1/2026, $1,992.65 OPEN\n2026 4th quarter taxes due 11/1/2026, $1,992.00 OPEN\nSUJECT TO FARMLAND ROLLBACK TAXES\nAND\nAll that certain land and premises situated in the Kingwood Township, County of Hunterdon, State of New Jersey, being more particularly described as follows:\nLot: 22, Qual: Q0268; Block: 33\nOccupancy Status: Vacant Land\non the Tax Map of the Kingwood Township\nNearest Cross Street: Approximately 665.77ft to nearest cross street known as Byram Kingwood Road\nApproximate Dimensions: 40.00 AC\nBeing more commonly known as: 9 Creamery Lane Frenchtown, New Jersey 08825\nPursuant to an August 11, 2026 municipal tax search.\nSubject to: SUJECT TO FARMLAND ROLLBACK TAXES",
+  "sale_date": "2026-12-16",
+  "sheriff_number": "F-4187",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
+  "status_history": [
+    {
+      "date": "2026-12-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "Scheduled"
+    }
+  ]
+}

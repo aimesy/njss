@@ -1,0 +1,57 @@
+{
+  "address": "5 Kilmer Drive Manalapan NJ 07726",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00114022",
+  "current_status": "Scheduled",
+  "defendant": "Ninamarie Ciaccio a/k/a Ninamarie Chiarelli, et al",
+  "description": "Dimensions of Lot: (Approximately) 159 feet by 200 feet\nNearest Cross Street: Lowell Road\nThe estimated upset amount for the scheduled Sheriff’s Sale is currently $466,395.37. The upset price is not the same as a payoff or judgement redemption amount.\nThe property is occupied by unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "5 Kilmer Drive\nManalapan NJ 07726",
+    "Approx. Judgment*": "$387,608.05",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00114022",
+    "Defendant": "Ninamarie Ciaccio a/k/a Ninamarie Chiarelli, et al",
+    "Description": "Dimensions of Lot: (Approximately) 159 feet by 200 feet\nNearest Cross Street: Lowell Road\nThe estimated upset amount for the scheduled Sheriff’s Sale is currently $466,395.37. The upset price is not the same as a payoff or judgement redemption amount.\nThe property is occupied by unknown.",
+    "Parcel #": "Tax Lot No. 1 Block 2005 fka 1505 Tax Map of Township of Manalapan",
+    "Plaintiff": "MidFirst Bank",
+    "Property Note": "",
+    "Sales Date": "10/30/2025",
+    "Sheriff #": "FOR-25001578"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 387608.05,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 Kilmer Drive Manalapan NJ 07726",
+    "defendant": "Ninamarie Ciaccio a/k/a Ninamarie Chiarelli, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "MidFirst Bank",
+    "sale_date": "2025-10-30"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 1 Block 2005 fka 1505 Tax Map of Township of Manalapan",
+  "plaintiff": "MidFirst Bank",
+  "property_note": null,
+  "sale_date": "2025-10-30",
+  "sheriff_number": "FOR-25001578",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-10-30",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    }
+  ]
+}

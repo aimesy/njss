@@ -1,0 +1,72 @@
+{
+  "address": "1399 CATAWBA AVENUE NEWFIELD NJ 08344",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-000267-24",
+  "current_status": "Bankruptcy Hold",
+  "defendant": "WILLIAM DAUITO AND GINA KATHLEEN DAUITO, HUSBAND AND WIFE",
+  "description": "ESTIMATED UPSET PRICE: $372,239.99\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "occupancy": "OCCUPIED",
+    "upset_amount": 372239.99
+  },
+  "fields": {
+    "Address": "1399 CATAWBA AVENUE\nNEWFIELD NJ 08344",
+    "Approximate Judgment": "$334,388.44",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-000267-24",
+    "Defendant": "WILLIAM DAUITO AND GINA KATHLEEN DAUITO, HUSBAND AND WIFE",
+    "Description": "ESTIMATED UPSET PRICE: $372,239.99\nOCCUPANCY STATUS: OCCUPIED",
+    "Parcel #": "LOT 27 FKA 8, BLOCK 7102 FKA 468",
+    "Plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1",
+    "Property Note": "TOWNSHIP OF FRANKLIN\nCOUNTY OF GLOUCESTER\n1399 CATAWBA AVENUE, TOWNSHIP OF FRANKLIN, NJ 08344 WTH A MAILING ADDRESS OF 1399 CATAWBA AVENUE NEWFIELD, NJ 08344\nLOT 27 FKA 8, BLOCK 7102 FKA 468\nAPPROXIMATE DIMENSIONS: 1247.74 X 699.36 X 907.50 X 608.80 FEET (IRREGULAR) 348.42 X 125.00 FEET\nNEAREST CROSS STREET: MAIN ROAD\nESTIMATED UPSET PRICE: $372,239.99\nOCCUPANCY STATUS: OCCUPIED\nSUBJECT TO: 2025 4TH QUARTER TAXES IN THHE AMOUNT OF $2,015.25, OPEN PLUS PENALTY",
+    "Sales Date": "6/10/2026",
+    "Sheriff #": "F-25001397"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 334388.44,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1399 CATAWBA AVENUE NEWFIELD NJ 08344",
+    "defendant": "WILLIAM DAUITO AND GINA KATHLEEN DAUITO, HUSBAND AND WIFE",
+    "listing_status": "Bankruptcy Hold",
+    "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1",
+    "sale_date": "2026-06-10"
+  },
+  "listing_status": "Bankruptcy Hold",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT 27 FKA 8, BLOCK 7102 FKA 468",
+  "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1",
+  "property_note": "TOWNSHIP OF FRANKLIN\nCOUNTY OF GLOUCESTER\n1399 CATAWBA AVENUE, TOWNSHIP OF FRANKLIN, NJ 08344 WTH A MAILING ADDRESS OF 1399 CATAWBA AVENUE NEWFIELD, NJ 08344\nLOT 27 FKA 8, BLOCK 7102 FKA 468\nAPPROXIMATE DIMENSIONS: 1247.74 X 699.36 X 907.50 X 608.80 FEET (IRREGULAR) 348.42 X 125.00 FEET\nNEAREST CROSS STREET: MAIN ROAD\nESTIMATED UPSET PRICE: $372,239.99\nOCCUPANCY STATUS: OCCUPIED\nSUBJECT TO: 2025 4TH QUARTER TAXES IN THHE AMOUNT OF $2,015.25, OPEN PLUS PENALTY",
+  "sale_date": "2026-06-10",
+  "sheriff_number": "F-25001397",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-06-10",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-06-10",
+      "status": "Bankruptcy Hold"
+    }
+  ]
+}

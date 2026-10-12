@@ -1,0 +1,97 @@
+{
+  "address": "45 Viola Avenue Middletown NJ 07737",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00066522",
+  "current_status": "Scheduled",
+  "defendant": "Justin Hallam et al.",
+  "description": "Dimensions of Lot: 100.00ft x 125.00ft x 100.00ft x 125.00ft\nNearest Cross Street: Approximately 471.38 ft to the nearest cross street known as Appleton Avenue\nApproximate Upset Price is $494,070.71 for the Sheriff's sale\nProperty Occupancy: Borrower Occupied\nPursuant to municipal tax searched dated August 14, 2025\nSubject to:\n2025 3rd quarter taxes due 8/1/2025, $2,400.57 OPEN; Subject to posting; Grace period extended to 8/21/2025\n2025 4th quarter taxes due 11/1/2025, $2,400.57 OPEN\n2026 1st quarter taxes due 2/1/2026, $2,084.89 OPEN\nSewer: Acct. 20683 0, 5/1/2025 - 7/31/2025, $120.00 OPEN PLUS PENALTY, $784.00 OPEN PLUS PENALTY; OWED IN THE ARREARS\nThe full legal description can be found in the Office of the Clerk of Monmouth County in deed Book OR-8738, at Page 4807, instrument Number 2008096402",
+  "extracted": {
+    "lot": "100.00ft",
+    "occupancy": "Borrower Occupied",
+    "upset_amount": 494070.71
+  },
+  "fields": {
+    "Address": "45 Viola Avenue\nMiddletown NJ 07737",
+    "Approx. Judgment*": "$415,458.08",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00066522",
+    "Defendant": "Justin Hallam et al.",
+    "Description": "Dimensions of Lot: 100.00ft x 125.00ft x 100.00ft x 125.00ft\nNearest Cross Street: Approximately 471.38 ft to the nearest cross street known as Appleton Avenue\nApproximate Upset Price is $494,070.71 for the Sheriff's sale\nProperty Occupancy: Borrower Occupied\nPursuant to municipal tax searched dated August 14, 2025\nSubject to:\n2025 3rd quarter taxes due 8/1/2025, $2,400.57 OPEN; Subject to posting; Grace period extended to 8/21/2025\n2025 4th quarter taxes due 11/1/2025, $2,400.57 OPEN\n2026 1st quarter taxes due 2/1/2026, $2,084.89 OPEN\nSewer: Acct. 20683 0, 5/1/2025 - 7/31/2025, $120.00 OPEN PLUS PENALTY, $784.00 OPEN PLUS PENALTY; OWED IN THE ARREARS\nThe full legal description can be found in the Office of the Clerk of Monmouth County in deed Book OR-8738, at Page 4807, instrument Number 2008096402",
+    "Parcel #": "Lot:6; Block:366 on the Tax map of the Township of Middletown",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust VI-A",
+    "Property Note": "",
+    "Sales Date": "11/10/2025",
+    "Sheriff #": "FOR-24000234"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 415458.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "45 Viola Avenue Middletown NJ 07737",
+    "defendant": "Justin Hallam et al.",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust VI-A",
+    "sale_date": "2025-11-10"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot:6; Block:366 on the Tax map of the Township of Middletown",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust VI-A",
+  "property_note": null,
+  "sale_date": "2025-11-10",
+  "sheriff_number": "FOR-24000234",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-10",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2024-09-09",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-07-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-07-01",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-06-03",
+      "status": "Scheduled"
+    }
+  ]
+}

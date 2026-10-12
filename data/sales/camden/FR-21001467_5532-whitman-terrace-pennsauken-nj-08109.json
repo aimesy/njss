@@ -1,0 +1,57 @@
+{
+  "address": "5532 WHITMAN TERRACE PENNSAUKEN NJ 08109",
+  "attorney": "SCHILLER, KNAPP, LEFKOWITZ & HERTZEL, LLP*DO NOT USE*",
+  "attorney_phone": "(518) 786-9069",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00895119",
+  "current_status": "Scheduled",
+  "defendant": "ROBERT W. INGRAM, JR. A/K/A ROBERT W. INGRAM; MRS. ROBERT W. INGRAM, JR., SPOUSE OF ROBERT W. INGRAM JR. A/K/A ROBERT W. INGRAM; JENNIFER M. INGRAM; MR. JENNIFER M. INGRAM, SPOUSE OF JENNIFER M. INGRAM; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "5532 WHITMAN TERRACE\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$193,812.22",
+    "Attorney": "SCHILLER, KNAPP, LEFKOWITZ & HERTZEL, LLP*DO NOT USE*",
+    "Attorney Phone": "(518) 786-9069",
+    "Court Case #": "F00895119",
+    "Defendant": "ROBERT W. INGRAM, JR. A/K/A ROBERT W. INGRAM;\nMRS. ROBERT W. INGRAM, JR., SPOUSE OF ROBERT W.\nINGRAM JR. A/K/A ROBERT W. INGRAM; JENNIFER M. INGRAM;\nMR. JENNIFER M. INGRAM, SPOUSE OF JENNIFER M. INGRAM;\nSTATE OF NEW JERSEY",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER\nTRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES\nTRUST V-C",
+    "Property Note": "",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "FR-21001467"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "5532 WHITMAN TERRACE PENNSAUKEN NJ 08109",
+    "defendant": "ROBERT W. INGRAM, JR. A/K/A ROBERT W. INGRAM; \nMRS. ROBERT W. INGRAM, JR., SPOUSE OF ROBERT W. \nINGRAM JR. A/K/A ROBERT W. INGRAM; JENNIFER M. INGRAM; \nMR. JENNIFER M. INGRAM, SPOUSE OF JENNIFER M. INGRAM; \nSTATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER \nTRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES \nTRUST V-C",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST V-C",
+  "property_note": null,
+  "sale_date": "2026-01-08",
+  "sheriff_number": "FR-21001467",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2021-11-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 193812.22,
+  "upset_amount_label": "Approx. Upset*"
+}

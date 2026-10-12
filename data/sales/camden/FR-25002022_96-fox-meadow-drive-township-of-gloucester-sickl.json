@@ -1,0 +1,65 @@
+{
+  "address": "96 FOX MEADOW DRIVE TOWNSHIP OF GLOUCESTER, SICKLE NJ 08081",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01097324",
+  "current_status": "Purchased",
+  "defendant": "GIANNA ZAMBINO; STEPHEN T. PALESTINI AND UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "96 FOX MEADOW DRIVE\nTOWNSHIP OF GLOUCESTER, SICKLE NJ 08081",
+    "Approx. Upset*": "$190,921.34",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01097324",
+    "Defendant": "GIANNA ZAMBINO; STEPHEN T. PALESTINI AND UNITED STATES OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "M&T BANK,",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25002022"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "96 FOX MEADOW DRIVE TOWNSHIP OF GLOUCESTER, SICKLE NJ 08081",
+    "defendant": "GIANNA ZAMBINO; STEPHEN T. PALESTINI AND UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "M&T BANK,",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "M&T BANK,",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25002022",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 190921.34,
+  "upset_amount_label": "Approx. Upset*"
+}

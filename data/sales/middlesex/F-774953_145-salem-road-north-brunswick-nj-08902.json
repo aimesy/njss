@@ -1,0 +1,64 @@
+{
+  "address": "145 SALEM ROAD NORTH BRUNSWICK NJ 08902",
+  "attorney": "MCGOVERN LEGAL SERVICES",
+  "attorney_file_number": null,
+  "attorney_phone": "732-246-1221",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "DJ 04372419",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "VICTOR SOO HOO",
+  "description": "SUCCESSFULLY POSTED 11/13/2019",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$11,491.00",
+    "Attorney": "MCGOVERN LEGAL SERVICES",
+    "Attorney File #": "",
+    "Attorney Phone": "732-246-1221",
+    "Court Case #": "DJ 04372419",
+    "Defendant": "VICTOR SOO HOO",
+    "Description": "SUCCESSFULLY POSTED 11/13/2019",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 46 C0145 BLOCK 148.02",
+    "Plaintiff": "RENAISSANCE WALK CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "145 SALEM ROAD\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "",
+    "Sale Date": "1/22/2020",
+    "Sheriff #": "F-774953"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 11491.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "145 SALEM ROAD NORTH BRUNSWICK NJ 08902",
+    "defendant": "VICTOR SOO HOO",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "RENAISSANCE WALK CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2020-01-22"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 46 C0145 BLOCK 148.02",
+  "plaintiff": "RENAISSANCE WALK CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2020-01-22",
+  "sheriff_number": "F-774953",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2020-01-22",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2020-01-22",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2020-01-08",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

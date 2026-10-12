@@ -1,0 +1,53 @@
+{
+  "address": "121 KNIGHT AVENUE RUNNEMEDE NJ 08078",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01320725",
+  "current_status": "Scheduled",
+  "defendant": "COLLEEN E. FOX., ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "121 KNIGHT AVENUE\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$230,013.92",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F01320725",
+    "Defendant": "COLLEEN E. FOX., ET AL",
+    "Parcel #": "",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "4/17/2026",
+    "Sheriff #": "FR-26000917"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "121 KNIGHT AVENUE RUNNEMEDE NJ 08078",
+    "defendant": "COLLEEN E. FOX., ET AL",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-04-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-04-17",
+  "sheriff_number": "FR-26000917",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-17",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 230013.92,
+  "upset_amount_label": "Approx. Upset*"
+}

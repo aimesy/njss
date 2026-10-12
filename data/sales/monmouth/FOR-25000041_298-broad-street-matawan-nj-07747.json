@@ -1,0 +1,55 @@
+{
+  "address": "298 Broad Street Matawan NJ 07747",
+  "attorney": "Pluese, Becker & Saltzman",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01339423",
+  "current_status": "Scheduled",
+  "defendant": "Virginia L. Hutcheon her heirs, devisees and personal representatives and his, hers, their or any of their successors in right, title and interest et al.",
+  "description": "Approximate Dimensions: 67' x 168'\nNearest Cross Street: New Jersey State Highway #34\nThe Plaintiff's Upset Bid presently approximates $251,000.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "298 Broad Street\nMatawan NJ 07747",
+    "Approx. Judgment*": "$231,900.09",
+    "Attorney": "Pluese, Becker & Saltzman",
+    "Court Case #": "F01339423",
+    "Defendant": "Virginia L. Hutcheon her heirs, devisees and personal representatives and his, hers, their or any of their successors in right, title and interest et al.",
+    "Description": "Approximate Dimensions: 67' x 168'\nNearest Cross Street: New Jersey State Highway #34\nThe Plaintiff's Upset Bid presently approximates $251,000.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot: #22.02 Block: #49 Located on the tax map of the Borough of Matawan",
+    "Plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing (fka Specialized Loan Servicing LLC)",
+    "Property Note": "",
+    "Sales Date": "3/3/2025",
+    "Sheriff #": "FOR-25000041"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 231900.09,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "298 Broad Street Matawan NJ 07747",
+    "defendant": "Virginia L. Hutcheon her heirs, devisees and personal representatives and his, hers, their or any of their successors in right, title and interest et al.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing (fka Specialized Loan Servicing LLC)",
+    "sale_date": "2025-03-03"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: #22.02 Block: #49 Located on the tax map of the Borough of Matawan",
+  "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing (fka Specialized Loan Servicing LLC)",
+  "property_note": null,
+  "sale_date": "2025-03-03",
+  "sheriff_number": "FOR-25000041",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-03",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

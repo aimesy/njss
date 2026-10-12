@@ -1,0 +1,56 @@
+{
+  "address": "238 E. MAIN STREET BERGENFIELD NJ 07621",
+  "attorney": "MCCARTER AND ENGLISH LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01390223",
+  "current_status": "BANKRUPTCY",
+  "defendant": "ALTON WILLIAMS, JR, BAHIDOKHT WILLIAMS; ET AL",
+  "description": "UPSET PRICE: $573,750.00\nOCCUPANCY STATUS: UPON INFORMATION AND BELIEF, THE PROPERTY IS TENANT-OCCUPIED.",
+  "extracted": {
+    "occupancy": "UPON INFORMATION AND BELIEF, THE PROPERTY IS TENANT-OCCUPIED.",
+    "upset_amount": 573750.0
+  },
+  "fields": {
+    "Address": "238 E. MAIN STREET\nBERGENFIELD NJ 07621",
+    "Approx. Upset*": "$1,842,956.23",
+    "Attorney": "MCCARTER AND ENGLISH LLP",
+    "Court Case #": "F01390223",
+    "Defendant": "ALTON WILLIAMS, JR, BAHIDOKHT WILLIAMS; ET AL",
+    "Description": "UPSET PRICE: $573,750.00\nOCCUPANCY STATUS: UPON INFORMATION AND BELIEF, THE PROPERTY IS TENANT-OCCUPIED.",
+    "Parcel #": "LOT 8, BLOCK 190",
+    "Plaintiff": "FIRST BANK",
+    "Property Note": "",
+    "Sales Date": "11/13/2025",
+    "Sheriff #": "F-25001876"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "238 E. MAIN STREET BERGENFIELD NJ 07621",
+    "defendant": "ALTON WILLIAMS, JR, BAHIDOKHT WILLIAMS; ET AL",
+    "listing_status": null,
+    "plaintiff": "FIRST BANK",
+    "sale_date": "2025-11-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 8, BLOCK 190",
+  "plaintiff": "FIRST BANK",
+  "property_note": null,
+  "sale_date": "2025-11-13",
+  "sheriff_number": "F-25001876",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-09-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-13",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 1842956.23,
+  "upset_amount_label": "Approx. Upset*"
+}

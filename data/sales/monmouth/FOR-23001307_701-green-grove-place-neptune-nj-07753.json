@@ -1,0 +1,68 @@
+{
+  "address": "701 Green Grove Place Neptune NJ 07753",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00066422",
+  "current_status": "Scheduled",
+  "defendant": "Mary F. Kenny, et al",
+  "description": "Nearest Cross Street: Approximately 96.04ft to the nearest cross street known as West Bangs Avenue\nDimensions: 96.04ft x 108.00ft x 96.04ft x 108.00ft\nOccupancy Status: Borrowed occupied.\nApproximate upset price is $425,049.21 for the Sheriff's sale.\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 5494 Page 292\nPursuant to a municipal tax search dated September 26, 2024\nSubject to: 2024 4th quarter taxes due 11/01/2024, $2,189.36 OPEN\n2025 1st quarter taxes due 02/01/2025, $1,983.01 OPEN\nSewer: 07/01/2024 - 12/31/2024, $230.00 OPEN PLUS PENALTY; $690.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "extracted": {
+    "occupancy": "Borrowed occupied.",
+    "upset_amount": 425049.21
+  },
+  "fields": {
+    "Address": "701 Green Grove Place\nNeptune NJ 07753",
+    "Approx. Judgment*": "$374,994.33",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00066422",
+    "Defendant": "Mary F. Kenny, et al",
+    "Description": "Nearest Cross Street: Approximately 96.04ft to the nearest cross street known as West Bangs Avenue\nDimensions: 96.04ft x 108.00ft x 96.04ft x 108.00ft\nOccupancy Status: Borrowed occupied.\nApproximate upset price is $425,049.21 for the Sheriff's sale.\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 5494 Page 292\nPursuant to a municipal tax search dated September 26, 2024\nSubject to: 2024 4th quarter taxes due 11/01/2024, $2,189.36 OPEN\n2025 1st quarter taxes due 02/01/2025, $1,983.01 OPEN\nSewer: 07/01/2024 - 12/31/2024, $230.00 OPEN PLUS PENALTY; $690.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Parcel #": "Lot: 14 n/k/a 8; Block: 9021 n/k/a/2510 Tax Map of Township of Neptune",
+    "Plaintiff": "Deutsche Bank National Trust Company, as Indenture Trustee, for New Century Home Equity Loan Trust 2005-3",
+    "Property Note": "",
+    "Sales Date": "1/6/2025",
+    "Sheriff #": "FOR-23001307"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 374994.33,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "701 Green Grove Place Neptune NJ 07753",
+    "defendant": "Mary F. Kenny, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Deutsche Bank National Trust Company, as Indenture Trustee, for New Century Home Equity Loan Trust 2005-3",
+    "sale_date": "2025-01-06"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 14 n/k/a 8; Block: 9021 n/k/a/2510 Tax Map of Township of Neptune",
+  "plaintiff": "Deutsche Bank National Trust Company, as Indenture Trustee, for New Century Home Equity Loan Trust 2005-3",
+  "property_note": null,
+  "sale_date": "2025-01-06",
+  "sheriff_number": "FOR-23001307",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-06",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-07-31",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-07-31",
+      "status": "Scheduled"
+    }
+  ]
+}

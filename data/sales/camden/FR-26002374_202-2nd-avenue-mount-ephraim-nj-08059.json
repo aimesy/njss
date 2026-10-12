@@ -1,0 +1,49 @@
+{
+  "address": "202 2ND AVENUE MOUNT EPHRAIM NJ 08059",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00274826",
+  "current_status": "Scheduled",
+  "defendant": "MATTHEW ROMANO; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "202 2ND AVENUE\nMOUNT EPHRAIM NJ 08059",
+    "Approx. Upset*": "$195,621.31",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00274826",
+    "Defendant": "MATTHEW ROMANO; ET AL.,",
+    "Parcel #": "Tax Lot(s): 3, in Block: 13",
+    "Plaintiff": "AMERIHOME MORTGAGE COMPANY LLC,",
+    "Property Note": "Tax Certificate\nRecorded: December 04, 2012\nHolder: US Bank Cust For Pro Capital I LLC\nAmount: $404.86\nBook: 9706\nPage: 1601\nInstrument Number: Cert. No: 152012\nTax Certificate\nRecorded: January 13, 2015\nHolder: US Bank Cust For PC4 Firstrust\nAmount: $112.89\nBook: 10133\nPage: 1919\nInstrument Number: Cert. No: 13-00011\nTax Certificate\nRecorded: January 13, 2021\nHolder: Trystone Capital Assets LLC Amount: $151.00\nBook: 11594\nPage: 724\nInstrument Number: Cert. No: 19-00041\nTax Certificate\nRecorded: August 22, 2025\nHolder: Pro Cap 8 FBO Firstrust Bank\nAmount: $240.29\nBook: 12900\nPage: 986\nInstrument Number: Cert. No: 24-00044",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "FR-26002374"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "202 2ND AVENUE MOUNT EPHRAIM NJ 08059",
+    "defendant": "MATTHEW ROMANO; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "AMERIHOME MORTGAGE COMPANY LLC,",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot(s): 3, in Block: 13",
+  "plaintiff": "AMERIHOME MORTGAGE COMPANY LLC,",
+  "property_note": "Tax Certificate\nRecorded: December 04, 2012\nHolder: US Bank Cust For Pro Capital I LLC\nAmount: $404.86\nBook: 9706\nPage: 1601\nInstrument Number: Cert. No: 152012\nTax Certificate\nRecorded: January 13, 2015\nHolder: US Bank Cust For PC4 Firstrust\nAmount: $112.89\nBook: 10133\nPage: 1919\nInstrument Number: Cert. No: 13-00011\nTax Certificate\nRecorded: January 13, 2021\nHolder: Trystone Capital Assets LLC Amount: $151.00\nBook: 11594\nPage: 724\nInstrument Number: Cert. No: 19-00041\nTax Certificate\nRecorded: August 22, 2025\nHolder: Pro Cap 8 FBO Firstrust Bank\nAmount: $240.29\nBook: 12900\nPage: 986\nInstrument Number: Cert. No: 24-00044",
+  "sale_date": "2026-11-18",
+  "sheriff_number": "FR-26002374",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 195621.31,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "24 KENSINGTON AVENUE OLD BRIDGE NJ 08857",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-797-1100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00862624",
+  "current_status": "Settled",
+  "defendant": "JAMES R. GOUGEON, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$18,386.79",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-797-1100",
+    "Court Case #": "F00862624",
+    "Defendant": "JAMES R. GOUGEON, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 9 BLOCK 18031",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Address": "24 KENSINGTON AVENUE\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "3/21/2025",
+    "Sheriff #": "F-25000478"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 18386.79,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "24 KENSINGTON AVENUE OLD BRIDGE NJ 08857",
+    "defendant": "JAMES R. GOUGEON, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2025-03-21"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 9 BLOCK 18031",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-03-21",
+  "sheriff_number": "F-25000478",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-21",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

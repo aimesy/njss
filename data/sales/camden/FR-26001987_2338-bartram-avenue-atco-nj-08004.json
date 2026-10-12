@@ -1,0 +1,53 @@
+{
+  "address": "2338 BARTRAM AVENUE ATCO NJ 08004",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00834924",
+  "current_status": "Scheduled",
+  "defendant": "PAUL BERENATO III; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "2338 BARTRAM AVENUE\nATCO NJ 08004",
+    "Approx. Upset*": "$216,797.78",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00834924",
+    "Defendant": "PAUL BERENATO III; ET AL.,",
+    "Parcel #": "Tax Lot(s): 13, in Block: 1605",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE\nFOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V,",
+    "Property Note": "Tax Certificate\nRecorded: August 22, 2024 Holder: Loramark Capital LLC\nAmount: $484.77\nBook: 12644\nPage: 1485\nInstrument Number: 24-00026",
+    "Sales Date": "9/23/2026",
+    "Sheriff #": "FR-26001987"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2338 BARTRAM AVENUE ATCO NJ 08004",
+    "defendant": "PAUL BERENATO III; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE \nFOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V,",
+    "sale_date": "2026-09-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot(s): 13, in Block: 1605",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V,",
+  "property_note": "Tax Certificate\nRecorded: August 22, 2024 Holder: Loramark Capital LLC\nAmount: $484.77\nBook: 12644\nPage: 1485\nInstrument Number: 24-00026",
+  "sale_date": "2026-09-23",
+  "sheriff_number": "FR-26001987",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-23",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 216797.78,
+  "upset_amount_label": "Approx. Upset*"
+}

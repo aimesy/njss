@@ -1,0 +1,61 @@
+{
+  "address": "210 LAKE AVENUE GLENDORA NJ 08029",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01026524",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "HERIBERTO BONILLA III, DECEASED, HIS HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "210 LAKE AVENUE\nGLENDORA NJ 08029",
+    "Approx. Upset*": "$200,503.56",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F01026524",
+    "Defendant": "HERIBERTO BONILLA III, DECEASED, HIS HEIRS, DEVISEES, AND PERSONAL\nREPRESENTATIVES, AND HIS, THEIR, OR ANY OF THEIR SUCCESSORS\nIN RIGHT, TITLE AND INTEREST, ET AL.",
+    "Parcel #": "LOT 3 AND 2, BLOCK 1803 ON THE OFFICAL TAX MAP OF THE GLOUCESTER TOWNSHIP",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "Pursuant to 28 USC 2410(c) this sale subject to a 1 year right of redemption held by the United States of America by virtue of its lien:\nMortgage: Heriberto Bonilla III to Secretary of Housing and Urban Development, dated 12/22/2023 and recorded on 02/08/2024, in Book 12514, Page 907, as File number 2024009093, to Secure $24,320.93\nSubject to the tax sales certificate #25–04642 for the 3rd party sewer and CCMUA in the amount of $796.19. Third party purchaser is responsible for obtaining final amount to redeem.",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001371"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "210 LAKE AVENUE GLENDORA NJ 08029",
+    "defendant": "HERIBERTO BONILLA III, DECEASED, HIS HEIRS, DEVISEES, AND PERSONAL \nREPRESENTATIVES, AND HIS, THEIR, OR ANY OF THEIR SUCCESSORS \nIN RIGHT, TITLE AND INTEREST, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 3 AND 2, BLOCK 1803 ON THE OFFICAL TAX MAP OF THE GLOUCESTER TOWNSHIP",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "Pursuant to 28 USC 2410(c) this sale subject to a 1 year right of redemption held by the United States of America by virtue of its lien:\nMortgage: Heriberto Bonilla III to Secretary of Housing and Urban Development, dated 12/22/2023 and recorded on 02/08/2024, in Book 12514, Page 907, as File number 2024009093, to Secure $24,320.93\nSubject to the tax sales certificate #25–04642 for the 3rd party sewer and CCMUA in the amount of $796.19. Third party purchaser is responsible for obtaining final amount to redeem.",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001371",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 200503.56,
+  "upset_amount_label": "Approx. Upset*"
+}

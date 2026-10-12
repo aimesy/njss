@@ -1,0 +1,92 @@
+{
+  "address": "80 EAST GROVE STREET BOGOTA NJ 07603",
+  "attorney": "STERN AND EISENBERG PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00738723",
+  "current_status": "Cancelled",
+  "defendant": "BRUCE R PUMO AND DEBRA J PUMO ET AL",
+  "description": "Upset Price: $196,240.68, good through December 12, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.",
+  "extracted": {
+    "occupancy": "Occupancy status at the property is unknown.",
+    "upset_amount": 196240.68
+  },
+  "fields": {
+    "Address": "80 EAST GROVE STREET\nBOGOTA NJ 07603",
+    "Approx. Upset*": "$166,221.90",
+    "Attorney": "STERN AND EISENBERG PC",
+    "Court Case #": "F00738723",
+    "Defendant": "BRUCE R PUMO AND DEBRA J PUMO ET AL",
+    "Description": "Upset Price: $196,240.68, good through December 12, 2025 and any additional sums as ordered by the court.\nOccupancy Status: Occupancy status at the property is unknown.",
+    "Parcel #": "LOT 8, BLOCK 18",
+    "Plaintiff": "HSBC BANK USA NATIONAL ASSOCIATION AS TRUSTEE FOR THE REGISTERED HOLDERS OF NOMURA HOME EQUITY HOME LOAN INC ASSET BACKED CERTIFICATES SERIES 2007 2",
+    "Property Note": "",
+    "Sales Date": "12/19/2025",
+    "Sheriff #": "F-23003584"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "80 EAST GROVE STREET BOGOTA NJ 07603",
+    "defendant": "BRUCE R PUMO AND DEBRA J PUMO ET AL",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA NATIONAL ASSOCIATION AS TRUSTEE FOR THE REGISTERED HOLDERS OF NOMURA HOME EQUITY HOME LOAN INC ASSET BACKED CERTIFICATES SERIES 2007 2",
+    "sale_date": "2025-12-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 8, BLOCK 18",
+  "plaintiff": "HSBC BANK USA NATIONAL ASSOCIATION AS TRUSTEE FOR THE REGISTERED HOLDERS OF NOMURA HOME EQUITY HOME LOAN INC ASSET BACKED CERTIFICATES SERIES 2007 2",
+  "property_note": null,
+  "sale_date": "2025-12-19",
+  "sheriff_number": "F-23003584",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2024-01-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-02-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-04-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-12-06",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-05-30",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-08-22",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-09-26",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-19",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-19",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 166221.9,
+  "upset_amount_label": "Approx. Upset*"
+}

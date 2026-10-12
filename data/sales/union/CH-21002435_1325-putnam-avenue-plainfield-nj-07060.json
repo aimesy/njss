@@ -1,0 +1,72 @@
+{
+  "address": "1325 PUTNAM AVENUE PLAINFIELD NJ 07060",
+  "attorney": "GREENSPOON MARDER, LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01690019",
+  "current_status": "Cancelled",
+  "defendant": "ETHEL JUANITA FOLKES AND UNITED STATES OF AMERICA ACTING ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+  "description": "LOT 8 BLOCK 631",
+  "extracted": {
+    "block": "631",
+    "lot": "8"
+  },
+  "fields": {
+    "Address": "1325 PUTNAM AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$428,123.93",
+    "Attorney": "GREENSPOON MARDER, LLP",
+    "Court Case #": "F01690019",
+    "Defendant": "ETHEL JUANITA FOLKES AND UNITED STATES OF AMERICA ACTING ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+    "Description": "LOT 8 BLOCK 631",
+    "Parcel #": "LOT 8 BLOCK 631",
+    "Plaintiff": "REVERSE MORTGAGE FUNDING LLC",
+    "Property Note": "",
+    "Sales Date": "9/14/2026",
+    "Sheriff #": "CH-21002435"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1325 PUTNAM AVENUE PLAINFIELD NJ 07060",
+    "defendant": "ETHEL JUANITA FOLKES AND UNITED STATES OF AMERICA ACTING ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+    "listing_status": null,
+    "plaintiff": "REVERSE MORTGAGE FUNDING LLC",
+    "sale_date": "2026-09-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 8 BLOCK 631",
+  "plaintiff": "REVERSE MORTGAGE FUNDING LLC",
+  "property_note": null,
+  "sale_date": "2026-09-14",
+  "sheriff_number": "CH-21002435",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2022-02-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-03-02",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2022-04-27",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-05-25",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2022-05-25",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 428123.93,
+  "upset_amount_label": "Approx. Upset*"
+}

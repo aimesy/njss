@@ -1,0 +1,58 @@
+{
+  "address": "306 Folsom Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005230-25",
+  "current_status": "Scheduled",
+  "deed": "Yogesh Patel, Rakesh Patel, Harshad Patel, Vishal Brahmbhatt",
+  "deed_address": "466A Damson Ave Galloway, NJ 08205",
+  "defendant": "Hunter J. Fox; Mrs./Mr. Fox spouse or civil union partner of Hunter J. Fox; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "306 Folsom Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$193,381.54",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-005230-25",
+    "Deed": "Yogesh Patel, Rakesh Patel, Harshad Patel, Vishal Brahmbhatt",
+    "Deed Address": "466A Damson Ave Galloway, NJ 08205",
+    "Defendant": "Hunter J. Fox; Mrs./Mr. Fox spouse or civil union partner of Hunter J. Fox; United States of America",
+    "Plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/15/2026",
+    "Sheriff #": "F-25001156",
+    "Upset Amount": "$216,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 193381.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "306 Folsom Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Hunter J. Fox; Mrs./...",
+    "listing_status": null,
+    "plaintiff": "Newrez LLC d/b/a She...",
+    "sale_date": "2026-01-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-15",
+  "sheriff_number": "F-25001156",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-15",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 216000.0,
+  "upset_amount_label": "Upset Amount"
+}

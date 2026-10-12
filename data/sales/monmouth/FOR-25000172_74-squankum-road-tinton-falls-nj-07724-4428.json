@@ -1,0 +1,51 @@
+{
+  "address": "74 Squankum Road Tinton Falls NJ 07724-4428",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00737324",
+  "current_status": "Reinstated",
+  "defendant": "Dawn Ledbetter, et al",
+  "description": "Dimensions of Lot (approximately): 215' x 693'\nNearest Cross Street: Benson St. W.\nApprox Upset Price - $250,898.03\nProperty Status - Borrower Occupied\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 250898.03
+  },
+  "fields": {
+    "Address": "74 Squankum Road\nTinton Falls NJ 07724-4428",
+    "Approx. Judgment*": "$233,791.81",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F00737324",
+    "Defendant": "Dawn Ledbetter, et al",
+    "Description": "Dimensions of Lot (approximately): 215' x 693'\nNearest Cross Street: Benson St. W.\nApprox Upset Price - $250,898.03\nProperty Status - Borrower Occupied\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Block 105, Lot 7 Tax Map of the Borough of Tinton Falls",
+    "Plaintiff": "Citizens Bank N.A.",
+    "Property Note": "",
+    "Sales Date": "3/7/2025",
+    "Sheriff #": "FOR-25000172"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 233791.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "74 Squankum Road Tinton Falls NJ 07724-4428",
+    "defendant": "Dawn Ledbetter, et al",
+    "listing_status": "Reinstated",
+    "plaintiff": "Citizens Bank N.A.",
+    "sale_date": "2025-03-07"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 105, Lot 7 Tax Map of the Borough of Tinton Falls",
+  "plaintiff": "Citizens Bank N.A.",
+  "property_note": null,
+  "sale_date": "2025-03-07",
+  "sheriff_number": "FOR-25000172",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-07",
+      "status": "Reinstated"
+    }
+  ]
+}

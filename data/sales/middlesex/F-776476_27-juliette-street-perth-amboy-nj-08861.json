@@ -1,0 +1,80 @@
+{
+  "address": "27 JULIETTE STREET PERTH AMBOY NJ 08861",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00643923",
+  "current_status": "Adjourned - Plaintiff",
+  "defendant": "JOANNE ONDEYKO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$164,615.28",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F00643923",
+    "Defendant": "JOANNE ONDEYKO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 108 BLOCK 5.09",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Address": "27 JULIETTE STREET\nPERTH AMBOY NJ 08861",
+    "Property Note": "SUCCESSFULLY POSTED 10/28/2024 BY W. MCGRAFF AREA3 SERVER RECEIVED DATE 10/247/2024",
+    "Sale Date": "2/10/2025",
+    "Sheriff #": "F-776476"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 164615.28,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "27 JULIETTE STREET PERTH AMBOY NJ 08861",
+    "defendant": "JOANNE ONDEYKO, ET ALS.",
+    "listing_status": "Redeemed",
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2025-02-10"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 108 BLOCK 5.09",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": "SUCCESSFULLY POSTED 10/28/2024 BY W. MCGRAFF AREA3 SERVER RECEIVED DATE 10/247/2024",
+  "sale_date": "2025-02-10",
+  "sheriff_number": "F-776476",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-10",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-08-14",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-07-17",
+      "status": "Adjourned - Plaintiff"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

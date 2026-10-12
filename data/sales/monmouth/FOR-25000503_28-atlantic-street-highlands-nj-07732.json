@@ -1,0 +1,52 @@
+{
+  "address": "28 Atlantic Street Highlands NJ 07732",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00984624",
+  "current_status": "Canceled",
+  "defendant": "Patricia N. Izzo, et al",
+  "description": "Approximate dimensions: 88.04 x 60.00 x 83.06 x 60.24 Feet Irregular\nNearest cross street: Bay Avenue\nUpset Price: $249,547.87\nOccupancy Status: Occupied\n**To the best of this firm's knowledge, the property is a not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 249547.87
+  },
+  "fields": {
+    "Address": "28 Atlantic Street\nHighlands NJ 07732",
+    "Approx. Judgment*": "$228,134.69",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00984624",
+    "Defendant": "Patricia N. Izzo, et al",
+    "Description": "Approximate dimensions: 88.04 x 60.00 x 83.06 x 60.24 Feet Irregular\nNearest cross street: Bay Avenue\nUpset Price: $249,547.87\nOccupancy Status: Occupied\n**To the best of this firm's knowledge, the property is a not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 1, Block 72 Tax Map of Borough of Highlands",
+    "Plaintiff": "JPMorgan Chase Bank, National Association",
+    "Property Note": "",
+    "Sales Date": "5/8/2025",
+    "Sheriff #": "FOR-25000503"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 228134.69,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "28 Atlantic Street Highlands NJ 07732",
+    "defendant": "Patricia N. Izzo, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "JPMorgan Chase Bank, National Association",
+    "sale_date": "2025-05-08"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 1, Block 72 Tax Map of Borough of Highlands",
+  "plaintiff": "JPMorgan Chase Bank, National Association",
+  "property_note": null,
+  "sale_date": "2025-05-08",
+  "sheriff_number": "FOR-25000503",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-08",
+      "status": "Canceled"
+    }
+  ]
+}

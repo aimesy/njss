@@ -1,0 +1,90 @@
+{
+  "address": "5907 Harley Avenue Mays Landing NJ 08330",
+  "attorney": "LOGS Legal Group LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009410-23",
+  "current_status": "Scheduled",
+  "deed": "Lively Investment Group LLC",
+  "deed_address": "196 Ardmore Rd Mays Landing, NJ 08330",
+  "defendant": "Jannas Stokes a/k/a Jannas A. Stokes, His/her Heirs, Devisees, and Personal Representatives and his/her, their or any of their successors in Right, Title, and Interest; Jerome Bennett; Clarence Michael Donovan Stokes; Leo Busby; Yvonne M. Stokes; Yolanda L. Stokes; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "5907 Harley Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$63,345.98",
+    "Attorney": "LOGS Legal Group LLP",
+    "Court Case #": "F-009410-23",
+    "Deed": "Lively Investment Group LLC",
+    "Deed Address": "196 Ardmore Rd Mays Landing, NJ 08330",
+    "Defendant": "Jannas Stokes a/k/a Jannas A. Stokes, His/her Heirs, Devisees, and Personal Representatives and his/her, their or any of their successors in Right, Title, and Interest; Jerome Bennett; Clarence Michael Donovan Stokes; Leo Busby; Yvonne M. Stokes; Yolanda L. Stokes; State of New Jersey; United States of America",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24000337",
+    "Upset Amount": "$76,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 63345.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5907 Harley Avenue Mays Landing NJ 08330",
+    "defendant": "Jannas Stokes a/k/a ...",
+    "listing_status": null,
+    "plaintiff": "Nationstar Mortgage ...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24000337",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-12-12",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-29",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-01",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-07-11",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-06-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 76000.0,
+  "upset_amount_label": "Upset Amount"
+}

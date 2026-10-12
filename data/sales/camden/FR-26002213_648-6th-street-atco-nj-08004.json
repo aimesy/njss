@@ -1,0 +1,49 @@
+{
+  "address": "648 6TH STREET ATCO NJ 08004",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00407826",
+  "current_status": "Scheduled",
+  "defendant": "MICHELE PARKER, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "648 6TH STREET\nATCO NJ 08004",
+    "Approx. Upset*": "$211,853.92",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00407826",
+    "Defendant": "MICHELE PARKER, ET AL",
+    "Parcel #": "Tax Lot No. 41 Block 2801",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002213"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "648 6TH STREET ATCO NJ 08004",
+    "defendant": "MICHELE PARKER, ET AL",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot No. 41 Block 2801",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002213",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 211853.92,
+  "upset_amount_label": "Approx. Upset*"
+}

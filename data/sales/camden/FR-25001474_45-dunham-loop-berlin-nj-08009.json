@@ -1,0 +1,73 @@
+{
+  "address": "45 DUNHAM LOOP BERLIN NJ 08009",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00552124",
+  "current_status": "Settled",
+  "defendant": "HARRISON DALEY, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "45 DUNHAM LOOP\nBERLIN NJ 08009",
+    "Approx. Upset*": "$321,502.00",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00552124",
+    "Defendant": "HARRISON DALEY, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "REGIONS BANK D/B/A REGIONS MORTGAGE",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "FR-25001474"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "45 DUNHAM LOOP BERLIN NJ 08009",
+    "defendant": "HARRISON DALEY, ET AL.",
+    "listing_status": null,
+    "plaintiff": "REGIONS BANK D/B/A REGIONS MORTGAGE",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "REGIONS BANK D/B/A REGIONS MORTGAGE",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "FR-25001474",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 321502.0,
+  "upset_amount_label": "Approx. Upset*"
+}

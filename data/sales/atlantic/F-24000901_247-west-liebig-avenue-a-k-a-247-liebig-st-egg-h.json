@@ -1,0 +1,70 @@
+{
+  "address": "247 West Liebig Avenue a/k/a 247 Liebig St Egg Harbor City NJ 08215",
+  "attorney": "Stern & Eisenberg, PC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001709-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Justin Caruso; Mrs. Caruso, Unknown spouse of Justin Caruso; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "247 West Liebig Avenue\na/k/a 247 Liebig St\nEgg Harbor City NJ 08215",
+    "Approx. Judgment*": "$171,897.70",
+    "Attorney": "Stern & Eisenberg, PC",
+    "Court Case #": "F-001709-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Justin Caruso; Mrs. Caruso, Unknown spouse of Justin Caruso; State of New Jersey",
+    "Plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/14/2024",
+    "Sheriff #": "F-24000901",
+    "Upset Amount": "$189,965.73"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 171897.7,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "247 West Liebig Avenue a/k/a 247 Liebig St Egg Harbor City NJ 08215",
+    "defendant": "Justin Caruso; Mrs. ...",
+    "listing_status": null,
+    "plaintiff": "Rocket Mortgage, LLC...",
+    "sale_date": "2024-11-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-14",
+  "sheriff_number": "F-24000901",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-14",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-19",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 189965.73,
+  "upset_amount_label": "Upset Amount"
+}

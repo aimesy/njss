@@ -1,0 +1,53 @@
+{
+  "address": "924 NORTH 19TH STREET CAMDEN NJ 08105",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01181523",
+  "current_status": "Scheduled",
+  "defendant": "CRUZ CALDERON; CITY OF CAMDEN; LEXINTON NATIONAL INSURANCE CORPORATION AND TOWD POINT MORTGAGE TRUST ASSET-BAKED SECURITIES, SERIES 2019-SJ2, U.S. BANK NATIONAL ASSOCIATION AS INDENTURES TRUSTEE,",
+  "extracted": {},
+  "fields": {
+    "Address": "924 NORTH 19TH STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$20,328.96",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01181523",
+    "Defendant": "CRUZ CALDERON; CITY OF CAMDEN; LEXINTON\nNATIONAL INSURANCE CORPORATION AND TOWD POINT\nMORTGAGE TRUST ASSET-BAKED SECURITIES, SERIES\n2019-SJ2, U.S. BANK NATIONAL ASSOCIATION AS\nINDENTURES TRUSTEE,",
+    "Parcel #": "",
+    "Plaintiff": "GSMPS MORTGAGE LOAN TRUST 2006-RP2, MORTGAGE\nPASS-THROUGH CERTIFICATES, SERIES 2006-RP2, U.S.\nBANK NATIONAL ASSOCIATION, AS TRUSTEE,",
+    "Property Note": "",
+    "Sales Date": "5/19/2026",
+    "Sheriff #": "FR-26000390"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "924 NORTH 19TH STREET CAMDEN NJ 08105",
+    "defendant": "CRUZ CALDERON; CITY OF CAMDEN; LEXINTON \nNATIONAL INSURANCE CORPORATION AND TOWD POINT \nMORTGAGE TRUST ASSET-BAKED SECURITIES, SERIES \n2019-SJ2, U.S. BANK NATIONAL ASSOCIATION AS \nINDENTURES TRUSTEE,",
+    "listing_status": null,
+    "plaintiff": "GSMPS MORTGAGE LOAN TRUST 2006-RP2, MORTGAGE \nPASS-THROUGH CERTIFICATES, SERIES 2006-RP2, U.S. \nBANK NATIONAL ASSOCIATION, AS TRUSTEE,",
+    "sale_date": "2026-05-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "GSMPS MORTGAGE LOAN TRUST 2006-RP2, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-RP2, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE,",
+  "property_note": null,
+  "sale_date": "2026-05-19",
+  "sheriff_number": "FR-26000390",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-19",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 20328.96,
+  "upset_amount_label": "Approx. Upset*"
+}

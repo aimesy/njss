@@ -1,0 +1,68 @@
+{
+  "address": "408 HOMANS AVENUE CLOSTER NJ 07624",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00992423",
+  "current_status": "Cancelled",
+  "defendant": "THAMES YOL KIM, HIS UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, JANET Y KIM, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, FERDINAND KIM, ET AL",
+  "description": "UPSET PRICE: $69,895.86\nOCCUPANCY STATUS: VACANT",
+  "extracted": {
+    "occupancy": "VACANT",
+    "upset_amount": 69895.86
+  },
+  "fields": {
+    "Address": "408 HOMANS AVENUE\nCLOSTER NJ 07624",
+    "Approx. Upset*": "$85,883.43",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Court Case #": "F00992423",
+    "Defendant": "THAMES YOL KIM, HIS UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, JANET Y KIM, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, FERDINAND KIM, ET AL",
+    "Description": "UPSET PRICE: $69,895.86\nOCCUPANCY STATUS: VACANT",
+    "Parcel #": "LOT 8 (FKA 10.E), BLOCK 2306 (FKA 239)",
+    "Plaintiff": "M&T BANK",
+    "Property Note": "",
+    "Sales Date": "3/31/2026",
+    "Sheriff #": "F-25002411"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "408 HOMANS AVENUE CLOSTER NJ 07624",
+    "defendant": "THAMES YOL KIM, HIS UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, JANET Y KIM, HER UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, FERDINAND KIM, ET AL",
+    "listing_status": null,
+    "plaintiff": "M&T BANK",
+    "sale_date": "2026-03-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 8 (FKA 10.E), BLOCK 2306 (FKA 239)",
+  "plaintiff": "M&T BANK",
+  "property_note": null,
+  "sale_date": "2026-03-31",
+  "sheriff_number": "F-25002411",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 85883.43,
+  "upset_amount_label": "Approx. Upset*"
+}

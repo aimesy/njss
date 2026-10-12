@@ -1,0 +1,49 @@
+{
+  "address": "322 Poole Avenue Long Branch NJ 07740",
+  "attorney": "Hladik, Onorato & Federman, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00585925",
+  "current_status": "Settled",
+  "defendant": "Nicole M. Miller aka Nicole M. Janis et als.",
+  "description": "Approximate Dimensions: 175.09 x 347.01 x 175.00 x 352.25\nNearest Cross Street: Prospect Street\nEstimated Upset Sheriff's Sale Bid Amount: $403,000.00 Subject to any further Orders of additional sums executed by the court",
+  "extracted": {},
+  "fields": {
+    "Address": "322 Poole Avenue\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$365,114.34",
+    "Attorney": "Hladik, Onorato & Federman, LLP",
+    "Court Case #": "F00585925",
+    "Defendant": "Nicole M. Miller aka Nicole M. Janis et als.",
+    "Description": "Approximate Dimensions: 175.09 x 347.01 x 175.00 x 352.25\nNearest Cross Street: Prospect Street\nEstimated Upset Sheriff's Sale Bid Amount: $403,000.00 Subject to any further Orders of additional sums executed by the court",
+    "Parcel #": "Block: 187 Lot: 13.09 located on the Tax map of the City of Long Branch",
+    "Plaintiff": "United Asset Management, LLC",
+    "Property Note": "",
+    "Sales Date": "3/10/2026",
+    "Sheriff #": "FOR-26000125"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 365114.34,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "322 Poole Avenue Long Branch NJ 07740",
+    "defendant": "Nicole M. Miller aka Nicole M. Janis et als.",
+    "listing_status": "Settled",
+    "plaintiff": "United Asset Management, LLC",
+    "sale_date": "2026-03-10"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block: 187 Lot: 13.09 located on the Tax map of the City of Long Branch",
+  "plaintiff": "United Asset Management, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-10",
+  "sheriff_number": "FOR-26000125",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-10",
+      "status": "Settled"
+    }
+  ]
+}

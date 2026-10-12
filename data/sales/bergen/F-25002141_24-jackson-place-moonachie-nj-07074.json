@@ -1,0 +1,64 @@
+{
+  "address": "24 JACKSON PLACE MOONACHIE NJ 07074",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00020225",
+  "current_status": "BANKRUPTCY",
+  "defendant": "DEBRA MURPHY; ET AL",
+  "description": "UPSET PRICE: APPROXIMATELY: $448,269.75 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "occupancy": "OCCUPIED BY UNKNOWN",
+    "upset_amount": 448269.75
+  },
+  "fields": {
+    "Address": "24 JACKSON PLACE\nMOONACHIE NJ 07074",
+    "Approx. Upset*": "$410,651.52",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN AND GORDON LLP",
+    "Court Case #": "F00020225",
+    "Defendant": "DEBRA MURPHY; ET AL",
+    "Description": "UPSET PRICE: APPROXIMATELY: $448,269.75 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Parcel #": "LOT 13, BLOCK 46",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2018-1, US BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "1/9/2026",
+    "Sheriff #": "F-25002141"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "24 JACKSON PLACE MOONACHIE NJ 07074",
+    "defendant": "DEBRA MURPHY; ET AL",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2018-1, US BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "sale_date": "2026-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 13, BLOCK 46",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2018-1, US BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-01-09",
+  "sheriff_number": "F-25002141",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 410651.52,
+  "upset_amount_label": "Approx. Upset*"
+}

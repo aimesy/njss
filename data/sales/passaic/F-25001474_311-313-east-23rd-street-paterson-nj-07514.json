@@ -1,0 +1,76 @@
+{
+  "address": "311-313 East 23RD Street Paterson NJ 07514",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 006675 22 CTL# 163043",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "LIZZIE WILBUR ET ALS",
+  "description": "Dimensions of Lot: 37 feet wide by 100 feet long\nNearest Cross Street: 7th Ave\nEstimated upset bid amount: $506,700.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2025 Qtr 2 Due: 05/01/2025 $2,409.85 BILLED: $2,342.67 OPEN PLUS PENALTY; $67.18 PAID\n2025 Qtr 3 Due: 08/01/2025 $2,508.84 OPEN PLUS PENALTY; ESTIMATED TAX BILL\nSewer: Paterson Sewer Dept. 155 Market St. Paterson, NJ 07501 973-321-1230\nAcct: 10002208 0 07/01/2025 - 09/30/2025 $170.50 OPEN PLUS PENALTY $340.43 OPEN PLUS PENALTY\nVacant lot charge: Property Registration Fee Exist. Please contact the Division of Community Improvement at 973-321-1232 for more information.",
+  "extracted": {
+    "lot": "37",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "311-313 East 23RD Street\nPaterson NJ 07514",
+    "Approx. Upset*": "$467,466.94",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 006675 22 CTL# 163043",
+    "Defendant": "LIZZIE WILBUR ET ALS",
+    "Description": "Dimensions of Lot: 37 feet wide by 100 feet long\nNearest Cross Street: 7th Ave\nEstimated upset bid amount: $506,700.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\n2025 Qtr 2 Due: 05/01/2025 $2,409.85 BILLED: $2,342.67 OPEN PLUS PENALTY; $67.18 PAID\n2025 Qtr 3 Due: 08/01/2025 $2,508.84 OPEN PLUS PENALTY; ESTIMATED TAX BILL\nSewer: Paterson Sewer Dept. 155 Market St. Paterson, NJ 07501 973-321-1230\nAcct: 10002208 0 07/01/2025 - 09/30/2025 $170.50 OPEN PLUS PENALTY $340.43 OPEN PLUS PENALTY\nVacant lot charge: Property Registration Fee Exist. Please contact the Division of Community Improvement at 973-321-1232 for more information.",
+    "Parcel #": "Tax Lot 6 F/K/A 5 Block 2713 F/K/A C0330",
+    "Plaintiff": "MORTGAGE ASSETS MANAGEMENT LLC",
+    "Property Note": "",
+    "Sales Date": "5/5/2026",
+    "Sheriff #": "F-25001474"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "311-313 East 23RD Street Paterson NJ 07514",
+    "defendant": "LIZZIE WILBUR ET ALS",
+    "listing_status": null,
+    "plaintiff": "MORTGAGE ASSETS MANAGEMENT LLC",
+    "sale_date": "2026-05-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 6 F/K/A 5 Block 2713 F/K/A C0330",
+  "plaintiff": "MORTGAGE ASSETS MANAGEMENT LLC",
+  "property_note": null,
+  "sale_date": "2026-05-05",
+  "sheriff_number": "F-25001474",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-11-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-05",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 467466.94,
+  "upset_amount_label": "Approx. Upset*"
+}

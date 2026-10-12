@@ -1,0 +1,72 @@
+{
+  "address": "460-468 MITCHELL PLACE PERTH AMBOY NJ 08861",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01072322",
+  "current_status": "Bankruptcy",
+  "defendant": "460 MITCHELL PLACE LLC. ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$863,238.33",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F01072322",
+    "Defendant": "460 MITCHELL PLACE LLC. ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOTS 27, 28, 29, 30 AND 31 BLOCK 186",
+    "Plaintiff": "US BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2019-3",
+    "Property Address": "460-468 MITCHELL PLACE\nPERTH AMBOY NJ 08861",
+    "Property Note": "SUCCESSFULLY POSTED 10/28/2024 AREA 3 POSTED BY W. MCGRAFF. SERVER RECEIVED DATE 10/24/2024",
+    "Sale Date": "6/11/2025",
+    "Sheriff #": "F-776377"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 863238.33,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "460-468 MITCHELL PLACE PERTH AMBOY NJ 08861",
+    "defendant": "460 MITCHELL PLACE LLC. ET ALS.",
+    "listing_status": "Adjourned - Court",
+    "plaintiff": "US BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2019-3",
+    "sale_date": "2025-06-11"
+  },
+  "listing_status": "Adjourned - Court",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOTS 27, 28, 29, 30 AND 31 BLOCK 186",
+  "plaintiff": "US BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2019-3",
+  "property_note": "SUCCESSFULLY POSTED 10/28/2024 AREA 3 POSTED BY W. MCGRAFF. SERVER RECEIVED DATE 10/24/2024",
+  "sale_date": "2025-06-11",
+  "sheriff_number": "F-776377",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-12-04",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-02-28",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

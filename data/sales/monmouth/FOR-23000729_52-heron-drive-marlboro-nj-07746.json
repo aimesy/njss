@@ -1,0 +1,59 @@
+{
+  "address": "52 Heron Drive Marlboro NJ 07746",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00585718",
+  "current_status": "Scheduled",
+  "defendant": "Robert McGeown, et al.",
+  "description": "Dimensions of the Lot are (Approximately) 300 x 271 x 266.\nNearest Cross Street: Teal Court\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "52 Heron Drive\nMarlboro NJ 07746",
+    "Approx. Judgment*": "$356,353.48",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F00585718",
+    "Defendant": "Robert McGeown, et al.",
+    "Description": "Dimensions of the Lot are (Approximately) 300 x 271 x 266.\nNearest Cross Street: Teal Court\nThe sale is subject to any unpaid taxes and assessments, tax, water, and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.",
+    "Parcel #": "Tax Lot 8 Block 407 f/k/a Block 81.P Tax Map of Township of Marlboro",
+    "Plaintiff": "Wells Fargo Bank, NA",
+    "Property Note": "",
+    "Sales Date": "4/25/2025",
+    "Sheriff #": "FOR-23000729"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 356353.48,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "52 Heron Drive Marlboro NJ 07746",
+    "defendant": "Robert McGeown, et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Wells Fargo Bank, NA",
+    "sale_date": "2025-04-25"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 8 Block 407 f/k/a Block 81.P Tax Map of Township of Marlboro",
+  "plaintiff": "Wells Fargo Bank, NA",
+  "property_note": null,
+  "sale_date": "2025-04-25",
+  "sheriff_number": "FOR-23000729",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-25",
+      "status": "Canceled"
+    },
+    {
+      "date": "2023-05-08",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-05-08",
+      "status": "Scheduled"
+    }
+  ]
+}

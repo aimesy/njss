@@ -1,0 +1,96 @@
+{
+  "address": "832-838 AVENUE A A/K/A 917 KENNEDY BOULEVARD BAYONNE NJ 07002",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-017846-17",
+  "current_status": "Adjourned - Court",
+  "defendant": "PETER J. CRESCI; MRS PETER J. CRESCI, SPOUSE OF PETER J. CRESCI; JENNIFER L. CRESCI; JPMORGAN CHASE BANK, NATIONAL ASSOCIATION SBM BANK ONE, N.A.; STATE OF NEW JERSEY",
+  "description": "TAX LOT(S): 1, IN BLOCK: 124\nDIMENSIONS (APPROX.): 70 X 93.80\nNEAREST CROSS STREET: JOHN F. KENNEDY MEMORIAL BOULEVARD\nTAX CERTIFICATE\nRECORDED: JULY 15, 2020\nHOLDER: RTLF-NJ LLC\nAMOUNT: $680.16\nBOOK: 19646\nPAGE: 387\nINSTRUMENT NUMBER: CERT. NO: 20-0128\nJUDGMENT\nRECORDED: JUNE 07, 2019\nAMOUNT: $3,820.07\nINSTRUMENT NUMBER: DJ-072826-2019\nJUDGMENT\nRECORDED: JUNE 07, 2019\nAMOUNT: $2,835.31\nINSTRUMENT NUMBER: DJ-072825-2019\nJUDGMENT\nRECORDED: MARCH 05, 2019\nAMOUNT: $2,104.10\nINSTRUMENT NUMBER: DJ-033111-2019\nOCCUPANCY STATUS: OWNER OCCUPIED\nGOOD FAITH ESTIMATED UPSET PRICE: $675,441.77",
+  "extracted": {
+    "block": "124",
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 675441.77
+  },
+  "fields": {
+    "Address": "832-838 AVENUE A\nA/K/A 917 KENNEDY BOULEVARD\nBAYONNE NJ 07002",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-017846-17",
+    "Defendant": "PETER J. CRESCI; MRS PETER J. CRESCI, SPOUSE OF PETER J. CRESCI; JENNIFER L. CRESCI; JPMORGAN CHASE BANK, NATIONAL ASSOCIATION SBM BANK ONE, N.A.; STATE OF NEW JERSEY",
+    "Description": "TAX LOT(S): 1, IN BLOCK: 124\nDIMENSIONS (APPROX.): 70 X 93.80\nNEAREST CROSS STREET: JOHN F. KENNEDY MEMORIAL BOULEVARD\nTAX CERTIFICATE\nRECORDED: JULY 15, 2020\nHOLDER: RTLF-NJ LLC\nAMOUNT: $680.16\nBOOK: 19646\nPAGE: 387\nINSTRUMENT NUMBER: CERT. NO: 20-0128\nJUDGMENT\nRECORDED: JUNE 07, 2019\nAMOUNT: $3,820.07\nINSTRUMENT NUMBER: DJ-072826-2019\nJUDGMENT\nRECORDED: JUNE 07, 2019\nAMOUNT: $2,835.31\nINSTRUMENT NUMBER: DJ-072825-2019\nJUDGMENT\nRECORDED: MARCH 05, 2019\nAMOUNT: $2,104.10\nINSTRUMENT NUMBER: DJ-033111-2019\nOCCUPANCY STATUS: OWNER OCCUPIED\nGOOD FAITH ESTIMATED UPSET PRICE: $675,441.77",
+    "Good Faith Upset*": "$675,441.77",
+    "Judgment": "$556,825.43",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-A",
+    "Property Note": "",
+    "Sales Date": "10/22/2026",
+    "Sheriff #": "20056226"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 556825.43,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "832-838 AVENUE A A/K/A 917 KENNEDY BOULEVARD BAYONNE NJ 07002",
+    "defendant": "PETER J. CRESCI; MRS PETER J. CRESCI, SPOUSE OF PETER J. CRESCI; JENNIFER L. CRESCI; JPMORGAN CHASE BANK, NATIONAL ASSOCIATION SBM BANK ONE, N.A.; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-A",
+    "sale_date": "2026-10-22"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-A",
+  "property_note": null,
+  "sale_date": "2026-10-22",
+  "sheriff_number": "20056226",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-10-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-10-08",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "Adjourned - Court"
+    }
+  ],
+  "upset_amount": 675441.77,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,55 @@
+{
+  "address": "169 Cannonball Dr. Tinton Falls NJ 07753",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00991322",
+  "current_status": "Scheduled",
+  "defendant": "Gina Albano-Kumar, her heirs, devisees and personal representatives and his, her, their or any of their successors in right, title and interest, et al",
+  "description": "Approximate dimensions: 91.00' x 100.00' x 80.86' x 100.00'\nNearest cross street: Cranberry Drive\nThe Plaintiff's Upset Bid presently approximates $365,000.00\nOccupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown"
+  },
+  "fields": {
+    "Address": "169 Cannonball Dr.\nTinton Falls NJ 07753",
+    "Approx. Judgment*": "$334,015.12",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00991322",
+    "Defendant": "Gina Albano-Kumar, her heirs, devisees and personal representatives and his, her, their or any of their successors in right, title and interest, et al",
+    "Description": "Approximate dimensions: 91.00' x 100.00' x 80.86' x 100.00'\nNearest cross street: Cranberry Drive\nThe Plaintiff's Upset Bid presently approximates $365,000.00\nOccupancy Status: Unknown",
+    "Parcel #": "Tax Lot: 19 Tax Block: 124.10 Tax Map of Borough of Tinton Falls",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2019-3",
+    "Property Note": "",
+    "Sales Date": "3/3/2025",
+    "Sheriff #": "FOR-24002566"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 334015.12,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "169 Cannonball Dr. Tinton Falls NJ 07753",
+    "defendant": "Gina Albano-Kumar, her heirs, devisees and personal representatives and his, her, their or any of their successors in right, title and interest, et al",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2019-3",
+    "sale_date": "2025-03-03"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 19 Tax Block: 124.10 Tax Map of Borough of Tinton Falls",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2019-3",
+  "property_note": null,
+  "sale_date": "2025-03-03",
+  "sheriff_number": "FOR-24002566",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-03",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

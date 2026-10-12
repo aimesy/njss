@@ -1,0 +1,61 @@
+{
+  "address": "51 BREARLY DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00103622",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "STEVEN A. DANCY; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "51 BREARLY DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$482,229.25",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00103622",
+    "Defendant": "STEVEN A. DANCY; ET AL.,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN\nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER\nTRUSTEE FOR RCAF ACQUISITION TRUST,",
+    "Property Note": "",
+    "Sales Date": "5/6/2026",
+    "Sheriff #": "FR-25002671"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "51 BREARLY DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "STEVEN A. DANCY; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN \nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER \nTRUSTEE FOR RCAF ACQUISITION TRUST,",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "FR-25002671",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-05-05",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 482229.25,
+  "upset_amount_label": "Approx. Upset*"
+}

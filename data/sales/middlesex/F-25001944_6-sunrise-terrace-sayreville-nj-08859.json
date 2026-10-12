@@ -1,0 +1,56 @@
+{
+  "address": "6 SUNRISE TERRACE SAYREVILLE NJ 08859",
+  "attorney": "POWERS KIRN LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 327-5852",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00102925",
+  "current_status": "Bankruptcy",
+  "defendant": "FRANCES E. DAVILLO AKA FRANCES DAVILLO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$189,874.52",
+    "Attorney": "POWERS KIRN LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 327-5852",
+    "Court Case #": "F00102925",
+    "Defendant": "FRANCES E. DAVILLO AKA FRANCES DAVILLO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 312 BLOCK 442.18",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Address": "6 SUNRISE TERRACE\nSAYREVILLE NJ 08859",
+    "Property Note": "",
+    "Sale Date": "10/1/2025",
+    "Sheriff #": "F-25001944"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 189874.52,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6 SUNRISE TERRACE SAYREVILLE NJ 08859",
+    "defendant": "FRANCES E. DAVILLO AKA FRANCES DAVILLO, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2025-10-01"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 312 BLOCK 442.18",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-10-01",
+  "sheriff_number": "F-25001944",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-01",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

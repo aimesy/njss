@@ -1,0 +1,66 @@
+{
+  "address": "5913 7th Street Mays Landing NJ 08330",
+  "attorney": "Gross Polowy, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012677-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "David Michael and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "5913 7th Street\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$159,024.54",
+    "Attorney": "Gross Polowy, LLC",
+    "Court Case #": "F-012677-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "David Michael and United States of America",
+    "Plaintiff": "MidFirst Bank",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/14/2024",
+    "Sheriff #": "F-24000979",
+    "Upset Amount": "$165,497.08"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 159024.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5913 7th Street Mays Landing NJ 08330",
+    "defendant": "David Michael and Un...",
+    "listing_status": null,
+    "plaintiff": "MidFirst Bank...",
+    "sale_date": "2024-11-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "MidFirst Bank",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-14",
+  "sheriff_number": "F-24000979",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-14",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 165497.08,
+  "upset_amount_label": "Upset Amount"
+}

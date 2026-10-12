@@ -1,0 +1,57 @@
+{
+  "address": "201 Knox Avenue Eatontown NJ 07724",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00767624",
+  "current_status": "Scheduled",
+  "defendant": "Peter Schilke, et al",
+  "description": "Dimensions: Approximately: 75X175IRR\nUpset Price: Approximately: $359,542.48 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Wyckoff Road\nBEGINNING AT THE POINT OF INTERSECTION OF THE SOUTHWESTERLY SIDE OF KNOX AVENUE WITH THE SOUTHEASTERLY SIDE OF WYCKOFF ROAD (ALSO KNOWN AS MONMOUTH COUNTY ROUTE NO. 547) AND THENCE RUNNING; (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 03/12/2025; 2025 Qtr 2 Due: 05/01/2025 $2,449.51 OPEN. Sewer Acct: 1710 0 04/01/2025 - 06/30/2025 $110.00 OPEN AND DUE 05/01/2025 $487.05 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVATE - NJ American Water Co. P.O. BOX 371331 PITTSBURGH, PA 15250 800-652-6987. Vacant lot charge: property registration fees exist. Contact Clerk's office 732-389-7601. General Remark: 2025 SECOND HALF TAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTED ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT.",
+  "extracted": {
+    "lot": "charge",
+    "occupancy": "Occupied by Unknown",
+    "upset_amount": 359542.48
+  },
+  "fields": {
+    "Address": "201 Knox Avenue\nEatontown NJ 07724",
+    "Approx. Judgment*": "$332,712.36",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F00767624",
+    "Defendant": "Peter Schilke, et al",
+    "Description": "Dimensions: Approximately: 75X175IRR\nUpset Price: Approximately: $359,542.48 and any additional sums as ordered by the court\nOccupancy Status: Occupied by Unknown\nNearest Cross Street: Wyckoff Road\nBEGINNING AT THE POINT OF INTERSECTION OF THE SOUTHWESTERLY SIDE OF KNOX AVENUE WITH THE SOUTHEASTERLY SIDE OF WYCKOFF ROAD (ALSO KNOWN AS MONMOUTH COUNTY ROUTE NO. 547) AND THENCE RUNNING; (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.)\nPursuant to a tax search of 03/12/2025; 2025 Qtr 2 Due: 05/01/2025 $2,449.51 OPEN. Sewer Acct: 1710 0 04/01/2025 - 06/30/2025 $110.00 OPEN AND DUE 05/01/2025 $487.05 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVATE - NJ American Water Co. P.O. BOX 371331 PITTSBURGH, PA 15250 800-652-6987. Vacant lot charge: property registration fees exist. Contact Clerk's office 732-389-7601. General Remark: 2025 SECOND HALF TAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTED ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT.",
+    "Parcel #": "Lot: 1; Block: 3301 Tax Map of Borough of Eatontown",
+    "Plaintiff": "Deutsche Bank National Trust Company, as Trustee on behalf of the holders of the J.P. Morgan Mortgage Acquisition Trust 2007-CH1 Asset Backed Pass-Through Certificates, Series 2007-CH1",
+    "Property Note": "",
+    "Sales Date": "5/22/2025",
+    "Sheriff #": "FOR-25000574"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 332712.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "201 Knox Avenue Eatontown NJ 07724",
+    "defendant": "Peter Schilke, et al",
+    "listing_status": "Redeemed",
+    "plaintiff": "Deutsche Bank National Trust Company, as Trustee on behalf of the holders of the J.P. Morgan Mortgage Acquisition Trust 2007-CH1 Asset Backed Pass-Through Certificates, Series 2007-CH1",
+    "sale_date": "2025-05-22"
+  },
+  "listing_status": "Redeemed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 1; Block: 3301 Tax Map of Borough of Eatontown",
+  "plaintiff": "Deutsche Bank National Trust Company, as Trustee on behalf of the holders of the J.P. Morgan Mortgage Acquisition Trust 2007-CH1 Asset Backed Pass-Through Certificates, Series 2007-CH1",
+  "property_note": null,
+  "sale_date": "2025-05-22",
+  "sheriff_number": "FOR-25000574",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-22",
+      "status": "Redeemed"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Scheduled"
+    }
+  ]
+}

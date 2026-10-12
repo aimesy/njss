@@ -1,0 +1,68 @@
+{
+  "address": "95 BIDWELL AVENUE JERSEY CITY NJ 07305",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "973-538-4700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-2288-24",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "DAVID GOTTLIEB, ET ALS.",
+  "description": "TAX LOT NO. 51 IN BLOCK NO. 24002\nDIMENSION OF LOT APPROXIMATELY: 25 X 90 AV\nNEAREST CROSS STREET: OCEAN AVENUE\nBEGINNING AT A POINT IN THE SOUTHWESTERLY LINE OF BIDWELL AVENUE (54.00 FEET WIDE), SAID POINT BEING DISTANT 125.00 FEET FROM ITS INTERSECTION WITH THE NORTHWESTERLY LINE OF OCEAN AVENUE (70.00 FEET WIDE) AND RUNNING; THENCE\nWATER OPEN PLUS PENALTY $652.16\nGOOD FAITH ESTIMATE OF UPSET PRICE: $619,174.88\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+  "extracted": {
+    "block": "NO",
+    "lot": "NO",
+    "upset_amount": 619174.88
+  },
+  "fields": {
+    "Address": "95 BIDWELL AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "973-538-4700",
+    "Court Case #": "F-2288-24",
+    "Defendant": "DAVID GOTTLIEB, ET ALS.",
+    "Description": "TAX LOT NO. 51 IN BLOCK NO. 24002\nDIMENSION OF LOT APPROXIMATELY: 25 X 90 AV\nNEAREST CROSS STREET: OCEAN AVENUE\nBEGINNING AT A POINT IN THE SOUTHWESTERLY LINE OF BIDWELL AVENUE (54.00 FEET WIDE), SAID POINT BEING DISTANT 125.00 FEET FROM ITS INTERSECTION WITH THE NORTHWESTERLY LINE OF OCEAN AVENUE (70.00 FEET WIDE) AND RUNNING; THENCE\nWATER OPEN PLUS PENALTY $652.16\nGOOD FAITH ESTIMATE OF UPSET PRICE: $619,174.88\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+    "Good Faith Upset*": "$619,174.88",
+    "Judgment": "$536,581.83",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "**DEF & PLTF USED THEIR ADJS. ONE JOINT ADJ LEFT. SEE 20058711.**",
+    "Sales Date": "8/27/2026",
+    "Sheriff #": "20062351"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 536581.83,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "95 BIDWELL AVENUE JERSEY CITY NJ 07305",
+    "defendant": "DAVID GOTTLIEB, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-08-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": "**DEF & PLTF USED THEIR ADJS. ONE JOINT ADJ LEFT. SEE 20058711.**",
+  "sale_date": "2026-08-27",
+  "sheriff_number": "20062351",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-06-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 619174.88,
+  "upset_amount_label": "Good Faith Upset*"
+}

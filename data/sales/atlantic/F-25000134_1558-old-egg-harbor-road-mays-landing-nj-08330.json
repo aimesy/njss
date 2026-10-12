@@ -1,0 +1,82 @@
+{
+  "address": "1558 Old Egg Harbor Road Mays Landing NJ 08330",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-006772-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Gina A. Green; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "1558 Old Egg Harbor Road\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$311,745.08",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-006772-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Gina A. Green; State of New Jersey; United States of America",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "9/25/2025",
+    "Sheriff #": "F-25000134",
+    "Upset Amount": "$339,461.31"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 311745.08,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1558 Old Egg Harbor Road Mays Landing NJ 08330",
+    "defendant": "Gina A. Green; State...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2025-09-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-09-25",
+  "sheriff_number": "F-25000134",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-25",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-09-25",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Consensual/Mutual Adjournment"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 339461.31,
+  "upset_amount_label": "Upset Amount"
+}

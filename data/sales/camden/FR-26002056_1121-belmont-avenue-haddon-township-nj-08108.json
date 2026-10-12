@@ -1,0 +1,53 @@
+{
+  "address": "1121 BELMONT AVENUE HADDON TOWNSHIP NJ 08108",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00091125",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "WILLIAM R. SWAN, JR. AKA WILLIAM R. SWAN, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1121 BELMONT AVENUE\nHADDON TOWNSHIP NJ 08108",
+    "Approx. Upset*": "$345,040.44",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00091125",
+    "Defendant": "WILLIAM R. SWAN, JR. AKA WILLIAM R. SWAN, ET AL.",
+    "Parcel #": "TAX BLOCK AND LOT: BLOCK: 10.04 LOT: 25",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Note": "Collingswood Boro - Water holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the amount of $214.10 plus penalty; $2,839.61 plus penalty as of 07/30/2026\nHaddon Township - Sewer holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the ainount of $58.75 and $117.50 plus penalty as of 07/30/2026.\nCCMUA holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the amount of $186.00 and $558.00 plus penalty, owed in arrears as of 07/30/2026.\nPRO CAP 8 FBA Firstrust Bank (Cert #25-001 16 holds a tax sale certificate in the amount of $1,107.63 as of 03/06/2026.",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26002056"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1121 BELMONT AVENUE HADDON TOWNSHIP NJ 08108",
+    "defendant": "WILLIAM R. SWAN, JR. AKA WILLIAM R. SWAN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX BLOCK AND LOT: BLOCK: 10.04 LOT: 25",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": "Collingswood Boro - Water holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the amount of $214.10 plus penalty; $2,839.61 plus penalty as of 07/30/2026\nHaddon Township - Sewer holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the ainount of $58.75 and $117.50 plus penalty as of 07/30/2026.\nCCMUA holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the amount of $186.00 and $558.00 plus penalty, owed in arrears as of 07/30/2026.\nPRO CAP 8 FBA Firstrust Bank (Cert #25-001 16 holds a tax sale certificate in the amount of $1,107.63 as of 03/06/2026.",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26002056",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 345040.44,
+  "upset_amount_label": "Approx. Upset*"
+}

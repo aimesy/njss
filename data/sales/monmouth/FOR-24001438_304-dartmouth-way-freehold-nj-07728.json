@@ -1,0 +1,60 @@
+{
+  "address": "304 Dartmouth Way Freehold NJ 07728",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00294524",
+  "current_status": "Scheduled",
+  "defendant": "Stephanie Sherman",
+  "description": "Dimensions of Lot: 10 x 149\nNearest Cross Street: Princeton Oval\nEstimated upset bid amount: $571,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FUTHER\nNOTICE THROUGH PUBLICATION.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "lot": "10",
+    "occupancy": "Owner"
+  },
+  "fields": {
+    "Address": "304 Dartmouth Way\nFreehold NJ 07728",
+    "Approx. Judgment*": "$530,542.54",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00294524",
+    "Defendant": "Stephanie Sherman",
+    "Description": "Dimensions of Lot: 10 x 149\nNearest Cross Street: Princeton Oval\nEstimated upset bid amount: $571,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FUTHER\nNOTICE THROUGH PUBLICATION.\n*Subject to any unpaid taxes, municipal liens, or other charges, and any such taxes, changes, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Tax Lot: 1 Block: 87.10 located in the Township of Freehold",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB d/b/a Christiana Trust, not individually but as trustee for Pretium Mortgage Acquisition Trust",
+    "Property Note": "",
+    "Sales Date": "3/5/2026",
+    "Sheriff #": "FOR-24001438"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 530542.54,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "304 Dartmouth Way Freehold NJ 07728",
+    "defendant": "Stephanie Sherman",
+    "listing_status": "Settled",
+    "plaintiff": "Wilmington Savings Fund Society, FSB d/b/a Christiana Trust, not individually but as trustee for Pretium Mortgage Acquisition Trust",
+    "sale_date": "2026-03-05"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 1 Block: 87.10 located in the Township of Freehold",
+  "plaintiff": "Wilmington Savings Fund Society, FSB d/b/a Christiana Trust, not individually but as trustee for Pretium Mortgage Acquisition Trust",
+  "property_note": null,
+  "sale_date": "2026-03-05",
+  "sheriff_number": "FOR-24001438",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-05",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Scheduled"
+    }
+  ]
+}

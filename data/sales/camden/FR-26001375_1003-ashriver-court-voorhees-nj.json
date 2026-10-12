@@ -1,0 +1,61 @@
+{
+  "address": "1003 ASHRIVER COURT VOORHEES NJ",
+  "attorney": "MCGOVERN LEGAL SERVICES, LLC",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00675725",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "SHARON SCHUEL, HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS/HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST",
+  "extracted": {},
+  "fields": {
+    "Address": "1003 ASHRIVER COURT\nVOORHEES NJ",
+    "Approx. Upset*": "$9,639.28",
+    "Attorney": "MCGOVERN LEGAL SERVICES, LLC",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00675725",
+    "Defendant": "SHARON SCHUEL, HER HEIRS, DEVISEES, AND PERSONAL\nREPRESENTATIVES AND HIS/HER, THEIR, OR ANY OF THEIR\nSUCCESSORS IN RIGHT, TITLE AND INTEREST",
+    "Parcel #": "TAX LOT 3 C1003, BLOCK 150.10",
+    "Plaintiff": "THREE POND CONDOMINIUM",
+    "Property Note": "",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001375"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1003 ASHRIVER COURT VOORHEES NJ",
+    "defendant": "SHARON SCHUEL, HER HEIRS, DEVISEES, AND PERSONAL \nREPRESENTATIVES AND HIS/HER, THEIR, OR ANY OF THEIR \nSUCCESSORS IN RIGHT, TITLE AND INTEREST",
+    "listing_status": null,
+    "plaintiff": "THREE POND CONDOMINIUM",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 3 C1003, BLOCK 150.10",
+  "plaintiff": "THREE POND CONDOMINIUM",
+  "property_note": null,
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001375",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 9639.28,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,62 @@
+{
+  "address": "16 Clover Hill Circle Egg Harbor Township NJ 08234",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-004944-22",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Arlene Sennett; Wells Fargo Bank, N.A F/K/A World Savings Bank; FSB; A Federal Savings Bank; Its successors and or Assigns",
+  "extracted": {},
+  "fields": {
+    "Address": "16 Clover Hill Circle\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$254,632.72",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-004944-22",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Arlene Sennett; Wells Fargo Bank, N.A F/K/A World Savings Bank; FSB; A Federal Savings Bank; Its successors and or Assigns",
+    "Plaintiff": "U.S. Bank National Association, as Trustee of the LB-Cabana Series IV Trust",
+    "Priors": "NONE",
+    "Property Note": "",
+    "Sales Date": "4/15/2025",
+    "Sheriff #": "F-23000805",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 254632.72,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "16 Clover Hill Circle Egg Harbor Township NJ 08234",
+    "defendant": "Arlene Sennett; Well...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank National A...",
+    "sale_date": "2025-04-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank National Association, as Trustee of the LB-Cabana Series IV Trust",
+  "priors": "NONE",
+  "property_note": null,
+  "sale_date": "2025-04-15",
+  "sheriff_number": "F-23000805",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-15",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2023-08-10",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2023-08-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

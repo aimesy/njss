@@ -1,0 +1,75 @@
+{
+  "address": "76 Pine Street Wharton NJ 07885",
+  "county": "Morris County, NJ",
+  "county_id": 9,
+  "court_case_number": "F-004143-25",
+  "current_status": "Adjourned per Court Order to",
+  "defendant": "EDWARD J. NARKUN, JR. A/K/A EDWARD NARKUN, JR.",
+  "description": "Tract 1: Approximate Dimensions: 100.00 x 14.00 x 65.00 x 35.00 x 45.00\nNearest Cross Street: Tow Path of the Old Morris Canal\nTract 2: Approximate Dimensions: 50.00 x 100.00 x 50.00 x 100.00\nNearest Cross Street: Tow Path of the Old Morris Canal West of Port Orass\nPlaintiff Upset Price: $256,258.27 calculated through September 8, 2025 plus any additional advance, interest, Sheriff's cost and commission to the date of sale\nOccupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 256258.27
+  },
+  "fields": {
+    "Address": "76 Pine Street\nWharton NJ 07885",
+    "Court Case #": "F-004143-25",
+    "Defendant": "EDWARD J. NARKUN, JR. A/K/A EDWARD NARKUN, JR.",
+    "Description": "Tract 1: Approximate Dimensions: 100.00 x 14.00 x 65.00 x 35.00 x 45.00\nNearest Cross Street: Tow Path of the Old Morris Canal\nTract 2: Approximate Dimensions: 50.00 x 100.00 x 50.00 x 100.00\nNearest Cross Street: Tow Path of the Old Morris Canal West of Port Orass\nPlaintiff Upset Price: $256,258.27 calculated through September 8, 2025 plus any additional advance, interest, Sheriff's cost and commission to the date of sale\nOccupancy Status: Unknown",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Sales Date": "8/19/2027",
+    "Sheriff #": "25001368"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "76 Pine Street Wharton NJ 07885",
+    "defendant": "EDWARD J. NARKUN, JR. A/K/A EDWARD NARKUN, JR.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Morris County, NJ)",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "sale_date": "2027-08-19",
+  "sheriff_number": "25001368",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=9",
+  "status_history": [
+    {
+      "date": "2025-10-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Adjourned by the Plaintiff to"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2026-07-23",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2026-08-20",
+      "status": "Adjourned per Court Order to"
+    },
+    {
+      "date": "2027-08-19",
+      "status": "Adjourned per Court Order to"
+    }
+  ]
+}

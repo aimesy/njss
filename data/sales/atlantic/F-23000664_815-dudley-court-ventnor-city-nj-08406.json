@@ -1,0 +1,58 @@
+{
+  "address": "815 Dudley Court Ventnor City NJ 08406",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012557-22 PLURIES",
+  "current_status": "Scheduled",
+  "deed": "Karol Kulakowski",
+  "deed_address": "815 Burk Ct Ventnor NJ 08406",
+  "defendant": "Helen C. Shepperson A/K/A Helen Shepperson; Mr. Shepperson, Spouse of Helen C. Shepperson a/k/a Helen Shepperson; Discover Bank; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "815 Dudley Court\nVentnor City NJ 08406",
+    "Approx. Judgment*": "$219,674.72",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-012557-22 PLURIES",
+    "Deed": "Karol Kulakowski",
+    "Deed Address": "815 Burk Ct Ventnor NJ 08406",
+    "Defendant": "Helen C. Shepperson A/K/A Helen Shepperson; Mr. Shepperson, Spouse of Helen C. Shepperson a/k/a Helen Shepperson; Discover Bank; United States of America",
+    "Plaintiff": "Bank of New York Mellon Trust Company, N.A. As Trustee For Mortgage Assets Management Series I Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "4/10/2025",
+    "Sheriff #": "F-23000664",
+    "Upset Amount": "$255,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 219674.72,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "815 Dudley Court Ventnor City NJ 08406",
+    "defendant": "Helen C. Shepperson ...",
+    "listing_status": null,
+    "plaintiff": "Bank of New York Mel...",
+    "sale_date": "2025-04-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank of New York Mellon Trust Company, N.A. As Trustee For Mortgage Assets Management Series I Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-04-10",
+  "sheriff_number": "F-23000664",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-04-10",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 255500.0,
+  "upset_amount_label": "Upset Amount"
+}

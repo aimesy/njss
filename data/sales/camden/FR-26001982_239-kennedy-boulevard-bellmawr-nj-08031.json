@@ -1,0 +1,53 @@
+{
+  "address": "239 KENNEDY BOULEVARD BELLMAWR NJ 08031",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00745825",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MARGARET O'LEARY JOHNSTON",
+  "extracted": {},
+  "fields": {
+    "Address": "239 KENNEDY BOULEVARD\nBELLMAWR NJ 08031",
+    "Approx. Upset*": "$162,852.67",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F00745825",
+    "Defendant": "MARGARET O'LEARY JOHNSTON",
+    "Parcel #": "BLOCK 50.01 LOT 38",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL\nCAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "Taxes paid in full as of 7/28/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 7/28/26\nWater/Sewer due and owing in the approximate amount of\n$1,044.26 as of 7/28/26",
+    "Sales Date": "11/4/2026",
+    "Sheriff #": "FR-26001982"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "239 KENNEDY BOULEVARD BELLMAWR NJ 08031",
+    "defendant": "MARGARET O'LEARY JOHNSTON",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL \nCAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-11-04"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK 50.01 LOT 38",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": "Taxes paid in full as of 7/28/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 7/28/26\nWater/Sewer due and owing in the approximate amount of\n$1,044.26 as of 7/28/26",
+  "sale_date": "2026-11-04",
+  "sheriff_number": "FR-26001982",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 162852.67,
+  "upset_amount_label": "Approx. Upset*"
+}

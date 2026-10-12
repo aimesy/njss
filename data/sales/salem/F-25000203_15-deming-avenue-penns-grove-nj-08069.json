@@ -1,0 +1,51 @@
+{
+  "address": "15 Deming Avenue Penns Grove NJ 08069",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-002304-25",
+  "current_status": "Cancelled",
+  "defendant": "Malia G. Strand",
+  "description": "Approximate Dimensions: 24.9 x 110 Feet Upset Price: $100,239.21. The upset amount may be subject to further orders of additional sums. Occupancy Status: Unknown",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 100239.21
+  },
+  "fields": {
+    "Address": "15 Deming Avenue\nPenns Grove NJ 08069",
+    "Court Case #": "F-002304-25",
+    "Defendant": "Malia G. Strand",
+    "Description": "Approximate Dimensions: 24.9 x 110 Feet Upset Price: $100,239.21. The upset amount may be subject to further orders of additional sums. Occupancy Status: Unknown",
+    "Plaintiff": "Aurora Financial Group, Inc.",
+    "Sales Date": "11/03/2025 02:00 PM",
+    "Sheriff #": "F-25000203"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "15 Deming Avenue Penns Grove NJ 08069",
+    "defendant": "Malia G. Strand",
+    "listing_status": null,
+    "plaintiff": "Aurora Financial Group, Inc.",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Aurora Financial Group, Inc.",
+  "sale_date": null,
+  "sheriff_number": "F-25000203",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

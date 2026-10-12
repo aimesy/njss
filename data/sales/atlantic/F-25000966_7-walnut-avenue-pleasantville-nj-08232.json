@@ -1,0 +1,62 @@
+{
+  "address": "7 Walnut Avenue Pleasantville NJ 08232",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-001843-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Enrique Lopez Vicente, Mr/Mrs. Vicente, spouse of Enrique Lopez Vicente; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "7 Walnut Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$123,363.29",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F-001843-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Enrique Lopez Vicente, Mr/Mrs. Vicente, spouse of Enrique Lopez Vicente; United States of America",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "12/4/2025",
+    "Sheriff #": "F-25000966",
+    "Upset Amount": "$137,801.62"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 123363.29,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "7 Walnut Avenue Pleasantville NJ 08232",
+    "defendant": "Enrique Lopez Vicent...",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Cor...",
+    "sale_date": "2025-12-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-12-04",
+  "sheriff_number": "F-25000966",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-12-04",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-10-30",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 137801.62,
+  "upset_amount_label": "Upset Amount"
+}

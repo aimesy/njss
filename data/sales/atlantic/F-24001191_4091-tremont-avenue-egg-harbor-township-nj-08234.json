@@ -1,0 +1,66 @@
+{
+  "address": "4091 Tremont Avenue Egg Harbor Township NJ 08234",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008757-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Joseph Dill, His Heirs, Devisees and Personal Representatives, and His/Her, Their or any of Their Successors in Right, Title and Interest; Mrs. Dill, Wife of Joseph Dill",
+  "extracted": {},
+  "fields": {
+    "Address": "4091 Tremont Avenue\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$154,697.63",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F-008757-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Joseph Dill, His Heirs, Devisees and Personal Representatives, and His/Her, Their or any of Their Successors in Right, Title and Interest; Mrs. Dill, Wife of Joseph Dill",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "1/9/2025",
+    "Sheriff #": "F-24001191",
+    "Upset Amount": "$169,835.80"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 154697.63,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4091 Tremont Avenue Egg Harbor Township NJ 08234",
+    "defendant": "Joseph Dill, His Hei...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2025-01-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-01-09",
+  "sheriff_number": "F-24001191",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-01-09",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-10-31",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 169835.8,
+  "upset_amount_label": "Upset Amount"
+}

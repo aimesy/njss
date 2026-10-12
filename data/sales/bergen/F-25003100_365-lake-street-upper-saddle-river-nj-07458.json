@@ -1,0 +1,55 @@
+{
+  "address": "365 LAKE STREET UPPER SADDLE RIVER NJ 07458",
+  "attorney": "BROCK AND SCOTT PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00459224",
+  "current_status": "Cancelled",
+  "defendant": "LINDA J. CALABRESE; MR. CALABRESE, HUSBAND OF LINDA J. CALABRESE",
+  "description": "THE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UKNOWN.\nPLAINITFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $306,017.67",
+  "extracted": {
+    "upset_amount": 306017.67
+  },
+  "fields": {
+    "Address": "365 LAKE STREET\nUPPER SADDLE RIVER NJ 07458",
+    "Approx. Upset*": "$264,886.12",
+    "Attorney": "BROCK AND SCOTT PLLC",
+    "Court Case #": "F00459224",
+    "Defendant": "LINDA J. CALABRESE; MR. CALABRESE, HUSBAND OF LINDA J. CALABRESE",
+    "Description": "THE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UKNOWN.\nPLAINITFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $306,017.67",
+    "Parcel #": "LOT 10, BLOCK 909",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/11/2026",
+    "Sheriff #": "F-25003100"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "365 LAKE STREET UPPER SADDLE RIVER NJ 07458",
+    "defendant": "LINDA J. CALABRESE; MR. CALABRESE, HUSBAND OF LINDA J. CALABRESE",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-02-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 10, BLOCK 909",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-11",
+  "sheriff_number": "F-25003100",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-02-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 264886.12,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "437 COOLIDGE DRIVE KENILWORTH NJ 07033",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01304624",
+  "current_status": "Bankuptcy",
+  "defendant": "EDDY JIMENEZ; MRS. JIMENEZ, SPOUSE OF EDDY JIMENEZ",
+  "description": "LOT 21 BLOCK 111",
+  "extracted": {
+    "block": "111",
+    "lot": "21"
+  },
+  "fields": {
+    "Address": "437 COOLIDGE DRIVE\nKENILWORTH NJ 07033",
+    "Approx. Upset*": "$491,141.58",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+    "Court Case #": "F01304624",
+    "Defendant": "EDDY JIMENEZ; MRS. JIMENEZ, SPOUSE OF EDDY JIMENEZ",
+    "Description": "LOT 21 BLOCK 111",
+    "Parcel #": "LOT 21 BLOCK 111",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "1/14/2026",
+    "Sheriff #": "CH-25000992"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "437 COOLIDGE DRIVE KENILWORTH NJ 07033",
+    "defendant": "EDDY JIMENEZ; MRS. JIMENEZ, SPOUSE OF EDDY JIMENEZ",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-01-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 21 BLOCK 111",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-01-14",
+  "sheriff_number": "CH-25000992",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-06-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 491141.58,
+  "upset_amount_label": "Approx. Upset*"
+}

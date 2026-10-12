@@ -1,0 +1,58 @@
+{
+  "address": "635 Fairway Lane Unit 1114, Timeshare Estate No. 48 Galloway Township NJ 08205",
+  "attorney": "Fein, Such, Kahn & Shepard P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-6693-24",
+  "current_status": "Scheduled",
+  "deed": "Marriott Ownership Resort, Inc.",
+  "deed_address": "1200 U.S. Highway 98 S, Lakeland, FL 33801",
+  "defendant": "Ronald W Smith, His/Her Heirs, Devisees and Personal Representatives and His/Her, Their, or any of Their Successors in Right, Title and Interest; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "635 Fairway Lane\nUnit 1114, Timeshare Estate No. 48\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$9,153.81",
+    "Attorney": "Fein, Such, Kahn & Shepard P.C.",
+    "Court Case #": "F-6693-24",
+    "Deed": "Marriott Ownership Resort, Inc.",
+    "Deed Address": "1200 U.S. Highway 98 S, Lakeland, FL 33801",
+    "Defendant": "Ronald W Smith, His/Her Heirs, Devisees and Personal Representatives and His/Her, Their, or any of Their Successors in Right, Title and Interest; State of New Jersey; United States of America",
+    "Plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "10/9/2025",
+    "Sheriff #": "F-25000899",
+    "Upset Amount": "$16,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 9153.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "635 Fairway Lane Unit 1114, Timeshare Estate No. 48 Galloway Township NJ 08205",
+    "defendant": "Ronald W Smith, His/...",
+    "listing_status": null,
+    "plaintiff": "Fairway Villas At Se...",
+    "sale_date": "2025-10-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-10-09",
+  "sheriff_number": "F-25000899",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-10-09",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-10-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 16000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,62 @@
+{
+  "address": "733 Cresson Avenue Pleasantville NJ 08232",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000693-25",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman Incorporation Corporation",
+  "deed_address": "413 S. Seaview Ave, Galloway, NJ 08205",
+  "defendant": "Marylou M. Parrish A/K/A Marylou Parrish; Ronald Parrish; Atlantic County Board of Social Services; Andrea L. Parrish; Elsie Hampton; Shore Medical Center",
+  "extracted": {},
+  "fields": {
+    "Address": "733 Cresson Avenue\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$160,946.04",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-000693-25",
+    "Deed": "Amjad Rehman Incorporation Corporation",
+    "Deed Address": "413 S. Seaview Ave, Galloway, NJ 08205",
+    "Defendant": "Marylou M. Parrish A/K/A Marylou Parrish; Ronald Parrish; Atlantic County Board of Social Services; Andrea L. Parrish; Elsie Hampton; Shore Medical Center",
+    "Plaintiff": "Deutsche Bank National Trust Company, As Trustee for The Registered Holders of Morgan Stanley ABS Capital I Inc. Trust 2007-HE7 Mortgage Pass-Through Certificates, Series 2007-HE7",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "11/20/2025",
+    "Sheriff #": "F-25000952",
+    "Upset Amount": "$176,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 160946.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "733 Cresson Avenue Pleasantville NJ 08232",
+    "defendant": "Marylou M. Parrish A...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Nation...",
+    "sale_date": "2025-11-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank National Trust Company, As Trustee for The Registered Holders of Morgan Stanley ABS Capital I Inc. Trust 2007-HE7 Mortgage Pass-Through Certificates, Series 2007-HE7",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-11-20",
+  "sheriff_number": "F-25000952",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-11-20",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 176000.0,
+  "upset_amount_label": "Upset Amount"
+}

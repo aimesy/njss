@@ -1,0 +1,53 @@
+{
+  "address": "465 HADDON AVENUE COLLINGSWOOD NJ 08108",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00089326",
+  "current_status": "Scheduled",
+  "defendant": "CHRISTINE A. MALONE, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "465 HADDON AVENUE\nCOLLINGSWOOD NJ 08108",
+    "Approx. Upset*": "$53,560.22",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00089326",
+    "Defendant": "CHRISTINE A. MALONE, ET AL.",
+    "Parcel #": "Lot 3.08, Block 12 on the official Tax Map of the BOROUGH OF COLLINGSWOO",
+    "Plaintiff": "OCEANFIRST BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002192"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "465 HADDON AVENUE COLLINGSWOOD NJ 08108",
+    "defendant": "CHRISTINE A. MALONE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "OCEANFIRST BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 3.08, Block 12 on the official Tax Map of the BOROUGH OF COLLINGSWOO",
+  "plaintiff": "OCEANFIRST BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002192",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-09-30",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 53560.22,
+  "upset_amount_label": "Approx. Upset*"
+}

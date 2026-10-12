@@ -1,0 +1,52 @@
+{
+  "address": "8 Sewall Avenue Unit 6C Clifton NJ 07011",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 001191 26 CTL#163227",
+  "current_status": "Cancelled",
+  "defendant": "VIRGEN SOTO",
+  "description": "Dimensions (Approx.): N/A - Condo/Qualifier CC006\nNearest Cross Street: Main Avenue\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nGood Faith Estimated Upset Price: $162,910.50\nOccupancy Status:\nOwner Occupied\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill.",
+  "extracted": {
+    "occupancy": "Owner Occupied",
+    "upset_amount": 162910.5
+  },
+  "fields": {
+    "Address": "8 Sewall Avenue\nUnit 6C\nClifton NJ 07011",
+    "Approx. Upset*": "$160,538.15",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F 001191 26 CTL#163227",
+    "Defendant": "VIRGEN SOTO",
+    "Description": "Dimensions (Approx.): N/A - Condo/Qualifier CC006\nNearest Cross Street: Main Avenue\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs Dennis Thiel (A-58-98).\nSheriff, kindly advertise the following:\nGood Faith Estimated Upset Price: $162,910.50\nOccupancy Status:\nOwner Occupied\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill.",
+    "Parcel #": "Tax Lot (s): 14, Qual CC006, in Block: 10.12",
+    "Plaintiff": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "8/6/2026",
+    "Sheriff #": "F-26001147"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "8 Sewall Avenue Unit 6C Clifton NJ 07011",
+    "defendant": "VIRGEN SOTO",
+    "listing_status": null,
+    "plaintiff": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+    "sale_date": "2026-08-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot (s): 14, Qual CC006, in Block: 10.12",
+  "plaintiff": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-08-06",
+  "sheriff_number": "F-26001147",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-08-06",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 160538.15,
+  "upset_amount_label": "Approx. Upset*"
+}

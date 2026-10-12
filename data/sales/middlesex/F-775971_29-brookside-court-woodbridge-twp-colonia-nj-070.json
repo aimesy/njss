@@ -1,0 +1,68 @@
+{
+  "address": "29 Brookside Court WOODBRIDGE TWP COLONIA NJ 07067",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00496422",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JOHANNA I. ESPINOSA, ET ALS",
+  "description": "SUCCESSFULLY POSTED 03/03/2023 BY WALKO",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$388,610.29",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00496422",
+    "Defendant": "JOHANNA I. ESPINOSA, ET ALS",
+    "Description": "SUCCESSFULLY POSTED 03/03/2023 BY WALKO",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 5 BLOCK 419.05 AKA BLK 419E & 419-E",
+    "Plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+    "Property Address": "29 Brookside Court\nWOODBRIDGE TWP COLONIA NJ 07067",
+    "Property Note": "",
+    "Sale Date": "9/13/2023",
+    "Sheriff #": "F-775971"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 388610.29,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "29 Brookside Court WOODBRIDGE TWP COLONIA NJ 07067",
+    "defendant": "JOHANNA I. ESPINOSA, ET ALS",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+    "sale_date": "2023-09-13"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 5 BLOCK 419.05 AKA BLK 419E & 419-E",
+  "plaintiff": "SPECIALIZED LOAN SERVICING LLC",
+  "property_note": null,
+  "sale_date": "2023-09-13",
+  "sheriff_number": "F-775971",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2023-09-13",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2023-09-13",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-06-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-05-10",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

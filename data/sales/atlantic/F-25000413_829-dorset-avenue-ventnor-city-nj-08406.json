@@ -1,0 +1,58 @@
+{
+  "address": "829 Dorset Avenue Ventnor City NJ 08406",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007776-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Marjukka A. Laitinen-Opuda; Spouse of Marjukka A. Laitinen-Opuda; Nicholas Barbera, Tenant/Occupant; New Jersey Housing and Mortgage Finance Agency; The Waterview Condominium Association, Inc",
+  "extracted": {},
+  "fields": {
+    "Address": "829 Dorset Avenue\nVentnor City NJ 08406",
+    "Approx. Judgment*": "$77,981.75",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-007776-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Marjukka A. Laitinen-Opuda; Spouse of Marjukka A. Laitinen-Opuda; Nicholas Barbera, Tenant/Occupant; New Jersey Housing and Mortgage Finance Agency; The Waterview Condominium Association, Inc",
+    "Plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "6/12/2025",
+    "Sheriff #": "F-25000413",
+    "Upset Amount": "$87,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 77981.75,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "829 Dorset Avenue Ventnor City NJ 08406",
+    "defendant": "Marjukka A. Laitinen...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2025-06-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-06-12",
+  "sheriff_number": "F-25000413",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-12",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-06-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 87500.0,
+  "upset_amount_label": "Upset Amount"
+}

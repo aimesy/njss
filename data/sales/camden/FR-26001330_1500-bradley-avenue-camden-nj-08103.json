@@ -1,0 +1,57 @@
+{
+  "address": "1500 BRADLEY AVENUE CAMDEN NJ 08103",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00054026",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "LEMIAL ARTHUR COX; AND MRS LEMIAL ARTHUR COX, WIFE OF LEMIAL ARTHUR COX",
+  "extracted": {},
+  "fields": {
+    "Address": "1500 BRADLEY AVENUE\nCAMDEN NJ 08103",
+    "Approx. Upset*": "$183,977.17",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00054026",
+    "Defendant": "LEMIAL ARTHUR COX; AND MRS LEMIAL ARTHUR COX, WIFE OF LEMIAL ARTHUR COX",
+    "Parcel #": "LOT 37, BLOCK 1280 FKA 873",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "TAXES - DUE 5/1/2026 $746.62 OPEN WATER - $409.90 OPEN+PENALTY CCUMA - 04/01/2026 - 06/30/2026 $119.50 OPEN $836.63 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "8/12/2026",
+    "Sheriff #": "FR-26001330"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1500 BRADLEY AVENUE CAMDEN NJ 08103",
+    "defendant": "LEMIAL ARTHUR COX; AND MRS LEMIAL ARTHUR COX, WIFE OF LEMIAL ARTHUR COX",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-08-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 37, BLOCK 1280 FKA 873",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "TAXES - DUE 5/1/2026 $746.62 OPEN WATER - $409.90 OPEN+PENALTY CCUMA - 04/01/2026 - 06/30/2026 $119.50 OPEN $836.63 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2026-08-12",
+  "sheriff_number": "FR-26001330",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-12",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 183977.17,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,72 @@
+{
+  "address": "130 South Street Borough of Freehold NJ 07728",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00333924",
+  "current_status": "Scheduled",
+  "defendant": "Gregory F. Rochat",
+  "description": "Approximate Dimensions: 275.79ft x 83.50ft x 248.82ft x 87.75ft\nNearest Cross Street: Approximately 78.82ft from the nearest street known as Brinkerhoff Avenue\nApproximate UPSET PRICE is $377,081.15 for the Sheriff's Sale.\nOCCUPANCY STATUS: Borrower Occupied\nPursuant to municipal tax search dated December 30,2025\nSubject to:\n2025 4th quarter taxes due 11/1/2025, $2,003.00 OPEN PLUS PENALTY\n2026 1st quarter taxes due 2/1/2026, $2,005.00 OPEN.\n2026 2nd quarter taxes due 5/1/2026, $2,005.00 OPEN.\nWater/Sewer: Acct: 2959 0 08/01/2025 - 10/31/2025, $0.01 OPEN PLUS PENALTY\nSubject to Final Reading.\nA full legal description can be found at the Office of the Clerk on Monmouth County in deeb Book 9571, at Page 2232",
+  "extracted": {
+    "occupancy": "Borrower Occupied",
+    "upset_amount": 377081.15
+  },
+  "fields": {
+    "Address": "130 South Street\nBorough of Freehold NJ 07728",
+    "Approx. Judgment*": "$320,082.88",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F00333924",
+    "Defendant": "Gregory F. Rochat",
+    "Description": "Approximate Dimensions: 275.79ft x 83.50ft x 248.82ft x 87.75ft\nNearest Cross Street: Approximately 78.82ft from the nearest street known as Brinkerhoff Avenue\nApproximate UPSET PRICE is $377,081.15 for the Sheriff's Sale.\nOCCUPANCY STATUS: Borrower Occupied\nPursuant to municipal tax search dated December 30,2025\nSubject to:\n2025 4th quarter taxes due 11/1/2025, $2,003.00 OPEN PLUS PENALTY\n2026 1st quarter taxes due 2/1/2026, $2,005.00 OPEN.\n2026 2nd quarter taxes due 5/1/2026, $2,005.00 OPEN.\nWater/Sewer: Acct: 2959 0 08/01/2025 - 10/31/2025, $0.01 OPEN PLUS PENALTY\nSubject to Final Reading.\nA full legal description can be found at the Office of the Clerk on Monmouth County in deeb Book 9571, at Page 2232",
+    "Parcel #": "Lot: 21; Block: 96 located on the tax map in The Borough of Freehold",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Property Note": "",
+    "Sales Date": "3/2/2026",
+    "Sheriff #": "FOR-24001862"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 320082.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "130 South Street Borough of Freehold NJ 07728",
+    "defendant": "Gregory F. Rochat",
+    "listing_status": "Settled",
+    "plaintiff": "Nationstar Mortgage LLC",
+    "sale_date": "2026-03-02"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 21; Block: 96 located on the tax map in The Borough of Freehold",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "property_note": null,
+  "sale_date": "2026-03-02",
+  "sheriff_number": "FOR-24001862",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Scheduled"
+    }
+  ]
+}

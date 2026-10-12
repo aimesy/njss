@@ -1,0 +1,58 @@
+{
+  "address": "586 Fairway Lane Unit 1435, Timeshare Estate No. 17 Galloway Township NJ 08205",
+  "attorney": "Fein, Such, Kahn & Shepard P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-8897-23",
+  "current_status": "Scheduled",
+  "deed": "Marriott Ownership Resort, Inc",
+  "deed_address": "1200 U.S. Highway 98 S, Lake Land, FL 33801",
+  "defendant": "Michael Bolton; Lorinda M. Bolton; Tracey Bolton",
+  "extracted": {},
+  "fields": {
+    "Address": "586 Fairway Lane\nUnit 1435, Timeshare Estate No. 17\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$6,265.04",
+    "Attorney": "Fein, Such, Kahn & Shepard P.C.",
+    "Court Case #": "F-8897-23",
+    "Deed": "Marriott Ownership Resort, Inc",
+    "Deed Address": "1200 U.S. Highway 98 S, Lake Land, FL 33801",
+    "Defendant": "Michael Bolton; Lorinda M. Bolton; Tracey Bolton",
+    "Plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/14/2024",
+    "Sheriff #": "F-24001256",
+    "Upset Amount": "$13,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 6265.04,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "586 Fairway Lane Unit 1435, Timeshare Estate No. 17 Galloway Township NJ 08205",
+    "defendant": "Michael Bolton; Lori...",
+    "listing_status": null,
+    "plaintiff": "Fairway Villas At Se...",
+    "sale_date": "2024-11-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-14",
+  "sheriff_number": "F-24001256",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-14",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 13000.0,
+  "upset_amount_label": "Upset Amount"
+}

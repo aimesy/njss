@@ -1,0 +1,67 @@
+{
+  "address": "5 SMITHFIELD ROAD WALDWICK NJ 07463",
+  "attorney": "HLADIK ONORATO AND FEDERMAN LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00628024",
+  "current_status": "Redeemed",
+  "defendant": "GEORGE ALZAPIEDI; NORMA ALZAPIEDI; ET AL",
+  "description": "ESTIMATED UPSET SHERIFF'S SALE BID AMOUNT: $320,000.00\nSUBJECT TO ANY FURTHER ORDERS OF ADDITIONAL SUMS EXECUTED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "5 SMITHFIELD ROAD\nWALDWICK NJ 07463",
+    "Approx. Upset*": "$290,646.18",
+    "Attorney": "HLADIK ONORATO AND FEDERMAN LLP",
+    "Court Case #": "F00628024",
+    "Defendant": "GEORGE ALZAPIEDI; NORMA ALZAPIEDI; ET AL",
+    "Description": "ESTIMATED UPSET SHERIFF'S SALE BID AMOUNT: $320,000.00\nSUBJECT TO ANY FURTHER ORDERS OF ADDITIONAL SUMS EXECUTED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 2, BLOCK 134.04 FKA 134-D",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BANC OF AMERICA FUNDING 2009-FT1 TRUST, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2009-FT1",
+    "Property Note": "",
+    "Sales Date": "5/4/2026",
+    "Sheriff #": "F-25002923"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "5 SMITHFIELD ROAD WALDWICK NJ 07463",
+    "defendant": "GEORGE ALZAPIEDI; NORMA ALZAPIEDI; ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BANC OF AMERICA FUNDING 2009-FT1 TRUST, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2009-FT1",
+    "sale_date": "2026-05-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 2, BLOCK 134.04 FKA 134-D",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BANC OF AMERICA FUNDING 2009-FT1 TRUST, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2009-FT1",
+  "property_note": null,
+  "sale_date": "2026-05-04",
+  "sheriff_number": "F-25002923",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 290646.18,
+  "upset_amount_label": "Approx. Upset*"
+}

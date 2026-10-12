@@ -1,0 +1,53 @@
+{
+  "address": "656 FARRAGUT AVENUE HADDONFIELD NJ 08007",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00933620",
+  "current_status": "Cancelled",
+  "defendant": "CHARLES C. LEONARD, JR., CAROLE F. LEONARD, CITIZENS BANK OF PENNSYLVANIA, UNITED STATES OF AMERICA, VICTORIA FIORENTINO, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "656 FARRAGUT AVENUE\nHADDONFIELD NJ 08007",
+    "Approx. Upset*": "$1,025,771.91",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F00933620",
+    "Defendant": "CHARLES C. LEONARD, JR., CAROLE F. LEONARD, CITIZENS BANK OF PENNSYLVANIA,\nUNITED STATES OF AMERICA, VICTORIA FIORENTINO, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "VALLEY NATIONAL BANK,",
+    "Property Note": "",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "FR-25002106"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "656 FARRAGUT AVENUE HADDONFIELD NJ 08007",
+    "defendant": "CHARLES C. LEONARD, JR., CAROLE F. LEONARD, CITIZENS BANK OF PENNSYLVANIA, \n UNITED STATES OF AMERICA, VICTORIA FIORENTINO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "VALLEY NATIONAL BANK,",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "VALLEY NATIONAL BANK,",
+  "property_note": null,
+  "sale_date": "2026-01-07",
+  "sheriff_number": "FR-25002106",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 1025771.91,
+  "upset_amount_label": "Approx. Upset*"
+}

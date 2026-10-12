@@ -1,0 +1,82 @@
+{
+  "address": "42 QUINBY PLACE WEST ORANGE NJ 07052",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00199525",
+  "current_status": "Cancelled",
+  "defendant": "JOHANNA CASTILLO; ET AL.",
+  "description": "LOT: 43 BLOCK: 23\nAPPROXIMATE DIMENSIONS: 115.00 X 35.00 X 115.00 X 35.00 FT\nNEAREST CROSS STREET: APPROXIMATELY 595.75FT TO THE NEAREST CROSS STREET KNOWN AS KINGSLEY STREET\nAPPROXIMATE UPSET AMOUNT IS $98,615.72 FOR THE SHERIFF SALE. PRIOR MORTGAGE TO JOHANNA CASTILLO, NOT MARRIED FROM MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. AS NOMINEE FOR WEICHERT FINANCIAL SERVICES IN THE ORGINIAL PRINCIPL AMOUNT OF $280,000.00. PURSUANT TO A MUNICIPAL TAX SEARCH DATED OCTOBER 1, 2025. SUBJECT TO: 2025 4TH QUARTER DUE 11/1/25, TO BE DETERMINED; 2026 1ST QUARTER TAXES DUE 2/1/2026, TO BE DETERMINED; 2026 2ND QUARTER TAXES DUE 5/1/2026, TO BE DETERMINED. SEWER. ACCT. 00689000, 1/1/2025 - 12/31/2025, $452.80 OPEN PLUS PENALTY.",
+  "extracted": {
+    "block": "23",
+    "lot": "43"
+  },
+  "fields": {
+    "Address": "42 QUINBY PLACE\nWEST ORANGE NJ 07052",
+    "Approx. Upset*": "$89,911.26",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F00199525",
+    "Defendant": "JOHANNA CASTILLO; ET AL.",
+    "Description": "LOT: 43 BLOCK: 23\nAPPROXIMATE DIMENSIONS: 115.00 X 35.00 X 115.00 X 35.00 FT\nNEAREST CROSS STREET: APPROXIMATELY 595.75FT TO THE NEAREST CROSS STREET KNOWN AS KINGSLEY STREET\nAPPROXIMATE UPSET AMOUNT IS $98,615.72 FOR THE SHERIFF SALE. PRIOR MORTGAGE TO JOHANNA CASTILLO, NOT MARRIED FROM MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. AS NOMINEE FOR WEICHERT FINANCIAL SERVICES IN THE ORGINIAL PRINCIPL AMOUNT OF $280,000.00. PURSUANT TO A MUNICIPAL TAX SEARCH DATED OCTOBER 1, 2025. SUBJECT TO: 2025 4TH QUARTER DUE 11/1/25, TO BE DETERMINED; 2026 1ST QUARTER TAXES DUE 2/1/2026, TO BE DETERMINED; 2026 2ND QUARTER TAXES DUE 5/1/2026, TO BE DETERMINED. SEWER. ACCT. 00689000, 1/1/2025 - 12/31/2025, $452.80 OPEN PLUS PENALTY.",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVING FUND SOCIETY, FSB, NOT ON ITS INDIVIDUAL CAPACITY BUT SOLELY AS TUSTEE OF RELIANT TRUST, SERIES DE II",
+    "Property Note": "",
+    "Sales Date": "8/18/2026",
+    "Sheriff #": "F-25003848"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "42 QUINBY PLACE WEST ORANGE NJ 07052",
+    "defendant": "JOHANNA CASTILLO; ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVING FUND SOCIETY, FSB, NOT ON ITS INDIVIDUAL CAPACITY BUT SOLELY AS TUSTEE OF RELIANT TRUST, SERIES DE II",
+    "sale_date": "2026-08-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVING FUND SOCIETY, FSB, NOT ON ITS INDIVIDUAL CAPACITY BUT SOLELY AS TUSTEE OF RELIANT TRUST, SERIES DE II",
+  "property_note": null,
+  "sale_date": "2026-08-18",
+  "sheriff_number": "F-25003848",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-12-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 89911.26,
+  "upset_amount_label": "Approx. Upset*"
+}

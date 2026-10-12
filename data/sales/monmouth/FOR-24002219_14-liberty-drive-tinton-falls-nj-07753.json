@@ -1,0 +1,56 @@
+{
+  "address": "14 Liberty Drive Tinton Falls NJ 07753",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00557224",
+  "current_status": "Scheduled",
+  "defendant": "Stacy Cardone, et al.",
+  "description": "Dimensions of Lot: 77 feet wide by 97 feet long\nNearest Cross Street: Colonial Drive\nEstimated upset bide amount: $234,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.To ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2024 Qtr 4 Due: 11/01/2024 $1,988.64 OPEN\n2025 Qtr 1 Due: 02/01/2025 $1,903.44 OPEN\n2025 Qtr 2 Due: 05/01/2025 $1,903.44 OPEN\nSewer: Tinton Falls MUA 556 Tinton Ave. Tinton Falls, NJ 07724 732-542-3400\nAcct: 4609 0 07/01/2024 - 12/31/2024 $200.00 OPEN PLUS PENALTY $200.00 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "77",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "14 Liberty Drive\nTinton Falls NJ 07753",
+    "Approx. Judgment*": "$215,088.82",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00557224",
+    "Defendant": "Stacy Cardone, et al.",
+    "Description": "Dimensions of Lot: 77 feet wide by 97 feet long\nNearest Cross Street: Colonial Drive\nEstimated upset bide amount: $234,000.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.To ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2024 Qtr 4 Due: 11/01/2024 $1,988.64 OPEN\n2025 Qtr 1 Due: 02/01/2025 $1,903.44 OPEN\n2025 Qtr 2 Due: 05/01/2025 $1,903.44 OPEN\nSewer: Tinton Falls MUA 556 Tinton Ave. Tinton Falls, NJ 07724 732-542-3400\nAcct: 4609 0 07/01/2024 - 12/31/2024 $200.00 OPEN PLUS PENALTY $200.00 OPEN PLUS PENALTY",
+    "Parcel #": "Tax Lot 4 Block 124.03 Tax Map of the Borough of Tinton Falls",
+    "Plaintiff": "Wells Fargo Bank, National Association, As Trustee For Asset Backed Securities Corporation Home Equity Loan Trust 2004-HE3, Asset Backed Pass-Through Certificates, Series 2004-HE3",
+    "Property Note": "",
+    "Sales Date": "2/12/2025",
+    "Sheriff #": "FOR-24002219"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 215088.82,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "14 Liberty Drive Tinton Falls NJ 07753",
+    "defendant": "Stacy Cardone, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Wells Fargo Bank, National Association, As Trustee For Asset Backed Securities Corporation Home Equity Loan Trust 2004-HE3, Asset Backed Pass-Through Certificates, Series 2004-HE3",
+    "sale_date": "2025-02-12"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot 4 Block 124.03 Tax Map of the Borough of Tinton Falls",
+  "plaintiff": "Wells Fargo Bank, National Association, As Trustee For Asset Backed Securities Corporation Home Equity Loan Trust 2004-HE3, Asset Backed Pass-Through Certificates, Series 2004-HE3",
+  "property_note": null,
+  "sale_date": "2025-02-12",
+  "sheriff_number": "FOR-24002219",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-02-12",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Scheduled"
+    }
+  ]
+}

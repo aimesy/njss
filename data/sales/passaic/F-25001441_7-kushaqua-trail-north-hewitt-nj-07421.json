@@ -1,0 +1,61 @@
+{
+  "address": "7 Kushaqua Trail North Hewitt NJ 07421",
+  "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 011339 24 CTL#163036",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "HELEN BARRALE",
+  "description": "Approximate dimensions: 50.05 x 131.62 x 50 x 129.44\nNearest cross street: Dogwood Lane\nEstimated upset sheriff's sale bid amount: $97,000.00\nSubject to any further orders of additional sums executed by the court\nThe sheriff hereby reserved the right to adjourn this sale without further notice through publication",
+  "extracted": {},
+  "fields": {
+    "Address": "7 Kushaqua Trail North\nHewitt NJ 07421",
+    "Approx. Upset*": "$85,770.54",
+    "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+    "Court Case #": "F 011339 24 CTL#163036",
+    "Defendant": "HELEN BARRALE",
+    "Description": "Approximate dimensions: 50.05 x 131.62 x 50 x 129.44\nNearest cross street: Dogwood Lane\nEstimated upset sheriff's sale bid amount: $97,000.00\nSubject to any further orders of additional sums executed by the court\nThe sheriff hereby reserved the right to adjourn this sale without further notice through publication",
+    "Parcel #": "TAX LOT 8 IN BLOCK 3007",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "1/6/2026",
+    "Sheriff #": "F-25001441"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7 Kushaqua Trail North Hewitt NJ 07421",
+    "defendant": "HELEN BARRALE",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 8 IN BLOCK 3007",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-01-06",
+  "sheriff_number": "F-25001441",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-10-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 85770.54,
+  "upset_amount_label": "Approx. Upset*"
+}

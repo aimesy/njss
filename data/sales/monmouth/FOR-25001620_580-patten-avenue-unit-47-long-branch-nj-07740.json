@@ -1,0 +1,57 @@
+{
+  "address": "580 Patten Avenue Unit 47 Long Branch NJ 07740",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00159225",
+  "current_status": "Scheduled",
+  "defendant": "Roger Rudzinski, et al",
+  "description": "Dimensions of Lot: (Approximately) Condo\nNearest Cross Street: Marina Bay Drive\nThe estimated upset amount for the scheduled sheriff sale is currently $364,425.27.\nThe upset price is not the same as a payoff or judgment redemption amount.\nProperty is occupied by unknown.",
+  "extracted": {},
+  "fields": {
+    "Address": "580 Patten Avenue Unit 47\nLong Branch NJ 07740",
+    "Approx. Judgment*": "$333,017.96",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00159225",
+    "Defendant": "Roger Rudzinski, et al",
+    "Description": "Dimensions of Lot: (Approximately) Condo\nNearest Cross Street: Marina Bay Drive\nThe estimated upset amount for the scheduled sheriff sale is currently $364,425.27.\nThe upset price is not the same as a payoff or judgment redemption amount.\nProperty is occupied by unknown.",
+    "Parcel #": "Lot No. 9.47 Block 489 Tax Map of City of Long Branch",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for Freddie Mac SLST 2022-1 Participation Interest Trust",
+    "Property Note": "",
+    "Sales Date": "11/26/2025",
+    "Sheriff #": "FOR-25001620"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 333017.96,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "580 Patten Avenue Unit 47 Long Branch NJ 07740",
+    "defendant": "Roger Rudzinski, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for Freddie Mac SLST 2022-1 Participation Interest Trust",
+    "sale_date": "2025-11-26"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot No. 9.47 Block 489 Tax Map of City of Long Branch",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for Freddie Mac SLST 2022-1 Participation Interest Trust",
+  "property_note": null,
+  "sale_date": "2025-11-26",
+  "sheriff_number": "FOR-25001620",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-26",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Scheduled"
+    }
+  ]
+}

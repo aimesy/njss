@@ -1,0 +1,66 @@
+{
+  "address": "844 Smith Bowen Road Galloway Township NJ 08220",
+  "attorney": "Fein, Such, Kahn & Shepard P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-2573-24",
+  "current_status": "Scheduled",
+  "deed": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "deed_address": "3501 Olympus Boulevard Dallas, TX 75019",
+  "defendant": "Michael L. Carson, Jr; Mr./Mrs. Carson, Spouse of Michael L. Carson, Jr; Cavalry SPV I, LLC Assignee of Citibank, N.A./The Home Depot",
+  "extracted": {},
+  "fields": {
+    "Address": "844 Smith Bowen Road\nGalloway Township NJ 08220",
+    "Approx. Judgment*": "$367,812.21",
+    "Attorney": "Fein, Such, Kahn & Shepard P.C.",
+    "Court Case #": "F-2573-24",
+    "Deed": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Deed Address": "3501 Olympus Boulevard Dallas, TX 75019",
+    "Defendant": "Michael L. Carson, Jr; Mr./Mrs. Carson, Spouse of Michael L. Carson, Jr; Cavalry SPV I, LLC Assignee of Citibank, N.A./The Home Depot",
+    "Plaintiff": "U.S. Bank Trust National Association Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "2/5/2026",
+    "Sheriff #": "F-25001014",
+    "Upset Amount": "$360,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 367812.21,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "844 Smith Bowen Road Galloway Township NJ 08220",
+    "defendant": "Michael L. Carson, J...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2026-02-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association Not in its Individual Capacity but Solely as Owner Trustee for RCF 2 Acquisition Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-02-05",
+  "sheriff_number": "F-25001014",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-05",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 360000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,65 @@
+{
+  "address": "53 Lenape Trail Unit #34 Building 111 Tinton Falls NJ 07724",
+  "attorney": "Greenbaum, Rowe, Smith, & Davis LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F2147818",
+  "current_status": "Scheduled",
+  "defendant": "Damien Mornhineway,",
+  "description": "Nearest Cross Street: Hope Road\nApproximate Dimensions: 1404 Sq. Ft.\nPursuant to search dated February 9, 2021\nSubject to: Nationstar Mortgage, Inc. $341,992.01\nSecretary of Housing and Urban Development $88, 035.80\nCertificate of Sale for Unpaid Municipal Liens $420.20\nLenape Woods Condominium Association, Inc. $37,058.90",
+  "extracted": {},
+  "fields": {
+    "Address": "53 Lenape Trail\nUnit #34 Building 111\nTinton Falls NJ 07724",
+    "Approx. Judgment*": "$22,252.78",
+    "Attorney": "Greenbaum, Rowe, Smith, & Davis LLP",
+    "Court Case #": "F2147818",
+    "Defendant": "Damien Mornhineway,",
+    "Description": "Nearest Cross Street: Hope Road\nApproximate Dimensions: 1404 Sq. Ft.\nPursuant to search dated February 9, 2021\nSubject to: Nationstar Mortgage, Inc. $341,992.01\nSecretary of Housing and Urban Development $88, 035.80\nCertificate of Sale for Unpaid Municipal Liens $420.20\nLenape Woods Condominium Association, Inc. $37,058.90",
+    "Parcel #": "Lot 34, Block 56.01 Tax Map of the Borough of Tinton Falls",
+    "Plaintiff": "Lenape Woods Condominium Association, Inc., a New Jersey nonprofit corporation",
+    "Property Note": "",
+    "Sales Date": "4/17/2026",
+    "Sheriff #": "FOR-21000223"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 22252.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "53 Lenape Trail Unit #34 Building 111 Tinton Falls NJ 07724",
+    "defendant": "Damien Mornhineway,",
+    "listing_status": "Canceled",
+    "plaintiff": "Lenape Woods Condominium Association, Inc., a New Jersey nonprofit corporation",
+    "sale_date": "2026-04-17"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 34, Block 56.01 Tax Map of the Borough of Tinton Falls",
+  "plaintiff": "Lenape Woods Condominium Association, Inc., a New Jersey nonprofit corporation",
+  "property_note": null,
+  "sale_date": "2026-04-17",
+  "sheriff_number": "FOR-21000223",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-04-17",
+      "status": "Canceled"
+    },
+    {
+      "date": "2022-02-14",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2022-01-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2021-11-29",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2021-11-01",
+      "status": "Scheduled"
+    }
+  ]
+}

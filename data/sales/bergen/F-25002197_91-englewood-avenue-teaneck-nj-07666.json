@@ -1,0 +1,59 @@
+{
+  "address": "91 ENGLEWOOD AVENUE TEANECK NJ 07666",
+  "attorney": "WALTER NEALY PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00481425",
+  "current_status": "Cancelled",
+  "defendant": "ROQUE CONSUEGRA; LESLIE CONSUEGRA, ET AL.",
+  "description": "ESTIMATED UPSET BID AMOUNT: $415,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "91 ENGLEWOOD AVENUE\nTEANECK NJ 07666",
+    "Approx. Upset*": "$377,805.26",
+    "Attorney": "WALTER NEALY PC",
+    "Court Case #": "F00481425",
+    "Defendant": "ROQUE CONSUEGRA; LESLIE CONSUEGRA, ET AL.",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $415,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 31, BLOCK 5611",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES INABS 2007-B, HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES INABS 2007-B",
+    "Property Note": "",
+    "Sales Date": "5/1/2026",
+    "Sheriff #": "F-25002197"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "91 ENGLEWOOD AVENUE TEANECK NJ 07666",
+    "defendant": "ROQUE CONSUEGRA; LESLIE CONSUEGRA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES INABS 2007-B, HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES INABS 2007-B",
+    "sale_date": "2026-05-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 31, BLOCK 5611",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES INABS 2007-B, HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES INABS 2007-B",
+  "property_note": null,
+  "sale_date": "2026-05-01",
+  "sheriff_number": "F-25002197",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-05-01",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 377805.26,
+  "upset_amount_label": "Approx. Upset*"
+}

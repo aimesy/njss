@@ -1,0 +1,61 @@
+{
+  "address": "1942 42ND STREET PENNSAUKEN NJ 08110",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01026723",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "SHATINA SHARAY HADDEN, ETAL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1942 42ND STREET\nPENNSAUKEN NJ 08110",
+    "Approx. Upset*": "$177,841.01",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F01026723",
+    "Defendant": "SHATINA SHARAY HADDEN, ETAL.",
+    "Parcel #": "",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "10/6/2026",
+    "Sheriff #": "FR-25002584"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1942 42ND STREET PENNSAUKEN NJ 08110",
+    "defendant": "SHATINA SHARAY HADDEN, ETAL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-10-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-10-06",
+  "sheriff_number": "FR-25002584",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-06",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 177841.01,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "368 CLEVELAND AVENUE WEST BERLIN NJ 08091",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00980225",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "ROBERTA M. SULOFF; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+  "extracted": {},
+  "fields": {
+    "Address": "368 CLEVELAND AVENUE\nWEST BERLIN NJ 08091",
+    "Approx. Upset*": "$279,423.80",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00980225",
+    "Defendant": "ROBERTA M. SULOFF; UNITED STATES OF AMERICA ON\nBEHALF OF THE SECRETARY OF HOUSING AND URBAN\nDEVELOPMENT",
+    "Parcel #": "",
+    "Plaintiff": "BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS\nOWNER TRUSTEEFOR MORTGAGE ASSESTS\nMANAGEMENT SERIES I TRSUT,",
+    "Property Note": "",
+    "Sales Date": "5/6/2026",
+    "Sheriff #": "FR-26000244"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "368 CLEVELAND AVENUE WEST BERLIN NJ 08091",
+    "defendant": "ROBERTA M. SULOFF; UNITED STATES OF AMERICA ON \nBEHALF OF THE SECRETARY OF HOUSING AND URBAN \nDEVELOPMENT",
+    "listing_status": null,
+    "plaintiff": "BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS \nOWNER TRUSTEEFOR MORTGAGE ASSESTS \nMANAGEMENT SERIES I TRSUT,",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS OWNER TRUSTEEFOR MORTGAGE ASSESTS MANAGEMENT SERIES I TRSUT,",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "FR-26000244",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 279423.8,
+  "upset_amount_label": "Approx. Upset*"
+}

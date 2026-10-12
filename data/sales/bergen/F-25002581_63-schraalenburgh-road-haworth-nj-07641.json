@@ -1,0 +1,68 @@
+{
+  "address": "63 SCHRAALENBURGH ROAD HAWORTH NJ 07641",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00832724",
+  "current_status": "Cancelled",
+  "defendant": "HANNAH E. COLEMAN",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $566,438.60\nOCCUPANCY STATUS: NON-OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "occupancy": "NON-OWNER OCCUPIED",
+    "upset_amount": 566438.6
+  },
+  "fields": {
+    "Address": "63 SCHRAALENBURGH ROAD\nHAWORTH NJ 07641",
+    "Approx. Upset*": "$509,393.09",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00832724",
+    "Defendant": "HANNAH E. COLEMAN",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $566,438.60\nOCCUPANCY STATUS: NON-OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Parcel #": "LOT 12, BLOCK 1800",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR ISV TRUST 1A",
+    "Property Note": "",
+    "Sales Date": "3/30/2026",
+    "Sheriff #": "F-25002581"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "63 SCHRAALENBURGH ROAD HAWORTH NJ 07641",
+    "defendant": "HANNAH E. COLEMAN",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR ISV TRUST 1A",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 12, BLOCK 1800",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR ISV TRUST 1A",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "F-25002581",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 509393.09,
+  "upset_amount_label": "Approx. Upset*"
+}

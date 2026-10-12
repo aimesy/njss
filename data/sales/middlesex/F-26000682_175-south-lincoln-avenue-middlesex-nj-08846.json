@@ -1,0 +1,72 @@
+{
+  "address": "175 SOUTH LINCOLN AVENUE MIDDLESEX NJ 08846",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00021625",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "FERDINAND NOLASCO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$239,450.98",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00021625",
+    "Defendant": "FERDINAND NOLASCO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 8 BLOCK 245",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR THE GSAMP TRUST 2002, NC1 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2002-NC1",
+    "Property Address": "175 SOUTH LINCOLN AVENUE\nMIDDLESEX NJ 08846",
+    "Property Note": "The property to be sold is located in the BORO of MIDDLESEX in the County of MIDDLESEX and State of New Jersey.\nCommonly known as 175 SOUFH LINCOLN AVE, MIDDLESEX, NJ 08846\nTax LOT 8 BLOCK 245\nDimensions of Lot: 70X548\nNearest Cross Street: Denton Place\nEstimated upset bid amount: $260,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Unknown\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\n2026 Qtr. 4 Due: 11/01/2026 $2,279.55 OPEN\n2027 Qtr. 1 Due: 02/01/2027 $2,136.71 OPEN\n2027 Qtr. 2 Due: 05/01/2027 $2,136.70 OPEN",
+    "Sale Date": "12/2/2026",
+    "Sheriff #": "F-26000682"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 239450.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "175 SOUTH LINCOLN AVENUE MIDDLESEX NJ 08846",
+    "defendant": "FERDINAND NOLASCO, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR THE GSAMP TRUST 2002, NC1 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2002-NC1",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 8 BLOCK 245",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR THE GSAMP TRUST 2002, NC1 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2002-NC1",
+  "property_note": "The property to be sold is located in the BORO of MIDDLESEX in the County of MIDDLESEX and State of New Jersey.\nCommonly known as 175 SOUFH LINCOLN AVE, MIDDLESEX, NJ 08846\nTax LOT 8 BLOCK 245\nDimensions of Lot: 70X548\nNearest Cross Street: Denton Place\nEstimated upset bid amount: $260,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Unknown\nTHE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION.\n2026 Qtr. 4 Due: 11/01/2026 $2,279.55 OPEN\n2027 Qtr. 1 Due: 02/01/2027 $2,136.71 OPEN\n2027 Qtr. 2 Due: 05/01/2027 $2,136.70 OPEN",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-26000682",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled - Foreclosure"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

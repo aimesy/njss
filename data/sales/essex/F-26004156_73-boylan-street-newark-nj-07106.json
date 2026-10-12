@@ -1,0 +1,56 @@
+{
+  "address": "73 BOYLAN STREET NEWARK NJ 07106",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "973-538-4700",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F754423",
+  "current_status": "Scheduled",
+  "defendant": "NEWARK REALTY PLUS, LLC",
+  "description": "LOT: 97 BLOCK: 4063\nAPPROXIMATE DIMENSIONS: 33.4 X 100\nNEAREST CROSS STREET: SOUTH ORANGE AVE\nGOOD FAITH ESTIMATE OF UPSET PRICE: $898,391.56. OCCUPANCY STATUS: UNKNOWN\nPRIOR LIENS/ENCUMBRANCES - WATER OPEN PLUS PENALTY $3,759.70; TOTAL AS OF SEPTEMBER 21, 2026: $3,759.70.\nBEGINNING AT A POINT IN THE WESTERLY LINE OF BOYLAN STREET, DISTANT 884.87 FEET SOUTHERLY FRM THE INTERSECTION OF THE WESTERLY LINE OF BOYLAN STREET WITH THE SOUTHERLY LINE OF SOUTH ORANGE AVENUE AND RUNNING; THENCE",
+  "extracted": {
+    "block": "4063",
+    "lot": "97",
+    "occupancy": "UNKNOWN",
+    "upset_amount": 898391.56
+  },
+  "fields": {
+    "Address": "73 BOYLAN STREET\nNEWARK NJ 07106",
+    "Approx. Upset*": "$758,204.82",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "973-538-4700",
+    "Court Case #": "F754423",
+    "Defendant": "NEWARK REALTY PLUS, LLC",
+    "Description": "LOT: 97 BLOCK: 4063\nAPPROXIMATE DIMENSIONS: 33.4 X 100\nNEAREST CROSS STREET: SOUTH ORANGE AVE\nGOOD FAITH ESTIMATE OF UPSET PRICE: $898,391.56. OCCUPANCY STATUS: UNKNOWN\nPRIOR LIENS/ENCUMBRANCES - WATER OPEN PLUS PENALTY $3,759.70; TOTAL AS OF SEPTEMBER 21, 2026: $3,759.70.\nBEGINNING AT A POINT IN THE WESTERLY LINE OF BOYLAN STREET, DISTANT 884.87 FEET SOUTHERLY FRM THE INTERSECTION OF THE WESTERLY LINE OF BOYLAN STREET WITH THE SOUTHERLY LINE OF SOUTH ORANGE AVENUE AND RUNNING; THENCE",
+    "Parcel #": "",
+    "Plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26004156"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "73 BOYLAN STREET NEWARK NJ 07106",
+    "defendant": "NEWARK REALTY PLUS, LLC",
+    "listing_status": null,
+    "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26004156",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 758204.82,
+  "upset_amount_label": "Approx. Upset*"
+}

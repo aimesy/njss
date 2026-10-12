@@ -1,0 +1,74 @@
+{
+  "address": "141 Unexpected Road Newfield (Buena Vista Twp) NJ 08344",
+  "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008254-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Kyle Chute",
+  "extracted": {},
+  "fields": {
+    "Address": "141 Unexpected Road\nNewfield (Buena Vista Twp) NJ 08344",
+    "Approx. Judgment*": "$201,541.48",
+    "Attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+    "Court Case #": "F-008254-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Kyle Chute",
+    "Plaintiff": "Specialized Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "11/7/2024",
+    "Sheriff #": "F-24000652",
+    "Upset Amount": "$220,800.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 201541.48,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "141 Unexpected Road Newfield (Buena Vista Twp) NJ 08344",
+    "defendant": "Kyle Chute...",
+    "listing_status": null,
+    "plaintiff": "Specialized Loan Ser...",
+    "sale_date": "2024-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Specialized Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2024-11-07",
+  "sheriff_number": "F-24000652",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-07",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 220800.0,
+  "upset_amount_label": "Upset Amount"
+}

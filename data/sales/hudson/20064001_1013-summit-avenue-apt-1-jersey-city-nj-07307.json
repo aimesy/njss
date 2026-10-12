@@ -1,0 +1,61 @@
+{
+  "address": "1013 SUMMIT AVENUE APT. 1 JERSEY CITY NJ 07307",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "860-241-2806",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-002873-26",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "TODD DALE; MRS. TODD DALE, WIFE OF TODD DALE; AND PROPONENT FEDERAL CREDIT UNION",
+  "description": "LOT 22 FKA 91.A, BLOCK 2705 FKA 869\nAPPROXIMATE DIMENSIONS: 21.16 X 95.00 FEET\nNEAREST CROSS STREET: CHARLES STREET\nSUBJECT TO: 2026 3RD QUARTER TAXES IN THE AMOUNT OF $3,242.30, OPEN PLUS PENALTY.\nUPSET PRICE: $507,899.36\nOCCUPANCY STATUS: UNKNOWN\n\"TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.\"",
+  "extracted": {
+    "block": "2705",
+    "lot": "22",
+    "occupancy": "UNKNOWN",
+    "upset_amount": 507899.36
+  },
+  "fields": {
+    "Address": "1013 SUMMIT AVENUE APT. 1\nJERSEY CITY NJ 07307",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "860-241-2806",
+    "Court Case #": "F-002873-26",
+    "Defendant": "TODD DALE; MRS. TODD DALE, WIFE OF TODD DALE; AND PROPONENT FEDERAL CREDIT UNION",
+    "Description": "LOT 22 FKA 91.A, BLOCK 2705 FKA 869\nAPPROXIMATE DIMENSIONS: 21.16 X 95.00 FEET\nNEAREST CROSS STREET: CHARLES STREET\nSUBJECT TO: 2026 3RD QUARTER TAXES IN THE AMOUNT OF $3,242.30, OPEN PLUS PENALTY.\nUPSET PRICE: $507,899.36\nOCCUPANCY STATUS: UNKNOWN\n\"TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.\"",
+    "Good Faith Upset*": "$507,899.36",
+    "Judgment": "$466,312.60",
+    "Plaintiff": "THIRD FEDERAL SAVINGS AND LOAN ASSOCIATION OF CLEVELAND",
+    "Property Note": "",
+    "Sales Date": "1/7/2027",
+    "Sheriff #": "20064001"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 466312.6,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1013 SUMMIT AVENUE APT. 1 JERSEY CITY NJ 07307",
+    "defendant": "TODD DALE; MRS. TODD DALE, WIFE OF TODD DALE; AND PROPONENT FEDERAL CREDIT UNION",
+    "listing_status": null,
+    "plaintiff": "THIRD FEDERAL SAVINGS AND LOAN ASSOCIATION OF CLEVELAND",
+    "sale_date": "2027-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "THIRD FEDERAL SAVINGS AND LOAN ASSOCIATION OF CLEVELAND",
+  "property_note": null,
+  "sale_date": "2027-01-07",
+  "sheriff_number": "20064001",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-10-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 507899.36,
+  "upset_amount_label": "Good Faith Upset*"
+}

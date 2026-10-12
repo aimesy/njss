@@ -1,0 +1,58 @@
+{
+  "address": "18 Country Hickory Lane Egg Harbor Township NJ 08234",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007698-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "James M. Brown, deceased, his heirs, devisees and personal representatives, and his, their, or any of their successors in right, title and interest; Robin Brown, her heirs, devisees and personal representatives, and her, their, or any of their successors in right, title and interest; Jillian M. Brown, individually and as administrator of the estate of Robin Peterson-Brown; James M. Brown Jr.; PNC Bank, N.A.; CitiBank, N.A.; Atlantic CO BD Social Servs; FAA Technical Center Federal Credit Union; Shore Memorial Hospital; Discovery Inc.; High Point Insurance, Subrogee Saveng Phommathep and Viengham Prommathep; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "18 Country Hickory Lane\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$43,184.13",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-007698-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "James M. Brown, deceased, his heirs, devisees and personal representatives, and his, their, or any of their successors in right, title and interest; Robin Brown, her heirs, devisees and personal representatives, and her, their, or any of their successors in right, title and interest; Jillian M. Brown, individually and as administrator of the estate of Robin Peterson-Brown; James M. Brown Jr.; PNC Bank, N.A.; CitiBank, N.A.; Atlantic CO BD Social Servs; FAA Technical Center Federal Credit Union; Shore Memorial Hospital; Discovery Inc.; High Point Insurance, Subrogee Saveng Phommathep and Viengham Prommathep; State of New Jersey; United States of America",
+    "Plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "4/23/2026",
+    "Sheriff #": "F-26000218",
+    "Upset Amount": "$48,894.89"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 43184.13,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "18 Country Hickory Lane Egg Harbor Township NJ 08234",
+    "defendant": "James M. Brown, dece...",
+    "listing_status": null,
+    "plaintiff": "Rocket Mortgage, LLC...",
+    "sale_date": "2026-04-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2026-04-23",
+  "sheriff_number": "F-26000218",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 48894.89,
+  "upset_amount_label": "Upset Amount"
+}

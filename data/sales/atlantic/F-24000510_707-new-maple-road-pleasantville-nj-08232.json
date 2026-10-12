@@ -1,0 +1,86 @@
+{
+  "address": "707 New Maple Road Pleasantville NJ 08232",
+  "attorney": "Hladik, Onorato & Federman, LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-012155-23",
+  "current_status": "Scheduled",
+  "deed": "United Asset Management, LLC",
+  "deed_address": "18682 Beach Boulevard, Suite 250, Huntington Beach, CA 92648",
+  "defendant": "Laquan Evans; Mr. or Mrs. Evans, the Spouse, Domestic Partner, Civil Union Partner of Laquan Evans",
+  "extracted": {},
+  "fields": {
+    "Address": "707 New Maple Road\nPleasantville NJ 08232",
+    "Approx. Judgment*": "$180,321.59",
+    "Attorney": "Hladik, Onorato & Federman, LLP",
+    "Court Case #": "F-012155-23",
+    "Deed": "United Asset Management, LLC",
+    "Deed Address": "18682 Beach Boulevard, Suite 250, Huntington Beach, CA 92648",
+    "Defendant": "Laquan Evans; Mr. or Mrs. Evans, the Spouse, Domestic Partner, Civil Union Partner of Laquan Evans",
+    "Plaintiff": "United Asset Management, LLC",
+    "Priors": "TAX SALE CERTIFICATE NO. 10-01087, AMOUNT: $273.52\nTAX SALE CERTIFICATE NO. 15-01035, AMOUNT: $616.13\nTAX SAKE CERTIFICATE NO. 19-00550, AMOUNT: $865.37\nTAX SALE CERTIFICATE NO. 21-00481, AMOUNT: $455.93\nTAX SALE CERTIFICATE NO. 22-00525, AMOUNT: $323.62\nTOTAL: $2,534.57",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "2/13/2025",
+    "Sheriff #": "F-24000510",
+    "Upset Amount": "$198,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 180321.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "707 New Maple Road Pleasantville NJ 08232",
+    "defendant": "Laquan Evans; Mr. or...",
+    "listing_status": null,
+    "plaintiff": "United Asset Managem...",
+    "sale_date": "2025-02-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "United Asset Management, LLC",
+  "priors": "TAX SALE CERTIFICATE NO. 10-01087, AMOUNT: $273.52 TAX SALE CERTIFICATE NO. 15-01035, AMOUNT: $616.13 TAX SAKE CERTIFICATE NO. 19-00550, AMOUNT: $865.37 TAX SALE CERTIFICATE NO. 21-00481, AMOUNT: $455.93 TAX SALE CERTIFICATE NO. 22-00525, AMOUNT: $323.62 TOTAL: $2,534.57",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-02-13",
+  "sheriff_number": "F-24000510",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-13",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 198000.0,
+  "upset_amount_label": "Upset Amount"
+}

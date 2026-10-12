@@ -1,0 +1,57 @@
+{
+  "address": "3 ARNETT AVENUE LAMBERTVILLE NJ 08530",
+  "attorney": "WEBER GALLAGHER SIMPSON",
+  "attorney_phone": null,
+  "county": "Hunterdon County, NJ",
+  "county_id": 32,
+  "court_case_number": "F-000229-26",
+  "current_status": "Scheduled",
+  "defendant": "BIZMARK LLC, PAUL V. LIONETTI, FRANCES C. LIONETTI , AND LAURIE HOFFMAN ; ET AL.",
+  "description": "GOOD FAITH ESTIMATE UPSET PRICE IS: $357,857.78",
+  "extracted": {
+    "upset_amount": 357857.78
+  },
+  "fields": {
+    "Address": "3 ARNETT AVENUE\nLAMBERTVILLE NJ 08530",
+    "Approx Judgment": "$313,364.42",
+    "Attorney": "WEBER GALLAGHER SIMPSON",
+    "Attorney Phone": "",
+    "Court Case #": "F-000229-26",
+    "Defendant": "BIZMARK LLC, PAUL V. LIONETTI, FRANCES C. LIONETTI , AND LAURIE HOFFMAN ; ET AL.",
+    "Parcel #": "TAX LOT AND BLOCK NO.: LOT 42 IN BLOCK 1006",
+    "Plaintiff": "LOAN FUNDER LLC, SERIES 59783",
+    "Property Details": "GOOD FAITH ESTIMATE UPSET PRICE IS: $357,857.78",
+    "Property Note": "GOOD FAITH ESTIMATE UPSET PRICE IS:$357,857.78",
+    "Sales Date": "9/16/2026",
+    "Sheriff #": "F-4177"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 313364.42,
+  "judgment_amount_label": "Approx Judgment",
+  "listing": {
+    "address": "3 ARNETT AVENUE LAMBERTVILLE NJ 08530",
+    "defendant": "BIZMARK LLC, PAUL V. LIONETTI, FRANCES C. LIONETTI , AND LAURIE HOFFMAN ; ET AL.",
+    "listing_status": null,
+    "plaintiff": "LOAN FUNDER LLC, SERIES 59783",
+    "sale_date": "2026-09-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
+  "parcel": "TAX LOT AND BLOCK NO.: LOT 42 IN BLOCK 1006",
+  "plaintiff": "LOAN FUNDER LLC, SERIES 59783",
+  "property_note": "GOOD FAITH ESTIMATE UPSET PRICE IS:$357,857.78",
+  "sale_date": "2026-09-16",
+  "sheriff_number": "F-4177",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
+  "status_history": [
+    {
+      "date": "2026-09-16",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Scheduled"
+    }
+  ]
+}

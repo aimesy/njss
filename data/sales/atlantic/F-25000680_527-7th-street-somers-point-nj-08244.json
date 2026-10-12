@@ -1,0 +1,62 @@
+{
+  "address": "527 7th Street Somers Point NJ 08244",
+  "attorney": "Gary C. Zeitz, L.L.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-9604-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Don Kelly a/k/a Donald Kelly; State of New Jersey; Sharon Joyce Erenler; Ali Cem Erenler; Lilliston Chrysler Dodge Jeep and United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "527 7th Street\nSomers Point NJ 08244",
+    "Approx. Judgment*": "$46,002.62",
+    "Attorney": "Gary C. Zeitz, L.L.C.",
+    "Court Case #": "F-9604-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Don Kelly a/k/a Donald Kelly; State of New Jersey; Sharon Joyce Erenler; Ali Cem Erenler; Lilliston Chrysler Dodge Jeep and United States of America",
+    "Plaintiff": "Fundpality II, LLC",
+    "Priors": "Open tax quarters and unpaid municipal charges due and owing to the City of Somers Point as of 6/16/25, amount: $91.04",
+    "Property Note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+    "Sales Date": "9/18/2025",
+    "Sheriff #": "F-25000680",
+    "Upset Amount": "$62,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 46002.62,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "527 7th Street Somers Point NJ 08244",
+    "defendant": "Don Kelly a/k/a Dona...",
+    "listing_status": null,
+    "plaintiff": "Fundpality II, LLC...",
+    "sale_date": "2025-09-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Fundpality II, LLC",
+  "priors": "Open tax quarters and unpaid municipal charges due and owing to the City of Somers Point as of 6/16/25, amount: $91.04",
+  "property_note": "OCCUPANCY STATUS: TAX SALE CERTIFICATE",
+  "sale_date": "2025-09-18",
+  "sheriff_number": "F-25000680",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-09-18",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-09-18",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 62000.0,
+  "upset_amount_label": "Upset Amount"
+}

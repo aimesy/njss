@@ -1,0 +1,68 @@
+{
+  "address": "122 BOND STREET ISELIN NJ 08830",
+  "attorney": "MCCABE, WEISBERG & CONWAY LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 802-4300",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00943222",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "VIRGINIA TYLKA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$271,033.87",
+    "Attorney": "MCCABE, WEISBERG & CONWAY LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 802-4300",
+    "Court Case #": "F00943222",
+    "Defendant": "VIRGINIA TYLKA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 27 BLOCK 395.03 FKA 395-C",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Address": "122 BOND STREET\nISELIN NJ 08830",
+    "Property Note": "",
+    "Sale Date": "4/30/2025",
+    "Sheriff #": "F-24000542"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 271033.87,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "122 BOND STREET ISELIN NJ 08830",
+    "defendant": "VIRGINIA TYLKA, ET ALS.",
+    "listing_status": "Adjourned - Court",
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2025-04-30"
+  },
+  "listing_status": "Adjourned - Court",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 27 BLOCK 395.03 FKA 395-C",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2025-04-30",
+  "sheriff_number": "F-24000542",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-04-29",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

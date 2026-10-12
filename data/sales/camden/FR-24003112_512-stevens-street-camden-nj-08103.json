@@ -1,0 +1,61 @@
+{
+  "address": "512 STEVENS STREET CAMDEN NJ 08103",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00581524",
+  "current_status": "Defendant Adjournment",
+  "defendant": "BYALMA TORRES; OSCAR REYES; LEXINGTON NATIONAL INSURANCE CORPORATION;UNKNOWN OCCUPANTS #1-10 N/K/A OSCAR Y. REYES, OCCUPANT; ET AL.,",
+  "extracted": {},
+  "fields": {
+    "Address": "512 STEVENS STREET\nCAMDEN NJ 08103",
+    "Approx. Upset*": "$133,714.22",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00581524",
+    "Defendant": "BYALMA TORRES; OSCAR REYES; LEXINGTON NATIONAL INSURANCE\nCORPORATION;UNKNOWN OCCUPANTS #1-10 N/K/A OSCAR Y. REYES,\nOCCUPANT; ET AL.,",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT INDIVIDUALLY,BUT SOLELY AS\nTRUSTEE FOR RESIDENTIAL MORTGAGE AGGREGATION TRUST,",
+    "Property Note": "",
+    "Sales Date": "2/25/2026",
+    "Sheriff #": "FR-24003112"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "512 STEVENS STREET CAMDEN NJ 08103",
+    "defendant": "BYALMA TORRES; OSCAR REYES; LEXINGTON NATIONAL INSURANCE \nCORPORATION;UNKNOWN OCCUPANTS #1-10 N/K/A OSCAR Y. REYES, \nOCCUPANT; ET AL.,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT INDIVIDUALLY,BUT SOLELY AS \nTRUSTEE FOR RESIDENTIAL MORTGAGE AGGREGATION TRUST,",
+    "sale_date": "2026-02-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT INDIVIDUALLY,BUT SOLELY AS TRUSTEE FOR RESIDENTIAL MORTGAGE AGGREGATION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-02-25",
+  "sheriff_number": "FR-24003112",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-02-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 133714.22,
+  "upset_amount_label": "Approx. Upset*"
+}

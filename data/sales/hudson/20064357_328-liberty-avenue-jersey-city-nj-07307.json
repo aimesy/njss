@@ -1,0 +1,56 @@
+{
+  "address": "328 LIBERTY AVENUE JERSEY CITY NJ 07307",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-001153-26",
+  "current_status": "Scheduled",
+  "defendant": "BENSON PHILLIPS, ET AL.",
+  "description": "TAX LOT 36, TAX BLOCK 3406\nAPPROXIMATE DIMENSIONS: 95.75' X 25.00' X 100.92' X 25.53\nNEAREST CROSS STREET: ZABRISKIE STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $412,000.00\nOCCUPANCY STATUS: UNKOWN",
+  "extracted": {
+    "block": "3406",
+    "lot": "36",
+    "occupancy": "UNKOWN"
+  },
+  "fields": {
+    "Address": "328 LIBERTY AVENUE\nJERSEY CITY NJ 07307",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-001153-26",
+    "Defendant": "BENSON PHILLIPS, ET AL.",
+    "Description": "TAX LOT 36, TAX BLOCK 3406\nAPPROXIMATE DIMENSIONS: 95.75' X 25.00' X 100.92' X 25.53\nNEAREST CROSS STREET: ZABRISKIE STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $412,000.00\nOCCUPANCY STATUS: UNKOWN",
+    "Good Faith Upset*": "",
+    "Judgment": "$386,289.13",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF THE ELLINGTON FINANCIAL MORTGAGE TRUST 2020-2",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "20064357"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 386289.13,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "328 LIBERTY AVENUE JERSEY CITY NJ 07307",
+    "defendant": "BENSON PHILLIPS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF THE ELLINGTON FINANCIAL MORTGAGE TRUST 2020-2",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF THE ELLINGTON FINANCIAL MORTGAGE TRUST 2020-2",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "20064357",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-11-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

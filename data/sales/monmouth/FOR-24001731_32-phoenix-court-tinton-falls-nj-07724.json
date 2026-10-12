@@ -1,0 +1,56 @@
+{
+  "address": "32 Phoenix Court Tinton Falls NJ 07724",
+  "attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00925123",
+  "current_status": "Scheduled",
+  "defendant": "Matthew Wisniewski, et al",
+  "description": "Dimensions: Approximately: Park Place\nUpset Price: Approximately: $104,741.11 and any additional sums as ordered by the court\nOccupancy Status: Unknown\nNearest Cross Street: Montpelier Street\nBeing known and designated as Unit 114 in Building No. 32 situated in Park Place II at Tinton Falls Condominium, a Condominium, together with an undivided 0.23292% interest in the Common Elements and more as set forth in the Master Deed in the Monmouth County Clerk/Register Office at Deed Book 5610, Page 733, et seq., as may have been or may be lawfully amended. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.).\nPursuant to a tax search of 08/13/2024; 2024 Qtr 4 Due: 11/01/2024 $1,575.98 OPEN. Sewer Acct: 5616 0 01/01/2024 - 06/30/2024 $200.00 OPEN PLUS PENALTY $395.44 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVATE - NJ American Water Co. P.O. BOX 371331 PITTSBURGH, PA 15250 800-652-6987. Subject to limited priority afforded to Park Place II at Tinton Falls Condominium which is granted priority pursuant to NJSA 46: 8F-21b, if any, as well as all charges and fees imposed by said condominium association upon transfer of the unit. For sale information, please visit Auction.com at www.Auction.com or call (800) 280.2832.",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 104741.11
+  },
+  "fields": {
+    "Address": "32 Phoenix Court\nTinton Falls NJ 07724",
+    "Approx. Judgment*": "$95,523.23",
+    "Attorney": "Frenkel, Lambert, Weiss, Weisman & Gordon, LLP",
+    "Court Case #": "F00925123",
+    "Defendant": "Matthew Wisniewski, et al",
+    "Description": "Dimensions: Approximately: Park Place\nUpset Price: Approximately: $104,741.11 and any additional sums as ordered by the court\nOccupancy Status: Unknown\nNearest Cross Street: Montpelier Street\nBeing known and designated as Unit 114 in Building No. 32 situated in Park Place II at Tinton Falls Condominium, a Condominium, together with an undivided 0.23292% interest in the Common Elements and more as set forth in the Master Deed in the Monmouth County Clerk/Register Office at Deed Book 5610, Page 733, et seq., as may have been or may be lawfully amended. (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff.).\nPursuant to a tax search of 08/13/2024; 2024 Qtr 4 Due: 11/01/2024 $1,575.98 OPEN. Sewer Acct: 5616 0 01/01/2024 - 06/30/2024 $200.00 OPEN PLUS PENALTY $395.44 OPEN PLUS PENALTY; OWED IN ARREARS. Water: PRIVATE - NJ American Water Co. P.O. BOX 371331 PITTSBURGH, PA 15250 800-652-6987. Subject to limited priority afforded to Park Place II at Tinton Falls Condominium which is granted priority pursuant to NJSA 46: 8F-21b, if any, as well as all charges and fees imposed by said condominium association upon transfer of the unit. For sale information, please visit Auction.com at www.Auction.com or call (800) 280.2832.",
+    "Parcel #": "Lot: 114; Block: 124.51 Tax Map of Borough of Tinton Falls",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Property Note": "",
+    "Sales Date": "12/2/2024",
+    "Sheriff #": "FOR-24001731"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 95523.23,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "32 Phoenix Court Tinton Falls NJ 07724",
+    "defendant": "Matthew Wisniewski, et al",
+    "listing_status": "Settled",
+    "plaintiff": "Nationstar Mortgage LLC",
+    "sale_date": "2024-12-02"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot: 114; Block: 124.51 Tax Map of Borough of Tinton Falls",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "property_note": null,
+  "sale_date": "2024-12-02",
+  "sheriff_number": "FOR-24001731",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Scheduled"
+    }
+  ]
+}

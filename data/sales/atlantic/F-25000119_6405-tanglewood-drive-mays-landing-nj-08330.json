@@ -1,0 +1,66 @@
+{
+  "address": "6405 Tanglewood Drive Mays Landing NJ 08330",
+  "attorney": "McCabe, Weisberg & Conway, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002411-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Robert J. Johnson, III; New Jersey Geriatric Center of Workmans Circle Inc; Debt Consultants Inc Assignee; Chandler Dyas; State of New Jersey; Adult Protective Services of Essex County; State of New Jersey; NJ PPTY LIAB INS GTY ASSN; State of New Jersey; County of Somerset and Lawrence N Meyerson",
+  "extracted": {},
+  "fields": {
+    "Address": "6405 Tanglewood Drive\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$240,364.85",
+    "Attorney": "McCabe, Weisberg & Conway, P.C.",
+    "Court Case #": "F-002411-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Robert J. Johnson, III; New Jersey Geriatric Center of Workmans Circle Inc; Debt Consultants Inc Assignee; Chandler Dyas; State of New Jersey; Adult Protective Services of Essex County; State of New Jersey; NJ PPTY LIAB INS GTY ASSN; State of New Jersey; County of Somerset and Lawrence N Meyerson",
+    "Plaintiff": "Fulton Bank, NA",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "5/29/2025",
+    "Sheriff #": "F-25000119",
+    "Upset Amount": "$268,334.87"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 240364.85,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "6405 Tanglewood Drive Mays Landing NJ 08330",
+    "defendant": "Robert J. Johnson, I...",
+    "listing_status": null,
+    "plaintiff": "Fulton Bank, NA...",
+    "sale_date": "2025-05-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Fulton Bank, NA",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2025-05-29",
+  "sheriff_number": "F-25000119",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-29",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 268334.87,
+  "upset_amount_label": "Upset Amount"
+}

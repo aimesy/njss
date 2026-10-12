@@ -1,0 +1,64 @@
+{
+  "address": "75 Ohio Avenue Middletown NJ 07748",
+  "attorney": "Fein, Such, Kahn & Shepard, P.C.",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F984322",
+  "current_status": "Scheduled",
+  "defendant": "Larry Brown, et als",
+  "description": "Dimension of Lot Approximately: 107 X 100 IRR\nNearest Cross Street: Fielding Avenue\nBEGINNING AT A POINT ON THE WESTERLY SIDE OF OHIO AVENUE, SAID POINT BEING DISTANT 75.00 FEET SOUTHERLY FROM THE INTERSECTION OF THE WESTERLY SIDE LINE OF OHIO AVNUE AND THE SOUTHERLY SIDE LINE OF FIELDING AVENUE AND FROM SAID BEGINNING POINT RUNNING:\nPrior Liens/Encumbrances\nSewer Open and Due $106.00\nSewer Open Plus Penalty $465.39\nTotal As Of May 24, 2024: $571.39\nGood faith estimate of upset price: $312,076.00\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+  "extracted": {
+    "lot": "Approximately",
+    "upset_amount": 312076.0
+  },
+  "fields": {
+    "Address": "75 Ohio Avenue\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$277,614.34",
+    "Attorney": "Fein, Such, Kahn & Shepard, P.C.",
+    "Court Case #": "F984322",
+    "Defendant": "Larry Brown, et als",
+    "Description": "Dimension of Lot Approximately: 107 X 100 IRR\nNearest Cross Street: Fielding Avenue\nBEGINNING AT A POINT ON THE WESTERLY SIDE OF OHIO AVENUE, SAID POINT BEING DISTANT 75.00 FEET SOUTHERLY FROM THE INTERSECTION OF THE WESTERLY SIDE LINE OF OHIO AVNUE AND THE SOUTHERLY SIDE LINE OF FIELDING AVENUE AND FROM SAID BEGINNING POINT RUNNING:\nPrior Liens/Encumbrances\nSewer Open and Due $106.00\nSewer Open Plus Penalty $465.39\nTotal As Of May 24, 2024: $571.39\nGood faith estimate of upset price: $312,076.00\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+    "Parcel #": "Tax Lot No. 26 in Block No. 223 Tax Map of Township of Middletown",
+    "Plaintiff": "Nationstar Mortgage LLC",
+    "Property Note": "",
+    "Sales Date": "11/18/2024",
+    "Sheriff #": "FOR-24001175"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 277614.34,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "75 Ohio Avenue Middletown NJ 07748",
+    "defendant": "Larry Brown, et als",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "Nationstar Mortgage LLC",
+    "sale_date": "2024-11-18"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 26 in Block No. 223 Tax Map of Township of Middletown",
+  "plaintiff": "Nationstar Mortgage LLC",
+  "property_note": null,
+  "sale_date": "2024-11-18",
+  "sheriff_number": "FOR-24001175",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-18",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2024-11-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-21",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-23",
+      "status": "Scheduled"
+    }
+  ]
+}

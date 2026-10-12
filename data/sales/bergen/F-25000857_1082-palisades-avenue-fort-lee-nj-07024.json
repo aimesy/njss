@@ -1,0 +1,60 @@
+{
+  "address": "1082 PALISADES AVENUE FORT LEE NJ 07024",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00166824",
+  "current_status": "Cancelled",
+  "defendant": "RANA ATILGAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF AHMET S ATILGAN; ET AL",
+  "description": "UPSET PRICE: $683,878.77\nOCCUPANCY STATUS: VACANT",
+  "extracted": {
+    "occupancy": "VACANT",
+    "upset_amount": 683878.77
+  },
+  "fields": {
+    "Address": "1082 PALISADES AVENUE\nFORT LEE NJ 07024",
+    "Approx. Upset*": "$606,308.25",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Court Case #": "F00166824",
+    "Defendant": "RANA ATILGAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF AHMET S ATILGAN; ET AL",
+    "Description": "UPSET PRICE: $683,878.77\nOCCUPANCY STATUS: VACANT",
+    "Parcel #": "LOT 20, BLOCK 854 FKA 804",
+    "Plaintiff": "MASTR ALTERNATIVE LOAN TRUST 2004-6 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-6",
+    "Property Note": "",
+    "Sales Date": "3/16/2026",
+    "Sheriff #": "F-25000857"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1082 PALISADES AVENUE FORT LEE NJ 07024",
+    "defendant": "RANA ATILGAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF AHMET S ATILGAN; ET AL",
+    "listing_status": null,
+    "plaintiff": "MASTR ALTERNATIVE LOAN TRUST 2004-6 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-6",
+    "sale_date": "2026-03-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 20, BLOCK 854 FKA 804",
+  "plaintiff": "MASTR ALTERNATIVE LOAN TRUST 2004-6 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-6",
+  "property_note": null,
+  "sale_date": "2026-03-16",
+  "sheriff_number": "F-25000857",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-05-30",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 606308.25,
+  "upset_amount_label": "Approx. Upset*"
+}

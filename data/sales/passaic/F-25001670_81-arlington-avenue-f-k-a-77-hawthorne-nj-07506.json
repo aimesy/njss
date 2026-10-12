@@ -1,0 +1,65 @@
+{
+  "address": "81 Arlington Avenue F/K/A 77 Hawthorne NJ 07506",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 9708 23 CTL# 163074",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "STEVEN PSAROS ET ALS",
+  "description": "Dimension of Lot Approximately: 55 x 150\nNearest Cross Street: WARBURTON AVENUE\nBEGINNING at a point in the centerline of Old New York Avenue (33 feet wide as monumented by Atlantic County) (Chestnut Neck Road as shown on tax map), said point being 531.73 feet Northeastwardly from the 1st course in Deed Book 1306, page 444, said beginning point being in the division line between Lots 10 and 11, Block 6 from thence running.\nPRIOR LIENS/ENCUMBRANCES\nWATER OPEN AND DUE: $67.46\nTOTAL AS OF October 9, 2025: $67.46\nGood faith estimate of upset price: $577,980.63\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+  "extracted": {
+    "block": "6",
+    "lot": "Approximately",
+    "upset_amount": 577980.63
+  },
+  "fields": {
+    "Address": "81 Arlington Avenue\nF/K/A 77\nHawthorne NJ 07506",
+    "Approx. Upset*": "$522,962.95",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Court Case #": "F 9708 23 CTL# 163074",
+    "Defendant": "STEVEN PSAROS ET ALS",
+    "Description": "Dimension of Lot Approximately: 55 x 150\nNearest Cross Street: WARBURTON AVENUE\nBEGINNING at a point in the centerline of Old New York Avenue (33 feet wide as monumented by Atlantic County) (Chestnut Neck Road as shown on tax map), said point being 531.73 feet Northeastwardly from the 1st course in Deed Book 1306, page 444, said beginning point being in the division line between Lots 10 and 11, Block 6 from thence running.\nPRIOR LIENS/ENCUMBRANCES\nWATER OPEN AND DUE: $67.46\nTOTAL AS OF October 9, 2025: $67.46\nGood faith estimate of upset price: $577,980.63\nThe occupancy status of the property being foreclosed herein is presently unknown.",
+    "Parcel #": "Tax Lot No. 1 in Block No. 136",
+    "Plaintiff": "U.S. BANK TRUST NAT'L ASSOC.",
+    "Property Note": "",
+    "Sales Date": "3/24/2026",
+    "Sheriff #": "F-25001670"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "81 Arlington Avenue F/K/A 77 Hawthorne NJ 07506",
+    "defendant": "STEVEN PSAROS ET ALS",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NAT'L ASSOC.",
+    "sale_date": "2026-03-24"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot No. 1 in Block No. 136",
+  "plaintiff": "U.S. BANK TRUST NAT'L ASSOC.",
+  "property_note": null,
+  "sale_date": "2026-03-24",
+  "sheriff_number": "F-25001670",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-01-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-03-24",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 522962.95,
+  "upset_amount_label": "Approx. Upset*"
+}

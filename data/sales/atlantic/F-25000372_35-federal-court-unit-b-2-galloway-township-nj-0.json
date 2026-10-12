@@ -1,0 +1,62 @@
+{
+  "address": "35 Federal Court Unit B-2 Galloway Township NJ 08205",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003416-24",
+  "current_status": "Scheduled",
+  "deed": "Par 5 Investment Group Inc.",
+  "deed_address": "213 East Collins Road, Galloway Township, NJ 08205",
+  "defendant": "Alice Miceli; Mr. or Mrs. Miceli, husband or wife of Alice Miceli, the spouse, domestic partner or civil union partner of Alice Miceli; Club III at Mattix Forge Condominium Association",
+  "extracted": {},
+  "fields": {
+    "Address": "35 Federal Court\nUnit B-2\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$138,459.44",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-003416-24",
+    "Deed": "Par 5 Investment Group Inc.",
+    "Deed Address": "213 East Collins Road, Galloway Township, NJ 08205",
+    "Defendant": "Alice Miceli; Mr. or Mrs. Miceli, husband or wife of Alice Miceli, the spouse, domestic partner or civil union partner of Alice Miceli; Club III at Mattix Forge Condominium Association",
+    "Plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "6/12/2025",
+    "Sheriff #": "F-25000372",
+    "Upset Amount": "$89,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 138459.44,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "35 Federal Court Unit B-2 Galloway Township NJ 08205",
+    "defendant": "Alice Miceli; Mr. or...",
+    "listing_status": null,
+    "plaintiff": "NewRez LLC d/b/a She...",
+    "sale_date": "2025-06-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-06-12",
+  "sheriff_number": "F-25000372",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-12",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-06-12",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 89000.0,
+  "upset_amount_label": "Upset Amount"
+}

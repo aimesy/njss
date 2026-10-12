@@ -1,0 +1,51 @@
+{
+  "address": "3106 Hurley Pond Road Wall NJ 07719",
+  "attorney": "Logs Legal Group, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00904723",
+  "current_status": "Canceled",
+  "defendant": "Jeffrey J. Ford et al.",
+  "description": "Dimensions of Lot are (Approximately) 512 x 580.63 x 175.20 x 649\nNearest Cross Street: Virginia Avenue\nThe approximate upset sum is $351,288.71 calculated through Feburary 20, 2025, plus any additional advance interest sheriff's cost and commissions to the date of sale.\nThe occupancy states of the subject property is unknown.\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens other municipal assessments. The amount due can be obtained from the local taxing authority.\nPursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium /Homeowner Association liens which may exist.\nThe sale may be further subject to restrictions, reversions, reservations and easements of record.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "3106 Hurley Pond Road\nWall NJ 07719",
+    "Approx. Judgment*": "$308,100.90",
+    "Attorney": "Logs Legal Group, LLP",
+    "Court Case #": "F00904723",
+    "Defendant": "Jeffrey J. Ford et al.",
+    "Description": "Dimensions of Lot are (Approximately) 512 x 580.63 x 175.20 x 649\nNearest Cross Street: Virginia Avenue\nThe approximate upset sum is $351,288.71 calculated through Feburary 20, 2025, plus any additional advance interest sheriff's cost and commissions to the date of sale.\nThe occupancy states of the subject property is unknown.\nThe sale is subject to unpaid taxes and assessments, tax, water and sewer liens other municipal assessments. The amount due can be obtained from the local taxing authority.\nPursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium /Homeowner Association liens which may exist.\nThe sale may be further subject to restrictions, reversions, reservations and easements of record.",
+    "Parcel #": "Tax Lot: 11 Block: 762.01 f/k/a Lot: 11 Block: 762.1 on the Tax Map of Wall Township",
+    "Plaintiff": "Wells Fargo Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "4/21/2025",
+    "Sheriff #": "FOR-25000398"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 308100.9,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3106 Hurley Pond Road Wall NJ 07719",
+    "defendant": "Jeffrey J. Ford et al.",
+    "listing_status": "Canceled",
+    "plaintiff": "Wells Fargo Bank, N.A.",
+    "sale_date": "2025-04-21"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 11 Block: 762.01 f/k/a Lot: 11 Block: 762.1 on the Tax Map of Wall Township",
+  "plaintiff": "Wells Fargo Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2025-04-21",
+  "sheriff_number": "FOR-25000398",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-04-21",
+      "status": "Canceled"
+    }
+  ]
+}

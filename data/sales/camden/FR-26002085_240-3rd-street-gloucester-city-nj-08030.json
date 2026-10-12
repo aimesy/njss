@@ -1,0 +1,49 @@
+{
+  "address": "240 3RD STREET GLOUCESTER CITY NJ 08030",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00656325",
+  "current_status": "Scheduled",
+  "defendant": "SHABRIA MANGUM, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "240 3RD STREET\nGLOUCESTER CITY NJ 08030",
+    "Approx. Upset*": "$201,231.29",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00656325",
+    "Defendant": "SHABRIA MANGUM, ET AL.",
+    "Parcel #": "TAX LOT 44 TAX BLOCK 78",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "Priority Tax Lien Holder: FIG 25, LLC FBO SEC PTY holds Tax sale Certificate\nNo. 26-00092 in the amount of $763.97 + Subsequent Charges in the amount of $196.02 in total of $959.99 as of 01/15/2026.",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002085"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "240 3RD STREET GLOUCESTER CITY NJ 08030",
+    "defendant": "SHABRIA MANGUM, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT 44 TAX BLOCK 78",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": "Priority Tax Lien Holder: FIG 25, LLC FBO SEC PTY holds Tax sale Certificate\nNo. 26-00092 in the amount of $763.97 + Subsequent Charges in the amount of $196.02 in total of $959.99 as of 01/15/2026.",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002085",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 201231.29,
+  "upset_amount_label": "Approx. Upset*"
+}

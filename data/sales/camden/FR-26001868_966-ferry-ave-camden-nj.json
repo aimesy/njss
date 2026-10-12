@@ -1,0 +1,53 @@
+{
+  "address": "966 FERRY AVE CAMDEN NJ",
+  "attorney": "GARY C ZEITZ L.L.C. XX",
+  "attorney_phone": "(856) 857-1222",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F883225",
+  "current_status": "Purchased",
+  "defendant": "STEPHEN BENNETT, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "966 FERRY AVE\nCAMDEN NJ",
+    "Approx. Upset*": "$25,928.94",
+    "Attorney": "GARY C ZEITZ L.L.C. XX",
+    "Attorney Phone": "(856) 857-1222",
+    "Court Case #": "F883225",
+    "Defendant": "STEPHEN BENNETT, ET AL.",
+    "Parcel #": "Block 550, Lot 37 on the official Tax Map of the City of Camden",
+    "Plaintiff": "CSFR TL, LLC",
+    "Property Note": "Prior liens and encumbrances not extinguished by sale:\nTax Sale Certificate #26-00637 in the face amount of $535.51 as of April 6, 2026.\nOpen tax quarters and unpaid municipal charges due and owing to the City of Camden: NONE as of July 28 th , 2026.",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26001868"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "966 FERRY AVE CAMDEN NJ",
+    "defendant": "STEPHEN BENNETT, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CSFR TL, LLC",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 550, Lot 37 on the official Tax Map of the City of Camden",
+  "plaintiff": "CSFR TL, LLC",
+  "property_note": "Prior liens and encumbrances not extinguished by sale:\nTax Sale Certificate #26-00637 in the face amount of $535.51 as of April 6, 2026.\nOpen tax quarters and unpaid municipal charges due and owing to the City of Camden: NONE as of July 28 th , 2026.",
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26001868",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 25928.94,
+  "upset_amount_label": "Approx. Upset*"
+}

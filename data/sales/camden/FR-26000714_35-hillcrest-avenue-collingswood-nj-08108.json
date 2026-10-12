@@ -1,0 +1,65 @@
+{
+  "address": "35 HILLCREST AVENUE COLLINGSWOOD NJ 08108",
+  "attorney": "ALBERTELLI LAW",
+  "attorney_phone": "(813) 221-4743",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00470225",
+  "current_status": "Court Adjournment",
+  "defendant": "DENISE GALANAKIS A/K/A DENISE HERNANDEZ, INDIVIDUALLY AND AS EXCUTRIX FOR THE ESTATE OF DENNIS A. GALANKIS A/K/A DENIIS GALANKIS, DECEASED; MR. GALANAKIS A/K/A HERNANDEZ, HUSBAND OF DENISE GALANAKIS A/K/A DENISE HERNANDEZ; EILEEN GALANAKIS; MR GALANKIS, HUSBAND OF EILEEN GALANKIS; DENNIS A. GALANKIS A/K/A DENNIS GALANKIS, DECEASED, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS HEIRS, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; MRS. DENNIS A. GALANAKIS A/K/A DENNIS GALANAKIS, HIS WIFE; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "35 HILLCREST AVENUE\nCOLLINGSWOOD NJ 08108",
+    "Approx. Upset*": "$152,471.97",
+    "Attorney": "ALBERTELLI LAW",
+    "Attorney Phone": "(813) 221-4743",
+    "Court Case #": "F00470225",
+    "Defendant": "DENISE GALANAKIS A/K/A DENISE HERNANDEZ, INDIVIDUALLY AND AS\nEXCUTRIX FOR THE ESTATE OF DENNIS A. GALANKIS A/K/A DENIIS\nGALANKIS, DECEASED; MR. GALANAKIS A/K/A HERNANDEZ,\nHUSBAND OF DENISE GALANAKIS A/K/A DENISE HERNANDEZ; EILEEN\nGALANAKIS; MR GALANKIS, HUSBAND OF EILEEN GALANKIS;\nDENNIS A. GALANKIS A/K/A DENNIS GALANKIS, DECEASED, HIS HEIRS,\nDEVISEES AND PERSONAL REPRESENTATIVES, AND HIS HEIRS,\nTHEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND\nINTEREST; MRS. DENNIS A. GALANAKIS A/K/A DENNIS\nGALANAKIS, HIS WIFE; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Parcel #": "TAX BLOCK #10 TAX LOT #13.03",
+    "Plaintiff": "TH MSR HOLDINGS LLC,",
+    "Property Note": "",
+    "Sales Date": "10/7/2026",
+    "Sheriff #": "FR-26000714"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "35 HILLCREST AVENUE COLLINGSWOOD NJ 08108",
+    "defendant": "DENISE GALANAKIS A/K/A DENISE HERNANDEZ, INDIVIDUALLY AND AS \nEXCUTRIX FOR THE ESTATE OF DENNIS A. GALANKIS A/K/A DENIIS \nGALANKIS, DECEASED; MR. GALANAKIS A/K/A HERNANDEZ, \nHUSBAND OF DENISE GALANAKIS A/K/A DENISE HERNANDEZ; EILEEN \nGALANAKIS; MR GALANKIS, HUSBAND OF EILEEN GALANKIS; \nDENNIS A. GALANKIS A/K/A DENNIS GALANKIS, DECEASED, HIS HEIRS, \nDEVISEES AND PERSONAL REPRESENTATIVES, AND HIS HEIRS, \nTHEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND \nINTEREST; MRS. DENNIS A. GALANAKIS A/K/A DENNIS \nGALANAKIS, HIS WIFE; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "TH MSR HOLDINGS LLC,",
+    "sale_date": "2026-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX BLOCK #10 TAX LOT #13.03",
+  "plaintiff": "TH MSR HOLDINGS LLC,",
+  "property_note": null,
+  "sale_date": "2026-10-07",
+  "sheriff_number": "FR-26000714",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 152471.97,
+  "upset_amount_label": "Approx. Upset*"
+}

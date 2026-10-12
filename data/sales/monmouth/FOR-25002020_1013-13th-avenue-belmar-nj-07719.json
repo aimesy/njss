@@ -1,0 +1,61 @@
+{
+  "address": "1013 13th Avenue Belmar NJ 07719",
+  "attorney": "Martone & Uhlmann",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00052125",
+  "current_status": "Scheduled",
+  "defendant": "Barbara Ann Staubitz, et. al.",
+  "description": "Dimensions of Lot(Approximately) 50.00 feet wide by 150.00 feet long\nNearest Cross Street L. Street.\nPLAINTIFF IS UNABLE TO ASCERTAIN THE OCCUPANCY STATUS OF THE PROPERTY.\nTHE ESTIMATED GOOD FAITH UPSET AMOUNT PURSUANT TO NJSA 2A:50-64(12)(5)(a) IS $209,547.84. (BASED UPON A PROJECTED SALE DATE OF December 8, 2025)\nPlease include the following exceptions in the sale notice:\nA. SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF, SO THE CURRENT AMOUNT DUE THEREON.\nB. SUBJECT TO PRIOR MORTGAGES AND JUDGEMENTS (IF ANY).\nC. SUBJECT TO THE EXTENDED RIGHT OF REDEMPTION AFFOREDED TO THE UNITED STATES OF AMERICA PURSUANT TO 28 U.S.C. 2410.\nD. SUBJECT TO OPEN UTILITIES IN THE AMOUNT OF $565.99 PLUS PENALTY AND INTEREST FROM 07/01/2025",
+  "extracted": {},
+  "fields": {
+    "Address": "1013 13th Avenue\nBelmar NJ 07719",
+    "Approx. Judgment*": "$191,599.53",
+    "Attorney": "Martone & Uhlmann",
+    "Court Case #": "F00052125",
+    "Defendant": "Barbara Ann Staubitz, et. al.",
+    "Description": "Dimensions of Lot(Approximately) 50.00 feet wide by 150.00 feet long\nNearest Cross Street L. Street.\nPLAINTIFF IS UNABLE TO ASCERTAIN THE OCCUPANCY STATUS OF THE PROPERTY.\nTHE ESTIMATED GOOD FAITH UPSET AMOUNT PURSUANT TO NJSA 2A:50-64(12)(5)(a) IS $209,547.84. (BASED UPON A PROJECTED SALE DATE OF December 8, 2025)\nPlease include the following exceptions in the sale notice:\nA. SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF, SO THE CURRENT AMOUNT DUE THEREON.\nB. SUBJECT TO PRIOR MORTGAGES AND JUDGEMENTS (IF ANY).\nC. SUBJECT TO THE EXTENDED RIGHT OF REDEMPTION AFFOREDED TO THE UNITED STATES OF AMERICA PURSUANT TO 28 U.S.C. 2410.\nD. SUBJECT TO OPEN UTILITIES IN THE AMOUNT OF $565.99 PLUS PENALTY AND INTEREST FROM 07/01/2025",
+    "Parcel #": "Tax Lot No. 7, in Block No. 139 Tax Map of Borough of Belmar",
+    "Plaintiff": "PNC Bank, National Association",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "FOR-25002020"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 191599.53,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1013 13th Avenue Belmar NJ 07719",
+    "defendant": "Barbara Ann Staubitz, et. al.",
+    "listing_status": "Settled",
+    "plaintiff": "PNC Bank, National Association",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 7, in Block No. 139 Tax Map of Borough of Belmar",
+  "plaintiff": "PNC Bank, National Association",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "FOR-25002020",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-02-04",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "Scheduled"
+    }
+  ]
+}

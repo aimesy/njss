@@ -1,0 +1,57 @@
+{
+  "address": "11-02 BERDAN AVENUE FAIR LAWN NJ 07410",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00518425",
+  "current_status": "Cancelled",
+  "defendant": "ANGEL LOUIS POLYI A/K/A ANGEL L. POLYI; MRS. ANGEL LOUIS POLYI, HIS WIFE",
+  "description": "THE APPROXIMATE UPSET SUM IS $287,330.61 CALCULATED THROUGH OCTOBER 9, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "11-02 BERDAN AVENUE\nFAIR LAWN NJ 07410",
+    "Approx. Upset*": "$268,784.84",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F00518425",
+    "Defendant": "ANGEL LOUIS POLYI A/K/A ANGEL L. POLYI; MRS. ANGEL LOUIS POLYI, HIS WIFE",
+    "Description": "THE APPROXIMATE UPSET SUM IS $287,330.61 CALCULATED THROUGH OCTOBER 9, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
+    "Parcel #": "LOT 8, BLOCK 4524",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/23/2026",
+    "Sheriff #": "F-25002586"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "11-02 BERDAN AVENUE FAIR LAWN NJ 07410",
+    "defendant": "ANGEL LOUIS POLYI A/K/A ANGEL L. POLYI; MRS. ANGEL LOUIS POLYI, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-02-23"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 8, BLOCK 4524",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-23",
+  "sheriff_number": "F-25002586",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 268784.84,
+  "upset_amount_label": "Approx. Upset*"
+}

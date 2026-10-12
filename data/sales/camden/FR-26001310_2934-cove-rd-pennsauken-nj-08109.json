@@ -1,0 +1,61 @@
+{
+  "address": "2934 COVE RD PENNSAUKEN NJ 08109",
+  "attorney": "STERN & EISENBERG, PC",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01090525",
+  "current_status": "Defendant Adjournment",
+  "defendant": "RICHARD K. ATWELL, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "2934 COVE RD\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$247,369.79",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F01090525",
+    "Defendant": "RICHARD K. ATWELL, ET AL.",
+    "Parcel #": "TAX LOT #8 BLOCK 3021",
+    "Plaintiff": "NEW REZ LLC D/B/A SHELLPOINT MORTGAGE",
+    "Property Note": "Taxes current through 2ND quarter of 2026\nWater/Sewer – plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nPlus interest on these figures through date of payoff in any and all subsequent taxes, water, and sewer amounts.",
+    "Sales Date": "10/5/2026",
+    "Sheriff #": "FR-26001310"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "2934 COVE RD PENNSAUKEN NJ 08109",
+    "defendant": "RICHARD K. ATWELL, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW REZ LLC D/B/A SHELLPOINT MORTGAGE",
+    "sale_date": "2026-10-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT #8 BLOCK 3021",
+  "plaintiff": "NEW REZ LLC D/B/A SHELLPOINT MORTGAGE",
+  "property_note": "Taxes current through 2ND quarter of 2026\nWater/Sewer – plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nPlus interest on these figures through date of payoff in any and all subsequent taxes, water, and sewer amounts.",
+  "sale_date": "2026-10-05",
+  "sheriff_number": "FR-26001310",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-07",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 247369.79,
+  "upset_amount_label": "Approx. Upset*"
+}

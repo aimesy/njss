@@ -1,0 +1,59 @@
+{
+  "address": "11 POMONA AVENUE FAIR LAWN NJ 07410",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01197622",
+  "current_status": "Cancelled",
+  "defendant": "ELIZABETH MUNIZ A/K/A ELIZABETH LABOUR; MARIA LABOUR, ET AL.",
+  "description": "ESTIMATED UPSET BID AMOUNT: $265,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "11 POMONA AVENUE\nFAIR LAWN NJ 07410",
+    "Approx. Upset*": "$237,890.17",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F01197622",
+    "Defendant": "ELIZABETH MUNIZ A/K/A ELIZABETH LABOUR; MARIA LABOUR, ET AL.",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $265,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT 11, BLOCK 6902",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "12/10/2025",
+    "Sheriff #": "F-25002107"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "11 POMONA AVENUE FAIR LAWN NJ 07410",
+    "defendant": "ELIZABETH MUNIZ A/K/A ELIZABETH LABOUR; MARIA LABOUR, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2025-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 11, BLOCK 6902",
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-12-10",
+  "sheriff_number": "F-25002107",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-10-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 237890.17,
+  "upset_amount_label": "Approx. Upset*"
+}

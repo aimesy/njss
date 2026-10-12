@@ -1,0 +1,49 @@
+{
+  "address": "136 ATLANTIC STREET GLOUCESTER NJ 08030",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00436226",
+  "current_status": "Scheduled",
+  "defendant": "RIGHT PRICE ASSET AND CONSULTING LLC, A NEW JERSEY LIMITED LIABILITY COMPANY; TYONNA PRICE; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "136 ATLANTIC STREET\nGLOUCESTER NJ 08030",
+    "Approx. Upset*": "$139,297.44",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00436226",
+    "Defendant": "RIGHT PRICE ASSET AND CONSULTING LLC,\nA NEW JERSEY LIMITED LIABILITY COMPANY;\nTYONNA PRICE; STATE OF NEW JERSEY,",
+    "Parcel #": "Tax LOT 40 BLOCK 67",
+    "Plaintiff": "ATHENE ANNUITY AND LIFE COMPANY,",
+    "Property Note": "2026 Qtr 3 Due: 08/01/2026 $890.92 OPEN; GRACE PERIOD EXTENDED TO: 09/08/2026\n2026 Qtr 4 Due: 11/01/2026 $890.92 OPEN\n2027 Qtr 1 Due: 02/01/2027 $850.38 OPEN\n2027 Qtr 2 Due: 05/01/2027 $850.37 OPEN\nWater: Gloucester City 512 Monmouth Street Gloucester City, NJ 08030 856-456-1250 Acct: 10136 0 07/01/2026 09/30/2026 $82.00 OPEN PLUS PENALTY\nSewer: Gloucester City 512 Monmouth Street Gloucester City, NJ 08030 856-456-1250 Acct: 10136 0 07/01/2026 - 09/30/2026 $105.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 140010984\n06/01/2026 - 08/31/2026 $93.00 OPEN PLUS PENALTY $97.60 OPEN PLUS PENALTY",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "FR-26002084"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "136 ATLANTIC STREET GLOUCESTER NJ 08030",
+    "defendant": "RIGHT PRICE ASSET AND CONSULTING LLC, \nA NEW JERSEY LIMITED LIABILITY COMPANY; \nTYONNA PRICE; STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY,",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax LOT 40 BLOCK 67",
+  "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY,",
+  "property_note": "2026 Qtr 3 Due: 08/01/2026 $890.92 OPEN; GRACE PERIOD EXTENDED TO: 09/08/2026\n2026 Qtr 4 Due: 11/01/2026 $890.92 OPEN\n2027 Qtr 1 Due: 02/01/2027 $850.38 OPEN\n2027 Qtr 2 Due: 05/01/2027 $850.37 OPEN\nWater: Gloucester City 512 Monmouth Street Gloucester City, NJ 08030 856-456-1250 Acct: 10136 0 07/01/2026 09/30/2026 $82.00 OPEN PLUS PENALTY\nSewer: Gloucester City 512 Monmouth Street Gloucester City, NJ 08030 856-456-1250 Acct: 10136 0 07/01/2026 - 09/30/2026 $105.00 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 140010984\n06/01/2026 - 08/31/2026 $93.00 OPEN PLUS PENALTY $97.60 OPEN PLUS PENALTY",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "FR-26002084",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 139297.44,
+  "upset_amount_label": "Approx. Upset*"
+}

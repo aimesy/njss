@@ -1,0 +1,68 @@
+{
+  "address": "1383 BELLEVIEW AVENUE #85 AND 1387 BELLEVIEW AVENUE #89 PLAINFIELD NJ 07060",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00078025",
+  "current_status": "Bankuptcy",
+  "defendant": "CLARA A. WILLIAMS; STATE OF NEW JERSEY",
+  "description": "LOT 44 & 45 BLOCK 19",
+  "extracted": {
+    "block": "19",
+    "lot": "44"
+  },
+  "fields": {
+    "Address": "1383 BELLEVIEW AVENUE #85\nAND 1387 BELLEVIEW AVENUE #89\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$289,454.51",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F00078025",
+    "Defendant": "CLARA A. WILLIAMS; STATE OF NEW JERSEY",
+    "Description": "LOT 44 & 45 BLOCK 19",
+    "Parcel #": "LOT 44 & 45 BLOCK 19",
+    "Plaintiff": "UNITED WHOLESALE MORTGAGE, LLC",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "CH-25002024"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1383 BELLEVIEW AVENUE #85 AND 1387 BELLEVIEW AVENUE #89 PLAINFIELD NJ 07060",
+    "defendant": "CLARA A. WILLIAMS; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "UNITED WHOLESALE MORTGAGE, LLC",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 44 & 45 BLOCK 19",
+  "plaintiff": "UNITED WHOLESALE MORTGAGE, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "CH-25002024",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-10-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 289454.51,
+  "upset_amount_label": "Approx. Upset*"
+}

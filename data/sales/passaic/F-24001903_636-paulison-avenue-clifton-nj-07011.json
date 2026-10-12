@@ -1,0 +1,84 @@
+{
+  "address": "636 PAULISON Avenue Clifton NJ 07011",
+  "attorney": "FRIEDMAN VARTOLO, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 014479 23 CTL#162874",
+  "current_status": "Cancelled",
+  "defendant": "VANESSA DELEON; ET ALS",
+  "description": "Dimensions (approx) : 95.41 x 50.22\nNearest Cross Street: Burgess Place\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99- Summit Bank vs. Dennis Thiel (A-58-98)\nJudgement : Recorded: September 11,2015\nHolder: Notchview Pediartics\nAmount: $2,487.86\nInstrument Number: DJ-163582-2015\nGood Faith Estimate Upset Price: $311,323.76\nOccupancy Status: Occupied by unknown",
+  "extracted": {
+    "occupancy": "Occupied by unknown",
+    "upset_amount": 311323.76
+  },
+  "fields": {
+    "Address": "636 PAULISON Avenue\nClifton NJ 07011",
+    "Approx. Upset*": "$271,147.88",
+    "Attorney": "FRIEDMAN VARTOLO, LLP",
+    "Court Case #": "F 014479 23 CTL#162874",
+    "Defendant": "VANESSA DELEON; ET ALS",
+    "Description": "Dimensions (approx) : 95.41 x 50.22\nNearest Cross Street: Burgess Place\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99- Summit Bank vs. Dennis Thiel (A-58-98)\nJudgement : Recorded: September 11,2015\nHolder: Notchview Pediartics\nAmount: $2,487.86\nInstrument Number: DJ-163582-2015\nGood Faith Estimate Upset Price: $311,323.76\nOccupancy Status: Occupied by unknown",
+    "Parcel #": "TAX LOT(S):23 IN BLOCK: 13.09",
+    "Plaintiff": "U.S BANK NATIONAL ASSOCIATION, ETC",
+    "Property Note": "",
+    "Sales Date": "2/26/2026",
+    "Sheriff #": "F-24001903"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "636 PAULISON Avenue Clifton NJ 07011",
+    "defendant": "VANESSA DELEON; ET ALS",
+    "listing_status": null,
+    "plaintiff": "U.S BANK NATIONAL ASSOCIATION, ETC",
+    "sale_date": "2026-02-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT(S):23 IN BLOCK: 13.09",
+  "plaintiff": "U.S BANK NATIONAL ASSOCIATION, ETC",
+  "property_note": null,
+  "sale_date": "2026-02-26",
+  "sheriff_number": "F-24001903",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-01",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-04-01",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-08-12",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-08-12",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-02-26",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 271147.88,
+  "upset_amount_label": "Approx. Upset*"
+}

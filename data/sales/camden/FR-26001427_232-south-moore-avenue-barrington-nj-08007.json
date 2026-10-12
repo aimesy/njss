@@ -1,0 +1,57 @@
+{
+  "address": "232 SOUTH MOORE AVENUE BARRINGTON NJ 08007",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01228425",
+  "current_status": "Defendant Adjournment",
+  "defendant": "VITERLINA CAMACHO, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "232 SOUTH MOORE AVENUE\nBARRINGTON NJ 08007",
+    "Approx. Upset*": "$151,382.99",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F01228425",
+    "Defendant": "VITERLINA CAMACHO, ET AL.",
+    "Parcel #": "TAX LOT:4 TAX BLOCK: 20.06",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "8/7/2026",
+    "Sheriff #": "FR-26001427"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "232 SOUTH MOORE AVENUE BARRINGTON NJ 08007",
+    "defendant": "VITERLINA CAMACHO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-08-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT:4 TAX BLOCK: 20.06",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-08-07",
+  "sheriff_number": "FR-26001427",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-08-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-07",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 151382.99,
+  "upset_amount_label": "Approx. Upset*"
+}

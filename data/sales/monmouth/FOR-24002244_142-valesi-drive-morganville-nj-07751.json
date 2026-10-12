@@ -1,0 +1,59 @@
+{
+  "address": "142 Valesi Drive Morganville NJ 07751",
+  "attorney": "McCabe, Weisberg & Conway, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01394623",
+  "current_status": "Scheduled",
+  "defendant": "Jayprakash Sheth, et al.",
+  "description": "Dimensions of Lot (approximately): 67' x 296' approx\nNearest Cross Street: Monmouth County Route No. 520\nSubject to: Approx Upset Price - $929,312.41\nOccupancy Status - Borrower Occupied\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+  "extracted": {
+    "upset_amount": 929312.41
+  },
+  "fields": {
+    "Address": "142 Valesi Drive\nMorganville NJ 07751",
+    "Approx. Judgment*": "$865,156.59",
+    "Attorney": "McCabe, Weisberg & Conway, LLC",
+    "Court Case #": "F01394623",
+    "Defendant": "Jayprakash Sheth, et al.",
+    "Description": "Dimensions of Lot (approximately): 67' x 296' approx\nNearest Cross Street: Monmouth County Route No. 520\nSubject to: Approx Upset Price - $929,312.41\nOccupancy Status - Borrower Occupied\nSubject to any unpaid taxes, municipal lien or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
+    "Parcel #": "Block 184, Lot 39 (Old Lot 117) Tax Map of the Township of Marlboro",
+    "Plaintiff": "Citizens Bank N.A.",
+    "Property Note": "",
+    "Sales Date": "3/3/2025",
+    "Sheriff #": "FOR-24002244"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 865156.59,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "142 Valesi Drive Morganville NJ 07751",
+    "defendant": "Jayprakash Sheth, et al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Citizens Bank N.A.",
+    "sale_date": "2025-03-03"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Block 184, Lot 39 (Old Lot 117) Tax Map of the Township of Marlboro",
+  "plaintiff": "Citizens Bank N.A.",
+  "property_note": null,
+  "sale_date": "2025-03-03",
+  "sheriff_number": "FOR-24002244",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-03",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-03-03",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-02-03",
+      "status": "Scheduled"
+    }
+  ]
+}

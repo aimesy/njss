@@ -1,0 +1,53 @@
+{
+  "address": "1600 JARVIS RD SICKLERVILLE NJ 08081",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00500925",
+  "current_status": "Scheduled",
+  "defendant": "REGINA NELSON; ARCHER & GREINER; NATIONAL RESTORATION AND FACILITY SERVICES INC,",
+  "extracted": {},
+  "fields": {
+    "Address": "1600 JARVIS RD\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$345,776.87",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00500925",
+    "Defendant": "REGINA NELSON; ARCHER & GREINER; NATIONAL RESTORATION\nAND FACILITY SERVICES INC,",
+    "Parcel #": "",
+    "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR\nACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES\n2006-FM1, ASSET BACKED PASS-THROUGH CERTIFICATES",
+    "Property Note": "",
+    "Sales Date": "10/28/2025",
+    "Sheriff #": "FR-25001882"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1600 JARVIS RD SICKLERVILLE NJ 08081",
+    "defendant": "REGINA NELSON; ARCHER & GREINER; NATIONAL RESTORATION \nAND FACILITY SERVICES INC,",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR \nACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES \n2006-FM1, ASSET BACKED PASS-THROUGH CERTIFICATES",
+    "sale_date": "2025-10-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2006-FM1, ASSET BACKED PASS-THROUGH CERTIFICATES",
+  "property_note": null,
+  "sale_date": "2025-10-28",
+  "sheriff_number": "FR-25001882",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-10-28",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 345776.87,
+  "upset_amount_label": "Approx. Upset*"
+}

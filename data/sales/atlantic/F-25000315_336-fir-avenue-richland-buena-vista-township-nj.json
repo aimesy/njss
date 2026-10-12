@@ -1,0 +1,62 @@
+{
+  "address": "336 Fir Avenue (Richland) Buena Vista Township NJ 08350",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007139-23 AMENDED",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Kevin Michael Thompson; Mrs. Kevin Michael Thompson, His Wife; United States of America; Midland Funding LLC; Muller & Muller; Cavalry SPV I, LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "336 Fir Avenue\n(Richland)\nBuena Vista Township NJ 08350",
+    "Approx. Judgment*": "$162,720.73",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-007139-23 AMENDED",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Kevin Michael Thompson; Mrs. Kevin Michael Thompson, His Wife; United States of America; Midland Funding LLC; Muller & Muller; Cavalry SPV I, LLC",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "2/19/2026",
+    "Sheriff #": "F-25000315",
+    "Upset Amount": "$203,981.02"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 162720.73,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "336 Fir Avenue (Richland) Buena Vista Township NJ 08350",
+    "defendant": "Kevin Michael Thomps...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2026-02-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-02-19",
+  "sheriff_number": "F-25000315",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-19",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2026-01-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 203981.02,
+  "upset_amount_label": "Upset Amount"
+}

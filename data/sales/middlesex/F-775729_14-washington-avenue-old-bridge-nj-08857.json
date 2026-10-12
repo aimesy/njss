@@ -1,0 +1,88 @@
+{
+  "address": "14 WASHINGTON AVENUE OLD BRIDGE NJ 08857",
+  "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-797-1100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00683515",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "PAUL JARDINE, ET ALS.",
+  "description": "SUCCESSFULLY POSTED 07/07/2022 BY W. MARKFRAF",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$374,692.41",
+    "Attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-797-1100",
+    "Court Case #": "F00683515",
+    "Defendant": "PAUL JARDINE, ET ALS.",
+    "Description": "SUCCESSFULLY POSTED 07/07/2022 BY W. MARKFRAF",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 6 BLOCK 4000.29",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-AMC2, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "Property Address": "14 WASHINGTON AVENUE\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "6/5/2024",
+    "Sheriff #": "F-775729"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 374692.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "14 WASHINGTON AVENUE OLD BRIDGE NJ 08857",
+    "defendant": "PAUL JARDINE, ET ALS.",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-AMC2, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "sale_date": "2024-06-05"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 6 BLOCK 4000.29",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST INC. ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-AMC2, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2024-06-05",
+  "sheriff_number": "F-775729",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-06-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2024-06-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-05-08",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-03-01",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2023-01-04",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2022-11-09",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2022-10-27",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2022-09-28",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2022-08-31",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

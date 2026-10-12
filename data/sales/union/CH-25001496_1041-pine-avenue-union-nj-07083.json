@@ -1,0 +1,60 @@
+{
+  "address": "1041 PINE AVENUE UNION NJ 07083",
+  "attorney": "FEIN, SUCH, KAHN, SHEPARD, P.C.",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F305921",
+  "current_status": "Bankuptcy",
+  "defendant": "MOORISH SCIENCE TEMPLE OF AMERICA; COLIN HYLTON; NADIA HENDRICKS; STATE OF NEW JERSEY",
+  "description": "LOT 7 BLOCK 4211",
+  "extracted": {
+    "block": "4211",
+    "lot": "7"
+  },
+  "fields": {
+    "Address": "1041 PINE AVENUE\nUNION NJ 07083",
+    "Approx. Upset*": "$332,329.51",
+    "Attorney": "FEIN, SUCH, KAHN, SHEPARD, P.C.",
+    "Court Case #": "F305921",
+    "Defendant": "MOORISH SCIENCE TEMPLE OF AMERICA; COLIN HYLTON; NADIA HENDRICKS; STATE OF NEW JERSEY",
+    "Description": "LOT 7 BLOCK 4211",
+    "Parcel #": "LOT 7 BLOCK 4211",
+    "Plaintiff": "LEGACY MORTGAGE ASSET TRUST 2019-RPL3",
+    "Property Note": "",
+    "Sales Date": "10/15/2025",
+    "Sheriff #": "CH-25001496"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1041 PINE AVENUE UNION NJ 07083",
+    "defendant": "MOORISH SCIENCE TEMPLE OF AMERICA; COLIN HYLTON; NADIA HENDRICKS; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2019-RPL3",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 7 BLOCK 4211",
+  "plaintiff": "LEGACY MORTGAGE ASSET TRUST 2019-RPL3",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "CH-25001496",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 332329.51,
+  "upset_amount_label": "Approx. Upset*"
+}

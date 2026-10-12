@@ -1,0 +1,72 @@
+{
+  "address": "274 WALTERS STREET RAHWAY NJ 07065",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00200820",
+  "current_status": "Settled",
+  "defendant": "PEDRO G. VALADEZ AND ELIDA MEDINA",
+  "description": "LOT 12 BLOCK 72",
+  "extracted": {
+    "block": "72",
+    "lot": "12"
+  },
+  "fields": {
+    "Address": "274 WALTERS STREET\nRAHWAY NJ 07065",
+    "Approx. Upset*": "$327,540.79",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00200820",
+    "Defendant": "PEDRO G. VALADEZ AND ELIDA MEDINA",
+    "Description": "LOT 12 BLOCK 72",
+    "Parcel #": "LOT 12 BLOCK 72",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY DBA CHRISTIANA TRUST, NOT INDIVIDUALY, BUT SOLELY AS TRUSTEE FOR NYMT LOAN TRUST I",
+    "Property Note": "",
+    "Sales Date": "10/6/2026",
+    "Sheriff #": "CH-21002437"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "274 WALTERS STREET RAHWAY NJ 07065",
+    "defendant": "PEDRO G. VALADEZ AND ELIDA MEDINA",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY DBA CHRISTIANA TRUST, NOT INDIVIDUALY, BUT SOLELY AS TRUSTEE FOR NYMT LOAN TRUST I",
+    "sale_date": "2026-10-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 12 BLOCK 72",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY DBA CHRISTIANA TRUST, NOT INDIVIDUALY, BUT SOLELY AS TRUSTEE FOR NYMT LOAN TRUST I",
+  "property_note": null,
+  "sale_date": "2026-10-06",
+  "sheriff_number": "CH-21002437",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2022-02-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-03-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-03-30",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2022-05-18",
+      "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2022-05-18",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-10-06",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 327540.79,
+  "upset_amount_label": "Approx. Upset*"
+}

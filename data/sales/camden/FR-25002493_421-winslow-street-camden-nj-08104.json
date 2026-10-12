@@ -1,0 +1,53 @@
+{
+  "address": "421 WINSLOW STREET CAMDEN NJ 08104",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(888) 726-9953",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00553825",
+  "current_status": "Purchased",
+  "defendant": "NENA GREEN, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "421 WINSLOW STREET\nCAMDEN NJ 08104",
+    "Approx. Upset*": "$57,417.78",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(888) 726-9953",
+    "Court Case #": "F00553825",
+    "Defendant": "NENA GREEN, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE\nFOR STRUCTURED ASSET SECURITIES CORPORATION\nTRUST 2006-WF3",
+    "Property Note": "",
+    "Sales Date": "2/18/2026",
+    "Sheriff #": "FR-25002493"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "421 WINSLOW STREET CAMDEN NJ 08104",
+    "defendant": "NENA GREEN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE \nFOR STRUCTURED ASSET SECURITIES CORPORATION \nTRUST 2006-WF3",
+    "sale_date": "2026-02-18"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION TRUST 2006-WF3",
+  "property_note": null,
+  "sale_date": "2026-02-18",
+  "sheriff_number": "FR-25002493",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 57417.78,
+  "upset_amount_label": "Approx. Upset*"
+}

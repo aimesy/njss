@@ -1,0 +1,73 @@
+{
+  "address": "127 HAMPSHIRE AVE AUDUBON NJ 08106",
+  "attorney": "PARKER MCCAY P.A.",
+  "attorney_phone": "(856) 596-8900",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01035624",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "DAVID A. DOONE; MIREILLE M. DOONE; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "127 HAMPSHIRE AVE\nAUDUBON NJ 08106",
+    "Approx. Upset*": "$265,460.82",
+    "Attorney": "PARKER MCCAY P.A.",
+    "Attorney Phone": "(856) 596-8900",
+    "Court Case #": "F01035624",
+    "Defendant": "DAVID A. DOONE; MIREILLE M. DOONE; NEW JERSEY HOUSING AND MORTGAGE\nFINANCE AGENCY; STATE OF NEW JERSEY,",
+    "Parcel #": "TAX LOT # 20 BLOCK # 148.06",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS\nOWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST ,",
+    "Property Note": "ALSO SUBJECT TO SUBSEQUENT TAXES, WATER AND SEWER PLUS INTEREST THROUGH DATE OF PAYOFF.\nSUBJECT TO ANY LIEN IN FAVOR OF A CONDOMINIUM ASSOCIATION WHICH IS GRANTED PRIORITY PURSUANT TO N.J.S.A 46:8B-21 (B) (1), IF ANY",
+    "Sales Date": "8/21/2026",
+    "Sheriff #": "FR-25002140"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "127 HAMPSHIRE AVE AUDUBON NJ 08106",
+    "defendant": "DAVID A. DOONE; MIREILLE M. DOONE; NEW JERSEY HOUSING AND MORTGAGE \nFINANCE AGENCY; STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS \nOWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST ,",
+    "sale_date": "2026-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT # 20 BLOCK # 148.06",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST ,",
+  "property_note": "ALSO SUBJECT TO SUBSEQUENT TAXES, WATER AND SEWER PLUS INTEREST THROUGH DATE OF PAYOFF.\nSUBJECT TO ANY LIEN IN FAVOR OF A CONDOMINIUM ASSOCIATION WHICH IS GRANTED PRIORITY PURSUANT TO N.J.S.A 46:8B-21 (B) (1), IF ANY",
+  "sale_date": "2026-08-21",
+  "sheriff_number": "FR-25002140",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-08-21",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 265460.82,
+  "upset_amount_label": "Approx. Upset*"
+}

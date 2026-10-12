@@ -1,0 +1,91 @@
+{
+  "address": "73 Swartzel Drive Middletown NJ 07748",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02006718",
+  "current_status": "Scheduled",
+  "defendant": "Kyle Chaffin, et al.",
+  "description": "Dimensions: 246.00FT. X 416.61FT. X 62.50 FT. X 206.57FT. X 62.50FT. X 206.57FT.\nNearest Cross Street: Marvin Road\nPlaintiff's good faith estimate of its upset price is: $511,614.95\nThe occupancy states of the property is: OWNER OCCUPIED\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney.",
+  "extracted": {
+    "upset_amount": 511614.95
+  },
+  "fields": {
+    "Address": "73 Swartzel Drive\nMiddletown NJ 07748",
+    "Approx. Judgment*": "$411,368.37",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F02006718",
+    "Defendant": "Kyle Chaffin, et al.",
+    "Description": "Dimensions: 246.00FT. X 416.61FT. X 62.50 FT. X 206.57FT. X 62.50FT. X 206.57FT.\nNearest Cross Street: Marvin Road\nPlaintiff's good faith estimate of its upset price is: $511,614.95\nThe occupancy states of the property is: OWNER OCCUPIED\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney.",
+    "Parcel #": "Lot 211, Block 638 Tax Map of the Township of Middletown",
+    "Plaintiff": "Eagle Home Mortgage, LLC",
+    "Property Note": "",
+    "Sales Date": "12/10/2024",
+    "Sheriff #": "FOR-23000539"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 411368.37,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "73 Swartzel Drive Middletown NJ 07748",
+    "defendant": "Kyle Chaffin, et al.",
+    "listing_status": "Settled",
+    "plaintiff": "Eagle Home Mortgage, LLC",
+    "sale_date": "2024-12-10"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 211, Block 638 Tax Map of the Township of Middletown",
+  "plaintiff": "Eagle Home Mortgage, LLC",
+  "property_note": null,
+  "sale_date": "2024-12-10",
+  "sheriff_number": "FOR-23000539",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-10",
+      "status": "Settled"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Court Ordered Defendant Adjournment"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-09-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-01-29",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2024-01-29",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-06-12",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2023-06-12",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2023-05-15",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2023-04-17",
+      "status": "Scheduled"
+    }
+  ]
+}

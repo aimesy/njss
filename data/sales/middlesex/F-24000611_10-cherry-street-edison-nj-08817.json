@@ -1,0 +1,64 @@
+{
+  "address": "10 CHERRY STREET EDISON NJ 08817",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 414-1167",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00683924",
+  "current_status": "Settled",
+  "defendant": "LOUIS ANDERSON III, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$192,841.02",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 414-1167",
+    "Court Case #": "F00683924",
+    "Defendant": "LOUIS ANDERSON III, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 15.01 BLOCK 279",
+    "Plaintiff": "SANTANDER BANK, N.A.",
+    "Property Address": "10 CHERRY STREET\nEDISON NJ 08817",
+    "Property Note": "",
+    "Sale Date": "4/30/2025",
+    "Sheriff #": "F-24000611"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 192841.02,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 CHERRY STREET EDISON NJ 08817",
+    "defendant": "LOUIS ANDERSON III, ET ALS.",
+    "listing_status": "Adjourned - Plaintiff",
+    "plaintiff": "SANTANDER BANK, N.A.",
+    "sale_date": "2025-04-30"
+  },
+  "listing_status": "Adjourned - Plaintiff",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 15.01 BLOCK 279",
+  "plaintiff": "SANTANDER BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2025-04-30",
+  "sheriff_number": "F-24000611",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-30",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-03-28",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "201 EAST GEORGE PLACE WOODBRIDGE NJ 08830",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00291624",
+  "current_status": "Cancelled",
+  "defendant": "VIJAY LAXMI BACHU, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$387,613.61",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00291624",
+    "Defendant": "VIJAY LAXMI BACHU, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 15 BLOCK 483.03 FKA 483.C",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-A",
+    "Property Address": "201 EAST GEORGE PLACE\nWOODBRIDGE NJ 08830",
+    "Property Note": "",
+    "Sale Date": "10/15/2025",
+    "Sheriff #": "F-25002078"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 387613.61,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "201 EAST GEORGE PLACE WOODBRIDGE NJ 08830",
+    "defendant": "VIJAY LAXMI BACHU, ET ALS.",
+    "listing_status": "Cancelled",
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-A",
+    "sale_date": "2025-10-15"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 15 BLOCK 483.03 FKA 483.C",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-A",
+  "property_note": null,
+  "sale_date": "2025-10-15",
+  "sheriff_number": "F-25002078",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-10-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "320 Quince Avenue Galloway Township NJ 08205",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-008086-25",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Daniel Russo and Southern Bank and Trust Company N/K/A Southern Bank",
+  "extracted": {},
+  "fields": {
+    "Address": "320 Quince Avenue\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$345,617.23",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-008086-25",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Daniel Russo and Southern Bank and Trust Company N/K/A Southern Bank",
+    "Plaintiff": "Deutsche Bank Trust Company Americas, As Trustee for Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2007-QS9",
+    "Priors": "Subject to tax sale certificate #24-00122 for open sewer plus costs and penalties, amount: $530.41",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "1/29/2026",
+    "Sheriff #": "F-25001254",
+    "Upset Amount": "$374,946.13"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 345617.23,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "320 Quince Avenue Galloway Township NJ 08205",
+    "defendant": "Daniel Russo and Sou...",
+    "listing_status": null,
+    "plaintiff": "Deutsche Bank Trust ...",
+    "sale_date": "2026-01-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Deutsche Bank Trust Company Americas, As Trustee for Residential Accredit Loans, Inc., Mortgage Asset-Backed Pass-Through Certificates, Series 2007-QS9",
+  "priors": "Subject to tax sale certificate #24-00122 for open sewer plus costs and penalties, amount: $530.41",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-01-29",
+  "sheriff_number": "F-25001254",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-01-29",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-01-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 374946.13,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,63 @@
+{
+  "address": "5 Cedar Xing #5 Red Bank NJ 07701",
+  "attorney": "Pluese, Becker & Saltzman, LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00892323",
+  "current_status": "Scheduled",
+  "defendant": "Rose I. Gomez, et al",
+  "description": "Approximate dimensions: Condominium Unit\nNearest cross street: Catherine Street\nThe Plaintiff's Upset Bid presently approximates $105,000.00\nOccupancy Status: UNKNOWN\nSubject to restrictions of of record regarding transfers subject to applicable provisions of the Fair Housing act and/or applicable regulations of the Council on Affordable Housing (COAH). Purchasers of this property at the Sheriff's Sale are limited to qualified bidders according to the Housing Act.",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "5 Cedar Xing #5\nRed Bank NJ 07701",
+    "Approx. Judgment*": "$96,406.00",
+    "Attorney": "Pluese, Becker & Saltzman, LLC",
+    "Court Case #": "F00892323",
+    "Defendant": "Rose I. Gomez, et al",
+    "Description": "Approximate dimensions: Condominium Unit\nNearest cross street: Catherine Street\nThe Plaintiff's Upset Bid presently approximates $105,000.00\nOccupancy Status: UNKNOWN\nSubject to restrictions of of record regarding transfers subject to applicable provisions of the Fair Housing act and/or applicable regulations of the Council on Affordable Housing (COAH). Purchasers of this property at the Sheriff's Sale are limited to qualified bidders according to the Housing Act.",
+    "Parcel #": "Tax Lot: 1 C005 f/ka part of Lot 1 Tax Block: 75.07 Tax Map of Borough of Red Bank",
+    "Plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "Property Note": "",
+    "Sales Date": "12/2/2024",
+    "Sheriff #": "FOR-24001342"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 96406.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 Cedar Xing #5 Red Bank NJ 07701",
+    "defendant": "Rose I. Gomez, et al",
+    "listing_status": "Purchased - Buy Back",
+    "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+    "sale_date": "2024-12-02"
+  },
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 1 C005 f/ka part of Lot 1 Tax Block: 75.07 Tax Map of Borough of Red Bank",
+  "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+  "property_note": null,
+  "sale_date": "2024-12-02",
+  "sheriff_number": "FOR-24001342",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-12-02",
+      "status": "Purchased - Buy Back"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-10-07",
+      "status": "Scheduled"
+    }
+  ]
+}

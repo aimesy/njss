@@ -1,0 +1,51 @@
+{
+  "address": "295 BERRY STREET HACKENSACK NJ 07601",
+  "attorney": "HILL WALLACK LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00253625",
+  "current_status": "BANKRUPTCY",
+  "defendant": "CARLOS CATEDRAL; MRS./MR. CARLOS CATEDRAL, SPOUSE OR CIVIL UNION PARTNER OF CARLOS CATEDRAL; UCERE RUIZ FKA UCERE TORRES; ET AL",
+  "description": "APPROXIMATE UPSET AMOUNT IS $308,971.18 FOR THE SHERIFF'S SALE\nOCCUPANCY STATUS: BORROWER OCCUPIED",
+  "extracted": {
+    "occupancy": "BORROWER OCCUPIED"
+  },
+  "fields": {
+    "Address": "295 BERRY STREET\nHACKENSACK NJ 07601",
+    "Approx. Upset*": "$285,326.46",
+    "Attorney": "HILL WALLACK LLP",
+    "Court Case #": "F00253625",
+    "Defendant": "CARLOS CATEDRAL; MRS./MR. CARLOS CATEDRAL, SPOUSE OR CIVIL UNION PARTNER OF CARLOS CATEDRAL; UCERE RUIZ FKA UCERE TORRES; ET AL",
+    "Description": "APPROXIMATE UPSET AMOUNT IS $308,971.18 FOR THE SHERIFF'S SALE\nOCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Parcel #": "LOT 15.03, BLOCK 340",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Note": "",
+    "Sales Date": "11/6/2025",
+    "Sheriff #": "F-25002799"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "295 BERRY STREET HACKENSACK NJ 07601",
+    "defendant": "CARLOS CATEDRAL; MRS./MR. CARLOS CATEDRAL, SPOUSE OR CIVIL UNION PARTNER OF CARLOS CATEDRAL; UCERE RUIZ FKA UCERE TORRES; ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2025-11-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 15.03, BLOCK 340",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2025-11-06",
+  "sheriff_number": "F-25002799",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-11-06",
+      "status": "BANKRUPTCY"
+    }
+  ],
+  "upset_amount": 285326.46,
+  "upset_amount_label": "Approx. Upset*"
+}

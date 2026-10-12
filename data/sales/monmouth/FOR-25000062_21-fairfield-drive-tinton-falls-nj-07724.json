@@ -1,0 +1,64 @@
+{
+  "address": "21 Fairfield Drive Tinton Falls NJ 07724",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00071024",
+  "current_status": "Scheduled",
+  "defendant": "Javis M. Brunson A/K/A Javis Brunson A/K/A Javis Brunson, et al",
+  "description": "Dimensions (Approx.): 197.51 x 135.82 x 182.48 x 135.00\nNearest Cross Street: Cloverdale Cir.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upset Price: $158,037.24\nOccupancy status: Occupied",
+  "extracted": {
+    "occupancy": "Occupied",
+    "upset_amount": 158037.24
+  },
+  "fields": {
+    "Address": "21 Fairfield Drive\nTinton Falls NJ 07724",
+    "Approx. Judgment*": "$145,283.99",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F00071024",
+    "Defendant": "Javis M. Brunson A/K/A Javis Brunson A/K/A Javis Brunson, et al",
+    "Description": "Dimensions (Approx.): 197.51 x 135.82 x 182.48 x 135.00\nNearest Cross Street: Cloverdale Cir.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs. Dennis Thiel (A-58-98).\nGood Faith Estimated Upset Price: $158,037.24\nOccupancy status: Occupied",
+    "Parcel #": "Tax Lot(s): 12, in block: 48.05 Tax Map of Borough of Tinton Falls",
+    "Plaintiff": "US Bank Trust National Association, As Trustee Of The Bungalow Series IV Trust,",
+    "Property Note": "",
+    "Sales Date": "5/12/2025",
+    "Sheriff #": "FOR-25000062"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 145283.99,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "21 Fairfield Drive Tinton Falls NJ 07724",
+    "defendant": "Javis M. Brunson A/K/A Javis Brunson A/K/A Javis Brunson, et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "US Bank Trust National Association, As Trustee Of The Bungalow Series IV Trust,",
+    "sale_date": "2025-05-12"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot(s): 12, in block: 48.05 Tax Map of Borough of Tinton Falls",
+  "plaintiff": "US Bank Trust National Association, As Trustee Of The Bungalow Series IV Trust,",
+  "property_note": null,
+  "sale_date": "2025-05-12",
+  "sheriff_number": "FOR-25000062",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-05-12",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-05-12",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-03-17",
+      "status": "Scheduled"
+    }
+  ]
+}

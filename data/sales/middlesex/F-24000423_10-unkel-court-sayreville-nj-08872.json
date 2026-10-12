@@ -1,0 +1,56 @@
+{
+  "address": "10 UNKEL COURT SAYREVILLE NJ 08872",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 485-3584",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00375923",
+  "current_status": "Settled",
+  "defendant": "HARINDER SINGH, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$472,377.31",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 485-3584",
+    "Court Case #": "F00375923",
+    "Defendant": "HARINDER SINGH, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 44 BLOCK 136.12",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Address": "10 UNKEL COURT\nSAYREVILLE NJ 08872",
+    "Property Note": "",
+    "Sale Date": "2/5/2025",
+    "Sheriff #": "F-24000423"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 472377.31,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 UNKEL COURT SAYREVILLE NJ 08872",
+    "defendant": "HARINDER SINGH, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2025-02-05"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 44 BLOCK 136.12",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2025-02-05",
+  "sheriff_number": "F-24000423",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

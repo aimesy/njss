@@ -1,0 +1,72 @@
+{
+  "address": "342 Riverdale Drive Aberdeen NJ 07735",
+  "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00722524",
+  "current_status": "Scheduled",
+  "defendant": "Erica Chavez et al.",
+  "description": "Approximate Dimensions: 46 x 200\nNearest Cross Street: Prospect Avenue\nUPSET PRICE: Approximately: $317,775.97 and any additional sums as ordered by the court\nOccupancy Status: OWNER OCCUPIED\nBeginning at a point in the Northerly line of Riverdale Drive distant Southerly and Easterly 611.02 feet from the intersection of the easterly line of Riverdale Drive with the Southerly line of Prospect Avenue and running; thence (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff)\nPursuant to tax search of 02/03/2025; 2025 Qtr. 1 Due: 02/01/2025 $2,060.25 OPEN; SUBJECT TO POSTING, 2025 Qtr. 2 Due: 05/01/2025 $2,060.25 OPEN. Water Acct: 4597 0 10/01/2024-12/31/2024 $389.50 OPEN AND DUE 02/10/2025 $568.80 OPEN PLUS PENALTY; OWED IN ARREARS. Subject to final reading; Sewer Acct: 4597 0 01/01/2025-03/31/2025 $182.00 OPEN AND DUE 02/10/2025 $182.00 OPEN PLUS PENALTY; OWED IN ARREARS. General Remark: 2025 SECOND HALFTAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTES ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 317775.97
+  },
+  "fields": {
+    "Address": "342 Riverdale Drive\nAberdeen NJ 07735",
+    "Approx. Judgment*": "$293,665.02",
+    "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "Court Case #": "F00722524",
+    "Defendant": "Erica Chavez et al.",
+    "Description": "Approximate Dimensions: 46 x 200\nNearest Cross Street: Prospect Avenue\nUPSET PRICE: Approximately: $317,775.97 and any additional sums as ordered by the court\nOccupancy Status: OWNER OCCUPIED\nBeginning at a point in the Northerly line of Riverdale Drive distant Southerly and Easterly 611.02 feet from the intersection of the easterly line of Riverdale Drive with the Southerly line of Prospect Avenue and running; thence (This concise description does not constitute a legal description. A copy of the full legal description can be found at the Office of the Sheriff)\nPursuant to tax search of 02/03/2025; 2025 Qtr. 1 Due: 02/01/2025 $2,060.25 OPEN; SUBJECT TO POSTING, 2025 Qtr. 2 Due: 05/01/2025 $2,060.25 OPEN. Water Acct: 4597 0 10/01/2024-12/31/2024 $389.50 OPEN AND DUE 02/10/2025 $568.80 OPEN PLUS PENALTY; OWED IN ARREARS. Subject to final reading; Sewer Acct: 4597 0 01/01/2025-03/31/2025 $182.00 OPEN AND DUE 02/10/2025 $182.00 OPEN PLUS PENALTY; OWED IN ARREARS. General Remark: 2025 SECOND HALFTAXES WILL INCREASE TO REFLECT CHANGE IN ASSESSED VALUE AND/OR AN ADDED/OMITTES ASSESSMENT MAY BE PENDING DEPENDENT ON EFFECTIVE DATE OF NEW ASSESSMENT",
+    "Parcel #": "Tax Lot: 16 Block: 244 Located on the tax map of the Township of Aberdeen",
+    "Plaintiff": "LoanDepot.Com, LLC",
+    "Property Note": "",
+    "Sales Date": "3/16/2026",
+    "Sheriff #": "FOR-25000255"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 293665.02,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "342 Riverdale Drive Aberdeen NJ 07735",
+    "defendant": "Erica Chavez et al.",
+    "listing_status": "Bankrupt",
+    "plaintiff": "LoanDepot.Com, LLC",
+    "sale_date": "2026-03-16"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot: 16 Block: 244 Located on the tax map of the Township of Aberdeen",
+  "plaintiff": "LoanDepot.Com, LLC",
+  "property_note": null,
+  "sale_date": "2026-03-16",
+  "sheriff_number": "FOR-25000255",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-16",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-06-23",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-05-27",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-04-28",
+      "status": "Scheduled"
+    }
+  ]
+}

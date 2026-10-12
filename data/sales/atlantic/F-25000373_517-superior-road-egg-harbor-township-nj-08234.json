@@ -1,0 +1,66 @@
+{
+  "address": "517 Superior Road Egg Harbor Township NJ 08234",
+  "attorney": "Powers Kirn, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010613-24",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman",
+  "deed_address": "413 S. Seaview Ave, Galloway, NJ 08205",
+  "defendant": "Michael Chekanski; Susan Chekanski; Meadow Lake, Homeowners Association t/a Fountain Lake Homeowner's Association; United States of America; Meadow Lakes Homeowners Association, Inc; Atlantic Coastal Surgery",
+  "extracted": {},
+  "fields": {
+    "Address": "517 Superior Road\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$308,106.91",
+    "Attorney": "Powers Kirn, LLC",
+    "Court Case #": "F-010613-24",
+    "Deed": "Amjad Rehman",
+    "Deed Address": "413 S. Seaview Ave, Galloway, NJ 08205",
+    "Defendant": "Michael Chekanski; Susan Chekanski; Meadow Lake, Homeowners Association t/a Fountain Lake Homeowner's Association; United States of America; Meadow Lakes Homeowners Association, Inc; Atlantic Coastal Surgery",
+    "Plaintiff": "Bank of America, N.A.",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "7/31/2025",
+    "Sheriff #": "F-25000373",
+    "Upset Amount": "$342,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 308106.91,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "517 Superior Road Egg Harbor Township NJ 08234",
+    "defendant": "Michael Chekanski; S...",
+    "listing_status": null,
+    "plaintiff": "Bank of America, N.A...",
+    "sale_date": "2025-07-31"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bank of America, N.A.",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-07-31",
+  "sheriff_number": "F-25000373",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-31",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-31",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-07-03",
+      "status": "Defendant's Attorney Adjourned to"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 342000.0,
+  "upset_amount_label": "Upset Amount"
+}

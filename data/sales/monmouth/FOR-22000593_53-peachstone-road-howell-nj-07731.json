@@ -1,0 +1,67 @@
+{
+  "address": "53 Peachstone Road Howell NJ 07731",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01360116",
+  "current_status": "Scheduled",
+  "defendant": "Audra Stewart, et al",
+  "description": "Dimensions: 80.00FTX130.00FTX80.00FTX130.00FT\nNearest Cross Street: Hedgewood Road\nPlaintiff's good faith estimate of its upset price is: $539,255.28\nThe occupancy status of the property is: Occupied by Unknown\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.",
+  "extracted": {
+    "upset_amount": 539255.28
+  },
+  "fields": {
+    "Address": "53 Peachstone Road\nHowell NJ 07731",
+    "Approx. Judgment*": "$406,371.32",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F01360116",
+    "Defendant": "Audra Stewart, et al",
+    "Description": "Dimensions: 80.00FTX130.00FTX80.00FTX130.00FT\nNearest Cross Street: Hedgewood Road\nPlaintiff's good faith estimate of its upset price is: $539,255.28\nThe occupancy status of the property is: Occupied by Unknown\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n**If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee's attorney.",
+    "Parcel #": "LOT 15, BLOCK 35.63 Tax Map of the Township of Howell",
+    "Plaintiff": "Santander Bank, N.A.",
+    "Property Note": "",
+    "Sales Date": "3/14/2025",
+    "Sheriff #": "FOR-22000593"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 406371.32,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "53 Peachstone Road Howell NJ 07731",
+    "defendant": "Audra Stewart, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Santander Bank, N.A.",
+    "sale_date": "2025-03-14"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "LOT 15, BLOCK 35.63 Tax Map of the Township of Howell",
+  "plaintiff": "Santander Bank, N.A.",
+  "property_note": null,
+  "sale_date": "2025-03-14",
+  "sheriff_number": "FOR-22000593",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-03-14",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2022-05-16",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2022-05-16",
+      "status": "Scheduled"
+    }
+  ]
+}

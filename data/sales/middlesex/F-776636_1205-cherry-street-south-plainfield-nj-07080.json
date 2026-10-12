@@ -1,0 +1,68 @@
+{
+  "address": "1205 CHERRY STREET SOUTH PLAINFIELD NJ 07080",
+  "attorney": "PINCUS & TARAB",
+  "attorney_file_number": null,
+  "attorney_phone": "516-699-8902",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00799822",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "CHRISTOPHER ZWATSCHKA, ET ALS",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$418,428.49",
+    "Attorney": "PINCUS & TARAB",
+    "Attorney File #": "",
+    "Attorney Phone": "516-699-8902",
+    "Court Case #": "F00799822",
+    "Defendant": "CHRISTOPHER ZWATSCHKA, ET ALS",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "1205 CHERRY STREET\nSOUTH PLAINFIELD NJ 07080",
+    "Property Note": "SUCCESSFULLY POSTED BY: RON WALKO, OCTOBER 29, 2024",
+    "Sale Date": "11/19/2025",
+    "Sheriff #": "F-776636"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 418428.49,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1205 CHERRY STREET SOUTH PLAINFIELD NJ 07080",
+    "defendant": "CHRISTOPHER ZWATSCHKA, ET ALS",
+    "listing_status": "Settled",
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": "SUCCESSFULLY POSTED BY: RON WALKO, OCTOBER 29, 2024",
+  "sale_date": "2025-11-19",
+  "sheriff_number": "F-776636",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-11-19",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-02-05",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-02-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-01-08",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

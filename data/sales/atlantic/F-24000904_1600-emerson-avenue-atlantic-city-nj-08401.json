@@ -1,0 +1,90 @@
+{
+  "address": "1600 Emerson Avenue Atlantic City NJ 08401",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-014272-23",
+  "current_status": "Scheduled",
+  "deed": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Seasoned Credit Risk Transfer Trust Series 2020-1",
+  "deed_address": "55 Beattie Place, Suite 100 Greenville, South Carolina 29601-2743",
+  "defendant": "James Michael Brown, Jr A/K/A James M. Brown Jr A/K/A James Brown A/K/A Jim Brown, Individually and as Adminstrator of The Estate of Ali Reynolds A/K/A Ali Linda Reynolds A/k/A Ali L. Reynolds; The Hartford; Plymouth Rock Assurance F/K/A High Point Insurance, Subrogee; Saveng Phommathep; Viengham Phommathep; Pride Acquisitions LLC; Cooper University Hospital; I9 Sports Corporation; 97-99 Franklin Street LLC; Rachel Brown; Shore Memorial Hospital; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "1600 Emerson Avenue\nAtlantic City NJ 08401",
+    "Approx. Judgment*": "$221,371.92",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-014272-23",
+    "Deed": "Federal Home Loan Mortgage Corporation, as Trustee for the benefit of the Seasoned Credit Risk Transfer Trust Series 2020-1",
+    "Deed Address": "55 Beattie Place, Suite 100 Greenville, South Carolina 29601-2743",
+    "Defendant": "James Michael Brown, Jr A/K/A James M. Brown Jr A/K/A James Brown A/K/A Jim Brown, Individually and as Adminstrator of The Estate of Ali Reynolds A/K/A Ali Linda Reynolds A/k/A Ali L. Reynolds; The Hartford; Plymouth Rock Assurance F/K/A High Point Insurance, Subrogee; Saveng Phommathep; Viengham Phommathep; Pride Acquisitions LLC; Cooper University Hospital; I9 Sports Corporation; 97-99 Franklin Street LLC; Rachel Brown; Shore Memorial Hospital; State of New Jersey; United States of America",
+    "Plaintiff": "Federal Home Loan Mortgage Corporation, As Trustee for The Benefit of The Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-1",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "5/8/2025",
+    "Sheriff #": "F-24000904",
+    "Upset Amount": "$251,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 221371.92,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1600 Emerson Avenue Atlantic City NJ 08401",
+    "defendant": "James Michael Brown,...",
+    "listing_status": null,
+    "plaintiff": "Federal Home Loan Mo...",
+    "sale_date": "2025-05-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Federal Home Loan Mortgage Corporation, As Trustee for The Benefit of The Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-1",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2025-05-08",
+  "sheriff_number": "F-24000904",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-05-08",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-03-27",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-02-13",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-01-09",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-11-21",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-08-29",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 251000.0,
+  "upset_amount_label": "Upset Amount"
+}

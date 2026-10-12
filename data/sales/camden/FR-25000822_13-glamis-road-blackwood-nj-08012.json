@@ -1,0 +1,69 @@
+{
+  "address": "13 GLAMIS ROAD BLACKWOOD NJ 08012",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00065424",
+  "current_status": "Purchased",
+  "defendant": "JOHN M. BARRETT AS HEIR TO THE ESTATE OF MICHELLE M. BARRETT AND AS ADMINISTRATOR OF THE ESTATE OF MICHELLE M. BARRETT; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; KAYLA BARRETT;",
+  "extracted": {},
+  "fields": {
+    "Address": "13 GLAMIS ROAD\nBLACKWOOD NJ 08012",
+    "Approx. Upset*": "$186,079.68",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F00065424",
+    "Defendant": "JOHN M. BARRETT AS HEIR TO THE ESTATE OF MICHELLE M. BARRETT AND AS ADMINISTRATOR OF THE ESTATE OF MICHELLE M. BARRETT; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; KAYLA BARRETT;",
+    "Parcel #": "Block 12807 Lot 12",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SLST 2022-1 PARTICIPATION INTEREST TRUST",
+    "Property Note": "Amount Due for Taxes: Taxes due and owing in the approximate amount of $2,582.59 as of 05/20/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 05/20/26\nSewer/CCMUA due and owing in the approximate amount of $371.00 as of 05/20/26",
+    "Sales Date": "9/16/2026",
+    "Sheriff #": "FR-25000822"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "13 GLAMIS ROAD BLACKWOOD NJ 08012",
+    "defendant": "JOHN M. BARRETT AS HEIR TO THE ESTATE OF MICHELLE M. BARRETT AND AS ADMINISTRATOR OF THE ESTATE OF MICHELLE M. BARRETT; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; KAYLA BARRETT;",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SLST 2022-1 PARTICIPATION INTEREST TRUST",
+    "sale_date": "2026-09-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 12807 Lot 12",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SLST 2022-1 PARTICIPATION INTEREST TRUST",
+  "property_note": "Amount Due for Taxes: Taxes due and owing in the approximate amount of $2,582.59 as of 05/20/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 05/20/26\nSewer/CCMUA due and owing in the approximate amount of $371.00 as of 05/20/26",
+  "sale_date": "2026-09-16",
+  "sheriff_number": "FR-25000822",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-06-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-16",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-09-16",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 186079.68,
+  "upset_amount_label": "Approx. Upset*"
+}

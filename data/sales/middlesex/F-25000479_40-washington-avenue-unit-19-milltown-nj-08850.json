@@ -1,0 +1,64 @@
+{
+  "address": "40 WASHINGTON AVENUE UNIT 19 MILLTOWN NJ 08850",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-924-0808",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01266323",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "PATRICK J. CULLINA, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$243,195.88",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F01266323",
+    "Defendant": "PATRICK J. CULLINA, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.04 QUAL C019 BLOCK 73",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C",
+    "Property Address": "40 WASHINGTON AVENUE UNIT 19\nMILLTOWN NJ 08850",
+    "Property Note": "",
+    "Sale Date": "7/9/2025",
+    "Sheriff #": "F-25000479"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 243195.88,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "40 WASHINGTON AVENUE UNIT 19 MILLTOWN NJ 08850",
+    "defendant": "PATRICK J. CULLINA, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C",
+    "sale_date": "2025-07-09"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.04 QUAL C019 BLOCK 73",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-C",
+  "property_note": null,
+  "sale_date": "2025-07-09",
+  "sheriff_number": "F-25000479",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-07-09",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

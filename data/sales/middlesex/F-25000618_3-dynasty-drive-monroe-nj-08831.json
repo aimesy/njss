@@ -1,0 +1,72 @@
+{
+  "address": "3 DYNASTY DRIVE MONROE NJ 08831",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00888219",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "JUNIO MIGUEL FERMIN, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$890,273.63",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00888219",
+    "Defendant": "JUNIO MIGUEL FERMIN, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.05 BLOCK 109",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Address": "3 DYNASTY DRIVE\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "8/20/2025",
+    "Sheriff #": "F-25000618"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 890273.63,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 DYNASTY DRIVE MONROE NJ 08831",
+    "defendant": "JUNIO MIGUEL FERMIN, ET ALS.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2025-08-20"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.05 BLOCK 109",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-08-20",
+  "sheriff_number": "F-25000618",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-07-09",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-11",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

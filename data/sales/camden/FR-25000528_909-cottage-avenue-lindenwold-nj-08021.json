@@ -1,0 +1,77 @@
+{
+  "address": "909 COTTAGE AVENUE LINDENWOLD NJ 08021",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00681724",
+  "current_status": "Court Adjournment",
+  "defendant": "JEFFREY PINE, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "909 COTTAGE AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$172,207.49",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F00681724",
+    "Defendant": "JEFFREY PINE, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "10/7/2025",
+    "Sheriff #": "FR-25000528"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "909 COTTAGE AVENUE LINDENWOLD NJ 08021",
+    "defendant": "JEFFREY PINE, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2025-10-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2025-10-07",
+  "sheriff_number": "FR-25000528",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-05-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-07-02",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2025-10-07",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "Court Adjournment"
+    }
+  ],
+  "upset_amount": 172207.49,
+  "upset_amount_label": "Approx. Upset*"
+}

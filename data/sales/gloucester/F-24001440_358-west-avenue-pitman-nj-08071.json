@@ -1,0 +1,67 @@
+{
+  "address": "358 WEST AVENUE PITMAN NJ 08071",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-006279-23",
+  "current_status": "Hold In Abeyance",
+  "defendant": "GENNARO TASCA, ET AL",
+  "description": "The Plaintiff's upset bid presently approximates $121,000.00. Occupancy status: Unknown.",
+  "extracted": {
+    "occupancy": "Unknown."
+  },
+  "fields": {
+    "Address": "358 WEST AVENUE\nPITMAN NJ 08071",
+    "Approximate Judgment": "$117,370.37",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F-006279-23",
+    "Defendant": "GENNARO TASCA, ET AL",
+    "Description": "The Plaintiff's upset bid presently approximates $121,000.00. Occupancy status: Unknown.",
+    "Parcel #": "BLOCK: 44 LOT: 15",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "County: Gloucester\nMunicipality: Borough of Pitman\nStreet Address: 358 West Ave, Pitman, NJ 08071\nTax Lot: 15\nTax Block: 44\nApproximate dimensions: 30' x 104'\nNearest cross street: Laurel Avenue\nThe Plaintiff's upset bid presently approximates $121,000.00. Occupancy status: Unknown.",
+    "Sales Date": "10/21/2026",
+    "Sheriff #": "F-24001440"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 117370.37,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "358 WEST AVENUE PITMAN NJ 08071",
+    "defendant": "GENNARO TASCA, ET AL",
+    "listing_status": "Hold In Abeyance",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-10-21"
+  },
+  "listing_status": "Hold In Abeyance",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 44 LOT: 15",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": "County: Gloucester\nMunicipality: Borough of Pitman\nStreet Address: 358 West Ave, Pitman, NJ 08071\nTax Lot: 15\nTax Block: 44\nApproximate dimensions: 30' x 104'\nNearest cross street: Laurel Avenue\nThe Plaintiff's upset bid presently approximates $121,000.00. Occupancy status: Unknown.",
+  "sale_date": "2026-10-21",
+  "sheriff_number": "F-24001440",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2025-02-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-05",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-02",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-04-30",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Hold In Abeyance"
+    }
+  ]
+}

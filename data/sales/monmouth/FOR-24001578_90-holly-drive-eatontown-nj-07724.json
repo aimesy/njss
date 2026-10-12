@@ -1,0 +1,49 @@
+{
+  "address": "90 Holly Drive Eatontown NJ 07724",
+  "attorney": "Greenspoon Marder, LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01207323",
+  "current_status": "Canceled",
+  "defendant": "Edward Noor",
+  "description": "Dimensions of the lot (Approximately): 20X100\nNearest Cross Street: Hope Road\nThe Plaintiffs Good Faith Estimate is $143,064.15, The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status of OWNER OCCUPIED",
+  "extracted": {},
+  "fields": {
+    "Address": "90 Holly Drive\nEatontown NJ 07724",
+    "Approx. Judgment*": "$140,611.05",
+    "Attorney": "Greenspoon Marder, LLP",
+    "Court Case #": "F01207323",
+    "Defendant": "Edward Noor",
+    "Description": "Dimensions of the lot (Approximately): 20X100\nNearest Cross Street: Hope Road\nThe Plaintiffs Good Faith Estimate is $143,064.15, The upset amount may be subject to further Orders of additional sums.\nThe current occupancy status of OWNER OCCUPIED",
+    "Parcel #": "Lot(s) 17, Block 107 Tax Map of Borough of Eatontown",
+    "Plaintiff": "Carrington Mortgage Services, LLC",
+    "Property Note": "",
+    "Sales Date": "11/13/2024",
+    "Sheriff #": "FOR-24001578"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 140611.05,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "90 Holly Drive Eatontown NJ 07724",
+    "defendant": "Edward Noor",
+    "listing_status": "Canceled",
+    "plaintiff": "Carrington Mortgage Services, LLC",
+    "sale_date": "2024-11-13"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot(s) 17, Block 107 Tax Map of Borough of Eatontown",
+  "plaintiff": "Carrington Mortgage Services, LLC",
+  "property_note": null,
+  "sale_date": "2024-11-13",
+  "sheriff_number": "FOR-24001578",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2024-11-13",
+      "status": "Canceled"
+    }
+  ]
+}

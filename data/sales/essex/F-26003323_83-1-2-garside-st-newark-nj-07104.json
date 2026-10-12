@@ -1,0 +1,61 @@
+{
+  "address": "83 1/2 GARSIDE ST NEWARK NJ 07104",
+  "attorney": "GREENSPOON MARDER, LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00082525",
+  "current_status": "Adjourned Defendant",
+  "defendant": "NEWARK GARSIDE LLC; ET. ALS.",
+  "description": "LOT(S) 73 BLOCK 489\nDIMENSIONS OF THE LOT (APPROXIMATELY): 16.7 X 100\nNEAREST CROSS STREET: VICTORIA AVENUE\nTHE PLAINTIFF'S GOOD FAITH ESTIMATE IS $847,613.14. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS IS OCCUPIED",
+  "extracted": {
+    "block": "489"
+  },
+  "fields": {
+    "Address": "83 1/2 GARSIDE ST\nNEWARK NJ 07104",
+    "Approx. Upset*": "$766,129.97",
+    "Attorney": "GREENSPOON MARDER, LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "F00082525",
+    "Defendant": "NEWARK GARSIDE LLC; ET. ALS.",
+    "Description": "LOT(S) 73 BLOCK 489\nDIMENSIONS OF THE LOT (APPROXIMATELY): 16.7 X 100\nNEAREST CROSS STREET: VICTORIA AVENUE\nTHE PLAINTIFF'S GOOD FAITH ESTIMATE IS $847,613.14. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS IS OCCUPIED",
+    "Parcel #": "",
+    "Plaintiff": "HOMEXPRESS MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "F-26003323"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "83 1/2 GARSIDE ST NEWARK NJ 07104",
+    "defendant": "NEWARK GARSIDE LLC; ET. ALS.",
+    "listing_status": null,
+    "plaintiff": "HOMEXPRESS MORTGAGE CORPORATION",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "HOMEXPRESS MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "F-26003323",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-09-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "Adjourned Defendant"
+    }
+  ],
+  "upset_amount": 766129.97,
+  "upset_amount_label": "Approx. Upset*"
+}

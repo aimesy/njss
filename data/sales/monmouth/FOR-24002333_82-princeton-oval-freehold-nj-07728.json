@@ -1,0 +1,68 @@
+{
+  "address": "82 Princeton Oval Freehold NJ 07728",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00213018",
+  "current_status": "Scheduled",
+  "defendant": "Elias Halkias, a/k/a Louie Halkias a/k/a Emanuel Halkias, a/k/a Emmanuel Halkias et al",
+  "description": "Dimensions of Lot: 100 feet wide by 160 feet long\nNearest Cross Street: Brandeis Place\nEstimated Upset Bid Amount: $1,134,000.00_, plus any additional sums as ordered by the court.\nOccupancy Status: Owner occupied.\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 1 Due: 02/01/2026 $3,929.07 OPEN\n2026 Qtr 2 Due: 05/01/2026 $3,929.07 OPEN\nWater: Freehold Twp Water+Sewer Dept. 1 Municipal Plaza Freehold, NJ 07728 732-294-2021 Acct: 4869108 0 07/01/2025-09/30/2025 $31.32 OPEN PLUS PENALTY $62.72 OPEN\nSewer: Freehold Twp Water+Sewer Dept. 1 Municipal Plaza Freehold,NJ 07728 732-294-2021 Acct: 4869108 0 10/01/2025-12/31/2025 $141.51 OPEN PLUS PENALTY $393.26 OPEN",
+  "extracted": {
+    "lot": "100",
+    "occupancy": "Owner occupied."
+  },
+  "fields": {
+    "Address": "82 Princeton Oval\nFreehold NJ 07728",
+    "Approx. Judgment*": "$867,013.15",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F00213018",
+    "Defendant": "Elias Halkias, a/k/a Louie Halkias a/k/a Emanuel Halkias, a/k/a Emmanuel Halkias et al",
+    "Description": "Dimensions of Lot: 100 feet wide by 160 feet long\nNearest Cross Street: Brandeis Place\nEstimated Upset Bid Amount: $1,134,000.00_, plus any additional sums as ordered by the court.\nOccupancy Status: Owner occupied.\nNotice Through Publication.\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation.\nTo ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 1 Due: 02/01/2026 $3,929.07 OPEN\n2026 Qtr 2 Due: 05/01/2026 $3,929.07 OPEN\nWater: Freehold Twp Water+Sewer Dept. 1 Municipal Plaza Freehold, NJ 07728 732-294-2021 Acct: 4869108 0 07/01/2025-09/30/2025 $31.32 OPEN PLUS PENALTY $62.72 OPEN\nSewer: Freehold Twp Water+Sewer Dept. 1 Municipal Plaza Freehold,NJ 07728 732-294-2021 Acct: 4869108 0 10/01/2025-12/31/2025 $141.51 OPEN PLUS PENALTY $393.26 OPEN",
+    "Parcel #": "Lot 6, Block 87.13 Tax Map of the Township of Freehold",
+    "Plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2007-6, Asset-Backed Certificates, Series 2007-6",
+    "Property Note": "",
+    "Sales Date": "3/30/2026",
+    "Sheriff #": "FOR-24002333"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 867013.15,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "82 Princeton Oval Freehold NJ 07728",
+    "defendant": "Elias Halkias, a/k/a Louie Halkias a/k/a Emanuel Halkias, a/k/a Emmanuel Halkias et al",
+    "listing_status": "Bankrupt",
+    "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2007-6, Asset-Backed Certificates, Series 2007-6",
+    "sale_date": "2026-03-30"
+  },
+  "listing_status": "Bankrupt",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 6, Block 87.13 Tax Map of the Township of Freehold",
+  "plaintiff": "Wells Fargo Bank, National Association as Trustee for Option One Mortgage Loan Trust 2007-6, Asset-Backed Certificates, Series 2007-6",
+  "property_note": null,
+  "sale_date": "2026-03-30",
+  "sheriff_number": "FOR-24002333",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-03-30",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Bankrupt"
+    },
+    {
+      "date": "2025-02-18",
+      "status": "Scheduled"
+    }
+  ]
+}

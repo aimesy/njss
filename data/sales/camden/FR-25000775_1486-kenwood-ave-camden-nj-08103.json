@@ -1,0 +1,69 @@
+{
+  "address": "1486 KENWOOD AVE CAMDEN NJ 08103",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01358222",
+  "current_status": "Purchased",
+  "defendant": "YOLANDA KELLY A/K/A YOLANDA Y. KELLY; MR. KELLY, SPOUSE OF YOLANDA KELLY A/K/A YOLANDA Y. KELLY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+  "extracted": {},
+  "fields": {
+    "Address": "1486 KENWOOD AVE\nCAMDEN NJ 08103",
+    "Approx. Upset*": "$123,518.15",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F01358222",
+    "Defendant": "YOLANDA KELLY A/K/A YOLANDA Y. KELLY; MR. KELLY,\nSPOUSE OF YOLANDA KELLY A/K/A YOLANDA Y. KELLY;\nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+    "Parcel #": "",
+    "Plaintiff": "BANK OF AMERICA, N.A.,",
+    "Property Note": "",
+    "Sales Date": "6/3/2026",
+    "Sheriff #": "FR-25000775"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1486 KENWOOD AVE CAMDEN NJ 08103",
+    "defendant": "YOLANDA KELLY A/K/A YOLANDA Y. KELLY; MR. KELLY, \nSPOUSE OF YOLANDA KELLY A/K/A YOLANDA Y. KELLY; \nSTATE OF NEW JERSEY; UNITED STATES OF AMERICA,",
+    "listing_status": null,
+    "plaintiff": "BANK OF AMERICA, N.A.,",
+    "sale_date": "2026-06-03"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "BANK OF AMERICA, N.A.,",
+  "property_note": null,
+  "sale_date": "2026-06-03",
+  "sheriff_number": "FR-25000775",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-06-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 123518.15,
+  "upset_amount_label": "Approx. Upset*"
+}

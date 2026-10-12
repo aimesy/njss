@@ -1,0 +1,64 @@
+{
+  "address": "200 HELENA STREET NEWFIELD NJ 08344",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-006315-25",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "TONI FREEMAN, ET AL.",
+  "description": "ESTIMATED UPSET PRICE: $192,414.17\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN",
+    "upset_amount": 192414.17
+  },
+  "fields": {
+    "Address": "200 HELENA STREET\nNEWFIELD NJ 08344",
+    "Approximate Judgment": "$178,146.15",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F-006315-25",
+    "Defendant": "TONI FREEMAN, ET AL.",
+    "Description": "ESTIMATED UPSET PRICE: $192,414.17\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "LOT: 1 BLOCK: 505 FKA 23.A",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "Property Note": "BOROUGH OF NEWFIELD\nCOUNTY OF GLOUCESTER\n200 HELENA STREET NEWFIELD, NJ 08344\nLOT: 1 BLOCK: 505 FKA 23.A\nAPPROXIMATE DIMENSIONS: 200.00 x 165.00 FEET\nNEAREST CROSS SREET: HAZEL AVENUE\nESTIMATED UPSET PRICE: $192,414.17\nOCCUPANCY STATUS: UNKNOWN\nWATER - NEWFIELD WATER DEPT. PPO BOX 856 NEWFIELD NJ 08334 856-697-1100 ACCT:4420\n05/01/2025 -07/31/2025 $145.00 OPEN PLUS PENALTY $1,495.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "F-25001302"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 178146.15,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "200 HELENA STREET NEWFIELD NJ 08344",
+    "defendant": "TONI FREEMAN, ET AL.",
+    "listing_status": "Purchased - 3rd Party",
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 1 BLOCK: 505 FKA 23.A",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+  "property_note": "BOROUGH OF NEWFIELD\nCOUNTY OF GLOUCESTER\n200 HELENA STREET NEWFIELD, NJ 08344\nLOT: 1 BLOCK: 505 FKA 23.A\nAPPROXIMATE DIMENSIONS: 200.00 x 165.00 FEET\nNEAREST CROSS SREET: HAZEL AVENUE\nESTIMATED UPSET PRICE: $192,414.17\nOCCUPANCY STATUS: UNKNOWN\nWATER - NEWFIELD WATER DEPT. PPO BOX 856 NEWFIELD NJ 08334 856-697-1100 ACCT:4420\n05/01/2025 -07/31/2025 $145.00 OPEN PLUS PENALTY $1,495.00 OPEN PLUS PENALTY; OWED IN ARREARS",
+  "sale_date": "2026-04-01",
+  "sheriff_number": "F-25001302",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Purchased - 3rd Party"
+    }
+  ]
+}

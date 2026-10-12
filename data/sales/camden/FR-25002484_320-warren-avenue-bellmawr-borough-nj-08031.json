@@ -1,0 +1,61 @@
+{
+  "address": "320 WARREN AVENUE BELLMAWR BOROUGH NJ 08031",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00420423",
+  "current_status": "Plaintiff Buy Back",
+  "defendant": "STEVEN E. CARPINETA; DAVID DELLA VALLE, PHN FROM ANS; JENNIFER DELLA VALLE, PHN FROM ANS; CITIZENS BANK OF PENNSAYLVANIA N/K/A CITIZENS BANK, NATIONAL ASSOCIATION; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; LYNDA M. KULLMAN; CURTIS BROWN,",
+  "extracted": {},
+  "fields": {
+    "Address": "320 WARREN AVENUE\nBELLMAWR BOROUGH NJ 08031",
+    "Approx. Upset*": "$262,063.94",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00420423",
+    "Defendant": "STEVEN E. CARPINETA; DAVID DELLA VALLE, PHN FROM ANS; JENNIFER DELLA\nVALLE, PHN FROM ANS; CITIZENS BANK OF PENNSAYLVANIA N/K/A\nCITIZENS BANK, NATIONAL ASSOCIATION; NEW JERSEY HOUSING AND\nMORTGAGE FINANCE AGENCY; LYNDA M. KULLMAN; CURTIS BROWN,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-CABANA\nSERIES IV TRUST,",
+    "Property Note": "",
+    "Sales Date": "4/15/2026",
+    "Sheriff #": "FR-25002484"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "320 WARREN AVENUE BELLMAWR BOROUGH NJ 08031",
+    "defendant": "STEVEN E. CARPINETA; DAVID DELLA VALLE, PHN FROM ANS; JENNIFER DELLA \nVALLE, PHN FROM ANS; CITIZENS BANK OF PENNSAYLVANIA N/K/A \nCITIZENS BANK, NATIONAL ASSOCIATION; NEW JERSEY HOUSING AND \nMORTGAGE FINANCE AGENCY; LYNDA M. KULLMAN; CURTIS BROWN,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-CABANA \nSERIES IV TRUST,",
+    "sale_date": "2026-04-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-CABANA SERIES IV TRUST,",
+  "property_note": null,
+  "sale_date": "2026-04-15",
+  "sheriff_number": "FR-25002484",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "Plaintiff Buy Back"
+    }
+  ],
+  "upset_amount": 262063.94,
+  "upset_amount_label": "Approx. Upset*"
+}

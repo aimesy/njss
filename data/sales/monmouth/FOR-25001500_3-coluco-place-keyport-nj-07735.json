@@ -1,0 +1,59 @@
+{
+  "address": "3 Coluco Place Keyport NJ 07735",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F02115017",
+  "current_status": "Scheduled",
+  "defendant": "Daniel Venditti, et al",
+  "description": "Approximate dimensions: 81.44 x 94.13 x 61.12 x 96.30 Feet (Irregular)\nNearest Cross Street Warren Street\nUpset Price $519,644.10\nOccupancy Status Vacant\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "upset_amount": 519644.1
+  },
+  "fields": {
+    "Address": "3 Coluco Place\nKeyport NJ 07735",
+    "Approx. Judgment*": "$470,458.98",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F02115017",
+    "Defendant": "Daniel Venditti, et al",
+    "Description": "Approximate dimensions: 81.44 x 94.13 x 61.12 x 96.30 Feet (Irregular)\nNearest Cross Street Warren Street\nUpset Price $519,644.10\nOccupancy Status Vacant\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 16, Block 98\nLot 16, Block 98 Tax Map of Borough of Keyport",
+    "Plaintiff": "Mortgage Assets Management LLC",
+    "Property Note": "",
+    "Sales Date": "11/21/2025",
+    "Sheriff #": "FOR-25001500"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 470458.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 Coluco Place Keyport NJ 07735",
+    "defendant": "Daniel Venditti, et al",
+    "listing_status": "Canceled",
+    "plaintiff": "Mortgage Assets Management LLC",
+    "sale_date": "2025-11-21"
+  },
+  "listing_status": "Canceled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 16, Block 98 Lot 16, Block 98 Tax Map of Borough of Keyport",
+  "plaintiff": "Mortgage Assets Management LLC",
+  "property_note": null,
+  "sale_date": "2025-11-21",
+  "sheriff_number": "FOR-25001500",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-11-21",
+      "status": "Canceled"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "Adjournment Plaintiff"
+    },
+    {
+      "date": "2025-09-29",
+      "status": "Scheduled"
+    }
+  ]
+}

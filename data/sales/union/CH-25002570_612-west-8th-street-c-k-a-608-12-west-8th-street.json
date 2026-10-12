@@ -1,0 +1,68 @@
+{
+  "address": "612 WEST 8TH STREET C/K/A 608-12 WEST 8TH STREET PLAINFIELD NJ 07060",
+  "attorney": "BROCK & SCOTT PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F02128818",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "KEVIN TURNER; TONYA RICE-TURNER; UNITED STATES OF AMERICA",
+  "description": "LOT 6 BLOCK 505",
+  "extracted": {
+    "block": "505",
+    "lot": "6"
+  },
+  "fields": {
+    "Address": "612 WEST 8TH STREET\nC/K/A 608-12 WEST 8TH STREET\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$296,929.91",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Court Case #": "F02128818",
+    "Defendant": "KEVIN TURNER; TONYA RICE-TURNER; UNITED STATES OF AMERICA",
+    "Description": "LOT 6 BLOCK 505",
+    "Parcel #": "LOT 6 BLOCK 505",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION; AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-9",
+    "Property Note": "",
+    "Sales Date": "4/1/2026",
+    "Sheriff #": "CH-25002570"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "612 WEST 8TH STREET C/K/A 608-12 WEST 8TH STREET PLAINFIELD NJ 07060",
+    "defendant": "KEVIN TURNER; TONYA RICE-TURNER; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION; AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-9",
+    "sale_date": "2026-04-01"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 6 BLOCK 505",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION; AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-9",
+  "property_note": null,
+  "sale_date": "2026-04-01",
+  "sheriff_number": "CH-25002570",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 296929.91,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,76 @@
+{
+  "address": "287-297 NEW BRUNSWICK AVENUE PERTH AMBOY NJ 08861",
+  "attorney": "KRISS & FEUERSTEIN LLP",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00610121",
+  "current_status": "Adjourned - Defendant",
+  "defendant": "287 NEW BRUNSWICK ENTERPRISES, LLC. ET ALS.",
+  "description": "SUCCESSFULLY POSTED 12/19/2022",
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$1,406,771.57",
+    "Attorney": "KRISS & FEUERSTEIN LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00610121",
+    "Defendant": "287 NEW BRUNSWICK ENTERPRISES, LLC. ET ALS.",
+    "Description": "SUCCESSFULLY POSTED 12/19/2022",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 17, 19, 19.01, 20, 21, 22 AND 23 BLOCK 158",
+    "Plaintiff": "BUPM NJ ASSETS LLC",
+    "Property Address": "287-297 NEW BRUNSWICK AVENUE\nPERTH AMBOY NJ 08861",
+    "Property Note": "",
+    "Sale Date": "8/20/2025",
+    "Sheriff #": "F-775875"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 1406771.57,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "287-297 NEW BRUNSWICK AVENUE PERTH AMBOY NJ 08861",
+    "defendant": "287 NEW BRUNSWICK ENTERPRISES, LLC. ET ALS.",
+    "listing_status": "Bankruptcy Dismissed",
+    "plaintiff": "BUPM NJ ASSETS LLC",
+    "sale_date": "2025-08-20"
+  },
+  "listing_status": "Bankruptcy Dismissed",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 17, 19, 19.01, 20, 21, 22 AND 23 BLOCK 158",
+  "plaintiff": "BUPM NJ ASSETS LLC",
+  "property_note": null,
+  "sale_date": "2025-08-20",
+  "sheriff_number": "F-775875",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-08-20",
+      "status": "Bankruptcy Dismissed"
+    },
+    {
+      "date": "2025-07-22",
+      "status": "Settled"
+    },
+    {
+      "date": "2023-06-21",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2023-04-12",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2023-03-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-02-15",
+      "status": "Adjourned - Defendant"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

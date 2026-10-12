@@ -1,0 +1,53 @@
+{
+  "address": "447 2ND AVENUE (CKA 447 SECOND AVENUE) BELLMAWR NJ 08031",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "SWCF00760925",
+  "current_status": "Scheduled",
+  "defendant": "RAYMOND CHARLES BRITLAND, JR; DARLENE HUGES; MRS. BRITLAND, WIFE OF RAMOND CHARLES BRITLAND, JR; MR HUGES, HUSBAND OF DARLENE HUGHES; UNITED STATES OF AMERICA; STATE OF NEW JERSEY",
+  "extracted": {},
+  "fields": {
+    "Address": "447 2ND AVENUE\n(CKA 447 SECOND AVENUE)\nBELLMAWR NJ 08031",
+    "Approx. Upset*": "$172,837.71",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "SWCF00760925",
+    "Defendant": "RAYMOND CHARLES BRITLAND, JR; DARLENE HUGES; MRS. BRITLAND,\nWIFE OF RAMOND CHARLES BRITLAND, JR; MR HUGES, HUSBAND\nOF DARLENE HUGHES; UNITED STATES OF AMERICA; STATE OF NEW JERSEY",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE\nOF STANWICH MORTGAGE LOAN TRUST F",
+    "Property Note": "",
+    "Sales Date": "5/6/2026",
+    "Sheriff #": "FR-26000319"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "447 2ND AVENUE (CKA 447 SECOND AVENUE) BELLMAWR NJ 08031",
+    "defendant": "RAYMOND CHARLES BRITLAND, JR; DARLENE HUGES; MRS. BRITLAND, \nWIFE OF RAMOND CHARLES BRITLAND, JR; MR HUGES, HUSBAND \nOF DARLENE HUGHES; UNITED STATES OF AMERICA; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE \nOF STANWICH MORTGAGE LOAN TRUST F",
+    "sale_date": "2026-05-06"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF STANWICH MORTGAGE LOAN TRUST F",
+  "property_note": null,
+  "sale_date": "2026-05-06",
+  "sheriff_number": "FR-26000319",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-04-03",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 172837.71,
+  "upset_amount_label": "Approx. Upset*"
+}

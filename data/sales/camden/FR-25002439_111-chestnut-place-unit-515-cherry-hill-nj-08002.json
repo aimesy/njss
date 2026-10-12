@@ -1,0 +1,65 @@
+{
+  "address": "111 CHESTNUT PLACE UNIT 515 CHERRY HILL NJ 08002",
+  "attorney": "SIMEONE & RAYNOR LLC",
+  "attorney_phone": "856-663-6700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F914622",
+  "current_status": "Defendant Adjournment",
+  "defendant": "CLARENCE H. DAVIS,",
+  "extracted": {},
+  "fields": {
+    "Address": "111 CHESTNUT PLACE UNIT 515\nCHERRY HILL NJ 08002",
+    "Approx. Upset*": "$89,005.85",
+    "Attorney": "SIMEONE & RAYNOR LLC",
+    "Attorney Phone": "856-663-6700",
+    "Court Case #": "F914622",
+    "Defendant": "CLARENCE H. DAVIS,",
+    "Parcel #": "",
+    "Plaintiff": "CHESTNUT PLACE CONDOMINIUM ASSOCIATION,",
+    "Property Note": "",
+    "Sales Date": "7/14/2026",
+    "Sheriff #": "FR-25002439"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "111 CHESTNUT PLACE UNIT 515 CHERRY HILL NJ 08002",
+    "defendant": "CLARENCE H. DAVIS,",
+    "listing_status": null,
+    "plaintiff": "CHESTNUT PLACE CONDOMINIUM ASSOCIATION,",
+    "sale_date": "2026-07-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "CHESTNUT PLACE CONDOMINIUM ASSOCIATION,",
+  "property_note": null,
+  "sale_date": "2026-07-14",
+  "sheriff_number": "FR-25002439",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-02-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-14",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 89005.85,
+  "upset_amount_label": "Approx. Upset*"
+}

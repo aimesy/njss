@@ -1,0 +1,58 @@
+{
+  "address": "41 Somers Ave Egg Harbor Township NJ 08234",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-005548-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Ellen Camp; New Jersey Housing and Mortgage Finance Agency; LVNV Funding LLC; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "41 Somers Ave\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$93,715.19",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-005548-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Ellen Camp; New Jersey Housing and Mortgage Finance Agency; LVNV Funding LLC; State of New Jersey",
+    "Plaintiff": "M&T Bank",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "3/20/2025",
+    "Sheriff #": "F-25000091",
+    "Upset Amount": "$103,619.76"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 93715.19,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "41 Somers Ave Egg Harbor Township NJ 08234",
+    "defendant": "Ellen Camp; New Jers...",
+    "listing_status": null,
+    "plaintiff": "M&T Bank...",
+    "sale_date": "2025-03-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "M&T Bank",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-03-20",
+  "sheriff_number": "F-25000091",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-20",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 103619.76,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,57 @@
+{
+  "address": "127 HEMLOCK AVENUE LAUREL SPRINGS NJ 08021",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01201925",
+  "current_status": "Defendant Adjournment",
+  "defendant": "GREGORY R. SZPARAGOWKSI , ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "127 HEMLOCK AVENUE\nLAUREL SPRINGS NJ 08021",
+    "Approx. Upset*": "$142,350.02",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F01201925",
+    "Defendant": "GREGORY R. SZPARAGOWKSI , ET AL.",
+    "Parcel #": "TAX LOT: 1 AND 2.01 TAX BLOCK: 15",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "8/5/2026",
+    "Sheriff #": "FR-26000959"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "127 HEMLOCK AVENUE LAUREL SPRINGS NJ 08021",
+    "defendant": "GREGORY R. SZPARAGOWKSI , ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-08-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT: 1 AND 2.01 TAX BLOCK: 15",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-08-05",
+  "sheriff_number": "FR-26000959",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-02",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-08-05",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 142350.02,
+  "upset_amount_label": "Approx. Upset*"
+}

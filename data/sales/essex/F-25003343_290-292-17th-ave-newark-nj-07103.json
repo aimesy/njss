@@ -1,0 +1,99 @@
+{
+  "address": "290-292 17TH AVE NEWARK NJ 07103",
+  "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+  "attorney_phone": "(856) 813-1700",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00167325",
+  "current_status": "Adjourned Court",
+  "defendant": "VICTOIRE JEAN-CHARLES, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; ET. ALS.",
+  "description": "LOT: 1.01 BLOCK: 351\nAPPROXIMATE DIMENSIONS: 38.01' X 103.46' X 38.00' X 104.27'\nNEAREST CROSS STREET: S 19TH STREET\nTHE PLAINITFF'S UPSET BID PRESENTLY APPROXIMATES $117,900.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "351",
+    "lot": "1.01",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "290-292 17TH AVE\nNEWARK NJ 07103",
+    "Approx. Upset*": "$122,062.97",
+    "Attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+    "Attorney Phone": "(856) 813-1700",
+    "Court Case #": "F00167325",
+    "Defendant": "VICTOIRE JEAN-CHARLES, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; ET. ALS.",
+    "Description": "LOT: 1.01 BLOCK: 351\nAPPROXIMATE DIMENSIONS: 38.01' X 103.46' X 38.00' X 104.27'\nNEAREST CROSS STREET: S 19TH STREET\nTHE PLAINITFF'S UPSET BID PRESENTLY APPROXIMATES $117,900.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "11/17/2026",
+    "Sheriff #": "F-25003343"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "290-292 17TH AVE NEWARK NJ 07103",
+    "defendant": "VICTOIRE JEAN-CHARLES, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; ET. ALS.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-11-17"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-11-17",
+  "sheriff_number": "F-25003343",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-10-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-25",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-12-02",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2025-12-30",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-05-05",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-07-07",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-11-17",
+      "status": "Adjourned Court"
+    }
+  ],
+  "upset_amount": 122062.97,
+  "upset_amount_label": "Approx. Upset*"
+}

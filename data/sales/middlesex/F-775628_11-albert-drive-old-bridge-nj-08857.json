@@ -1,0 +1,56 @@
+{
+  "address": "11 ALBERT DRIVE OLD BRIDGE NJ 08857",
+  "attorney": "KML LAW GROUP P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "215-627-1322",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01617117",
+  "current_status": "Bankruptcy",
+  "defendant": "MAX LUC PICARD",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$339,162.11",
+    "Attorney": "KML LAW GROUP P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F01617117",
+    "Defendant": "MAX LUC PICARD",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 180 BLOCK 15524",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK, AS SUCCESSOR TRUSTEE TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES TRUST 2006-SD1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-SD1",
+    "Property Address": "11 ALBERT DRIVE\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "11/6/2024",
+    "Sheriff #": "F-775628"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 339162.11,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "11 ALBERT DRIVE OLD BRIDGE NJ 08857",
+    "defendant": "MAX LUC PICARD",
+    "listing_status": "Bankruptcy",
+    "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK, AS SUCCESSOR TRUSTEE TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES TRUST 2006-SD1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-SD1",
+    "sale_date": "2024-11-06"
+  },
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 180 BLOCK 15524",
+  "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK, AS SUCCESSOR TRUSTEE TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES TRUST 2006-SD1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-SD1",
+  "property_note": null,
+  "sale_date": "2024-11-06",
+  "sheriff_number": "F-775628",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2024-11-06",
+      "status": "Bankruptcy"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

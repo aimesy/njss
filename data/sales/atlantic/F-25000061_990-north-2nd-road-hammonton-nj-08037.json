@@ -1,0 +1,58 @@
+{
+  "address": "990 North 2nd Road Hammonton NJ 08037",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-010015-23",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Nicholas C Masi deceased, his/her, heirs devisees, and personal represenatives, and his, her, their or any of their successors in right, title and interest; Nicholas A. Masi; James Masi,; Steven Masi; Kennedy Concrete Inc.; Collection & Recoveries Inc.; State Of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "990 North 2nd Road\nHammonton NJ 08037",
+    "Approx. Judgment*": "$172,833.14",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-010015-23",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Nicholas C Masi deceased, his/her, heirs devisees, and personal represenatives, and his, her, their or any of their successors in right, title and interest; Nicholas A. Masi; James Masi,; Steven Masi; Kennedy Concrete Inc.; Collection & Recoveries Inc.; State Of New Jersey; United States of America",
+    "Plaintiff": "UMD Bank, National Association, not in its individual capacity, but soley as legal title trustee for PRL Title I",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: UNKNOWN",
+    "Sales Date": "3/13/2025",
+    "Sheriff #": "F-25000061",
+    "Upset Amount": "$191,550.22"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 172833.14,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "990 North 2nd Road Hammonton NJ 08037",
+    "defendant": "Nicholas C Masi dece...",
+    "listing_status": null,
+    "plaintiff": "UMD Bank, National A...",
+    "sale_date": "2025-03-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "UMD Bank, National Association, not in its individual capacity, but soley as legal title trustee for PRL Title I",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: UNKNOWN",
+  "sale_date": "2025-03-13",
+  "sheriff_number": "F-25000061",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-03-13",
+      "status": "Cancelled/Settled"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 191550.22,
+  "upset_amount_label": "Upset Amount"
+}

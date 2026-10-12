@@ -1,0 +1,51 @@
+{
+  "address": "12 Charles Place Pennsville NJ 08070",
+  "county": "Salem County, NJ",
+  "county_id": 20,
+  "court_case_number": "F-006700-25",
+  "current_status": "Cancelled",
+  "defendant": "Nichole M. Jones, et al.",
+  "description": "Approximate Dimensions: 65ft. x 120ft. Approximate Upset Price: $115,896.91. The upset amount may be subject to further additional sums. Occupancy Status: Occupied By Unknown\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney.",
+  "extracted": {
+    "occupancy": "Occupied By Unknown",
+    "upset_amount": 115896.91
+  },
+  "fields": {
+    "Address": "12 Charles Place\nPennsville NJ 08070",
+    "Court Case #": "F-006700-25",
+    "Defendant": "Nichole M. Jones, et al.",
+    "Description": "Approximate Dimensions: 65ft. x 120ft. Approximate Upset Price: $115,896.91. The upset amount may be subject to further additional sums. Occupancy Status: Occupied By Unknown\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee or the Mortgagee’s attorney.",
+    "Plaintiff": "Freedom Mortgage Corporation",
+    "Sales Date": "01/28/2026 02:00 PM",
+    "Sheriff #": "F-25000256"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 Charles Place Pennsville NJ 08070",
+    "defendant": "Nichole M. Jones, et al.",
+    "listing_status": null,
+    "plaintiff": "Freedom Mortgage Corporation",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Salem County, NJ)",
+  "plaintiff": "Freedom Mortgage Corporation",
+  "sale_date": null,
+  "sheriff_number": "F-25000256",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=20",
+  "status_history": [
+    {
+      "date": null,
+      "status": "Scheduled"
+    },
+    {
+      "date": null,
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": null,
+      "status": "Cancelled"
+    }
+  ]
+}

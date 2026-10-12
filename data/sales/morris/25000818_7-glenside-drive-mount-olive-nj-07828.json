@@ -1,0 +1,63 @@
+{
+  "address": "7 Glenside Drive Mount Olive NJ 07828",
+  "county": "Morris County, NJ",
+  "county_id": 9,
+  "court_case_number": "F-000989-25",
+  "current_status": "Hold - Bankruptcy",
+  "defendant": "SHIRLEY GONZALEZ; LYNDON GONZALEZ; NEW CENTURY FINANCIAL SERVICES; ARROW FINANCIAL SERVICES LLC O/B/O HSBC CARD SERVICES; VANZ, LLC-SEPTEMBER10-SERIES 05; ST. CLARES HOSPITAL,",
+  "description": "Dimensions of Lot: 92 feet wide by 168 feet long\nNearest Cross Street: Kennedy Street\nEstimated upset bid amount: $223,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied",
+  "extracted": {
+    "lot": "92",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "7 Glenside Drive\nMount Olive NJ 07828",
+    "Court Case #": "F-000989-25",
+    "Defendant": "SHIRLEY GONZALEZ; LYNDON GONZALEZ; NEW CENTURY FINANCIAL SERVICES; ARROW FINANCIAL SERVICES LLC O/B/O HSBC CARD SERVICES; VANZ, LLC-SEPTEMBER10-SERIES 05; ST. CLARES HOSPITAL,",
+    "Description": "Dimensions of Lot: 92 feet wide by 168 feet long\nNearest Cross Street: Kennedy Street\nEstimated upset bid amount: $223,000.00, plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE OF BOSCO CREDIT II TRUST SERIES 2010-1",
+    "Sales Date": "5/6/2027",
+    "Sheriff #": "25000818"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "7 Glenside Drive Mount Olive NJ 07828",
+    "defendant": "SHIRLEY GONZALEZ; LYNDON GONZALEZ; NEW CENTURY FINANCIAL SERVICES; ARROW FINANCIAL SERVICES LLC O/B/O HSBC CARD SERVICES; VANZ, LLC-SEPTEMBER10-SERIES 05; ST. CLARES HOSPITAL,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE OF BOSCO CREDIT II TRUST SERIES 2010-1",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Morris County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE OF BOSCO CREDIT II TRUST SERIES 2010-1",
+  "sale_date": "2027-05-06",
+  "sheriff_number": "25000818",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=9",
+  "status_history": [
+    {
+      "date": "2025-07-22",
+      "status": "Hold - Bankruptcy"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-04",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-10-02",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2025-10-30",
+      "status": "Adjourned by the Defendant to"
+    },
+    {
+      "date": "2027-05-06",
+      "status": "Hold - Bankruptcy"
+    }
+  ]
+}

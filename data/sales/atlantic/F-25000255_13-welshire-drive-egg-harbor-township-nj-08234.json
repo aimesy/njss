@@ -1,0 +1,66 @@
+{
+  "address": "13 Welshire Drive Egg Harbor Township NJ 08234",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-009233-24",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman Incorporation",
+  "deed_address": "413 S. Seaview Ave, Galloway, NJ 08205",
+  "defendant": "Christopher J. Perone; Mr. or Mrs. Perone, husband or wife of Christopher J. Perone, the spouse, domestic partner, or civil union partner of Christopher J. Perone",
+  "extracted": {},
+  "fields": {
+    "Address": "13 Welshire Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$131,491.31",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-009233-24",
+    "Deed": "Amjad Rehman Incorporation",
+    "Deed Address": "413 S. Seaview Ave, Galloway, NJ 08205",
+    "Defendant": "Christopher J. Perone; Mr. or Mrs. Perone, husband or wife of Christopher J. Perone, the spouse, domestic partner, or civil union partner of Christopher J. Perone",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "6/26/2025",
+    "Sheriff #": "F-25000255",
+    "Upset Amount": "$156,500.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 131491.31,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "13 Welshire Drive Egg Harbor Township NJ 08234",
+    "defendant": "Christopher J. Peron...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2025-06-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2025-06-26",
+  "sheriff_number": "F-25000255",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-06-26",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-29",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 156500.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,67 @@
+{
+  "address": "4 Brookview Drive Woodland Park (West Paterson) NJ 07424",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 9507 20 CTL 162556",
+  "current_status": "Cancelled",
+  "defendant": "LYDIA FRIAS, ET ALS",
+  "description": "Dimensions of Lot Approximately: 62 x 125\nNearest Cross Street: Mount Pleasant Avenue\n*Beginning at a point on the southwesterly sideline of Brookview Drive (50 feet wide), said point being the terminus of a curve connecting said sideline with the southeasterly sideline of Mount Pleasant Avenue (50 feet wide), and running, thence.\n*Prior Liens/Encumbrances\nWater Open Plus Penalty: $346.21\nTOTAL AS OF January 23, 2023: $346.21",
+  "extracted": {
+    "lot": "Approximately"
+  },
+  "fields": {
+    "Address": "4 Brookview Drive\nWoodland Park (West Paterson) NJ 07424",
+    "Approx. Upset*": "$258,235.10",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Court Case #": "F 9507 20 CTL 162556",
+    "Defendant": "LYDIA FRIAS, ET ALS",
+    "Description": "Dimensions of Lot Approximately: 62 x 125\nNearest Cross Street: Mount Pleasant Avenue\n*Beginning at a point on the southwesterly sideline of Brookview Drive (50 feet wide), said point being the terminus of a curve connecting said sideline with the southeasterly sideline of Mount Pleasant Avenue (50 feet wide), and running, thence.\n*Prior Liens/Encumbrances\nWater Open Plus Penalty: $346.21\nTOTAL AS OF January 23, 2023: $346.21",
+    "Parcel #": "Tax Lot No. 1 in Block No. 56.01",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE, ETC",
+    "Property Note": "",
+    "Sales Date": "10/16/2025",
+    "Sheriff #": "F-23001334"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "4 Brookview Drive Woodland Park (West Paterson) NJ 07424",
+    "defendant": "LYDIA FRIAS, ET ALS",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE, ETC",
+    "sale_date": "2025-10-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot No. 1 in Block No. 56.01",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE, ETC",
+  "property_note": null,
+  "sale_date": "2025-10-16",
+  "sheriff_number": "F-23001334",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2023-09-26",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-10-24",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-11-21",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2023-11-21",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2025-10-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 258235.1,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,58 @@
+{
+  "address": "10 Seneca Drive Unit E, Building 2 Galloway Township NJ 08205",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-011326-15 Pluries",
+  "current_status": "Scheduled",
+  "deed": "Amjad Rehman",
+  "deed_address": "413 S. Seaview Ave Galloway, NJ 08205",
+  "defendant": "Jaime Vargas; Mrs. Jamie Vargas, his wife; Board of Managers of Society Hill at Galloway III; MSW Capital LLC and Prohealth Medical Assocs",
+  "extracted": {},
+  "fields": {
+    "Address": "10 Seneca Drive\nUnit E, Building 2\nGalloway Township NJ 08205",
+    "Approx. Judgment*": "$189,579.32",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-011326-15 Pluries",
+    "Deed": "Amjad Rehman",
+    "Deed Address": "413 S. Seaview Ave Galloway, NJ 08205",
+    "Defendant": "Jaime Vargas; Mrs. Jamie Vargas, his wife; Board of Managers of Society Hill at Galloway III; MSW Capital LLC and Prohealth Medical Assocs",
+    "Plaintiff": "Bayview Loan Servicing, LLC",
+    "Priors": "None",
+    "Property Note": "OCCUPANY STATUS: UNKNOWN",
+    "Sales Date": "12/12/2024",
+    "Sheriff #": "F-17002433",
+    "Upset Amount": "$155,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 189579.32,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "10 Seneca Drive Unit E, Building 2 Galloway Township NJ 08205",
+    "defendant": "Jaime Vargas; Mrs. J...",
+    "listing_status": null,
+    "plaintiff": "Bayview Loan Servici...",
+    "sale_date": "2024-12-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Bayview Loan Servicing, LLC",
+  "priors": "None",
+  "property_note": "OCCUPANY STATUS: UNKNOWN",
+  "sale_date": "2024-12-12",
+  "sheriff_number": "F-17002433",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-12-12",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-12-12",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 155000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "15 ENOCH STREET EAST RUTHERFORD NJ 07073",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00851924",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "MICHAEL J. SALVEMINI, ET AL.",
+  "description": "GOOD FAITH ESTIMATED UPSET PRICE: $426,352.57\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 426352.57
+  },
+  "fields": {
+    "Address": "15 ENOCH STREET\nEAST RUTHERFORD NJ 07073",
+    "Approx. Upset*": "$392,868.60",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00851924",
+    "Defendant": "MICHAEL J. SALVEMINI, ET AL.",
+    "Description": "GOOD FAITH ESTIMATED UPSET PRICE: $426,352.57\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 3, BLOCK 81",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "F-25002966"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "15 ENOCH STREET EAST RUTHERFORD NJ 07073",
+    "defendant": "MICHAEL J. SALVEMINI, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 3, BLOCK 81",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "F-25002966",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": 392868.6,
+  "upset_amount_label": "Approx. Upset*"
+}

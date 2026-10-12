@@ -1,0 +1,63 @@
+{
+  "address": "1507 Maple Street Wall NJ 07719",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01076623",
+  "current_status": "Scheduled",
+  "defendant": "Nicholas J. Dispenziere, et al.",
+  "description": "Approximate dimensions - 5.01 x 145.44 x 225.00 x 100.60 x 218.06 Feet (IRREGULAR)\nNearest cross street - Clinton Avenue\nSubject to - Subject to First Mortgage recorded on 11/6/2014 in the amount of $359,000.00\nWater in the amount of $72.45, open plus penalty\nWater in the amount of $717.75, open plus penalty; owed in arrears\nSewer in the amount of $118.21, open plus penalty.\nSewer in the amount of $442.08 open plus penalty; owed in arrears\nUpset Price - $46,102.09\nOccupancy Status - Occupied\nTo the best of this firm's knowledge, the property is a not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "upset_amount": 46102.09
+  },
+  "fields": {
+    "Address": "1507 Maple Street\nWall NJ 07719",
+    "Approx. Judgment*": "$40,410.43",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F01076623",
+    "Defendant": "Nicholas J. Dispenziere, et al.",
+    "Description": "Approximate dimensions - 5.01 x 145.44 x 225.00 x 100.60 x 218.06 Feet (IRREGULAR)\nNearest cross street - Clinton Avenue\nSubject to - Subject to First Mortgage recorded on 11/6/2014 in the amount of $359,000.00\nWater in the amount of $72.45, open plus penalty\nWater in the amount of $717.75, open plus penalty; owed in arrears\nSewer in the amount of $118.21, open plus penalty.\nSewer in the amount of $442.08 open plus penalty; owed in arrears\nUpset Price - $46,102.09\nOccupancy Status - Occupied\nTo the best of this firm's knowledge, the property is a not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot 36, Block 112 Tax Map of Township of Wall",
+    "Plaintiff": "JPMorgan Chase Bank, National Association",
+    "Property Note": "",
+    "Sales Date": "1/23/2025",
+    "Sheriff #": "FOR-24001475"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 40410.43,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1507 Maple Street Wall NJ 07719",
+    "defendant": "Nicholas J. Dispenziere, et al.",
+    "listing_status": "Reinstated",
+    "plaintiff": "JPMorgan Chase Bank, National Association",
+    "sale_date": "2025-01-23"
+  },
+  "listing_status": "Reinstated",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot 36, Block 112 Tax Map of Township of Wall",
+  "plaintiff": "JPMorgan Chase Bank, National Association",
+  "property_note": null,
+  "sale_date": "2025-01-23",
+  "sheriff_number": "FOR-24001475",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-23",
+      "status": "Reinstated"
+    },
+    {
+      "date": "2025-01-06",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-12-02",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2024-11-04",
+      "status": "Scheduled"
+    }
+  ]
+}

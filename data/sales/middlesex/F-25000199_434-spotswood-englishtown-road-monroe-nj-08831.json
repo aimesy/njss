@@ -1,0 +1,56 @@
+{
+  "address": "434 SPOTSWOOD-ENGLISHTOWN ROAD MONROE NJ 08831",
+  "attorney": "UNRUH TURNER BURKE & FREES",
+  "attorney_file_number": null,
+  "attorney_phone": "610-692-1371",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00482215",
+  "current_status": "Settled",
+  "defendant": "NEW JERSEY QUALITY EDUCATION LLC, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$272,755.58",
+    "Attorney": "UNRUH TURNER BURKE & FREES",
+    "Attorney File #": "",
+    "Attorney Phone": "610-692-1371",
+    "Court Case #": "F00482215",
+    "Defendant": "NEW JERSEY QUALITY EDUCATION LLC, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 43.07 BLOCK 148.57",
+    "Plaintiff": "ORIGEN CAPITAL INVESTMENTS 15, LLC, ASSIGNEE OF CITIZENS BANK, NA., SUCCESSOR BY MERGER TO INVESTORS BANK",
+    "Property Address": "434 SPOTSWOOD-ENGLISHTOWN ROAD\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "3/19/2025",
+    "Sheriff #": "F-25000199"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 272755.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "434 SPOTSWOOD-ENGLISHTOWN ROAD MONROE NJ 08831",
+    "defendant": "NEW JERSEY QUALITY EDUCATION LLC, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "ORIGEN CAPITAL INVESTMENTS 15, LLC, ASSIGNEE OF CITIZENS BANK, NA., SUCCESSOR BY MERGER TO INVESTORS BANK",
+    "sale_date": "2025-03-19"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 43.07 BLOCK 148.57",
+  "plaintiff": "ORIGEN CAPITAL INVESTMENTS 15, LLC, ASSIGNEE OF CITIZENS BANK, NA., SUCCESSOR BY MERGER TO INVESTORS BANK",
+  "property_note": null,
+  "sale_date": "2025-03-19",
+  "sheriff_number": "F-25000199",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

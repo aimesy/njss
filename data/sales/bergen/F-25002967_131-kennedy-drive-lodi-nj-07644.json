@@ -1,0 +1,51 @@
+{
+  "address": "131 KENNEDY DRIVE LODI NJ 07644",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00684625",
+  "current_status": "Cancelled",
+  "defendant": "DEVINDER BAINS; JASBIR KAUR, ET AL.",
+  "description": "ESTIMATED UPSET BID AMOUNT: $644,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "131 KENNEDY DRIVE\nLODI NJ 07644",
+    "Approx. Upset*": "$590,294.42",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F00684625",
+    "Defendant": "DEVINDER BAINS; JASBIR KAUR, ET AL.",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $644,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 17, BLOCK 152",
+    "Plaintiff": "CSMC 2021-RPL3 TRUST",
+    "Property Note": "",
+    "Sales Date": "12/30/2025",
+    "Sheriff #": "F-25002967"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "131 KENNEDY DRIVE LODI NJ 07644",
+    "defendant": "DEVINDER BAINS; JASBIR KAUR, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CSMC 2021-RPL3 TRUST",
+    "sale_date": "2025-12-30"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 17, BLOCK 152",
+  "plaintiff": "CSMC 2021-RPL3 TRUST",
+  "property_note": null,
+  "sale_date": "2025-12-30",
+  "sheriff_number": "F-25002967",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-12-30",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 590294.42,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,76 @@
+{
+  "address": "118 WILDWOOD Avenue Cape May Court House NJ 08210",
+  "attorney": "Ras Citron, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-575-0707",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-010017-24",
+  "current_status": "Scheduled",
+  "defendant": "JOHN J NICKELS, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$212,571.72",
+    "Attorney": "Ras Citron, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-010017-24",
+    "Defendant": "JOHN J NICKELS, ET AL",
+    "Description": "",
+    "Minimum Bid": "$226,000.00",
+    "Parcel #": "LOT 10, BLOCK 359",
+    "Plaintiff": "**SETTLED**U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "Property Address": "118 WILDWOOD Avenue\nCape May Court House NJ 08210",
+    "Property Note": "",
+    "Sale Date": "10/29/2025",
+    "Sheriff #": "F-25000125"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 212571.72,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "118 WILDWOOD Avenue Cape May Court House NJ 08210",
+    "defendant": "JOHN J NICKELS, ET AL",
+    "listing_status": null,
+    "plaintiff": "**SETTLED**U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "sale_date": "2025-10-29"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 10, BLOCK 359",
+  "plaintiff": "**SETTLED**U.S. BANK TRUST NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2025-10-29",
+  "sheriff_number": "F-25000125",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-10-29",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-10-28",
+      "status": "Settled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-08-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-25",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 226000.0,
+  "upset_amount_label": "Minimum Bid"
+}

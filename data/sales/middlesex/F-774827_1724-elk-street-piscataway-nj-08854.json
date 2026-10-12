@@ -1,0 +1,60 @@
+{
+  "address": "1724 ElK STREET PISCATAWAY NJ 08854",
+  "attorney": "FEIN SUCH KAHN SHEPARD PC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-867-4541",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F540019",
+  "current_status": "Purchased - 3rd Party",
+  "defendant": "Kathleen Wilson, Individually and as Administratrix of the Estate of Katrina Wilson",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$201,546.66",
+    "Attorney": "FEIN SUCH KAHN SHEPARD PC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-867-4541",
+    "Court Case #": "F540019",
+    "Defendant": "Kathleen Wilson, Individually and as Administratrix of the Estate of Katrina Wilson",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 49.01 FKA 49 & 50 BLOCK 212 FKA 32",
+    "Plaintiff": "U.S. Bank Trust, N.A. as Trustee for LSF9 Master Participation Trust",
+    "Property Address": "1724 ElK STREET\nPISCATAWAY NJ 08854",
+    "Property Note": "Successfully posted 7/29/2024, by Ron Walko",
+    "Sale Date": "7/14/2026",
+    "Sheriff #": "F-774827"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 201546.66,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1724 ElK STREET PISCATAWAY NJ 08854",
+    "defendant": "Kathleen Wilson, Individually and as Administratrix of the Estate of Katrina Wilson",
+    "listing_status": "Cancelled",
+    "plaintiff": "U.S. Bank Trust, N.A. as Trustee for LSF9 Master Participation Trust",
+    "sale_date": "2026-07-14"
+  },
+  "listing_status": "Cancelled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 49.01 FKA 49 & 50 BLOCK 212 FKA 32",
+  "plaintiff": "U.S. Bank Trust, N.A. as Trustee for LSF9 Master Participation Trust",
+  "property_note": "Successfully posted 7/29/2024, by Ron Walko",
+  "sale_date": "2026-07-14",
+  "sheriff_number": "F-774827",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-07-14",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-01-22",
+      "status": "Purchased - 3rd Party"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

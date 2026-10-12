@@ -1,0 +1,56 @@
+{
+  "address": "1238-B N. BROAD STREET HILLSIDE NJ 07205",
+  "attorney": "STERN & EISENBERG, PC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00377825",
+  "current_status": "Scheduled",
+  "defendant": "ALONZO K. JONES, JR., MRS. JONES, UNKNOWN SPOUSE OF ALONZO K. JONES, JR.,",
+  "description": "LOT 43 QUAL: C0005 BLOCK 1417",
+  "extracted": {
+    "block": "1417",
+    "lot": "43"
+  },
+  "fields": {
+    "Address": "1238-B N. BROAD STREET\nHILLSIDE NJ 07205",
+    "Approx. Upset*": "$171,149.34",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Court Case #": "F00377825",
+    "Defendant": "ALONZO K. JONES, JR., MRS. JONES, UNKNOWN SPOUSE OF ALONZO K. JONES, JR.,",
+    "Description": "LOT 43 QUAL: C0005 BLOCK 1417",
+    "Parcel #": "LOT 43 QUAL: C0005 BLOCK 1417",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THOMBURG MORTGAGE SECURITIES TRUST 2006-6",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "CH-25002803"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1238-B N. BROAD STREET HILLSIDE NJ 07205",
+    "defendant": "ALONZO K. JONES, JR., MRS. JONES, UNKNOWN SPOUSE OF ALONZO K. JONES, JR.,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THOMBURG MORTGAGE SECURITIES TRUST 2006-6",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 43 QUAL: C0005 BLOCK 1417",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THOMBURG MORTGAGE SECURITIES TRUST 2006-6",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "CH-25002803",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-01-16",
+      "status": "Settled"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 171149.34,
+  "upset_amount_label": "Approx. Upset*"
+}

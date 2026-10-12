@@ -1,0 +1,82 @@
+{
+  "address": "215 Beacon Hill Drive Egg Harbor Township NJ 08234",
+  "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-013607-23",
+  "current_status": "Scheduled",
+  "deed": "Nargis Serneabad",
+  "deed_address": "200 Gardenview Rd Egg Harbor Township, NJ 08234",
+  "defendant": "Van Nguyen A/K/A Van D. Nguyen; Thu Dao A/K/A Trungthu Dao; Wilmington Savings Fund Society, FSB, Not in its Individual Capacity, But Solely as Trustee of Reliant Trust, Series De IV; Bank of America NA; Midland Credit Management, Inc; LVNV Funding LLC; State of New Jersey",
+  "extracted": {},
+  "fields": {
+    "Address": "215 Beacon Hill Drive\nEgg Harbor Township NJ 08234",
+    "Approx. Judgment*": "$214,875.07",
+    "Attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "Court Case #": "F-013607-23",
+    "Deed": "Nargis Serneabad",
+    "Deed Address": "200 Gardenview Rd Egg Harbor Township, NJ 08234",
+    "Defendant": "Van Nguyen A/K/A Van D. Nguyen; Thu Dao A/K/A Trungthu Dao; Wilmington Savings Fund Society, FSB, Not in its Individual Capacity, But Solely as Trustee of Reliant Trust, Series De IV; Bank of America NA; Midland Credit Management, Inc; LVNV Funding LLC; State of New Jersey",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, D/B/A Christiana Trust, Not Individually but as Trustee for Pretium Mortgage Acquisition Trust",
+    "Priors": "Liens: Year: 2023 Type: 3RD PARTY SEWER Amount: $322.10 Cert No.: 23-00152 Sold: 12/20/2023 To: FIG 20, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+    "Property Note": "OCCUPANCY STATUS: OWNER",
+    "Sales Date": "11/14/2024",
+    "Sheriff #": "F-24000379",
+    "Upset Amount": "$250,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 214875.07,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "215 Beacon Hill Drive Egg Harbor Township NJ 08234",
+    "defendant": "Van Nguyen A/K/A Van...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Savings F...",
+    "sale_date": "2024-11-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, D/B/A Christiana Trust, Not Individually but as Trustee for Pretium Mortgage Acquisition Trust",
+  "priors": "Liens: Year: 2023 Type: 3RD PARTY SEWER Amount: $322.10 Cert No.: 23-00152 Sold: 12/20/2023 To: FIG 20, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54",
+  "property_note": "OCCUPANCY STATUS: OWNER",
+  "sale_date": "2024-11-14",
+  "sheriff_number": "F-24000379",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-14",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-19",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-22",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2024-07-18",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-05-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 250000.0,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,66 @@
+{
+  "address": "935 Harding Highway Buena Vista Township NJ 08310",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-003576-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Thomas K. Trapani",
+  "extracted": {},
+  "fields": {
+    "Address": "935 Harding Highway\nBuena Vista Township NJ 08310",
+    "Approx. Judgment*": "$236,900.51",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC",
+    "Court Case #": "F-003576-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Thomas K. Trapani",
+    "Plaintiff": "JPMorgan Chase Bank, National Association",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED",
+    "Sales Date": "8/21/2025",
+    "Sheriff #": "F-25000441",
+    "Upset Amount": "$265,908.26"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 236900.51,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "935 Harding Highway Buena Vista Township NJ 08310",
+    "defendant": "Thomas K. Trapani...",
+    "listing_status": null,
+    "plaintiff": "JPMorgan Chase Bank,...",
+    "sale_date": "2025-08-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "JPMorgan Chase Bank, National Association",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED",
+  "sale_date": "2025-08-21",
+  "sheriff_number": "F-25000441",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-08-21",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-08-21",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-06-26",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 265908.26,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,76 @@
+{
+  "address": "285 AYCRIGG Avenue UNIT 19G Passaic NJ 07055",
+  "attorney": "Hill Wallack, LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 006128 24 #162899",
+  "current_status": "Cancelled",
+  "defendant": "PETER BALMASEDA A/K/A PETER D. BALMASEDA; MRS./MR. BALMASEDA, SPOUSE OR CIVIL UNION PARTNER OF PETER BALMASEDA A/K/A PETER D. BALMASEDA; CARLTON TOWER CONDOMINIUM ASSOCIATION, INC.;;",
+  "description": "Occupancy Status: Tenant Occupied\nNearest Cross Street: Approximately 152.28 ft to the nearest cross street known as Passaic Avenue\nApproximate Dimensions: Property is a Condominium\nThe Full legal description can be found in the Office of the clerk of Passaic County in Deed Book 1829, Page 37\nApproximate Upset Price is $186,415.64 for the Sheriffs Sale\nPursuant to a muncipal tax search dated October 27,2025\nSubject to : 2025 4th quarter taxes due 11/1/2025 $1,516.17 OPEN\n2026 1st quarter taxes due 2/1/2026, $1,453.05 OPEN\n2026 2nd quarter taxes due 5/1/2026, $1,453.04 OPEN",
+  "extracted": {
+    "occupancy": "Tenant Occupied",
+    "upset_amount": 186415.64
+  },
+  "fields": {
+    "Address": "285 AYCRIGG Avenue\nUNIT 19G\nPassaic NJ 07055",
+    "Approx. Upset*": "$159,743.48",
+    "Attorney": "Hill Wallack, LLP",
+    "Court Case #": "F 006128 24 #162899",
+    "Defendant": "PETER BALMASEDA A/K/A PETER D. BALMASEDA; MRS./MR. BALMASEDA, SPOUSE OR CIVIL UNION PARTNER OF PETER BALMASEDA A/K/A PETER D. BALMASEDA; CARLTON TOWER CONDOMINIUM ASSOCIATION, INC.;;",
+    "Description": "Occupancy Status: Tenant Occupied\nNearest Cross Street: Approximately 152.28 ft to the nearest cross street known as Passaic Avenue\nApproximate Dimensions: Property is a Condominium\nThe Full legal description can be found in the Office of the clerk of Passaic County in Deed Book 1829, Page 37\nApproximate Upset Price is $186,415.64 for the Sheriffs Sale\nPursuant to a muncipal tax search dated October 27,2025\nSubject to : 2025 4th quarter taxes due 11/1/2025 $1,516.17 OPEN\n2026 1st quarter taxes due 2/1/2026, $1,453.05 OPEN\n2026 2nd quarter taxes due 5/1/2026, $1,453.04 OPEN",
+    "Parcel #": "LOT: 1.07; QUAL: C019G; BLOCK: 3250",
+    "Plaintiff": "CAPITAL TRUST II, BY U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "3/2/2026",
+    "Sheriff #": "F-25000019"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "285 AYCRIGG Avenue UNIT 19G Passaic NJ 07055",
+    "defendant": "PETER BALMASEDA A/K/A PETER D. BALMASEDA; MRS./MR. BALMASEDA, SPOUSE OR CIVIL UNION PARTNER OF PETER BALMASEDA A/K/A PETER D. BALMASEDA; CARLTON TOWER CONDOMINIUM ASSOCIATION, INC.;;",
+    "listing_status": null,
+    "plaintiff": "CAPITAL TRUST II, BY U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE",
+    "sale_date": "2026-03-02"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "LOT: 1.07; QUAL: C019G; BLOCK: 3250",
+  "plaintiff": "CAPITAL TRUST II, BY U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-03-02",
+  "sheriff_number": "F-25000019",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2025-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-05-13",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-06-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-06-17",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 159743.48,
+  "upset_amount_label": "Approx. Upset*"
+}

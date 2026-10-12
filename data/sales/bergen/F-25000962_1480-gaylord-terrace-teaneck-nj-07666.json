@@ -1,0 +1,68 @@
+{
+  "address": "1480 GAYLORD TERRACE TEANECK NJ 07666",
+  "attorney": "DUANE MORRIS LLP",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F00972623",
+  "current_status": "Cancelled",
+  "defendant": "JON-ALBERT RODRIGUEZ, MRS JON-ALBERT RODRIGUEZ , HIS WIFE, AND KRYSTAL C MELENDEZ",
+  "description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $339,600.00\nOCCUPANCY STATUS: owner-occupied",
+  "extracted": {
+    "occupancy": "owner-occupied",
+    "upset_amount": 339600.0
+  },
+  "fields": {
+    "Address": "1480 GAYLORD TERRACE\nTEANECK NJ 07666",
+    "Approx. Upset*": "$471,461.90",
+    "Attorney": "DUANE MORRIS LLP",
+    "Court Case #": "F00972623",
+    "Defendant": "JON-ALBERT RODRIGUEZ, MRS JON-ALBERT RODRIGUEZ , HIS WIFE, AND KRYSTAL C MELENDEZ",
+    "Description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $339,600.00\nOCCUPANCY STATUS: owner-occupied",
+    "Parcel #": "LOT 28, BLOCK 5611",
+    "Plaintiff": "TD BANK, NA",
+    "Property Note": "",
+    "Sales Date": "11/20/2025",
+    "Sheriff #": "F-25000962"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1480 GAYLORD TERRACE TEANECK NJ 07666",
+    "defendant": "JON-ALBERT RODRIGUEZ, MRS JON-ALBERT RODRIGUEZ , HIS WIFE, AND KRYSTAL C MELENDEZ",
+    "listing_status": null,
+    "plaintiff": "TD BANK, NA",
+    "sale_date": "2025-11-20"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 28, BLOCK 5611",
+  "plaintiff": "TD BANK, NA",
+  "property_note": null,
+  "sale_date": "2025-11-20",
+  "sheriff_number": "F-25000962",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-06-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-26",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-10-24",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 471461.9,
+  "upset_amount_label": "Approx. Upset*"
+}

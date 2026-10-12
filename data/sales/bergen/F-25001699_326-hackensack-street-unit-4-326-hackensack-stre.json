@@ -1,0 +1,67 @@
+{
+  "address": "326 HACKENSACK STREET UNIT 4 (326 HACKENSACK STREET, UNIT 4, APT 3) CARLSTADT NJ 07072",
+  "attorney": "ARCHER AND GREINER PC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F463424",
+  "current_status": "Purchased - Plaintiff",
+  "defendant": "JAG GROUP LLC; MICHAEL P ESPINOSA; ET AL",
+  "description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $292,236.93\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+  "extracted": {
+    "upset_amount": 292236.93
+  },
+  "fields": {
+    "Address": "326 HACKENSACK STREET UNIT 4\n(326 HACKENSACK STREET, UNIT 4, APT 3)\nCARLSTADT NJ 07072",
+    "Approx. Upset*": "$256,661.56",
+    "Attorney": "ARCHER AND GREINER PC",
+    "Court Case #": "F463424",
+    "Defendant": "JAG GROUP LLC; MICHAEL P ESPINOSA; ET AL",
+    "Description": "GOOD FAITH ESTIMATE OF UPSET PRICE: $292,236.93\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+    "Parcel #": "LOT 13 C004 & 14, BLOCK 74",
+    "Plaintiff": "COLUMBIA BANK",
+    "Property Note": "",
+    "Sales Date": "11/7/2025",
+    "Sheriff #": "F-25001699"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "326 HACKENSACK STREET UNIT 4 (326 HACKENSACK STREET, UNIT 4, APT 3) CARLSTADT NJ 07072",
+    "defendant": "JAG GROUP LLC; MICHAEL P ESPINOSA; ET AL",
+    "listing_status": null,
+    "plaintiff": "COLUMBIA BANK",
+    "sale_date": "2025-11-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 13 C004 & 14, BLOCK 74",
+  "plaintiff": "COLUMBIA BANK",
+  "property_note": null,
+  "sale_date": "2025-11-07",
+  "sheriff_number": "F-25001699",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-08-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-26",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Rescheduled"
+    },
+    {
+      "date": "2025-11-07",
+      "status": "Purchased - Plaintiff"
+    }
+  ],
+  "upset_amount": 256661.56,
+  "upset_amount_label": "Approx. Upset*"
+}

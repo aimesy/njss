@@ -1,0 +1,59 @@
+{
+  "address": "436 CLINTON PLACE NEWARK, NJ 07112 A/K/A 436-438 CLINTON PLACE NEWARK NJ 07102",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973 575-0707",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "*F00142824",
+  "current_status": "Cancelled",
+  "defendant": "ELIZABETH ANSARI; ET AL.",
+  "description": "LOT: 20 BLOCK: 3711\nAPPROXIMATE DIMENSIONS: 50FT X 104.10 FEET LONG\nNEAREST CROSS STREET: GOLDSMITH AVENUE\nESTIMATED UPSET BID AMOUNT $347,500.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: OWNER OCCUPIED.\n2026 QTR 3 DUE: 8/1/2026 $1,140.32 BILLED; $1,139.55 OPEN; $0.77 PAID; ESTIMATED TAX BILL.\nWATER: NEWARK WATER. 920 BROAD STREET - ROOM 117 NEWARK, NJ 07102 973-733-6370 ACCT: 9140629765 TO 7/7/2026 $118.66 OPEN PLUS PENALTY.\nGENERAL REMARK: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.",
+  "extracted": {
+    "block": "3711",
+    "lot": "20",
+    "occupancy": "OWNER OCCUPIED."
+  },
+  "fields": {
+    "Address": "436 CLINTON PLACE NEWARK, NJ 07112\nA/K/A 436-438 CLINTON PLACE\nNEWARK NJ 07102",
+    "Approx. Upset*": "$284,765.50",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973 575-0707",
+    "Court Case #": "*F00142824",
+    "Defendant": "ELIZABETH ANSARI; ET AL.",
+    "Description": "LOT: 20 BLOCK: 3711\nAPPROXIMATE DIMENSIONS: 50FT X 104.10 FEET LONG\nNEAREST CROSS STREET: GOLDSMITH AVENUE\nESTIMATED UPSET BID AMOUNT $347,500.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: OWNER OCCUPIED.\n2026 QTR 3 DUE: 8/1/2026 $1,140.32 BILLED; $1,139.55 OPEN; $0.77 PAID; ESTIMATED TAX BILL.\nWATER: NEWARK WATER. 920 BROAD STREET - ROOM 117 NEWARK, NJ 07102 973-733-6370 ACCT: 9140629765 TO 7/7/2026 $118.66 OPEN PLUS PENALTY.\nGENERAL REMARK: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES.",
+    "Parcel #": "",
+    "Plaintiff": "MORTGAGE ASSETS MANAGEMENT LLC",
+    "Property Note": "",
+    "Sales Date": "9/15/2026",
+    "Sheriff #": "F-26003318"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "436 CLINTON PLACE NEWARK, NJ 07112 A/K/A 436-438 CLINTON PLACE NEWARK NJ 07102",
+    "defendant": "ELIZABETH ANSARI; ET AL.",
+    "listing_status": null,
+    "plaintiff": "MORTGAGE ASSETS MANAGEMENT LLC",
+    "sale_date": "2026-09-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "MORTGAGE ASSETS MANAGEMENT LLC",
+  "property_note": null,
+  "sale_date": "2026-09-15",
+  "sheriff_number": "F-26003318",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-09-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 284765.5,
+  "upset_amount_label": "Approx. Upset*"
+}

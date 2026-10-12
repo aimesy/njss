@@ -1,0 +1,70 @@
+{
+  "address": "332 Cologne-Port Road Port Republic NJ 08241",
+  "attorney": "Hill Wallack LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-007589-23",
+  "current_status": "Scheduled",
+  "deed": "HPP Property , LLC",
+  "deed_address": "c/o PHH Mortgage 920 Cassatt Rd #210, Berwyn, PA 19312",
+  "defendant": "Henry E. Klose, His Heirs, Devisees and Personal Representatives, and His, Her, Their or Any of Their Successors in Right, Title and Interest; Caroline C. Allgeyer; Nicholas E. Klose; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "332 Cologne-Port Road\nPort Republic NJ 08241",
+    "Approx. Judgment*": "$428,739.98",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F-007589-23",
+    "Deed": "HPP Property , LLC",
+    "Deed Address": "c/o PHH Mortgage 920 Cassatt Rd #210, Berwyn, PA 19312",
+    "Defendant": "Henry E. Klose, His Heirs, Devisees and Personal Representatives, and His, Her, Their or Any of Their Successors in Right, Title and Interest; Caroline C. Allgeyer; Nicholas E. Klose; State of New Jersey; United States of America",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, Not in its individual capacity but solely as Trustee of Reliant Trust, Series HPP2",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: VACANT",
+    "Sales Date": "11/14/2024",
+    "Sheriff #": "F-24000892",
+    "Upset Amount": "$360,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 428739.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "332 Cologne-Port Road Port Republic NJ 08241",
+    "defendant": "Henry E. Klose, His ...",
+    "listing_status": null,
+    "plaintiff": "Wilmington Savings F...",
+    "sale_date": "2024-11-14"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, Not in its individual capacity but solely as Trustee of Reliant Trust, Series HPP2",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: VACANT",
+  "sale_date": "2024-11-14",
+  "sheriff_number": "F-24000892",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2024-11-14",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-11-14",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-10-17",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-09-19",
+      "status": "Sheriff Adjourned to"
+    },
+    {
+      "date": "2024-08-22",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 360000.0,
+  "upset_amount_label": "Upset Amount"
+}

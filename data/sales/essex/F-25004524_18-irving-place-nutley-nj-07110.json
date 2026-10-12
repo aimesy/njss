@@ -1,0 +1,83 @@
+{
+  "address": "18 IRVING PLACE NUTLEY NJ 07110",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00656024",
+  "current_status": "Settled - Foreclosure",
+  "defendant": "MARY ANN BROWN, ET. AL",
+  "description": "TAX LOT(S): 11 F/K/A 19, IN BLOCK: 3401 F/K/A 449\nDIMENSIONS (APPROX.): 60 X 165\nNEAREST CROSS STREET: WHITFORD AVE.\nGOOD FAITH ESTIMATED UPSET PRICE: $619,287.57. OCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "block": "3401",
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 619287.57
+  },
+  "fields": {
+    "Address": "18 IRVING PLACE\nNUTLEY NJ 07110",
+    "Approx. Upset*": "$577,786.39",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00656024",
+    "Defendant": "MARY ANN BROWN, ET. AL",
+    "Description": "TAX LOT(S): 11 F/K/A 19, IN BLOCK: 3401 F/K/A 449\nDIMENSIONS (APPROX.): 60 X 165\nNEAREST CROSS STREET: WHITFORD AVE.\nGOOD FAITH ESTIMATED UPSET PRICE: $619,287.57. OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+    "Property Note": "",
+    "Sales Date": "7/21/2026",
+    "Sheriff #": "F-25004524"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "18 IRVING PLACE NUTLEY NJ 07110",
+    "defendant": "MARY ANN BROWN, ET. AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+    "sale_date": "2026-07-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST,",
+  "property_note": null,
+  "sale_date": "2026-07-21",
+  "sheriff_number": "F-25004524",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-07-21",
+      "status": "Settled - Foreclosure"
+    }
+  ],
+  "upset_amount": 577786.39,
+  "upset_amount_label": "Approx. Upset*"
+}

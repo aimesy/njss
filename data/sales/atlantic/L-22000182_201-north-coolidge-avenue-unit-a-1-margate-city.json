@@ -1,0 +1,70 @@
+{
+  "address": "201 North Coolidge Avenue Unit A-1 Margate City NJ 08402",
+  "attorney": "Hyberg, White & Mann",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "ATL-L-1315-19 Alias",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Patricia M. Manno",
+  "extracted": {},
+  "fields": {
+    "Address": "201 North Coolidge Avenue\nUnit A-1\nMargate City NJ 08402",
+    "Approx. Judgment*": "$35,227.89",
+    "Attorney": "Hyberg, White & Mann",
+    "Court Case #": "ATL-L-1315-19 Alias",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Patricia M. Manno",
+    "Plaintiff": "Sunset Bay Condominium Association",
+    "Priors": "United National Bank $28,000; US Bank Trust NA $109,000.00;\nSunset Bay Condo Assn Lien #2019020479, B 14595 $30,739.11; Judgments - see rider attached hereto totaling $338,652.92 GRAND TOTAL OF LIENS $506,392.03\nTotal: $167,739.11",
+    "Property Note": "",
+    "Sales Date": "2/4/2025",
+    "Sheriff #": "L-22000182",
+    "Upset Amount": ""
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 35227.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "201 North Coolidge Avenue Unit A-1 Margate City NJ 08402",
+    "defendant": "Patricia M. Manno...",
+    "listing_status": null,
+    "plaintiff": "Sunset Bay Condomini...",
+    "sale_date": "2025-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Sunset Bay Condominium Association",
+  "priors": "United National Bank $28,000; US Bank Trust NA $109,000.00; Sunset Bay Condo Assn Lien #2019020479, B 14595 $30,739.11; Judgments - see rider attached hereto totaling $338,652.92 GRAND TOTAL OF LIENS $506,392.03 Total: $167,739.11",
+  "property_note": null,
+  "sale_date": "2025-02-04",
+  "sheriff_number": "L-22000182",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-02-04",
+      "status": "Cancelled/Outdated"
+    },
+    {
+      "date": "2023-07-20",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2023-07-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2023-06-22",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2023-05-25",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Upset Amount"
+}

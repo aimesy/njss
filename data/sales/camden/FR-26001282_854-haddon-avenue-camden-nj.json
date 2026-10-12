@@ -1,0 +1,57 @@
+{
+  "address": "854 HADDON AVENUE CAMDEN NJ",
+  "attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+  "attorney_phone": "(856) 330-6200 EXT 12 SYLVIA",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01071425",
+  "current_status": "Purchased",
+  "defendant": "JOHN J. BUSH, JR.; AMERICAN HERITAGE FEDERAL CREDIT UNION; ALLEGHENY RESOURCES LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "extracted": {},
+  "fields": {
+    "Address": "854 HADDON AVENUE\nCAMDEN NJ",
+    "Approx. Upset*": "$61,841.09",
+    "Attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
+    "Attorney Phone": "(856) 330-6200 EXT 12 SYLVIA",
+    "Court Case #": "F01071425",
+    "Defendant": "JOHN J. BUSH, JR.; AMERICAN HERITAGE FEDERAL CREDIT UNION; ALLEGHENY\nRESOURCES LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Parcel #": "LOT 33, BLOCK 365",
+    "Plaintiff": "FIRST HARVEST CREDIT UNION, FORMERLY DOING BUSINESS AS SOUTH\nJERSEY FEDERAL CREDIT UNION",
+    "Property Note": "PURSUANT TO N.J.S.A 2A:50-64, ET SEQ., PLAINTIFF SETS THE UPSET BID FOR THE FORCLOSED PREMISES AT THE JUDGEMENT AMOUNT (59,928.91) PLUS ALL POST-JUDGMENT INTEREST AS ACCRUING THROUGH THE DATE OF THE SHERIFFS SALE AND RESERVES ITS RIGHTS WITH RESPECT TO ANY POST-JUDGMENT MOTION FOR AN ORDER FOR ADDITIONAL SUMS, IF PROCURED FOLLOWING THE DATE OF THE SCHEDULING OF THE SALE",
+    "Sales Date": "8/19/2026",
+    "Sheriff #": "FR-26001282"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "854 HADDON AVENUE CAMDEN NJ",
+    "defendant": "JOHN J. BUSH, JR.; AMERICAN HERITAGE FEDERAL CREDIT UNION; ALLEGHENY \nRESOURCES LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "FIRST HARVEST CREDIT UNION, FORMERLY DOING BUSINESS AS SOUTH \nJERSEY FEDERAL CREDIT UNION",
+    "sale_date": "2026-08-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 33, BLOCK 365",
+  "plaintiff": "FIRST HARVEST CREDIT UNION, FORMERLY DOING BUSINESS AS SOUTH JERSEY FEDERAL CREDIT UNION",
+  "property_note": "PURSUANT TO N.J.S.A 2A:50-64, ET SEQ., PLAINTIFF SETS THE UPSET BID FOR THE FORCLOSED PREMISES AT THE JUDGEMENT AMOUNT (59,928.91) PLUS ALL POST-JUDGMENT INTEREST AS ACCRUING THROUGH THE DATE OF THE SHERIFFS SALE AND RESERVES ITS RIGHTS WITH RESPECT TO ANY POST-JUDGMENT MOTION FOR AN ORDER FOR ADDITIONAL SUMS, IF PROCURED FOLLOWING THE DATE OF THE SCHEDULING OF THE SALE",
+  "sale_date": "2026-08-19",
+  "sheriff_number": "FR-26001282",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-07-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 61841.09,
+  "upset_amount_label": "Approx. Upset*"
+}

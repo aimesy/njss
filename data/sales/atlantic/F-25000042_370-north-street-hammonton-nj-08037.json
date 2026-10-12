@@ -1,0 +1,74 @@
+{
+  "address": "370 North Street Hammonton NJ 08037",
+  "attorney": "Brock & Scott, PLLC",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-002367-24",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": null,
+  "defendant": "Brian L. Siligato; Mrs. Brian L. Siligato, His Wife; Ford Motor Credit Company LLC; Patricia Siligato; Conectiv Power Delivery; State of New Jersey; United States of America",
+  "extracted": {},
+  "fields": {
+    "Address": "370 North Street\nHammonton NJ 08037",
+    "Approx. Judgment*": "$248,679.62",
+    "Attorney": "Brock & Scott, PLLC",
+    "Court Case #": "F-002367-24",
+    "Deed": "",
+    "Deed Address": "",
+    "Defendant": "Brian L. Siligato; Mrs. Brian L. Siligato, His Wife; Ford Motor Credit Company LLC; Patricia Siligato; Conectiv Power Delivery; State of New Jersey; United States of America",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Sales Date": "7/17/2025",
+    "Sheriff #": "F-25000042",
+    "Upset Amount": "$270,738.88"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 248679.62,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "370 North Street Hammonton NJ 08037",
+    "defendant": "Brian L. Siligato; M...",
+    "listing_status": null,
+    "plaintiff": "Lakeview Loan Servic...",
+    "sale_date": "2025-07-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "sale_date": "2025-07-17",
+  "sheriff_number": "F-25000042",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2025-07-17",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-07-17",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-06-12",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 270738.88,
+  "upset_amount_label": "Upset Amount"
+}

@@ -1,0 +1,53 @@
+{
+  "address": "35 Broad Street, Unit #6 Freehold Borough NJ 07728",
+  "attorney": "KML Law Group, PC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00690519",
+  "current_status": "Scheduled",
+  "defendant": "Susan Q. Walters, Individually and as Executrix of the Estate of Frederick E. Walters, et al.",
+  "description": "Dimensions of Lot: (Approximately) Condominium\nNearest Cross Street: Stokes Street\nThe estimated upset amount for the scheduled sheriff sale is currently $118,830.78.\nThe upset price is not the same as a payoff or judgment redemption amount.\nThe property is vacant.",
+  "extracted": {},
+  "fields": {
+    "Address": "35 Broad Street, Unit #6\nFreehold Borough NJ 07728",
+    "Approx. Judgment*": "$107,635.30",
+    "Attorney": "KML Law Group, PC",
+    "Court Case #": "F00690519",
+    "Defendant": "Susan Q. Walters, Individually and as Executrix of the Estate of Frederick E. Walters, et al.",
+    "Description": "Dimensions of Lot: (Approximately) Condominium\nNearest Cross Street: Stokes Street\nThe estimated upset amount for the scheduled sheriff sale is currently $118,830.78.\nThe upset price is not the same as a payoff or judgment redemption amount.\nThe property is vacant.",
+    "Parcel #": "Tax Lot No. 30.66 Block 34 Tax Map of Borough of Freehold",
+    "Plaintiff": "The Bank of New York Mellon, f/k/a The Bankof New York, as trustee, on behalf of the holders of the Alternative Loan Trust 2000-OA10, Mortgage Pass-Through Certificates Series 2007-OA-10",
+    "Property Note": "",
+    "Sales Date": "1/21/2025",
+    "Sheriff #": "FOR-24002216"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 107635.3,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "35 Broad Street, Unit #6 Freehold Borough NJ 07728",
+    "defendant": "Susan Q. Walters, Individually and as Executrix of the Estate of Frederick E. Walters, et al.",
+    "listing_status": "Purchased - Third Party",
+    "plaintiff": "The Bank of New York Mellon, f/k/a The Bankof New York, as trustee, on behalf of the holders of the Alternative Loan Trust 2000-OA10, Mortgage Pass-Through Certificates Series 2007-OA-10",
+    "sale_date": "2025-01-21"
+  },
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Tax Lot No. 30.66 Block 34 Tax Map of Borough of Freehold",
+  "plaintiff": "The Bank of New York Mellon, f/k/a The Bankof New York, as trustee, on behalf of the holders of the Alternative Loan Trust 2000-OA10, Mortgage Pass-Through Certificates Series 2007-OA-10",
+  "property_note": null,
+  "sale_date": "2025-01-21",
+  "sheriff_number": "FOR-24002216",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2025-01-21",
+      "status": "Purchased - Third Party"
+    },
+    {
+      "date": "2025-01-21",
+      "status": "Scheduled"
+    }
+  ]
+}

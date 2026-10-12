@@ -1,0 +1,57 @@
+{
+  "address": "12 COOPER STREET HADDON TOWNSHIP NJ 08108",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00163325",
+  "current_status": "Defendant Adjournment",
+  "defendant": "MICHAEL O'MEARA A/K/A MICHAEL T. O'MEARA AND MRS. MICHAEL O'MEARA, HIS WIFE; NICOLE O'MEARA, A/K/A NICOLE M. O'MEARA AND MR. NICOLE O'MEARA, HER HUSBAND, UNIED STATES OF AMERICA; STATE OF NEW JERSEY; LVNV FUNDING LLC",
+  "extracted": {},
+  "fields": {
+    "Address": "12 COOPER STREET\nHADDON TOWNSHIP NJ 08108",
+    "Approx. Upset*": "$564,244.11",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F00163325",
+    "Defendant": "MICHAEL O'MEARA A/K/A MICHAEL T. O'MEARA AND MRS. MICHAEL O'MEARA,\nHIS WIFE; NICOLE O'MEARA, A/K/A NICOLE M. O'MEARA AND MR. NICOLE O'MEARA,\nHER HUSBAND, UNIED STATES OF AMERICA; STATE OF NEW JERSEY; LVNV FUNDING LLC",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/17/2026",
+    "Sheriff #": "FR-25002285"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 COOPER STREET HADDON TOWNSHIP NJ 08108",
+    "defendant": "MICHAEL O'MEARA A/K/A MICHAEL T. O'MEARA AND MRS. MICHAEL O'MEARA, \nHIS WIFE; NICOLE O'MEARA, A/K/A NICOLE M. O'MEARA AND MR. NICOLE O'MEARA, \nHER HUSBAND, UNIED STATES OF AMERICA; STATE OF NEW JERSEY; LVNV FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A.",
+    "sale_date": "2026-02-17"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-17",
+  "sheriff_number": "FR-25002285",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-01-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-18",
+      "status": "Defendant Adjournment"
+    }
+  ],
+  "upset_amount": 564244.11,
+  "upset_amount_label": "Approx. Upset*"
+}

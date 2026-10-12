@@ -1,0 +1,82 @@
+{
+  "address": "526 Bainbridge Avenue Mays Landing NJ 08330",
+  "attorney": "Friedman Vartolo LLP",
+  "county": "Atlantic County, NJ",
+  "county_id": 25,
+  "court_case_number": "F-000359-24",
+  "current_status": "Scheduled",
+  "deed": "Anthony Esochaghi",
+  "deed_address": "948 Decatur Avenue Mays Landing, NJ 08330",
+  "defendant": "Beatrice Egolf; Kevin Egolf; South Jersey Gas; Fulton Bank of New Jersey N/K/A Fulton Bank, National Association; Unknown Occupants #1-10 N/K/A John Doe (Name Refused)",
+  "extracted": {},
+  "fields": {
+    "Address": "526 Bainbridge Avenue\nMays Landing NJ 08330",
+    "Approx. Judgment*": "$234,311.89",
+    "Attorney": "Friedman Vartolo LLP",
+    "Court Case #": "F-000359-24",
+    "Deed": "Anthony Esochaghi",
+    "Deed Address": "948 Decatur Avenue Mays Landing, NJ 08330",
+    "Defendant": "Beatrice Egolf; Kevin Egolf; South Jersey Gas; Fulton Bank of New Jersey N/K/A Fulton Bank, National Association; Unknown Occupants #1-10 N/K/A John Doe (Name Refused)",
+    "Plaintiff": "U.S. Bank Trust National Association as Trustee of the Tiki Series III Trust",
+    "Priors": "NONE",
+    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+    "Sales Date": "2/5/2026",
+    "Sheriff #": "F-24001612",
+    "Upset Amount": "$185,000.00"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 234311.89,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "526 Bainbridge Avenue Mays Landing NJ 08330",
+    "defendant": "Beatrice Egolf; Kevi...",
+    "listing_status": null,
+    "plaintiff": "U.S. Bank Trust Nati...",
+    "sale_date": "2026-02-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Atlantic County, NJ)",
+  "plaintiff": "U.S. Bank Trust National Association as Trustee of the Tiki Series III Trust",
+  "priors": "NONE",
+  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
+  "sale_date": "2026-02-05",
+  "sheriff_number": "F-24001612",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+  "status_history": [
+    {
+      "date": "2026-02-05",
+      "status": "Purchased - 3rd Party"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Rescheduled Post Bankruptcy to"
+    },
+    {
+      "date": "2025-04-17",
+      "status": "Indefinite Bankruptcy"
+    },
+    {
+      "date": "2025-04-17",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-03-20",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2025-02-20",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 185000.0,
+  "upset_amount_label": "Upset Amount"
+}

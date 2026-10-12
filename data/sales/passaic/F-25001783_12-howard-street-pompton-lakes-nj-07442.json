@@ -1,0 +1,68 @@
+{
+  "address": "12 HOWARD Street Pompton Lakes NJ 07442",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 006756 25 CTL# 163094",
+  "current_status": "Rescheduled",
+  "defendant": "SHELLY A. VANDERHOOF, ET AL.",
+  "description": "Dimensions of Lot: 0.12AC\nNearest Cross Street: Dupont Place\nEstimated upset bid amount: $ 431,500.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiif prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over hte lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 4 Due:11/01/2026 $1,680.00 OPEN\n2027 Qtr 1 Due: 02/01/2027 $1,600.00 OPEN\n2027 Qtr 2 Due: 05/01/2027 $1,600.00 OPEN\nSewer: Pompton Lakes MUA 2000 Lincoln Ave. Pompton Lakes, NJ 07442 973-839-3044 Acct: 105908\nTo:09/30/2026 $6,495.32 OPEN",
+  "extracted": {
+    "lot": "0.12AC",
+    "occupancy": "Owner Occupied"
+  },
+  "fields": {
+    "Address": "12 HOWARD Street\nPompton Lakes NJ 07442",
+    "Approx. Upset*": "$374,739.77",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 006756 25 CTL# 163094",
+    "Defendant": "SHELLY A. VANDERHOOF, ET AL.",
+    "Description": "Dimensions of Lot: 0.12AC\nNearest Cross Street: Dupont Place\nEstimated upset bid amount: $ 431,500.00 plus any additional sums as ordered by the court.\nOccupancy Status: Owner Occupied\n*Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiif prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over hte lien being foreclosed and, if so the current amount due thereon.\n2026 Qtr 4 Due:11/01/2026 $1,680.00 OPEN\n2027 Qtr 1 Due: 02/01/2027 $1,600.00 OPEN\n2027 Qtr 2 Due: 05/01/2027 $1,600.00 OPEN\nSewer: Pompton Lakes MUA 2000 Lincoln Ave. Pompton Lakes, NJ 07442 973-839-3044 Acct: 105908\nTo:09/30/2026 $6,495.32 OPEN",
+    "Parcel #": "Tax Lot 6 Block 600",
+    "Plaintiff": "PHH MORTGAGE CORPORATION",
+    "Property Note": "",
+    "Sales Date": "1/12/2027",
+    "Sheriff #": "F-25001783"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "12 HOWARD Street Pompton Lakes NJ 07442",
+    "defendant": "SHELLY A. VANDERHOOF, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PHH MORTGAGE CORPORATION",
+    "sale_date": "2027-01-12"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 6 Block 600",
+  "plaintiff": "PHH MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2027-01-12",
+  "sheriff_number": "F-25001783",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2026-02-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2027-01-12",
+      "status": "Rescheduled"
+    }
+  ],
+  "upset_amount": 374739.77,
+  "upset_amount_label": "Approx. Upset*"
+}

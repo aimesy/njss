@@ -1,0 +1,81 @@
+{
+  "address": "1021 COLLINGS AVENUE COLLINGSWOOD NJ 08107",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F03796415",
+  "current_status": "Plaintiff Adjournment",
+  "defendant": "DEBORAH A. MULL; ARNOLD Y. MULL; FRANK BORRELLI- PLUMBING & HEATING, INC; KENNEDY HEALTH SYSTEM,",
+  "extracted": {},
+  "fields": {
+    "Address": "1021 COLLINGS AVENUE\nCOLLINGSWOOD NJ 08107",
+    "Approx. Upset*": "$309,339.77",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F03796415",
+    "Defendant": "DEBORAH A. MULL; ARNOLD Y. MULL; FRANK BORRELLI- PLUMBING &\nHEATING, INC; KENNEDY HEALTH SYSTEM,",
+    "Parcel #": "",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA\nTRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE\nACQUISITION TRUST,",
+    "Property Note": "",
+    "Sales Date": "1/21/2026",
+    "Sheriff #": "FR-23000700"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "1021 COLLINGS AVENUE COLLINGSWOOD NJ 08107",
+    "defendant": "DEBORAH A. MULL; ARNOLD Y. MULL; FRANK BORRELLI- PLUMBING & \nHEATING, INC; KENNEDY HEALTH SYSTEM,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA \nTRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE \nACQUISITION TRUST,",
+    "sale_date": "2026-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST,",
+  "property_note": null,
+  "sale_date": "2026-01-21",
+  "sheriff_number": "FR-23000700",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2023-05-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-21",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-06-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-12-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "Plaintiff Adjournment"
+    }
+  ],
+  "upset_amount": 309339.77,
+  "upset_amount_label": "Approx. Upset*"
+}

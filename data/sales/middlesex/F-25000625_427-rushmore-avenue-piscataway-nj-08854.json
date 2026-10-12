@@ -1,0 +1,56 @@
+{
+  "address": "427 RUSHMORE AVENUE PISCATAWAY NJ 08854",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01044922",
+  "current_status": "Settled",
+  "defendant": "BROQUE WARD, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$416,276.58",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F01044922",
+    "Defendant": "BROQUE WARD, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 76.01 BLOCK 109 FKA BLOCK 20",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "Property Address": "427 RUSHMORE AVENUE\nPISCATAWAY NJ 08854",
+    "Property Note": "",
+    "Sale Date": "4/11/2025",
+    "Sheriff #": "F-25000625"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 416276.58,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "427 RUSHMORE AVENUE PISCATAWAY NJ 08854",
+    "defendant": "BROQUE WARD, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+    "sale_date": "2025-04-11"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 76.01 BLOCK 109 FKA BLOCK 20",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+  "property_note": null,
+  "sale_date": "2025-04-11",
+  "sheriff_number": "F-25000625",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-04-11",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

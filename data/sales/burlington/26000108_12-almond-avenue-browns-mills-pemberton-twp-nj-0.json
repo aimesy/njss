@@ -1,0 +1,85 @@
+{
+  "address": "12 ALMOND AVENUE BROWNS MILLS (PEMBERTON TWP) NJ 08015",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Burlington County, NJ",
+  "county_id": 3,
+  "court_case_number": "F-010993-24",
+  "current_status": "Adjourned by Court to",
+  "defendant": "THOMAS J. WOOLEY, III; DENISE L. WOOLEY; FIRST FINANCIAL FEDERAL CREDIT UNION; IMPERIAL ACCEPTANCE CORPORATION; BANK OF AMERICA, N.A.",
+  "description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $145,000.00",
+  "extracted": {
+    "upset_amount": 145000.0
+  },
+  "fields": {
+    "Address": "12 ALMOND AVENUE\nBROWNS MILLS (PEMBERTON TWP) NJ 08015",
+    "Approx. Judgment": "$133,539.32",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-010993-24",
+    "Defendant": "THOMAS J. WOOLEY, III; DENISE L. WOOLEY; FIRST FINANCIAL FEDERAL CREDIT UNION; IMPERIAL ACCEPTANCE CORPORATION; BANK OF AMERICA, N.A.",
+    "Description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $145,000.00",
+    "Parcel #": "",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "11/12/2026",
+    "Sheriff #": "26000108"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 133539.32,
+  "judgment_amount_label": "Approx. Judgment",
+  "listing": {
+    "address": "12 ALMOND AVENUE BROWNS MILLS (PEMBERTON TWP) NJ 08015",
+    "defendant": "THOMAS J. WOOLEY, III; DENISE L. WOOLEY; FIRST FINANCIAL FEDERAL CREDIT UNION; IMPERIAL ACCEPTANCE CORPORATION; BANK OF AMERICA, N.A.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2026-11-12"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Burlington County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2026-11-12",
+  "sheriff_number": "26000108",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=3",
+  "status_history": [
+    {
+      "date": "2026-02-26",
+      "status": "Scheduled for"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "1st Debtor Adjournment to"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "1st Attorney Adjournment to"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "2nd Attorney Adjournment to"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "Consented Adjournment to"
+    },
+    {
+      "date": "2026-07-23",
+      "status": "Adjourned by Court to"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "Adjourned by Court to"
+    },
+    {
+      "date": "2026-10-01",
+      "status": "Adjourned by Court to"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "Adjourned by Court to"
+    }
+  ]
+}

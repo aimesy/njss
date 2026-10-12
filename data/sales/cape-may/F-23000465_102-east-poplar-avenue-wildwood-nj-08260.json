@@ -1,0 +1,80 @@
+{
+  "address": "102 East Poplar Avenue Wildwood NJ 08260",
+  "attorney": "Stern Lavinthal & Frankenberg, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-797-1100",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-007289-23",
+  "current_status": "Scheduled",
+  "defendant": "Kevin Schwoerer, et al",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$206,833.35",
+    "Attorney": "Stern Lavinthal & Frankenberg, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-797-1100",
+    "Court Case #": "F-007289-23",
+    "Defendant": "Kevin Schwoerer, et al",
+    "Description": "",
+    "Minimum Bid": "$224,317.52",
+    "Parcel #": "BLOCK 235 LOT 2",
+    "Plaintiff": "**EXPIRED**Lakeview Loan Servicing, LLC",
+    "Property Address": "102 East Poplar Avenue\nWildwood NJ 08260",
+    "Property Note": "",
+    "Sale Date": "10/26/2025",
+    "Sheriff #": "F-23000465"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 206833.35,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "102 East Poplar Avenue Wildwood NJ 08260",
+    "defendant": "Kevin Schwoerer, et al",
+    "listing_status": null,
+    "plaintiff": "**EXPIRED**Lakeview Loan Servicing, LLC",
+    "sale_date": "2025-10-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "BLOCK 235 LOT 2",
+  "plaintiff": "**EXPIRED**Lakeview Loan Servicing, LLC",
+  "property_note": null,
+  "sale_date": "2025-10-26",
+  "sheriff_number": "F-23000465",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-10-26",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-04-03",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-04-02",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2024-03-06",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-02-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 224317.52,
+  "upset_amount_label": "Minimum Bid"
+}

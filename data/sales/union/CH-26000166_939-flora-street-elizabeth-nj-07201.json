@@ -1,0 +1,64 @@
+{
+  "address": "939 FLORA STREET ELIZABETH NJ 07201",
+  "attorney": "LEOPOLD & ASSOCIATES, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00243625",
+  "current_status": "Bankuptcy",
+  "defendant": "RALEIGH MURRAY; CAVALRY PORTFOLIO SERVICES LLC",
+  "description": "LOT 765 BLOCK 8",
+  "extracted": {
+    "block": "8",
+    "lot": "765"
+  },
+  "fields": {
+    "Address": "939 FLORA STREET\nELIZABETH NJ 07201",
+    "Approx. Upset*": "$14,124.86",
+    "Attorney": "LEOPOLD & ASSOCIATES, PLLC",
+    "Court Case #": "F00243625",
+    "Defendant": "RALEIGH MURRAY; CAVALRY PORTFOLIO SERVICES LLC",
+    "Description": "LOT 765 BLOCK 8",
+    "Parcel #": "LOT 765 BLOCK 8",
+    "Plaintiff": "WILMINGTON SAVINGS FUNDS SOCIETY, FSB, D/B/A CHRISTIANA TRUST SOLELY AS TRUSTEE FOR CSMC 2017-2 TRUST",
+    "Property Note": "",
+    "Sales Date": "4/22/2026",
+    "Sheriff #": "CH-26000166"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "939 FLORA STREET ELIZABETH NJ 07201",
+    "defendant": "RALEIGH MURRAY; CAVALRY PORTFOLIO SERVICES LLC",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUNDS SOCIETY, FSB, D/B/A CHRISTIANA TRUST SOLELY AS TRUSTEE FOR CSMC 2017-2 TRUST",
+    "sale_date": "2026-04-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 765 BLOCK 8",
+  "plaintiff": "WILMINGTON SAVINGS FUNDS SOCIETY, FSB, D/B/A CHRISTIANA TRUST SOLELY AS TRUSTEE FOR CSMC 2017-2 TRUST",
+  "property_note": null,
+  "sale_date": "2026-04-22",
+  "sheriff_number": "CH-26000166",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-02-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "Bankuptcy"
+    }
+  ],
+  "upset_amount": 14124.86,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "83 LONGFELLOW DRIVE COLONIA NJ 07067",
+  "attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-840-5000",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00806924",
+  "current_status": "Settled",
+  "defendant": "MARY JANE MICKUS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$325,158.43",
+    "Attorney": "HLADIK, ONORATO & FRIEDMAN, LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-840-5000",
+    "Court Case #": "F00806924",
+    "Defendant": "MARY JANE MICKUS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2 BLOCK 462.07 FKA 462-G",
+    "Plaintiff": "MILL CITY MORTGAGE LOAN TRUST 2018-4",
+    "Property Address": "83 LONGFELLOW DRIVE\nCOLONIA NJ 07067",
+    "Property Note": "",
+    "Sale Date": "9/18/2025",
+    "Sheriff #": "F-25001788"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 325158.43,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "83 LONGFELLOW DRIVE COLONIA NJ 07067",
+    "defendant": "MARY JANE MICKUS, ET ALS.",
+    "listing_status": "Settled",
+    "plaintiff": "MILL CITY MORTGAGE LOAN TRUST 2018-4",
+    "sale_date": "2025-09-18"
+  },
+  "listing_status": "Settled",
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2 BLOCK 462.07 FKA 462-G",
+  "plaintiff": "MILL CITY MORTGAGE LOAN TRUST 2018-4",
+  "property_note": null,
+  "sale_date": "2025-09-18",
+  "sheriff_number": "F-25001788",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2025-09-18",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

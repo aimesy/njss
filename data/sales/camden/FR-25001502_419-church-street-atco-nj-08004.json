@@ -1,0 +1,61 @@
+{
+  "address": "419 CHURCH STREET ATCO NJ 08004",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F02320618",
+  "current_status": "Purchased",
+  "defendant": "ARLETTE DERR, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF MARGARET L. DERR, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "419 CHURCH STREET\nATCO NJ 08004",
+    "Approx. Upset*": "$306,449.07",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F02320618",
+    "Defendant": "ARLETTE DERR, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF MARGARET\nL. DERR, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "OCWEN LOAN ACQUISITION TRUST 2023-HB1",
+    "Property Note": "",
+    "Sales Date": "11/19/2025",
+    "Sheriff #": "FR-25001502"
+  },
+  "first_seen": "2026-10-12",
+  "listing": {
+    "address": "419 CHURCH STREET ATCO NJ 08004",
+    "defendant": "ARLETTE DERR, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF MARGARET \n L. DERR, ET AL.",
+    "listing_status": null,
+    "plaintiff": "OCWEN LOAN ACQUISITION TRUST 2023-HB1",
+    "sale_date": "2025-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "OCWEN LOAN ACQUISITION TRUST 2023-HB1",
+  "property_note": null,
+  "sale_date": "2025-11-19",
+  "sheriff_number": "FR-25001502",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-09-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-11-19",
+      "status": "Purchased"
+    }
+  ],
+  "upset_amount": 306449.07,
+  "upset_amount_label": "Approx. Upset*"
+}

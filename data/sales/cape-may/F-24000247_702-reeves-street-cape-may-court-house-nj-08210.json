@@ -1,0 +1,104 @@
+{
+  "address": "702 REEVES Street Cape May Court House NJ 08210",
+  "attorney": "Greenspoon Marder LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "954-491-1120",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-013478-19",
+  "current_status": "Scheduled",
+  "defendant": "ALBERT B JOHNSON, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$340,670.98",
+    "Attorney": "Greenspoon Marder LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "F-013478-19",
+    "Defendant": "ALBERT B JOHNSON, ET AL",
+    "Description": "",
+    "Minimum Bid": "$225,100.00",
+    "Parcel #": "LOT 1, BLOCK 631",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Address": "702 REEVES Street\nCape May Court House NJ 08210",
+    "Property Note": "",
+    "Sale Date": "12/10/2025",
+    "Sheriff #": "F-24000247"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 340670.98,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "702 REEVES Street Cape May Court House NJ 08210",
+    "defendant": "ALBERT B JOHNSON, ET AL",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2025-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 1, BLOCK 631",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2025-12-10",
+  "sheriff_number": "F-24000247",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2025-12-10",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-10-15",
+      "status": "Bankruptcy Reschedule"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-07-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-02-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2025-02-14",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2025-01-22",
+      "status": "Bankruptcy Reschedule"
+    },
+    {
+      "date": "2024-10-30",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-10-02",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2024-10-02",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-09-04",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-08-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 225100.0,
+  "upset_amount_label": "Minimum Bid"
+}

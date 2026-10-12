@@ -1,0 +1,68 @@
+{
+  "address": "217 4TH STREET JERSEY CITY NJ 07302",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-010886-25 (CWPP INELIGIBLE)",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "C & Z 217 4TH STREET LLC; ET AL.",
+  "description": "TAX LOT(S): 7 F/K/A X, IN BLOCK: 11302 F/K/A 245\nDIMENSIONS (APPROX.): 14.65*100\nNEAREST CROSS STREET: ERIE ST.\nTAX CERTIFICATE\nRECORDED: MARCH 13, 2020\nHOLDER: GREYMORR LLC\nAMOUNT: $2,096.59\nINSTRUMENT NUMBER: 20200313060040220\nTAX CERTIFICATE\nRECORDED: JUNE 25, 2021\nHOLDER: TRYSTONE CAPITAL ASSETS, LLC\nAMOUNT: $3,399.39\nINSTRUMENT NUMBER: 20210625060140690\nGOOD FAITH ESTIMATED UPSET PRICE: $1,035,870.81\nOCCUPANCY STATUS: VACANT\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "block": "11302",
+    "occupancy": "VACANT",
+    "upset_amount": 1035870.81
+  },
+  "fields": {
+    "Address": "217 4TH STREET\nJERSEY CITY NJ 07302",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-010886-25 (CWPP INELIGIBLE)",
+    "Defendant": "C & Z 217 4TH STREET LLC; ET AL.",
+    "Description": "TAX LOT(S): 7 F/K/A X, IN BLOCK: 11302 F/K/A 245\nDIMENSIONS (APPROX.): 14.65*100\nNEAREST CROSS STREET: ERIE ST.\nTAX CERTIFICATE\nRECORDED: MARCH 13, 2020\nHOLDER: GREYMORR LLC\nAMOUNT: $2,096.59\nINSTRUMENT NUMBER: 20200313060040220\nTAX CERTIFICATE\nRECORDED: JUNE 25, 2021\nHOLDER: TRYSTONE CAPITAL ASSETS, LLC\nAMOUNT: $3,399.39\nINSTRUMENT NUMBER: 20210625060140690\nGOOD FAITH ESTIMATED UPSET PRICE: $1,035,870.81\nOCCUPANCY STATUS: VACANT\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Good Faith Upset*": "$1,035,870.81",
+    "Judgment": "$951,865.14",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A",
+    "Property Note": "",
+    "Sales Date": "8/26/2026",
+    "Sheriff #": "20062694"
+  },
+  "first_seen": "2026-10-12",
+  "judgment_amount": 951865.14,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "217 4TH STREET JERSEY CITY NJ 07302",
+    "defendant": "C & Z 217 4TH STREET LLC; ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A",
+    "sale_date": "2026-08-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A",
+  "property_note": null,
+  "sale_date": "2026-08-26",
+  "sheriff_number": "20062694",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-06-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-07-30",
+      "status": "Adjourned - Defendant 1st (4 weeks)"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-08-26",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 1035870.81,
+  "upset_amount_label": "Good Faith Upset*"
+}
