@@ -181,7 +181,7 @@ def export(data_dir: Path, summary: dict | None = None) -> int:
     records.sort(key=lambda r: (r["county"], r.get("sale_date") or "", r.get("sheriff_number") or ""))
     out = data_dir / "njss_sales.csv"
     with out.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=CSV_COLUMNS, extrasaction="ignore")
+        writer = csv.DictWriter(handle, fieldnames=CSV_COLUMNS, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         writer.writerows(records)
     by_county: dict[str, dict] = {}
