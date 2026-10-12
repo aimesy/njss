@@ -20,12 +20,41 @@ class FakeClient:
     def closed_listing(self):
         return "<html><body>No search results found.</body></html>"
 
-    def reprime(self):
-        pass
-
     def detail(self, property_id):
         self.detail_calls += 1
         return self.detail_html
+
+
+class ReloadingClient(FakeClient):
+    """Reassigns every PropertyId after 40 detail pages, as CivilView does when it reloads."""
+
+    def __init__(self):
+        super().__init__()
+        self.original = self.listing
+        self.reloaded = False
+        self.listing_calls = 0
+
+    def open_listing(self, county_id):
+        self.listing_calls += 1
+        return self.listing
+
+    def detail(self, property_id):
+        self.detail_calls += 1
+        if self.detail_calls == 40 and not self.reloaded:
+            self.reloaded = True
+            self.listing = self.original.replace("PropertyId=21868", "PropertyId=21869")
+        if self.reloaded and str(property_id).startswith("21868"):
+            return "<html><body>Sales Web - Foreclosure Sales Listing</body></html>"
+        return self.detail_html
+
+
+def test_reassigned_ids_mid_run_trigger_one_reload(tmp_path):
+    client = ReloadingClient()
+    summary = collect(tmp_path, GLOUCESTER, client, date(2026, 10, 12), reload_interval=0, log=lambda *_: None)
+    assert summary["detail_failures"] == []
+    assert summary["records_written"] == 139
+    assert summary["counties"]["Gloucester County, NJ"]["listing_reloads"] == 1
+    assert client.listing_calls == 2
 
 
 def test_second_run_fetches_and_writes_nothing(tmp_path):

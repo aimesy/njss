@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import json
 import re
+import time
 from datetime import UTC, date, datetime, timedelta
 from pathlib import Path
 
@@ -71,6 +72,18 @@ def listing_values(row: dict) -> dict:
     return {key: row.get(key) for key in LISTING_KEYS}
 
 
+def load_rows(client: CivilView, county_id: int, include_closed: bool) -> tuple[dict, dict]:
+    """Return the open listing and every listed property keyed by file_key; open rows win."""
+    listing = parse_listing(client.open_listing(county_id))
+    rows = {}
+    for row in listing["rows"]:
+        rows[file_key(row["sheriff_number"], row["address"])] = (row, True)
+    if include_closed:
+        for row in parse_listing(client.closed_listing())["rows"]:
+            rows.setdefault(file_key(row["sheriff_number"], row["address"]), (row, False))
+    return listing, rows
+
+
 def needs_detail(
     stored: dict | None, row: dict, on_open: bool, checked: str | None, today: date, refresh_days: int
 ) -> bool:
@@ -94,6 +107,7 @@ def collect(
     today: date,
     refresh_days: int = 7,
     include_closed: bool = True,
+    reload_interval: float = 20.0,
     log=print,
 ) -> dict:
     state_path = data_dir / "state.json"
@@ -102,24 +116,26 @@ def collect(
     for county in counties:
         cid, name = county["county_id"], county["name"]
         folder = data_dir / "sales" / slug(name)
-        listing = parse_listing(client.open_listing(cid))
-        seen = {}
-        for row in listing["rows"]:
-            seen[file_key(row["sheriff_number"], row["address"])] = (row, True)
-        if include_closed:
-            for row in parse_listing(client.closed_listing())["rows"]:
-                seen.setdefault(file_key(row["sheriff_number"], row["address"]), (row, False))
-        written = fetched = 0
+        listing, seen = load_rows(client, cid, include_closed)
+        # CivilView reassigns every PropertyId each time it reloads, which can
+        # happen several times during one county's pass. When a detail page
+        # fails, reload the listings for fresh IDs and retry once.
+        ids = {key: row["property_id"] for key, (row, _) in seen.items()}
+        last_reload = time.monotonic()
+        written = fetched = reloads = 0
         for key, (row, on_open) in seen.items():
             path = folder / f"{key}.json"
             stored = read_json(path, None)
             state_key = f"{cid}/{key}"
             if not needs_detail(stored, row, on_open, state["detail_checked"].get(state_key), today, refresh_days):
                 continue
-            detail = parse_detail(client.detail(row["property_id"]))
-            if detail is None:
-                client.reprime()
-                detail = parse_detail(client.detail(row["property_id"]))
+            detail = parse_detail(client.detail(ids[key]))
+            if detail is None and time.monotonic() - last_reload >= reload_interval:
+                _, fresh = load_rows(client, cid, include_closed)
+                ids.update({k: r["property_id"] for k, (r, _) in fresh.items()})
+                last_reload = time.monotonic()
+                reloads += 1
+                detail = parse_detail(client.detail(ids[key]))
             fetched += 1
             if fetched % 50 == 0:
                 log(f"  {name}: {fetched} details fetched")
@@ -163,12 +179,16 @@ def collect(
             "open_listed": len(listing["rows"]),
             "tracked": len(seen),
             "details_fetched": fetched,
+            "listing_reloads": reloads,
             "records_written": written,
             "source_last_updated": listing["source_last_updated"],
         }
         summary["records_written"] += written
         summary["details_fetched"] += fetched
-        log(f"{name}: {len(listing['rows'])} open, {len(seen)} tracked, {fetched} details, {written} written")
+        log(
+            f"{name}: {len(listing['rows'])} open, {len(seen)} tracked, {fetched} details, "
+            f"{reloads} listing reloads, {written} written"
+        )
         write_json(state_path, state)
     return summary
 

@@ -74,8 +74,5 @@ class CivilView:
     def closed_listing(self) -> str:
         return self._call("POST", f"{BASE}/Sales/SalesSearch", data=CLOSED_FORM)
 
-    def reprime(self) -> None:
-        self.open_listing(self.county_id)
-
     def detail(self, property_id: int) -> str:
         return self._call("GET", f"{BASE}/Sales/SaleDetails?PropertyId={property_id}")
