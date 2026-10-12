@@ -1,0 +1,1773 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <title>Sales Listing</title>
+
+    <link href="/Content/bootstrap.min.css" rel="stylesheet"/>
+<link href="/Content/site.css" rel="stylesheet"/>
+
+
+<link href="/Content/County/00845.css" rel="stylesheet"/>
+
+
+    <script src="/Scripts/jquery-1.10.2.js"></script>
+
+
+    <script src="/Scripts/modernizr-2.6.2.js"></script>
+
+</head>
+<body>
+    
+    <div>
+        
+
+
+<script>
+    function doClearBtnClick() {
+        const controls = document.querySelectorAll(".form-control");
+
+        for (var i = 0; i < controls.length; i++) {
+            document.getElementById(controls[i].id).value = '';
+        }
+    }
+
+    function getSearchCriteria(isOpen) {
+        try {
+            $.ajax({
+                type: 'GET',
+                data: "IsOpen=" + isOpen,
+                url: 'GetSearchCriteria',
+                dataType: "JSON",
+                cache: false,
+                success: criteriaSuccess,
+                error: criteriaError
+            });
+        }
+        catch (err) {
+            handleError('0001');
+        }
+    }
+
+    function getRadioButtonSearchCriteria(isOpen, radioButtonValue) {
+        try {
+            $.ajax({
+                type: 'GET',
+                data: "IsOpen=" + isOpen + "&RadioButtonValue=" + radioButtonValue,
+                url: 'GetRadioButtonSearchCriteria',
+                dataType: "JSON",
+                cache: false,
+                success: radioButtonCriteriaSuccess,
+                error: criteriaError
+            });
+        }
+        catch (err) {
+            handleError('0005');
+        }
+    }
+
+    function radioButtonCriteriaSuccess(data) {
+        try {
+            //clear select lists and re-populate with JSON results
+            var cboCity = $('#CityDesc');
+            cboCity.empty();
+            $.each(data[0], function (i, val) {
+                cboCity.append('<option id="' + val + '">' + val + '</option>');
+            });
+
+            var cboPropertyStatusDate = $('#PropertyStatusDate');
+            cboPropertyStatusDate.empty();
+            $.each(data[1], function (i, val) {
+                cboPropertyStatusDate.append('<option id="' + val + '">' + val + '</option>');
+            });
+
+            var cboMonthNumber = $('#MonthNumber');
+            cboMonthNumber.empty();
+            $.each(data[2], function (i, val) {
+                cboMonthNumber.append('<option id="' + val.MonthNumber + '">' + val.MonthName + '</option>');
+            });
+
+            ////SC-4275 - LA Orleans set default Auction Date; for all other counties this element will be empty
+            // Set default PropertyStatusDate after cboMonthNumber has been populated, see dateChanged()
+            // Would really like to see an object with properties returned from API instead of an array; order cannot change now or indexing will be wrong
+            if (data.length === 5 && !!data[4]) {
+                cboPropertyStatusDate.val(data[4]).change();    // fires the change event so that dateChanged() handler is called; it blanks out the month dropdown
+            }
+
+            // Note that on submit the entire view is re-rendered but since PropertyStatusDate is properly set the default value is correct.
+            $("form").submit();
+
+        }
+        catch (err) {
+            handleError('0006');
+        }
+    }
+
+    function criteriaSuccess(data) {
+        try {
+            //clear select lists and re-populate with JSON results
+            var cboCity = $('#CityDesc');
+            cboCity.empty();
+            $.each(data[0], function (i, val) {
+                cboCity.append('<option id="' + val + '">' + val + '</option>');
+            });
+
+            var cboPropertyStatusDate = $('#PropertyStatusDate');
+            cboPropertyStatusDate.empty();
+            $.each(data[1], function (i, val) {
+                cboPropertyStatusDate.append('<option id="' + val + '">' + val + '</option>');
+            });
+
+            var cboMonthNumber = $('#MonthNumber');
+            cboMonthNumber.empty();
+            $.each(data[2], function (i, val) {
+                cboMonthNumber.append('<option id="' + val.MonthNumber + '">' + val.MonthName + '</option>');
+            });
+        }
+        catch (err) {
+            handleError('0002');
+        }
+    }
+
+    function criteriaError(data) {
+        //alert(JSON.stringify(data));
+        handleError('0003');
+    }
+
+    function monthChanged() {
+        try {
+            $('#PropertyStatusDate').val('');
+            $('#monthChangeFeedback').text('Sales month changed');
+        }
+        catch (err) {
+            handleError('0004');
+        }
+    }
+
+    function dateChanged(selected) {
+
+        try {
+            $('#MonthNumber').val('');
+            $(selected).find('option[value="' + selected.value + '"]').attr("selected", true);
+            $('#dateChangeFeedback').text('Sales date changed to ' + selected.value);
+        }
+        catch (err) {
+            handleError('0004');
+        }
+    }
+
+    function handleError(errCode) {
+        $('#ErrorLabel').css('visibility', 'visible');
+        $('#ErrorLabel').text('An error has occurred.  Please refresh this web page and try again. (' + errCode + ')');
+    }
+
+    function openTab(url) {
+        window.open(url, "_blank");
+    }
+</script>
+
+
+<main class="search-container">
+    <table style="width:100%">
+        <tr>
+            <th>
+
+                    <h1>Gloucester County, NJ - Foreclosure Sales Listing <span style="color:#595959; font-size:large;">(last updated: 10/12/2026 3:50:00 AM)</span></h1>
+                    <div>This site is provided as a public service by the Gloucester County Sheriffs Office and is only intended to be general summary information to the public.  The Gloucester County Sheriffs Office does not warrant the accuracy, completeness, or timeliness of this information.  For all listings click the search tab. To limit search fill in details and click search tab.</div>
+                                
+                <span id="ErrorLabel" class="btn-danger" style="visibility:hidden"></span>
+            </th>
+           
+        </tr>
+    </table>
+
+<form action="/Sales/SalesSearch" class="form-horizontal" id="search_form" method="post" role="form">        <div class="hidden-print">
+        <br />
+        <div class="form-group">
+            <div class="col-sm-9 row">
+                <div class="col-sm-2">
+                    <input type="submit" value="Search" class="btn btn-primary" />
+                </div>
+                <div class="col-sm-2">
+                    <input type="button" value="Clear" class="btn btn-primary" onclick="doClearBtnClick()" />
+                </div>
+            </div>
+            <div class="row"> </div>
+            <br />
+                <div class="col-sm-12" row>
+                    <div class="col-sm-7">
+                    </div>
+                    <fieldset class="col-sm-5" row>
+                        <legend>Status</legend>
+                        <div class="col-sm-6">
+                            <input Checked="checked" checked="checked" id="open-radio" name="IsOpen" onClick="getSearchCriteria(true)" type="radio" value="true" /> 
+                            <label for="open-radio">Open </label>
+                        </div>
+                        <div class="col-sm-6">
+                            <input id="sold-radio" name="IsOpen" onClick="getSearchCriteria(false)" type="radio" value="false" /> 
+                            <label for="sold-radio">Sold\Cancelled </label>
+                        </div>
+                    </fieldset>
+                </div>
+        </div>
+  
+
+                <div class="form-group">
+                    <div class="col-sm-1 control-label text-nowrap"><label for="SheriffNumber">Sheriff #:</label></div>
+                    <div class="col-sm-4"><input class="form-control" id="SheriffNumber" name="SheriffNumber" type="text" value="" /></div>
+                    <div class="col-sm-1"></div>
+                <div class="col-sm-1 control-label text-nowrap" style="font-weight: bold" for="PropertyStatusDate">Sales Date:</div>
+                <div class="col-sm-5 row">
+                    <div class="col-sm-5">
+                        <label for="PropertyStatusDate" class="sr-only">Sales Date</label>
+                        <select class="form-control" id="PropertyStatusDate" name="PropertyStatusDate" onChange="dateChanged(this)"><option value=""></option>
+<option value="10/14/2026">10/14/2026</option>
+<option value="10/21/2026">10/21/2026</option>
+<option value="10/23/2026">10/23/2026</option>
+<option value="10/28/2026">10/28/2026</option>
+<option value="11/16/2026">11/16/2026</option>
+<option value="11/18/2026">11/18/2026</option>
+<option value="12/02/2026">12/02/2026</option>
+<option value="12/12/2026">12/12/2026</option>
+<option value="01/06/2027">01/06/2027</option>
+<option value="01/07/2027">01/07/2027</option>
+<option value="01/20/2027">01/20/2027</option>
+<option value="02/03/2027">02/03/2027</option>
+<option value="02/04/2027">02/04/2027</option>
+<option value="02/18/2027">02/18/2027</option>
+<option value="03/13/2027">03/13/2027</option>
+<option value="04/30/2027">04/30/2027</option>
+<option value="05/22/2027">05/22/2027</option>
+<option value="05/23/2027">05/23/2027</option>
+<option value="06/10/2027">06/10/2027</option>
+<option value="07/02/2027">07/02/2027</option>
+<option value="07/07/2027">07/07/2027</option>
+<option value="07/14/2027">07/14/2027</option>
+<option value="07/21/2027">07/21/2027</option>
+<option value="08/14/2027">08/14/2027</option>
+<option value="09/12/2027">09/12/2027</option>
+<option value="10/14/2027">10/14/2027</option>
+<option value="10/15/2027">10/15/2027</option>
+<option value="10/21/2027">10/21/2027</option>
+<option value="10/30/2027">10/30/2027</option>
+<option value="12/26/2027">12/26/2027</option>
+<option value="01/07/2028">01/07/2028</option>
+<option value="01/28/2028">01/28/2028</option>
+<option value="02/04/2028">02/04/2028</option>
+<option value="02/05/2028">02/05/2028</option>
+<option value="02/12/2028">02/12/2028</option>
+<option value="02/23/2028">02/23/2028</option>
+<option value="02/24/2028">02/24/2028</option>
+<option value="03/09/2028">03/09/2028</option>
+<option value="03/23/2028">03/23/2028</option>
+<option value="04/01/2028">04/01/2028</option>
+<option value="05/14/2028">05/14/2028</option>
+<option value="05/21/2028">05/21/2028</option>
+<option value="06/09/2028">06/09/2028</option>
+<option value="06/24/2028">06/24/2028</option>
+<option value="07/20/2028">07/20/2028</option>
+<option value="07/22/2028">07/22/2028</option>
+<option value="08/07/2028">08/07/2028</option>
+<option value="08/13/2028">08/13/2028</option>
+<option value="07/13/2034">07/13/2034</option>
+</select>
+                    </div>
+                    <div class="col-sm-1 control-label text-nowrap" style="font-weight: bold">or</div>
+                    <div class="col-sm-5">
+                        <label for="MonthNumber" class="sr-only">Sales Month</label>
+                        <select class="form-control" data-val="true" data-val-number="The field MonthNumber must be a number." data-val-required="The MonthNumber field is required." id="MonthNumber" name="MonthNumber" onChange="monthChanged()"><option selected="selected" value="0"></option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+                    </div>
+                </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-1 control-label text-nowrap"><label for="PlaintiffTitle">Plaintiff:</label></div>
+                    <div class="col-sm-4"><input class="form-control" id="PlaintiffTitle" name="PlaintiffTitle" type="text" value="" /></div>
+                    <div class="col-sm-1"></div>
+                    <div class="col-sm-1 control-label text-nowrap"><label for="DefendantTitle">Defendant:</label></div>
+                    <div class="col-sm-4"><input class="form-control" id="DefendantTitle" name="DefendantTitle" type="text" value="" /></div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-1 control-label text-nowrap"><label for="Address">Address:</label></div>
+                    <div class="col-sm-4"><input class="form-control" id="Address" name="Address" type="text" value="" /></div>
+                    <div class="col-sm-1"></div>
+                    <div><label class="col-sm-1 control-label text-nowrap" for="CityDesc">City:</label></div>
+                    <div class="col-sm-5">
+                        <select class="form-control" id="CityDesc" name="CityDesc"><option value=""></option>
+<option value="BLACKWOOD">BLACKWOOD</option>
+<option value="BRIDGEPORT">BRIDGEPORT</option>
+<option value="CLARKSBORO">CLARKSBORO</option>
+<option value="CLAYTON">CLAYTON</option>
+<option value="DEPTFORD">DEPTFORD</option>
+<option value="ELK TOWNSHIP">ELK TOWNSHIP</option>
+<option value="FRANKLINVILLE">FRANKLINVILLE</option>
+<option value="GIBBSTOWN">GIBBSTOWN</option>
+<option value="GLASSBORO">GLASSBORO</option>
+<option value="MALAGA">MALAGA</option>
+<option value="MANTUA">MANTUA</option>
+<option value="MONROEVILLE">MONROEVILLE</option>
+<option value="MOUNT ROYAL">MOUNT ROYAL</option>
+<option value="MULLICA HILL">MULLICA HILL</option>
+<option value="NATIONAL PARK">NATIONAL PARK</option>
+<option value="NEWFIELD">NEWFIELD</option>
+<option value="PAULSBORO">PAULSBORO</option>
+<option value="PITMAN">PITMAN</option>
+<option value="SEWELL">SEWELL</option>
+<option value="SWEDESBORO">SWEDESBORO</option>
+<option value="TURNERSVILLE">TURNERSVILLE</option>
+<option value="VINELAND">VINELAND</option>
+<option value="WASHINGTON TOWNSHIP">WASHINGTON TOWNSHIP</option>
+<option value="WENONAH">WENONAH</option>
+<option value="WEST DEPTFORD">WEST DEPTFORD</option>
+<option value="WESTVILLE">WESTVILLE</option>
+<option value="WILLIAMSTOWN">WILLIAMSTOWN</option>
+<option value="WOODBURY">WOODBURY</option>
+<option value="WOOLWICH">WOOLWICH</option>
+</select>
+                    </div>
+                </div>
+
+    <div>
+
+        <br />
+    </div>
+    <h2><span style="color:#595959; font-size: large;" class="hidden-print">Click the Details link next to the property to view additional information. (139 search results)</span></h2>
+</div>
+
+    <div>
+        <table class="table table-striped ">
+            <thead>
+                <tr>
+                        <th class="hidden-print" aria-label="Property Link"></th>
+
+                            <th>Sheriff #</th>
+                            <th>Status</th>
+                            <th>Sales Date</th>
+                            <th>Plaintiff</th>
+                            <th>Defendant</th>
+                            <th>Address</th>
+
+                </tr>
+            </thead>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854802" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000352</td>
+                                    <td>Scheduled</td>
+                                    <td>10/14/2026</td>
+                                    <td>FIRST NATIONAL BANK OF AMERICA</td>
+                                    <td>CHRISTOPHER STONEY &amp; LUCILLA HERNANDEZ, ET ALS</td>
+                                    <td>120 WILLIAMS AVENUE DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854861" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000934</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/14/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF OBX 2025-NQM1 TRUST</td>
+                                    <td>XIN SHEN; MR. SHEN, HUSBAND OF XIN SHEN; SHUQUAN ZIANG; ANNI ZHOU,</td>
+                                    <td>62 WINFIELD CIRCLE SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854863" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000936</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/14/2026</td>
+                                    <td>ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC</td>
+                                    <td>MADELINE STEIN, ET AL</td>
+                                    <td>124 DORADO AVENUE SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854865" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000938</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/14/2026</td>
+                                    <td>THE VILLAGES AT BERKLEY CONDOMINIUM ASSOCIATION, INC</td>
+                                    <td>JENNIFER L. REEVES</td>
+                                    <td>1034 TRISTRAM CIRCLE MANTUA NJ 08051</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854869" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000945</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/14/2026</td>
+                                    <td>PLUESE, BECKER, SALTZMAN &amp; THOMAS, LLC</td>
+                                    <td>JAMES MATTHEW BROOKS; ET AL</td>
+                                    <td>159 UNION AVENUE WEST DEPTFORD NJ 08086</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854870" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000946</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/14/2026</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>JOSHUA D. BERRY, ET AL.</td>
+                                    <td>9 AMBROSE COURT DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854871" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000951</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/14/2026</td>
+                                    <td>ASW FUND I, LP</td>
+                                    <td>N.R.S. REALTY, LLC</td>
+                                    <td>325 COOPER STREET WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854903" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001153</td>
+                                    <td>Scheduled</td>
+                                    <td>10/14/2026</td>
+                                    <td>MIDFIRST BANK</td>
+                                    <td>BRADLEY E. KAUFFMAN; BARBARA J. KAUFFMAN; UNITED STATES OF AMERICA</td>
+                                    <td>12 CRATER COURT WASHINGTON TOWNSHIP NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854904" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001161</td>
+                                    <td>Scheduled</td>
+                                    <td>10/14/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>JOAN SHIPLEY, ET AL.</td>
+                                    <td>320 HAVERFORD AVENUE DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854906" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001168</td>
+                                    <td>Scheduled</td>
+                                    <td>10/14/2026</td>
+                                    <td>NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING</td>
+                                    <td>ALICE B. WILLIAMS; CHRYSLER INSURANCE COMPANY, SUBROGEE DCFS TRUST; VIVINT SOLAR DEVELOPER, LLC; SERVICE FINANCE COMPANY</td>
+                                    <td>221 BILLINGS AVENUE PAULSBORO NJ 08066</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854907" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001169</td>
+                                    <td>Scheduled</td>
+                                    <td>10/14/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY AS OWNER TRUSTEE FOR OCWEN LOAN ACQUISITION TRUST 2023-HB1</td>
+                                    <td>CATHERINE F. KNOPKA, ET AL</td>
+                                    <td>604 WASHINGTON AVENUE DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854908" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001181</td>
+                                    <td>Scheduled</td>
+                                    <td>10/14/2026</td>
+                                    <td>BRAVO RESIDENTIAL FUNDING TRUST 2020-RPL 1</td>
+                                    <td>DIANE PRESS-WRIGHT, HEIR AND EXECUTRIX OF THE ESTATE OF ALICE D. PRESS; SPOUSE OF DIANE PRESS-WRIGHT; HENRY W. PRESS, HEIR; FULTON BANK, NATIONAL ASSOCIATION; KELLY, KELLY AND MAROTTA, LLC; NEW CENTURY FINANCIAL SERVICES, INC.; PALISADES COLLECTIONS LLC; NATIONAL LOAN RECOVERIES LLC; MIDLAND FUNDING LLC; STATE OF NEW JERSEY, UNITED STATES OF AMERICA</td>
+                                    <td>1672 MILLER AVENUE WEST DEPTFORD NJ 08086</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854911" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001209</td>
+                                    <td>Scheduled</td>
+                                    <td>10/14/2026</td>
+                                    <td>TD BANK, N.A.</td>
+                                    <td>FLORA HOELDERLE A/K/A FLORA M. HOELDERLE, HER HEIRS, DEVISEES, PERSONAL REPRESENTATIVES AND ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST, ET AL.</td>
+                                    <td>808 NORTHBROOK PLACE MONROEVILLE NJ 08343</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854598" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24001440</td>
+                                    <td>Hold In Abeyance</td>
+                                    <td>10/21/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST</td>
+                                    <td>GENNARO TASCA, ET AL</td>
+                                    <td>358 WEST AVENUE PITMAN NJ 08071</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854605" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24001602</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>10/23/2026</td>
+                                    <td>CITIGROUP MORTAGE LOAN TRUST 2022-A</td>
+                                    <td>ALBERT J. POWELL, ET UX, ET AL</td>
+                                    <td>233 JUNIPER LANE SWEDESBORO NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854586" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24000667</td>
+                                    <td>Court Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>MYKOLA TYSHCHENKO, ET AL</td>
+                                    <td>628 FORSYTHIA DRIVE VINELAND NJ 08360</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854590" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24001017</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR GSAA HOME EQUITY LOAN TRUST 2006-15, ASSET-BACKED CERTIFICATES SERIES 2006-15</td>
+                                    <td>ALEXIS MENDEZ, ET UX, ET AL</td>
+                                    <td>441 SUMMIT AVENUE PAULSBORO NJ 08066</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854592" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24001102</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST</td>
+                                    <td>DENISE F. FRIEL, ET AL</td>
+                                    <td>605 RASPBERRY LANE WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854707" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001255</td>
+                                    <td>Court Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>WELLS FARGO BANK, NA</td>
+                                    <td>JULIO L. MORALES, JR.; JACQUELINE ARIZMENDI-MORALES; UNITED STATES OF AMERICA</td>
+                                    <td>119 PENN STREET WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854756" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000049</td>
+                                    <td>Plaintiff Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>NATIONSTAR MORTGAGE LLC</td>
+                                    <td>JOANNA CARLING-WILLIAMS f/k/a JOANNA T. CARLING, ET AL.</td>
+                                    <td>4 ARCTURUS DRIVE SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854794" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000290</td>
+                                    <td>Plaintiff Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>DEREK R. HUGGINS, SR.; ET AL</td>
+                                    <td>44 EAST BARBER AVENUE WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854803" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000353</td>
+                                    <td>Court Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>THOMAS SCOTT JR, ET AL</td>
+                                    <td>1720 FOREST DRIVE WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854816" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000530</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST</td>
+                                    <td>VIVIAN JONES WILSON, ET AL</td>
+                                    <td>25 SECOND STREET PAULSBORO NJ 08066</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854844" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000759</td>
+                                    <td>Plaintiff Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>JASON GERACE; ET AL</td>
+                                    <td>1036 HILLSBORO COURT SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854873" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000957</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>M &amp; T BANK</td>
+                                    <td>BONNIE YARBOROUGH, ET AL.</td>
+                                    <td>21 REPAUPO STATION ROAD SWEDESBORO NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854874" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000963</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC</td>
+                                    <td>STEPHANIE MILLS, ET AL.</td>
+                                    <td>605 LAKEHURST AVENUE NATIONAL PARK NJ 08063</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854876" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000968</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>SELENE FINANCE, LP</td>
+                                    <td>DENISE FLYNN, ET AL.</td>
+                                    <td>150 HAMPSHIRE DRIVE DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854877" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000970</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>10/28/2026</td>
+                                    <td>US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST</td>
+                                    <td>DAVID J. RISTICK A/K/A DAVID RISTICK; JOY MARY RISTICK; GRAYBAR ELECTRIC COMPANY, INC.; SERVICE FINANCE COMPANY, LLC</td>
+                                    <td>5 SAMANTHA COURT SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854914" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001230</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>WILMINGTON TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF MFRA TRUST 2015-1</td>
+                                    <td>JACINDA WILSON; FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF JACINDA WILSON</td>
+                                    <td>29 BATTLES ROAD WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854915" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001242</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>QIANA FREEMAN; ET AL</td>
+                                    <td>1811 HERBERT BOULEVARD WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854916" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001245</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>KIMBERLY CLARK, ET AL.</td>
+                                    <td>290 BROAD STREET WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854919" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001246</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB</td>
+                                    <td>EUGENIO POSTORIVO, JR; KING&#39;S VIEW ESTATES, LLC; MCKENNA &amp; ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA</td>
+                                    <td>50 MILL ROAD WOOLWICH NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854918" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001246</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB</td>
+                                    <td>EUGENIO POSTORIVO, JR; KING&#39;S VIEW ESTATES, LLC; MCKENNA &amp; ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA</td>
+                                    <td>6 MILL ROAD WOOLWICH NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854917" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001246</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB</td>
+                                    <td>EUGENIO POSTORIVO, JR; KING&#39;S VIEW ESTATES, LLC; MCKENNA &amp; ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA</td>
+                                    <td>181 ASBURY STATION ROAD WOOLWICH NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854920" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001246</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB</td>
+                                    <td>EUGENIO POSTORIVO, JR; KING&#39;S VIEW ESTATES, LLC; MCKENNA &amp; ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA</td>
+                                    <td>139 ASBURY STATION ROAD WOOLWICH NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854921" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001247</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB</td>
+                                    <td>EUGENIO POSTORIVO, JR; KING&#39;S VIEW ESTATES, LLC; MCKENNA &amp; ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA</td>
+                                    <td>661 BRIDGETON PIKE MANTUA NJ 08051</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854922" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001248</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>MARCUS J. BROWN; SHANI BROWN, ET AL.</td>
+                                    <td>409 EVERGREEN PARKWAY GLASSBORO NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854925" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001280</td>
+                                    <td>Scheduled</td>
+                                    <td>10/28/2026</td>
+                                    <td>CARRINGTON MORTGAGE SERVICES, LLC</td>
+                                    <td>DERON BARBER, MR./MRS. DERON BARBER, FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF DERON BARBER; KOLBY BARBER; AND UNITED STATES OF AMERICA;</td>
+                                    <td>476 LOCK AVENUE GIBBSTOWN NJ 08027</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854604" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24001601</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>11/16/2026</td>
+                                    <td>BANK OF AMERICA, N.A.</td>
+                                    <td>MICHAEL A. MCCOY, ET AL</td>
+                                    <td>2821 SOUTH SHORE DRIVE WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854620" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000367</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>LAELIA LLC</td>
+                                    <td>JAMES F. CLARKE, IV, MARIANA CLARKE, MIDLAND FUNDING LLC AND NEW CENTURY FINANACIAL SERVICES</td>
+                                    <td>1675 LAKESIDE DRIVE WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854690" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001164</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>US Bank Trust National Association, Not In Its Individual Capacity But Solely As Owner Trustee For VRMTG Asset Trust</td>
+                                    <td>JOAN BUSUND</td>
+                                    <td>113 PEACH TREE DRIVE FRANKLINVILLE NJ 08322</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854746" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001534</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING</td>
+                                    <td>KENNETH AVEIRLS, ET AL.</td>
+                                    <td>1905 WILLIAMSTOW ROAD FRANKLINVILLE NJ 08322</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854773" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000197</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES</td>
+                                    <td>MEGAN CATANA A/K/A MEGAN S. CATANA, ET AL</td>
+                                    <td>1 FERRO DRIVE SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854806" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000375</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>MARIO E. CLARKE, ET AL</td>
+                                    <td>224 HAWKINS LANE WENONAH NJ 08090</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854883" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001030</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>11/18/2026</td>
+                                    <td>NATIONSTAR MORTGAGE LLC DBA MR. COOPER</td>
+                                    <td>EDWARD ROCCI, ET AL</td>
+                                    <td>440 BAYLOR ROAD WENONAH NJ 08090</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854887" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001065</td>
+                                    <td>Plaintiff Adjourned to</td>
+                                    <td>11/18/2026</td>
+                                    <td>FINANCE OF AMERICA REVERSE, LLC</td>
+                                    <td>DANISIO CINTIOLI; UNITED STATES OF AMERICA</td>
+                                    <td>131 DORADO AVENUE SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854912" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001210</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>11/18/2026</td>
+                                    <td>TD BANK, N.A.</td>
+                                    <td>JAMES J. CURRY; HOLIDAY CITY AT MONROE HOMEOWNER&#39;S, INC.; AND MARINER FINANCE</td>
+                                    <td>536 ST. MARTIN COURT WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854926" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001282</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>LASHAWN ANTHONY, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.</td>
+                                    <td>100 BUDDY POWELL LANE WENONAH NJ 08090</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854927" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001287</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>THE VILLAGES AT BERKLEY CONDOMINIUM ASSOCIATION, INC</td>
+                                    <td>LARAE CARTER</td>
+                                    <td>1026 TRISTRAM CIRCLE MANTUA NJ 08051</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854928" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001297</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>JPMORGAN CHASE BANK, NATIONAL ASSOCIATION</td>
+                                    <td>ROBERT BOESENHOFER, ET AL.</td>
+                                    <td>414 FERN AVENUE DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854929" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001298</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>Wells Fargo Bank, N.A.</td>
+                                    <td>TINA CAPORELLI; et al</td>
+                                    <td>817 FRIES MILL ROAD FRANKLINVILLE NJ 08322</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854930" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001299</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>ROMPSEN MORTGAGE LIMITED PARTNERSHIP</td>
+                                    <td>AURA DEVELOPMENT GROUP LLC; et al</td>
+                                    <td>BLOCK 29, LOTS 24, 28, 29 RICHWOOD-AURA ROAD CTY RTE #667 ELK TOWNSHIP NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854931" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001318</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST</td>
+                                    <td>EFFRIM T. WILLIAMS; MRS. WILLIAMS, SPOUSE OF EFFRIM T. WILLIAMS; MAUREEN WILLIAMS</td>
+                                    <td>104 BUCK ROAD GLASSBORO NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854932" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001321</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>SERVIS ONE DBA BSI FINANCIAL SERVICES, INC.</td>
+                                    <td>RILEY D. KEENAN, ET AL</td>
+                                    <td>1 QUEEN STREET PAULSBORO NJ 08066</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854933" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001324</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>JOSEPH J. SHERIDAN, SR, et al.</td>
+                                    <td>502 ELM STREET CLAYTON NJ 08312</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854934" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001326</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>PAUL PRESLEY, et al</td>
+                                    <td>814 SOUTH MAIN STREET WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854935" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001328</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>AREND W. RUSHLOW, et al</td>
+                                    <td>113 PEARL STREET NEWFIELD NJ 08344</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854936" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001330</td>
+                                    <td>Scheduled</td>
+                                    <td>11/18/2026</td>
+                                    <td>POLICE AND FIRE FEDERAL CREDIT UNION</td>
+                                    <td>GINA MISERENDINO a/k/a GINA MARCELLA, et al.</td>
+                                    <td>321 ARLINE AVENUE DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854606" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24001666</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>12/2/2026</td>
+                                    <td>TOWD POINT MORTGAGE TRUST 2017-2, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE</td>
+                                    <td>NASIR PRICE</td>
+                                    <td>1507 HALL AVENUE FRANKLINVILLE NJ 08322</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854622" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000423</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>12/2/2026</td>
+                                    <td>CITIZENS BANK, N.A.</td>
+                                    <td>CHARLES E. POOLE SR. AND PORTIA Y. POOLE</td>
+                                    <td>1130 COLES MILLS ROAD WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854607" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24001674</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>12/12/2026</td>
+                                    <td>ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC F/K/A QUICKEN LOANS, INC.</td>
+                                    <td>MICHAEL HOGAN, JR, ET AL</td>
+                                    <td>265 MIDDLESEX AVENUE WEST DEPTFORD NJ 08086</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854856" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000878</td>
+                                    <td>Plaintiff Adjourned to</td>
+                                    <td>1/6/2027</td>
+                                    <td>NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING</td>
+                                    <td>JAMAINE JENKINS, ET AL.</td>
+                                    <td>472 SALTER COURT GLASSBORO NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854858" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000897</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>1/6/2027</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>RAFAEL PENA-COLON, et al.</td>
+                                    <td>621 CROWN POINT ROAD WESTVILLE NJ 08093</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854879" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000972</td>
+                                    <td>Plaintiff Adjourned to</td>
+                                    <td>1/6/2027</td>
+                                    <td>ROCKET MORTGAGE, LLC</td>
+                                    <td>KRYSTAL KRAMER; MR. KRAMER, SPOUSE OF KRYSTAL KRAMER; LVNV FUNDING LLC, SUCCESSOR IN INTEREST TO CREDIT ONE BANK NA</td>
+                                    <td>5 INDIAN BIRCH ROAD BLACKWOOD NJ 08012</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854893" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001109</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>1/6/2027</td>
+                                    <td>NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING</td>
+                                    <td>FRANKLYN H. LORD, ET AL.</td>
+                                    <td>14 CHARLES III DRIVE GLASSBORO NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854898" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001137</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>1/6/2027</td>
+                                    <td>THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWMBS, INC., CHL MORTGAGE PASS-THROUGH TRUST 2007-8 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-8</td>
+                                    <td>LEO FRANCIS MCCAFFREY, JR. AND GINA MARIE MCCAFFREY</td>
+                                    <td>787 CHELSEA GLENN ROAD CLARKSBORO NJ 08020</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854902" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001152</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>1/6/2027</td>
+                                    <td>SELENE FINANCE, LP</td>
+                                    <td>AMY HILBERT; BARBARA M. HILBERT; BANK OF AMERICA, N.A.; TD BANK USA, N.A. SUCCESSOR IN INTEREST TO TARGET NATIONAL BANK; MIDLAND CREDIT MANAGEMENT, INC., CURRENT ASSIGNEE (SYNCHRONY BANK (LOWE&#39;S)); BARCLAYS BANK DELAWARE; CITIBANK, N.A.; VILLAGES AT BERKLEY; MIDLAND CREDIT MANAGEMENT, INC., CURRENT ASSIGNEE (COMENTIY BANK (LANE BRYANT))</td>
+                                    <td>208 John Pool Lane CLARKSBORO NJ 08020</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854905" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001165</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>1/6/2027</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST</td>
+                                    <td>ANTHONY Q. ROBINSON A/K/A ANTHONY ROBINSON; MRS. ROBINSON, SPOUSE OF ANTHONY Q. ROBINSON A/K/A ANTHONY ROBINSON; ANGELA M. ROBINSON; COASTAL COMMUNITY BANK; STATE FARM INDEMNITY COMPANY; ABSOLUTE RESOLUTIONS VI LLC, ASSIGNEE</td>
+                                    <td>3 GENEVA COURT GLASSBORO NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854910" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001197</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>1/6/2027</td>
+                                    <td>FEDERAL HOME LOAN MORTGAGE CORPORATION AS TRUSTEE FOR FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2021-1</td>
+                                    <td>GARY J. IRELAND, ET AL</td>
+                                    <td>428 AUDUBON AVENUE WEST DEPTFORD NJ 08086</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854937" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001331</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>JOANN RIDER, DECEASED, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, et al</td>
+                                    <td>3 EALEY COURT GLASSBORO NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854938" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001334</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>MIDFIRST BANK</td>
+                                    <td>JOHN V. DALY, JR; AND UNITED STATES OF AMERICA</td>
+                                    <td>340 PITMAN DOWNER ROAD SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854939" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001336</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>WELLS FARGO BANK, NA, SUCCESSOR BY MERGER TO WELLS FARGO BANK MINNESOTA, NA, SOLELY IN ITS CAPACITY AS TRUSTEE FOR PROVIDENT BANK HOME EQUITY LOAN ASSET-BACKED CERTIFICATES, SERIES 2000-1</td>
+                                    <td>ROGER W. JOHNSON a/k/a ROGER JOHNSON, INDIVIDUALLY AND AS KNOWN HEIR, et al.</td>
+                                    <td>49 ABERDEEN PLACE WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854940" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001338</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>NEWREZ LLC</td>
+                                    <td>WILLIAM BYCRAFT, JR., HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, et al.</td>
+                                    <td>1019 NORTH MAIN STREET WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854941" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001349</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING</td>
+                                    <td>MELINDA A. JESS; et al</td>
+                                    <td>203 ROOSEVELT AVENUE FRANKLINVILLE NJ 08322</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854942" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001359</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>AMERISAVE MORTGAGE CORPORATION</td>
+                                    <td>DENISE E. REILLY, ET AL.</td>
+                                    <td>753 OAK AVENUE MALAGA NJ 08328</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854943" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001360</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>JENNIFER L. JACKSON, et al.</td>
+                                    <td>865 WHITMAN DRIVE TURNERSVILLE NJ 08012</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854944" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001362</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>DAVID B. GRAU, ET AL.</td>
+                                    <td>109 REDTAIL HAWK CIRCLE DEPTFORD NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854945" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001364</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>OLGA TUSHEVA &amp; JUSTIN ORAVETZ</td>
+                                    <td>127 ACORN DRIVE MOUNT ROYAL NJ 08061</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854946" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001365</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>HORIZON RESIDENTIAL LOAN SERVICING, LLC</td>
+                                    <td>SUSAN B. MYERS, HER HIERS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET AL.</td>
+                                    <td>237 CLAIBORNE WAY SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854947" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001371</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNERTRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2021-RP3</td>
+                                    <td>MICHAEL PETERSON, et al.</td>
+                                    <td>1581 DELSEA DRIVE DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854948" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001374</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>PNC BANK, NATIONAL ASSOCIATION</td>
+                                    <td>CHRISTINE CREARY, et al.</td>
+                                    <td>116 SALEM AVENUE TURNERSVILLE NJ 08012</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854949" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001375</td>
+                                    <td>Scheduled</td>
+                                    <td>1/6/2027</td>
+                                    <td>AMERIHOME MORTGAGE COMPANY, LLC</td>
+                                    <td>JOSUE COLON; MRS. COLON, WIFE OF JOSUE COLON AND UNITED STATES OF AMERICA</td>
+                                    <td>862 FRIES MILL ROAD FRANKLINVILLE NJ 08322</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854612" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000137</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>1/7/2027</td>
+                                    <td>HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2006-HE1ASSET BACKED PASS-THROUGH CERTIFICATES,</td>
+                                    <td>DONNA J. VERRECCHIO A/K/A DONNA JANE O&#39;BRIEN A/K/A DONNA VERRECCHIO A/K/A DONNA J. O&#39;BRIEN; MR. VERRECCHIO, SPOUSE OF DONNA J. VERRECCHIO A/K/A DONNA VERRECCHIO A/K/A DONNA J. O&#39;BRIEN; WILLIAM F. VERRECCHIO; RYAN VERRECCHIO</td>
+                                    <td>124 E CLINTON STREET CLAYTON NJ 08312</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854691" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001166</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>FAY SERVICING, LLC</td>
+                                    <td>TIMOTHY GIBSON; MELANIE NOLAN, ET AL.</td>
+                                    <td>746 WASHINGTON AVENUE WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854697" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001199</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>DAIRAH DIAZ-MATTHEWS</td>
+                                    <td>752 LESLIE AVENUE DEPTFORD NJ 08090</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854714" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001304</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>LUIS PAULINO-LIZ</td>
+                                    <td>120 WEST BROAD STREET PAULSBORO NJ 08066</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854795" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000291</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>TRACIE LOUIS, ET AL.</td>
+                                    <td>36 Hopkins St. WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854950" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001381</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>PHH MORTGAGE CORPORATION</td>
+                                    <td>ANDRE M. SPENCER A/K/A ANDRE SPENCER; et al.</td>
+                                    <td>417 DEPTFORD AVENUE WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854951" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001382</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>ROBERT ANDERSON, et al.</td>
+                                    <td>25 EAST WASHINGTON STREET PAULSBORO NJ 08066</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854952" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001390</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>FULTON BANK, NA</td>
+                                    <td>FREDRICK A. MACINA A/K/A FREDRICK A. MACINA SR., et al.</td>
+                                    <td>2499 GLASSBORO CROSSKEYS ROAD WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854953" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001391</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>LEGACY MORTGAGE ASSET TRUST 2021-GS1</td>
+                                    <td>NICHOLAS TRONCO; MRS. NICHOLAS A. TRONCO</td>
+                                    <td>2276 BROADLANE ROAD WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854954" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001392</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>US BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST</td>
+                                    <td>MARK A. SCHAFER; MICHELLE SCHAFER; LINDA M. SCHAFER; BANK OF AMERICA NA</td>
+                                    <td>3575 NORTH SHORE DRIVE WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854955" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001407</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF CSMC 2019-SPL1 TRUST</td>
+                                    <td>MICHAEL GILLESPI; et al.</td>
+                                    <td>400 LEONARD COURT MULLICA HILL NJ 08062</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854956" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001409</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE IN TRUST FOR THE BENEFIT OF THE CERTIFICATE HOLDERS OF FIRST FRANKLIN MORTGAGE LOAN TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2005-FF7</td>
+                                    <td>FRANCIS TRAINER; MRS. FRANCIS TRAINER, HIS WIFE</td>
+                                    <td>34 MAIN STREET BRIDGEPORT NJ 08014-9762</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854957" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001415</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>ROBTRINA FEREBEE; et al.</td>
+                                    <td>24 KRAEMER COURT DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854958" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001417</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>GS MORTGAGE-BACKED SECURITIES TRUST 2024-RPL5</td>
+                                    <td>KATHLEEN E. SULLIVAN, et al.</td>
+                                    <td>1020 CATTELL ROAD WENONAH NJ 08090</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854959" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001427</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>DAXBURY OPPORTUNITY LLC</td>
+                                    <td>JOHN N. SHEPPARD, ET AL.</td>
+                                    <td>115 TUCKAHOE ROAD WASHINGTON TOWNSHIP NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854960" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001429</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION</td>
+                                    <td>CHRISTINA FRANCHI, ET AL.</td>
+                                    <td>470 PEDRICKTOWN ROAD SWEDESBORO NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854961" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001447</td>
+                                    <td>Scheduled</td>
+                                    <td>1/20/2027</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>SHANE D. MCCOY, ET AL.</td>
+                                    <td>726 BEACON AVENUE PAULSBORO NJ 08066</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854924" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001273</td>
+                                    <td>Defendant Adjourned to</td>
+                                    <td>2/3/2027</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>SHANA D. STACKHOUSE N/K/A SHANA D. MOODY, ET AL.</td>
+                                    <td>357 NASSAU AVENUE PAULSBORO NJ 08066</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854962" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001460</td>
+                                    <td>Scheduled</td>
+                                    <td>2/3/2027</td>
+                                    <td>SANTANDER BANK, N.A.</td>
+                                    <td>MARY E. PIGOTT; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY AND UNITED STATES OF AMERICA</td>
+                                    <td>2 DEER COURT TURNERSVILLE NJ 08012</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854613" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000214</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>2/4/2027</td>
+                                    <td>NATIONSTAR MORTGAGE LLC</td>
+                                    <td>KYSHA WILLIAMS; MR. KYSHA WILLIAMS, HUSBAND OF KYSHA WILLIAMS; AMERICREDIT FINANCIAL SERVICES INC,; JESSIE MANSON; SHIRLEY WILLIAMS BARDGE AND LINDA WILLIAMS</td>
+                                    <td>226 EAST CLINTON STREET CLAYTON NJ 08312</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854615" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000305</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>2/18/2027</td>
+                                    <td>WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR MFRA TRUST 2014-2</td>
+                                    <td>ALEXANDER TAYLOR; MICHELLE TAYLOR; THERESA G. SMITH; UNION CO BD SOCIAL SERVS; THRIFT INVESTMENT CORPORATION; CHRIST HOSPITAL N/K/A HUDSON HOSPITAL OPCO, LLC; FAA EASTERN REGION FEDERAL CREDIT UNIONN/K/A ASPIRE FEDERAL CREDIT UNION; TOYOTA MOTOR CREDIT CORP; STATE OF NEW JERSEY; STEWARD FINANCIAL SERVICES</td>
+                                    <td>5 WARE DRIVE GLASSBORO NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854616" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000308</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>3/13/2027</td>
+                                    <td>CITIBANK, N.A., AS TRUSTEE FOR CMLTI ASSET TRUST</td>
+                                    <td>EDWARD G. DICK, III, REBECCA C. DICK AND STATE OF NEW JERSEY</td>
+                                    <td>1175 MARSHALL MILL ROAD FRANKLINVILLE NJ 08322</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854774" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000198</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>4/30/2027</td>
+                                    <td>MCLP ASSET COMPANY, INC.</td>
+                                    <td>WILLIAM SCHONLEBER; SPOUSE OF WILLIAM SCHONLEBER</td>
+                                    <td>508 PAGE STREET WEST DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854636" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000728</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>5/22/2027</td>
+                                    <td>CITIZENS BANK, N.A.</td>
+                                    <td>PATRICK FINNERTY, MRS. CARLO CAPALBO, CARLO CAPALBO AND LORRAINE FINNERTY</td>
+                                    <td>55 CRESTMONT DRIVE MANTUA NJ 08051</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854634" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000720</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>5/23/2027</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST AS TRUSTEE FOR PNPMS TRUST I</td>
+                                    <td>MICHAEL DESANDRO A/K/A MICHAEL L DESANDRO A/K/A MICHAEL SMITH A/K/A MICHAEL L SMITH A/K/A MIKE SMITH, ET UX, ET AL.</td>
+                                    <td>604 SOUTH MAIN STREET WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854657" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000910</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>6/10/2027</td>
+                                    <td>WELLS FARGO BANK, N.A. SUCCESSOR BY MERGER TO WELLS FARGO BANK MINNESOTA, NATIONAL ASSOCIATION, AS TRUSTEE FOR FIRST FRANKLIN MORTGAGE LOAN TRUST 2003-FFH2 ASSET-BACKED CERTIFICATES SERIES 2003-FFH2</td>
+                                    <td>CHRISTOPHER M. MANGANELLO, ET. AL.</td>
+                                    <td>1700 WHISPERING WOODS DRIVE WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854652" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000875</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>7/2/2027</td>
+                                    <td>US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST</td>
+                                    <td>PAUL C. RICCIO; MRS. PAUL C. RICCIO, HIS WIFE; MIDLAND FUNDING LLC; SYNCHRONY BANK PC RICHARD</td>
+                                    <td>87 CANDLEWOOD ROAD WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854656" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000904</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>7/7/2027</td>
+                                    <td>NATIONSTAR MORTGAGE LLC</td>
+                                    <td>FELICIDA MCKEON, INDIVIDUALLY AND AS ADMINISTRATRIX OF THE ESTATE OF CAROL CENDANA; KATHLEEN MONASTERO; SUNNOVA TE MANAGEMENT LLC; SEAN C. MCKEON; STATE OF NEW JERSEY; UNITED STATES OF AMERICA</td>
+                                    <td>229 SPRING BEAUTY DRIVE WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854662" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000941</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>7/14/2027</td>
+                                    <td>CSMC 2017-RPL2 TRUST</td>
+                                    <td>ROBERT M. STRUSS, JR.; ET. AL.</td>
+                                    <td>825 SAINT REGIS COURT WEST DEPTFORD NJ 08051</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854680" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001045</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>7/21/2027</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST</td>
+                                    <td>WILLIAM N. JONES; ET AL.</td>
+                                    <td>29 MADISON STREET SWEDESBORO NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854678" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001042</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>8/14/2027</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FRO RCF 2 ACQUISITION TRUST</td>
+                                    <td>DEBORAH BUCHANAN., ET AL.</td>
+                                    <td>1657 NORTH MAIN STREET WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854694" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001188</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>9/12/2027</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>JOSEPH M. ELIASEN, ET ALS</td>
+                                    <td>5 WASHINGTON AVENUE MULLICA HILL NJ 08062</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854786" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000255</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>10/14/2027</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST 2005-RF2</td>
+                                    <td>CALVIN JONES, ET AL.</td>
+                                    <td>125 SOUTH MAIN STREET GLASSBORO NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854740" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001470</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>10/15/2027</td>
+                                    <td>FULTON BANK, NA</td>
+                                    <td>ROBERT MURPHY, JR., ET AL</td>
+                                    <td>608 MAIN STREET SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854715" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001310</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>10/21/2027</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>FELICIA ESTRADA, ET AL.</td>
+                                    <td>718 MAIN STREET MANTUA NJ 08051</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854721" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001330</td>
+                                    <td>Hold In Abeyance</td>
+                                    <td>10/30/2027</td>
+                                    <td>HOMEXPRESS CORPORATION</td>
+                                    <td>DEVON SIMMONS, ET AL.</td>
+                                    <td>1716 GLASSBORO ROAD WILLIAMSTOWN NJ 08094</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854763" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000095</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>12/26/2027</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST</td>
+                                    <td>JAMES H. ZUBERT, JR.; MRS. JAMES H. ZUBERT, JR., HIS WIFE; MELISSA ZUBERT; STATE OF NEW JERSEY; TD BANK NA,</td>
+                                    <td>520 WEST AVENUE PITMAN NJ 08071</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854583" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24000382</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>1/7/2028</td>
+                                    <td>SPECIALIZED LOAN SERVICING LLC</td>
+                                    <td>TROY A. SCHNEIDER, ET AL</td>
+                                    <td>18 HARTFORD ROAD SEWELL NJ 08080</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854582" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24000351</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>1/28/2028</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST</td>
+                                    <td>KENNEDY AORA, ET AL</td>
+                                    <td>40 ROSEBERRY COURT DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854777" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000219</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>2/4/2028</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF LB-TIKI SERIES IV TRUST</td>
+                                    <td>DENISE M. STELMACH; KEVIN STELMACH; UNDERWOOD MEMORRIAL HOSPITAL N/K/A INSPIRA MEDICAL SENTER WOODBURY. INC.</td>
+                                    <td>626 LILAC LANE DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854796" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000303</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>2/5/2028</td>
+                                    <td>U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR MASTR ASSET BACKED SECURITIES TRUST 2006-HE5 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-HE5</td>
+                                    <td>ANGELA PETERS, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF GLENN W. STORMS</td>
+                                    <td>526 HESTERS AVENUE WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854779" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000221</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>2/12/2028</td>
+                                    <td>NATIONSTAR MORTGAGE LLC</td>
+                                    <td>CHRISTOPHER E. WELKER; KRISTEN L. WELKER, ET AL.</td>
+                                    <td>305 NOTTINGHAM ROAD WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854793" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000288</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>2/23/2028</td>
+                                    <td>GATEWAY MORTGAGE, A DIVISION OF GATEWAY FIRST BANK</td>
+                                    <td>CORY CASSISE; MRS. CORY CASSISE, HIS WIFE, ET AL.</td>
+                                    <td>1895 TUCKAHOE ROAD FRANKLINVILLE NJ 08322</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854792" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000287</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>2/24/2028</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST</td>
+                                    <td>JANELLE BUSSEY AKA JANEL BUSSEY, ET AL.</td>
+                                    <td>272 WEST WASHINGTON STREET PAULSBORO NJ 08066</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854808" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000415</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>2/24/2028</td>
+                                    <td>POLICE AND FIREMEN&#39;S RETIREMENT SYSTEM BOARD OF TRUSTEES BY ITS ADMINISTRATIVE AGENT NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>NICHOLAS E. VOORHEES, ET AL.</td>
+                                    <td>709 ELMHURST PLACE GLASSBORO NJ 08028</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854872" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000952</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>3/9/2028</td>
+                                    <td>M&amp;T BANK</td>
+                                    <td>LARRY PAGE; COLLEEN DAILY-PAGE</td>
+                                    <td>211 CHURCH STREET NEWFIELD NJ 08344</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854853" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000816</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>3/23/2028</td>
+                                    <td>Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.</td>
+                                    <td>RYAN SHORT, ET AL</td>
+                                    <td>542 KESSEL AVENUE FRANKLINVILLE NJ 08322</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854812" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000456</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>4/1/2028</td>
+                                    <td>CITIGROUP MORTGAGE LOAN TRUST 2021-A</td>
+                                    <td>AMBER PANICHELLI; BRIAN VANES, ET AL.</td>
+                                    <td>11 GOLDENROD LANE SWEDESBORO NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854854" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000819</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>5/14/2028</td>
+                                    <td>AMERIHOME MORTGAGE COMPANY, LLC</td>
+                                    <td>TIA PARK; JEFFREY PARK</td>
+                                    <td>411 PAULSBORO ROAD SWEDESBORO NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854857" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000888</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>5/21/2028</td>
+                                    <td>GS MORTGAGE-BACKED SECURITIES TRUST 2021-RPL1</td>
+                                    <td>CHRISTINE A. CURRIE, ET AL.</td>
+                                    <td>80 HOLLY DRIVE WEST DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854864" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000937</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>6/9/2028</td>
+                                    <td>NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING</td>
+                                    <td>WILLIAM G. CULLEN, JOELLE C. MAYES, ET AL.</td>
+                                    <td>79 BRAMALL LANE GIBBSTOWN NJ 08027</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854888" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001067</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>6/24/2028</td>
+                                    <td>CARRINGTON MORTGAGE SERVICES, LLC</td>
+                                    <td>ROBERT VAZQUEZ; KELLY VASQUEZ; CHRISTOPHER DILL; DENISE DILL; UNITED STATES OF AMERICA</td>
+                                    <td>103 SOUTH DAVIS STREET WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854900" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001143</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>7/20/2028</td>
+                                    <td>TOWNE MORTGAGE COMPANY</td>
+                                    <td>JUDIT FELICIANO, RAFAEL VASQUEZ</td>
+                                    <td>67 ADAMS STREET SWEDESBORO NJ 08085</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854899" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001142</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>7/22/2028</td>
+                                    <td>The Bank Of New York Mellon F/K/A The Bank Of New York, As Trustee CWABS Inc., Asset-Backed Certificates Series 2004-7</td>
+                                    <td>FRANK J. PANTALONE A/K/A FRANK PANTALONE; MARY ANN PANTALONE A/K/A MARY ANN LOUISE PANTALONE A/K/A MARY ANN LOUISE SCHIAVO; WASHINGTON&#39;S CROSSING AT LOCUST GROVE HOMEOWNERS ASSOCIATION, INC A/K/A WASHINGTONS CROSSING HOA; LVNV FUNDING LLC</td>
+                                    <td>133 LIBERTY WAY DEPTFORD NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854913" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001224</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>8/7/2028</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST</td>
+                                    <td>DAWN RICHARTZ A/K/A DAWN A. RICHARTZ; PAUL RICHARTZ; CROSS COUNTRY BANK; RKL FINANCIAL CORPORATION F/K/A SLM FINANCIAL CORRP; C&amp;R OF NORTHFIELD, ASSIGNEE; KENNEDY HEALTH SYSTEM; SOUTH JERSEY RADIOLOGY ASSOC., ASF</td>
+                                    <td>113 WEST HOWARD STREET CLAYTON NJ 08312</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854923" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001267</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>8/13/2028</td>
+                                    <td>U.S. BANK NATOINAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST (SAIL) 2006-1</td>
+                                    <td>THOMAS F. FINN, ET AL.</td>
+                                    <td>433 HEMLOCK TERRACE WOODBURY NJ 08096</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854822" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000614</td>
+                                    <td>Bankruptcy Hold</td>
+                                    <td>7/13/2034</td>
+                                    <td>GLOUCESTER COUNTY SHERIFF OFFICE</td>
+                                    <td>BABY JANE DOE, ET AL.</td>
+                                    <td>1212 K9 DRIVE WOODBURY NJ 08096</td>
+            </tr>
+        </table>
+
+    </div>
+
+</form>
+<div class="container-fluid footer">
+</div>
+</main>
+    </div>
+
+    <script src="/Scripts/bootstrap.min.js"></script>
+<script src="/Scripts/respond.js"></script>
+
+    
+</body>
+</html>

@@ -1,0 +1,2045 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <title>Sales Listing</title>
+
+    <link href="/Content/bootstrap.min.css" rel="stylesheet"/>
+<link href="/Content/site.css" rel="stylesheet"/>
+
+
+<link href="/Content/County/00860.css" rel="stylesheet"/>
+
+
+    <script src="/Scripts/jquery-1.10.2.js"></script>
+
+
+    <script src="/Scripts/modernizr-2.6.2.js"></script>
+
+</head>
+<body>
+    
+    <div>
+        
+
+
+<script>
+    function doClearBtnClick() {
+        const controls = document.querySelectorAll(".form-control");
+
+        for (var i = 0; i < controls.length; i++) {
+            document.getElementById(controls[i].id).value = '';
+        }
+    }
+
+    function getSearchCriteria(isOpen) {
+        try {
+            $.ajax({
+                type: 'GET',
+                data: "IsOpen=" + isOpen,
+                url: 'GetSearchCriteria',
+                dataType: "JSON",
+                cache: false,
+                success: criteriaSuccess,
+                error: criteriaError
+            });
+        }
+        catch (err) {
+            handleError('0001');
+        }
+    }
+
+    function getRadioButtonSearchCriteria(isOpen, radioButtonValue) {
+        try {
+            $.ajax({
+                type: 'GET',
+                data: "IsOpen=" + isOpen + "&RadioButtonValue=" + radioButtonValue,
+                url: 'GetRadioButtonSearchCriteria',
+                dataType: "JSON",
+                cache: false,
+                success: radioButtonCriteriaSuccess,
+                error: criteriaError
+            });
+        }
+        catch (err) {
+            handleError('0005');
+        }
+    }
+
+    function radioButtonCriteriaSuccess(data) {
+        try {
+            //clear select lists and re-populate with JSON results
+            var cboCity = $('#CityDesc');
+            cboCity.empty();
+            $.each(data[0], function (i, val) {
+                cboCity.append('<option id="' + val + '">' + val + '</option>');
+            });
+
+            var cboPropertyStatusDate = $('#PropertyStatusDate');
+            cboPropertyStatusDate.empty();
+            $.each(data[1], function (i, val) {
+                cboPropertyStatusDate.append('<option id="' + val + '">' + val + '</option>');
+            });
+
+            var cboMonthNumber = $('#MonthNumber');
+            cboMonthNumber.empty();
+            $.each(data[2], function (i, val) {
+                cboMonthNumber.append('<option id="' + val.MonthNumber + '">' + val.MonthName + '</option>');
+            });
+
+            ////SC-4275 - LA Orleans set default Auction Date; for all other counties this element will be empty
+            // Set default PropertyStatusDate after cboMonthNumber has been populated, see dateChanged()
+            // Would really like to see an object with properties returned from API instead of an array; order cannot change now or indexing will be wrong
+            if (data.length === 5 && !!data[4]) {
+                cboPropertyStatusDate.val(data[4]).change();    // fires the change event so that dateChanged() handler is called; it blanks out the month dropdown
+            }
+
+            // Note that on submit the entire view is re-rendered but since PropertyStatusDate is properly set the default value is correct.
+            $("form").submit();
+
+        }
+        catch (err) {
+            handleError('0006');
+        }
+    }
+
+    function criteriaSuccess(data) {
+        try {
+            //clear select lists and re-populate with JSON results
+            var cboCity = $('#CityDesc');
+            cboCity.empty();
+            $.each(data[0], function (i, val) {
+                cboCity.append('<option id="' + val + '">' + val + '</option>');
+            });
+
+            var cboPropertyStatusDate = $('#PropertyStatusDate');
+            cboPropertyStatusDate.empty();
+            $.each(data[1], function (i, val) {
+                cboPropertyStatusDate.append('<option id="' + val + '">' + val + '</option>');
+            });
+
+            var cboMonthNumber = $('#MonthNumber');
+            cboMonthNumber.empty();
+            $.each(data[2], function (i, val) {
+                cboMonthNumber.append('<option id="' + val.MonthNumber + '">' + val.MonthName + '</option>');
+            });
+        }
+        catch (err) {
+            handleError('0002');
+        }
+    }
+
+    function criteriaError(data) {
+        //alert(JSON.stringify(data));
+        handleError('0003');
+    }
+
+    function monthChanged() {
+        try {
+            $('#PropertyStatusDate').val('');
+            $('#monthChangeFeedback').text('Sales month changed');
+        }
+        catch (err) {
+            handleError('0004');
+        }
+    }
+
+    function dateChanged(selected) {
+
+        try {
+            $('#MonthNumber').val('');
+            $(selected).find('option[value="' + selected.value + '"]').attr("selected", true);
+            $('#dateChangeFeedback').text('Sales date changed to ' + selected.value);
+        }
+        catch (err) {
+            handleError('0004');
+        }
+    }
+
+    function handleError(errCode) {
+        $('#ErrorLabel').css('visibility', 'visible');
+        $('#ErrorLabel').text('An error has occurred.  Please refresh this web page and try again. (' + errCode + ')');
+    }
+
+    function openTab(url) {
+        window.open(url, "_blank");
+    }
+</script>
+
+
+<main class="search-container">
+    <table style="width:100%">
+        <tr>
+            <th>
+
+                    <h1>Essex County, NJ - Foreclosure Sales Listing <span style="color:#595959; font-size:large;">(last updated: 10/12/2026 3:52:00 AM)</span></h1>
+                    <div>This site is provided as a public service by the Essex County Sheriffs Office and is only intended to be general summary information to the public.  The Essex County Sheriffs Office does not warrant the accuracy, completeness, or timeliness of this information.  For all listings click the search tab. To limit search fill in details and click search tab.  The data on this site is refreshed every 30 minutes between the hours of 9:00 AM and 4:00 PM Monday - Friday.</div>
+                                
+                <span id="ErrorLabel" class="btn-danger" style="visibility:hidden"></span>
+            </th>
+           
+        </tr>
+    </table>
+
+<form action="/Sales/SalesSearch" class="form-horizontal" id="search_form" method="post" role="form">        <div class="hidden-print">
+        <br />
+        <div class="form-group">
+            <div class="col-sm-9 row">
+                <div class="col-sm-2">
+                    <input type="submit" value="Search" class="btn btn-primary" />
+                </div>
+                <div class="col-sm-2">
+                    <input type="button" value="Clear" class="btn btn-primary" onclick="doClearBtnClick()" />
+                </div>
+            </div>
+            <div class="row"> </div>
+            <br />
+                <div class="col-sm-12" row>
+                    <div class="col-sm-7">
+                    </div>
+                    <fieldset class="col-sm-5" row>
+                        <legend>Status</legend>
+                        <div class="col-sm-6">
+                            <input Checked="checked" checked="checked" id="open-radio" name="IsOpen" onClick="getSearchCriteria(true)" type="radio" value="true" /> 
+                            <label for="open-radio">Open </label>
+                        </div>
+                        <div class="col-sm-6">
+                            <input id="sold-radio" name="IsOpen" onClick="getSearchCriteria(false)" type="radio" value="false" /> 
+                            <label for="sold-radio">Sold\Cancelled </label>
+                        </div>
+                    </fieldset>
+                </div>
+        </div>
+  
+
+                <div class="form-group">
+                    <div class="col-sm-1 control-label text-nowrap"><label for="SheriffNumber">Sheriff #:</label></div>
+                    <div class="col-sm-4"><input class="form-control" id="SheriffNumber" name="SheriffNumber" type="text" value="" /></div>
+                    <div class="col-sm-1"></div>
+                <div class="col-sm-1 control-label text-nowrap" style="font-weight: bold" for="PropertyStatusDate">Sales Date:</div>
+                <div class="col-sm-5 row">
+                    <div class="col-sm-5">
+                        <label for="PropertyStatusDate" class="sr-only">Sales Date</label>
+                        <select class="form-control" id="PropertyStatusDate" name="PropertyStatusDate" onChange="dateChanged(this)"><option value=""></option>
+<option value="10/13/2026">10/13/2026</option>
+<option value="10/16/2026">10/16/2026</option>
+<option value="10/27/2026">10/27/2026</option>
+<option value="10/30/2026">10/30/2026</option>
+<option value="11/01/2026">11/01/2026</option>
+<option value="11/07/2026">11/07/2026</option>
+<option value="11/10/2026">11/10/2026</option>
+<option value="11/17/2026">11/17/2026</option>
+<option value="11/19/2026">11/19/2026</option>
+<option value="12/01/2026">12/01/2026</option>
+<option value="12/02/2026">12/02/2026</option>
+<option value="12/08/2026">12/08/2026</option>
+<option value="12/15/2026">12/15/2026</option>
+</select>
+                    </div>
+                    <div class="col-sm-1 control-label text-nowrap" style="font-weight: bold">or</div>
+                    <div class="col-sm-5">
+                        <label for="MonthNumber" class="sr-only">Sales Month</label>
+                        <select class="form-control" data-val="true" data-val-number="The field MonthNumber must be a number." data-val-required="The MonthNumber field is required." id="MonthNumber" name="MonthNumber" onChange="monthChanged()"><option selected="selected" value="0"></option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+                    </div>
+                </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-1 control-label text-nowrap"><label for="PlaintiffTitle">Plaintiff:</label></div>
+                    <div class="col-sm-4"><input class="form-control" id="PlaintiffTitle" name="PlaintiffTitle" type="text" value="" /></div>
+                    <div class="col-sm-1"></div>
+                    <div class="col-sm-1 control-label text-nowrap"><label for="DefendantTitle">Defendant:</label></div>
+                    <div class="col-sm-4"><input class="form-control" id="DefendantTitle" name="DefendantTitle" type="text" value="" /></div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-1 control-label text-nowrap"><label for="Address">Address:</label></div>
+                    <div class="col-sm-4"><input class="form-control" id="Address" name="Address" type="text" value="" /></div>
+                    <div class="col-sm-1"></div>
+                    <div><label class="col-sm-1 control-label text-nowrap" for="CityDesc">City:</label></div>
+                    <div class="col-sm-5">
+                        <select class="form-control" id="CityDesc" name="CityDesc"><option value=""></option>
+<option value="BELLEVILLE">BELLEVILLE</option>
+<option value="BLOOMFIELD">BLOOMFIELD</option>
+<option value="CALDWELL">CALDWELL</option>
+<option value="CEDAR GROVE">CEDAR GROVE</option>
+<option value="EAST ORANGE">EAST ORANGE</option>
+<option value="FAIRFIELD">FAIRFIELD</option>
+<option value="IRVINGTON">IRVINGTON</option>
+<option value="LIVINGSTON">LIVINGSTON</option>
+<option value="MAPLEWOOD">MAPLEWOOD</option>
+<option value="MILLBURN">MILLBURN</option>
+<option value="MONTCLAIR">MONTCLAIR</option>
+<option value="NEWARK">NEWARK</option>
+<option value="NUTLEY">NUTLEY</option>
+<option value="ORANGE">ORANGE</option>
+<option value="ROSELAND">ROSELAND</option>
+<option value="SOUTH ORANGE">SOUTH ORANGE</option>
+<option value="West Caldwell">West Caldwell</option>
+<option value="WEST ORANGE">WEST ORANGE</option>
+</select>
+                    </div>
+                </div>
+
+    <div>
+
+        <br />
+    </div>
+    <h2><span style="color:#595959; font-size: large;" class="hidden-print">Click the Details link next to the property to view additional information. (191 search results)</span></h2>
+</div>
+
+    <div>
+        <table class="table table-striped ">
+            <thead>
+                <tr>
+                        <th class="hidden-print" aria-label="Property Link"></th>
+
+                            <th>Sheriff #</th>
+                            <th>Sales Date</th>
+                            <th>Plaintiff</th>
+                            <th>Defendant</th>
+                            <th>Address</th>
+
+                </tr>
+            </thead>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854981" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000143</td>
+                                    <td>10/13/2026</td>
+                                    <td>HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES, INC. MORTGAGE PASS- THROUGH CERTIFICATES, SERIES 2007-1</td>
+                                    <td>LINDA S. JENSEN-LORDI, ET. AL</td>
+                                    <td>125 DARLING AVENUE BLOOMFIELD NJ 07003</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854991" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25002205</td>
+                                    <td>10/13/2026</td>
+                                    <td>MANUFACTURERS AND TRADERS TRUST COMPANY ALSO KNOWN ASM&amp;T BANK SUCCESSOR BY MERGER TO HUDSON CITY SAVINGS BANK, FSB</td>
+                                    <td>MAXINE TURNBULL; ET. ALS.</td>
+                                    <td>336 ISABELLA AVE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854992" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25002206</td>
+                                    <td>10/13/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>CHRIS TEESDALE; ET. ALS.</td>
+                                    <td>2 HAWTHORNE PL EAST ORANGE NJ 07018</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854997" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25002944</td>
+                                    <td>10/13/2026</td>
+                                    <td>WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS DELAWARE TRUSTEE OF SMRF TRUST X-A,</td>
+                                    <td>VERMONT HOLDINGS GROUP LLC, ET. AL</td>
+                                    <td>76-78 VERMONT AVENUE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855008" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25003318</td>
+                                    <td>10/13/2026</td>
+                                    <td>DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR HARBORVIEW MORTGAGE LOAN TRUST MORTGAGE LOAN PASS-THROUGH CERTIFICATES, SERIES 2006-9</td>
+                                    <td>AVRAHAM SAVE; ET. AL.</td>
+                                    <td>22 MOUNTAIN WAY WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855019" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25004046</td>
+                                    <td>10/13/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>MUTINDA KIVUITU JR.; ET AL.</td>
+                                    <td>210 BERKELEY AVENUE NEWARK NJ 07107</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855021" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25004056</td>
+                                    <td>10/13/2026</td>
+                                    <td>PHH MORTGAGE CORPORATION,</td>
+                                    <td>BEVERLY L. HARRISON, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF HAZEL L. HARRISON A/K/A HAZEL HARRIS, ET. AL</td>
+                                    <td>28-30 WILLOUGHBY STREET NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855042" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000485</td>
+                                    <td>10/13/2026</td>
+                                    <td>THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS TRUSTEE FOR THE CERTIFICATEHOLDERS CWABS, INC., ASSET BACKED CERTIFICATES, SERIES 2005-BC1,</td>
+                                    <td>DANIEL MANU, ET. ALS</td>
+                                    <td>9 BACHMAN PL IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855065" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001095</td>
+                                    <td>10/13/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF WAMPUS MORTGAGE LOAN TRUST,</td>
+                                    <td>WALTER C. JOHNSON, III, ET. AL</td>
+                                    <td>1 CALVIN TERRACE WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855066" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001103</td>
+                                    <td>10/13/2026</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-HE1,</td>
+                                    <td>HELEN GEORGE NEWTON, ET. AL</td>
+                                    <td>16 HONISS PL NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855076" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001241</td>
+                                    <td>10/13/2026</td>
+                                    <td>CAPITAL, LLC</td>
+                                    <td>MERCURE VOLT, ET. AL</td>
+                                    <td>89 WALNUT STREET MONTCLAIR NJ 07042</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855078" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001273</td>
+                                    <td>10/13/2026</td>
+                                    <td>PINE VALLEY ONE REAL ESTATE, LLC,</td>
+                                    <td>ALONZO T. HOBBS, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DORIS C. BEST, DECEASED, ET. AL</td>
+                                    <td>73 LESLIE STREET EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855088" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001434</td>
+                                    <td>10/13/2026</td>
+                                    <td>CSMC 2019-RPL10 TRUST</td>
+                                    <td>THEODORE J. DELEN, ET. AL</td>
+                                    <td>19 WEST BRADFORD AVENUE ALSO KNOWN AS BRADFORD AVENUE CEDAR GROVE NJ 07009</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855091" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001477</td>
+                                    <td>10/13/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF OBX 2023-NQM8 TRUST,</td>
+                                    <td>HOME STONE LIVING LLC, ET. AL</td>
+                                    <td>488 SOUTH 17TH STREET NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855102" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001767</td>
+                                    <td>10/13/2026</td>
+                                    <td>U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2025-2,</td>
+                                    <td>HSE INC, ET. AL</td>
+                                    <td>53 WASHINGTON AVENUE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855108" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001811</td>
+                                    <td>10/13/2026</td>
+                                    <td>FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIR OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2020-2,</td>
+                                    <td>JAMES THOMAS OSBORNE, ET. AL</td>
+                                    <td>446 S CLINTON ST EAST ORANGE NJ 07018</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855115" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001963</td>
+                                    <td>10/13/2026</td>
+                                    <td>TROPHY POINT INVESTMENT GROUP, LLC</td>
+                                    <td>MASTERS MAKIT HOME REALTY, LLC, ET. AL</td>
+                                    <td>197 MUNN AVENUE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855124" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002073</td>
+                                    <td>10/13/2026</td>
+                                    <td>IRVINGTON CAPITAL PARTNERS LLC</td>
+                                    <td>INTERNATIONAL DREAM DEVELOPERS, INC.; ET AL.</td>
+                                    <td>65 VAILSBURG TERRACE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855129" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002219</td>
+                                    <td>10/13/2026</td>
+                                    <td>HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR THE BENEFIT OF PEOPLE&#39;S  FINANCIAL REALTY MORTGAGE SECURITIES TRUST, SERIES 2006-1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1,</td>
+                                    <td>SHEILA MCEACHERN, ET. AL</td>
+                                    <td>150 ALEXANDER ST 150-154 ALEXANDER ST NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855132" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002258</td>
+                                    <td>10/13/2026</td>
+                                    <td>U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST,</td>
+                                    <td>FRANK BEST, ET. AL</td>
+                                    <td>45 NORTH WILLOW STREET MONTCLAIR NJ 07042</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855133" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002269</td>
+                                    <td>10/13/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2022-2,</td>
+                                    <td>30 QUABECK AVENUE LLC, ET. AL</td>
+                                    <td>30 QUABECK AVENUE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855135" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002280</td>
+                                    <td>10/13/2026</td>
+                                    <td>JPMORGAN CHASE BANK, NATIONAL ASSOCIATION</td>
+                                    <td>RICHARD M. LAGANI, ET. AL</td>
+                                    <td>21 DOGWOOD ROAD WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855142" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002363</td>
+                                    <td>10/13/2026</td>
+                                    <td>TAMEEKA MILLER BY ASSIGNEE MMU LLC</td>
+                                    <td>ABSALON TELLE LITUS; ET AL.</td>
+                                    <td>101-103 MAY STREET IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855170" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002774</td>
+                                    <td>10/13/2026</td>
+                                    <td>JPMORGAN CHASE BANK, NATIONAL ASSOCIATION</td>
+                                    <td>THOMAS A. HUGHES, ET. AL</td>
+                                    <td>5 SPRING HILL DRIVE WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855174" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002817</td>
+                                    <td>10/13/2026</td>
+                                    <td>ASW FUND I, LP</td>
+                                    <td>HAWTHORNE PS INVEST GRP, LLC</td>
+                                    <td>566-568 HAWTHORNE AVE NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855179" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002970</td>
+                                    <td>10/13/2026</td>
+                                    <td>2500 OAK STREET PROPERTIES, LLC</td>
+                                    <td>JEAN NORWOOD, HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES; ET AL.</td>
+                                    <td>248 WILLIAM STREET EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855198" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003228</td>
+                                    <td>10/13/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>KARIMA EWING</td>
+                                    <td>536 JOYCE ST ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855201" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003248</td>
+                                    <td>10/13/2026</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>DAVID S. CABEZAS; ET. ALS.</td>
+                                    <td>55-57 SEYMOUR AVE NEWARK NJ 07108</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855202" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003261</td>
+                                    <td>10/13/2026</td>
+                                    <td>SELECT PORTFOLIO SERVICING, INC.</td>
+                                    <td>KIMBERLY A. HILL; ET. ALS.</td>
+                                    <td>269 ELLERY AVE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855211" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003378</td>
+                                    <td>10/13/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>HUSANI OAKLEY; ET. ALS.</td>
+                                    <td>48 BELLEVUE AVE MONTCLAIR NJ 07043</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855239" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003730</td>
+                                    <td>10/13/2026</td>
+                                    <td>CARRINGTON MORTGAGE SERVICES, LLC</td>
+                                    <td>TAJLI POWELL-WATKINS; ET. ALS.</td>
+                                    <td>21 WILFRED ST MONTCLAIR NJ 07042</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855242" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003794</td>
+                                    <td>10/13/2026</td>
+                                    <td>U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, SUCESSOR IN INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2006-WFHE3, ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-WFHE3</td>
+                                    <td>MARK WILLIAMS A/K/A MARK. M. WILLIAMS, ET. AL.</td>
+                                    <td>228 EASTERN PKY NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855245" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003886</td>
+                                    <td>10/13/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>DERRICK MAGWOOD, ET. AL.</td>
+                                    <td>436 14TH AVE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855246" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003888</td>
+                                    <td>10/13/2026</td>
+                                    <td>LOANDEPOT.COM, LLC,</td>
+                                    <td>JAMES MORRISON AND KWASIADA MORRISON, HUSBAND AND WIFE; ET. AL</td>
+                                    <td>392 TREMONT AVENUE ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855248" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003892</td>
+                                    <td>10/13/2026</td>
+                                    <td>SELENE FINANCE LP</td>
+                                    <td>MICHELE SEEGARS AND TIMOTHY BARKER, WIFE AND HUSBAND; ET. AL</td>
+                                    <td>45 CRESCENT TERRACE BELLEVILLE NJ 07109</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855250" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003895</td>
+                                    <td>10/13/2026</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2016-CTT</td>
+                                    <td>DINA EMENAKA; ET AL.</td>
+                                    <td>36 OLYMPIC TERRACE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855251" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003897</td>
+                                    <td>10/13/2026</td>
+                                    <td>CITIMORTGAGE, INC.</td>
+                                    <td>STEVEN OSTROMOGILSKY; ET. ALS.</td>
+                                    <td>89 LLEWELLYN RD MONTCLAIR NJ 07042</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854973" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24004548</td>
+                                    <td>10/16/2026</td>
+                                    <td>MIDFIRST BANK</td>
+                                    <td>DIANE BROWN-STITH, ET.AL.</td>
+                                    <td>165-169 RICHELIEU TERRACE MAILING ADDRESS OF 167 RICHELIEU TERRACE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854998" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25002955</td>
+                                    <td>10/27/2026</td>
+                                    <td>CITIZENS BANK NA F/K/A RBS CITIZENS NA</td>
+                                    <td>BRIAN TYSON; ET AL.</td>
+                                    <td>58 GROVE PLACE EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854999" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25002968</td>
+                                    <td>10/27/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF CITIGROUP MORTGAGE LOAN TRUST 2019-A</td>
+                                    <td>JULMALI HABIBUL; ET. AL.</td>
+                                    <td>186 NEWARK AVE BLOOMFIELD NJ 07003</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855010" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25003361</td>
+                                    <td>10/27/2026</td>
+                                    <td>ATHENE ANNUITY &amp; LIFE ASSURANCE COMPANY,</td>
+                                    <td>LESLIE R. NEAL, ET. AL</td>
+                                    <td>429 WASHINGTON AVENUE MONTCLAIR NJ 07042</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855045" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000514</td>
+                                    <td>10/27/2026</td>
+                                    <td>BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES 1 TRUST</td>
+                                    <td>DOROTHEA BRADLEY, HER HEIRS, BENEFICIARIES, SUCCESSORS AND ASSIGNS, ET. AL</td>
+                                    <td>460 MULBERRY STREET NEWARK NJ 07114</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855061" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001012</td>
+                                    <td>10/27/2026</td>
+                                    <td>MORTGAGE RESEARCH CENTER, LLC D/B/A VETERANS UNITED HOME LOANS, A MISSOURI LIMITED LIABILITY CORPORATION</td>
+                                    <td>JOHN D. MONTGOMERY, ET. AL</td>
+                                    <td>149 POMONA AVENUE NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855064" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001090</td>
+                                    <td>10/27/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>LITTO BEZAMA, ET. AL</td>
+                                    <td>247 21ST STREET IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855069" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001117</td>
+                                    <td>10/27/2026</td>
+                                    <td>U.S. BANK TRUT NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACUISITION TRUST,</td>
+                                    <td>NAIIMA HORSLEY-FAUNTLEROY, ET. AL</td>
+                                    <td>112 ROOSEVELT AVENUE &amp; 118 ROOSEVELT AVENUE EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855084" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001379</td>
+                                    <td>10/27/2026</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS INDENTURE TRUSTEE OF CIM TRUST 2025-NR1</td>
+                                    <td>RUSSELL F. MANLEY; ET AL.</td>
+                                    <td>29 CORTLAND STREET ROSELAND NJ 07068</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855098" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001627</td>
+                                    <td>10/27/2026</td>
+                                    <td>WELLS FARGO BANK, N.A.</td>
+                                    <td>BEVERLY BOYD, ET. AL</td>
+                                    <td>82-84 WINANS AVENUE NEWARK NJ 07108</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855109" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001821</td>
+                                    <td>10/27/2026</td>
+                                    <td>ROYAL PACIFIC FUNDING CORPORATION</td>
+                                    <td>CONSTANCE E. ISHMAEL, ET. AL</td>
+                                    <td>616 THOMAS STREET ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855128" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002110</td>
+                                    <td>10/27/2026</td>
+                                    <td>UNITAS FUNDING LLC,</td>
+                                    <td>555 BERKELEY AVE LLC A/K/A 555 BERKLEY AVE LLC, ET. AL</td>
+                                    <td>555 BERKELEY AVENUE SOUTH ORANGE NJ 07079</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855130" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002220</td>
+                                    <td>10/27/2026</td>
+                                    <td>CITIZENS BANK, N.A.</td>
+                                    <td>TAMESHWAR RAMRUP, ET. AL</td>
+                                    <td>28 FAIRVIEW PLACE BLOOMFIELD NJ 07003</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855145" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002379</td>
+                                    <td>10/27/2026</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>JUAN M. ROJAS; ET AL.</td>
+                                    <td>281-283 CLINTON PLACE NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855148" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002435</td>
+                                    <td>10/27/2026</td>
+                                    <td>TH MSR HOLDINGS LLC,</td>
+                                    <td>GERALDINE A. RAMOS</td>
+                                    <td>11 CRESTWOOD AVENUE FAIRFIELD NJ 07004</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855155" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002496</td>
+                                    <td>10/27/2026</td>
+                                    <td>FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2019-4</td>
+                                    <td>GEORGE W. ABRAHAMS, ET. AL</td>
+                                    <td>48 BURROUGHS WAY MAPLEWOOD NJ 07040</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855156" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002513</td>
+                                    <td>10/27/2026</td>
+                                    <td>NATIONSTAR MORTGAGE LLC,</td>
+                                    <td>TONI A. PEPPINGHAUS, ET. AL</td>
+                                    <td>3 COLERIDGE TERRACE FAIRFIELD NJ 07004</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855159" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002533</td>
+                                    <td>10/27/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC,</td>
+                                    <td>TROY DOLPHUS, ET. AL</td>
+                                    <td>324 SOUTH 19TH STREET NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855160" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002554</td>
+                                    <td>10/27/2026</td>
+                                    <td>HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE, IN TRUST FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2006-NC2, ASSET BACKED PASS-THROUGH CERTIFICATES,</td>
+                                    <td>JEAN BIEN-AIME A/K/A JEAN BIEN AIME, ET. AL</td>
+                                    <td>607 HAMILTON RD SOUTH ORANGE NJ 07079</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855183" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003017</td>
+                                    <td>10/27/2026</td>
+                                    <td>U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2023-2</td>
+                                    <td>MASTERS MAKIT HOME REALTY, LIIMITED LIABILITY COMPANY; ET. AL.</td>
+                                    <td>108 SOUTH DURAND PL IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855184" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003024</td>
+                                    <td>10/27/2026</td>
+                                    <td>AJAX MORTGAGE LOAN TRUST 2023-B MORTGAGE-BACKED SECURITIES, SERIES 2023-B, BY U.S. BANK TRUST COMPANY NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE</td>
+                                    <td>HURBERT C. SEDANO; ET. ALS.</td>
+                                    <td>411 ABINGTON AVE BLOOMFIELD NJ 07003</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855187" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003074</td>
+                                    <td>10/27/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>INGRID CATALDI; ET. ALS.</td>
+                                    <td>98 WESTVILLE AVE CALDWELL NJ 07006</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855188" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003155</td>
+                                    <td>10/27/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A,</td>
+                                    <td>BROADBELT CMGC LLC, ET. AL</td>
+                                    <td>290 WYOMING AVENUE SOUTH ORANGE NJ 07079</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855189" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003156</td>
+                                    <td>10/27/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A,</td>
+                                    <td>BB REAL ESTATE INVESTMENTS LLC</td>
+                                    <td>54 HOBSON STREET NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855190" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003157</td>
+                                    <td>10/27/2026</td>
+                                    <td>U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-5</td>
+                                    <td>ST. PAUL HOLDINGS, LLC</td>
+                                    <td>251 OGDEN ST ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855192" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003159</td>
+                                    <td>10/27/2026</td>
+                                    <td>LOAN FUNDER LLC, SERIES 8680</td>
+                                    <td>139 SOUTH MUNN LLC; ET. ALS.</td>
+                                    <td>139 SOUTH MUNN AVE EAST ORANGE NJ 07018</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855196" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003219</td>
+                                    <td>10/27/2026</td>
+                                    <td>WELLS FARGO BANK, N.A.</td>
+                                    <td>STEPHEN B. FRIEDMAN; ET. ALS.</td>
+                                    <td>59 ANNIN RD West Caldwell NJ 07006</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855223" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003497</td>
+                                    <td>10/27/2026</td>
+                                    <td>PLANET HOME LENDING, LLC</td>
+                                    <td>SHAUNA WILLIAMS; ET. ALS.</td>
+                                    <td>37 43RD ST IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855228" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003524</td>
+                                    <td>10/27/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST</td>
+                                    <td>GLORIA OLIVERA; ET. AL.</td>
+                                    <td>213-215 LINDEN AVE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855230" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003580</td>
+                                    <td>10/27/2026</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>GAVIN GALLARD; ET. ALS.</td>
+                                    <td>65 WATSON AVE EAST ORANGE NJ 07018</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855232" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003627</td>
+                                    <td>10/27/2026</td>
+                                    <td>TIAA, FSB D/B/A EVERBANK</td>
+                                    <td>BELLE CLIFTON, ET. AL.</td>
+                                    <td>7 HARVARD TER WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855243" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003853</td>
+                                    <td>10/27/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>DERRICK R. NORTON II; ET. ALS.</td>
+                                    <td>535 STUYVESANT AVE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855252" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003915</td>
+                                    <td>10/27/2026</td>
+                                    <td>NCC HOLDINGS, LLC</td>
+                                    <td>LENIN VALDEZ; ET. ALS.</td>
+                                    <td>121 CHADWICK AVE NEWARK NJ 07108</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855253" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003918</td>
+                                    <td>10/27/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST</td>
+                                    <td>TERESA JACKSON A/K/A THERESA JACKSON A/K/A TERESA T. JACKSON; ET. ALS.</td>
+                                    <td>149-151 OAKLAND TER NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855254" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003920</td>
+                                    <td>10/27/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>GENEVA MCDANIEL,  ET. AL.</td>
+                                    <td>65 NORTH WYOMING AVE SOUTH ORANGE NJ 07079</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855255" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003924</td>
+                                    <td>10/27/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>CHRSTINA Y. FUNDERBURK, ET. ALS.</td>
+                                    <td>77 FIRST AVE EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855257" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003930</td>
+                                    <td>10/27/2026</td>
+                                    <td>ROCKET MORTGAGE, LLC.</td>
+                                    <td>TAUREAN JOVON JOHNSON A/K/A TAUREAN JOHNSON; ET AL.</td>
+                                    <td>225-227 ALEXANDER STREET NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855258" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003934</td>
+                                    <td>10/27/2026</td>
+                                    <td>DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE, ON BEHALF OF THE HOLDERS OF THE AAMES MORTGAGE INVESTMENT TRUST 2006-1, MORTGAGE BACKED NOTES</td>
+                                    <td>KENNETH OHENE AGYAPONG A/K/A KENNETH AGUAPONG A/K/A KENNETH AGYAPONG A/K/A KENNETH O. AGYAPONG; ET AL.</td>
+                                    <td>92 EAST BIGELOW STREET NEWARK NJ 07114</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855259" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003952</td>
+                                    <td>10/27/2026</td>
+                                    <td>AMOS FINANCIAL LLC</td>
+                                    <td>DAVID CHMIEL, ET. AL</td>
+                                    <td>419 RICHMOND AVENUE MAILING ADDRESS OF 419 RICHMOND AVENUE, MAPLEWOOD,NJ 07040 SOUTH ORANGE NJ 07079</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855260" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003957</td>
+                                    <td>10/27/2026</td>
+                                    <td>RESIDENTIAL INVESTMENT TRUST IV</td>
+                                    <td>JGA DEVELOPMENT, LLC; ET. ALS.</td>
+                                    <td>289 AMHERST ST EAST ORANGE NJ 07018</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855261" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003960</td>
+                                    <td>10/27/2026</td>
+                                    <td>MCLP ASSET COMPANY, INC.</td>
+                                    <td>ANDREW HAMILTON; ET. ALS.</td>
+                                    <td>19 HAZEL AVE LIVINGSTON NJ 07039</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855262" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003967</td>
+                                    <td>10/27/2026</td>
+                                    <td>VIZCAYA CONDOMINIUM ASSOCIATION, INC., A NJ NON-PROFIT CORPORATION</td>
+                                    <td>BETH TOFEL</td>
+                                    <td>12 METZGER DRIVE UNIT 9 WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855263" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003970</td>
+                                    <td>10/27/2026</td>
+                                    <td>TRYON STREET ACQUISITION TRUST I</td>
+                                    <td>9 BROOKSIDE LLC; ET AL.</td>
+                                    <td>9 BROOKSIDE AVENUE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855264" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003978</td>
+                                    <td>10/27/2026</td>
+                                    <td>PLANET HOME LENDING, LLC</td>
+                                    <td>SHAMSIDDIN R. MUHAMMAD; ET. ALS.</td>
+                                    <td>56 NORTH JEFFERSON STREET ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855265" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003982</td>
+                                    <td>10/27/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF THE ASPEN INCOME TRUST, A DELAWARE STATUTORY TRUST</td>
+                                    <td>ANGELO BARRETO; ET AL.</td>
+                                    <td>32-34 NORTH 5TH STREET NEWARK NJ 07107</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855266" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003983</td>
+                                    <td>10/27/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1</td>
+                                    <td>176 PARKER ST LLC; ET. AL.</td>
+                                    <td>176c PARKER ST NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855267" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003987</td>
+                                    <td>10/27/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST</td>
+                                    <td>RAYMOND RATLIFF A/K/A RAY RATLIFF; ET. ALS.</td>
+                                    <td>140-142 CAROLINA AVE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855268" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003991</td>
+                                    <td>10/27/2026</td>
+                                    <td>ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC</td>
+                                    <td>SANDRA PENUELA</td>
+                                    <td>206 MAIN ST APT 6 MILLBURN NJ 07041</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855269" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003997</td>
+                                    <td>10/27/2026</td>
+                                    <td>UNITED WHOLESALE MORTGAGE, LLC</td>
+                                    <td>CORNERSTONE FAMILY GOD TRUST; ET. ALS.</td>
+                                    <td>328 BELLEVILLE AVE BLOOMFIELD NJ 07003</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855270" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003998</td>
+                                    <td>10/27/2026</td>
+                                    <td>ROCKET MORTGAGE, LLC F/K/A QUCKEN LOANS, LLC</td>
+                                    <td>NNEKA NURSE; ET AL.</td>
+                                    <td>518 N. GROVE STREET EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855271" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004014</td>
+                                    <td>10/27/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>SEGUNDO G. ESPINOZA; ET AL.</td>
+                                    <td>323 SPRINGDALE AVENUE EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855272" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004032</td>
+                                    <td>10/27/2026</td>
+                                    <td>CARRINGTON MORTGAGE SERVICES, LLC</td>
+                                    <td>REGNY CHARLES; ET. ALS.</td>
+                                    <td>56 PRINCETON ST MAPLEWOOD NJ 07040</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854979" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24004827</td>
+                                    <td>10/30/2026</td>
+                                    <td>ARYMING ASSET MANAAGEMENT LLC</td>
+                                    <td>NORTH JERSEY TIRE; ET AL.</td>
+                                    <td>59-61 WESTERN PARKWAY IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854975" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24004645</td>
+                                    <td>11/1/2026</td>
+                                    <td>NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,</td>
+                                    <td>LEAH FANT, ET.AL.</td>
+                                    <td>57 LAVENTHAL AVE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854978" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24004700</td>
+                                    <td>11/7/2026</td>
+                                    <td>GITSIT SOLUTIONS LLC</td>
+                                    <td>RONKAY GRIFFITH, ET. AL.</td>
+                                    <td>186 CLINTON AVE NEWARK NJ 07108</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854964" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-22000326</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION</td>
+                                    <td>MAUREEN PONCELET-DELSOLE; ET AL.</td>
+                                    <td>166 NORTH NINTH STREET NEWARK NJ 07107</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854985" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001631</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES IV TRUST</td>
+                                    <td>TERRELL BROWNRIDGE; ET AL.</td>
+                                    <td>27 LENOX AVENUE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854988" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25001834</td>
+                                    <td>11/10/2026</td>
+                                    <td>THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK, AS TRUSTEE FOR THE HOLDERS OF THE GE-WMC ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2005-1</td>
+                                    <td>JEROME LAXAMANA, ET. AL</td>
+                                    <td>222 FAIRWAY AVENUE BELLEVILLE NJ 07109</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854993" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25002309</td>
+                                    <td>11/10/2026</td>
+                                    <td>DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2007-BR3, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BR3,</td>
+                                    <td>DAVID WILLIAMS A/K/A DAVID A. WILLIAMS, ET. AL</td>
+                                    <td>231 NORTH PARK STREET EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855022" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25004062</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,</td>
+                                    <td>RENATO A. HONEYWELL, ET. AL</td>
+                                    <td>505-507 CLIFTON AVENUE NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855059" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26000869</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,</td>
+                                    <td>RAMON TORRES, ET. AL</td>
+                                    <td>245 LAKE STREET NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855086" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001387</td>
+                                    <td>11/10/2026</td>
+                                    <td>TOWD POINT MORTGAGE TRUST 2019-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE</td>
+                                    <td>ROBERT ORTIZ, ET. AL</td>
+                                    <td>87-89 MARTENS AVENUE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855114" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001932</td>
+                                    <td>11/10/2026</td>
+                                    <td>MANUFACTURERS AND TRADERS TRUST COMPANY ALSO KNOWN AS M&amp;T BANK SUCCESSOR BY MERGER TO HUDSON CITY SAVINGS BANK, FSB,</td>
+                                    <td>CALMA P. WRIGHT DECEASED, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL</td>
+                                    <td>304 SOUTH TWENTIETH STREET NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855139" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002346</td>
+                                    <td>11/10/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>KENNETH P. STEPHEN, JR., ET. AL</td>
+                                    <td>119 LITTLETON AVENUE NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855140" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002351</td>
+                                    <td>11/10/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF STANWICH MORTGAGE LOAN TRUST F</td>
+                                    <td>MICHAEL HOLLOWAY, ET. AL</td>
+                                    <td>69 LONGFELLOW AVE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855144" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002371</td>
+                                    <td>11/10/2026</td>
+                                    <td>WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR MFRA TRUST 2014-2</td>
+                                    <td>NSFI GROUP LLC, ET. AL</td>
+                                    <td>722-724 SOUTH 12TH STREET NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855149" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002447</td>
+                                    <td>11/10/2026</td>
+                                    <td>WELLS FARGO BANK, N.A.,</td>
+                                    <td>DELCY ARIAS, ET. AL</td>
+                                    <td>584 BROADWAY AKA 584-586 BROADWAY NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855167" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002736</td>
+                                    <td>11/10/2026</td>
+                                    <td>PENNYMAC LOAN</td>
+                                    <td>MONIQUE D. HAWKINS; ET AL.</td>
+                                    <td>107 S MUNN AVENUE S MUNN AVENUE ALSO REFERRED TO AS SOUTH MUNN AVENUE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855172" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002807</td>
+                                    <td>11/10/2026</td>
+                                    <td>COMMUNITY AMERICA CREDIT UNION</td>
+                                    <td>THEON ALLEYNE; ET. AL.</td>
+                                    <td>90 MIDLAND AVE EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855197" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003220</td>
+                                    <td>11/10/2026</td>
+                                    <td>JPMORGAN CHASE BANK, NATIONAL ASSOCIATION</td>
+                                    <td>JOSE R. HENRIQUEZ, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS/HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST, ET. AL</td>
+                                    <td>55 BEECH STREET BELLEVILLE NJ 07109</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855199" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003242</td>
+                                    <td>11/10/2026</td>
+                                    <td>FINANCE OF AMERICA REVERSE LLC</td>
+                                    <td>JEAN G. FAISON, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES; ET AL.</td>
+                                    <td>14-16 HUNTINGTON TERRACE NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855200" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003246</td>
+                                    <td>11/10/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR IBIS HOLDINGS A TRUST</td>
+                                    <td>SUCCEEDED LLC; ET AL.</td>
+                                    <td>428 S. 17TH STREET NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855203" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003265</td>
+                                    <td>11/10/2026</td>
+                                    <td>NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING</td>
+                                    <td>TODD DALE, ET. AL</td>
+                                    <td>12 MAPLE AVENUE MONTCLAIR NJ 07042</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855204" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003280</td>
+                                    <td>11/10/2026</td>
+                                    <td>DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR AMERIQUEST MORTGAGE SECURITIES INC., ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-R5</td>
+                                    <td>LINDA WARD; ET. ALS.</td>
+                                    <td>119 DICKERSON ST NEWARK NJ 07107</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855205" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003313</td>
+                                    <td>11/10/2026</td>
+                                    <td>HSBC BANK USA, N.A. AS INDENTURE TRUSTEE FOR THE REGISTERED NOTEHOLDERS OF RENAISSANCE HOME EQUITY LOAN TRUST 2006-2</td>
+                                    <td>GUADENCIO AGUIRRE; ET. ALS.</td>
+                                    <td>5 WESTERN PKY IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855206" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003314</td>
+                                    <td>11/10/2026</td>
+                                    <td>US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST</td>
+                                    <td>MILDRED G. WARREN A/K/A MILDRED WARREN, DECEASED, HER HEIRS, DEVISEES, AND PERSONAL REORESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST, ET. AL</td>
+                                    <td>39 BERKSHIRE PLACE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855207" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003317</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST</td>
+                                    <td>NICOLE S. FABIANO; ET. ALS.</td>
+                                    <td>23 VINE ST NUTLEY NJ 07110</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855209" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003323</td>
+                                    <td>11/10/2026</td>
+                                    <td>HOMEXPRESS MORTGAGE CORPORATION</td>
+                                    <td>NEWARK GARSIDE LLC; ET. ALS.</td>
+                                    <td>83 1/2 GARSIDE ST NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855210" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003376</td>
+                                    <td>11/10/2026</td>
+                                    <td>THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK AS TRUSTEE FOR REGISTERED HOLDERS OF CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2005-14</td>
+                                    <td>ROBERT SIEDLER; ET AL.</td>
+                                    <td>8 CHESTNUT STREET CALDWELL NJ 07006</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855215" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003403</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR COLT 2023-4 MORTGAGE LOAN TRUST</td>
+                                    <td>MONLORA WIGGINS</td>
+                                    <td>79 BROOKDALE AVE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855218" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003430</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERICAL CAPITAL LOAN TRUST 2025-2</td>
+                                    <td>NWK HOLDINGS LLC, A NEW JERSEY LIMITED LIABILITY COMPANY, ET. ALS.</td>
+                                    <td>676-678 SPRINGFIELD AVE NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855220" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003474</td>
+                                    <td>11/10/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>JOAQUIM M. ESTEVES; ET. ALS.</td>
+                                    <td>194 12TH AVE NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855221" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003477</td>
+                                    <td>11/10/2026</td>
+                                    <td>COMPUTERSHARE TRUST COMPANY, N.A., NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR NBE ASSET TRUST</td>
+                                    <td>BRONX GIRLS FLIPS, LLC</td>
+                                    <td>436 FRANKFORT ST ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855222" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003494</td>
+                                    <td>11/10/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>MICHAEL J DAVIS, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS/HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ET. AL</td>
+                                    <td>373 PESHINE AVENUE NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855237" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003683</td>
+                                    <td>11/10/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>NEHEMIE EXAVIER; ET. ALS.</td>
+                                    <td>48 LAUREL AVE EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855273" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004046</td>
+                                    <td>11/10/2026</td>
+                                    <td>NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING</td>
+                                    <td>SYLVIA VELSOR A/K/A SYLVIA BURDZY; ET. ALS.</td>
+                                    <td>5 PILGRIM CT CEDAR GROVE NJ 07009</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855274" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004093</td>
+                                    <td>11/10/2026</td>
+                                    <td>PENNYMAC LOAN SERVICES, LLC</td>
+                                    <td>TROY NICHOLAS, ET. AL.</td>
+                                    <td>345 IRVINE TURNER BLVD NEWARK NJ 07108</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855275" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004101</td>
+                                    <td>11/10/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>SANTOS MORALES; ET AL.</td>
+                                    <td>825 RIDGE STREET NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855276" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004104</td>
+                                    <td>11/10/2026</td>
+                                    <td>NUBRIDGE COMMERICIAL LENDING LLC</td>
+                                    <td>SUSCENHOY LLC; ET AL.</td>
+                                    <td>195 CENTRAL AVENUE A/K/A 20 HOYT STREET AND 56 SUSSEX AVENUE NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855277" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004106</td>
+                                    <td>11/10/2026</td>
+                                    <td>WILIMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF OBX 2025-NQM7 TRUST</td>
+                                    <td>61 CHELSEA REALTY LLC; ET. AL.</td>
+                                    <td>61 CHELSEA AVE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855278" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004107</td>
+                                    <td>11/10/2026</td>
+                                    <td>PACIFIC ASSET HOLDING, LLC,</td>
+                                    <td>54 ORATON NJ LLC, ET. AL6</td>
+                                    <td>54 NORTH ORATON PARKWAY EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855279" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004108</td>
+                                    <td>11/10/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1</td>
+                                    <td>200 MUNN AVE LLC; ET. AL.</td>
+                                    <td>200 MUNN AVE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855280" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004111</td>
+                                    <td>11/10/2026</td>
+                                    <td>DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR MORGAN STANLEY STRUCTURED TRUST I 2007-1 ASSET-BACKED CERTIFICATES, 2007-1</td>
+                                    <td>RALPH JACKMAN, DECEASEDM HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL.</td>
+                                    <td>140 ISABELLA AVE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855281" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004120</td>
+                                    <td>11/10/2026</td>
+                                    <td>ROYAL PACIFIC FUNDING CORPORATION</td>
+                                    <td>FELISA RODRIGUEZ, ET. AL.</td>
+                                    <td>219 POMONA AVE NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855282" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004130</td>
+                                    <td>11/10/2026</td>
+                                    <td>AMERIHOME MORTGAGE COMPANY, LLC</td>
+                                    <td>CHRISTOPHER POLLINS; ET. AL.</td>
+                                    <td>101 COLUMBIA AVE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855283" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004132</td>
+                                    <td>11/10/2026</td>
+                                    <td>THE BANK OF NEW YORK MELLON TRUST COMPANY NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A. AS SUCCESSOR TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC., MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-RP2</td>
+                                    <td>MERYSOL REYES; ET AL.</td>
+                                    <td>507-509 HIGHLAND AVENUE NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855284" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004135</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION, AS SUCCESSOR TRUSTEE TO BANK OF AMERICA, N.A. AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE MLMI TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-HE3</td>
+                                    <td>SHAHIDA A. MITCHELL, ET. AL.</td>
+                                    <td>50 MAPES AVE NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855285" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004139</td>
+                                    <td>11/10/2026</td>
+                                    <td>M &amp; T BANK</td>
+                                    <td>KATRICIA OCCIDOR; ET AL.</td>
+                                    <td>447 S. 17TH STREET NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855286" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004147</td>
+                                    <td>11/10/2026</td>
+                                    <td>TD BANK N.A. F/K/A TD BANKNORTH, N.A., SUCCESSOR BY MERGER TO HUDSON UNITED BANK</td>
+                                    <td>MARIE TUTELA; ET. AL.</td>
+                                    <td>108 HOWARD PLACE NUTLEY NJ 07110</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855287" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004149</td>
+                                    <td>11/10/2026</td>
+                                    <td>TRENTON OPPORTUNITY 10, LLC</td>
+                                    <td>HELLANE T. FREEMAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF ROSEMARY FREEMAN, DECEASED; ET AL.</td>
+                                    <td>601-603 4TH STREET NEWARK NJ 07107</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855288" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004151</td>
+                                    <td>11/10/2026</td>
+                                    <td>H&amp;B PARTNERS, INC., A CORPORATION</td>
+                                    <td>391 LAKESIDE AVE LLC, A NEW JERSEY LIMITED LIABILITY COMPANY; ET. AL.</td>
+                                    <td>391 LAKESIDE AVE ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855289" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004152</td>
+                                    <td>11/10/2026</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>TIFFANY TURNER; ET AL.</td>
+                                    <td>85 MADISON AVE NEWARK NJ 07108</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855290" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004154</td>
+                                    <td>11/10/2026</td>
+                                    <td>PLANET HOME LENDING, LLC</td>
+                                    <td>DIANE PATRIZIO A/K/A DIANCE C. PATRIZIO; ET AL.</td>
+                                    <td>33 BEVERLY ROAD WEST CALDWELL NJ 07006</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855291" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004156</td>
+                                    <td>11/10/2026</td>
+                                    <td>ATHENE ANNUITY AND LIFE COMPANY</td>
+                                    <td>NEWARK REALTY PLUS, LLC</td>
+                                    <td>73 BOYLAN STREET NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855292" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004173</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION SASCO MORTGAGE LOAN TRUST 2002-12 MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2002-12</td>
+                                    <td>JESSICA WEBB; ET. ALS.</td>
+                                    <td>447 NORTH MAPLE AVE EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855293" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004178</td>
+                                    <td>11/10/2026</td>
+                                    <td>RUBEN den BOER, AND VICTOR POOL AND VICETONE LIVE LLC</td>
+                                    <td>SM ADVISORS LLC</td>
+                                    <td>15 PATTON PL MONTCLAIR NJ 07043</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855294" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004182</td>
+                                    <td>11/10/2026</td>
+                                    <td>NEWREZ, LLC</td>
+                                    <td>SHARDE S. CRITCHLOW; ET. AL.</td>
+                                    <td>39 JACOB ST NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855295" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004185</td>
+                                    <td>11/10/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR IBIS HOLDINGS A TRUST</td>
+                                    <td>SUCCEEDED LLC; ET. ALS.</td>
+                                    <td>109 SOUTH 12TH ST NEWARK NJ 07107</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855296" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004187</td>
+                                    <td>11/10/2026</td>
+                                    <td>M&amp;T BANK</td>
+                                    <td>DANA SCHWARTZ; ET. AL.</td>
+                                    <td>7 OAKLAND RD MAPLEWOOD NJ 07040</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855297" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004189</td>
+                                    <td>11/10/2026</td>
+                                    <td>CHAMPS TRUST 2025-1</td>
+                                    <td>ASSIBEY BLAKE</td>
+                                    <td>50 RIDGEHURST RD WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855298" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004202</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-3</td>
+                                    <td>135-137 SUMMER LLC; ET. ALS.</td>
+                                    <td>137 SUMMER ST A/K/A 135-137 SUMMER ST ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855299" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004212</td>
+                                    <td>11/10/2026</td>
+                                    <td>WELLS FARGO BANK, N.A.</td>
+                                    <td>BETTY J. SMITH A/K/A BETTY SMITH; ET. AL.</td>
+                                    <td>63 SOUTH ORANGE AVE NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855300" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004214</td>
+                                    <td>11/10/2026</td>
+                                    <td>NATIONSTAR MORTGAGE LLC</td>
+                                    <td>151 NEW YORK AVE LLC; ET. ALS.</td>
+                                    <td>151 NEW YORK AVE NEWARK NJ 07105</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855301" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004215</td>
+                                    <td>11/10/2026</td>
+                                    <td>DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR FIRST FRANKLIN MORTGAGE LOAN TRUST 2006-FF11, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-FF11,</td>
+                                    <td>LIZETTE DOTHARD; ET. AL</td>
+                                    <td>46 MAPLE STREET WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855302" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004243</td>
+                                    <td>11/10/2026</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>TERENCE JOHNSON; ET. AL.</td>
+                                    <td>96 MADONNA PL EAST ORANGE NJ 07018</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855303" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004245</td>
+                                    <td>11/10/2026</td>
+                                    <td>HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES MORTGAGE LOAN TRUST, SERIES 2007-1</td>
+                                    <td>LORNA A. WOODHAM INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF KATHLEEN WEDDERBURN; ET. AL</td>
+                                    <td>24 NORTH BURNETT STREET EAST ORANGE NJ 07017</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855304" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004249</td>
+                                    <td>11/10/2026</td>
+                                    <td>FREEDO MORTGAGE CORPORATION</td>
+                                    <td>DHANPAUL D. RAMDASS; ET. ALS.</td>
+                                    <td>78-80 HIGHLAND AVE NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855305" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004260</td>
+                                    <td>11/10/2026</td>
+                                    <td>MIDFIRST BANK</td>
+                                    <td>EUNICE LUKE; ET. AL</td>
+                                    <td>125-127 BERKSHIRE PLACE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855306" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004262</td>
+                                    <td>11/10/2026</td>
+                                    <td>WELLS FARGO BANK, N.A.</td>
+                                    <td>MICHELLE M. TRUFFIN, INDIVIDUAL AND AS EXECUTRIX OF THE ESTATE OF CARLOS TRUFFIN, ET. AL.</td>
+                                    <td>106 SUMMIT AVE BLOOMFIELD NJ 07003</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855307" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004268</td>
+                                    <td>11/10/2026</td>
+                                    <td>CARRINGTON MORTGAGE SERVICES, LLC</td>
+                                    <td>ROBERT JAMES GRAHAM; ET. AL.</td>
+                                    <td>194 NORTH 11TH ST NEWARK NJ 07107</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855308" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004270</td>
+                                    <td>11/10/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST</td>
+                                    <td>JOSE GARGANTA A/K/A JOSE F. GARGANTA; ET. AL</td>
+                                    <td>32 OAK DRIVE ROSELAND NJ 07068</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855309" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004276</td>
+                                    <td>11/10/2026</td>
+                                    <td>THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK AS TRUSTEE FOR REGISTERED HOLDERS OF CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2007-12,</td>
+                                    <td>HAMP LEE WILLIAMSON, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT TITLE AND INTEREST; ET. AL</td>
+                                    <td>142 SOUTH DURAND PLACE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855310" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004278</td>
+                                    <td>11/10/2026</td>
+                                    <td>CSMC 2021-RPL5 TRUST</td>
+                                    <td>ROSALYN D. WILLIAMS; ET. AL</td>
+                                    <td>22-24 WEST END AVENUE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855311" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004282</td>
+                                    <td>11/10/2026</td>
+                                    <td>ELIZON MASTER PARTICIPATION TRUST I, U.S. BANK TRUST NATIONAL ASSOCIATION, AS OWNER TRUSTEE,</td>
+                                    <td>53 RIDGE ROAD, LLC, ET. AL</td>
+                                    <td>53 RIDGE ROAD WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855312" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004286</td>
+                                    <td>11/10/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST X-C</td>
+                                    <td>DWIGHT DELAPENHA; ET. AL.</td>
+                                    <td>47 HIGHWOOD RD WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855314" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004298</td>
+                                    <td>11/10/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>ALICIA SILVER; ET. AL.</td>
+                                    <td>12 NOTTINGHAM RD WEST ORANGE NJ 07052</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855315" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004299</td>
+                                    <td>11/10/2026</td>
+                                    <td>MIDFIRST BANK</td>
+                                    <td>DIANE BROWN-STITH, ET. AL.</td>
+                                    <td>167 RICHELIEU TERRACE A/K/A 165-169 RICHELIEU TERRACE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855316" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004300</td>
+                                    <td>11/10/2026</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>MICHAEL A. GOINS; ET. ALS.</td>
+                                    <td>863 SOUTH 18TH ST NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855009" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25003343</td>
+                                    <td>11/17/2026</td>
+                                    <td>NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY</td>
+                                    <td>VICTOIRE JEAN-CHARLES, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; ET. ALS.</td>
+                                    <td>290-292 17TH AVE NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854980" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-24004965</td>
+                                    <td>11/19/2026</td>
+                                    <td>CARRINGTON MORTGAGE SERVICES, LLC</td>
+                                    <td>ANGEL GAUD; ET. AL.</td>
+                                    <td>89 UNION AVE BELLEVILLE NJ 07109</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855030" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25004451</td>
+                                    <td>12/1/2026</td>
+                                    <td>RTL REO LLC,</td>
+                                    <td>NEWARK REALTY PLUS, LLC, ET. AL</td>
+                                    <td>70 CHELSEA AVENUE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855317" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004340</td>
+                                    <td>12/1/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE FOR IGLOO SERIES IV TRUST</td>
+                                    <td>MICHAEL M. TALLARIDA; ET. AL.</td>
+                                    <td>101 BROOKLINE AVE NUTLEY NJ 07110</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855318" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004341</td>
+                                    <td>12/1/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB.</td>
+                                    <td>1221 BLOOMFILED LLC; ET. AL.</td>
+                                    <td>1221 BLOOMFIELD AVE FAIRFIELD NJ 07004</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855319" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004346</td>
+                                    <td>12/1/2026</td>
+                                    <td>MIDFIRST BANK</td>
+                                    <td>DAVON POLEDORE</td>
+                                    <td>102 SOUTH 11TH ST NEWARK NJ 07107</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855320" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004358</td>
+                                    <td>12/1/2026</td>
+                                    <td>U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST</td>
+                                    <td>FERNANDO SOLARES; ET. ALS.</td>
+                                    <td>357-359 WOODSIDE AVE NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855321" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004361</td>
+                                    <td>12/1/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>TAIKISHA CHARMAIN BAKER; ET. AL.</td>
+                                    <td>185 OAKWOOD PL ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855322" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004386</td>
+                                    <td>12/1/2026</td>
+                                    <td>CITIBANK, N.A., NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS DELAWARE TRUSTEE OF J.P. MORGAN TRUST 2025-VIS3</td>
+                                    <td>44 LENTZ AVE LLC; ET AL.</td>
+                                    <td>44-46 LENTZ AVENUE NEWARK NJ 07105</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855323" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26004394</td>
+                                    <td>12/1/2026</td>
+                                    <td>PACIFIC ASSET HOLDINGS, LLC</td>
+                                    <td>KARKA SUMMER LLC; ET AL.</td>
+                                    <td>118 SUMMER AVENUE NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854982" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000864</td>
+                                    <td>12/2/2026</td>
+                                    <td>AJAX MORTGAGE LOAN TRUST 2021-B, BY U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE</td>
+                                    <td>JOHNNY JOHNSON, ET. AL</td>
+                                    <td>153 RIDGEWOOD NEWARK NJ 07108</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186854983" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-25000881</td>
+                                    <td>12/8/2026</td>
+                                    <td>ATHENE ANNUITY AND LIFE COMPANY</td>
+                                    <td>NEWARK REALTY PLUS LLC, ET. AL</td>
+                                    <td>64 CUTLER STREET NEWARK NJ 07104</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855157" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002518</td>
+                                    <td>12/8/2026</td>
+                                    <td>NORTHPOINTE BANK</td>
+                                    <td>TATIANA DOUYON, ET. AL</td>
+                                    <td>120-122 FABYAN PLACE NEWARK NJ 07112</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855180" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002992</td>
+                                    <td>12/8/2026</td>
+                                    <td>WELLS FARGO BANK, NATIONAL ASSOCIATION, SUCCESSOR BY MERGER TO WELLS FARGO BANK, MINNESOTA, NATIONAL ASSOCIATION, AS TRUSTEE FOR REPERFORMING LOAN REMIC TRUST CERTIFICATES, SERIES 2002-2</td>
+                                    <td>JOSE A. PUNO; ET. ALS.</td>
+                                    <td>95 BELLEVILLE AVE BLOOMFIELD NJ 07003</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855094" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001536</td>
+                                    <td>12/15/2026</td>
+                                    <td>BANK OF AMERICA, N.A.</td>
+                                    <td>WILLIAM E. YOUNG AKA WILLIAM EDWARD YOUNG, ET. AL</td>
+                                    <td>312 STUYVESANT AVENUE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855110" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26001834</td>
+                                    <td>12/15/2026</td>
+                                    <td>REVERSE MORTGAGE FUNDING, LLC</td>
+                                    <td>JOANN PHILLIPS</td>
+                                    <td>482 LINCOLN AVE ORANGE NJ 07050</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855173" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26002813</td>
+                                    <td>12/15/2026</td>
+                                    <td>FREEDOM MORTGAGE CORPORATION</td>
+                                    <td>CHARLES T. WESTPHAL A/K/A CHARLES WESTPHAL; ET. ALS.</td>
+                                    <td>6 BROOKLAWN RD MONTCLAIR NJ 07042</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855224" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003499</td>
+                                    <td>12/15/2026</td>
+                                    <td>METROPOLITAN TOWER LIFE INSURANCE COMPANY</td>
+                                    <td>CMWJ, LLC</td>
+                                    <td>196 FAIRMOUNT AVE NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855226" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003516</td>
+                                    <td>12/15/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>BRIAN NELSON; ET. ALS.</td>
+                                    <td>420 DEWITT AVE BELLEVILLE NJ 07109</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855227" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003518</td>
+                                    <td>12/15/2026</td>
+                                    <td>HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES, INC. MORTGAGE LOAN TRUST, SERIES 2007-AR3, MORTGAGE PASS-THROUGH CERTIFICATES</td>
+                                    <td>DAMON WEEKS A/K/A DAMON J. WEEKS; ET. AL</td>
+                                    <td>295 CENTRAL AVE NEWARK NJ 07103</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855231" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003618</td>
+                                    <td>12/15/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, AS OWNER TRUSTEE ON BEHALF FOR CSMC 2018-RPL 12 TRUST</td>
+                                    <td>MARY LOU DEMEDICI; ET. AL.</td>
+                                    <td>185 WEST PASSAIC AVE BLOOMFIELD NJ 07003</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855234" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003639</td>
+                                    <td>12/15/2026</td>
+                                    <td>BANK OF AMERICA, N.A.</td>
+                                    <td>ASHLEY MARIE LUCAS A/K/A ASHLEY LUCAS; ET. AL.</td>
+                                    <td>45-47 COLUMBIA AVE NEWARK NJ 07106</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855236" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003654</td>
+                                    <td>12/15/2026</td>
+                                    <td>LAKEVIEW LOAN SERVICING, LLC</td>
+                                    <td>GABRIEL ADJEI; ET. ALS.</td>
+                                    <td>306 ISABELLA AVE IRVINGTON NJ 07111</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855240" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003787</td>
+                                    <td>12/15/2026</td>
+                                    <td>FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2021-1</td>
+                                    <td>STEPHEN B. FRIEDMAN; ET. ALS.</td>
+                                    <td>59 ANNIN RD West Caldwell NJ 07006</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855244" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003883</td>
+                                    <td>12/15/2026</td>
+                                    <td>WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR IBIS HOLDINGS A TRUST</td>
+                                    <td>126 HOLDINGS LLC; ET AL.</td>
+                                    <td>126 SOUTH 7TH STREET NEWARK NJ 07107</td>
+            </tr>
+            <tr>
+                    <td class="hidden-print"><a href="/Sales/SaleDetails?PropertyId=2186855247" style="color: #255783;">View Details</a></td>
+
+                                    <td>F-26003890</td>
+                                    <td>12/15/2026</td>
+                                    <td>MIDFIRST BANK</td>
+                                    <td>RIGOBERTO LEMUS; ET AL.</td>
+                                    <td>5 MCKINLEY AVENUE WEST ORANGE NJ 07052</td>
+            </tr>
+        </table>
+
+    </div>
+
+</form>
+<div class="container-fluid footer">
+</div>
+</main>
+    </div>
+
+    <script src="/Scripts/bootstrap.min.js"></script>
+<script src="/Scripts/respond.js"></script>
+
+    
+</body>
+</html>

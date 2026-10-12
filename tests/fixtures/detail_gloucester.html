@@ -1,0 +1,343 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <title>Sales Listing Detail</title>
+
+    <link href="/Content/bootstrap.min.css" rel="stylesheet"/>
+<link href="/Content/site.css" rel="stylesheet"/>
+
+
+<link href="/Content/County/00845.css" rel="stylesheet"/>
+
+
+    <script src="/Scripts/jquery-1.10.2.js"></script>
+
+
+    <script src="/Scripts/modernizr-2.6.2.js"></script>
+
+</head>
+<body>
+    
+    <div>
+        
+
+<script>
+    window.onload = function () {
+        var elem1 = document.getElementById("shortTable");
+        if (elem1 != null) {
+            var elem = document.getElementById("longTable");
+            elem.style.display = "none";
+            var elemCollapse = document.getElementById("collapse");
+            elemCollapse.style.display = "none";
+
+        }
+        else {
+            var elemCollapse = document.getElementById("collapse");
+            elemCollapse.style.display = "none";
+
+            var elemExpand = document.getElementById("expand");
+            elemExpand.style.display = "none";
+        }
+    }
+    function toggleTable() {
+        var elem = document.getElementById("longTable");
+        var elem1 = document.getElementById("shortTable");
+        var hide = elem.style.display == "none";
+        if (hide) {
+            elem.style.display = "table";
+            elem1.style.display = "none";
+
+            var elemCollapse = document.getElementById("collapse");
+            elemCollapse.style.display = "table";
+
+            var elemExpand = document.getElementById("expand");
+            elemExpand.style.display = "none";
+        }
+        else {
+            elem.style.display = "none";
+            elem1.style.display = "table";
+            var elemCollapse = document.getElementById("collapse");
+            elemCollapse.style.display = "none";
+
+            var elemExpand = document.getElementById("expand");
+            elemExpand.style.display = "table";
+        }
+    }
+    function openTab(url) {
+        window.open(url, "_blank");
+    }
+    function handleKeyDown(event, callback) {
+        if (event.key === 'Enter') {
+            callback();
+        }
+    }
+</script>
+<style>
+    .sale-detail-item:last-child {
+        border-bottom: 1px solid #ccc;
+    }
+    .sale-detail-item:nth-child(odd) {
+            background-color: #f9f9f9;
+        }
+    .sale-detail-item{
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        padding: 10px;
+        border-top: 1px solid #ccc;
+    }
+    .sale-detail-label{
+        font-weight: bold;
+        width: 200px;
+    }
+</style>
+<main>
+    <div class="container-fluid">
+
+    </div>
+
+    <div class="container">
+
+        <h1>Sales Listing Detail (Gloucester County, NJ)</h1>
+
+        
+
+        <div class="row">
+            <p class="text-center"><a href="javascript:history.go(-1)" class="btn btn-primary" role="button">Back</a></p>
+        </div>
+
+        <br />
+
+        <div class="table-responsive">
+
+            <div class="sale-details-list">
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Sheriff #&colon;</div>
+                        <div class="sale-detail-value">
+F-26000352                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Court Case #&colon;</div>
+                        <div class="sale-detail-value">
+F-003842-24                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Sales Date&colon;</div>
+                        <div class="sale-detail-value">
+10/14/2026                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Plaintiff&colon;</div>
+                        <div class="sale-detail-value">
+FIRST NATIONAL BANK OF AMERICA                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Defendant&colon;</div>
+                        <div class="sale-detail-value">
+CHRISTOPHER STONEY & LUCILLA HERNANDEZ, ET ALS                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Address&colon;</div>
+                        <div class="sale-detail-value">
+120 WILLIAMS AVENUE<br/>DEPTFORD NJ 08096                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Description&colon;</div>
+                        <div class="sale-detail-value">
+PUBLIC NOTICE <br>
+SHERIFF’S SALE <br>
+SUPERIOR COURT OF NEW JERSEY <br>
+CHANCERY DIVISION, <br>
+GLOUCESTER COUNTY <br>
+DOCKET NO.: F-003842-24 <br>
+SHERIFF’S NO.: 26000352 <br>
+ 
+Plaintiff:	
+FIRST NATIONAL BANK OF AMERICA <br>
+
+Vs <br>
+
+Defendant:  
+CHRISTOPHER STONEY & LUCILLA HERNANDEZ, ET ALS <br>
+
+By virtue of the above stated Writ of Execution to me directed and delivered, issued out of the above stated Court, will be exposed for sale at Public Venue, on Wednesday, October 14, 2026, to-wit, at 2 o’clock in the afternoon prevailing time, at 1 N. Broad Street, Ceremonial Courtroom 201 in the City of Woodbury, County of Gloucester and State of New Jersey, all the following described real estate, that is to say: <br>
+
+Property being known as: 120 WILLIAMS AVENUE DEPTFORD, NJ 08096 and LOT: 8 BLOCK: 187 <br>
+
+ALL THAT CERTAIN LOT, PIECE OR PARCEL OF LAND, WITH THE BUILDING AND IMPROVEMENTS THEREON ERECTED, SITUATE, LYING AND BEING IN THE TOWNSHIP OF DEPTFORD, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY <br>
+
+ACREAGE: 0.34 ACRE LOT <br>
+
+NEAREST CROSS STREET: KOHLER AVENUE <br>
+
+ESTIMATED UPSET PRICE: $244,857.24 <br>
+
+OCCUPANCY STATUS: OWNER OCCUPIED <br>
+
+THERE IS DUE AND OWING OUTSTANDING REAL ESTATE TAXES; WATER & SEWER LIENS; AND MUNICIPAL LIENS IMPOSED UPON THE PROPERTY <br>
+
+NOT SUBJECT TO AFFORDABLE HOUSING RESTRICTIONS <br>
+
+AS THE ABOVE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION, SAID FULL LEGAL DESCRIPTION IS ANNEXED TO THAT CERTAIN MORTGAGE RECORDED IN THE OFFICE OF THE CLERK OF GLOUCESTER COUNTY AT MORTGAGE BOOK 17266 AT PAGE 26 ET SEQ., AND THE WRIT OF EXECUTION ON FILE WITH THE SHERIFF OF GLOUCESTER COUNTY. <br>
+
+The Sheriff hereby reserves the right to adjourn the sale without further notice through publication.
+The approximate amount of the Judgment sought to be satisfied by said sale is $228,896.26 <br>
+
+The purchaser must pay 20% of the purchase price in cash, certified check, cashier’s check, or treasurer’s check, balance to be paid within 30 days. <br>
+A deed to be delivered to the purchaser within 30 days from the date of sale, with lawful interest on the balance due, from the 11th day after sale, until the balance is paid. <br>
+Any eligible defendant/party interested in purchasing this property through the NJ Community Wealth Preservation Program set forth in NJ A5664 can find more information on our website at https://www.gloucestercountynj.gov/564/Foreclosure-Procedures. <br>
+Sales will begin promptly at 2:00pm. Please arrive shortly before this time to check in if you plan on bidding. <br>
+SURPLUS MONEY: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any persons claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person’s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. <br>
+Seized as the property of the Defendant, and taken in execution at the suit of the Plaintiff, and to be sold by <br>
+Carmel M. Morina, <br>
+Gloucester County Sheriff <br>
+
+Advertised online at: https://salesweb.civilview.com/Sales/SalesSearch?countyId=19 <br>
+Date:August 20, 2026 <br>
+Firm: THE KANCHER LAW FIRM, L.L.C. <br>
+Judgement Date: 12/26/2025 <br>                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Attorney&colon;</div>
+                        <div class="sale-detail-value">
+THE KANCHER LAW FIRM, L.L.C.                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Approximate Judgment&colon;</div>
+                        <div class="sale-detail-value">
+$233,375.52                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Parcel #&colon;</div>
+                        <div class="sale-detail-value">
+LOT: 8 BLOCK: 187                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Property Note&colon;</div>
+                        <div class="sale-detail-value">
+                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+            </div>
+
+
+            <br />
+
+            <h2>
+                Status History
+
+
+            </h2>
+
+
+            <table class="table table-striped " id="longTable" style="display:table">
+                <thead style="word-wrap: break-word;">
+                    <tr>
+                        <th>Status </th>
+                        <th>Date  </th>
+                                                <th id="collapse">
+                            <a href="javascript:;" class="margin-left-18" onclick="toggleTable();" onkeydown="handleKeyDown(event, toggleTable);">
+                                <div class="col-sm-1 control-label text-nowrap" id="collapseLabel">[Collapse All]</div>
+                                <br />
+                                <span class="glyphicon glyphicon-chevron-up" id="collapseArrow"></span>
+                            </a>
+                        </th>
+
+                    </tr>
+                </thead>
+
+                    <tr>
+
+                        <td>Scheduled</td>
+
+                            <td>5/13/2026</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Defendant Adjourned to</td>
+
+                            <td>6/10/2026</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Defendant Adjourned to</td>
+
+                            <td>7/8/2026</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Bankruptcy Hold</td>
+
+                            <td>7/8/2026</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Scheduled</td>
+
+                            <td>10/14/2026</td>
+
+
+
+
+                    </tr>
+            </table>
+
+
+        </div>
+        
+
+            <h3><span style="color:#595959; font-size: small;"> *Excludes Judgment Interest and Sheriff Fees. </span></h3>
+
+    </div>
+</main>
+
+    </div>
+
+    <script src="/Scripts/bootstrap.min.js"></script>
+<script src="/Scripts/respond.js"></script>
+
+    
+</body>
+</html>

@@ -1,0 +1,375 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <title>Sales Listing Detail</title>
+
+    <link href="/Content/bootstrap.min.css" rel="stylesheet"/>
+<link href="/Content/site.css" rel="stylesheet"/>
+
+
+<link href="/Content/County/00875.css" rel="stylesheet"/>
+
+
+    <script src="/Scripts/jquery-1.10.2.js"></script>
+
+
+    <script src="/Scripts/modernizr-2.6.2.js"></script>
+
+</head>
+<body>
+    
+    <div>
+        
+
+<script>
+    window.onload = function () {
+        var elem1 = document.getElementById("shortTable");
+        if (elem1 != null) {
+            var elem = document.getElementById("longTable");
+            elem.style.display = "none";
+            var elemCollapse = document.getElementById("collapse");
+            elemCollapse.style.display = "none";
+
+        }
+        else {
+            var elemCollapse = document.getElementById("collapse");
+            elemCollapse.style.display = "none";
+
+            var elemExpand = document.getElementById("expand");
+            elemExpand.style.display = "none";
+        }
+    }
+    function toggleTable() {
+        var elem = document.getElementById("longTable");
+        var elem1 = document.getElementById("shortTable");
+        var hide = elem.style.display == "none";
+        if (hide) {
+            elem.style.display = "table";
+            elem1.style.display = "none";
+
+            var elemCollapse = document.getElementById("collapse");
+            elemCollapse.style.display = "table";
+
+            var elemExpand = document.getElementById("expand");
+            elemExpand.style.display = "none";
+        }
+        else {
+            elem.style.display = "none";
+            elem1.style.display = "table";
+            var elemCollapse = document.getElementById("collapse");
+            elemCollapse.style.display = "none";
+
+            var elemExpand = document.getElementById("expand");
+            elemExpand.style.display = "table";
+        }
+    }
+    function openTab(url) {
+        window.open(url, "_blank");
+    }
+    function handleKeyDown(event, callback) {
+        if (event.key === 'Enter') {
+            callback();
+        }
+    }
+</script>
+<style>
+    .sale-detail-item:last-child {
+        border-bottom: 1px solid #ccc;
+    }
+    .sale-detail-item:nth-child(odd) {
+            background-color: #f9f9f9;
+        }
+    .sale-detail-item{
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        padding: 10px;
+        border-top: 1px solid #ccc;
+    }
+    .sale-detail-label{
+        font-weight: bold;
+        width: 200px;
+    }
+</style>
+<main>
+    <div class="container-fluid">
+
+    </div>
+
+    <div class="container">
+
+        <h1>Sales Listing Detail (Cape May County, NJ)</h1>
+
+        
+
+        <div class="row">
+            <p class="text-center"><a href="javascript:history.go(-1)" class="btn btn-primary" role="button">Back</a></p>
+        </div>
+
+        <br />
+
+        <div class="table-responsive">
+
+            <div class="sale-details-list">
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Sheriff #&colon;</div>
+                        <div class="sale-detail-value">
+F-25000225                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Court Case #&colon;</div>
+                        <div class="sale-detail-value">
+F-005149-24                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Sale Date&colon;</div>
+                        <div class="sale-detail-value">
+10/14/2026                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Plaintiff&colon;</div>
+                        <div class="sale-detail-value">
+FEDERAL HOME LOAN MORTGAGE CORPORATION as TRUSTEE FOR THE BENEFIT OF THE SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2018-2                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Defendant&colon;</div>
+                        <div class="sale-detail-value">
+SOPHIA ALBRECHT, ET AL.                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Property Address&colon;</div>
+                        <div class="sale-detail-value">
+                                <a href=https://www.google.com/maps/search/427+SOUTH+DENNIS+Road+Cape+May+Court+House+NJ+08210 target="_blank">427 SOUTH DENNIS Road<br/>Cape May Court House NJ 08210</a>
+                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Description&colon;</div>
+                        <div class="sale-detail-value">
+SUPERIOR COURT OF NEW JERSEY 
+CAPE MAY COUNTY SUPERIOR COURT 
+SHERIFF'S SALE NO. 25000225 
+DOCKET NO.   F-005149-24 
+
+PLAINTIFF – FEDERAL HOME LOAN MORTGAGE CORPORATION as TRUSTEE FOR THE BENEFIT OF THE SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2018-2 
+
+DEFENDANTS- SOPHIA ALBRECHT, ET AL. 
+
+By virtue of the above stated Writ of Execution to me directed and delivered I will expose for sale at public venue on
+
+Wednesday THE 14th DAY OF October 2026 
+
+At 1:00 o'clock in the afternoon at the old Courthouse building located at 9 N Main Street (Route 9), in Cape May Court House, New Jersey to wit:
+All that tract or parcel of land, situate, lying and being in the TOWNSHIP OF MIDDLE of Cape May Court House, County of Cape May and State of New Jersey: 
+Being known as: TAX LOT: 18, 19 AND 20 TAX BLOCK: 95.03 f/k/a 95.04
+Approx. Dimensions: 3.30AC. Tract 1: 708.36’ x 117.41’ x 239.25’ x 651.38’ x 693.08’. Tract 2: 300.00’ x 37.00’ x 300.00’ x 37.00’
+Nearest Cross Street: Swainton Goshen Road
+Plaintiff’s Upset Bid Presently Approx. $557,500.00
+OCCUPANCY STATUS IS UNKNOWN 
+ 
+
+PREMISES COMMONLY KNOWN AS: 
+427 SOUTH DENNIS Road Cape May Court House, (Middle Township), NJ 08210 a/k/a 427 Court House South Dennis Road, Cape May Court House, (Middle Township) NJ 08210 a/k/a 417 South Dennis Road, Cape May Court House, (Middle Township), NJ 08210 
+
+A more complete metes and bounds description can be found in the Office of the Cape May County Sheriff. 
+Lien(s)/Taxes:   
+
+Note: The street address is merely given as a convenience to the bidders and is not a representation of fact on the part of the sheriff. The diagram or concise description does not constitute a full legal description of the premises, but it can be found in the Cape May County Sheriff Office. 
+Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon. 
+If the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee and the Mortgagee’s attorney. 
+Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. 
+The approximate amount due on this execution is $476,896.76 plus interest, cost, printers’ fees, Sheriff's fees and commission. The prior liens, as per affidavit of consideration are not a representation of fact on the part of the Sheriff. 
+ 
+
+Robert A. Nolan, SHERIFF  
+DATED: July 16, 2026 
+Pluese, Becker, Saltzman & Thomas, LLC
+20000 Horizon Way, Suite 900
+Mt. Laurel, NJ 08054 
+856-813-1700                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Approx. Judgment*&colon;</div>
+                        <div class="sale-detail-value">
+$483,100.51                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Minimum Bid&colon;</div>
+                        <div class="sale-detail-value">
+$557,500.00                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Attorney&colon;</div>
+                        <div class="sale-detail-value">
+Pluese, Becker, Saltzman & Thomas, LLC                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Attorney Phone&colon;</div>
+                        <div class="sale-detail-value">
+856-813-1700                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Attorney File #&colon;</div>
+                        <div class="sale-detail-value">
+                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Parcel #&colon;</div>
+                        <div class="sale-detail-value">
+TAX LOT: 18, 19 AND 20 TAX BLOCK: 95.03 f/k/a 95.04                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+                    <div class="sale-detail-item">
+                        <div class="sale-detail-label">Property Note&colon;</div>
+                        <div class="sale-detail-value">
+                        </div>
+                        <div class="sale-detail-image DetailImageAlign">
+                        </div>
+                    </div>
+            </div>
+
+
+            <br />
+
+            <h2>
+                Status History
+
+                    <span style="color: #595959; font-size: large;">(Current Status:Scheduled - 10/14/2026)</span>
+
+            </h2>
+
+
+            <table class="table table-striped " id="longTable" style="display:table">
+                <thead style="word-wrap: break-word;">
+                    <tr>
+                        <th>Status </th>
+                        <th>Date  </th>
+                                                <th id="collapse">
+                            <a href="javascript:;" class="margin-left-18" onclick="toggleTable();" onkeydown="handleKeyDown(event, toggleTable);">
+                                <div class="col-sm-1 control-label text-nowrap" id="collapseLabel">[Collapse All]</div>
+                                <br />
+                                <span class="glyphicon glyphicon-chevron-up" id="collapseArrow"></span>
+                            </a>
+                        </th>
+
+                    </tr>
+                </thead>
+
+                    <tr>
+
+                        <td>Scheduled</td>
+
+                            <td>10/14/2026</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Bankruptcy Hold</td>
+
+                            <td>4/1/2026</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Adjourned - Defendant</td>
+
+                            <td>4/1/2026</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Adjourned - Defendant</td>
+
+                            <td>3/4/2026</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Scheduled</td>
+
+                            <td>2/4/2026</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Bankruptcy Hold</td>
+
+                            <td>9/17/2025</td>
+
+
+
+
+                    </tr>
+                    <tr>
+
+                        <td>Scheduled</td>
+
+                            <td>9/17/2025</td>
+
+
+
+
+                    </tr>
+            </table>
+
+
+        </div>
+        
+
+            <h3><span style="color:#595959; font-size: small;"> *Excludes Judgment Interest and Sheriff Fees. </span></h3>
+
+    </div>
+</main>
+
+    </div>
+
+    <script src="/Scripts/bootstrap.min.js"></script>
+<script src="/Scripts/respond.js"></script>
+
+    
+</body>
+</html>
