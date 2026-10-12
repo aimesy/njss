@@ -30,7 +30,9 @@ A sheriff's writ can cover several parcels, so the sheriff number alone is not u
 
 The collector reads each county's open listing and its sold and cancelled listing every day. It fetches a sale's detail page when the sale is new, when its listing row changes, or when it leaves the open list. Open sales are also rechecked weekly. A sale that drops off both lists keeps its last record, marked `on_open_list: false` with the date it left.
 
-CivilView's sold and cancelled listing returns only each county's 250 most recent sales, so history before the first run is limited to that window.
+How far back the sold and cancelled listing reaches depends on the county: on October 12, 2026 it returned 839 sales for Atlantic, 250 for Gloucester, and none for Burlington. History before the first run is limited to what each county kept there.
+
+CivilView also reassigns its internal PropertyId every time it reloads, which happened every several minutes on October 12, 2026. When a detail page fails, the collector reloads that county's listings for fresh IDs and tries again; the manifest counts these as `listing_reloads`.
 
 ## Local use
 
