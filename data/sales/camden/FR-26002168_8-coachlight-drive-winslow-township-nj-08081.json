@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00291026",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "ARLENE GAINES ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "BLOCK:1102.01 LOT: 8",
     "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
     "Property Note": "Township of Winslow holds a claim in the amount of $114.50 plus penalty for water; $110.00 for sewer as of 07/28/2026.\nCCMUA holds a claim in the amount of $372.00 plus penalty and $93.00 and $558.00 plus penalty as of 07/28/2026.\nPro Cap 8 FBO Firstrust Bank holds a tax sale certificate in the amount of $1,848.05 plus subsequent taxes and interest as of 07/28/2026.\nProperty Registration Free Exists - contact Code Enforcement at 609-567-0700 x 7002 for additional information.",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-26002168"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "ARLENE GAINES ET AL.",
     "listing_status": null,
     "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "BLOCK:1102.01 LOT: 8",
   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
   "property_note": "Township of Winslow holds a claim in the amount of $114.50 plus penalty for water; $110.00 for sewer as of 07/28/2026.\nCCMUA holds a claim in the amount of $372.00 plus penalty and $93.00 and $558.00 plus penalty as of 07/28/2026.\nPro Cap 8 FBO Firstrust Bank holds a tax sale certificate in the amount of $1,848.05 plus subsequent taxes and interest as of 07/28/2026.\nProperty Registration Free Exists - contact Code Enforcement at 609-567-0700 x 7002 for additional information.",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-26002168",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 232137.98,

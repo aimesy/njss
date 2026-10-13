@@ -30,11 +30,11 @@
   "listing": {
     "address": "1401 Route 35 Neptune NJ 07753",
     "defendant": "35 Brew, INC., New York Concourse, L.L.C., et. al.",
-    "listing_status": "Adjournment Defendant",
+    "listing_status": "Settled",
     "plaintiff": "100 Mile Northeast, LLC,",
     "sale_date": "2026-10-13"
   },
-  "listing_status": "Adjournment Defendant",
+  "listing_status": "Settled",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 2 Block 5606 Tax Map of Township of Neptune",
@@ -44,6 +44,10 @@
   "sheriff_number": "FOR-26001305",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-10-13",
+      "status": "Settled"
+    },
     {
       "date": "2026-10-13",
       "status": "Adjournment Defendant"

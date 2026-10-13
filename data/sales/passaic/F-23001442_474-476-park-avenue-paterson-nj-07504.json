@@ -21,7 +21,7 @@
     "Parcel #": "Tax Lot: 4 in Block: 8615",
     "Plaintiff": "HSI INVESTORS INC",
     "Property Note": "",
-    "Sales Date": "10/13/2026",
+    "Sales Date": "11/10/2026",
     "Sheriff #": "F-23001442"
   },
   "first_seen": "2026-10-12",
@@ -30,7 +30,7 @@
     "defendant": "WHAIRHOUSE INVESTMENTS LIMITED LIABILITY COMPANY",
     "listing_status": null,
     "plaintiff": "HSI INVESTORS INC",
-    "sale_date": "2026-10-13"
+    "sale_date": "2026-11-10"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -38,7 +38,7 @@
   "parcel": "Tax Lot: 4 in Block: 8615",
   "plaintiff": "HSI INVESTORS INC",
   "property_note": null,
-  "sale_date": "2026-10-13",
+  "sale_date": "2026-11-10",
   "sheriff_number": "F-23001442",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -72,6 +72,10 @@
     },
     {
       "date": "2026-10-13",
+      "status": "Adjourned - Sheriff"
+    },
+    {
+      "date": "2026-11-10",
       "status": "Adjourned - Sheriff"
     }
   ],

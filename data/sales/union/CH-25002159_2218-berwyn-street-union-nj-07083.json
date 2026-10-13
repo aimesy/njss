@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F01196723",
-  "current_status": "Bankuptcy",
+  "current_status": "Settled",
   "defendant": "JEANNE SPASSIONE A/K/A JEAN SPASSIONE A/K/A JEAN DOROTHY SPASSIONE; UNITED STATES OF AMERICA",
   "description": "LOT 4 BLOCK 4218",
   "extracted": {
@@ -21,7 +21,7 @@
     "Parcel #": "LOT 4 BLOCK 4218",
     "Plaintiff": "PHH MORTGAGE CORPORATION",
     "Property Note": "",
-    "Sales Date": "12/17/2025",
+    "Sales Date": "10/13/2026",
     "Sheriff #": "CH-25002159"
   },
   "first_seen": "2026-10-12",
@@ -30,15 +30,15 @@
     "defendant": "JEANNE SPASSIONE A/K/A JEAN SPASSIONE A/K/A JEAN DOROTHY SPASSIONE; UNITED STATES OF AMERICA",
     "listing_status": null,
     "plaintiff": "PHH MORTGAGE CORPORATION",
-    "sale_date": "2025-12-17"
+    "sale_date": "2026-10-13"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "LOT 4 BLOCK 4218",
   "plaintiff": "PHH MORTGAGE CORPORATION",
   "property_note": null,
-  "sale_date": "2025-12-17",
+  "sale_date": "2026-10-13",
   "sheriff_number": "CH-25002159",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
   "status_history": [
@@ -53,6 +53,10 @@
     {
       "date": "2025-12-17",
       "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Settled"
     }
   ],
   "upset_amount": 309612.14,

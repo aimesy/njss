@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00302226",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned Sheriff",
   "defendant": "DERRICK MAGWOOD, ET. AL.",
   "description": "LOT: 11 BLOCK: 114\nDIMENSIONS OF LOT: '124.37 X 33.44'\nNEAREST CROSS STREET: OAK AVENUE\nSUPERIOR INTERSET (IF ANY): ANY AND ALL EASEMENTS, COVENANTS, RESTRICTIONS AND RESERVATIONS OF RECORD; ANY SET OF FACTS WHICH AN ACCURATE SURVEY AND INSPECTIONS WOULD DISCLOSE; ALL UNPAID MUNICIPAL TAXES, ASSESSMENTS AND LIENS; ANY UNPAID ASSESSMENT AND ANY OUTSTANDING TAX SALE CERTIFICATE; RIGHTS OF ANY PARTY IN POSESSION/RIGHTS PROTECTED BY THE NJ ANTI-EVICITION ACT; ALL LOCAL, COUNTY, STATE AND FEDERAL ORDINANCES AND REGULATIONS; ANY CONDOMINIUM ASSOCIATION LIEN GRANTES PRIORITY BY N.J.S.A. 46:8B-21B; ANY OUTSTANDING CONDOMINIUM, PUD OR HOMEOWNER ASSOCIATION DUES OR FEES; RIGHTS OF THE UNITED STATES OF AMERICA, IF ANY; THE PROPERTY IS SOLD IN ITS \" AS IS\" CONDITION; PURCHASER SHALL BE RESPONSIBLE FOR SHERIFF'S COST, COMMISSION, DEED RECORDING FEES AND REALTY TRANSFER FEES.\nFIG 20, LLC FBO SEC PTY HOLDS A TAX SALE CERTIFICATE IN THE AMOUNT OF $639.44 AS OF 03/04/2025.\nFIG 25, LLC FBO SEC PTY HOLDS A TAX SALE CERTIFICATE IN THE AMOUNT OF $703.27 AS OF 03/09/2026.\nPLAINTIFF'S UPSET BID IS $558,600.00 IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION 12 OF P.L. 1995, c. 244 (C.2A:50-64) AS AMENDED.\nTHE PROPERTY IS REPORTED TO BE NON-OWNER OCCUPIED.\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN INSTRUMENT NUMBER 2021050600.",
   "extracted": {
@@ -23,7 +23,7 @@
     "Parcel #": "",
     "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
     "Property Note": "",
-    "Sales Date": "10/13/2026",
+    "Sales Date": "12/15/2026",
     "Sheriff #": "F-26003886"
   },
   "first_seen": "2026-10-12",
@@ -32,7 +32,7 @@
     "defendant": "DERRICK MAGWOOD, ET. AL.",
     "listing_status": null,
     "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
-    "sale_date": "2026-10-13"
+    "sale_date": "2026-12-15"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -40,13 +40,25 @@
   "parcel": null,
   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
   "property_note": null,
-  "sale_date": "2026-10-13",
+  "sale_date": "2026-12-15",
   "sheriff_number": "F-26003886",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
     {
       "date": "2026-10-13",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-12-08",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-12-15",
+      "status": "Adjourned Sheriff"
     }
   ],
   "upset_amount": 481778.25,

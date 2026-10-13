@@ -23,7 +23,7 @@
     "Parcel #": "Tax Lot(s): 1 Block: 11 Located on the tax map of the Borough of Keansburg",
     "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCF 2 Acquisition Trust",
     "Property Note": "",
-    "Sales Date": "10/13/2026",
+    "Sales Date": "12/7/2026",
     "Sheriff #": "FOR-25000414"
   },
   "first_seen": "2026-10-12",
@@ -32,20 +32,24 @@
   "listing": {
     "address": "20 Highland Avenue Keansburg NJ 07734",
     "defendant": "JD Property Brothers LLC; Domenick Mastrocola & James Renard",
-    "listing_status": "Scheduled",
+    "listing_status": "Court Ordered Defendant Adjournment",
     "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCF 2 Acquisition Trust",
-    "sale_date": "2026-10-13"
+    "sale_date": "2026-12-07"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Court Ordered Defendant Adjournment",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Tax Lot(s): 1 Block: 11 Located on the tax map of the Borough of Keansburg",
   "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCF 2 Acquisition Trust",
   "property_note": null,
-  "sale_date": "2026-10-13",
+  "sale_date": "2026-12-07",
   "sheriff_number": "FOR-25000414",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-12-07",
+      "status": "Court Ordered Defendant Adjournment"
+    },
     {
       "date": "2026-10-13",
       "status": "Scheduled"

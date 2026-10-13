@@ -25,7 +25,7 @@
     "Parcel #": "",
     "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2025-2,",
     "Property Note": "",
-    "Sales Date": "10/13/2026",
+    "Sales Date": "11/10/2026",
     "Sheriff #": "F-26001767"
   },
   "first_seen": "2026-10-12",
@@ -34,7 +34,7 @@
     "defendant": "HSE INC, ET. AL",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2025-2,",
-    "sale_date": "2026-10-13"
+    "sale_date": "2026-11-10"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -42,7 +42,7 @@
   "parcel": null,
   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2025-2,",
   "property_note": null,
-  "sale_date": "2026-10-13",
+  "sale_date": "2026-11-10",
   "sheriff_number": "F-26001767",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
@@ -64,6 +64,10 @@
     },
     {
       "date": "2026-10-13",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-11-10",
       "status": "Adjourned Plaintiff"
     }
   ],

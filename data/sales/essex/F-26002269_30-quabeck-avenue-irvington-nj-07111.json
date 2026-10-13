@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00044426",
-  "current_status": "Adjourned Defendant",
+  "current_status": "Bankruptcy",
   "defendant": "30 QUABECK AVENUE LLC, ET. AL",
   "description": "SUPERIOR COURT OF NEW JERSEY\nSuperior Court\nSHERIFF'S SALE NO. 26002269\nDOCKET NO. F00044426\nPLAINTIFF – WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2022-2,\nDEFENDANTS- 30 QUABECK AVENUE LLC, ET. AL\nWrit of Execution.\nBy virtue of the above stated Writ of Execution to me directed and delivered I will expose for sale at public vendue on\nTuesday THE 21st DAY OF July 2026\nbetween the hours of 1:30 pm and 5:00 pm in the afternoon of said day, that is to say at 1:30 P.M. the prevailing time at The Leroy F. Smith Building, 60 West Market Street, 14th Floor, Newark, NJ 07102 to wit:\nAll that tract or parcel of land, situate, lying and being in the of IRVINGTON, County of Essex County and State of New Jersey:\nBeing known as:\nTAX LOT(S): 12, IN BLOCK: 246\nDIMENSIONS (APPROX.): 24*100\nNEAREST CROSS STREET: WOLF PL.\nIMPORTANT:\nINDICATE LIEN INFORMATION, IF ANY, TO BE ADVERTISED PURSUNT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nSHERIFF, KINDLY ADVERTISE THE FOLLOWING:\nTAX CERTIFICATE\nRECORDED: MARCH 26, 2021\nHOLDER: FIG CUST FIGNJ19LLC & SEC PTY\nAMOUNT: $794.41\nBOOK: N/A\nPAGE: N/A\nINSTRUMENT NUMBER: 2021037808\nTAX CERTIFICATE\nRECORDED: MARCH 16, 2023\nHOLDER: FIG 20, LLC\nAMOUNT: $255.80\nBOOK: N/A\nPAGE: N/A\nINSTRUMENT NUMBER: 2023016477\nTAX CERTIFICATE\nRECORDED: APRIL 23, 2024\nHOLDER: FIG 20, LLC\nAMOUNT: $256.48\nBOOK: N/A\nPAGE: N/A\nINSTRUMENT NUMBER: 2024023075\nGOOD FAITH ESTIMATED UPSET PRICE: $267,185.56\nOCCUPANCY STATUS: NON-OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.\nPREMISES COMMONLY KNOWN AS:\n30 QUABECK AVENUE IRVINGTON, NJ 07111\nA more complete metes and bounds description can be found in the Office of the Essex County Sheriff.\nLien(s)/Taxes:\nNote: The street address is merely given as a convenience to the bidders and is not a representation of fact on the part of the sheriff. The diagram or concise description does not constitute a full legal description of the premises, but it can be found in the Essex County Sheriff Office.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee and the Mortgagee’s attorney.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate amount due on this execution is $245,025.21 plus interest, cost, printers’ fees, Sheriff's fees and commission. The prior liens, as per affidavit of consideration are not a representation of fact on the part of the Sheriff.\nAmir D. Jones\nSHERIFF\nAdvertised\nDATED: June 1, 2026\nFRIEDMAN VARTOLO LLP\n1325 FRANKLIN AVENUE\nSUITE 160\nGARDEN CITY, NY 11530\n212-471-5100",
   "extracted": {
@@ -36,7 +36,7 @@
     "sale_date": "2026-10-13"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIZATION TRUST 2022-2,",
@@ -60,6 +60,10 @@
     {
       "date": "2026-10-13",
       "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 245025.21,

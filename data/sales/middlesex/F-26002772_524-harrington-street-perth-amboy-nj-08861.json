@@ -1,0 +1,56 @@
+{
+  "address": "524 HARRINGTON STREET PERTH AMBOY NJ 08861",
+  "attorney": "STERN & EISENBERG P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "609 397-9200",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00246526",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "TERESA CANELA A/K/A TERESA ROSARIO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$188,367.00",
+    "Attorney": "STERN & EISENBERG P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "609 397-9200",
+    "Court Case #": "F00246526",
+    "Defendant": "TERESA CANELA A/K/A TERESA ROSARIO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1 & 2 BLOCK 315",
+    "Plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST, SERIES 2004-OPT1, ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2004-OPT1",
+    "Property Address": "524 HARRINGTON STREET\nPERTH AMBOY NJ 08861",
+    "Property Note": "",
+    "Sale Date": "12/2/2026",
+    "Sheriff #": "F-26002772"
+  },
+  "first_seen": "2026-10-13",
+  "judgment_amount": 188367.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "524 HARRINGTON STREET PERTH AMBOY NJ 08861",
+    "defendant": "TERESA CANELA A/K/A TERESA ROSARIO, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST, SERIES 2004-OPT1, ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2004-OPT1",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1 & 2 BLOCK 315",
+  "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST, SERIES 2004-OPT1, ASSET BACKED PASS-THROUGH CERTIFICATES, SERIES 2004-OPT1",
+  "property_note": null,
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-26002772",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

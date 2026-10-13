@@ -3,7 +3,7 @@
   "county": "Morris County, NJ",
   "county_id": 9,
   "court_case_number": "F-002890-25",
-  "current_status": "Adjourned by the Plaintiff to",
+  "current_status": "Settled",
   "defendant": "JAMES E. HAMTIL; ANNE M. HAMTIL; MAUREEN WHITESIDE, HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; UNITED STATES OF AMERICA",
   "description": "Approximate Dimensions: 0.577 AC\nNearest Cross Street: Ford Hill Road\nPlaintiff Upset Price: $445,000.00\nOccupancy Status: Owner Occupied",
   "extracted": {
@@ -16,7 +16,7 @@
     "Defendant": "JAMES E. HAMTIL; ANNE M. HAMTIL; MAUREEN WHITESIDE, HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; UNITED STATES OF AMERICA",
     "Description": "Approximate Dimensions: 0.577 AC\nNearest Cross Street: Ford Hill Road\nPlaintiff Upset Price: $445,000.00\nOccupancy Status: Owner Occupied",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-    "Sales Date": "10/15/2026",
+    "Sales Date": "10/9/2026",
     "Sheriff #": "26000929"
   },
   "first_seen": "2026-10-12",
@@ -28,10 +28,10 @@
     "sale_date": null
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Morris County, NJ)",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-  "sale_date": "2026-10-15",
+  "sale_date": "2026-10-09",
   "sheriff_number": "26000929",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=9",
   "status_history": [
@@ -44,8 +44,8 @@
       "status": "Adjourned by the Defendant to"
     },
     {
-      "date": "2026-10-15",
-      "status": "Adjourned by the Plaintiff to"
+      "date": "2026-10-09",
+      "status": "Settled"
     }
   ]
 }

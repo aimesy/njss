@@ -22,7 +22,7 @@
     "Parcel #": "Lot and Block: Lot 7.02, Block 110 Tax Map of Borough of Matawan",
     "Plaintiff": "Santander Bank, N.A.",
     "Property Note": "",
-    "Sales Date": "10/13/2026",
+    "Sales Date": "11/9/2026",
     "Sheriff #": "FOR-26001019"
   },
   "first_seen": "2026-10-12",
@@ -31,20 +31,24 @@
   "listing": {
     "address": "29 Crescent Place Matawan NJ 07747",
     "defendant": "John Certo, et al.,",
-    "listing_status": "Adjournment Plaintiff",
+    "listing_status": "Court Ordered Plaintiff Adjournment",
     "plaintiff": "Santander Bank, N.A.",
-    "sale_date": "2026-10-13"
+    "sale_date": "2026-11-09"
   },
-  "listing_status": "Adjournment Plaintiff",
+  "listing_status": "Court Ordered Plaintiff Adjournment",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 7.02, Block 110 Tax Map of Borough of Matawan",
   "plaintiff": "Santander Bank, N.A.",
   "property_note": null,
-  "sale_date": "2026-10-13",
+  "sale_date": "2026-11-09",
   "sheriff_number": "FOR-26001019",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-09",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
     {
       "date": "2026-10-13",
       "status": "Adjournment Plaintiff"

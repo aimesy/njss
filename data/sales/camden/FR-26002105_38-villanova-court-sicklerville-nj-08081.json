@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "DC724725DJ04193726",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "FIRST JERSEY HOME, LLC,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot 73 and Block No.11201",
     "Plaintiff": "VICTORIA MANOR HOMEOWNERS ASSOCATION",
     "Property Note": "",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-26002105"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "FIRST JERSEY HOME, LLC,",
     "listing_status": null,
     "plaintiff": "VICTORIA MANOR HOMEOWNERS ASSOCATION",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Tax Lot 73 and Block No.11201",
   "plaintiff": "VICTORIA MANOR HOMEOWNERS ASSOCATION",
   "property_note": null,
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-26002105",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 10133.63,

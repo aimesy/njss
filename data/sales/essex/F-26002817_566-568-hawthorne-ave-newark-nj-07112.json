@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F01005825",
-  "current_status": "Adjourned Defendant",
+  "current_status": "Bankruptcy",
   "defendant": "HAWTHORNE PS INVEST GRP, LLC",
   "description": "LOT 7 BLOCK 3091\nDIMENSIONS: 46 FEET X 100 FEET\nNO. OF FEET TO NEAREST INTERSECTION: AT THE INTERSECTION OF FABYAN PLACE AND HAWTHORNE AVENUE\nSUBJECT TO: UNPAID REAL ESTATE TAXES AND OTHER MUNICIPAL CHARGES INCLUDING WATER AND SEWER IN THE APPROXIMATE AMOUNT OF $8,000.00\nTHE GOOD FAITH UPSET PRICE IS $711,852.90\nTHE PROPERTY IS OWNER OCCUPIED",
   "extracted": {
@@ -36,7 +36,7 @@
     "sale_date": "2026-10-13"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "ASW FUND I, LP",
@@ -56,6 +56,10 @@
     {
       "date": "2026-10-13",
       "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 638069.58,

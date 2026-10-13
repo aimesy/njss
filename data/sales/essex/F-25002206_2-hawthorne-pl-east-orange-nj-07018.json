@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F01054423",
-  "current_status": "Adjourned Plaintiff",
+  "current_status": "Bankruptcy",
   "defendant": "CHRIS TEESDALE; ET. ALS.",
   "description": "LOT: 10 BLOCK: 210\nDIMENSIONS OF LOT (APPROXIMATELY): 54' X 111' APPROX\nNEAREST CROSS STREET: CENTRAL AVENUE\nAPPROX UPSET PRICE $525,000.00 PROPERTY STATUS-POSSIBLE TENANT\nALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
   "extracted": {
@@ -36,7 +36,7 @@
     "sale_date": "2026-10-13"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
@@ -84,6 +84,10 @@
     {
       "date": "2026-10-13",
       "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 408587.32,

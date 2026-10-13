@@ -1,0 +1,56 @@
+{
+  "address": "33 HOOKER STREET JAMESBURG NJ 08831",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(732) 280-4100",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00712326",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "RUSSELL AVERY, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$219,994.46",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(732) 280-4100",
+    "Court Case #": "F00712326",
+    "Defendant": "RUSSELL AVERY, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 9 BLOCK 36",
+    "Plaintiff": "ROCKET MORTGAGE, LLC.",
+    "Property Address": "33 HOOKER STREET\nJAMESBURG NJ 08831",
+    "Property Note": "",
+    "Sale Date": "12/2/2026",
+    "Sheriff #": "F-26002773"
+  },
+  "first_seen": "2026-10-13",
+  "judgment_amount": 219994.46,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "33 HOOKER STREET JAMESBURG NJ 08831",
+    "defendant": "RUSSELL AVERY, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "ROCKET MORTGAGE, LLC.",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 9 BLOCK 36",
+  "plaintiff": "ROCKET MORTGAGE, LLC.",
+  "property_note": null,
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-26002773",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "49 LAUREL STREET CARTERET NJ 07008",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(973) 575-0707",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00663726",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "ANTEQUA L. ANDERSON, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$378,374.35",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00663726",
+    "Defendant": "ANTEQUA L. ANDERSON, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 10 BLOCK 4403",
+    "Plaintiff": "PLANET HOME LENDING, LLC.",
+    "Property Address": "49 LAUREL STREET\nCARTERET NJ 07008",
+    "Property Note": "",
+    "Sale Date": "12/2/2026",
+    "Sheriff #": "F-26002776"
+  },
+  "first_seen": "2026-10-13",
+  "judgment_amount": 378374.35,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "49 LAUREL STREET CARTERET NJ 07008",
+    "defendant": "ANTEQUA L. ANDERSON, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "PLANET HOME LENDING, LLC.",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 10 BLOCK 4403",
+  "plaintiff": "PLANET HOME LENDING, LLC.",
+  "property_note": null,
+  "sale_date": "2026-12-02",
+  "sheriff_number": "F-26002776",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

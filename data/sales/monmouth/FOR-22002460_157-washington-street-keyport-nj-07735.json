@@ -22,7 +22,7 @@
     "Parcel #": "Lot 9, Block 16 Tax Map of the Borough of Keyport",
     "Plaintiff": "New Jersey Housing & Mortgage Finance Agency",
     "Property Note": "",
-    "Sales Date": "10/13/2026",
+    "Sales Date": "11/23/2026",
     "Sheriff #": "FOR-22002460"
   },
   "first_seen": "2026-10-12",
@@ -31,20 +31,24 @@
   "listing": {
     "address": "157 Washington Street Keyport NJ 07735",
     "defendant": "Donald C. Connallon Jr, et al",
-    "listing_status": "Adjournment Plaintiff",
+    "listing_status": "Court Ordered Plaintiff Adjournment",
     "plaintiff": "New Jersey Housing & Mortgage Finance Agency",
-    "sale_date": "2026-10-13"
+    "sale_date": "2026-11-23"
   },
-  "listing_status": "Adjournment Plaintiff",
+  "listing_status": "Court Ordered Plaintiff Adjournment",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot 9, Block 16 Tax Map of the Borough of Keyport",
   "plaintiff": "New Jersey Housing & Mortgage Finance Agency",
   "property_note": null,
-  "sale_date": "2026-10-13",
+  "sale_date": "2026-11-23",
   "sheriff_number": "FOR-22002460",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-23",
+      "status": "Court Ordered Plaintiff Adjournment"
+    },
     {
       "date": "2026-10-13",
       "status": "Adjournment Plaintiff"

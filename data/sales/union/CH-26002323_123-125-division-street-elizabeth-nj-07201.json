@@ -1,0 +1,52 @@
+{
+  "address": "123-125 DIVISION STREET ELIZABETH NJ 07201",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00081526",
+  "current_status": "Scheduled",
+  "defendant": "NANA OPOKU-WARE F/K/A JOHN OWUSU F/K/A JOHN OWUSU-WARE; NCS LLC F/K/A NATIONWIDE CREDIT SERVICE INC; SUNNOVA TE MANAGEMENT LLC; UNKNOWN OCCUPANTS #1-10 N/K/A ABEE (LAST NAME REFUSED), 1ST FLOOR OCCUPANT; UNKNOWN OCCUPANT#1-10 N/K/A JOHN (LAST NAME REFUSED), 2ND FLOOR OCCUPANT",
+  "description": "LOT 4.01 F/K/A 196 BLOCK 618 F/K/A 7",
+  "extracted": {
+    "block": "618",
+    "lot": "4.01"
+  },
+  "fields": {
+    "Address": "123-125 DIVISION STREET\nELIZABETH NJ 07201",
+    "Approx. Upset*": "$442,452.94",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00081526",
+    "Defendant": "NANA OPOKU-WARE F/K/A JOHN OWUSU F/K/A JOHN OWUSU-WARE; NCS LLC F/K/A NATIONWIDE CREDIT SERVICE INC; SUNNOVA TE MANAGEMENT LLC; UNKNOWN OCCUPANTS #1-10 N/K/A ABEE (LAST NAME REFUSED), 1ST FLOOR OCCUPANT; UNKNOWN OCCUPANT#1-10 N/K/A JOHN (LAST NAME REFUSED), 2ND FLOOR OCCUPANT",
+    "Description": "LOT 4.01 F/K/A 196 BLOCK 618 F/K/A 7",
+    "Parcel #": "LOT 4.01 F/K/A 196 BLOCK 618 F/K/A 7",
+    "Plaintiff": "US BANK NATIONAL ASSOCIATION AS LEGAL TITTLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "CH-26002323"
+  },
+  "first_seen": "2026-10-13",
+  "listing": {
+    "address": "123-125 DIVISION STREET ELIZABETH NJ 07201",
+    "defendant": "NANA OPOKU-WARE F/K/A JOHN OWUSU F/K/A JOHN OWUSU-WARE; NCS LLC F/K/A NATIONWIDE CREDIT SERVICE INC; SUNNOVA TE MANAGEMENT LLC; UNKNOWN OCCUPANTS #1-10 N/K/A ABEE (LAST NAME REFUSED), 1ST FLOOR OCCUPANT; UNKNOWN OCCUPANT#1-10 N/K/A JOHN (LAST NAME REFUSED), 2ND FLOOR OCCUPANT",
+    "listing_status": null,
+    "plaintiff": "US BANK NATIONAL ASSOCIATION AS LEGAL TITTLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 4.01 F/K/A 196 BLOCK 618 F/K/A 7",
+  "plaintiff": "US BANK NATIONAL ASSOCIATION AS LEGAL TITTLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "CH-26002323",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 442452.94,
+  "upset_amount_label": "Approx. Upset*"
+}

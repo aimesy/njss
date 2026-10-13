@@ -21,7 +21,7 @@
     "Parcel #": "Lot and Block: Lot 1.0909, Block 87. Tax Map of City of Long Branch",
     "Plaintiff": "Christiana Trust as Custodian Gsran-Z, LLC",
     "Property Note": "",
-    "Sales Date": "10/13/2026",
+    "Sales Date": "12/7/2026",
     "Sheriff #": "FOR-26001795"
   },
   "first_seen": "2026-10-12",
@@ -30,20 +30,28 @@
   "listing": {
     "address": "787 Ocean Avenue Apt. 909 Long Branch NJ 07740",
     "defendant": "The Morris Broader 2011 Revocable Trust Trust, et al.",
-    "listing_status": "Scheduled",
+    "listing_status": "Adjournment Defendant",
     "plaintiff": "Christiana Trust as Custodian Gsran-Z, LLC",
-    "sale_date": "2026-10-13"
+    "sale_date": "2026-12-07"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Adjournment Defendant",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 1.0909, Block 87. Tax Map of City of Long Branch",
   "plaintiff": "Christiana Trust as Custodian Gsran-Z, LLC",
   "property_note": null,
-  "sale_date": "2026-10-13",
+  "sale_date": "2026-12-07",
   "sheriff_number": "FOR-26001795",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-12-07",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "Adjournment Defendant"
+    },
     {
       "date": "2026-10-13",
       "status": "Scheduled"

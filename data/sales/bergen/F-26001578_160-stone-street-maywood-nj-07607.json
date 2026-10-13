@@ -4,7 +4,7 @@
   "county": "Bergen County, NJ",
   "county_id": 7,
   "court_case_number": "F01345525",
-  "current_status": "Adjourned - Defendant",
+  "current_status": "Adjourned - Plaintiff",
   "defendant": "DANIEL ALCORTA; MRS. ALCORTA, UNKNOWN SPOUSE OF DANIEL ALCORTA",
   "description": "SUPERIOR COURT OF NEW JERSEY\nSHERIFF'S SALE NO. 26001578\nDOCKET NO. F01345525\nPLAINTIFF: NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING\nDEFENDANT(S): DANIEL ALCORTA; MRS. ALCORTA, UNKNOWN SPOUSE OF DANIEL ALCORTA\nATTORNEY:\nSTERN AND EISENBERG PC\n1120 ROUTE 73\nSUITE 400\nMOUNT LAUREL, NJ 08054\n215-572-8111\nBy virtue of the above stated Writ of Execution to me directed and delivered, I have levied upon and will expose for sale at public vendue on 7th DAY of August 2026 between the hours of twelve and four o'clock in the afternoon of said day, that is to say, at 12:00 P.M. prevailing time at the Large Conference Room, 2 Bergen County Plaza, Hackensack, New Jersey to wit:\nAll that certain lot, piece or parcel of land, with the buildings and improvements thereon erected, situate, lying and being in MAYWOOD, County of Bergen and State of New Jersey:\nBeing known as: LOT 12, BLOCK 88\nPREMISES COMMONLY KNOWN AS:\n160 STONE STREET MAYWOOD, NJ 07607\nThe short form description provided herein does not constitute a full legal description. A full legal description is annexed to the Writ of Execution on file with the Sheriff of Bergen County.\nLien(s)/Taxes/CWPP: UPSET PRICE: $278,534.16, GOOD THROUGH OCTOBER 9, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT; OCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN; APPROXIMATE DIMENSIONS: 50' X 107' 2LT; NEAREST CROSS STREET: HILL STREET; TAXES AND OTHER ENCUMBRANCES: TAXES CURRENT THROUGH 2n? QUARTER OF 2026 WATER/SEWER - PLAINTIFF IS UNABLE TO CONFIRM THESE AMOUNTS. PROSPECTIVE PURCHASERS MUST CONDUCT THEIR OWN INVESTIGATION TO DETERMINE THE SAME. *PLUS INTEREST ON THESE FIGURES THROUGH DATE OF PAYOFF AND ANY AND ALL SUBSEQUENT TAXES, WATER AND SEWER AMOUNTS.\nTogether with all and singular the rights, liberties, privileges, hereditaments and appurtenances thereunto belonging or in anywise appertaining and the reversion and remainders, rents, issues and profits thereof, and also all the estate, right, title, interest, use, property, claim and demand of the said defendants of, in, to and out of the same, be sold to pay and satisfy in the first place unto the said plaintiff plus interest thereon. The property shall be sold subject to all liens and encumbrances of record and the Sheriff makes no representations, express or implied, as to the existence, amount, or validity of any liens and encumbrances on the property which is the subject matter of this sale. This notice is further subject to the Conditions of Sale as set forth by the Sheriff of Bergen County and is subject to the terms and conditions of the Foreclosure Fairness Act. The Sheriff hereby reserves the right to adjourn this sale without further notice through publication.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate amount due on this execution is$255,719.64 plus interest, costs and fees of the sale, and the Sheriff's fees and commission. Any prior liens, as per the affidavit of consideration, are not a representation of fact on the part of the Sheriff.\nANTHONY CURETON, SHERIFF\nDATED: June 5, 2026",
   "extracted": {
@@ -23,7 +23,7 @@
     "Parcel #": "LOT 12, BLOCK 88",
     "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
     "Property Note": "UPSET PRICE: $278,534.16, GOOD THROUGH OCTOBER 9, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT; OCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN; APPROXIMATE DIMENSIONS: 50' X 107' 2LT; NEAREST CROSS STREET: HILL STREET; TAXES AND OTHER ENCUMBRANCES: TAXES CURRENT THROUGH 2n? QUARTER OF 2026 WATER/SEWER - PLAINTIFF IS UNABLE TO CONFIRM THESE AMOUNTS. PROSPECTIVE PURCHASERS MUST CONDUCT THEIR OWN INVESTIGATION TO DETERMINE THE SAME. *PLUS INTEREST ON THESE FIGURES THROUGH DATE OF PAYOFF AND ANY AND ALL SUBSEQUENT TAXES, WATER AND SEWER AMOUNTS.",
-    "Sales Date": "10/16/2026",
+    "Sales Date": "12/11/2026",
     "Sheriff #": "F-26001578"
   },
   "first_seen": "2026-10-12",
@@ -32,7 +32,7 @@
     "defendant": "DANIEL ALCORTA; MRS. ALCORTA, UNKNOWN SPOUSE OF DANIEL ALCORTA",
     "listing_status": null,
     "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
-    "sale_date": "2026-10-16"
+    "sale_date": "2026-12-11"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -40,7 +40,7 @@
   "parcel": "LOT 12, BLOCK 88",
   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
   "property_note": "UPSET PRICE: $278,534.16, GOOD THROUGH OCTOBER 9, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT; OCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN; APPROXIMATE DIMENSIONS: 50' X 107' 2LT; NEAREST CROSS STREET: HILL STREET; TAXES AND OTHER ENCUMBRANCES: TAXES CURRENT THROUGH 2n? QUARTER OF 2026 WATER/SEWER - PLAINTIFF IS UNABLE TO CONFIRM THESE AMOUNTS. PROSPECTIVE PURCHASERS MUST CONDUCT THEIR OWN INVESTIGATION TO DETERMINE THE SAME. *PLUS INTEREST ON THESE FIGURES THROUGH DATE OF PAYOFF AND ANY AND ALL SUBSEQUENT TAXES, WATER AND SEWER AMOUNTS.",
-  "sale_date": "2026-10-16",
+  "sale_date": "2026-12-11",
   "sheriff_number": "F-26001578",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
   "status_history": [
@@ -51,6 +51,10 @@
     {
       "date": "2026-10-16",
       "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-12-11",
+      "status": "Adjourned - Plaintiff"
     }
   ],
   "upset_amount": 261490.96,

@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F914622",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Scheduled",
   "defendant": "CLARENCE H. DAVIS,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "",
     "Plaintiff": "CHESTNUT PLACE CONDOMINIUM ASSOCIATION,",
     "Property Note": "",
-    "Sales Date": "7/14/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-25002439"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "CLARENCE H. DAVIS,",
     "listing_status": null,
     "plaintiff": "CHESTNUT PLACE CONDOMINIUM ASSOCIATION,",
-    "sale_date": "2026-07-14"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": null,
   "plaintiff": "CHESTNUT PLACE CONDOMINIUM ASSOCIATION,",
   "property_note": null,
-  "sale_date": "2026-07-14",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-25002439",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -52,12 +52,12 @@
       "status": "Scheduled"
     },
     {
-      "date": "2026-07-14",
-      "status": "Bankruptcy"
-    },
-    {
       "date": "2026-07-15",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
     }
   ],
   "upset_amount": 89005.85,

@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00905422",
-  "current_status": "Scheduled",
+  "current_status": "Court Adjournment",
   "defendant": "MICHAEL F. KOSENSKI; ROSANNA RACANELI; PHILIP R. LESORGEN, M.D.; ABSOLUTE RESOLUTIONS VI LLC; ROBERT WOOD JOHNSON OB/GYN ASSOCIATES PA; STATE OF NEW JERSEY,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot(s): 4, in Block: 24.02",
     "Plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST,",
     "Property Note": "Tax Certificate Recorded: Januaty 10, 2012 Holder: Independent Investors Amount: $153.75 Book: 9522 Page: 0529 Instrument Number: 11-00025\nTax Certificate Recorded: December 30, 2013 Holder: US Bank Cust for Crestar Amount: $537.26 Book: 9940 Page: 1366 Instrument Number: 13-00022 Tax Certificate Recorded: January 13, 2015 Holder: US Bank Cust for PCS Sterling Amount: $427.54 Book: 10133 Page: 1707\nInstrument Number: 14-00017 Tax Certificate Recorded: January Il, 2016 Holder: US Bank cust for pcs Sterling Amount: $438.97 Book: 10320\nPage: 1871 Instrument Number: 15-00020 Tax Certificate Recorded: November 05, 2021 Holder: FIG CUST FIGNJI 9 LLC & SEC PTY Amount: $449.84\nBook: 11889 Page: 1178 Instrument Number: 21-00013",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-24001791"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "MICHAEL F. KOSENSKI; ROSANNA RACANELI; PHILIP R. LESORGEN, M.D.; ABSOLUTE RESOLUTIONS VI LLC; ROBERT WOOD JOHNSON OB/GYN ASSOCIATES PA; STATE OF NEW JERSEY,",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST,",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "Tax Lot(s): 4, in Block: 24.02",
   "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST,",
   "property_note": "Tax Certificate Recorded: Januaty 10, 2012 Holder: Independent Investors Amount: $153.75 Book: 9522 Page: 0529 Instrument Number: 11-00025\nTax Certificate Recorded: December 30, 2013 Holder: US Bank Cust for Crestar Amount: $537.26 Book: 9940 Page: 1366 Instrument Number: 13-00022 Tax Certificate Recorded: January 13, 2015 Holder: US Bank Cust for PCS Sterling Amount: $427.54 Book: 10133 Page: 1707\nInstrument Number: 14-00017 Tax Certificate Recorded: January Il, 2016 Holder: US Bank cust for pcs Sterling Amount: $438.97 Book: 10320\nPage: 1871 Instrument Number: 15-00020 Tax Certificate Recorded: November 05, 2021 Holder: FIG CUST FIGNJI 9 LLC & SEC PTY Amount: $449.84\nBook: 11889 Page: 1178 Instrument Number: 21-00013",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-24001791",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -58,6 +58,10 @@
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Court Adjournment"
     }
   ],
   "upset_amount": 500577.91,

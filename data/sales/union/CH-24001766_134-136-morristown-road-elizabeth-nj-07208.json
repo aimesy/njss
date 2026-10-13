@@ -1,0 +1,60 @@
+{
+  "address": "134-136 MORRISTOWN ROAD ELIZABETH NJ 07208",
+  "attorney": "STERN & EISENBERG, PC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00084024",
+  "current_status": "Scheduled",
+  "defendant": "NAZLY PRADO A/K/A NAZLY HELEN PRADO A/K/A NAZLY H. PRADO; LUISM. PRADO A/K/A LUIS PRADO; AND MIDLAND FUNDING LLC",
+  "description": "LOT 34 F/K/A 1494 BLOCK 63 F/K/A 10",
+  "extracted": {
+    "block": "63",
+    "lot": "34"
+  },
+  "fields": {
+    "Address": "134-136 MORRISTOWN ROAD\nELIZABETH NJ 07208",
+    "Approx. Upset*": "$425,379.73",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Court Case #": "F00084024",
+    "Defendant": "NAZLY PRADO A/K/A NAZLY HELEN PRADO A/K/A NAZLY H. PRADO; LUISM. PRADO A/K/A LUIS PRADO; AND MIDLAND FUNDING LLC",
+    "Description": "LOT 34 F/K/A 1494 BLOCK 63 F/K/A 10",
+    "Parcel #": "LOT 34 F/K/A 1494 BLOCK 63 F/K/A 10",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2006-BC2",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "CH-24001766"
+  },
+  "first_seen": "2026-10-13",
+  "listing": {
+    "address": "134-136 MORRISTOWN ROAD ELIZABETH NJ 07208",
+    "defendant": "NAZLY PRADO A/K/A NAZLY HELEN PRADO A/K/A NAZLY H. PRADO; LUISM. PRADO A/K/A LUIS PRADO; AND MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2006-BC2",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 34 F/K/A 1494 BLOCK 63 F/K/A 10",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2006-BC2",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "CH-24001766",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-09-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-18",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 425379.73,
+  "upset_amount_label": "Approx. Upset*"
+}
