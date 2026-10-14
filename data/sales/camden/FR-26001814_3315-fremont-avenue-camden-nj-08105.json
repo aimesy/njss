@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot(s): 18, in Block: 1057 FKA 1609",
     "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION,\nAS TRUSTEE OF BKPL-EG HOLDING TRUST,",
     "Property Note": "",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "10/14/2026",
     "Sheriff #": "FR-26001814"
   },
   "first_seen": "2026-10-12",
@@ -27,21 +27,25 @@
     "defendant": "WILFREDO VELEZ; FCC INVESTMENT TRUST I",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, \nAS TRUSTEE OF BKPL-EG HOLDING TRUST,",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-10-14"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Tax Lot(s): 18, in Block: 1057 FKA 1609",
   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG HOLDING TRUST,",
   "property_note": null,
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-10-14",
   "sheriff_number": "FR-26001814",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-09-16",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-14",
+      "status": "Cancelled"
     },
     {
       "date": "2026-10-21",

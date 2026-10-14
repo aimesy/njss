@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-012625-25",
-  "current_status": "BANKRUPTCY HOLD",
+  "current_status": "POST BANKRUPTCY SALE DATE",
   "defendant": "DANIEL P. BOCK JR",
   "description": "Tax Lot(s): 16, in Block: 286\nDimensions (Approx.): 27.90X56.421RR\nNearest Cross Street: John F. Kennedy Blvd.\nTax Certificate\nRecorded: August 08, 2019\nHolder: TFS Cust for Fig cap Inv NJ13, LLC\nAmount: $257.76\nBook: 19433\nPage: 438\nInstrument Number: N/A\nGood Faith Estimated Upset Price: $486,081.59\nOccupancy Status: Occupied by Unknown",
   "extracted": {
@@ -24,7 +24,7 @@
     "Judgment": "$444,994.70",
     "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE OF CIM TRUST 2023-R4",
     "Property Note": "",
-    "Sales Date": "8/27/2026",
+    "Sales Date": "11/5/2026",
     "Sheriff #": "20063276"
   },
   "first_seen": "2026-10-12",
@@ -35,14 +35,14 @@
     "defendant": "DANIEL P. BOCK JR",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE OF CIM TRUST 2023-R4",
-    "sale_date": "2026-08-27"
+    "sale_date": "2026-11-05"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE OF CIM TRUST 2023-R4",
   "property_note": null,
-  "sale_date": "2026-08-27",
+  "sale_date": "2026-11-05",
   "sheriff_number": "20063276",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
@@ -57,6 +57,10 @@
     {
       "date": "2026-08-27",
       "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "POST BANKRUPTCY SALE DATE"
     }
   ],
   "upset_amount": 486081.59,

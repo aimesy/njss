@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00381525",
-  "current_status": "Adjourned Defendant",
+  "current_status": "Purchased - Foreclosure",
   "defendant": "VERMONT HOLDINGS GROUP LLC, ET. AL",
   "description": "SUPERIOR COURT OF NEW JERSEY\nSuperior Court\nSHERIFF'S SALE NO. 25002944\nDOCKET NO. F00381525\nPLAINTIFF – WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS DELAWARE TRUSTEE OF SMRF TRUST X-A,\nDEFENDANTS- VERMONT HOLDINGS GROUP LLC, ET. AL\nWrit of Execution.\nBy virtue of the above stated Writ of Execution to me directed and delivered I will expose for sale at public vendue on\nTuesday THE 18th DAY OF August 2026\nbetween the hours of 1:30 pm and 5:00 pm in the afternoon of said day, that is to say at 1:30 P.M. the prevailing time at The Leroy F. Smith Building, 60 West Market Street, 14th Floor, Newark, NJ 07102 to wit:\nAll that tract or parcel of land, situate, lying and being in the of NEWARK, County of Essex County and State of New Jersey:\nBeing known as:\nLOT 42 AND 43 BLOCK 4035\nDIMENSIONS OF LOT: 50 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: PLYMOUTH STREET\nTHIS IS A COMMERCIAL PROPERTY.\n2026 QTR 2 DUE: 05/01/2026 $1,295.67 OPEN\n2026 QTR 3 DUE: 08/01/2026 $1,444.72\nWATER: NEWARK WATER DEPT. 920 BROAD STREET-ROOM 117 NEWARK, NJ 07102 973-733-6370 ACCT: 2709913378 TO: 06-11-2026 $4,073.97 OPEN\nLIENS YEAR: 2023 TYPE: 3RD PARTY CLEAN & LIEN CHARGE AMOUNT: $5,883.33; CERT NO.: 2024-0319 SOLD: 12/06/2024 TO: LILLIAN ZHANG; LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\nPREMISES COMMONLY KNOWN AS:\n76-78 VERMONT AVENUE NEWARK, NJ 07106\nA more complete metes and bounds description can be found in the Office of the Essex County Sheriff.\nLien(s)/Taxes:\nNote: The street address is merely given as a convenience to the bidders and is not a representation of fact on the part of the sheriff. The diagram or concise description does not constitute a full legal description of the premises, but it can be found in the Essex County Sheriff Office.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee and the Mortgagee’s attorney.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate amount due on this execution is $323,264.11 plus interest, cost, printers’ fees, Sheriff's fees and commission. The prior liens, as per affidavit of consideration are not a representation of fact on the part of the Sheriff.\nAmir D. Jones\nSHERIFF\nAdvertised\nDATED: July 6, 2026\nROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC\n130 CLINTON ROAD\nSUITE 202\nFAIRFIELD, NJ 07004\n973 575-0707",
   "extracted": {
@@ -35,7 +35,7 @@
     "sale_date": "2026-10-13"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS DELAWARE TRUSTEE OF SMRF TRUST X-A,",
@@ -75,6 +75,10 @@
     {
       "date": "2026-10-13",
       "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Purchased - Foreclosure"
     }
   ],
   "upset_amount": 323264.11,

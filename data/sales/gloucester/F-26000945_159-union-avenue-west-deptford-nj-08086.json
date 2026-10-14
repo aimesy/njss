@@ -23,7 +23,7 @@
     "Parcel #": "LOT 70, BLOCK 216",
     "Plaintiff": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
     "Property Note": "",
-    "Sales Date": "10/14/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "F-26000945"
   },
   "first_seen": "2026-10-12",
@@ -34,7 +34,7 @@
     "defendant": "JAMES MATTHEW BROOKS; ET AL",
     "listing_status": "Defendant Adjourned to",
     "plaintiff": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
-    "sale_date": "2026-10-14"
+    "sale_date": "2026-11-18"
   },
   "listing_status": "Defendant Adjourned to",
   "on_open_list": true,
@@ -42,7 +42,7 @@
   "parcel": "LOT 70, BLOCK 216",
   "plaintiff": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
   "property_note": null,
-  "sale_date": "2026-10-14",
+  "sale_date": "2026-11-18",
   "sheriff_number": "F-26000945",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
   "status_history": [
@@ -56,6 +56,10 @@
     },
     {
       "date": "2026-10-14",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-11-18",
       "status": "Defendant Adjourned to"
     }
   ]

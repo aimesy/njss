@@ -23,7 +23,7 @@
     "Plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2006-HE2 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-HE2",
     "Property Address": "223 West OAK Avenue\nWildwood NJ 08260",
     "Property Note": "",
-    "Sale Date": "10/14/2026",
+    "Sale Date": "11/18/2026",
     "Sheriff #": "F-26000202"
   },
   "first_seen": "2026-10-12",
@@ -34,7 +34,7 @@
     "defendant": "JAMES V FURFARI, ET AL",
     "listing_status": null,
     "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2006-HE2 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-HE2",
-    "sale_date": "2026-10-14"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -42,10 +42,18 @@
   "parcel": "TAX LOT #3 F/K/A 3 & 5 BLOCK #192",
   "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2006-HE2 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-HE2",
   "property_note": null,
-  "sale_date": "2026-10-14",
+  "sale_date": "2026-11-18",
   "sheriff_number": "F-26000202",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
   "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-10-14",
+      "status": "Bankruptcy Hold"
+    },
     {
       "date": "2026-10-14",
       "status": "Adjourned - Defendant"

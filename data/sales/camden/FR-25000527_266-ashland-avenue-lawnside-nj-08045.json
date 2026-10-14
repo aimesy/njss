@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00356324",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Court Adjournment",
   "defendant": "SIEDAH BROWN, ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Block 904, Lot 15",
     "Plaintiff": "LAKEVIEW LAON SERVICING, LLC",
     "Property Note": "Subject to Certificate no. 25-00085, interested parties must contact Borough of Lawnside tax collector for redemption payoff.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-25000527"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "SIEDAH BROWN, ET AL.",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LAON SERVICING, LLC",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "Block 904, Lot 15",
   "plaintiff": "LAKEVIEW LAON SERVICING, LLC",
   "property_note": "Subject to Certificate no. 25-00085, interested parties must contact Borough of Lawnside tax collector for redemption payoff.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. The amount due can be obtained from the local taxing authority. Pursuant to NJSA 46:8B-21 the sale may also be subject to the limited lien priority of any Condominium/Homeowners Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-25000527",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -62,6 +62,10 @@
     {
       "date": "2026-10-21",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Court Adjournment"
     }
   ],
   "upset_amount": 251590.1,

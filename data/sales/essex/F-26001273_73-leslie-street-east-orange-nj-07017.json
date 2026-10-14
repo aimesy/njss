@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F557124",
-  "current_status": "Adjourned Court",
+  "current_status": "Purchased - Foreclosure",
   "defendant": "ALONZO T. HOBBS, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DORIS C. BEST, DECEASED, ET. AL",
   "description": "TAX LOT 2.05 BLOCK 100, OF THE CITY OF EAST ORANGE\nDIMENSIONS: 37 X 100\nNUMBER OF FEET TO NEAREST CROSS-STREET: 213 FEET TO 1ST AVE.\nAPPROXIMATE GOOD FAITH ESTIMATE: $110,000.00\n(X) PROPERTY OWNER(S): ALONZO T. HOBBS, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DORIS C. BEST, DECEASED\n(XX) METES AND BOUNDS DESCRIPTION: THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. THE FULL LEGAL\nDESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN BOOK 4533 AT PAGE 821\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $13,544.05",
   "extracted": {
@@ -35,7 +35,7 @@
     "sale_date": "2026-10-13"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "PINE VALLEY ONE REAL ESTATE, LLC,",
@@ -67,6 +67,10 @@
     {
       "date": "2026-10-13",
       "status": "Adjourned Court"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Purchased - Foreclosure"
     }
   ],
   "upset_amount": 87979.06,

@@ -32,12 +32,12 @@
   "listing": {
     "address": "67 Jackson Street Keyport NJ 07735",
     "defendant": "Crystal Marie Smith, et al;",
-    "listing_status": "Adjournment Defendant",
+    "listing_status": "Purchased - Buy Back",
     "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust IX-A",
     "sale_date": "2026-10-13"
   },
-  "listing_status": "Adjournment Defendant",
-  "on_open_list": true,
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 27, Block 103 Tax Map of Borough of Keyport",
   "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust IX-A",
@@ -46,6 +46,10 @@
   "sheriff_number": "FOR-26001228",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-10-13",
+      "status": "Purchased - Buy Back"
+    },
     {
       "date": "2026-10-13",
       "status": "Adjournment Defendant"
