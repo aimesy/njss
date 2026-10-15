@@ -1,0 +1,65 @@
+{
+  "address": "420 MYRTLE AVENUE LINDENWOLD NJ 08021",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00309524",
+  "current_status": "Scheduled",
+  "defendant": "ERNEST YOUNG, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "420 MYRTLE AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$142,177.93",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00309524",
+    "Defendant": "ERNEST YOUNG, ET AL",
+    "Parcel #": "Tax Lot No. 7.01, Block 87",
+    "Plaintiff": "COLONIAL SAVINGS, F.A.",
+    "Property Note": "",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "FR-24002258"
+  },
+  "first_seen": "2026-10-15",
+  "listing": {
+    "address": "420 MYRTLE AVENUE LINDENWOLD NJ 08021",
+    "defendant": "ERNEST YOUNG, ET AL",
+    "listing_status": null,
+    "plaintiff": "COLONIAL SAVINGS, F.A.",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot No. 7.01, Block 87",
+  "plaintiff": "COLONIAL SAVINGS, F.A.",
+  "property_note": null,
+  "sale_date": "2026-12-02",
+  "sheriff_number": "FR-24002258",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-11-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-15",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2025-09-03",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-01",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 142177.93,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -37,7 +37,7 @@
     "sale_date": "2026-10-14"
   },
   "listing_status": "Defendant Adjourned to",
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Gloucester County, NJ)",
   "parcel": "LOT: 7.05 BLOCK: 608",
   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
@@ -53,6 +53,10 @@
     {
       "date": "2026-09-16",
       "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "Settled - Foreclosures"
     },
     {
       "date": "2026-10-14",

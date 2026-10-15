@@ -1,0 +1,54 @@
+{
+  "address": "3498 VENTURI LANE VINELAND NJ 08361",
+  "attorney": "RAGAN & RAGAN PC",
+  "county": "Cumberland County, NJ",
+  "county_id": 6,
+  "court_case_number": "L92815 J06372819",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": "LOT 13 BLOCK 5308",
+  "defendant": "RAKESH KAPADIA AND SUPER QWIK DELI ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "3498 VENTURI LANE\nVINELAND NJ 08361",
+    "Approx. Judgment*": "$350,000.00",
+    "Attorney": "RAGAN & RAGAN PC",
+    "Court Case #": "L92815 J06372819",
+    "Deed": "",
+    "Deed Address": "LOT 13 BLOCK 5308",
+    "Defendant": "RAKESH KAPADIA AND SUPER QWIK DELI ET AL",
+    "Plaintiff": "YANCY COURSEY BY ASSIGNEE MMU LLC",
+    "Priors": "",
+    "Property Note": "",
+    "Sales Date": "12/16/2026",
+    "Sheriff #": "26001283",
+    "Upset Amount": "$454,000.00"
+  },
+  "first_seen": "2026-10-15",
+  "judgment_amount": 350000.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3498 VENTURI LANE VINELAND NJ 08361",
+    "defendant": "RAKESH KAPADIA AND SUPER QWIK DELI ET AL",
+    "listing_status": null,
+    "plaintiff": "YANCY COURSEY BY ASSIGNEE MMU LLC",
+    "sale_date": "2026-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Cumberland County, NJ)",
+  "plaintiff": "YANCY COURSEY BY ASSIGNEE MMU LLC",
+  "priors": null,
+  "property_note": null,
+  "sale_date": "2026-12-16",
+  "sheriff_number": "26001283",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+  "status_history": [
+    {
+      "date": "2026-12-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 454000.0,
+  "upset_amount_label": "Upset Amount"
+}

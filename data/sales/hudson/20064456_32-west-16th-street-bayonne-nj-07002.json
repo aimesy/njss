@@ -1,0 +1,56 @@
+{
+  "address": "32 WEST 16TH STREET BAYONNE NJ 07002",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-001770-26",
+  "current_status": "Scheduled",
+  "defendant": "32 W 16 B NJ LLC; ET AL.",
+  "description": "TAX LOT(S): 42, IN BLOCK: 246\nDIMENSIONS (APPROX.): 25*163.17 1RR\nNEAREST CROSS STREET: AVENUE C\nIMPORTANT: INDICATE LIEN INFORMATION, IF ANY, TO BEADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nGOOD FAITH ESTIMATED UPSET PRICE: $1,725,094.09\nOCCUPANCY STATUS: NON OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "block": "246",
+    "occupancy": "NON OWNER OCCUPIED",
+    "upset_amount": 1725094.09
+  },
+  "fields": {
+    "Address": "32 WEST 16TH STREET\nBAYONNE NJ 07002",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-001770-26",
+    "Defendant": "32 W 16 B NJ LLC; ET AL.",
+    "Description": "TAX LOT(S): 42, IN BLOCK: 246\nDIMENSIONS (APPROX.): 25*163.17 1RR\nNEAREST CROSS STREET: AVENUE C\nIMPORTANT: INDICATE LIEN INFORMATION, IF ANY, TO BEADVERTISED PURSUANT TO THE SUPREME COURT DECISION OF 10/28/99- SUMMIT BANK VS. DENNIS THIEL (A-58-98).\nGOOD FAITH ESTIMATED UPSET PRICE: $1,725,094.09\nOCCUPANCY STATUS: NON OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Good Faith Upset*": "$1,725,094.09",
+    "Judgment": "$1,616,915.30",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF ECA AZ RESIDENTIAL TRUST - SERIES SA",
+    "Property Note": "NOT CWPP ELIGIBLE",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20064456"
+  },
+  "first_seen": "2026-10-15",
+  "judgment_amount": 1616915.3,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "32 WEST 16TH STREET BAYONNE NJ 07002",
+    "defendant": "32 W 16 B NJ LLC; ET AL.",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF ECA AZ RESIDENTIAL TRUST - SERIES SA",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF ECA AZ RESIDENTIAL TRUST - SERIES SA",
+  "property_note": "NOT CWPP ELIGIBLE",
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20064456",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-12-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 1725094.09,
+  "upset_amount_label": "Good Faith Upset*"
+}

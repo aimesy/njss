@@ -1,0 +1,49 @@
+{
+  "address": "309 GLOUCESTER AVENUE SOMERDALE NJ 08083",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00157926",
+  "current_status": "Scheduled",
+  "defendant": "BRIAN DEBES; 1ST FINANCIAL BANK USA; JORDAN DEBES",
+  "extracted": {},
+  "fields": {
+    "Address": "309 GLOUCESTER AVENUE\nSOMERDALE NJ 08083",
+    "Approx. Upset*": "$98,659.14",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F00157926",
+    "Defendant": "BRIAN DEBES; 1ST FINANCIAL BANK USA; JORDAN DEBES",
+    "Parcel #": "Block 128.01 Lot 5",
+    "Plaintiff": "SELENE FINANCE LP",
+    "Property Note": "Taxes due in the approximate amount of $5808.17 as of 9/17/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 9/17/26\nWater/Sewer due and owing in the approximate amount of\n$836.00 as of 9/17/26",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "FR-26002574"
+  },
+  "first_seen": "2026-10-15",
+  "listing": {
+    "address": "309 GLOUCESTER AVENUE SOMERDALE NJ 08083",
+    "defendant": "BRIAN DEBES; 1ST FINANCIAL BANK USA; JORDAN DEBES",
+    "listing_status": null,
+    "plaintiff": "SELENE FINANCE LP",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 128.01 Lot 5",
+  "plaintiff": "SELENE FINANCE LP",
+  "property_note": "Taxes due in the approximate amount of $5808.17 as of 9/17/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 9/17/26\nWater/Sewer due and owing in the approximate amount of\n$836.00 as of 9/17/26",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "FR-26002574",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 98659.14,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,77 @@
+{
+  "address": "66-68 Front Street Paterson NJ 07522",
+  "attorney": "KML LAW GROUP, P.C.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 050944 10 Ctl#162661",
+  "current_status": "Rescheduled",
+  "defendant": "Mohammed G. Rabbani, et al.",
+  "description": "Dimensions of Lot: (approx.) 50 feet by 250 feet\nNearest Cross Street: Paterson Avenue\nThe estimated upset amount for schedule sheriff sale is currently $730,254.87\nThe upset price is not the same as a payoff or judgment redemption amount.\nProperty occupied by owner.",
+  "extracted": {},
+  "fields": {
+    "Address": "66-68 Front Street\nPaterson NJ 07522",
+    "Approx. Upset*": "$497,807.42",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Court Case #": "F 050944 10 Ctl#162661",
+    "Defendant": "Mohammed G. Rabbani, et al.",
+    "Description": "Dimensions of Lot: (approx.) 50 feet by 250 feet\nNearest Cross Street: Paterson Avenue\nThe estimated upset amount for schedule sheriff sale is currently $730,254.87\nThe upset price is not the same as a payoff or judgment redemption amount.\nProperty occupied by owner.",
+    "Parcel #": "Tax Lot No. 6 fka Lot 10 in Block 1414 fka Block B0207",
+    "Plaintiff": "HSBC Bank USA, National Association, Etc.",
+    "Property Note": "",
+    "Sales Date": "2/9/2027",
+    "Sheriff #": "F-24000153"
+  },
+  "first_seen": "2026-10-15",
+  "listing": {
+    "address": "66-68 Front Street Paterson NJ 07522",
+    "defendant": "Mohammed G. Rabbani, et al.",
+    "listing_status": null,
+    "plaintiff": "HSBC Bank USA, National Association, Etc.",
+    "sale_date": "2027-02-09"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot No. 6 fka Lot 10 in Block 1414 fka Block B0207",
+  "plaintiff": "HSBC Bank USA, National Association, Etc.",
+  "property_note": null,
+  "sale_date": "2027-02-09",
+  "sheriff_number": "F-24000153",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2024-02-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-03-26",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-04-23",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2024-05-21",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-06-18",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2024-06-18",
+      "status": "Purchased - Plaintiff"
+    },
+    {
+      "date": "2024-06-19",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2027-02-09",
+      "status": "Rescheduled"
+    }
+  ],
+  "upset_amount": 497807.42,
+  "upset_amount_label": "Approx. Upset*"
+}

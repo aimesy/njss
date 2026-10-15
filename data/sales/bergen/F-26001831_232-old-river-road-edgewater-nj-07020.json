@@ -21,7 +21,7 @@
     "Parcel #": "LOT 11, BLOCK 90",
     "Plaintiff": "SOF OLD RIVER LLC",
     "Property Note": "PROPERTY CLASS 4A – COMMERCIAL. DIMENSIONS OF LOT: (APPROXIMATELY) 50X50 0.0574. NEAREST CROSS STREET: HUDSON PARK.",
-    "Sales Date": "10/16/2026",
+    "Sales Date": "11/20/2026",
     "Sheriff #": "F-26001831"
   },
   "first_seen": "2026-10-12",
@@ -30,7 +30,7 @@
     "defendant": "232 OLD RIVER EDGE LLC, MENG LU, XIAOGANG FU, RUIHONG MENG, AND LI AN",
     "listing_status": null,
     "plaintiff": "SOF OLD RIVER LLC",
-    "sale_date": "2026-10-16"
+    "sale_date": "2026-11-20"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -38,7 +38,7 @@
   "parcel": "LOT 11, BLOCK 90",
   "plaintiff": "SOF OLD RIVER LLC",
   "property_note": "PROPERTY CLASS 4A – COMMERCIAL. DIMENSIONS OF LOT: (APPROXIMATELY) 50X50 0.0574. NEAREST CROSS STREET: HUDSON PARK.",
-  "sale_date": "2026-10-16",
+  "sale_date": "2026-11-20",
   "sheriff_number": "F-26001831",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
   "status_history": [
@@ -48,6 +48,10 @@
     },
     {
       "date": "2026-10-16",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-11-20",
       "status": "Adjourned - Defendant"
     }
   ],

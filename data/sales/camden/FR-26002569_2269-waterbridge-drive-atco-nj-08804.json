@@ -1,0 +1,49 @@
+{
+  "address": "2269 WATERBRIDGE DRIVE ATCO NJ 08804",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00240226",
+  "current_status": "Scheduled",
+  "defendant": "NORMAN SMITH, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "2269 WATERBRIDGE DRIVE\nATCO NJ 08804",
+    "Approx. Upset*": "$178,361.12",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00240226",
+    "Defendant": "NORMAN SMITH, ET AL",
+    "Parcel #": "Tax Lot No. 28 Block 501",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "FR-26002569"
+  },
+  "first_seen": "2026-10-15",
+  "listing": {
+    "address": "2269 WATERBRIDGE DRIVE ATCO NJ 08804",
+    "defendant": "NORMAN SMITH, ET AL",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot No. 28 Block 501",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-12-02",
+  "sheriff_number": "FR-26002569",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 178361.12,
+  "upset_amount_label": "Approx. Upset*"
+}

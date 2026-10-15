@@ -36,7 +36,7 @@
     "sale_date": "2026-10-14"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
   "parcel": "TAX LOT #19.01 AND BLOCK 13",
   "plaintiff": "DEUTSHE BANK NATIONAL TRUST COMPANY ;ET AL.",
@@ -45,6 +45,10 @@
   "sheriff_number": "F-4134",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
   "status_history": [
+    {
+      "date": "2026-10-14",
+      "status": "Purchased - Plaintiff"
+    },
     {
       "date": "2026-10-14",
       "status": "Scheduled"

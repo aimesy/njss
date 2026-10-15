@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00466225",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "MARK LINFANTE; UNITED STATES OF AMERICA;",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT 26, BLOCK 17502",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
     "Property Note": "*Taxes —at time of inquiry — 3rd quarter 2026 taxes open in the base amount of $2,201.97 and due 8/01/2026;\n*Water - Private account, verification of same prohibited without authorization of record property owner;\n*Sewer — Private account, verification of sanw prohibited without authorization of record property owner\n*CCMUA — at the time of inquiry — open in the amount of $412.28 + any additional subsequent charges paid thereafter, plus interest/fees/penalties through payoff\n(XX) Subject to: If property is located in a Homeowner's Association, then it is sold subject to any assessments and other fees which may be responsibility of new owner under NJ Supreme Court case of Highland Lakes Country Club & Community Association v. Franzino, 186 N.J. 99 (2006);\n(XX) Subject to: If property is located in a Condominium or Homeowner's Association, then it may be sold subject to a 6-month limited priority lien of the association;\n(XX) Subject to: * If the subject property is pan of an age restricted community, you must be 55 and older and intend to reside in the property or you may be precluded membership in the Community.",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-26002225"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "MARK LINFANTE; UNITED STATES OF AMERICA;",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "TAX LOT 26, BLOCK 17502",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
   "property_note": "*Taxes —at time of inquiry — 3rd quarter 2026 taxes open in the base amount of $2,201.97 and due 8/01/2026;\n*Water - Private account, verification of same prohibited without authorization of record property owner;\n*Sewer — Private account, verification of sanw prohibited without authorization of record property owner\n*CCMUA — at the time of inquiry — open in the amount of $412.28 + any additional subsequent charges paid thereafter, plus interest/fees/penalties through payoff\n(XX) Subject to: If property is located in a Homeowner's Association, then it is sold subject to any assessments and other fees which may be responsibility of new owner under NJ Supreme Court case of Highland Lakes Country Club & Community Association v. Franzino, 186 N.J. 99 (2006);\n(XX) Subject to: If property is located in a Condominium or Homeowner's Association, then it may be sold subject to a 6-month limited priority lien of the association;\n(XX) Subject to: * If the subject property is pan of an age restricted community, you must be 55 and older and intend to reside in the property or you may be precluded membership in the Community.",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-26002225",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 181152.14,

@@ -41,7 +41,7 @@
     "sale_date": "2026-10-14"
   },
   "listing_status": "Vacated",
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 9 BLOCK 120",
   "plaintiff": "MCLP ASSET COMPANY, INC.",
@@ -50,6 +50,10 @@
   "sheriff_number": "F-776595",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-10-14",
+      "status": "Vacated"
+    },
     {
       "date": "2026-10-14",
       "status": "Vacated"

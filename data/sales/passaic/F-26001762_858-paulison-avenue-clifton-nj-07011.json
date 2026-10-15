@@ -1,0 +1,52 @@
+{
+  "address": "858 Paulison Avenue Clifton NJ 07011",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 005882 26 CTL#163288",
+  "current_status": "Scheduled",
+  "defendant": "JOHN E. GARZON-TASAMA ET ALS",
+  "description": "Approximate dimensions: 100.00 x 75.00 feet\nNearest cross street: Hudson Street\nSubject to sewer in the amount of $1,735.75 open plus penalty\nUpset Price: $549,154.96\nOccupancy status: Unknown\n* To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 549154.96
+  },
+  "fields": {
+    "Address": "858 Paulison Avenue\nClifton NJ 07011",
+    "Approx. Upset*": "$510,737.92",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Court Case #": "F 005882 26 CTL#163288",
+    "Defendant": "JOHN E. GARZON-TASAMA ET ALS",
+    "Description": "Approximate dimensions: 100.00 x 75.00 feet\nNearest cross street: Hudson Street\nSubject to sewer in the amount of $1,735.75 open plus penalty\nUpset Price: $549,154.96\nOccupancy status: Unknown\n* To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "TAX LOT 39 BLOCK 20.13",
+    "Plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "Property Note": "",
+    "Sales Date": "2/9/2027",
+    "Sheriff #": "F-26001762"
+  },
+  "first_seen": "2026-10-15",
+  "listing": {
+    "address": "858 Paulison Avenue Clifton NJ 07011",
+    "defendant": "JOHN E. GARZON-TASAMA ET ALS",
+    "listing_status": null,
+    "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+    "sale_date": "2027-02-09"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "TAX LOT 39 BLOCK 20.13",
+  "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+  "property_note": null,
+  "sale_date": "2027-02-09",
+  "sheriff_number": "F-26001762",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-02-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 510737.92,
+  "upset_amount_label": "Approx. Upset*"
+}

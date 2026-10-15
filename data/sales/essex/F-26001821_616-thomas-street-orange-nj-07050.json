@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F01207925",
-  "current_status": "Adjourned Plaintiff",
+  "current_status": "Settled - Foreclosure",
   "defendant": "CONSTANCE E. ISHMAEL, ET. AL",
   "description": "SUPERIOR COURT OF NEW JERSEY\nSuperior Court\nSHERIFF'S SALE NO. 26001821\nDOCKET NO. F01207925\nPLAINTIFF – ROYAL PACIFIC FUNDING CORPORATION\nDEFENDANTS- CONSTANCE E. ISHMAEL, ET. AL\nWrit of Execution.\nBy virtue of the above stated Writ of Execution to me directed and delivered I will expose for sale at public vendue on\nTuesday THE 23rd DAY OF June 2026\nbetween the hours of 1:30 pm and 5:00 pm in the afternoon of said day, that is to say at 1:30 P.M. the prevailing time at The Leroy F. Smith Building, 60 West Market Street, 14th Floor, Newark, NJ 07102 to wit:\nAll that tract or parcel of land, situate, lying and being in the of ORANGE, County of Essex County and State of New Jersey:\nBeing known as:\nLOT 20, BLOCK 102 ON THE OFFICIAL TAX MAP OF THE CITY OF ORANGE.\nDIMENSIONS: 3080 SF\nNEAREST CROSS STREET: COOGAN AVENUE\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTERESTS REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON.\nIF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY TO A RETURN OF THE DEPOSTI PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, THE MORTGAGEE OR THE MORTGAGEE’S ATTORNEY.\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED.\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $285,051.43.\nPURSUANT TO 28 USC 241(C) THIS SALE TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN:\nPARTIAL CLAIM MORTGAGE: CONSTANCE E. ISHMAEL AND LINDA V. ISHMAEL TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 05/08/2023 AND RECORDED 06/06/2023 AS INSTRUMENT NUMBER 2023033691, TO SECURE $54,335.99.\nPARTIAL CLAIM MORTGAGE: CONSTANCE E. ISHMAEL AND LINDA V. ISHMAEL TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 01/31/2024 AND RECORDED 02/26/2024 AS INSTRUMENT NUMBER 2024011093, TO SECURE $14,650.28\nPARTIAL CLAIM MORTGAGE : CONSTANCE E. ISHMAEL AND LINDA V. ISHMAEL TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT DATED 07/16/2024 AND RECORDED 08/07/2024 AS INSTRUMENT NUMBER 2024045934, TO SECURE $8,771.36.\nSUBJECT TO TAX SALE CERTIFICATE #25-00002 FOR 3RD PARTY WATER AND SEWER IN THE AMOUNT OF $921.73 PLUS PENALTY AND COSTS. THIRD PARTY IS RESPONSIBLE FOR OBTAINING FINAL AMOUNT TO REDEEM.\nPREMISES COMMONLY KNOWN AS:\n616 THOMAS STREET ORANGE, NJ 07050\nA more complete metes and bounds description can be found in the Office of the Essex County Sheriff.\nLien(s)/Taxes:\nNote: The street address is merely given as a convenience to the bidders and is not a representation of fact on the part of the sheriff. The diagram or concise description does not constitute a full legal description of the premises, but it can be found in the Essex County Sheriff Office.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee and the Mortgagee’s attorney.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate amount due on this execution is $280,496.18 plus interest, cost, printers’ fees, Sheriff's fees and commission. The prior liens, as per affidavit of consideration are not a representation of fact on the part of the Sheriff.\nAmir D. Jones\nSHERIFF\nAdvertised\nDATED: May 7, 2026\nBROCK & SCOTT, PLLC\n302 FELLOWSHIP ROAD\nSUITE 130\nMOUNT LAUREL, NJ 08054\n844 856-6646",
   "extracted": {
@@ -36,7 +36,7 @@
     "sale_date": "2026-10-27"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "ROYAL PACIFIC FUNDING CORPORATION",
@@ -64,6 +64,10 @@
     {
       "date": "2026-10-27",
       "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-10-27",
+      "status": "Settled - Foreclosure"
     }
   ],
   "upset_amount": 280496.18,

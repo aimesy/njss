@@ -1,0 +1,51 @@
+{
+  "address": "505 Shore Road Union Beach NJ 07735",
+  "attorney": "McCalla Raymer Leibert Pierce LLC",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F00125226",
+  "current_status": "Scheduled",
+  "defendant": "Sefer Kir; Elif Kir, wife of Sefer Kir, et al.",
+  "description": "Approximate dimensions 100.00 x 50.00 Feet\nNearest cross street Lorillard Avenue\nSubject to Sewer in the amount of $115.00, open, plus penalty.\nSewer in the amount of $115.00, open, plus penalty; owed in arrears.\nUpset Price $490,258.29\nOccupancy Status Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+  "extracted": {
+    "upset_amount": 490258.29
+  },
+  "fields": {
+    "Address": "505 Shore Road\nUnion Beach NJ 07735",
+    "Approx. Judgment*": "$0.00",
+    "Attorney": "McCalla Raymer Leibert Pierce LLC",
+    "Court Case #": "F00125226",
+    "Defendant": "Sefer Kir; Elif Kir, wife of Sefer Kir, et al.",
+    "Description": "Approximate dimensions 100.00 x 50.00 Feet\nNearest cross street Lorillard Avenue\nSubject to Sewer in the amount of $115.00, open, plus penalty.\nSewer in the amount of $115.00, open, plus penalty; owed in arrears.\nUpset Price $490,258.29\nOccupancy Status Occupied\n**To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.**",
+    "Parcel #": "Lot and Block: Lot 11, Block 212 Tax Map of Borough of Union Beach",
+    "Plaintiff": "Lakeview Loan Servicing, LLC",
+    "Property Note": "",
+    "Sales Date": "12/7/2026",
+    "Sheriff #": "FOR-26002112"
+  },
+  "first_seen": "2026-10-15",
+  "judgment_amount": 0.0,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "505 Shore Road Union Beach NJ 07735",
+    "defendant": "Sefer Kir; Elif Kir, wife of Sefer Kir, et al.",
+    "listing_status": "Scheduled",
+    "plaintiff": "Lakeview Loan Servicing, LLC",
+    "sale_date": "2026-12-07"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 11, Block 212 Tax Map of Borough of Union Beach",
+  "plaintiff": "Lakeview Loan Servicing, LLC",
+  "property_note": null,
+  "sale_date": "2026-12-07",
+  "sheriff_number": "FOR-26002112",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2026-12-07",
+      "status": "Scheduled"
+    }
+  ]
+}

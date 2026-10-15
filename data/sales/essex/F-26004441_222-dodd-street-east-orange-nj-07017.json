@@ -1,0 +1,55 @@
+{
+  "address": "222 DODD STREET EAST ORANGE NJ 07017",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": null,
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00350626",
+  "current_status": "Scheduled",
+  "defendant": "SHAHIDA A. MITCHELL; ET AL.",
+  "description": "LOT: 3 BLOCK: 870\nAPPROXIMATE DIMENSIONS: 50 FEET BY 150 FEET\nNEAREST CROSS STREET: APPROXIMATELY 145.37 FEET FROM THE NORTHERLY SIDELINE OF DODD STREET TO THE ANGLE POINT IN THE WESTERLY SIDELINE OF SAME\nUPSET BID AMOUNT: $27,838.93. OCCUPANCY STATUS: OCCUPIED.\nAMOUNT DUE FOR TAXES: TAXES PAID AND CURRENT AS OF 9/17/2026.\nSALE MAY BE SUBJECT TO SUBJECT TO SUBSEQUENT TAXES, LIENS, UTILITIES AND INTEREST SINCE 9/17/2026.\nWATER/SEWER PAID AND CURRENT AS OF 9/17/2026",
+  "extracted": {
+    "block": "870",
+    "lot": "3",
+    "occupancy": "OCCUPIED."
+  },
+  "fields": {
+    "Address": "222 DODD STREET\nEAST ORANGE NJ 07017",
+    "Approx. Upset*": "$27,389.33",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "",
+    "Court Case #": "F00350626",
+    "Defendant": "SHAHIDA A. MITCHELL; ET AL.",
+    "Description": "LOT: 3 BLOCK: 870\nAPPROXIMATE DIMENSIONS: 50 FEET BY 150 FEET\nNEAREST CROSS STREET: APPROXIMATELY 145.37 FEET FROM THE NORTHERLY SIDELINE OF DODD STREET TO THE ANGLE POINT IN THE WESTERLY SIDELINE OF SAME\nUPSET BID AMOUNT: $27,838.93. OCCUPANCY STATUS: OCCUPIED.\nAMOUNT DUE FOR TAXES: TAXES PAID AND CURRENT AS OF 9/17/2026.\nSALE MAY BE SUBJECT TO SUBJECT TO SUBSEQUENT TAXES, LIENS, UTILITIES AND INTEREST SINCE 9/17/2026.\nWATER/SEWER PAID AND CURRENT AS OF 9/17/2026",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+    "Property Note": "",
+    "Sales Date": "12/1/2026",
+    "Sheriff #": "F-26004441"
+  },
+  "first_seen": "2026-10-15",
+  "listing": {
+    "address": "222 DODD STREET EAST ORANGE NJ 07017",
+    "defendant": "SHAHIDA A. MITCHELL; ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+    "sale_date": "2026-12-01"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+  "property_note": null,
+  "sale_date": "2026-12-01",
+  "sheriff_number": "F-26004441",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-12-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 27389.33,
+  "upset_amount_label": "Approx. Upset*"
+}
