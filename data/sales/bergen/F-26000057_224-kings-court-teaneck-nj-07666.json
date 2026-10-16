@@ -6,7 +6,7 @@
   "court_case_number": "F01537419",
   "current_status": "Adjourned - Court",
   "defendant": "LADY M. MEJIA; MR. MEJIA, HUSBAND OF LADY M. MEJIA; JOSE B. MOLINA; ET AL",
-  "description": "THE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUTN AS OF 12/31/2025 IS $770,428.77\nPROPERTY IS OCCUPIED BY UNKNOWN.",
+  "description": "THE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 12/31/2025 IS $770,428.77\nPROPERTY IS OCCUPIED BY UNKNOWN.",
   "extracted": {},
   "fields": {
     "Address": "224 KINGS COURT\nTEANECK NJ 07666",
@@ -14,11 +14,11 @@
     "Attorney": "STERN LAVINTHAL AND FRANKENBERG LLC",
     "Court Case #": "F01537419",
     "Defendant": "LADY M. MEJIA; MR. MEJIA, HUSBAND OF LADY M. MEJIA; JOSE B. MOLINA; ET AL",
-    "Description": "THE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUTN AS OF 12/31/2025 IS $770,428.77\nPROPERTY IS OCCUPIED BY UNKNOWN.",
+    "Description": "THE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 12/31/2025 IS $770,428.77\nPROPERTY IS OCCUPIED BY UNKNOWN.",
     "Parcel #": "LOT 1, BLOCK 4813",
     "Plaintiff": "CITIMORTGAGE, INC",
     "Property Note": "",
-    "Sales Date": "10/16/2026",
+    "Sales Date": "12/18/2026",
     "Sheriff #": "F-26000057"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "LADY M. MEJIA; MR. MEJIA, HUSBAND OF LADY M. MEJIA; JOSE B. MOLINA; ET AL",
     "listing_status": null,
     "plaintiff": "CITIMORTGAGE, INC",
-    "sale_date": "2026-10-16"
+    "sale_date": "2026-12-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "LOT 1, BLOCK 4813",
   "plaintiff": "CITIMORTGAGE, INC",
   "property_note": null,
-  "sale_date": "2026-10-16",
+  "sale_date": "2026-12-18",
   "sheriff_number": "F-26000057",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
   "status_history": [
@@ -61,6 +61,10 @@
     },
     {
       "date": "2026-10-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-12-18",
       "status": "Adjourned - Court"
     }
   ],

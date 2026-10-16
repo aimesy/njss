@@ -1,6 +1,6 @@
 {
   "address": "8 PASCACK AVENUE HARRINGTON PARK NJ 07640",
-  "attorney": "SHAPIRO CROLAND",
+  "attorney": "FERRARO & STAMOS LLP",
   "county": "Bergen County, NJ",
   "county_id": 7,
   "court_case_number": "F554624",
@@ -14,14 +14,14 @@
   "fields": {
     "Address": "8 PASCACK AVENUE\nHARRINGTON PARK NJ 07640",
     "Approx. Upset*": "$560,789.86",
-    "Attorney": "SHAPIRO CROLAND",
+    "Attorney": "FERRARO & STAMOS LLP",
     "Court Case #": "F554624",
     "Defendant": "SCHAFFER HOMES 1, LLC, NATIONAL BUILDING SUPPLY CORP. A DIVISION OF DISTRIBUTION, INC, ET AL",
     "Description": "This is an investment property and the Community Wealth Preservation Program (CWPP) does not apply.\nUpset Price: $562,723.75 through 6/26/25 (per diem $113.78)\nOccupancy Status: Believed to be occupied. Occupant identity unknown as property is owned by a limited liability company.",
     "Parcel #": "LOT 9, BLOCK 1502",
     "Plaintiff": "HOME PROS FUNDING LLC",
     "Property Note": "",
-    "Sales Date": "10/16/2026",
+    "Sales Date": "11/13/2026",
     "Sheriff #": "F-25001544"
   },
   "first_seen": "2026-10-12",
@@ -30,7 +30,7 @@
     "defendant": "SCHAFFER HOMES 1, LLC, NATIONAL BUILDING SUPPLY CORP. A DIVISION OF DISTRIBUTION, INC, ET AL",
     "listing_status": null,
     "plaintiff": "HOME PROS FUNDING LLC",
-    "sale_date": "2026-10-16"
+    "sale_date": "2026-11-13"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -38,7 +38,7 @@
   "parcel": "LOT 9, BLOCK 1502",
   "plaintiff": "HOME PROS FUNDING LLC",
   "property_note": null,
-  "sale_date": "2026-10-16",
+  "sale_date": "2026-11-13",
   "sheriff_number": "F-25001544",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
   "status_history": [
@@ -96,6 +96,10 @@
     },
     {
       "date": "2026-10-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-11-13",
       "status": "Adjourned - Court"
     }
   ],

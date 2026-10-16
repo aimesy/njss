@@ -1,0 +1,53 @@
+{
+  "address": "730 HOLLY LANE WESTAMPTON NJ 08060",
+  "attorney": "PERLOW LAW",
+  "attorney_phone": "(201) 503-5353",
+  "county": "Burlington County, NJ",
+  "county_id": 3,
+  "court_case_number": "F-012741-24",
+  "current_status": "Scheduled for",
+  "defendant": "JAMES CLAYTON INDIVIDUALLY AND AS EXECUTOR OF THE ESTATE OF CLIFFORD J. SIMPSON, ARLENE CLAYTON INDIVIDUALLY AND AS EXECUTOR OF THE ESTATE OF CLIFFORD J. SIMPSON AKA CLIFFORD JOSEPH SIMPSON, THE STATE OF NEW JERSEY, THE UNITED STATES OF AMERICA",
+  "description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $312,693.81",
+  "extracted": {
+    "upset_amount": 312693.81
+  },
+  "fields": {
+    "Address": "730 HOLLY LANE\nWESTAMPTON NJ 08060",
+    "Approx. Judgment": "$283,822.10",
+    "Attorney": "PERLOW LAW",
+    "Attorney Phone": "(201) 503-5353",
+    "Court Case #": "F-012741-24",
+    "Defendant": "JAMES CLAYTON INDIVIDUALLY AND AS EXECUTOR OF THE ESTATE OF CLIFFORD J. SIMPSON, ARLENE CLAYTON INDIVIDUALLY AND AS EXECUTOR OF THE ESTATE OF CLIFFORD J. SIMPSON AKA CLIFFORD JOSEPH SIMPSON, THE STATE OF NEW JERSEY, THE UNITED STATES OF AMERICA",
+    "Description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $312,693.81",
+    "Parcel #": "",
+    "Plaintiff": "BRUCE PROPERTIES LIMITED LIABILITY COMPANY",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "26002105"
+  },
+  "first_seen": "2026-10-16",
+  "judgment_amount": 283822.1,
+  "judgment_amount_label": "Approx. Judgment",
+  "listing": {
+    "address": "730 HOLLY LANE WESTAMPTON NJ 08060",
+    "defendant": "JAMES CLAYTON INDIVIDUALLY AND AS EXECUTOR OF THE ESTATE OF CLIFFORD J. SIMPSON, ARLENE CLAYTON INDIVIDUALLY AND AS EXECUTOR OF THE ESTATE OF CLIFFORD J. SIMPSON AKA CLIFFORD JOSEPH SIMPSON, THE STATE OF NEW JERSEY, THE UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "BRUCE PROPERTIES LIMITED LIABILITY COMPANY",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Burlington County, NJ)",
+  "parcel": null,
+  "plaintiff": "BRUCE PROPERTIES LIMITED LIABILITY COMPANY",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "26002105",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=3",
+  "status_history": [
+    {
+      "date": "2026-11-19",
+      "status": "Scheduled for"
+    }
+  ]
+}

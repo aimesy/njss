@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F01096523",
-  "current_status": "Bankuptcy",
+  "current_status": "Settled",
   "defendant": "MARIAN FIORDELIZ R. HABANA, TERESA A. REMOLLO",
   "description": "LOT 7 BLOCK 3901",
   "extracted": {
@@ -21,7 +21,7 @@
     "Parcel #": "LOT 7 BLOCK 3901",
     "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRPL TRUST 2019-1",
     "Property Note": "",
-    "Sales Date": "11/5/2025",
+    "Sales Date": "10/15/2026",
     "Sheriff #": "CH-25001372"
   },
   "first_seen": "2026-10-12",
@@ -30,7 +30,7 @@
     "defendant": "MARIAN FIORDELIZ R. HABANA, TERESA A. REMOLLO",
     "listing_status": null,
     "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRPL TRUST 2019-1",
-    "sale_date": "2025-11-05"
+    "sale_date": "2026-10-15"
   },
   "listing_status": null,
   "on_open_list": false,
@@ -38,7 +38,7 @@
   "parcel": "LOT 7 BLOCK 3901",
   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF NRPL TRUST 2019-1",
   "property_note": null,
-  "sale_date": "2025-11-05",
+  "sale_date": "2026-10-15",
   "sheriff_number": "CH-25001372",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
   "status_history": [
@@ -57,6 +57,10 @@
     {
       "date": "2025-11-05",
       "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-10-15",
+      "status": "Settled"
     }
   ],
   "upset_amount": 324884.82,

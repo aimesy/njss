@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00873425",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "LESLEY JONES, ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Lot 83, Block 152 on the official Tax Map of the CITY OF CAMDEN",
     "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION,\nAS TRUSTEE FOR FREEMONT HOME LOAN TRUST\n2006-B, MORTGAGE-BACKED CERTIFICATES,\nSERIES 2006-B",
     "Property Note": "Subject to tax sale certificate #26-001 01 for water, sewer and ccnltla in the atnount of $1,909.92. Third Party Purchaser is responsible for obtaining final amount to redeem.\nSUBJECT TO THE DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS OF THE ROYAL COURT HOMEOWNERS ASSOCIATION, INC., RECORDED IN OFFICE OF THE CAMDEN COUNTY CLERK, DEED BOOK 5049, PAGE 646.",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-26002133"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "LESLEY JONES, ET AL.",
     "listing_status": null,
     "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, \nAS TRUSTEE FOR FREEMONT HOME LOAN TRUST \n2006-B, MORTGAGE-BACKED CERTIFICATES, \nSERIES 2006-B",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Lot 83, Block 152 on the official Tax Map of the CITY OF CAMDEN",
   "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR FREEMONT HOME LOAN TRUST 2006-B, MORTGAGE-BACKED CERTIFICATES, SERIES 2006-B",
   "property_note": "Subject to tax sale certificate #26-001 01 for water, sewer and ccnltla in the atnount of $1,909.92. Third Party Purchaser is responsible for obtaining final amount to redeem.\nSUBJECT TO THE DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS OF THE ROYAL COURT HOMEOWNERS ASSOCIATION, INC., RECORDED IN OFFICE OF THE CAMDEN COUNTY CLERK, DEED BOOK 5049, PAGE 646.",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-26002133",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 189946.63,

@@ -1,0 +1,51 @@
+{
+  "address": "2017 BARNSBORO ROAD BLACKWOOD NJ 08012",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-001693-25",
+  "current_status": "Scheduled",
+  "defendant": "ORLANDO RODRIGUEZ, ET AL.",
+  "description": "THE PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF WASHINGTON IN THE COUNTY OF GLOUCESTER, AND STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: 101.58 FEET WIDE BY 162.72 FEET LONG\nNEAREST CROSS STREET: CAPE COD DRIVE\nESTIMATED UPSET PRICE: $243,183.77\nPROPERTY OCCUPISED BY UNKNOWN",
+  "extracted": {
+    "upset_amount": 243183.77
+  },
+  "fields": {
+    "Address": "2017 BARNSBORO ROAD\nBLACKWOOD NJ 08012",
+    "Approximate Judgment": "$222,881.35",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-001693-25",
+    "Defendant": "ORLANDO RODRIGUEZ, ET AL.",
+    "Description": "THE PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF WASHINGTON IN THE COUNTY OF GLOUCESTER, AND STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: 101.58 FEET WIDE BY 162.72 FEET LONG\nNEAREST CROSS STREET: CAPE COD DRIVE\nESTIMATED UPSET PRICE: $243,183.77\nPROPERTY OCCUPISED BY UNKNOWN",
+    "Parcel #": "LOT: 12 BLOCK: 3.01",
+    "Plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "Property Note": "",
+    "Sales Date": "2/3/2027",
+    "Sheriff #": "F-26001494"
+  },
+  "first_seen": "2026-10-16",
+  "judgment_amount": 222881.35,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "2017 BARNSBORO ROAD BLACKWOOD NJ 08012",
+    "defendant": "ORLANDO RODRIGUEZ, ET AL.",
+    "listing_status": "Scheduled",
+    "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+    "sale_date": "2027-02-03"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 12 BLOCK: 3.01",
+  "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+  "property_note": null,
+  "sale_date": "2027-02-03",
+  "sheriff_number": "F-26001494",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2027-02-03",
+      "status": "Scheduled"
+    }
+  ]
+}

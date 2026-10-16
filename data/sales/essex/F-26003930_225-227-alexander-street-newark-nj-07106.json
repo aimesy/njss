@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00281026",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned Sheriff",
   "defendant": "TAUREAN JOVON JOHNSON A/K/A TAUREAN JOHNSON; ET AL.",
   "description": "SUPERIOR COURT OF NEW JERSEY\nSuperior Court\nSHERIFF'S SALE NO. 26003930\nDOCKET NO. F00281026\nPLAINTIFF – ROCKET MORTGAGE, LLC.\nDEFENDANTS- TAUREAN JOVON JOHNSON A/K/A TAUREAN JOHNSON; ET AL.\nWrit of Execution.\nBy virtue of the above stated Writ of Execution to me directed and delivered I will expose for sale at public vendue on\nTuesday THE 27th DAY OF October 2026\nbetween the hours of 1:30 pm and 5:00 pm in the afternoon of said day, that is to say at 1:30 P.M. the prevailing time at The Leroy F. Smith Building, 60 West Market Street, 14th Floor, Newark, NJ 07102 to wit:\nAll that tract or parcel of land, situate, lying and being in the of NEWARK, County of Essex County and State of New Jersey:\nBeing known as:\nLOT: 14 BLOCK: 4050\nAPPROXIMATE DIMENSIONS: 37.6 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: 18TH AVENUE\nESTIMATED UPSET BID AMOUNT: $495,100.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: TENANT.\nWATER: NEWARK WATER DEPT. 920 BROAD STREET - ROOM 117 NEWARK, NJ 07102 973-733-6370, ACCT: 6773893106 TO: 08/07/2026 $809.90 OPEN PLUS PENALTY.\nGENERAL REMARK: SUBJECT TO TAX SALE . SUBJECT TO ADDITIONAL FEES.\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\nPREMISES COMMONLY KNOWN AS:\n225-227 ALEXANDER STREET NEWARK, NJ 07106\nA more complete metes and bounds description can be found in the Office of the Essex County Sheriff.\nLien(s)/Taxes:\nNote: The street address is merely given as a convenience to the bidders and is not a representation of fact on the part of the sheriff. The diagram or concise description does not constitute a full legal description of the premises, but it can be found in the Essex County Sheriff Office.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee and the Mortgagee’s attorney.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate amount due on this execution is $456,814.78 plus interest, cost, printers’ fees, Sheriff's fees and commission. The prior liens, as per affidavit of consideration are not a representation of fact on the part of the Sheriff.\nAmir D. Jones\nSHERIFF\nAdvertised\nDATED: September 9, 2026\nROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC\n130 CLINTON RD\nSUITE 202\nFAIRFIELD, NJ 07004\n973-575-0707",
   "extracted": {
@@ -24,7 +24,7 @@
     "Parcel #": "",
     "Plaintiff": "ROCKET MORTGAGE, LLC.",
     "Property Note": "",
-    "Sales Date": "10/27/2026",
+    "Sales Date": "12/1/2026",
     "Sheriff #": "F-26003930"
   },
   "first_seen": "2026-10-12",
@@ -33,7 +33,7 @@
     "defendant": "TAUREAN JOVON JOHNSON A/K/A TAUREAN JOHNSON; ET AL.",
     "listing_status": null,
     "plaintiff": "ROCKET MORTGAGE, LLC.",
-    "sale_date": "2026-10-27"
+    "sale_date": "2026-12-01"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -41,13 +41,21 @@
   "parcel": null,
   "plaintiff": "ROCKET MORTGAGE, LLC.",
   "property_note": null,
-  "sale_date": "2026-10-27",
+  "sale_date": "2026-12-01",
   "sheriff_number": "F-26003930",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
     {
       "date": "2026-10-27",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-12-01",
+      "status": "Adjourned Sheriff"
     }
   ],
   "upset_amount": 456814.78,

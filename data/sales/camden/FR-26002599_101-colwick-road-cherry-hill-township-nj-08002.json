@@ -1,0 +1,49 @@
+{
+  "address": "101 COLWICK ROAD CHERRY HILL TOWNSHIP NJ 08002",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00516026",
+  "current_status": "Scheduled",
+  "defendant": "JOSEPH CAIRNEY, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "101 COLWICK ROAD\nCHERRY HILL TOWNSHIP NJ 08002",
+    "Approx. Upset*": "$441,692.34",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00516026",
+    "Defendant": "JOSEPH CAIRNEY, ET AL.",
+    "Parcel #": "BLOCK: 260.01 LOT: 5",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "Sunrun, Inc. holds an interest in Solar Panels as of 04/29/2025.\nMerchantville-Pennsauken Water Co. holds a claim in the amount of $75.75 plus penalty as of 09/18/2026.\nCCMUA holds a claim in the amount of $93.00 and $100.90 plus penalty as of 09/18/2026.\nProperty Registration Fee Exists - contact Property Maintenance Dept at 856-834-3364 for details.",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "FR-26002599"
+  },
+  "first_seen": "2026-10-16",
+  "listing": {
+    "address": "101 COLWICK ROAD CHERRY HILL TOWNSHIP NJ 08002",
+    "defendant": "JOSEPH CAIRNEY, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK: 260.01 LOT: 5",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": "Sunrun, Inc. holds an interest in Solar Panels as of 04/29/2025.\nMerchantville-Pennsauken Water Co. holds a claim in the amount of $75.75 plus penalty as of 09/18/2026.\nCCMUA holds a claim in the amount of $93.00 and $100.90 plus penalty as of 09/18/2026.\nProperty Registration Fee Exists - contact Property Maintenance Dept at 856-834-3364 for details.",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "FR-26002599",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 441692.34,
+  "upset_amount_label": "Approx. Upset*"
+}

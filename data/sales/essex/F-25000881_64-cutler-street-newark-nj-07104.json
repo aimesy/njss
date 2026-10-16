@@ -24,7 +24,7 @@
     "Parcel #": "",
     "Plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
     "Property Note": "",
-    "Sales Date": "12/8/2026",
+    "Sales Date": "12/15/2026",
     "Sheriff #": "F-25000881"
   },
   "first_seen": "2026-10-12",
@@ -33,7 +33,7 @@
     "defendant": "NEWARK REALTY PLUS LLC, ET. AL",
     "listing_status": null,
     "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
-    "sale_date": "2026-12-08"
+    "sale_date": "2026-12-15"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -41,7 +41,7 @@
   "parcel": null,
   "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
   "property_note": null,
-  "sale_date": "2026-12-08",
+  "sale_date": "2026-12-15",
   "sheriff_number": "F-25000881",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
@@ -79,6 +79,10 @@
     },
     {
       "date": "2026-12-08",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-12-15",
       "status": "Adjourned Sheriff"
     }
   ],

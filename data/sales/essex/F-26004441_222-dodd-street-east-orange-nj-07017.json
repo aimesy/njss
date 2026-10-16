@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00350626",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned Sheriff",
   "defendant": "SHAHIDA A. MITCHELL; ET AL.",
   "description": "LOT: 3 BLOCK: 870\nAPPROXIMATE DIMENSIONS: 50 FEET BY 150 FEET\nNEAREST CROSS STREET: APPROXIMATELY 145.37 FEET FROM THE NORTHERLY SIDELINE OF DODD STREET TO THE ANGLE POINT IN THE WESTERLY SIDELINE OF SAME\nUPSET BID AMOUNT: $27,838.93. OCCUPANCY STATUS: OCCUPIED.\nAMOUNT DUE FOR TAXES: TAXES PAID AND CURRENT AS OF 9/17/2026.\nSALE MAY BE SUBJECT TO SUBJECT TO SUBSEQUENT TAXES, LIENS, UTILITIES AND INTEREST SINCE 9/17/2026.\nWATER/SEWER PAID AND CURRENT AS OF 9/17/2026",
   "extracted": {
@@ -24,7 +24,7 @@
     "Parcel #": "",
     "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
     "Property Note": "",
-    "Sales Date": "12/1/2026",
+    "Sales Date": "1/5/2027",
     "Sheriff #": "F-26004441"
   },
   "first_seen": "2026-10-15",
@@ -33,7 +33,7 @@
     "defendant": "SHAHIDA A. MITCHELL; ET AL.",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
-    "sale_date": "2026-12-01"
+    "sale_date": "2027-01-05"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -41,13 +41,21 @@
   "parcel": null,
   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
   "property_note": null,
-  "sale_date": "2026-12-01",
+  "sale_date": "2027-01-05",
   "sheriff_number": "F-26004441",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
     {
       "date": "2026-12-01",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-29",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2027-01-05",
+      "status": "Adjourned Sheriff"
     }
   ],
   "upset_amount": 27389.33,

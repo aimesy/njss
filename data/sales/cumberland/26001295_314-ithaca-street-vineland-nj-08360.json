@@ -1,0 +1,54 @@
+{
+  "address": "314 ITHACA STREET VINELAND NJ 08360",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Cumberland County, NJ",
+  "county_id": 6,
+  "court_case_number": "F00893624",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": "LOT 17 FKA 4 BLOCK 1701 FKA 193",
+  "defendant": "RICHARD V DAWKINS ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "314 ITHACA STREET\nVINELAND NJ 08360",
+    "Approx. Judgment*": "$156,535.78",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00893624",
+    "Deed": "",
+    "Deed Address": "LOT 17 FKA 4 BLOCK 1701 FKA 193",
+    "Defendant": "RICHARD V DAWKINS ET AL",
+    "Plaintiff": "ELIZON MASTER PARTICIPATION TRUST I US BANK TRUST NATIONAL ASSOCIATION AS OWNER TRUSTEE",
+    "Priors": "",
+    "Property Note": "",
+    "Sales Date": "12/16/2026",
+    "Sheriff #": "26001295",
+    "Upset Amount": "$169,040.95"
+  },
+  "first_seen": "2026-10-16",
+  "judgment_amount": 156535.78,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "314 ITHACA STREET VINELAND NJ 08360",
+    "defendant": "RICHARD V DAWKINS ET AL",
+    "listing_status": null,
+    "plaintiff": "ELIZON MASTER PARTICIPATION TRUST I US BANK TRUST NATIONAL ASSOCIATION AS OWNER TRUSTEE",
+    "sale_date": "2026-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Cumberland County, NJ)",
+  "plaintiff": "ELIZON MASTER PARTICIPATION TRUST I US BANK TRUST NATIONAL ASSOCIATION AS OWNER TRUSTEE",
+  "priors": null,
+  "property_note": null,
+  "sale_date": "2026-12-16",
+  "sheriff_number": "26001295",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+  "status_history": [
+    {
+      "date": "2026-12-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 169040.95,
+  "upset_amount_label": "Upset Amount"
+}

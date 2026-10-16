@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-002431-25 (CWPP INELIGIBLE)",
-  "current_status": "Scheduled",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
   "defendant": "GRACE STREET JERSEY CITY LLC AND VOLVIE BROWN",
   "description": "LOT 43 IN BLOCK 504 C0201 AND LOT 43 IN BLOCK 504 C0202\nDIMENSIONS (APPROX.): 25.04X100\nNEAREST CROSS STREET: SUMMIT AVE",
   "extracted": {
@@ -23,7 +23,7 @@
     "Judgment": "$921,557.34",
     "Plaintiff": "ACT FUND 3, LLC",
     "Property Note": "",
-    "Sales Date": "10/22/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "20064021"
   },
   "first_seen": "2026-10-12",
@@ -34,20 +34,24 @@
     "defendant": "GRACE STREET JERSEY CITY LLC AND VOLVIE BROWN",
     "listing_status": null,
     "plaintiff": "ACT FUND 3, LLC",
-    "sale_date": "2026-10-22"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "ACT FUND 3, LLC",
   "property_note": null,
-  "sale_date": "2026-10-22",
+  "sale_date": "2027-01-07",
   "sheriff_number": "20064021",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
     {
       "date": "2026-10-22",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
     }
   ],
   "upset_amount": null,

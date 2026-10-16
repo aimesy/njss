@@ -22,7 +22,7 @@
     "Parcel #": "Tax Lot 1 C101 Block 8503",
     "Plaintiff": "PEOPLES SECURITY BANK & TRUST COMPANY",
     "Property Note": "",
-    "Sales Date": "10/20/2026",
+    "Sales Date": "11/17/2026",
     "Sheriff #": "F-26000988"
   },
   "first_seen": "2026-10-12",
@@ -31,7 +31,7 @@
     "defendant": "YEC CONSULTING, LLC",
     "listing_status": null,
     "plaintiff": "PEOPLES SECURITY BANK & TRUST COMPANY",
-    "sale_date": "2026-10-20"
+    "sale_date": "2026-11-17"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -39,7 +39,7 @@
   "parcel": "Tax Lot 1 C101 Block 8503",
   "plaintiff": "PEOPLES SECURITY BANK & TRUST COMPANY",
   "property_note": null,
-  "sale_date": "2026-10-20",
+  "sale_date": "2026-11-17",
   "sheriff_number": "F-26000988",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -49,6 +49,10 @@
     },
     {
       "date": "2026-10-20",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-11-17",
       "status": "Adjourned - Defendant"
     }
   ],

@@ -32,7 +32,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "LOT 2 BLOCK 243",
   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-EMX8",
@@ -44,6 +44,10 @@
     {
       "date": "2026-09-23",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-15",
+      "status": "Cancelled"
     },
     {
       "date": "2026-10-21",

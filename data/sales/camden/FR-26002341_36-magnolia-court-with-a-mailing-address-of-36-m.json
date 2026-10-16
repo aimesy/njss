@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00219224",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "KIM COSTON AND TRACY A. COSTON, HUSBAND AND WIFE; STATE OF NEW JERSEY AND SOUTH JERSEY RADIOLOGY,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Lot 32, Block 10801",
     "Plaintiff": "CSMC 2018-RPL1 TRUST,",
     "Property Note": "2026 3rd Quarter Taxes in the amount of $732.45, open plus penalty.\nCCMUA in the amount of $93.00, open plus penalty.\nCCMUA in the amount of $920.00, open plus penalty; owed in arrears.\nWater in the amount of $110.00, open plus penalty.\nWater in the amount of $272.78, open plus penalty; owed in arrears. Sewer in the amount of $110.00, open plus penalty.\nSewer in the amount of $266.64, open plus penalty; owed in arrears.",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26002341"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "KIM COSTON AND TRACY A. COSTON, HUSBAND AND WIFE; \nSTATE OF NEW JERSEY AND SOUTH JERSEY RADIOLOGY,",
     "listing_status": null,
     "plaintiff": "CSMC 2018-RPL1 TRUST,",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Lot 32, Block 10801",
   "plaintiff": "CSMC 2018-RPL1 TRUST,",
   "property_note": "2026 3rd Quarter Taxes in the amount of $732.45, open plus penalty.\nCCMUA in the amount of $93.00, open plus penalty.\nCCMUA in the amount of $920.00, open plus penalty; owed in arrears.\nWater in the amount of $110.00, open plus penalty.\nWater in the amount of $272.78, open plus penalty; owed in arrears. Sewer in the amount of $110.00, open plus penalty.\nSewer in the amount of $266.64, open plus penalty; owed in arrears.",
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26002341",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-04",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 137241.97,

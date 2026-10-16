@@ -15,10 +15,10 @@
     "Attorney Phone": "212-471-5100",
     "Court Case #": "F00831125",
     "Defendant": "DEBORAH FIORAVANTI",
-    "Parcel #": "",
+    "Parcel #": "Tax Lot(s): 18, in Block: 529.13",
     "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
-    "Property Note": "",
-    "Sales Date": "8/4/2026",
+    "Property Note": "Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 — Summit Bank vs. Dennis Thiel (A-58-98).",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26000036"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "DEBORAH FIORAVANTI",
     "listing_status": null,
     "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
-    "sale_date": "2026-08-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
-  "parcel": null,
+  "parcel": "Tax Lot(s): 18, in Block: 529.13",
   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
-  "property_note": null,
-  "sale_date": "2026-08-04",
+  "property_note": "Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 — Summit Bank vs. Dennis Thiel (A-58-98).",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26000036",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -52,11 +52,11 @@
       "status": "Purchased"
     },
     {
-      "date": "2026-08-04",
-      "status": "Bankruptcy"
+      "date": "2026-08-19",
+      "status": "Scheduled"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-12-02",
       "status": "Scheduled"
     }
   ],
