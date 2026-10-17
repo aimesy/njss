@@ -1,0 +1,55 @@
+{
+  "address": "205 10TH STREET APARTMENT 2H AKA 205 TENTH ST. #2H JERSEY CITY NJ 07302",
+  "attorney": "KML LAW GROUP, P.C",
+  "attorney_phone": "215-627-1322",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-000833-26",
+  "current_status": "Scheduled",
+  "defendant": "FRANK ASANTE KISSI, ET AL",
+  "description": "TAX LOT NO. LOT 2 C0208 FKA LOT G3.2H C0208 BLOCK 8803 FKA BLOCK 252\nDIMENSIONS OF LOT: (APPROXIMATELY) CONDO\nNEAREST CROSS STREET: GROVE STREET\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $503,101.87.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY OWNER OCCUPIED BY OWNER.",
+  "extracted": {
+    "block": "8803",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "205 10TH STREET APARTMENT 2H\nAKA 205 TENTH ST. #2H\nJERSEY CITY NJ 07302",
+    "Attorney": "KML LAW GROUP, P.C",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-000833-26",
+    "Defendant": "FRANK ASANTE KISSI, ET AL",
+    "Description": "TAX LOT NO. LOT 2 C0208 FKA LOT G3.2H C0208 BLOCK 8803 FKA BLOCK 252\nDIMENSIONS OF LOT: (APPROXIMATELY) CONDO\nNEAREST CROSS STREET: GROVE STREET\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $503,101.87.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY OWNER OCCUPIED BY OWNER.",
+    "Good Faith Upset*": "$503,101.87",
+    "Judgment": "$465,916.44",
+    "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SLST 2022-1 PARTICIPATION INTEREST TRUST",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20064496"
+  },
+  "first_seen": "2026-10-17",
+  "judgment_amount": 465916.44,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "205 10TH STREET APARTMENT 2H AKA 205 TENTH ST. #2H JERSEY CITY NJ 07302",
+    "defendant": "FRANK ASANTE KISSI, ET AL",
+    "listing_status": null,
+    "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SLST 2022-1 PARTICIPATION INTEREST TRUST",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SLST 2022-1 PARTICIPATION INTEREST TRUST",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20064496",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-12-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 503101.87,
+  "upset_amount_label": "Good Faith Upset*"
+}
