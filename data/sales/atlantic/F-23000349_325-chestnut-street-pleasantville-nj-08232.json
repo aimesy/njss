@@ -3,7 +3,7 @@
   "attorney": "Hill Wallack LLP",
   "county": "Atlantic County, NJ",
   "county_id": 25,
-  "court_case_number": "F-006200-22 ALIAS",
+  "court_case_number": "F-006200-22 PLURIES",
   "current_status": "Scheduled",
   "deed": null,
   "deed_address": null,
@@ -13,16 +13,16 @@
     "Address": "325 Chestnut Street\nPleasantville NJ 08232",
     "Approx. Judgment*": "$293,795.59",
     "Attorney": "Hill Wallack LLP",
-    "Court Case #": "F-006200-22 ALIAS",
+    "Court Case #": "F-006200-22 PLURIES",
     "Deed": "",
     "Deed Address": "",
     "Defendant": "Jeffrey A. Mielchen; Shore Medical Center",
     "Plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust VII-A",
     "Priors": "NONE",
-    "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
-    "Sales Date": "2/27/2025",
+    "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+    "Sales Date": "7/31/2025",
     "Sheriff #": "F-23000349",
-    "Upset Amount": "$344,257.81"
+    "Upset Amount": "$360,787.45"
   },
   "first_seen": "2026-10-12",
   "judgment_amount": 293795.59,
@@ -32,35 +32,27 @@
     "defendant": "Jeffrey A. Mielchen;...",
     "listing_status": null,
     "plaintiff": "Wilmington Savings F...",
-    "sale_date": "2025-02-27"
+    "sale_date": "2025-07-31"
   },
   "listing_status": null,
   "on_open_list": false,
   "page_title": "Sales Listing Detail (Atlantic County, NJ)",
   "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust VII-A",
   "priors": "NONE",
-  "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
-  "sale_date": "2025-02-27",
+  "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
+  "sale_date": "2025-07-31",
   "sheriff_number": "F-23000349",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
     {
-      "date": "2025-02-27",
+      "date": "2025-07-31",
       "status": "Cancelled"
     },
     {
-      "date": "2025-02-27",
-      "status": "Rescheduled Post Bankruptcy to"
-    },
-    {
-      "date": "2024-11-07",
-      "status": "Indefinite Bankruptcy"
-    },
-    {
-      "date": "2024-11-07",
+      "date": "2025-07-31",
       "status": "Scheduled"
     }
   ],
-  "upset_amount": 344257.81,
+  "upset_amount": 360787.45,
   "upset_amount_label": "Upset Amount"
 }

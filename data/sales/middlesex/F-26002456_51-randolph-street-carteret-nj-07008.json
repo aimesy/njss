@@ -6,7 +6,7 @@
   "county": "Middlesex County, NJ",
   "county_id": 73,
   "court_case_number": "F00941325",
-  "current_status": "Scheduled - Foreclosure",
+  "current_status": "Cancelled",
   "defendant": "VICTOR OSORIO, ET ALS.",
   "description": null,
   "extracted": {},
@@ -53,6 +53,10 @@
     {
       "date": "2026-12-02",
       "status": "Scheduled - Foreclosure"
+    },
+    {
+      "date": "2026-10-15",
+      "status": "Cancelled"
     }
   ],
   "upset_amount": null,

@@ -1,0 +1,55 @@
+{
+  "address": "769 LAKE STREET A/K/A 767-769 LAKE STREET NEWARK NJ 07104",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973 575-0707",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00543126",
+  "current_status": "Scheduled",
+  "defendant": "FRANK PANICO; ET AL.",
+  "description": "LOT: 40 BLOCK: 757\nAPPROXIMATE DIMENSIONS: 50 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: HELLER PKWY\nESTIMATED UPSET BID AMOUNT: 675,200.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: VACANT\n2025 TAXES: $7,006.25 BILLED, $3,674.82 OPEN PLUS PENALTY\n2026 QTR 1 DUE: 02/01/2026 $1,751.57 OPEN PLUS PENALTY\n2026 QTR 2 DUE: 05/01/2026 $1,751.56 OPEN PLUS PENALTY\n2026 QTR 3 DUE: 08/01/2026 $1,953.04 OPEN PLUS PENALTY\nWATER: NEWARK WATER DEPT. 920 BROAD STREET - ROOM 117 NEWARK. NJ 07102 973-733-6370 ACCT: 9145831291 TO: 09/11/2026 $908.87 OPEN PLUS PENALTY\nGENERAL REMARK: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES\nGENERAL REMARK: SUBJECT TO ADD'L 6% PENALTY FOR BALANCED OVER $10,000.00",
+  "extracted": {
+    "block": "757",
+    "lot": "40",
+    "occupancy": "VACANT"
+  },
+  "fields": {
+    "Address": "769 LAKE STREET\nA/K/A 767-769 LAKE STREET\nNEWARK NJ 07104",
+    "Approx. Upset*": "$616,731.49",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973 575-0707",
+    "Court Case #": "F00543126",
+    "Defendant": "FRANK PANICO; ET AL.",
+    "Description": "LOT: 40 BLOCK: 757\nAPPROXIMATE DIMENSIONS: 50 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: HELLER PKWY\nESTIMATED UPSET BID AMOUNT: 675,200.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: VACANT\n2025 TAXES: $7,006.25 BILLED, $3,674.82 OPEN PLUS PENALTY\n2026 QTR 1 DUE: 02/01/2026 $1,751.57 OPEN PLUS PENALTY\n2026 QTR 2 DUE: 05/01/2026 $1,751.56 OPEN PLUS PENALTY\n2026 QTR 3 DUE: 08/01/2026 $1,953.04 OPEN PLUS PENALTY\nWATER: NEWARK WATER DEPT. 920 BROAD STREET - ROOM 117 NEWARK. NJ 07102 973-733-6370 ACCT: 9145831291 TO: 09/11/2026 $908.87 OPEN PLUS PENALTY\nGENERAL REMARK: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES\nGENERAL REMARK: SUBJECT TO ADD'L 6% PENALTY FOR BALANCED OVER $10,000.00",
+    "Parcel #": "",
+    "Plaintiff": "OCWEN LOAN ACQUISITION TRUST 2024-HB1",
+    "Property Note": "",
+    "Sales Date": "12/1/2026",
+    "Sheriff #": "F-26004505"
+  },
+  "first_seen": "2026-10-19",
+  "listing": {
+    "address": "769 LAKE STREET A/K/A 767-769 LAKE STREET NEWARK NJ 07104",
+    "defendant": "FRANK PANICO; ET AL.",
+    "listing_status": null,
+    "plaintiff": "OCWEN LOAN ACQUISITION TRUST 2024-HB1",
+    "sale_date": "2026-12-01"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "OCWEN LOAN ACQUISITION TRUST 2024-HB1",
+  "property_note": null,
+  "sale_date": "2026-12-01",
+  "sheriff_number": "F-26004505",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-12-01",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 616731.49,
+  "upset_amount_label": "Approx. Upset*"
+}

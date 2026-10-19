@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00656325",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "SHABRIA MANGUM, ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT 44 TAX BLOCK 78",
     "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
     "Property Note": "Priority Tax Lien Holder: FIG 25, LLC FBO SEC PTY holds Tax sale Certificate\nNo. 26-00092 in the amount of $763.97 + Subsequent Charges in the amount of $196.02 in total of $959.99 as of 01/15/2026.",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-26002085"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "SHABRIA MANGUM, ET AL.",
     "listing_status": null,
     "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "TAX LOT 44 TAX BLOCK 78",
   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
   "property_note": "Priority Tax Lien Holder: FIG 25, LLC FBO SEC PTY holds Tax sale Certificate\nNo. 26-00092 in the amount of $763.97 + Subsequent Charges in the amount of $196.02 in total of $959.99 as of 01/15/2026.",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-26002085",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 201231.29,
