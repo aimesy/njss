@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-007878-25",
-  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "current_status": "BANKRUPTCY HOLD",
   "defendant": "STEPHEN B SCARPA; NORTH BERGEN GRAND VIEW CONDOMINIUM ASSOCIATION; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
   "description": "Lot: 13 0104; Block: 40\nDIMENSIONS: Approximately: 3.31-1000\nNEAREST CROSS STREET: 21st Street\nUPSET PRICE: Approximately: $184,159.27 and any additional sums as ordered by the court\nOCCUPANCY STATUS: Unknown\nUNIT NO. B-l SITUATE IN NORTH BERGEN GRAND VIEW CONDOMINIUM, A CONDOMINIUM, TOGETHER WITH A 3.31 UNDIVIDED PERCENTAGE INTEREST IN THE COMMON ELEMENTS OF SAID CONDOMINIUM APPURTENTANT TO THE AFORESAID UNITS, IN ACCORDANCE WITH AND SUBJECT TO THE TERMS, LIMITATIONS, CONDITIONS, RESTRICTIONS, EASEMENTS, AGREEMENTS, AND OTHER PROVISIONS SET FORTH IN THAT CERTAIN MASTER DEED FOR NORTH BERGEN GRAND VIEW CONDOMNIUM, A CONDOMINIUM DATED MAY 7, 1987 AND RECORDED, SEPTEMBER 10, 1987 IN THE OFFICE OF THE HUDSON COUNTY CLERK IN DEED BOOK 3796 PAGE 57 AS SAME NOW OR HEREAFTER BE LAWFULLY AMENDED SUBJECT TO THE PROVISIONS OF THE BY-LAWS OF NORTH BERGEN GRAND VIEW CONDIMINIUM AND ANY AMENDMENTS\"THERETO.\nPursuant to a tax search of 05/29/2026; 2026 Qtr 2 Due: 05/01/2026 $1,309.76 PAID Water: PRIVATE - Veolia Water New Jersey 500 Frank W. Burr Blvd. Teaneck,NJ 07666 800-4225987 North Bergen WA 6200 Tonnelle Ave. North Bergen,NJ 07047 201-422-0100\nCommon meter - individual units may be subject to existing liens held against their respective association. Statement to any lien in favor of NORTH BERGEN GRAND VIEW CONDOMINIUM ASSOCIATION, INC. Which is granted priority pursuant to NJSA 46: 8F21 b, if any, as well as all charges and fees imposed by said condominium association upon transfer of the unit. Subject to limited priority afforded to the COA with Lien. which is granted priority pursuant to NJSA 46: 8F-21 b, if any, as well as all charges and fees imposed by said condominium association upon transfer of the unit.\nCURRENT AMOUNT DUE - COA WITH LIEN/NORTH BERGEN GRAND VIEW CONDOMINIUM ASSOC. INC.\nFor sale information, please visit XOME at www.XOME.com or call 844-400-9663.",
   "extracted": {
@@ -25,7 +25,7 @@
     "Judgment": "$184,205.85",
     "Plaintiff": "BANK OF AMERICA, N.A.",
     "Property Note": "",
-    "Sales Date": "10/22/2026",
+    "Sales Date": "10/19/2026",
     "Sheriff #": "20063363"
   },
   "first_seen": "2026-10-12",
@@ -36,14 +36,14 @@
     "defendant": "STEPHEN B SCARPA; NORTH BERGEN GRAND VIEW CONDOMINIUM ASSOCIATION; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
     "listing_status": null,
     "plaintiff": "BANK OF AMERICA, N.A.",
-    "sale_date": "2026-10-22"
+    "sale_date": "2026-10-19"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "BANK OF AMERICA, N.A.",
   "property_note": null,
-  "sale_date": "2026-10-22",
+  "sale_date": "2026-10-19",
   "sheriff_number": "20063363",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
@@ -52,8 +52,12 @@
       "status": "Scheduled"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-08",
       "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-10-19",
+      "status": "BANKRUPTCY HOLD"
     }
   ],
   "upset_amount": 184159.27,

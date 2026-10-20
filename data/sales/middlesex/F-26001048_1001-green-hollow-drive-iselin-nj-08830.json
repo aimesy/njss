@@ -36,12 +36,12 @@
   "listing": {
     "address": "1001 GREEN HOLLOW DRIVE ISELIN NJ 08830",
     "defendant": "SIMON MAHMUD, ET ALS.",
-    "listing_status": "Adjourned - Plaintiff",
+    "listing_status": "Settled",
     "plaintiff": "GREEN HOLLOW CONDOMINIUM ASSOCIATION, INC.",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Adjourned - Plaintiff",
-  "on_open_list": true,
+  "listing_status": "Settled",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 21.01 C1001 BLOCK 380",
   "plaintiff": "GREEN HOLLOW CONDOMINIUM ASSOCIATION, INC.",
@@ -50,6 +50,10 @@
   "sheriff_number": "F-26001048",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Settled"
+    },
     {
       "date": "2026-11-04",
       "status": "Adjourned - Plaintiff"

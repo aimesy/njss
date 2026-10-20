@@ -1,0 +1,68 @@
+{
+  "address": "1008 COLUMBIA AVENUE NORTH BERGEN NJ 07047",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-003086-25",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "LISA ROSA A/K/A LISA ROSA SGHERZI; MR. ROSA, SPOUSE OF LISA ROSA A/K/A LISA ROSA SGHERZI; THOMAS SGHERZI",
+  "description": "TAX LOT 18 BLOCK 12\nDIMENSIONS OF LOT: 25X116\nNEAREST CROSS STREET: 10TH STREET\nESTIMATED UPSET BID AMOUNT: $806,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2025 QTR 3 DUE: 08/01/2025 $2,958.21 OPEN\nSEWER: NORTH BERGEN MUA 6200 TONNELLE AVE. NORTH BERGEN, NJ 07047 201-422-0100\nACCT: 34000527 0 12/01/2024 - 02/28/2025 $539.68 OPEN PLUS PENALTY $4,608.41 OPEN",
+  "extracted": {
+    "block": "12",
+    "lot": "18",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "1008 COLUMBIA AVENUE\nNORTH BERGEN NJ 07047",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-003086-25",
+    "Defendant": "LISA ROSA A/K/A LISA ROSA SGHERZI; MR. ROSA, SPOUSE OF LISA ROSA A/K/A LISA ROSA SGHERZI; THOMAS SGHERZI",
+    "Description": "TAX LOT 18 BLOCK 12\nDIMENSIONS OF LOT: 25X116\nNEAREST CROSS STREET: 10TH STREET\nESTIMATED UPSET BID AMOUNT: $806,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2025 QTR 3 DUE: 08/01/2025 $2,958.21 OPEN\nSEWER: NORTH BERGEN MUA 6200 TONNELLE AVE. NORTH BERGEN, NJ 07047 201-422-0100\nACCT: 34000527 0 12/01/2024 - 02/28/2025 $539.68 OPEN PLUS PENALTY $4,608.41 OPEN",
+    "Good Faith Upset*": "$806,000.00",
+    "Judgment": "$688,698.98",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS TRUSTEE FOR FIRST HORIZON ALTERNATIVE MORTGAGE SECURITIES TRUST 2006-FA6",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20060178"
+  },
+  "first_seen": "2026-10-20",
+  "judgment_amount": 688698.98,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1008 COLUMBIA AVENUE NORTH BERGEN NJ 07047",
+    "defendant": "LISA ROSA A/K/A LISA ROSA SGHERZI; MR. ROSA, SPOUSE OF LISA ROSA A/K/A LISA ROSA SGHERZI; THOMAS SGHERZI",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS TRUSTEE FOR FIRST HORIZON ALTERNATIVE MORTGAGE SECURITIES TRUST 2006-FA6",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS TRUSTEE FOR FIRST HORIZON ALTERNATIVE MORTGAGE SECURITIES TRUST 2006-FA6",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20060178",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-10-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 806000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00504226",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "DOMINIC C. TORTORETO,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax LOT 16 BLOCK 1.10",
     "Plaintiff": "WELLS FARGO BANK, N.A.,",
     "Property Note": "2026 Qtr 4 Due: 1 1/01/2026 $2,112.17 OPEN 2027 Qtr I Due: 02/01/2027 $1,999.60 OPEN 2027 Qtr 2 Due: 05/01/2027 $1,999.59 OPEN",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26002312"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "DOMINIC C. TORTORETO,",
     "listing_status": null,
     "plaintiff": "WELLS FARGO BANK, N.A.,",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Tax LOT 16 BLOCK 1.10",
   "plaintiff": "WELLS FARGO BANK, N.A.,",
   "property_note": "2026 Qtr 4 Due: 1 1/01/2026 $2,112.17 OPEN 2027 Qtr I Due: 02/01/2027 $1,999.60 OPEN 2027 Qtr 2 Due: 05/01/2027 $1,999.59 OPEN",
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26002312",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-04",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 101247.56,

@@ -1,0 +1,91 @@
+{
+  "address": "18 WEGMAN COURT JERSEY CITY NJ 07305",
+  "attorney": "KML LAW GROUP, P.C",
+  "attorney_phone": "215-627-1322",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011817-22",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "WILLIAM S. HUMEN A/K/A WILLIAM HUMEN, ET AL",
+  "description": "TAX LOT NO. 78 FKA 13 BLOCK 24201 FKA 1469\nDIMENSIONS OF LOT: (APPROXIMATELY) 30 FEET WIDE BY 80 FEET LONG\nNEAREST CROSS STREET: GARFIELD AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $542,403.85\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS OCCUPIED BY UNKNOWN.",
+  "extracted": {
+    "block": "24201",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "18 WEGMAN COURT\nJERSEY CITY NJ 07305",
+    "Attorney": "KML LAW GROUP, P.C",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-011817-22",
+    "Defendant": "WILLIAM S. HUMEN A/K/A WILLIAM HUMEN, ET AL",
+    "Description": "TAX LOT NO. 78 FKA 13 BLOCK 24201 FKA 1469\nDIMENSIONS OF LOT: (APPROXIMATELY) 30 FEET WIDE BY 80 FEET LONG\nNEAREST CROSS STREET: GARFIELD AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $542,403.85\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS OCCUPIED BY UNKNOWN.",
+    "Good Faith Upset*": "$542,403.85",
+    "Judgment": "$428,807.59",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20053879"
+  },
+  "first_seen": "2026-10-20",
+  "judgment_amount": 428807.59,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "18 WEGMAN COURT JERSEY CITY NJ 07305",
+    "defendant": "WILLIAM S. HUMEN A/K/A WILLIAM HUMEN, ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20053879",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-02-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-03-14",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2024-03-28",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2024-03-28",
+      "status": "Adjourned - Defendant 1st (4 weeks)"
+    },
+    {
+      "date": "2024-04-10",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-08-29",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "Adjourned - Defendant 2nd (4 WEEKS)"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2024-10-23",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 542403.85,
+  "upset_amount_label": "Good Faith Upset*"
+}
