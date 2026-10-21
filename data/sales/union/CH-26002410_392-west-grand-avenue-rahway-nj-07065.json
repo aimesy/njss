@@ -1,0 +1,52 @@
+{
+  "address": "392 WEST GRAND AVENUE RAHWAY NJ 07065",
+  "attorney": "BUCHANAN INGERSOLL & ROONEY PC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00855525",
+  "current_status": "Scheduled",
+  "defendant": "FKGM, LLC (\"Borrower\") AND FINANCIAL RESORCES FEDERAL CREDIT UNION NJ (COLLECTIVELY, WITH THE BORROWER, THE \"DEFENDANTS\")",
+  "description": "LOT 19 BLOCK 164",
+  "extracted": {
+    "block": "164",
+    "lot": "19"
+  },
+  "fields": {
+    "Address": "392 WEST GRAND AVENUE\nRAHWAY NJ 07065",
+    "Approx. Upset*": "$269,924.95",
+    "Attorney": "BUCHANAN INGERSOLL & ROONEY PC",
+    "Court Case #": "F00855525",
+    "Defendant": "FKGM, LLC (\"Borrower\") AND FINANCIAL RESORCES FEDERAL CREDIT UNION NJ (COLLECTIVELY, WITH THE BORROWER, THE \"DEFENDANTS\")",
+    "Description": "LOT 19 BLOCK 164",
+    "Parcel #": "LOT 19 BLOCK 164",
+    "Plaintiff": "FIRST PLATINUM CAPITAL CORP.",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "CH-26002410"
+  },
+  "first_seen": "2026-10-21",
+  "listing": {
+    "address": "392 WEST GRAND AVENUE RAHWAY NJ 07065",
+    "defendant": "FKGM, LLC (\"Borrower\") AND FINANCIAL RESORCES FEDERAL CREDIT UNION NJ (COLLECTIVELY, WITH THE BORROWER, THE \"DEFENDANTS\")",
+    "listing_status": null,
+    "plaintiff": "FIRST PLATINUM CAPITAL CORP.",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 19 BLOCK 164",
+  "plaintiff": "FIRST PLATINUM CAPITAL CORP.",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "CH-26002410",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 269924.95,
+  "upset_amount_label": "Approx. Upset*"
+}

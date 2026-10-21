@@ -22,7 +22,7 @@
     "Parcel #": "BLOCK #9.0206, LOT #23",
     "Plaintiff": "TD BANK, N.A.",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "F-26001210"
   },
   "first_seen": "2026-10-12",
@@ -33,7 +33,7 @@
     "defendant": "JAMES J. CURRY; HOLIDAY CITY AT MONROE HOMEOWNER'S, INC.; AND MARINER FINANCE",
     "listing_status": "Defendant Adjourned to",
     "plaintiff": "TD BANK, N.A.",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-06"
   },
   "listing_status": "Defendant Adjourned to",
   "on_open_list": true,
@@ -41,7 +41,7 @@
   "parcel": "BLOCK #9.0206, LOT #23",
   "plaintiff": "TD BANK, N.A.",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-06",
   "sheriff_number": "F-26001210",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
   "status_history": [
@@ -51,6 +51,10 @@
     },
     {
       "date": "2026-11-18",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Defendant Adjourned to"
     }
   ]

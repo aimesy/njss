@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F00081626",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Adjourned per Court Order",
   "defendant": "DONAVON C. MOODIE AND GRACE MOODIE, HUSBANDAND WIFE, MARTIN C. MOODIE, MRS. MARTIN C. MOODIE, WIFE OF MARTIN C. MOODIE AND UNITED STATES OF AMERICA",
   "description": null,
   "extracted": {},
@@ -18,7 +18,7 @@
     "Parcel #": "LOT 22 FKA 21 BLOCK 555 FKA 321",
     "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
     "Property Note": "Approximate dimensions 75.00 x 196.94 Feet\nNearest cross street West 7th Street\nSubject to Trash - 07/01/2026 - 09/30/2026 $206.64 OPEN AND DUE\n08/03/2026 $ *206.46 OPEN PLUS PENALTY; OWED IN\nARREARS\nWater 07/01/2026 - 09/30/2026 $55.97 OPEN AND DUE\n08/03/2026 $375.76 OPEN PLUS PENALTY, OWED IN ARREARS\nUpset Price $284,356.84\nOccupancy Status Unknown\n* *Surplus Money: If after the sale and satisfaction of the montgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules and 4:57-2 stating the nature and extent of that persons claim an asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have infomation regarding the surprus, if any. **\n** THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH\n** To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.\nMcCalla Raymer Leibert Pierce, LLP I A Limited Liability Partnership Formed in the State of Delaware New Jersey Managing Attorneys: Richard P. Haber, Esq. I Anthony J* Risalvato, Esq.\n485F US Highway 1 Building F, Suite 300, Iselin, NJ 08830 1 P: (732) 902-5399 1 F: (732) 902-5398 www.,nccalla.com",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "CH-26001666"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "DONAVON C. MOODIE AND GRACE MOODIE, HUSBANDAND WIFE, MARTIN C. MOODIE, MRS. MARTIN C. MOODIE, WIFE OF MARTIN C. MOODIE AND UNITED STATES OF AMERICA",
     "listing_status": null,
     "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "LOT 22 FKA 21 BLOCK 555 FKA 321",
   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
   "property_note": "Approximate dimensions 75.00 x 196.94 Feet\nNearest cross street West 7th Street\nSubject to Trash - 07/01/2026 - 09/30/2026 $206.64 OPEN AND DUE\n08/03/2026 $ *206.46 OPEN PLUS PENALTY; OWED IN\nARREARS\nWater 07/01/2026 - 09/30/2026 $55.97 OPEN AND DUE\n08/03/2026 $375.76 OPEN PLUS PENALTY, OWED IN ARREARS\nUpset Price $284,356.84\nOccupancy Status Unknown\n* *Surplus Money: If after the sale and satisfaction of the montgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules and 4:57-2 stating the nature and extent of that persons claim an asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have infomation regarding the surprus, if any. **\n** THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH\n** To the best of this firm's knowledge, the property is not an affordable unit subject to the Fair Housing Act.\nMcCalla Raymer Leibert Pierce, LLP I A Limited Liability Partnership Formed in the State of Delaware New Jersey Managing Attorneys: Richard P. Haber, Esq. I Anthony J* Risalvato, Esq.\n485F US Highway 1 Building F, Suite 300, Iselin, NJ 08830 1 P: (732) 902-5399 1 F: (732) 902-5398 www.,nccalla.com",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-12-02",
   "sheriff_number": "CH-26001666",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
   "status_history": [
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-21",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Adjourned per Court Order"
     }
   ],
   "upset_amount": 263371.13,

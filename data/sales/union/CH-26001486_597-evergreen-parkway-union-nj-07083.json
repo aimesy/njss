@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "LOT 12 BLOCK 3101",
   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
@@ -50,6 +50,10 @@
     {
       "date": "2026-09-23",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-20",
+      "status": "Settled"
     },
     {
       "date": "2026-10-21",

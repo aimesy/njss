@@ -30,7 +30,7 @@
     "sale_date": "2026-11-18"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "LOT 17 BLOCK 4604",
   "plaintiff": "CSMC 2022-RPL2 TRUST",
@@ -50,6 +50,10 @@
     {
       "date": "2026-09-23",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-20",
+      "status": "Settled"
     },
     {
       "date": "2026-11-18",

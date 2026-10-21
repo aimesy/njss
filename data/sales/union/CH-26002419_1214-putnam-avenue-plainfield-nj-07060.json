@@ -1,0 +1,52 @@
+{
+  "address": "1214 PUTNAM AVENUE PLAINFIELD NJ 07060",
+  "attorney": "GROSS POLOWY, LLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00188526",
+  "current_status": "Scheduled",
+  "defendant": "RUTHVEN RICHARDSON, ANNETTE RICHARDSON, AND CITY OF PLAINFIELD, COUNTY OF UNION AND STATE OF NEW JERSEY",
+  "description": "BLOCK 635 LOT 2",
+  "extracted": {
+    "block": "635",
+    "lot": "2"
+  },
+  "fields": {
+    "Address": "1214 PUTNAM AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$203,102.61",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Court Case #": "F00188526",
+    "Defendant": "RUTHVEN RICHARDSON, ANNETTE RICHARDSON, AND CITY OF PLAINFIELD, COUNTY OF UNION AND STATE OF NEW JERSEY",
+    "Description": "BLOCK 635 LOT 2",
+    "Parcel #": "BLOCK 635 LOT 2",
+    "Plaintiff": "AMOS FINANCIAL LLC",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "CH-26002419"
+  },
+  "first_seen": "2026-10-21",
+  "listing": {
+    "address": "1214 PUTNAM AVENUE PLAINFIELD NJ 07060",
+    "defendant": "RUTHVEN RICHARDSON, ANNETTE RICHARDSON, AND CITY OF PLAINFIELD, COUNTY OF UNION AND STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "AMOS FINANCIAL LLC",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "BLOCK 635 LOT 2",
+  "plaintiff": "AMOS FINANCIAL LLC",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "CH-26002419",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 203102.61,
+  "upset_amount_label": "Approx. Upset*"
+}

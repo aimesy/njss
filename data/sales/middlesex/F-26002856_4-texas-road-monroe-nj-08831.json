@@ -1,0 +1,56 @@
+{
+  "address": "4 TEXAS ROAD MONROE NJ 08831",
+  "attorney": "ROBERT YU LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "201-257-6807",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F297426",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "GED REALTY HOLDINGS LLC., ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$405,441.40",
+    "Attorney": "ROBERT YU LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "201-257-6807",
+    "Court Case #": "F297426",
+    "Defendant": "GED REALTY HOLDINGS LLC., ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1.11 BLOCK 77",
+    "Plaintiff": "CKMW LLC",
+    "Property Address": "4 TEXAS ROAD\nMONROE NJ 08831",
+    "Property Note": "",
+    "Sale Date": "1/6/2027",
+    "Sheriff #": "F-26002856"
+  },
+  "first_seen": "2026-10-21",
+  "judgment_amount": 405441.4,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4 TEXAS ROAD MONROE NJ 08831",
+    "defendant": "GED REALTY HOLDINGS LLC., ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "CKMW LLC",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1.11 BLOCK 77",
+  "plaintiff": "CKMW LLC",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "F-26002856",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

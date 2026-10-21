@@ -1,0 +1,56 @@
+{
+  "address": "1019 STONY BROOK WAY NORTH BRUNSWICK NJ 08902",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00464025",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "THIERNO WANE, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$575,583.55",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00464025",
+    "Defendant": "THIERNO WANE, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 47.1019 BLOCK 148.02",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL LODGE SERIES I TRUST",
+    "Property Address": "1019 STONY BROOK WAY\nNORTH BRUNSWICK NJ 08902",
+    "Property Note": "",
+    "Sale Date": "1/6/2027",
+    "Sheriff #": "F-26002870"
+  },
+  "first_seen": "2026-10-21",
+  "judgment_amount": 575583.55,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1019 STONY BROOK WAY NORTH BRUNSWICK NJ 08902",
+    "defendant": "THIERNO WANE, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL LODGE SERIES I TRUST",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 47.1019 BLOCK 148.02",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL LODGE SERIES I TRUST",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "F-26002870",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

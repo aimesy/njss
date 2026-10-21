@@ -1,0 +1,52 @@
+{
+  "address": "714 LARCH STREET ROSELLE PARK NJ 07204",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01306822",
+  "current_status": "Scheduled",
+  "defendant": "JOHN E KIRKPATRICK, JR. A/K/A JOHN KIRKPATRICK AND DONNA M. KIRKPATRICK A/K/A DONNA KIRKPATRICK, HUSBAND AND WIFE",
+  "description": "LOT 13 BLOCK 410",
+  "extracted": {
+    "block": "410",
+    "lot": "13"
+  },
+  "fields": {
+    "Address": "714 LARCH STREET\nROSELLE PARK NJ 07204",
+    "Approx. Upset*": "$204,760.74",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Court Case #": "F01306822",
+    "Defendant": "JOHN E KIRKPATRICK, JR. A/K/A JOHN KIRKPATRICK AND DONNA M. KIRKPATRICK A/K/A DONNA KIRKPATRICK, HUSBAND AND WIFE",
+    "Description": "LOT 13 BLOCK 410",
+    "Parcel #": "LOT 13 BLOCK 410",
+    "Plaintiff": "HSBC BANK USA NATIONAL ASSOCIATIONAS TRUSTEE FOR MORTGAGE PASS-THROUGH CERTIFICATES, SERIES MLMI 2005-A10",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "CH-26002412"
+  },
+  "first_seen": "2026-10-21",
+  "listing": {
+    "address": "714 LARCH STREET ROSELLE PARK NJ 07204",
+    "defendant": "JOHN E KIRKPATRICK, JR. A/K/A JOHN KIRKPATRICK AND DONNA M. KIRKPATRICK A/K/A DONNA KIRKPATRICK, HUSBAND AND WIFE",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA NATIONAL ASSOCIATIONAS TRUSTEE FOR MORTGAGE PASS-THROUGH CERTIFICATES, SERIES MLMI 2005-A10",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 13 BLOCK 410",
+  "plaintiff": "HSBC BANK USA NATIONAL ASSOCIATIONAS TRUSTEE FOR MORTGAGE PASS-THROUGH CERTIFICATES, SERIES MLMI 2005-A10",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "CH-26002412",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 204760.74,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,49 @@
+{
+  "address": "601 BERLIN ROAD CLEMENTON NJ",
+  "attorney": "LAW OFFICES OF RONALD DESIMONE",
+  "attorney_phone": "856-667-7600",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F160026",
+  "current_status": "Scheduled",
+  "defendant": "CHRISTOPHER T. MASCIOLI,",
+  "extracted": {},
+  "fields": {
+    "Address": "601 BERLIN ROAD\nCLEMENTON NJ",
+    "Approx. Upset*": "$73,476.81",
+    "Attorney": "LAW OFFICES OF RONALD DESIMONE",
+    "Attorney Phone": "856-667-7600",
+    "Court Case #": "F160026",
+    "Defendant": "CHRISTOPHER T. MASCIOLI,",
+    "Parcel #": "Lot 14, in Block 77 on the Tax Map of the Borough of Clementon",
+    "Plaintiff": "ALFRED NOWICKI, JR.,",
+    "Property Note": "subject to the liens for the water, CCMUA, real property tax and tax lien certificate #2500051 dated 10/09/2025 in the total amount of $18,860.55.",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "FR-26002598"
+  },
+  "first_seen": "2026-10-21",
+  "listing": {
+    "address": "601 BERLIN ROAD CLEMENTON NJ",
+    "defendant": "CHRISTOPHER T. MASCIOLI,",
+    "listing_status": null,
+    "plaintiff": "ALFRED NOWICKI, JR.,",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 14, in Block 77 on the Tax Map of the Borough of Clementon",
+  "plaintiff": "ALFRED NOWICKI, JR.,",
+  "property_note": "subject to the liens for the water, CCMUA, real property tax and tax lien certificate #2500051 dated 10/09/2025 in the total amount of $18,860.55.",
+  "sale_date": "2026-12-02",
+  "sheriff_number": "FR-26002598",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 73476.81,
+  "upset_amount_label": "Approx. Upset*"
+}

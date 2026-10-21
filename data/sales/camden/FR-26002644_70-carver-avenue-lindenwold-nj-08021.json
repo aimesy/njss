@@ -1,0 +1,49 @@
+{
+  "address": "70 CARVER AVENUE LINDENWOLD NJ 08021",
+  "attorney": "GROSS POLOWY, LLC",
+  "attorney_phone": "716-204-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01015225",
+  "current_status": "Scheduled",
+  "defendant": "GREGORIO G. PROCOPIO, JR.; UNITED STATES OF AMERICA ON BEHALF OF THE IRS",
+  "extracted": {},
+  "fields": {
+    "Address": "70 CARVER AVENUE\nLINDENWOLD NJ 08021",
+    "Approx. Upset*": "$225,040.40",
+    "Attorney": "GROSS POLOWY, LLC",
+    "Attorney Phone": "716-204-1700",
+    "Court Case #": "F01015225",
+    "Defendant": "GREGORIO G. PROCOPIO, JR.; UNITED STATES OF AMERICA ON BEHALF OF THE IRS",
+    "Parcel #": "Block 170 Lot 7 Borough of Lindenwold; County of Camden",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "Taxes exempt as of 10/1/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 10/1/26\nWater/Sewer due and owing in the approximate amount of\n$1094.00 as of 10/1/26",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002644"
+  },
+  "first_seen": "2026-10-21",
+  "listing": {
+    "address": "70 CARVER AVENUE LINDENWOLD NJ 08021",
+    "defendant": "GREGORIO G. PROCOPIO, JR.; UNITED STATES OF AMERICA ON BEHALF OF THE IRS",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 170 Lot 7 Borough of Lindenwold; County of Camden",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "Taxes exempt as of 10/1/26\nSale may be subject to subsequent taxes, liens, utilities and interest since 10/1/26\nWater/Sewer due and owing in the approximate amount of\n$1094.00 as of 10/1/26",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002644",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 225040.4,
+  "upset_amount_label": "Approx. Upset*"
+}

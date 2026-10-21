@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00341724",
-  "current_status": "Bankruptcy",
+  "current_status": "Scheduled",
   "defendant": "CHARLES N. ARENA, JR., ET AL.",
   "extracted": {},
   "fields": {
@@ -17,8 +17,8 @@
     "Defendant": "CHARLES N. ARENA, JR., ET AL.",
     "Parcel #": "TAX LOT #10 BLOCK# 412.02",
     "Plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR MERRILL\nLYNCH MORTGAGE INVESTORS TRUST MORTGAGE LOAN\nASSET-BACKED CERTICATES, SERIES 2004-WMC3",
-    "Property Note": "Taxes current through 2ND quarter of 2026\nWater – plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer open balance in the amount of $96.29, good through April 1, 2026.\nTax sale scheduled for June 29, 2026, CCMUA in the amount of $533.16, good through June 16, 2026\nPlus, interest on these figures through date of pay payoff in any and also subsequent taxes, water, and sewer amounts.",
-    "Sales Date": "8/5/2026",
+    "Property Note": "Taxes current through 3rd Quarter of 2026\nWater- Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer is current through April 1 ,2026\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.SUBJECT TO ADDITIONAL ADVANCES MADE BY PLAINTIFF FOR TAXES, INSURANCE,\nINSPECTIONS, ETC., AFTER FINAL JUDGMENT WAS ENTERED. THE AMOUNT\nADVANCED WAS $27,514.92 AND THE PLAINTIFF HAS OBTAINED AN ORDER TO BE\nREIMBURSED FOR THESE MONIES OR TO MAKE FIRST CLAIM FOR ANY SURPLUS\nMONIES REALIZED FROM THIS SALE.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL\nGOVERNMENT\nSUBJECT TO THE CONDITIONS OF SALE AS SET FORTH BY THE SHERIFF WHO\nRESERVES THE RIGHT TO ADJOURN THE SALE WITHOUT FURTHER NOTICE\nTHROUGH PUBLICATION",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-25001151"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "CHARLES N. ARENA, JR., ET AL.",
     "listing_status": null,
     "plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR MERRILL \nLYNCH MORTGAGE INVESTORS TRUST MORTGAGE LOAN \nASSET-BACKED CERTICATES, SERIES 2004-WMC3",
-    "sale_date": "2026-08-05"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "TAX LOT #10 BLOCK# 412.02",
   "plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST MORTGAGE LOAN ASSET-BACKED CERTICATES, SERIES 2004-WMC3",
-  "property_note": "Taxes current through 2ND quarter of 2026\nWater – plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer open balance in the amount of $96.29, good through April 1, 2026.\nTax sale scheduled for June 29, 2026, CCMUA in the amount of $533.16, good through June 16, 2026\nPlus, interest on these figures through date of pay payoff in any and also subsequent taxes, water, and sewer amounts.",
-  "sale_date": "2026-08-05",
+  "property_note": "Taxes current through 3rd Quarter of 2026\nWater- Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nSewer is current through April 1 ,2026\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.SUBJECT TO ADDITIONAL ADVANCES MADE BY PLAINTIFF FOR TAXES, INSURANCE,\nINSPECTIONS, ETC., AFTER FINAL JUDGMENT WAS ENTERED. THE AMOUNT\nADVANCED WAS $27,514.92 AND THE PLAINTIFF HAS OBTAINED AN ORDER TO BE\nREIMBURSED FOR THESE MONIES OR TO MAKE FIRST CLAIM FOR ANY SURPLUS\nMONIES REALIZED FROM THIS SALE.\nTHIS SALE IS SUBJECT TO THE RIGHT OF REDEMPTION OF THE FEDERAL\nGOVERNMENT\nSUBJECT TO THE CONDITIONS OF SALE AS SET FORTH BY THE SHERIFF WHO\nRESERVES THE RIGHT TO ADJOURN THE SALE WITHOUT FURTHER NOTICE\nTHROUGH PUBLICATION",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-25001151",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -60,8 +60,8 @@
       "status": "Scheduled"
     },
     {
-      "date": "2026-08-05",
-      "status": "Bankruptcy"
+      "date": "2027-01-06",
+      "status": "Scheduled"
     }
   ],
   "upset_amount": 537014.02,

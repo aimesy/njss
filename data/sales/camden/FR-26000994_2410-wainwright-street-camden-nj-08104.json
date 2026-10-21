@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01167124",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Scheduled",
   "defendant": "MIGAN L. BATTLES; MR. BATTLES, HUSBAND OF MIGAN L. BATTLES; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY,",
   "extracted": {},
   "fields": {
@@ -17,8 +17,8 @@
     "Defendant": "MIGAN L. BATTLES; MR. BATTLES, HUSBAND OF\nMIGAN L. BATTLES; NEW JERSEY HOUSING\nAND MORTGAGE FINANCE AGENCY; STATE OF\nNEW JERSEY,",
     "Parcel #": "TAX LOT # 90 BLOCK # 631",
     "Plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
-    "Property Note": "ALSO SUBJECT TO SUBSEQUENT TAXES, WATWE AND SEWER PLUS INTEREST THROUGH DATE OF PAYOFF",
-    "Sales Date": "8/31/2026",
+    "Property Note": "*Also subject to subsequent taxes, water and sewer plus interest through date of payoff",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26000994"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "MIGAN L. BATTLES; MR. BATTLES, HUSBAND OF \nMIGAN L. BATTLES; NEW JERSEY HOUSING \nAND MORTGAGE FINANCE AGENCY; STATE OF \nNEW JERSEY,",
     "listing_status": null,
     "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
-    "sale_date": "2026-08-31"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "TAX LOT # 90 BLOCK # 631",
   "plaintiff": "SELECT PORTFOLIO SERVICING, INC.,",
-  "property_note": "ALSO SUBJECT TO SUBSEQUENT TAXES, WATWE AND SEWER PLUS INTEREST THROUGH DATE OF PAYOFF",
-  "sale_date": "2026-08-31",
+  "property_note": "*Also subject to subsequent taxes, water and sewer plus interest through date of payoff",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26000994",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -48,12 +48,12 @@
       "status": "Defendant Adjournment"
     },
     {
-      "date": "2026-08-31",
-      "status": "Bankruptcy"
-    },
-    {
       "date": "2026-09-02",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
     }
   ],
   "upset_amount": 123629.39,

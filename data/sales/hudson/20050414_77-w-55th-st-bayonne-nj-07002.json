@@ -1,0 +1,92 @@
+{
+  "address": "77 W 55TH ST BAYONNE NJ 07002",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-002799-22",
+  "current_status": "RESCHEDULED",
+  "defendant": "JUAN LICONA; JULIO MONZON; LARIDIAN CONSULTING INC; STATE OF NEW JERSEY",
+  "description": "TAX LOT 22 BLOCK 26\nDIMENSIONS OF LOT: 25X100\nNEAREST CROSS STREET: AVENUE C\nESTIMATED UPSET BID AMOUNT: $696,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2026 QTR 4 DUE: 11/01/2026 $3,725.76 OPEN\n2027 QTR 1 DUE: 02/01/2027 $3,439.08 OPEN\n2027 QTR 2 DUE: 05/01/2027 $3,439.08 OPEN\nWATER: VEOLIA WATER NEW JERSEY / BAYONNE PO BOX 40122 NEWARK, NJ 07101-4001 888-434-0518 ACCT: 68910428629367 TO: 10/01/2026 $13,435.43 OPEN PLUS PENALTY $12,486.92 OPEN\nGENERAL REMARK: SUBJECT TO ADD'L 6% PENALTY FOR BALANCES OVER $10,000.00",
+  "extracted": {
+    "block": "26",
+    "lot": "22",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "77 W 55TH ST\nBAYONNE NJ 07002",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-002799-22",
+    "Defendant": "JUAN LICONA; JULIO MONZON; LARIDIAN CONSULTING INC; STATE OF NEW JERSEY",
+    "Description": "TAX LOT 22 BLOCK 26\nDIMENSIONS OF LOT: 25X100\nNEAREST CROSS STREET: AVENUE C\nESTIMATED UPSET BID AMOUNT: $696,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2026 QTR 4 DUE: 11/01/2026 $3,725.76 OPEN\n2027 QTR 1 DUE: 02/01/2027 $3,439.08 OPEN\n2027 QTR 2 DUE: 05/01/2027 $3,439.08 OPEN\nWATER: VEOLIA WATER NEW JERSEY / BAYONNE PO BOX 40122 NEWARK, NJ 07101-4001 888-434-0518 ACCT: 68910428629367 TO: 10/01/2026 $13,435.43 OPEN PLUS PENALTY $12,486.92 OPEN\nGENERAL REMARK: SUBJECT TO ADD'L 6% PENALTY FOR BALANCES OVER $10,000.00",
+    "Good Faith Upset*": "$696,000.00",
+    "Judgment": "$531,920.94",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20050414"
+  },
+  "first_seen": "2026-10-21",
+  "judgment_amount": 531920.94,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "77 W 55TH ST BAYONNE NJ 07002",
+    "defendant": "JUAN LICONA; JULIO MONZON; LARIDIAN CONSULTING INC; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20050414",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2023-03-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-03-02",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2023-12-14",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2024-01-03",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2025-04-24",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2025-05-01",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Purchased at Auction by 3rd Party"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "VACATED"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "RESCHEDULED"
+    }
+  ],
+  "upset_amount": 696000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

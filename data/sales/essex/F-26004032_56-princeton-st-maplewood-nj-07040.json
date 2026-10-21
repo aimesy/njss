@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00952625",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned Sheriff",
   "defendant": "REGNY CHARLES; ET. ALS.",
   "description": "LOT: 578 BLOCK: 49.04\nAPPROXIMATE DIMENSIONS 100.00 X 50.00 FEET\nNEAREST CROSS STREET: CONCORD AVENUE\nSUBJECT TO: STORMWATER-01/01/2026-12/31/2026 $70.00 OPEN PLUS PENALTY; OWED IN ARREARS SEWER-01/01/2026-12/31/2026 $314.60 OPEN PLUS PENALTY $300.00 OPEN PLUS PENALTY; OWED IN ARREARS\nUPSET PRICE $525,578.82\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
   "extracted": {
@@ -25,7 +25,7 @@
     "Parcel #": "",
     "Plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
     "Property Note": "",
-    "Sales Date": "10/27/2026",
+    "Sales Date": "1/5/2027",
     "Sheriff #": "F-26004032"
   },
   "first_seen": "2026-10-12",
@@ -34,7 +34,7 @@
     "defendant": "REGNY CHARLES; ET. ALS.",
     "listing_status": null,
     "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
-    "sale_date": "2026-10-27"
+    "sale_date": "2027-01-05"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -42,13 +42,25 @@
   "parcel": null,
   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
   "property_note": null,
-  "sale_date": "2026-10-27",
+  "sale_date": "2027-01-05",
   "sheriff_number": "F-26004032",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
     {
       "date": "2026-10-27",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-12-22",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2027-01-05",
+      "status": "Adjourned Sheriff"
     }
   ],
   "upset_amount": 531757.03,

@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01303225",
-  "current_status": "Court Adjournment",
+  "current_status": "Defendant Adjournment",
   "defendant": "JOSEPH F. MAGUIRE, MR. OR MRS. MAGUIRE, THES SPOUSE, DOMESTIC PARTNER OR CIVIL UNION PARTNER OF JOSEPHF. MAGUIRE, TM BRENNAN CONTRACTORS INC., UNITED STATES OF AMERICA",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT:12 BLOCK:163",
     "Plaintiff": "MASSACHUSETTS MUTUAL LIFE INSUANCE COMPANY",
     "Property Note": "",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-26001315"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "JOSEPH F. MAGUIRE, MR. OR MRS. \nMAGUIRE, THES SPOUSE, DOMESTIC \nPARTNER OR CIVIL UNION PARTNER OF \nJOSEPHF. MAGUIRE, TM BRENNAN \nCONTRACTORS INC., UNITED STATES OF AMERICA",
     "listing_status": null,
     "plaintiff": "MASSACHUSETTS MUTUAL LIFE INSUANCE COMPANY",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "TAX LOT:12 BLOCK:163",
   "plaintiff": "MASSACHUSETTS MUTUAL LIFE INSUANCE COMPANY",
   "property_note": null,
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-26001315",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -54,6 +54,10 @@
     {
       "date": "2026-10-21",
       "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 149802.5,

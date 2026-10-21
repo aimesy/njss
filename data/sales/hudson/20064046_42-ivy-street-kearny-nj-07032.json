@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-010577-24",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned - Plaintiff - New Sale Date:",
   "defendant": "RUPERTO HERNANDEZ JR, ET AL.",
   "description": "LOT 31, BLOCK 251\nDIMENSIONS: 25FT. X 100FT.\nNEAREST CROSS STREET: BERGEN AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED.\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $576,503.28\nPURSUANT TO 28 USC 2410(C) THIS SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN:\nPARTIAL CLAIM MORTGAGE: RUPERTO HERNANDEZ JR AND RUPERTO HERNANDEZ TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 01/16/2024 AND RECORDED ON 02/05/2024, IN BOOK 20556, PAGE 162, TO SECURE $36,143.19.",
   "extracted": {
@@ -24,7 +24,7 @@
     "Judgment": "$532,984.94",
     "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
     "Property Note": "",
-    "Sales Date": "10/22/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "20064046"
   },
   "first_seen": "2026-10-12",
@@ -35,20 +35,24 @@
     "defendant": "RUPERTO HERNANDEZ JR, ET AL.",
     "listing_status": null,
     "plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
-    "sale_date": "2026-10-22"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
   "property_note": null,
-  "sale_date": "2026-10-22",
+  "sale_date": "2027-01-07",
   "sheriff_number": "20064046",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
     {
       "date": "2026-10-22",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
     }
   ],
   "upset_amount": 576503.28,

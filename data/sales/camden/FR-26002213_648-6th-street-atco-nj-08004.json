@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00407826",
-  "current_status": "Plaintiff Adjournment",
+  "current_status": "Defendant Adjournment",
   "defendant": "MICHELE PARKER, ET AL",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot No. 41 Block 2801",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26002213"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "MICHELE PARKER, ET AL",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-    "sale_date": "2026-11-18"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "Tax Lot No. 41 Block 2801",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26002213",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-11-18",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 211853.92,

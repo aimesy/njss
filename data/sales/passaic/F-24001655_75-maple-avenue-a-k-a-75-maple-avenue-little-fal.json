@@ -22,7 +22,7 @@
     "Parcel #": "TAX LOT(S): 17 & 18, IN BLOCK: 29",
     "Plaintiff": "US BANK TRUST NAT ASSOC.",
     "Property Note": "",
-    "Sales Date": "10/20/2026",
+    "Sales Date": "1/5/2027",
     "Sheriff #": "F-24001655"
   },
   "first_seen": "2026-10-12",
@@ -31,7 +31,7 @@
     "defendant": "JOSEPH GAITA,JR. ET ALS",
     "listing_status": null,
     "plaintiff": "US BANK TRUST NAT ASSOC.",
-    "sale_date": "2026-10-20"
+    "sale_date": "2027-01-05"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -39,7 +39,7 @@
   "parcel": "TAX LOT(S): 17 & 18, IN BLOCK: 29",
   "plaintiff": "US BANK TRUST NAT ASSOC.",
   "property_note": null,
-  "sale_date": "2026-10-20",
+  "sale_date": "2027-01-05",
   "sheriff_number": "F-24001655",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -89,6 +89,10 @@
     },
     {
       "date": "2026-10-20",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2027-01-05",
       "status": "Adjourned - Court"
     }
   ],

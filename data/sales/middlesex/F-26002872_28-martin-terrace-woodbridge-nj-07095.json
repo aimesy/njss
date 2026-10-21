@@ -1,0 +1,56 @@
+{
+  "address": "28 MARTIN TERRACE WOODBRIDGE NJ 07095",
+  "attorney": "POWERS KIRN LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 327-5852",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00609626",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "MICHAEL GEORGE LOCACIO, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$87,662.15",
+    "Attorney": "POWERS KIRN LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 327-5852",
+    "Court Case #": "F00609626",
+    "Defendant": "MICHAEL GEORGE LOCACIO, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 12.01 BLOCK 552.02",
+    "Plaintiff": "SELENE FINANCE, LP",
+    "Property Address": "28 MARTIN TERRACE\nWOODBRIDGE NJ 07095",
+    "Property Note": "",
+    "Sale Date": "1/6/2027",
+    "Sheriff #": "F-26002872"
+  },
+  "first_seen": "2026-10-21",
+  "judgment_amount": 87662.15,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "28 MARTIN TERRACE WOODBRIDGE NJ 07095",
+    "defendant": "MICHAEL GEORGE LOCACIO, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "SELENE FINANCE, LP",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 12.01 BLOCK 552.02",
+  "plaintiff": "SELENE FINANCE, LP",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "F-26002872",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

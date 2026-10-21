@@ -18,7 +18,7 @@
     "Parcel #": "",
     "Plaintiff": "HARD MONEY PA LLC,",
     "Property Note": "",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-26001816"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "PAUL BARTELD AND JOHN BARTELD,",
     "listing_status": null,
     "plaintiff": "HARD MONEY PA LLC,",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": null,
   "plaintiff": "HARD MONEY PA LLC,",
   "property_note": null,
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-26001816",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -45,6 +45,10 @@
     },
     {
       "date": "2026-10-21",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-18",
       "status": "Defendant Adjournment"
     }
   ],

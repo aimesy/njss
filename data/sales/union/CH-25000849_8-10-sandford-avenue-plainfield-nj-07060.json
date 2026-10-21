@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F00910124",
-  "current_status": "Plaintiff Adjournment",
+  "current_status": "Adjourned per Court Order",
   "defendant": "PPS PROPERTY, 8-10 SANFORD AVE LLC, STEFANO APISA, ALVARO PADRON, AND STATE OF NEW JERSEY",
   "description": null,
   "extracted": {},
@@ -18,7 +18,7 @@
     "Parcel #": "LOT 41 BLOCK 322",
     "Plaintiff": "TRYON STREET ACQUISITION TRUST I",
     "Property Note": "Dimensions: 48.4’ x 110’ x 48.4’ x 110’\nNearest Street: E Front Street\nPLEASE TAKE NOTICE that the upset price for the sale of the property being sold is $280,000.00.\nThe property is currently vacant.\nProperty sold subject to approximately $39,545.66 plus interest and penalties due for taxes, sewer, trash, etc.\nThe sheriff hereby reserves the right to adjourn the sale without further notice through publication.",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "12/16/2026",
     "Sheriff #": "CH-25000849"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "PPS PROPERTY, 8-10 SANFORD AVE LLC, STEFANO APISA, ALVARO PADRON, AND STATE OF NEW JERSEY",
     "listing_status": null,
     "plaintiff": "TRYON STREET ACQUISITION TRUST I",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-12-16"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "LOT 41 BLOCK 322",
   "plaintiff": "TRYON STREET ACQUISITION TRUST I",
   "property_note": "Dimensions: 48.4’ x 110’ x 48.4’ x 110’\nNearest Street: E Front Street\nPLEASE TAKE NOTICE that the upset price for the sale of the property being sold is $280,000.00.\nThe property is currently vacant.\nProperty sold subject to approximately $39,545.66 plus interest and penalties due for taxes, sewer, trash, etc.\nThe sheriff hereby reserves the right to adjourn the sale without further notice through publication.",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-12-16",
   "sheriff_number": "CH-25000849",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
   "status_history": [
@@ -62,6 +62,10 @@
     {
       "date": "2026-10-21",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-12-16",
+      "status": "Adjourned per Court Order"
     }
   ],
   "upset_amount": 266337.05,

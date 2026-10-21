@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00406424",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "LESA M. DAVIS A/K/A LESA RICHARDSON A/K/A LESA M. DAVIS, INDIVIDUALLY AND AS ADMINISTRATRIX OF THE ESTATE OF RUTH Y. DAVIS A/K/A RUTH DAVIS A/K/A RUTH E. YERBY DAVIS; STATE OF NEW JERSEY; UNITED STATES OFAMERICA; DAIMLER CHRYSLER FINANCIAL SERVICES AMERICAS LLC; MANCINI AUTO SALES T/A TURNERS; KALIROAD 105, LLC,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "19 feet wide by 100 feet long / M121",
     "Plaintiff": "NATIONSTAR MORTGAGE LLC,",
     "Property Note": "CCMUA: CCMUA 1645 Ave. Camden, NJ 08104 856-541-3700 Acct: 080161466\n07/01/2026 09/30/2026 $119.50 OPEN PLUS PENALTY $239.00 OPEN PLUS PENALTY\nSewer: American Water Contract Services P.O. BOX 371397 Pittsburgh, PA 15250-7397 855-769-3164\nAS OF THE DATE OF THIS SEARCH THE STATUS OF ACCOUNT 77-0456316-7 IS $571.20 OPEN.\nLiens: Year: 2024 Type: 3RD PARTY Amount: $3,441.03 Cert No.: 25001446 sold: 04/08/2025 To: FIG 20, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54\nMiscellaneous: $500.00 OPEN PROPERTY FORECLOSURE FEE;\nPLEASE CONTACT CLERK FOR FURTHER DETAILS (856)757-7223",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-26002130"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "LESA M. DAVIS A/K/A LESA RICHARDSON A/K/A \nLESA M. DAVIS, INDIVIDUALLY AND AS ADMINISTRATRIX OF \nTHE ESTATE OF RUTH Y. DAVIS A/K/A RUTH DAVIS A/K/A \nRUTH E. YERBY DAVIS; STATE OF NEW JERSEY; UNITED \nSTATES OFAMERICA; DAIMLER CHRYSLER FINANCIAL \nSERVICES AMERICAS LLC; MANCINI AUTO SALES T/A \nTURNERS; KALIROAD 105, LLC,",
     "listing_status": null,
     "plaintiff": "NATIONSTAR MORTGAGE LLC,",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "19 feet wide by 100 feet long / M121",
   "plaintiff": "NATIONSTAR MORTGAGE LLC,",
   "property_note": "CCMUA: CCMUA 1645 Ave. Camden, NJ 08104 856-541-3700 Acct: 080161466\n07/01/2026 09/30/2026 $119.50 OPEN PLUS PENALTY $239.00 OPEN PLUS PENALTY\nSewer: American Water Contract Services P.O. BOX 371397 Pittsburgh, PA 15250-7397 855-769-3164\nAS OF THE DATE OF THIS SEARCH THE STATUS OF ACCOUNT 77-0456316-7 IS $571.20 OPEN.\nLiens: Year: 2024 Type: 3RD PARTY Amount: $3,441.03 Cert No.: 25001446 sold: 04/08/2025 To: FIG 20, LLC FBO SEC PTY Lien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54\nMiscellaneous: $500.00 OPEN PROPERTY FORECLOSURE FEE;\nPLEASE CONTACT CLERK FOR FURTHER DETAILS (856)757-7223",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-26002130",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 40336.02,

@@ -1,0 +1,56 @@
+{
+  "address": "4 WYCOFF WAY EAST EAST BRUNSWICK NJ 08816",
+  "attorney": "MCGOVERN LEGAL SERVICES",
+  "attorney_file_number": null,
+  "attorney_phone": "732-246-1221",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00488526",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "JORGE MUTIS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$10,004.17",
+    "Attorney": "MCGOVERN LEGAL SERVICES",
+    "Attorney File #": "",
+    "Attorney Phone": "732-246-1221",
+    "Court Case #": "F00488526",
+    "Defendant": "JORGE MUTIS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1 C0004 BLOCK 88.43",
+    "Plaintiff": "THE CLUB AT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+    "Property Address": "4 WYCOFF WAY EAST\nEAST BRUNSWICK NJ 08816",
+    "Property Note": "",
+    "Sale Date": "1/6/2027",
+    "Sheriff #": "F-26002866"
+  },
+  "first_seen": "2026-10-21",
+  "judgment_amount": 10004.17,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4 WYCOFF WAY EAST EAST BRUNSWICK NJ 08816",
+    "defendant": "JORGE MUTIS, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "THE CLUB AT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1 C0004 BLOCK 88.43",
+  "plaintiff": "THE CLUB AT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "F-26002866",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

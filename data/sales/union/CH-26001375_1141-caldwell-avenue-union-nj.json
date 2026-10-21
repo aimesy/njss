@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F00882625",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "ROSA RENDEIRO F/K/A ROSA RENDEIRO DA CRUZ A/K/A ROSA M. RENDEIRO-DA CRUZ; UNKNOWN OCCUPANTS #1-10 N/K/A MEGAN RENDEIRO, OCCUPANT",
   "description": null,
   "extracted": {},
@@ -18,7 +18,7 @@
     "Parcel #": "LOT 31 BLOCK 4207",
     "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION,AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2021-R3, MORTGAGE-BACKED NOTES, SERIES 2021-R3",
     "Property Note": "Property Description\nPursuant to N.J.S.A. 2A:61-l, this form must be completed for all Sheriff's Sales in Union Cottnty for publication purposes in two newspapers.\nThis form must be completed by your office, NOT the Sheriff's Office. Assistance in completing this description can be obtained from Title Company. It is not advisable to use the term \"UNKNOWN\".\nProperty to be sold is located in the Township of Union, County of Union and State of New Jersey.\nDimensions (Approx.): 50 x 142.62 x 50.14 x 138.86\nNearest Cross Street: Van Buren Place Important:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 — Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise thefollowing:\nGood Faith Estimated Upset Price: $251 ,377.79\nOccupancy Status:\nOccupied\nBy: Dated: June 10, 2026",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "CH-26001375"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "ROSA RENDEIRO F/K/A ROSA RENDEIRO DA CRUZ A/K/A ROSA M. RENDEIRO-DA CRUZ; UNKNOWN OCCUPANTS #1-10 N/K/A MEGAN RENDEIRO, OCCUPANT",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION,AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2021-R3, MORTGAGE-BACKED NOTES, SERIES 2021-R3",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "LOT 31 BLOCK 4207",
   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION,AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2021-R3, MORTGAGE-BACKED NOTES, SERIES 2021-R3",
   "property_note": "Property Description\nPursuant to N.J.S.A. 2A:61-l, this form must be completed for all Sheriff's Sales in Union Cottnty for publication purposes in two newspapers.\nThis form must be completed by your office, NOT the Sheriff's Office. Assistance in completing this description can be obtained from Title Company. It is not advisable to use the term \"UNKNOWN\".\nProperty to be sold is located in the Township of Union, County of Union and State of New Jersey.\nDimensions (Approx.): 50 x 142.62 x 50.14 x 138.86\nNearest Cross Street: Van Buren Place Important:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 — Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise thefollowing:\nGood Faith Estimated Upset Price: $251 ,377.79\nOccupancy Status:\nOccupied\nBy: Dated: June 10, 2026",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-12-02",
   "sheriff_number": "CH-26001375",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
   "status_history": [
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-21",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 246886.42,

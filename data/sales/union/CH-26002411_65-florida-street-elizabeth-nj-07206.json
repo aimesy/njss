@@ -1,0 +1,52 @@
+{
+  "address": "65 FLORIDA STREET ELIZABETH NJ 07206",
+  "attorney": "PINCUS & TARAB ATTORNEYS AT LAW",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01007625",
+  "current_status": "Scheduled",
+  "defendant": "JAMIE VESPREY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "LOT 25 FKA 620 BLOCK 741 FKA 5",
+  "extracted": {
+    "block": "741",
+    "lot": "25"
+  },
+  "fields": {
+    "Address": "65 FLORIDA STREET\nELIZABETH NJ 07206",
+    "Approx. Upset*": "$364,563.46",
+    "Attorney": "PINCUS & TARAB ATTORNEYS AT LAW",
+    "Court Case #": "F01007625",
+    "Defendant": "JAMIE VESPREY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "LOT 25 FKA 620 BLOCK 741 FKA 5",
+    "Parcel #": "LOT 25 FKA 620 BLOCK 741 FKA 5",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "CH-26002411"
+  },
+  "first_seen": "2026-10-21",
+  "listing": {
+    "address": "65 FLORIDA STREET ELIZABETH NJ 07206",
+    "defendant": "JAMIE VESPREY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 25 FKA 620 BLOCK 741 FKA 5",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "CH-26002411",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 364563.46,
+  "upset_amount_label": "Approx. Upset*"
+}
