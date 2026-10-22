@@ -1,0 +1,52 @@
+{
+  "address": "115 E GIBBONS LINDEN NJ 07036",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00510626",
+  "current_status": "Scheduled",
+  "defendant": "MARTIN FISCH; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A JANE DOE (NAME REFUSED), OCCUPANT",
+  "description": "LOT 10 BLOCK 205",
+  "extracted": {
+    "block": "205",
+    "lot": "10"
+  },
+  "fields": {
+    "Address": "115 E GIBBONS\nLINDEN NJ 07036",
+    "Approx. Upset*": "$376,210.53",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00510626",
+    "Defendant": "MARTIN FISCH; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A JANE DOE (NAME REFUSED), OCCUPANT",
+    "Description": "LOT 10 BLOCK 205",
+    "Parcel #": "LOT 10 BLOCK 205",
+    "Plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION AS TRUSTEE FOR LB-SHED SERIES VI TRUST",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "CH-26002425"
+  },
+  "first_seen": "2026-10-22",
+  "listing": {
+    "address": "115 E GIBBONS LINDEN NJ 07036",
+    "defendant": "MARTIN FISCH; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A JANE DOE (NAME REFUSED), OCCUPANT",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION AS TRUSTEE FOR LB-SHED SERIES VI TRUST",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 10 BLOCK 205",
+  "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION AS TRUSTEE FOR LB-SHED SERIES VI TRUST",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "CH-26002425",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 376210.53,
+  "upset_amount_label": "Approx. Upset*"
+}

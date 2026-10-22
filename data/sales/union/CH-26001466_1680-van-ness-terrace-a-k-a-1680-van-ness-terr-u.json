@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F00686415",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Cancelled",
   "defendant": "PETER AKOR AND SOPHIE AKOR A/K/A SOPHIA AKOR, HIS WIFE; ABRAHAM OBADARE; PAUL OBADARE; T.O. OBADABARE; JOSEPH R. FAMUYIDE; CHRIST APOSTOLIC CHURCH WOSEM INC.; PNC BANK",
   "description": null,
   "extracted": {},
@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "LOT 33 BLOCK 5515",
   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
@@ -50,6 +50,14 @@
     {
       "date": "2026-10-21",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Cancelled"
     }
   ],
   "upset_amount": 387242.68,

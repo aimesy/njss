@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F00570725",
-  "current_status": "Scheduled",
+  "current_status": "Bankuptcy",
   "defendant": "PAULETTE LAUVANIS, MOISE DUCAS",
   "description": "SUPERIOR COURT OF NEW JERSEY\nSuperior-Union\nSHERIFF'S SALE NO. 25002335\nDOCKET NO. F00570725\nPLAINTIFF – OWNERSCHOICE FUNDING, INC.\nDEFENDANTS- PAULETTE LAUVANIS, MOISE DUCAS\nWrit of Execution.\nBy virtue of the above stated Writ of Execution to me directed and delivered I will expose for sale at public venue on\nWednesday THE 21st DAY OF October 2026\nbetween the hours of two and five o'clock in the afternoon of said day, that is to say at 2:00 P.M. prevailing time at Warinanco Ice Skating Center, 1 Park Drive, Roselle, New Jersey 07203 to wit:\nAll that tract or parcel of land, situate, lying and being in the town of RAHWAY, County of Union and State of New Jersey:\nBeing known as: BLOCK 48 LOT 1\nPREMISES COMMONLY KNOWN AS:\n352 RUSSELL AVENUE RAHWAY, NJ 07065\nA more complete metes and bounds description can be found in the Office of the Union County Sheriff.\nLien(s)/Taxes: DIMENSIONS OF LOT: 91.81' x 50.74'\nNEAREST CROSS STREET: Heaton Place (fka West Meadow Avenue)\nSUPERIOR INTERESTS (if any): Any and all easements, covenants, restrictions and reservations of record; Any set of facts which an accurate survey and inspection would disclose; All unpaid municipal taxes, assessments and liens; Any unpaid assessment and any outstanding tax sale certificate, Rights of any party in possession /rights protected by the NJ Anti-Eviction Act; All Local, County, State and Federal ordinances and regulations; Any condominium association lien granted priority by N.J.S.A 46:8B-21b; Any outstanding Condominium, PUD or Homeowner Association dues or fees; Rights of the United States of America, if any; The property is sold in its \"AS IS\" condition; Purchaser shall be responsible for Sheriffs costs, commission, deed recording fees and realty transfer fees.\nRahway City holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the amount of $2,923.63 - 2nd Quarter 2026 Taxes as of 05/07/2026\nVeolia Water New Jersey holds a claim for taxes due and/or other municipal utilities such as water and/or sewer in the amount of $1,545.93 plus penalty as of 05/07/2026.\nPlaintiffs upset bid is $266,073.86 in accordance with the requirements of Section 12 ofP.L. 1995, c. 244 (C.2A:50-64) as amended.\nThe property is reported to be owner occupied.\nThe full legal description can be found in the Office of the Clerk of Union County in Mortgage Book 14162 Page 979 .\nThe Sheriff hereby reserves the right to adjourn this sale without further notice through publication.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to the Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim a\nNote: The street address is merely given as a convenience to the bidders and is not a representation of fact on the part of the sheriff. The diagram or concise description does not constitute a full legal description of the premises, but it can be found in the Union County Sheriff Office.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee and the Mortgagee’s attorney.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate amount due on this execution is $233,282.95 plus interest, cost, printers’ fees, Sheriff's fees and commission. The prior liens, as per affidavit of consideration are not a representation of fact on the part of the Sheriff.\nPeter D. Corvelli\nSHERIFF\nAdvertised on our website: https://ucnj.org/sheriff/functions/sheriffs-sale-information/\nDATED: September 24, 2026\nPOWERS KIRN LLC\n308 HARPER DRIVE\nSUITE 210\nMoorestown, NJ 08057\n856-802-1000",
   "extracted": {
@@ -33,7 +33,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "BLOCK 48 LOT 1",
   "plaintiff": "OWNERSCHOICE FUNDING, INC.",
@@ -69,6 +69,10 @@
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Bankuptcy"
     }
   ],
   "upset_amount": 233282.95,

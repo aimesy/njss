@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot No. 28 Block 501",
     "Plaintiff": "MIDFIRST BANK",
     "Property Note": "",
-    "Sales Date": "12/2/2026",
+    "Sales Date": "10/21/2026",
     "Sheriff #": "FR-26002569"
   },
   "first_seen": "2026-10-15",
@@ -27,18 +27,22 @@
     "defendant": "NORMAN SMITH, ET AL",
     "listing_status": null,
     "plaintiff": "MIDFIRST BANK",
-    "sale_date": "2026-12-02"
+    "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Tax Lot No. 28 Block 501",
   "plaintiff": "MIDFIRST BANK",
   "property_note": null,
-  "sale_date": "2026-12-02",
+  "sale_date": "2026-10-21",
   "sheriff_number": "FR-26002569",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
+    {
+      "date": "2026-10-21",
+      "status": "Cancelled"
+    },
     {
       "date": "2026-12-02",
       "status": "Scheduled"

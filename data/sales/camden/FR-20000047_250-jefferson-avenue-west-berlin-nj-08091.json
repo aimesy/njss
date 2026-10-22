@@ -1,6 +1,6 @@
 {
   "address": "250 JEFFERSON AVENUE WEST BERLIN NJ 08091",
-  "attorney": "RAS CITRON LAW OFFICES",
+  "attorney": "RAS CITRON LLC",
   "attorney_phone": "(973) 575-0707",
   "county": "Camden County, NJ",
   "county_id": 1,
@@ -11,14 +11,14 @@
   "fields": {
     "Address": "250 JEFFERSON AVENUE\nWEST BERLIN NJ 08091",
     "Approx. Upset*": "$291,246.93",
-    "Attorney": "RAS CITRON LAW OFFICES",
+    "Attorney": "RAS CITRON LLC",
     "Attorney Phone": "(973) 575-0707",
     "Court Case #": "F02387318",
     "Defendant": "ALFREDO A. HERRERA A/K/A A. HERRERA A/K/A A. A. HERRERA A/K/A AL HERRERA A/K/A\nALFREDO HERRERA; DINORA D. HERRERA A/K/A D. HERRERA A/K/A D. D. HERRERA A/K/A\nDINORA HERRERA,",
     "Parcel #": "TAX LOT 15.01 BLOCK 602",
     "Plaintiff": "SELENE FINANCE LP,",
     "Property Note": "2026 Qtr 4 Due: 11/01/2026 $2,155.27 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,076.46 OPEN\n2027 Qtr 2 Due: 05/01/2027 $2,076.46 OPEN\nSewer: Berlin Twp. 135 Route 73 south West Berlin,NJ 08091 856-767-1854 Acct: 60201501 0 10/01/2026 - 12/31/2026$81.25 OPEN\nWater: Berlin Boro 59 S. White Horse Pike Berlin,NJ 08009 856-767-7777 Acct: 43660 0 To: 08/17/2026 $332.20 OPEN",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "10/19/2026",
     "Sheriff #": "FR-20000047"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "ALFREDO A. HERRERA A/K/A A. HERRERA A/K/A A. A. HERRERA A/K/A AL HERRERA A/K/A \nALFREDO HERRERA; DINORA D. HERRERA A/K/A D. HERRERA A/K/A D. D. HERRERA A/K/A \nDINORA HERRERA,",
     "listing_status": null,
     "plaintiff": "SELENE FINANCE LP,",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-10-19"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "TAX LOT 15.01 BLOCK 602",
   "plaintiff": "SELENE FINANCE LP,",
   "property_note": "2026 Qtr 4 Due: 11/01/2026 $2,155.27 OPEN\n2027 Qtr 1 Due: 02/01/2027 $2,076.46 OPEN\n2027 Qtr 2 Due: 05/01/2027 $2,076.46 OPEN\nSewer: Berlin Twp. 135 Route 73 south West Berlin,NJ 08091 856-767-1854 Acct: 60201501 0 10/01/2026 - 12/31/2026$81.25 OPEN\nWater: Berlin Boro 59 S. White Horse Pike Berlin,NJ 08009 856-767-7777 Acct: 43660 0 To: 08/17/2026 $332.20 OPEN",
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-10-19",
   "sheriff_number": "FR-20000047",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -82,6 +82,10 @@
     {
       "date": "2026-06-03",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-19",
+      "status": "Bankruptcy"
     },
     {
       "date": "2026-10-21",

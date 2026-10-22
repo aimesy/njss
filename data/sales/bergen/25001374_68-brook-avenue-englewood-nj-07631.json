@@ -1,0 +1,79 @@
+{
+  "address": "68 BROOK AVENUE ENGLEWOOD NJ 07631",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+  "county": "Bergen County, NJ",
+  "county_id": 7,
+  "court_case_number": "F01172022",
+  "current_status": "Cancelled",
+  "defendant": "SAMANTHA A THOMAS AKA SAMANTHA AMONOO AKA SAMANTHA AMONOO THOMAS AKA SAMANTHA THOMAS, ET AL",
+  "description": "ESTIMATED UPSET BID AMOUNT: $294,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "68 BROOK AVENUE\nENGLEWOOD NJ 07631",
+    "Approx. Upset*": "$266,539.00",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PARTNERS PLLC",
+    "Court Case #": "F01172022",
+    "Defendant": "SAMANTHA A THOMAS AKA SAMANTHA AMONOO AKA SAMANTHA AMONOO THOMAS AKA SAMANTHA THOMAS, ET AL",
+    "Description": "ESTIMATED UPSET BID AMOUNT: $294,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 9, BLOCK 807",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "1/16/2026",
+    "Sheriff #": "25001374"
+  },
+  "first_seen": "2026-10-22",
+  "listing": {
+    "address": "68 BROOK AVENUE ENGLEWOOD NJ 07631",
+    "defendant": "SAMANTHA A THOMAS AKA SAMANTHA AMONOO AKA SAMANTHA AMONOO THOMAS AKA SAMANTHA THOMAS, ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Bergen County, NJ)",
+  "parcel": "LOT 9, BLOCK 807",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-01-16",
+  "sheriff_number": "25001374",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+  "status_history": [
+    {
+      "date": "2025-07-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-08-15",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-09-19",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2025-10-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-11-21",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2025-12-19",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 266539.0,
+  "upset_amount_label": "Approx. Upset*"
+}

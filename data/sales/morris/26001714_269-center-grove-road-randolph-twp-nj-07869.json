@@ -1,0 +1,43 @@
+{
+  "address": "269 Center Grove Road Randolph Twp NJ 07869",
+  "county": "Morris County, NJ",
+  "county_id": 9,
+  "court_case_number": "F-010602-25",
+  "current_status": "Scheduled",
+  "defendant": "Allen Ariza, et al",
+  "description": "Plaintiff Approx. Upset Price: $ 334,198.92\nOccupancy Status: Unknown\nDimensions: Approx. 127.55 feet wide by 363.13 feet long\nNearest Cross Street: Castle Court",
+  "extracted": {
+    "occupancy": "Unknown",
+    "upset_amount": 334198.92
+  },
+  "fields": {
+    "Address": "269 Center Grove Road\nRandolph Twp NJ 07869",
+    "Court Case #": "F-010602-25",
+    "Defendant": "Allen Ariza, et al",
+    "Description": "Plaintiff Approx. Upset Price: $ 334,198.92\nOccupancy Status: Unknown\nDimensions: Approx. 127.55 feet wide by 363.13 feet long\nNearest Cross Street: Castle Court",
+    "Plaintiff": "First Federal Bank of Kansas City",
+    "Sales Date": "1/7/2027",
+    "Sheriff #": "26001714"
+  },
+  "first_seen": "2026-10-22",
+  "listing": {
+    "address": "269 Center Grove Road Randolph Twp NJ 07869",
+    "defendant": "Allen Ariza, et al",
+    "listing_status": null,
+    "plaintiff": "First Federal Bank of Kansas City",
+    "sale_date": null
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Morris County, NJ)",
+  "plaintiff": "First Federal Bank of Kansas City",
+  "sale_date": "2027-01-07",
+  "sheriff_number": "26001714",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=9",
+  "status_history": [
+    {
+      "date": "2027-01-07",
+      "status": "Scheduled"
+    }
+  ]
+}

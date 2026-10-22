@@ -22,7 +22,7 @@
     "Parcel #": "Lot and Block: Lot 41, Block 3304 Tax Map of Township of Eatontown",
     "Plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.",
     "Property Note": "",
-    "Sales Date": "11/23/2026",
+    "Sales Date": "2/8/2027",
     "Sheriff #": "FOR-26002015"
   },
   "first_seen": "2026-10-12",
@@ -31,20 +31,28 @@
   "listing": {
     "address": "27 Surrey Lane Eatontown NJ 07724",
     "defendant": "Brad Bogan, et al.",
-    "listing_status": "Scheduled",
+    "listing_status": "Adjournment Defendant",
     "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.",
-    "sale_date": "2026-11-23"
+    "sale_date": "2027-02-08"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Adjournment Defendant",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 41, Block 3304 Tax Map of Township of Eatontown",
   "plaintiff": "Rocket Mortgage, LLC f/k/a Quicken Loans, LLC f/k/a Quicken Loans Inc.",
   "property_note": null,
-  "sale_date": "2026-11-23",
+  "sale_date": "2027-02-08",
   "sheriff_number": "FOR-26002015",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2027-02-08",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2027-01-11",
+      "status": "Adjournment Defendant"
+    },
     {
       "date": "2026-11-23",
       "status": "Scheduled"

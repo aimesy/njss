@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot 12 Block 402 f/k/a Lot 00024 Block 00603 Additional Lot 2 Block 2407 In Winslow",
     "Plaintiff": "NEW RESIDENTIAL MORTGAGE LOAN TRUST 2019-RPL3",
     "Property Note": "",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "10/20/2026",
     "Sheriff #": "FR-26002211"
   },
   "first_seen": "2026-10-12",
@@ -27,18 +27,22 @@
     "defendant": "LATANYA RICHARDSON-BRADSHAW A/K/A LATANYA BRADSHAW AND MR. LATANYA RICHARDSON-BRADSHAW, HER HUSBAND; DIVIDEND SOLAR FINANCE LLC; CREDIT ACCEPTANCE CORPORATION; ABC BAIL BONDS INC;",
     "listing_status": null,
     "plaintiff": "NEW RESIDENTIAL MORTGAGE LOAN TRUST 2019-RPL3",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-10-20"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Tax Lot 12 Block 402 f/k/a Lot 00024 Block 00603 Additional Lot 2 Block 2407 In Winslow",
   "plaintiff": "NEW RESIDENTIAL MORTGAGE LOAN TRUST 2019-RPL3",
   "property_note": null,
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-10-20",
   "sheriff_number": "FR-26002211",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
+    {
+      "date": "2026-10-20",
+      "status": "Cancelled"
+    },
     {
       "date": "2026-10-21",
       "status": "Scheduled"

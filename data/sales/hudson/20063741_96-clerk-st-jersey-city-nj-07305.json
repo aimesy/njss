@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-005123-23",
-  "current_status": "JOINT ADJOURNMENT",
+  "current_status": "Cancelled",
   "defendant": "GARY GARVIN, ET AL.",
   "description": "LOT 46, BLOCK 23302\nDIMENSIONS: 25 FT X 125 FT\nNEAREST CROSS STREET: CLAREMONT AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $556,277.43\nSUBJECT TO TAX SALE CERTIFICATE # 2025-1306 FOR OPEN WATER IN THE AMOUNT OF $813.54. THIRD PARTY PURCHASER IS RESPONSIBLE FOR OBTAINING FINAL AMOUNT TO REDEEM.",
   "extracted": {
@@ -23,8 +23,8 @@
     "Good Faith Upset*": "$556,277.43",
     "Judgment": "$424,974.29",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-    "Property Note": "",
-    "Sales Date": "10/22/2026",
+    "Property Note": "CANCELLED DUE TO BK",
+    "Sales Date": "10/21/2026",
     "Sheriff #": "20063741"
   },
   "first_seen": "2026-10-12",
@@ -35,14 +35,14 @@
     "defendant": "GARY GARVIN, ET AL.",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-    "sale_date": "2026-10-22"
+    "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-  "property_note": null,
-  "sale_date": "2026-10-22",
+  "property_note": "CANCELLED DUE TO BK",
+  "sale_date": "2026-10-21",
   "sheriff_number": "20063741",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
@@ -51,8 +51,12 @@
       "status": "Scheduled"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-08",
       "status": "JOINT ADJOURNMENT"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Cancelled"
     }
   ],
   "upset_amount": 556277.43,

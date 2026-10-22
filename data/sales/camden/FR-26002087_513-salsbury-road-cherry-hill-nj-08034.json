@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00750823",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "MELVA PRATT, ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT 13 BLOCK 338.12",
     "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION,\nAS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC\nSEASONED LOANS STRUCTURED TRANSACTION TRUST,\nSERIES 2021-1",
     "Property Note": "",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26002087"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "MELVA PRATT, ET AL.",
     "listing_status": null,
     "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, \nAS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC \nSEASONED LOANS STRUCTURED TRANSACTION TRUST, \nSERIES 2021-1",
-    "sale_date": "2026-10-21"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "TAX LOT 13 BLOCK 338.12",
   "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2021-1",
   "property_note": null,
-  "sale_date": "2026-10-21",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26002087",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 184393.08,

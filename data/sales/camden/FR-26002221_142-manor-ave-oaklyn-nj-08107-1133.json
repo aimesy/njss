@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01245924",
-  "current_status": "Scheduled",
+  "current_status": "Purchased",
   "defendant": "HEATHER HENRICH, ET AL.",
   "extracted": {},
   "fields": {
@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "TAX LOT # 18.01 Block 22",
   "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Purchased"
     }
   ],
   "upset_amount": 150838.77,

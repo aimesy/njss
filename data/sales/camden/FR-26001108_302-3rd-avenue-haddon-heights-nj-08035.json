@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00458125",
-  "current_status": "Plaintiff Adjournment",
+  "current_status": "Court Adjournment",
   "defendant": "WILLIAM H. SCHADE, JR., ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "LOT 1, BLOCK 30 ON THE OFFICIAL TAX MAP OF THE BOROUGH OF HADDON HEIGHTS",
     "Plaintiff": "THE BANK OF NEW YORK MELLON\nF/K/A THE BANK OF NEW YORK AS\nSUCCESSOR TRUSTEE FOR JPMORGAN\nCHASE BANK, N.A., AS TRUSTEE FOR\nTHE BENEFIT OF THE\nCERTIFICATEHOLDERS OF POPULAR\nABS, INC. MORTGAGE PASS-THROUGH\nCERTIFICATES SERIES 2006-D",
     "Property Note": "",
-    "Sales Date": "10/21/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "FR-26001108"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "WILLIAM H. SCHADE, JR., ET AL.",
     "listing_status": null,
     "plaintiff": "THE BANK OF NEW YORK MELLON \nF/K/A THE BANK OF NEW YORK AS \nSUCCESSOR TRUSTEE FOR JPMORGAN \nCHASE BANK, N.A., AS TRUSTEE FOR \nTHE BENEFIT OF THE \nCERTIFICATEHOLDERS OF POPULAR \nABS, INC. MORTGAGE PASS-THROUGH \nCERTIFICATES SERIES 2006-D",
-    "sale_date": "2026-10-21"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "LOT 1, BLOCK 30 ON THE OFFICIAL TAX MAP OF THE BOROUGH OF HADDON HEIGHTS",
   "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR TRUSTEE FOR JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR THE BENEFIT OF THE CERTIFICATEHOLDERS OF POPULAR ABS, INC. MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2006-D",
   "property_note": null,
-  "sale_date": "2026-10-21",
+  "sale_date": "2026-11-18",
   "sheriff_number": "FR-26001108",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -54,6 +54,10 @@
     {
       "date": "2026-10-21",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Court Adjournment"
     }
   ],
   "upset_amount": 523263.55,

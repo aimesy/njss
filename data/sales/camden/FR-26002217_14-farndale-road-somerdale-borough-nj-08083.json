@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00222026",
-  "current_status": "Scheduled",
+  "current_status": "Purchased",
   "defendant": "JULIA A. ALEXANDER, ET AL .",
   "extracted": {},
   "fields": {
@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "BLOCK: 129.02 LOT: 54",
   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Purchased"
     }
   ],
   "upset_amount": 148955.83,

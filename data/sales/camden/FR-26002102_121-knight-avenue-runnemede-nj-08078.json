@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01320725",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Buy Back",
   "defendant": "COLLEEN E. FOX,, ET AL",
   "extracted": {},
   "fields": {
@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Tax Lot No. 26 Block 147.04",
   "plaintiff": "MIDFRIST BANK",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Buy Back"
     }
   ],
   "upset_amount": 230013.92,

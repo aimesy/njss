@@ -1,0 +1,56 @@
+{
+  "address": "46-48 WASHINGTON PKWY BAYONNE NJ 07002",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005389-26",
+  "current_status": "Scheduled",
+  "defendant": "STEPHEN MOGUSU; LORINE A. ALFRED; VELOCITY INVESTMENTS, LLC ASSIGNEE OF GOLDMAN SACHS BANK USA",
+  "description": "TAX LOT 42 BLOCK 254\nDIMENSIONS OF LOT: 37.53 FEET WIDE BY 92.90 IRR FEET LONG\nNEAREST CROSS STREET: AVENUE A\nESTIMATED UPSET BID AMOUNT: $569,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OWNER OCCUPIED\n2026 QTR 4 DUE: 11/01/2026 $4,238.60 OPEN\n2027 QTR 1 DUE: 02/01/2027 $3,912.46 OPEN\n2027 QTR 2 DUE 05/01/2027 $3,912.46 OPEN\nWATER: VEOLIA WATER NEW JERSEY/ BAYONNE PO BOX 40122 NEWARK, NJ 07101-4001 888-434-0518\nACCT: 68904061146819 TO: 09/01/2026 $533.12 OPEN PLUS PENALTY",
+  "extracted": {
+    "block": "254",
+    "lot": "42",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "46-48 WASHINGTON PKWY\nBAYONNE NJ 07002",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-005389-26",
+    "Defendant": "STEPHEN MOGUSU; LORINE A. ALFRED; VELOCITY INVESTMENTS, LLC ASSIGNEE OF GOLDMAN SACHS BANK USA",
+    "Description": "TAX LOT 42 BLOCK 254\nDIMENSIONS OF LOT: 37.53 FEET WIDE BY 92.90 IRR FEET LONG\nNEAREST CROSS STREET: AVENUE A\nESTIMATED UPSET BID AMOUNT: $569,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT\nOCCUPANCY STATUS: OWNER OCCUPIED\n2026 QTR 4 DUE: 11/01/2026 $4,238.60 OPEN\n2027 QTR 1 DUE: 02/01/2027 $3,912.46 OPEN\n2027 QTR 2 DUE 05/01/2027 $3,912.46 OPEN\nWATER: VEOLIA WATER NEW JERSEY/ BAYONNE PO BOX 40122 NEWARK, NJ 07101-4001 888-434-0518\nACCT: 68904061146819 TO: 09/01/2026 $533.12 OPEN PLUS PENALTY",
+    "Good Faith Upset*": "$569,000.00",
+    "Judgment": "$522,571.77",
+    "Plaintiff": "PHH ASSET SERVICES LLC",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20064478"
+  },
+  "first_seen": "2026-10-22",
+  "judgment_amount": 522571.77,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "46-48 WASHINGTON PKWY BAYONNE NJ 07002",
+    "defendant": "STEPHEN MOGUSU; LORINE A. ALFRED; VELOCITY INVESTMENTS, LLC ASSIGNEE OF GOLDMAN SACHS BANK USA",
+    "listing_status": null,
+    "plaintiff": "PHH ASSET SERVICES LLC",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PHH ASSET SERVICES LLC",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20064478",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-12-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 569000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

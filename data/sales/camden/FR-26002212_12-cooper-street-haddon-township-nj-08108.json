@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00163325",
-  "current_status": "Scheduled",
+  "current_status": "Purchased",
   "defendant": "MICHAEL O'MEARA A/K/A MICHAEL T. O'MEARA AND MRS. MICHAEL O'MEARA HIS WIFE; NICOLE O'MEARA A/K/A NICOLE M. O'MEARA AND MR. NICOLE O'MEARA, HER HUSBAND; UNITED STATES OF AMERICA; STATE OF NEW JERSEY; LVNV FUNDING LLC;",
   "extracted": {},
   "fields": {
@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Tax Lot 10 Block 21.09 f/k/a Lot 10 Block 73",
   "plaintiff": "WELLS FARGO BANK, N.A.",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Purchased"
     }
   ],
   "upset_amount": 564244.11,

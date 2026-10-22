@@ -22,7 +22,7 @@
     "Parcel #": "Tax LOT 5 BLOCK 3806",
     "Plaintiff": "BANK OF AMERICA N.A.",
     "Property Note": "",
-    "Sales Date": "11/17/2026",
+    "Sales Date": "12/15/2026",
     "Sheriff #": "F-26001020"
   },
   "first_seen": "2026-10-12",
@@ -31,7 +31,7 @@
     "defendant": "BETTY J. NAWYN ET ALS",
     "listing_status": null,
     "plaintiff": "BANK OF AMERICA N.A.",
-    "sale_date": "2026-11-17"
+    "sale_date": "2026-12-15"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -39,7 +39,7 @@
   "parcel": "Tax LOT 5 BLOCK 3806",
   "plaintiff": "BANK OF AMERICA N.A.",
   "property_note": null,
-  "sale_date": "2026-11-17",
+  "sale_date": "2026-12-15",
   "sheriff_number": "F-26001020",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -53,6 +53,10 @@
     },
     {
       "date": "2026-11-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-12-15",
       "status": "Adjourned - Plaintiff"
     }
   ],

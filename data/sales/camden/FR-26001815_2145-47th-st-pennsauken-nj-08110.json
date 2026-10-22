@@ -1,18 +1,18 @@
 {
   "address": "2145 47TH ST PENNSAUKEN NJ 08110",
   "attorney": "BROCK & SCOTT PLLC",
-  "attorney_phone": "1(888) 726-9953",
+  "attorney_phone": "1(844)856-6646",
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00134426",
-  "current_status": "Plaintiff Adjournment",
+  "current_status": "Purchased",
   "defendant": "DESWA EVANS, ET AL.",
   "extracted": {},
   "fields": {
     "Address": "2145 47TH ST\nPENNSAUKEN NJ 08110",
     "Approx. Upset*": "$92,700.34",
     "Attorney": "BROCK & SCOTT PLLC",
-    "Attorney Phone": "1(888) 726-9953",
+    "Attorney Phone": "1(844)856-6646",
     "Court Case #": "F00134426",
     "Defendant": "DESWA EVANS, ET AL.",
     "Parcel #": "Lot 6, Block 813 on the official Tax Map of the TOWNSHIP OF PENNSAUKEN",
@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Lot 6, Block 813 on the official Tax Map of the TOWNSHIP OF PENNSAUKEN",
   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-21",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Purchased"
     }
   ],
   "upset_amount": 92700.34,

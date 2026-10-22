@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01044525",
-  "current_status": "Scheduled",
+  "current_status": "Purchased",
   "defendant": "VERNON C. STAMM AND DIANE M. DEHAVEN, HUSBAND AND WIFE,",
   "extracted": {},
   "fields": {
@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "LOT14 F/K/A LOT 19, BLOCK 21.07 F/K/A BLOCK 75",
   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC,",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-21",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Purchased"
     }
   ],
   "upset_amount": 56224.38,

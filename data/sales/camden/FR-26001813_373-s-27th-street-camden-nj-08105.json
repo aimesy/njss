@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "SWCF01046725",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Plaintiff Buy Back",
   "defendant": "5 STAR PROPERTIES LLC; PEDRO ROSARIO; STATE OF NEW JERSEY",
   "extracted": {},
   "fields": {
@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Lot(s) 49, Block 1180, City of Camden, Camden County",
   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION NOT IN IT'S INDIDVIDUAL CAPACITY BUT SOLEY AS TRUSTEE FOR STONE ROOTS M TRUSTEE FOR STONE ROOTS M TRUST",
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-21",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Plaintiff Buy Back"
     }
   ],
   "upset_amount": 165652.58,

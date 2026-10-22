@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F00598925",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Bankuptcy",
   "defendant": "LENA R. WASHINGTON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; SKYLANDS ENERGY SERV",
   "description": null,
   "extracted": {},
@@ -30,7 +30,7 @@
     "sale_date": "2026-10-21"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "LOT 15 BLOCK 128",
   "plaintiff": "NATIONSTAR MORTGAGE LLC",
@@ -54,6 +54,10 @@
     {
       "date": "2026-10-21",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "Bankuptcy"
     }
   ],
   "upset_amount": 197233.79,
