@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F105626",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "AARON EDWARD LYLE, ET ALS",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot No. 3.02 in Block No. 163",
     "Plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
     "Property Note": "PRIOR LIENS/ENCUMBRANCES\nWATER OPEN AND DUE $82.00\nWATER OPEN PLUS PENALTY $294.00\nSEWER OPEN AND DUE $105.00\nSEWER OPEN PLUS PENALTY $210.00\nCCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY $186.00\nTOTAL AS OF July 28, 2026: $970.00",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/20/2027",
     "Sheriff #": "FR-26002101"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "AARON EDWARD LYLE, ET ALS",
     "listing_status": null,
     "plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-20"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "Tax Lot No. 3.02 in Block No. 163",
   "plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
   "property_note": "PRIOR LIENS/ENCUMBRANCES\nWATER OPEN AND DUE $82.00\nWATER OPEN PLUS PENALTY $294.00\nSEWER OPEN AND DUE $105.00\nSEWER OPEN PLUS PENALTY $210.00\nCCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY $186.00\nTOTAL AS OF July 28, 2026: $970.00",
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-20",
   "sheriff_number": "FR-26002101",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-11-18",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2027-01-20",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 186599.48,

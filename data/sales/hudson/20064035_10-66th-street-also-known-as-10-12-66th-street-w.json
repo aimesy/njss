@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-012397-23 (CWPP INELIGIBLE)",
-  "current_status": "Scheduled",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
   "defendant": "LYNDA K. KWON, A/K/A LINDA KWON, CHRISTINA KWON, CHRISTOPHER KWON, MONICA KWON, ET AL.",
   "description": "TAX LOT 2, BLOCK 13\nTHIS APARTMENT BUILDING HAS 6 UNITS. ALL 6 UNITS ARE RENTED.\nTHE NEAREST CROSS-STREET TO 66TH STREET IS BOULEVARD EAST\nTHE UPSET PRICE IS $3,179,998.00\nTAXED COSTS AND COUNSEL FEES: $7,500.00",
   "extracted": {
@@ -38,7 +38,7 @@
     "sale_date": "2026-10-22"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "CAROL JACOBY, EXECUTRIX OF THE ESTATE OF JOSEPH DESALVO",
   "property_note": null,
@@ -49,6 +49,10 @@
     {
       "date": "2026-10-22",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
     }
   ],
   "upset_amount": 3179998.0,

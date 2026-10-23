@@ -23,7 +23,7 @@
     "Parcel #": "TAX LOT: 33 TAX BLOCK: 115",
     "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
     "Property Note": "",
-    "Sales Date": "10/28/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "F-26000290"
   },
   "first_seen": "2026-10-12",
@@ -34,7 +34,7 @@
     "defendant": "DEREK R. HUGGINS, SR.; ET AL",
     "listing_status": "Plaintiff Adjourned to",
     "plaintiff": "FREEDOM MORTGAGE CORPORATION",
-    "sale_date": "2026-10-28"
+    "sale_date": "2027-01-06"
   },
   "listing_status": "Plaintiff Adjourned to",
   "on_open_list": true,
@@ -42,7 +42,7 @@
   "parcel": "TAX LOT: 33 TAX BLOCK: 115",
   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
   "property_note": null,
-  "sale_date": "2026-10-28",
+  "sale_date": "2027-01-06",
   "sheriff_number": "F-26000290",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
   "status_history": [
@@ -68,6 +68,10 @@
     },
     {
       "date": "2026-10-28",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Plaintiff Adjourned to"
     }
   ]

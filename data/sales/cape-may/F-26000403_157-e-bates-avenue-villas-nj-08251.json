@@ -1,0 +1,56 @@
+{
+  "address": "157 E BATES Avenue Villas NJ 08251",
+  "attorney": "Martone & Uhlman, P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": "973-473-3000",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-006716-26",
+  "current_status": "Scheduled",
+  "defendant": "RYAN WORLEY",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$141,320.22",
+    "Attorney": "Martone & Uhlman, P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "973-473-3000",
+    "Court Case #": "F-006716-26",
+    "Defendant": "RYAN WORLEY",
+    "Description": "",
+    "Minimum Bid": "$154,895.73",
+    "Parcel #": "LOT 35 aka 35 and 36, BLOCK 97",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Address": "157 E BATES Avenue\nVillas NJ 08251",
+    "Property Note": "",
+    "Sale Date": "2/17/2027",
+    "Sheriff #": "F-26000403"
+  },
+  "first_seen": "2026-10-23",
+  "judgment_amount": 141320.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "157 E BATES Avenue Villas NJ 08251",
+    "defendant": "RYAN WORLEY",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2027-02-17"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 35 aka 35 and 36, BLOCK 97",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2027-02-17",
+  "sheriff_number": "F-26000403",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2027-02-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 154895.73,
+  "upset_amount_label": "Minimum Bid"
+}

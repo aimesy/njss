@@ -22,7 +22,7 @@
     "Parcel #": "Lot: 56 Block: 17 on the official Tax Map of the Borough of Allentown",
     "Plaintiff": "Crosscountry Mortgage, LLC fka Crosscountry Mortgage, Inc.",
     "Property Note": "",
-    "Sales Date": "10/26/2026",
+    "Sales Date": "1/11/2027",
     "Sheriff #": "FOR-26001223"
   },
   "first_seen": "2026-10-12",
@@ -31,20 +31,28 @@
   "listing": {
     "address": "20 Church Street Allentown NJ 08501",
     "defendant": "Mark Reme aka Mark E. Reme, et al.",
-    "listing_status": "Court Ordered Plaintiff Adjournment",
+    "listing_status": "Adjournment Defendant",
     "plaintiff": "Crosscountry Mortgage, LLC fka Crosscountry Mortgage, Inc.",
-    "sale_date": "2026-10-26"
+    "sale_date": "2027-01-11"
   },
-  "listing_status": "Court Ordered Plaintiff Adjournment",
+  "listing_status": "Adjournment Defendant",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot: 56 Block: 17 on the official Tax Map of the Borough of Allentown",
   "plaintiff": "Crosscountry Mortgage, LLC fka Crosscountry Mortgage, Inc.",
   "property_note": null,
-  "sale_date": "2026-10-26",
+  "sale_date": "2027-01-11",
   "sheriff_number": "FOR-26001223",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2027-01-11",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-11-23",
+      "status": "Adjournment Defendant"
+    },
     {
       "date": "2026-10-26",
       "status": "Court Ordered Plaintiff Adjournment"

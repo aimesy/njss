@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-010660-23 (CWPP INELIGIBLE)",
-  "current_status": "RESCHEDULED",
+  "current_status": "Adjourned - Court",
   "defendant": "5901 WEST AVE. PROPERTIES LLC",
   "description": "TAX LOT: 3.0762, BLOCK 453.02\nApproximate dimensions: 957.69’ x 538.37’\nNearest Cross Street: Claibourne Avenue\n**Subject to Memorandum of Lease dated 02/14/1991 by and between LCI Holdings, Inc. and Hartz Mountain Development Corp. recorded on 02/15/1991 in the official records book 4374, page 344, of the public records of Hudson County, New Jersey.\n**Subject to Memorandum of Lease dated 07/17/2013 by and between West Side Office, LLC and Fifth & Pacific Companies, Inc. recorded on 08/28/2013 in the official records book 8928, page 859, of the public records of Hudson County, New Jersey.\n**Subject to Deed Notice dated 05/20/2014 by and between West Side Office, LLC and New Jersey Department of Environmental Protection Program recorded on 06/09/2014 in the official records book 8977, page 16, of the public records of Hudson County, New Jersey.\n**Subject to a Mortgage held by RL Atlantic Cent LLC by assignment of mortgage from ROK Lending LLC in the face amount of $3,000,000.00 dated July 28, 2021, and recorded on October 19, 2021 in the official records book 20092, page 1, and as Instrument # 20211019060210710, of the public records of Hudson County, New Jersey.",
   "extracted": {
@@ -23,7 +23,7 @@
     "Judgment": "$27,550,802.29",
     "Plaintiff": "RL WEST SIDE NJ LLC",
     "Property Note": "**DEF ADJS ARE STILL AVAILABLE. PREVIOUS DEF ADJ WAS VACATED.**",
-    "Sales Date": "10/22/2026",
+    "Sales Date": "12/10/2026",
     "Sheriff #": "20060604"
   },
   "first_seen": "2026-10-12",
@@ -34,14 +34,14 @@
     "defendant": "5901 WEST AVE. PROPERTIES LLC",
     "listing_status": null,
     "plaintiff": "RL WEST SIDE NJ LLC",
-    "sale_date": "2026-10-22"
+    "sale_date": "2026-12-10"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "RL WEST SIDE NJ LLC",
   "property_note": "**DEF ADJS ARE STILL AVAILABLE. PREVIOUS DEF ADJ WAS VACATED.**",
-  "sale_date": "2026-10-22",
+  "sale_date": "2026-12-10",
   "sheriff_number": "20060604",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
@@ -64,6 +64,10 @@
     {
       "date": "2026-10-22",
       "status": "RESCHEDULED"
+    },
+    {
+      "date": "2026-12-10",
+      "status": "Adjourned - Court"
     }
   ],
   "upset_amount": null,

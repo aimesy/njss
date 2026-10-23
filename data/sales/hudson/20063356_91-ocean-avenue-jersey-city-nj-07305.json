@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-11039-25 (CWPP INELIGIBLE)",
-  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "current_status": "Purchased at Auction by 3rd Party",
   "defendant": "SMPS 91 OCEAN PROPERTY N.J. LLC, ET ALS.",
   "description": "Tax Lot No. 21 in Block No. 29301\nDimension of Lot Approximately: 21.46 x 75\nNearest Cross Street: SEAVIEW AVENUE\nBEGINNING at a point in the westerly line of Ocean Avenue, 70 feet wide, as shown on the Tax Assessment Map for the City of Jersey\nCity, said point being distant 83.54 feet northerly along said westerly line from the point of intersection formed with the northerly line of Seaview Avenue, 50 feet wide, and running thence;\nWATER OPEN PLUS PENALTY $7,381.90\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN",
   "extracted": {
@@ -37,7 +37,7 @@
     "sale_date": "2026-10-22"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "SILVER HILL CAPITAL LLC FKA COMMUNITY LOAN SERVICING, LLC",
   "property_note": null,
@@ -52,6 +52,10 @@
     {
       "date": "2026-10-22",
       "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "Purchased at Auction by 3rd Party"
     }
   ],
   "upset_amount": null,

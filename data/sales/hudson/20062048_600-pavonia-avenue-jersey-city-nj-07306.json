@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "SWC-F-004844-24",
-  "current_status": "RESCHEDULED",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
   "defendant": "PAVONIA REALTY HOLDINGS LLC; RHODIUM PARTNERS LLC; RHODIUM REALTY HOLDINGS LTD; MOSHE SILBER; SAINT BARNABAS REALTY DEVELOPMENT CORPORATION; SHREE KOTYARK INC. D/B/A PAVONIA PHARMACY; JUBILEE VAPE; ALLIED DIGESTIVE HEALTH, LLC; COMPREHENSIVE NEUROLOGICAL SERVICES; RETINA CONSULTANTS, PA II; NEUROLOGY PARTNERS OF HUDSON COUNTY; ARTHRITIS CENTER OF NJ; HERITAGE MEDICAL MANAGEMENT LLC; NJEYE LLC D/B/A PRISM VISION GROUP, THERAPRO CORF, LLC; AND UNKNOWN TENANTS/OCCUPANTS 1-10",
   "description": "LOT 13, BLOCK 7904\nDIMENSIONS OF LOT: 100.00' X 115.00'\nNUMBER OF FEET TO NEAREST CROSS STREET - 137.16' TO SUMMIT AVENUE",
   "extracted": {
@@ -37,7 +37,7 @@
     "sale_date": "2026-10-22"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "BETHPAGE FEDERAL CREDIT UNION",
   "property_note": null,
@@ -72,6 +72,10 @@
     {
       "date": "2026-10-22",
       "status": "RESCHEDULED"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
     }
   ],
   "upset_amount": null,

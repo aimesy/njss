@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01025325",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "DAVID J. CALDERETTI, ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Lot 3, Block 73 on the official Tax Map of the BOROUGH OF AUDUBON.",
     "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
     "Property Note": "Subject to Tax Sale Certificate #25-00039 in the amount of $734.63 for sewer and ccmua. Third Party purchaser will be responsible for obtaining the final amount to redeeM.\nPursuant to 28 USC 2410(c) this sale is subject to a I year right of redemption held by the United States or America by virtue or its lien:\nMORTGAGE: DAVID J. CALDERETTI to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, given 07/14/2022 and dated 08/02/2022 and recorded 08/31/2022 in Book 12176, Page 264, to secure $21,466.02.\nMORTGAGE: DAVID J. CALDERETTI to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 09/20/2023 and recorded 10/19/2023 in Book 12452, Page 422, to secure $8,355.72.\nMORTGAGE: DAVID J. CALDERETTI to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 02/18/2025 and recorded 05/06/2025 in Book 12810, Page 1379, to secure $6,983.86.",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26001680"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "DAVID J. CALDERETTI, ET AL.",
     "listing_status": null,
     "plaintiff": "FREEDOM MORTGAGE CORPORATION",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "Lot 3, Block 73 on the official Tax Map of the BOROUGH OF AUDUBON.",
   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
   "property_note": "Subject to Tax Sale Certificate #25-00039 in the amount of $734.63 for sewer and ccmua. Third Party purchaser will be responsible for obtaining the final amount to redeeM.\nPursuant to 28 USC 2410(c) this sale is subject to a I year right of redemption held by the United States or America by virtue or its lien:\nMORTGAGE: DAVID J. CALDERETTI to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, given 07/14/2022 and dated 08/02/2022 and recorded 08/31/2022 in Book 12176, Page 264, to secure $21,466.02.\nMORTGAGE: DAVID J. CALDERETTI to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 09/20/2023 and recorded 10/19/2023 in Book 12452, Page 422, to secure $8,355.72.\nMORTGAGE: DAVID J. CALDERETTI to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 02/18/2025 and recorded 05/06/2025 in Book 12810, Page 1379, to secure $6,983.86.",
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26001680",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -50,6 +50,10 @@
     {
       "date": "2026-11-04",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 154660.27,

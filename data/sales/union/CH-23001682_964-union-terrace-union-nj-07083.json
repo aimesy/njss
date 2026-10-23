@@ -1,0 +1,60 @@
+{
+  "address": "964 UNION TERRACE UNION NJ 07083",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00333123",
+  "current_status": "Cancelled",
+  "defendant": "EDITH WELLINGTON; GEORGE WELLINGTON",
+  "description": "LOT 10 BLOCK 4113",
+  "extracted": {
+    "block": "4113",
+    "lot": "10"
+  },
+  "fields": {
+    "Address": "964 UNION TERRACE\nUNION NJ 07083",
+    "Approx. Upset*": "$395,036.38",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00333123",
+    "Defendant": "EDITH WELLINGTON; GEORGE WELLINGTON",
+    "Description": "LOT 10 BLOCK 4113",
+    "Parcel #": "LOT 10 BLOCK 4113",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST C/O U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "10/23/2026",
+    "Sheriff #": "CH-23001682"
+  },
+  "first_seen": "2026-10-23",
+  "listing": {
+    "address": "964 UNION TERRACE UNION NJ 07083",
+    "defendant": "EDITH WELLINGTON; GEORGE WELLINGTON",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST C/O U.S. BANK TRUST NATIONAL ASSOCIATION",
+    "sale_date": "2026-10-23"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 10 BLOCK 4113",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST C/O U.S. BANK TRUST NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-10-23",
+  "sheriff_number": "CH-23001682",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2023-09-06",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-09-06",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-10-23",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 395036.38,
+  "upset_amount_label": "Approx. Upset*"
+}
