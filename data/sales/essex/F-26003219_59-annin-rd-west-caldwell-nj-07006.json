@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00076726",
-  "current_status": "Adjourned Defendant",
+  "current_status": "Adjourned Sheriff",
   "defendant": "STEPHEN B. FRIEDMAN; ET. ALS.",
   "description": "TAX LOT: 25 BLOCK: 805 F/K/A LOT 20 BLOCK 70\nDIMENSIONS OF THE LOT ARE (APPROXIMATELY)\nTHE PROPERTY CONSISTS OF THE LAND AND ALL THE BUILDINGS AND STRUCTURES ON THE LAND IN THE BOROUGH OF WEST CALDWELL COUNTY OF ESSEX AND STATE OF NEW JERSEY. THE LEGAL DESCRIPTION IS BEING KNOWN AND DESIGNATED AS LOT 20 BLOCK 70 ON FINAL MAP OF PARKVIEW ESTATES SECTION 1 REVISED AND SECTION 2, DATED JUNE 1, 1967 AND FILED IN THE OFFICE OF THE REGISTER OF ESSEX COUNTY ON SEPTEMBER 11, 1967 AS MAP NO. 2984 BEING THE SAME PREMISES CONVEYED TO THE GRANTORS HEREIN BY DEED FROM WHITESTONE CONSTRUCTION CO., INC., DATED JUNE 30, 1969 AND RECORDED JULY 7, 1969 IN THE ESSEX COUNTY REGISTER'S OFFICE IN DEED BOOK 4314, PAGE 365\nSUBJECT TO A MORTGAGE GIVEN TO WELLS FARGO BANK, N.A. ON JULY 31, 2012, IN THE APPROXIMATE AMOUNT OF $234,619.51, RECORDED ON JULY 31, 2012, IN BOOK 12383, AT PAGE 488.\nTHE SALE IS SUBJECT TO UNPAID AND ASSESSMENTS, TAX, WATER AND SEWER LIENS AND OTHER MUNICIPAL ASSESSMENTS. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNER ASSOCIATION LIENS WHICH MAY EXIST. THIS SALE MAY BE FURTHER SUBJECT TO RESTRICTIONS, REVERSIONS, AND EASEMENTS OF RECORD.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.\nTHE APPROXIMATE UPSET SUM IS $407,710.71 CALCULATED THROUGH JULY 17, 2026 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COSTS AND COMMISSION TO THE DATE OF SALE.",
   "extracted": {
@@ -23,7 +23,7 @@
     "Parcel #": "",
     "Plaintiff": "WELLS FARGO BANK, N.A.",
     "Property Note": "",
-    "Sales Date": "10/27/2026",
+    "Sales Date": "1/5/2027",
     "Sheriff #": "F-26003219"
   },
   "first_seen": "2026-10-12",
@@ -32,7 +32,7 @@
     "defendant": "STEPHEN B. FRIEDMAN; ET. ALS.",
     "listing_status": null,
     "plaintiff": "WELLS FARGO BANK, N.A.",
-    "sale_date": "2026-10-27"
+    "sale_date": "2027-01-05"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -40,7 +40,7 @@
   "parcel": null,
   "plaintiff": "WELLS FARGO BANK, N.A.",
   "property_note": null,
-  "sale_date": "2026-10-27",
+  "sale_date": "2027-01-05",
   "sheriff_number": "F-26003219",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
@@ -55,6 +55,22 @@
     {
       "date": "2026-10-27",
       "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-12-01",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-12-29",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2027-01-05",
+      "status": "Adjourned Sheriff"
     }
   ],
   "upset_amount": 378835.27,

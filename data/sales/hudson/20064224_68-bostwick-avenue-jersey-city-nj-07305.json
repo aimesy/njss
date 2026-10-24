@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-009455-25",
-  "current_status": "Scheduled",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
   "defendant": "PATRICE DANIELS; AND LVNV FUNDING LLC, SUCCESSOR IN INTEREST, CROSS RIVER BANK",
   "description": "LOT 56 FKA 20.A, BLOCK 23203 FKA 1307\nAPPROXIMATE DIMENSIONS: 100.00 X 27.80 FEET\nNEAREST CROSS STREET: JACKSON AVENUE\nSUBJECT TO: WATER- TO: 08/06/2026 $3,044.95 OPEN PLUS PENALTY\nUPSET PRICE: $542,403.43\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
   "extracted": {
@@ -25,7 +25,7 @@
     "Judgment": "$505,666.53",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
     "Property Note": "",
-    "Sales Date": "11/5/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "20064224"
   },
   "first_seen": "2026-10-12",
@@ -36,20 +36,24 @@
     "defendant": "PATRICE DANIELS; AND LVNV FUNDING LLC, SUCCESSOR IN INTEREST, CROSS RIVER BANK",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-    "sale_date": "2026-11-05"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
   "property_note": null,
-  "sale_date": "2026-11-05",
+  "sale_date": "2027-01-07",
   "sheriff_number": "20064224",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
     {
       "date": "2026-11-05",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
     }
   ],
   "upset_amount": 542403.43,

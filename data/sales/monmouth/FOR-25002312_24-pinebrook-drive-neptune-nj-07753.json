@@ -23,7 +23,7 @@
     "Parcel #": "Lot: 11 f/k/a Lot 2; Block: 4214 f/k/a Block 1401 Tax Map of Township of Neptune",
     "Plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCAF Acquisition Trust",
     "Property Note": "",
-    "Sales Date": "10/26/2026",
+    "Sales Date": "11/23/2026",
     "Sheriff #": "FOR-25002312"
   },
   "first_seen": "2026-10-12",
@@ -32,20 +32,24 @@
   "listing": {
     "address": "24 Pinebrook Drive Neptune NJ 07753",
     "defendant": "Marjory Wilkinson, et. al.",
-    "listing_status": "Scheduled",
+    "listing_status": "Adjournment Plaintiff",
     "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCAF Acquisition Trust",
-    "sale_date": "2026-10-26"
+    "sale_date": "2026-11-23"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Adjournment Plaintiff",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot: 11 f/k/a Lot 2; Block: 4214 f/k/a Block 1401 Tax Map of Township of Neptune",
   "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCAF Acquisition Trust",
   "property_note": null,
-  "sale_date": "2026-10-26",
+  "sale_date": "2026-11-23",
   "sheriff_number": "FOR-25002312",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-23",
+      "status": "Adjournment Plaintiff"
+    },
     {
       "date": "2026-10-26",
       "status": "Scheduled"
