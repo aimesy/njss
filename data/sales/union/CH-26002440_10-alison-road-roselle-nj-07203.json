@@ -1,0 +1,52 @@
+{
+  "address": "10 ALISON ROAD ROSELLE NJ 07203",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00434926",
+  "current_status": "Scheduled",
+  "defendant": "MARTIN FISCH; MRS. FISCH, SPOUSE OF MARTIN FISCH",
+  "description": "LOT 21 BLOCK 7403",
+  "extracted": {
+    "block": "7403",
+    "lot": "21"
+  },
+  "fields": {
+    "Address": "10 ALISON ROAD\nROSELLE NJ 07203",
+    "Approx. Upset*": "$203,158.49",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00434926",
+    "Defendant": "MARTIN FISCH; MRS. FISCH, SPOUSE OF MARTIN FISCH",
+    "Description": "LOT 21 BLOCK 7403",
+    "Parcel #": "LOT 21 BLOCK 7403",
+    "Plaintiff": "FIFTH THIRD BANK N.A.",
+    "Property Note": "",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "CH-26002440"
+  },
+  "first_seen": "2026-10-26",
+  "listing": {
+    "address": "10 ALISON ROAD ROSELLE NJ 07203",
+    "defendant": "MARTIN FISCH; MRS. FISCH, SPOUSE OF MARTIN FISCH",
+    "listing_status": null,
+    "plaintiff": "FIFTH THIRD BANK N.A.",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 21 BLOCK 7403",
+  "plaintiff": "FIFTH THIRD BANK N.A.",
+  "property_note": null,
+  "sale_date": "2026-12-02",
+  "sheriff_number": "CH-26002440",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 203158.49,
+  "upset_amount_label": "Approx. Upset*"
+}

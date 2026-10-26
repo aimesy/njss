@@ -1,0 +1,52 @@
+{
+  "address": "424 East 18th Street Paterson NJ 07524",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 002875 26 CTL#163291",
+  "current_status": "Scheduled",
+  "defendant": "BEST INVESTMENT PROPERTIES LLC ET ALS",
+  "description": "Dimensions (Approx.): 37*101 and 25*121\nNearest Cross Street: Franklin Street\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs Dennis Thiel (A-58-98)\nSheriff, kindly advertise the following:\nTax Certificate\nRecorded: February 27, 2024\nHolder: Pro Cap 8 FBO Firstrust Bank\nAmount: $598.93\nBook: M18821\nPage: 53\nInstrument Number: Cert No. 24-00420\nTax Certificate\nRecorded: February 10,2026\nHolder: Fig 25, LLC FBO Sec Pty\nAmount: $1,156.75\nBook: M19790\nPage: 125\nInstrument Number: Cert No. 26-00346\nGood Faith Estimated Upset Price: $417,438.78\nOccupancy Status: Non-Owner Occupied\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill.",
+  "extracted": {
+    "occupancy": "Non-Owner Occupied",
+    "upset_amount": 417438.78
+  },
+  "fields": {
+    "Address": "424 East 18th Street\nPaterson NJ 07524",
+    "Approx. Upset*": "$390,127.53",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F 002875 26 CTL#163291",
+    "Defendant": "BEST INVESTMENT PROPERTIES LLC ET ALS",
+    "Description": "Dimensions (Approx.): 37*101 and 25*121\nNearest Cross Street: Franklin Street\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 - Summit Bank vs Dennis Thiel (A-58-98)\nSheriff, kindly advertise the following:\nTax Certificate\nRecorded: February 27, 2024\nHolder: Pro Cap 8 FBO Firstrust Bank\nAmount: $598.93\nBook: M18821\nPage: 53\nInstrument Number: Cert No. 24-00420\nTax Certificate\nRecorded: February 10,2026\nHolder: Fig 25, LLC FBO Sec Pty\nAmount: $1,156.75\nBook: M19790\nPage: 125\nInstrument Number: Cert No. 26-00346\nGood Faith Estimated Upset Price: $417,438.78\nOccupancy Status: Non-Owner Occupied\nThis is a commercial property not subject to the Community Wealth Preservation Program Bill.",
+    "Parcel #": "Tax Lot(s): 11&12 in Block: 2818",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CSMC 2022-NQM5 TRUST",
+    "Property Note": "",
+    "Sales Date": "2/23/2027",
+    "Sheriff #": "F-26001807"
+  },
+  "first_seen": "2026-10-26",
+  "listing": {
+    "address": "424 East 18th Street Paterson NJ 07524",
+    "defendant": "BEST INVESTMENT PROPERTIES LLC ET ALS",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CSMC 2022-NQM5 TRUST",
+    "sale_date": "2027-02-23"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot(s): 11&12 in Block: 2818",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CSMC 2022-NQM5 TRUST",
+  "property_note": null,
+  "sale_date": "2027-02-23",
+  "sheriff_number": "F-26001807",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-02-23",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 390127.53,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F00897724",
-  "current_status": "Bankuptcy",
+  "current_status": "Scheduled",
   "defendant": "PPS REALTY 800 GEORGE ST. LLC, STEFANO APISA, ALVARO PADRON, AND STATE OF NEW JERSEY",
   "description": "LOT 13 BLOCK 339",
   "extracted": {
@@ -21,7 +21,7 @@
     "Parcel #": "LOT 13 BLOCK 339",
     "Plaintiff": "TRYON STREET ACQUISITION TRUST I",
     "Property Note": "",
-    "Sales Date": "1/7/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "CH-25002036"
   },
   "first_seen": "2026-10-12",
@@ -30,15 +30,15 @@
     "defendant": "PPS REALTY 800 GEORGE ST. LLC, STEFANO APISA, ALVARO PADRON, AND STATE OF NEW JERSEY",
     "listing_status": null,
     "plaintiff": "TRYON STREET ACQUISITION TRUST I",
-    "sale_date": "2026-01-07"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "LOT 13 BLOCK 339",
   "plaintiff": "TRYON STREET ACQUISITION TRUST I",
   "property_note": null,
-  "sale_date": "2026-01-07",
+  "sale_date": "2026-12-02",
   "sheriff_number": "CH-25002036",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
   "status_history": [
@@ -53,6 +53,10 @@
     {
       "date": "2026-01-07",
       "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
     }
   ],
   "upset_amount": 278716.17,

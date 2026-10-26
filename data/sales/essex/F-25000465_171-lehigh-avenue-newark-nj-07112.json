@@ -1,0 +1,75 @@
+{
+  "address": "171 LEHIGH AVENUE NEWARK NJ 07112",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "609-924-0808",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00634324",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "JONELVA GARCIA, ET.AL",
+  "description": "LOTS: 59; BLOCK: 3663\nAPPROXIMATE DIMENSIONS: 100.00 FT X 38.59FT X 100.01FT X 37.46FT\nNEAREST CROSS STREET: APPROXIMATELY 300.00FT TO THE NEAREST CROSS STREET KNOWN AS OSBORNE TERRACE\nAPPROXIMATE UPSET AMOUNT IS $625,303.15 FOR THE SHERIFF SALE. OCCUPANCY STATUS: BORROWER OCCUPIED.\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN INSTRUMENT NUMBER 2022091843\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED DECEMBER 20, 2024. SUBJECT TO: 2025 1ST QUARTER TAXES DUE 2/1/2025, $2,298.92 OPEN;\n2025 2ND QUARTER TAXES DUE 5/1/2025, $2,298.91 OPEN; WATER/SEWER: ACCT. 3185323921, $180.85 OPEN",
+  "extracted": {
+    "block": "3663",
+    "lot": "S",
+    "occupancy": "BORROWER OCCUPIED."
+  },
+  "fields": {
+    "Address": "171 LEHIGH AVENUE\nNEWARK NJ 07112",
+    "Approx. Upset*": "$582,387.79",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F00634324",
+    "Defendant": "JONELVA GARCIA, ET.AL",
+    "Description": "LOTS: 59; BLOCK: 3663\nAPPROXIMATE DIMENSIONS: 100.00 FT X 38.59FT X 100.01FT X 37.46FT\nNEAREST CROSS STREET: APPROXIMATELY 300.00FT TO THE NEAREST CROSS STREET KNOWN AS OSBORNE TERRACE\nAPPROXIMATE UPSET AMOUNT IS $625,303.15 FOR THE SHERIFF SALE. OCCUPANCY STATUS: BORROWER OCCUPIED.\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN INSTRUMENT NUMBER 2022091843\nPURSUANT TO A MUNICIPAL TAX SEARCH DATED DECEMBER 20, 2024. SUBJECT TO: 2025 1ST QUARTER TAXES DUE 2/1/2025, $2,298.92 OPEN;\n2025 2ND QUARTER TAXES DUE 5/1/2025, $2,298.91 OPEN; WATER/SEWER: ACCT. 3185323921, $180.85 OPEN",
+    "Parcel #": "",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "Property Note": "",
+    "Sales Date": "12/11/2026",
+    "Sheriff #": "F-25000465"
+  },
+  "first_seen": "2026-10-26",
+  "listing": {
+    "address": "171 LEHIGH AVENUE NEWARK NJ 07112",
+    "defendant": "JONELVA GARCIA, ET.AL",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+    "sale_date": "2026-12-11"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+  "property_note": null,
+  "sale_date": "2026-12-11",
+  "sheriff_number": "F-25000465",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-15",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2025-05-13",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-06-10",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-06-10",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-12-11",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 582387.79,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,72 @@
+{
+  "address": "504 NORTH GROVE STREET EAST ORANGE NJ 07017",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F01375123",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "RASHEM BATTS; ET AL.",
+  "description": "LOT: 13.01 FKA 13 BLOCK: 120\nAPPROXIMATE DIMENSIONS: 59.53 X 97.56 X 45.99 X 99.86 FEET IRREGULAR\nNEAREST CROSS STREET: RUTLEDGE AVENUE\nUPSET PRICE: $518,734.76. OCCUPANCY STATUS: OCCUPIED. SUBJECT TO: WATER IN THE AMOUNT OF $557.97 OPEN PLUS PENALTY-SEWER INCLUDED IN THE WATER ACCOUNT. **TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "120",
+    "lot": "13.01",
+    "occupancy": "OCCUPIED. SUBJECT TO: WATER IN THE AMOUNT OF $557.97 OPEN PLUS PENALTY-SEWER INCLUDED IN THE WATER ACCOUNT. **TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "upset_amount": 518734.76
+  },
+  "fields": {
+    "Address": "504 NORTH GROVE STREET\nEAST ORANGE NJ 07017",
+    "Approx. Upset*": "$454,829.07",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01375123",
+    "Defendant": "RASHEM BATTS; ET AL.",
+    "Description": "LOT: 13.01 FKA 13 BLOCK: 120\nAPPROXIMATE DIMENSIONS: 59.53 X 97.56 X 45.99 X 99.86 FEET IRREGULAR\nNEAREST CROSS STREET: RUTLEDGE AVENUE\nUPSET PRICE: $518,734.76. OCCUPANCY STATUS: OCCUPIED. SUBJECT TO: WATER IN THE AMOUNT OF $557.97 OPEN PLUS PENALTY-SEWER INCLUDED IN THE WATER ACCOUNT. **TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Parcel #": "",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-MLN1",
+    "Property Note": "",
+    "Sales Date": "12/19/2026",
+    "Sheriff #": "F-25000323"
+  },
+  "first_seen": "2026-10-26",
+  "listing": {
+    "address": "504 NORTH GROVE STREET EAST ORANGE NJ 07017",
+    "defendant": "RASHEM BATTS; ET AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-MLN1",
+    "sale_date": "2026-12-19"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-MLN1",
+  "property_note": null,
+  "sale_date": "2026-12-19",
+  "sheriff_number": "F-25000323",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-03-04",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-01",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-04-29",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2025-04-29",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-12-19",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 454829.07,
+  "upset_amount_label": "Approx. Upset*"
+}

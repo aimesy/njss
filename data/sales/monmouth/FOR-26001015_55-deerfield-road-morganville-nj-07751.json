@@ -32,11 +32,11 @@
   "listing": {
     "address": "55 Deerfield Road Morganville NJ 07751",
     "defendant": "Sudhir Alankar, et al.",
-    "listing_status": "Adjournment Defendant",
+    "listing_status": "Bankrupt",
     "plaintiff": "M&T Bank S/B/M Hudson City Savings Bank",
     "sale_date": "2026-10-26"
   },
-  "listing_status": "Adjournment Defendant",
+  "listing_status": "Bankrupt",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot 83.44, Block 180 Tax Map of the Township of Marlboro",
@@ -46,6 +46,10 @@
   "sheriff_number": "FOR-26001015",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-10-26",
+      "status": "Bankrupt"
+    },
     {
       "date": "2026-10-26",
       "status": "Adjournment Defendant"

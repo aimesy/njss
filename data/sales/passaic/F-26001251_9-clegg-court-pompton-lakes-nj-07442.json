@@ -4,7 +4,7 @@
   "county": "Passaic County, NJ",
   "county_id": 17,
   "court_case_number": "F 001778 26 CTL#163239",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned - Defendant",
   "defendant": "KEITH FINLEY, ET AL",
   "description": "Dimensions of lot: 0.17AC\nNearest Cross Street: Beech Avenue E\nEstimated Upset bid amount: $512,600.00, plus any additional sums as ordered by the court\nOccupancy Status: Owner Occupied\n* Subject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by Plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon\nVacant lot Charge: Property registration fees may exist. Pleases contact township clerk at 973- 835-0143 ext 238",
   "extracted": {
@@ -21,7 +21,7 @@
     "Parcel #": "Tax Lot 26.03 Block 9500",
     "Plaintiff": "NEWREZ LLC",
     "Property Note": "",
-    "Sales Date": "11/10/2026",
+    "Sales Date": "1/5/2027",
     "Sheriff #": "F-26001251"
   },
   "first_seen": "2026-10-12",
@@ -30,7 +30,7 @@
     "defendant": "KEITH FINLEY, ET AL",
     "listing_status": null,
     "plaintiff": "NEWREZ LLC",
-    "sale_date": "2026-11-10"
+    "sale_date": "2027-01-05"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -38,13 +38,21 @@
   "parcel": "Tax Lot 26.03 Block 9500",
   "plaintiff": "NEWREZ LLC",
   "property_note": null,
-  "sale_date": "2026-11-10",
+  "sale_date": "2027-01-05",
   "sheriff_number": "F-26001251",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
     {
       "date": "2026-11-10",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-08",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2027-01-05",
+      "status": "Adjourned - Defendant"
     }
   ],
   "upset_amount": 475721.85,

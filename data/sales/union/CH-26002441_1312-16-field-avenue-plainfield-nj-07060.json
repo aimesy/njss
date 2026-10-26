@@ -1,0 +1,52 @@
+{
+  "address": "1312-16 FIELD AVENUE PLAINFIELD NJ 07060",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01255725",
+  "current_status": "Scheduled",
+  "defendant": "DELANO S. MULLINGS, A/K/A DELANO MULLINGS; VANESSA Z.DELGADO MULLINGS A/K/A VANESSA DELGADO A/K/A VANESSA DELGADO MULLINGS; VALLEY NATIONAL BANK; CLARISSA GONZALES; MARIA E ESPINOZA CASTRO; KECHA FORDE",
+  "description": "LOT 12 BLOCK 748",
+  "extracted": {
+    "block": "748",
+    "lot": "12"
+  },
+  "fields": {
+    "Address": "1312-16 FIELD AVENUE\nPLAINFIELD NJ 07060",
+    "Approx. Upset*": "$373,590.99",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F01255725",
+    "Defendant": "DELANO S. MULLINGS, A/K/A DELANO MULLINGS; VANESSA Z.DELGADO MULLINGS A/K/A VANESSA DELGADO A/K/A VANESSA DELGADO MULLINGS; VALLEY NATIONAL BANK; CLARISSA GONZALES; MARIA E ESPINOZA CASTRO; KECHA FORDE",
+    "Description": "LOT 12 BLOCK 748",
+    "Parcel #": "LOT 12 BLOCK 748",
+    "Plaintiff": "TOWD POINT MORTGAGE TRUST 2015-1, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "CH-26002441"
+  },
+  "first_seen": "2026-10-26",
+  "listing": {
+    "address": "1312-16 FIELD AVENUE PLAINFIELD NJ 07060",
+    "defendant": "DELANO S. MULLINGS, A/K/A DELANO MULLINGS; VANESSA Z.DELGADO MULLINGS A/K/A VANESSA DELGADO A/K/A VANESSA DELGADO MULLINGS; VALLEY NATIONAL BANK; CLARISSA GONZALES; MARIA E ESPINOZA CASTRO; KECHA FORDE",
+    "listing_status": null,
+    "plaintiff": "TOWD POINT MORTGAGE TRUST 2015-1, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 12 BLOCK 748",
+  "plaintiff": "TOWD POINT MORTGAGE TRUST 2015-1, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-12-02",
+  "sheriff_number": "CH-26002441",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 373590.99,
+  "upset_amount_label": "Approx. Upset*"
+}

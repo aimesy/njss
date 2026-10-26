@@ -3,26 +3,26 @@
   "attorney": "McCalla Raymer Leibert Pierce, LLC",
   "county": "Atlantic County, NJ",
   "county_id": 25,
-  "court_case_number": "F-007048-23 ALIAS",
+  "court_case_number": "F-007048-23 PLURIES",
   "current_status": "Scheduled",
-  "deed": null,
-  "deed_address": null,
+  "deed": "Saif Property LLC",
+  "deed_address": "410 Montrose Lane Galloway, NJ 08205",
   "defendant": "Antonio Branca",
   "extracted": {},
   "fields": {
     "Address": "6315 Lance Avenue\nMays Landing NJ 08330",
     "Approx. Judgment*": "$197,431.80",
     "Attorney": "McCalla Raymer Leibert Pierce, LLC",
-    "Court Case #": "F-007048-23 ALIAS",
-    "Deed": "",
-    "Deed Address": "",
+    "Court Case #": "F-007048-23 PLURIES",
+    "Deed": "Saif Property LLC",
+    "Deed Address": "410 Montrose Lane Galloway, NJ 08205",
     "Defendant": "Antonio Branca",
     "Plaintiff": "Flagstar Bank, N.A.",
     "Priors": "NONE",
     "Property Note": "OCCUPANCY STATUS: VACANT",
-    "Sales Date": "7/24/2025",
+    "Sales Date": "11/6/2025",
     "Sheriff #": "F-23001622",
-    "Upset Amount": "$241,364.87"
+    "Upset Amount": "$171,000.00"
   },
   "first_seen": "2026-10-12",
   "judgment_amount": 197431.8,
@@ -32,7 +32,7 @@
     "defendant": "Antonio Branca...",
     "listing_status": null,
     "plaintiff": "Flagstar Bank, N.A....",
-    "sale_date": "2025-07-24"
+    "sale_date": "2025-11-06"
   },
   "listing_status": null,
   "on_open_list": false,
@@ -40,27 +40,19 @@
   "plaintiff": "Flagstar Bank, N.A.",
   "priors": "NONE",
   "property_note": "OCCUPANCY STATUS: VACANT",
-  "sale_date": "2025-07-24",
+  "sale_date": "2025-11-06",
   "sheriff_number": "F-23001622",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
     {
-      "date": "2025-07-24",
-      "status": "Cancelled"
+      "date": "2025-11-06",
+      "status": "Purchased - 3rd Party"
     },
     {
-      "date": "2025-07-24",
-      "status": "Plaintiff Adjourned to"
-    },
-    {
-      "date": "2025-06-26",
-      "status": "Plaintiff Adjourned to"
-    },
-    {
-      "date": "2025-05-29",
+      "date": "2025-11-06",
       "status": "Scheduled"
     }
   ],
-  "upset_amount": 241364.87,
+  "upset_amount": 171000.0,
   "upset_amount_label": "Upset Amount"
 }

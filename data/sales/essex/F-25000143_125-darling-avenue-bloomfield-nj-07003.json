@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00515524",
-  "current_status": "Bankruptcy",
+  "current_status": "WRIT EXPIRED",
   "defendant": "LINDA S. JENSEN-LORDI, ET. AL",
   "description": "LOT: 141 BLOCK: 1294\nTHE DIMENSIONS ARE APPROXIMATELY-124.51' X 168.86'\nNEAREST CROSS STREET: HIGH STREET\nPROPERTY IS OCCUPIED BY UNKNOWN\nTHE GOOD FAITH ESTATIME OF THE UPSET BID AMOUNT AS OF 10/13/2026 IS $1,042,295.87\nPRIOR LIEN(S): WATER ACCOUNT PAST DUE IN THE APPROX. AMOUNT OF $229.48\nWATER LIEN (CERT NO.:25-00151) IN THE APPROX. AMOUNT OF $1,844.46\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
   "extracted": {
@@ -23,7 +23,7 @@
     "Parcel #": "",
     "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES, INC. MORTGAGE PASS- THROUGH CERTIFICATES, SERIES 2007-1",
     "Property Note": "",
-    "Sales Date": "10/13/2026",
+    "Sales Date": "11/27/2026",
     "Sheriff #": "F-25000143"
   },
   "first_seen": "2026-10-12",
@@ -32,15 +32,15 @@
     "defendant": "LINDA S. JENSEN-LORDI, ET. AL",
     "listing_status": null,
     "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES, INC. MORTGAGE PASS- THROUGH CERTIFICATES, SERIES 2007-1",
-    "sale_date": "2026-10-13"
+    "sale_date": "2026-11-27"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES, INC. MORTGAGE PASS- THROUGH CERTIFICATES, SERIES 2007-1",
   "property_note": null,
-  "sale_date": "2026-10-13",
+  "sale_date": "2026-11-27",
   "sheriff_number": "F-25000143",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
@@ -79,6 +79,10 @@
     {
       "date": "2026-10-13",
       "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-11-27",
+      "status": "WRIT EXPIRED"
     }
   ],
   "upset_amount": 874736.65,

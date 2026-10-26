@@ -1,0 +1,68 @@
+{
+  "address": "135 WALNUT STREET ROSELLE PARK NJ 07204",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00042222",
+  "current_status": "Scheduled",
+  "defendant": "IDA AYALA; EMILIANO AYALA; TYRELL SANDERS",
+  "description": "LOT 10 BLOCK 911",
+  "extracted": {
+    "block": "911",
+    "lot": "10"
+  },
+  "fields": {
+    "Address": "135 WALNUT STREET\nROSELLE PARK NJ 07204",
+    "Approx. Upset*": "$349,167.56",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00042222",
+    "Defendant": "IDA AYALA; EMILIANO AYALA; TYRELL SANDERS",
+    "Description": "LOT 10 BLOCK 911",
+    "Parcel #": "LOT 10 BLOCK 911",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES V TRUST",
+    "Property Note": "",
+    "Sales Date": "12/2/2026",
+    "Sheriff #": "CH-24001452"
+  },
+  "first_seen": "2026-10-26",
+  "listing": {
+    "address": "135 WALNUT STREET ROSELLE PARK NJ 07204",
+    "defendant": "IDA AYALA; EMILIANO AYALA; TYRELL SANDERS",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES V TRUST",
+    "sale_date": "2026-12-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 10 BLOCK 911",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES V TRUST",
+  "property_note": null,
+  "sale_date": "2026-12-02",
+  "sheriff_number": "CH-24001452",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2024-07-31",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-08-28",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 349167.56,
+  "upset_amount_label": "Approx. Upset*"
+}

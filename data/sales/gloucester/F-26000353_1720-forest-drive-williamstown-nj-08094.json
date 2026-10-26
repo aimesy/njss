@@ -15,7 +15,7 @@
   },
   "fields": {
     "Address": "1720 FOREST DRIVE\nWILLIAMSTOWN NJ 08094",
-    "Approximate Judgment": "$282,784.38",
+    "Approximate Judgment": "$292,212.42",
     "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
     "Court Case #": "F-006892-25",
     "Defendant": "THOMAS SCOTT JR, ET AL",
@@ -23,18 +23,18 @@
     "Parcel #": "LOT: 12 BLOCK: 10101",
     "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
     "Property Note": "",
-    "Sales Date": "10/28/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "F-26000353"
   },
   "first_seen": "2026-10-12",
-  "judgment_amount": 282784.38,
+  "judgment_amount": 292212.42,
   "judgment_amount_label": "Approximate Judgment",
   "listing": {
     "address": "1720 FOREST DRIVE WILLIAMSTOWN NJ 08094",
     "defendant": "THOMAS SCOTT JR, ET AL",
     "listing_status": "Court Adjourned to",
     "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
-    "sale_date": "2026-10-28"
+    "sale_date": "2027-01-06"
   },
   "listing_status": "Court Adjourned to",
   "on_open_list": true,
@@ -42,7 +42,7 @@
   "parcel": "LOT: 12 BLOCK: 10101",
   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
   "property_note": null,
-  "sale_date": "2026-10-28",
+  "sale_date": "2027-01-06",
   "sheriff_number": "F-26000353",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
   "status_history": [
@@ -68,6 +68,10 @@
     },
     {
       "date": "2026-10-28",
+      "status": "Court Adjourned to"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Court Adjourned to"
     }
   ]

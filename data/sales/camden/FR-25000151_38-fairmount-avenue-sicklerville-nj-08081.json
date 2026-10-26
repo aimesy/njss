@@ -1,0 +1,53 @@
+{
+  "address": "38 FAIRMOUNT AVENUE SICKLERVILLE NJ 08081",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01496718",
+  "current_status": "Scheduled",
+  "defendant": "CAROL A. GUTOWIECZ, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "38 FAIRMOUNT AVENUE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$366,021.56",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F01496718",
+    "Defendant": "CAROL A. GUTOWIECZ, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION AS TRUSTEE FOR\nSOUNDVIEW HOME LOAN TRUST 2007-OPT4, ASSET-BACKED\nCERTIFICATES, SERIES 2007-OPT4",
+    "Property Note": "",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-25000151"
+  },
+  "first_seen": "2026-10-26",
+  "listing": {
+    "address": "38 FAIRMOUNT AVENUE SICKLERVILLE NJ 08081",
+    "defendant": "CAROL A. GUTOWIECZ, ET AL.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION AS TRUSTEE FOR \nSOUNDVIEW HOME LOAN TRUST 2007-OPT4, ASSET-BACKED \nCERTIFICATES, SERIES 2007-OPT4",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION AS TRUSTEE FOR SOUNDVIEW HOME LOAN TRUST 2007-OPT4, ASSET-BACKED CERTIFICATES, SERIES 2007-OPT4",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-25000151",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2025-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 366021.56,
+  "upset_amount_label": "Approx. Upset*"
+}
