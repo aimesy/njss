@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00215824",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned Sheriff",
   "defendant": "RAYMOND RATLIFF A/K/A RAY RATLIFF; ET. ALS.",
   "description": "LOT: 1 BLOCK: 54\nDIMENSIONS (APPROX.): 38.12 X 100 X 25.66 X 100.77\nNEAREST CROSS STREET: UNIVERSITY PLACE\nGOOD FAITH ESTIMATED UPSET PRICE: $249,370.79\nOCCUPANCY STATUS: OCCUPIED",
   "extracted": {
@@ -25,7 +25,7 @@
     "Parcel #": "",
     "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST",
     "Property Note": "",
-    "Sales Date": "10/27/2026",
+    "Sales Date": "12/1/2026",
     "Sheriff #": "F-26003987"
   },
   "first_seen": "2026-10-12",
@@ -34,7 +34,7 @@
     "defendant": "RAYMOND RATLIFF A/K/A RAY RATLIFF; ET. ALS.",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST",
-    "sale_date": "2026-10-27"
+    "sale_date": "2026-12-01"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -42,13 +42,21 @@
   "parcel": null,
   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST",
   "property_note": null,
-  "sale_date": "2026-10-27",
+  "sale_date": "2026-12-01",
   "sheriff_number": "F-26003987",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
     {
       "date": "2026-10-27",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "Adjourned Plaintiff"
+    },
+    {
+      "date": "2026-12-01",
+      "status": "Adjourned Sheriff"
     }
   ],
   "upset_amount": 201665.98,

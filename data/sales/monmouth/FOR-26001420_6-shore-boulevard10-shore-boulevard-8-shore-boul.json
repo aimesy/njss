@@ -30,12 +30,12 @@
   "listing": {
     "address": "6 Shore Boulevard10 Shore Boulevard 8 Shore Boulevard Keansburg NJ 07734",
     "defendant": "6 Shore Blvd LLC, et. al.",
-    "listing_status": "Adjournment Defendant",
+    "listing_status": "Purchased - Buy Back",
     "plaintiff": "Loan Funder LLC, Series 78460",
     "sale_date": "2026-10-26"
   },
-  "listing_status": "Adjournment Defendant",
-  "on_open_list": true,
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 13, Block 28 Tax Map of Borough of Keansburg",
   "plaintiff": "Loan Funder LLC, Series 78460",
@@ -44,6 +44,10 @@
   "sheriff_number": "FOR-26001420",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-10-26",
+      "status": "Purchased - Buy Back"
+    },
     {
       "date": "2026-10-26",
       "status": "Adjournment Defendant"

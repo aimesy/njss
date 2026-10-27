@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT: 22 TAX BLOCK: 12803",
     "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
     "Property Note": "PRIORITY TAX LIEN HOLDER: PRO CAP 8 FBO FIRSTTRUST BANK HOLDS TAX SALE CERTIFICATE NO. 25-00379 IN THE AOUNT OF $1,240.12 AS OF 10/09/2025\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTER FOR THE AMOUNT (THE \" REDEMPTION SUM\") NECESSARY TO REDEEM.",
-    "Sales Date": "12/2/2026",
+    "Sales Date": "10/27/2026",
     "Sheriff #": "FR-26000658"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "TIFFANY ESPINOSA ET AL.",
     "listing_status": null,
     "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
-    "sale_date": "2026-12-02"
+    "sale_date": "2026-10-27"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "TAX LOT: 22 TAX BLOCK: 12803",
   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
   "property_note": "PRIORITY TAX LIEN HOLDER: PRO CAP 8 FBO FIRSTTRUST BANK HOLDS TAX SALE CERTIFICATE NO. 25-00379 IN THE AOUNT OF $1,240.12 AS OF 10/09/2025\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL THE LOCAL TAX COLLECTER FOR THE AMOUNT (THE \" REDEMPTION SUM\") NECESSARY TO REDEEM.",
-  "sale_date": "2026-12-02",
+  "sale_date": "2026-10-27",
   "sheriff_number": "FR-26000658",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -58,6 +58,10 @@
     {
       "date": "2026-10-21",
       "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-10-27",
+      "status": "Cancelled"
     },
     {
       "date": "2026-12-02",

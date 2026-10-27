@@ -1,0 +1,53 @@
+{
+  "address": "194 LA CASCATA CLEMENTON NJ 08021",
+  "attorney": "STERN & EISENBERG, PCxx",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00199923",
+  "current_status": "Scheduled",
+  "defendant": "CHARLENE S. RANSOM, ET. AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "194 LA CASCATA\nCLEMENTON NJ 08021",
+    "Approx. Upset*": "$146,853.09",
+    "Attorney": "STERN & EISENBERG, PCxx",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00199923",
+    "Defendant": "CHARLENE S. RANSOM, ET. AL.",
+    "Parcel #": "TAX LOT #72 Block #11401",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS TRUSTEE FOR CENDANT MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2000-B,",
+    "Property Note": "Taxes current through 3rd Quarter of 2026\nWater/Sewer — Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nTax Sale Certificate # 24-04591 due in the amount of $1, 527.65, good through November 10, 2026*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-24001504"
+  },
+  "first_seen": "2026-10-27",
+  "listing": {
+    "address": "194 LA CASCATA CLEMENTON NJ 08021",
+    "defendant": "CHARLENE S. RANSOM, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS TRUSTEE FOR CENDANT MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2000-B,",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "TAX LOT #72 Block #11401",
+  "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS TRUSTEE FOR CENDANT MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2000-B,",
+  "property_note": "Taxes current through 3rd Quarter of 2026\nWater/Sewer — Plaintiff is unable to confirm these amounts. Prospective purchasers must conduct their own investigation to determine the same.\nTax Sale Certificate # 24-04591 due in the amount of $1, 527.65, good through November 10, 2026*\n*Plus interest on these figures through date of payoff and any and all subsequent taxes, water and sewer amounts.",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-24001504",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-08-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 146853.09,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -31,12 +31,12 @@
   "listing": {
     "address": "126 Milton Avenue Cliffwood NJ 07721",
     "defendant": "Yubir Rojas Gasga A/K/A Yubir Rojasgasga",
-    "listing_status": "Scheduled",
+    "listing_status": "Purchased - Third Party",
     "plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity, But Solely As Owner Trustee for CSMC 2022-NQM5 Trust, A Delaware Statutory Trust",
     "sale_date": "2026-10-26"
   },
-  "listing_status": "Scheduled",
-  "on_open_list": true,
+  "listing_status": "Purchased - Third Party",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Tax Lot 21 & 22 Block 161 Tax Map of Township of Aberdeen",
   "plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity, But Solely As Owner Trustee for CSMC 2022-NQM5 Trust, A Delaware Statutory Trust",
@@ -45,6 +45,10 @@
   "sheriff_number": "FOR-25002025",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-10-26",
+      "status": "Purchased - Third Party"
+    },
     {
       "date": "2026-10-26",
       "status": "Scheduled"

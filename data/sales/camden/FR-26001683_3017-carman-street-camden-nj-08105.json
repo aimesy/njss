@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00019624",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "SYDNEY N. BEST A/K/A SYDNEY BEST; SOCRATES VASQUEZ; CRAMER HILL APARTMENTS, NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; AND THE STATE OF NEW JERSEY,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "TAX BLOCK # 1041, LOT # 13",
     "Plaintiff": "TD BANK, N.A.,",
     "Property Note": "The property is sold subject to unpaid taxes, and any other municipal liens or assessments. The amount due can be obtained from the local taxing authority. Pursuant to N.J.S.A. the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon. * *If the sale is set aside for any reason, the Purchaser at the sale shall only be entitled to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagee or the Mortgagee's attorneys.\nADDITIONAL REQUIREMENTS: Purchaser must certify that Purchaser is not employed by the Toronto-Dominion Bank, or any of its subsidiaries or affiliated corporations (the \"Bank\"), nor is Purchaser related in any way with solicitors or agents retained by or on behalf of the Bank in relation to the property that is the subject of this transaction and confirming that Purchaser is dealing at arm's length with the aforementioned parties.",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26001683"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "SYDNEY N. BEST A/K/A SYDNEY BEST; SOCRATES VASQUEZ; \nCRAMER HILL APARTMENTS, NEW JERSEY HOUSING AND \nMORTGAGE FINANCE AGENCY; AND THE STATE OF NEW JERSEY,",
     "listing_status": null,
     "plaintiff": "TD BANK, N.A.,",
-    "sale_date": "2026-11-04"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "TAX BLOCK # 1041, LOT # 13",
   "plaintiff": "TD BANK, N.A.,",
   "property_note": "The property is sold subject to unpaid taxes, and any other municipal liens or assessments. The amount due can be obtained from the local taxing authority. Pursuant to N.J.S.A. the sale may also be subject to the limited lien priority of any Condominium / Homeowner Association liens which may exist.\nAll interested parties are to conduct and rely upon their own independent investigation to ascertain whether any outstanding interests remain of record and/or have priority over the lien being foreclosed and, if so, the current amount due thereon. * *If the sale is set aside for any reason, the Purchaser at the sale shall only be entitled to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagee or the Mortgagee's attorneys.\nADDITIONAL REQUIREMENTS: Purchaser must certify that Purchaser is not employed by the Toronto-Dominion Bank, or any of its subsidiaries or affiliated corporations (the \"Bank\"), nor is Purchaser related in any way with solicitors or agents retained by or on behalf of the Bank in relation to the property that is the subject of this transaction and confirming that Purchaser is dealing at arm's length with the aforementioned parties.",
-  "sale_date": "2026-11-04",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26001683",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -50,6 +50,14 @@
     {
       "date": "2026-11-04",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 91889.09,

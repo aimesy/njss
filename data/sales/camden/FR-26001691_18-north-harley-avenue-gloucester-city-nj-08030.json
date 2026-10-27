@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT NO. 7 BLOCK 216",
     "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN\nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER\nTRUSTEE FOR RCF 2 ACQUISITION TRUST",
     "Property Note": "",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26001691"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "DENIS J. MORAN, ET AL",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN \nITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER \nTRUSTEE FOR RCF 2 ACQUISITION TRUST",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "TAX LOT NO. 7 BLOCK 216",
   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
   "property_note": null,
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26001691",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -49,6 +49,10 @@
     },
     {
       "date": "2026-11-04",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-12-02",
       "status": "Plaintiff Adjournment"
     }
   ],

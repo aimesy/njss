@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00154926",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "BRITTANY THOMAS; ET AL",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot(s): 1 in Block: 229",
     "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
     "Property Note": "Important:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 — Summit Bank vs. Dennis Thiel (A-58-98).",
-    "Sales Date": "12/2/2026",
+    "Sales Date": "2/3/2027",
     "Sheriff #": "FR-26002526"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "BRITTANY THOMAS; ET AL",
     "listing_status": null,
     "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
-    "sale_date": "2026-12-02"
+    "sale_date": "2027-02-03"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Tax Lot(s): 1 in Block: 229",
   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
   "property_note": "Important:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 — Summit Bank vs. Dennis Thiel (A-58-98).",
-  "sale_date": "2026-12-02",
+  "sale_date": "2027-02-03",
   "sheriff_number": "FR-26002526",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-12-02",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-02-03",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 222518.7,

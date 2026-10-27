@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01184925",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "MICHAEL A. MASINO, SR., BARBARA L. VOPLE , ABC BAIL BONDS, INC., LEXINGTON NATIONAL INSURANCE CORPORATION, BARBARA MASINO",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT 54 BLOCK 82",
     "Plaintiff": "CSMC 2022-PPL2 TRUST",
     "Property Note": "",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26001672"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "MICHAEL A. MASINO, SR., BARBARA L. VOPLE , \nABC BAIL BONDS, INC., LEXINGTON NATIONAL \nINSURANCE CORPORATION, BARBARA MASINO",
     "listing_status": null,
     "plaintiff": "CSMC 2022-PPL2 TRUST",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "TAX LOT 54 BLOCK 82",
   "plaintiff": "CSMC 2022-PPL2 TRUST",
   "property_note": null,
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26001672",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -50,6 +50,10 @@
     {
       "date": "2026-11-04",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 171846.31,

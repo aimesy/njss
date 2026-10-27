@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00284924",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned Sheriff",
   "defendant": "JGA DEVELOPMENT, LLC; ET. ALS.",
   "description": "Superior Court\nSHERIFF'S SALE NO. 26003957\nDOCKET NO. F00284924\nPLAINTIFF – RESIDENTIAL INVESTMENT TRUST IV\nDEFENDANTS- JGA DEVELOPMENT, LLC; ET. ALS.\nWrit of Execution.\nBy virtue of the above stated Writ of Execution to me directed and delivered I will expose for sale at public vendue on\nTuesday THE 27th DAY OF October 2026\nbetween the hours of 1:30 pm and 5:00 pm in the afternoon of said day, that is to say at 1:30 P.M. the prevailing time at The Leroy F. Smith Building, 60 West Market Street, 14th Floor, Newark, NJ 07102 to wit:\nAll that tract or parcel of land, situate, lying and being in the of EAST ORANGE, County of Essex County and State of New Jersey:\nBeing known as:\nLOT: 1 BLOCK: 492\nDIMENSIONS OF LOT APPROXIMATELY: 29 X 100\nNEAREST CROSS STREET: ELMWOOD AVENUE\nBEGINNING IN THE WESTERLY LINE OF AMHERST STREET (FORMERLY NORWOOD STREET) AT A POINT THEREIN DISTANT NORTHERLY ONE HUNDRED FEET AND SIXTEEN ONE-HUNDREDTHS OF A FOOT FROM THE INTERSECTION OF THE SAME WITH THE NORTHERLY LINE OF ELMWOOD AVENUE; THENCE RUNNING\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN\nPRIOR LIENS/ENCUMBRANCES:\n3RD PARTY TAXES OPEN PLUS PENALTY $1,410.04\nTOTAL AS OF AUGUST 26, 2026: $1,410.04\nTHIS IS A COMMERCIAL PROPERTY\nPREMISES COMMONLY KNOWN AS:\n289 AMHERST ST EAST ORANGE, NJ 07018\nA more complete metes and bounds description can be found in the Office of the Essex County Sheriff.\nLien(s)/Taxes:\nNote: The street address is merely given as a convenience to the bidders and is not a representation of fact on the part of the sheriff. The diagram or concise description does not constitute a full legal description of the premises, but it can be found in the Essex County Sheriff Office.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee and the Mortgagee’s attorney.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate amount due on this execution is $352,044.86 plus interest, cost, printers’ fees, Sheriff's fees and commission. The prior liens, as per affidavit of consideration are not a representation of fact on the part of the Sheriff.\nAmir D. Jones\nSHERIFF\nAdvertised\nDATED: September 11, 2026\nFEIN, SUCH, KAHN & SHEPARD, P.C.\n6 CAMPUS DRIVE SUITE 304\nPARSIPPANY, NJ 07054\n973-538-4700",
   "extracted": {
@@ -23,7 +23,7 @@
     "Parcel #": "",
     "Plaintiff": "RESIDENTIAL INVESTMENT TRUST IV",
     "Property Note": "",
-    "Sales Date": "10/27/2026",
+    "Sales Date": "1/5/2027",
     "Sheriff #": "F-26003957"
   },
   "first_seen": "2026-10-12",
@@ -32,7 +32,7 @@
     "defendant": "JGA DEVELOPMENT, LLC; ET. ALS.",
     "listing_status": null,
     "plaintiff": "RESIDENTIAL INVESTMENT TRUST IV",
-    "sale_date": "2026-10-27"
+    "sale_date": "2027-01-05"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -40,13 +40,25 @@
   "parcel": null,
   "plaintiff": "RESIDENTIAL INVESTMENT TRUST IV",
   "property_note": null,
-  "sale_date": "2026-10-27",
+  "sale_date": "2027-01-05",
   "sheriff_number": "F-26003957",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
     {
       "date": "2026-10-27",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-12-22",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2027-01-05",
+      "status": "Adjourned Sheriff"
     }
   ],
   "upset_amount": 352044.86,

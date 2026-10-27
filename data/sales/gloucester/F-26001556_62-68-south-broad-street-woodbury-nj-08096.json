@@ -1,0 +1,51 @@
+{
+  "address": "62-68 SOUTH BROAD STREET WOODBURY NJ 08096",
+  "attorney": "Gary C. Zeitz, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-012102-25",
+  "current_status": "Scheduled",
+  "defendant": "TRICON DEVELOPMENT GROUP, II LLC, ET AL.",
+  "description": "PROPERTY TO BE SOLD IS LOCATED IN THE CITY OF WOODBURY, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: IRREGULAR\nNUMBER OF FEET TO NEAREST CROSS STREET: 42.55 FT TO EAST CENTRE ST\nAPPROXIMATE UPSET AMOUNT: $107,000.00\nOCCUPANCY STATUS: OCCUPIED COMMERCIAL PROPERTY\nPRIOR LIENS AND ENCUMBRANCES NOT EXTINGUISHED BY SALE:\nOPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE CITY OF WOODBURY: $5,073.35 AS OF OCTOBER 14, 2026",
+  "extracted": {
+    "occupancy": "OCCUPIED COMMERCIAL PROPERTY"
+  },
+  "fields": {
+    "Address": "62-68 SOUTH BROAD STREET\nWOODBURY NJ 08096",
+    "Approximate Judgment": "$90,082.23",
+    "Attorney": "Gary C. Zeitz, LLC",
+    "Court Case #": "F-012102-25",
+    "Defendant": "TRICON DEVELOPMENT GROUP, II LLC, ET AL.",
+    "Description": "PROPERTY TO BE SOLD IS LOCATED IN THE CITY OF WOODBURY, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: IRREGULAR\nNUMBER OF FEET TO NEAREST CROSS STREET: 42.55 FT TO EAST CENTRE ST\nAPPROXIMATE UPSET AMOUNT: $107,000.00\nOCCUPANCY STATUS: OCCUPIED COMMERCIAL PROPERTY\nPRIOR LIENS AND ENCUMBRANCES NOT EXTINGUISHED BY SALE:\nOPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE CITY OF WOODBURY: $5,073.35 AS OF OCTOBER 14, 2026",
+    "Parcel #": "LOT: 3 BLOCK: 119",
+    "Plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "Property Note": "",
+    "Sales Date": "2/17/2027",
+    "Sheriff #": "F-26001556"
+  },
+  "first_seen": "2026-10-27",
+  "judgment_amount": 90082.23,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "62-68 SOUTH BROAD STREET WOODBURY NJ 08096",
+    "defendant": "TRICON DEVELOPMENT GROUP, II LLC, ET AL.",
+    "listing_status": "Scheduled",
+    "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "sale_date": "2027-02-17"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 3 BLOCK: 119",
+  "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+  "property_note": null,
+  "sale_date": "2027-02-17",
+  "sheriff_number": "F-26001556",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2027-02-17",
+      "status": "Scheduled"
+    }
+  ]
+}
