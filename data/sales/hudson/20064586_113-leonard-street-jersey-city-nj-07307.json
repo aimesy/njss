@@ -1,0 +1,55 @@
+{
+  "address": "113 LEONARD STREET JERSEY CITY NJ 07307",
+  "attorney": "PELLEGRINO & FELDSTEIN, L.L.C.",
+  "attorney_phone": "973-586-2300",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-008746-25",
+  "current_status": "Scheduled",
+  "defendant": "CHUN PEI LI; MRS. CHUN PEI LI, WIFE OF CHUN PEI LI",
+  "description": "TAX LOT 14 BLOCK 403\nDIMENSIONS OF LOT: (APPROXIMATELY) 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: SITUATE ON THE SOUTH SIDE OF LEONARD, 385 FEET FROM THE EAST SIDE OF NELSON AVE.\nTHIS IS A RESIDENTIAL PROPERTY.\nTHE APPROXIMATE UPSET AMOUNT IS $99,000.00\nSHERIFF SALE SUBJECT TO:\n2026 OPEN TAXES IN THE APPROXIMATE AMOUNT OF $15,436.68\n2027 OPEN TAXES IN THE APPROXIMATE AMOUNT OF $7,718.34\nTOTALING: $23,155.02 PLUS POSSIBLE SUBSEQUENT TAXES, CHARGES, INTEREST AND PENALTIES.",
+  "extracted": {
+    "block": "403",
+    "lot": "14"
+  },
+  "fields": {
+    "Address": "113 LEONARD STREET\nJERSEY CITY NJ 07307",
+    "Attorney": "PELLEGRINO & FELDSTEIN, L.L.C.",
+    "Attorney Phone": "973-586-2300",
+    "Court Case #": "F-008746-25",
+    "Defendant": "CHUN PEI LI; MRS. CHUN PEI LI, WIFE OF CHUN PEI LI",
+    "Description": "TAX LOT 14 BLOCK 403\nDIMENSIONS OF LOT: (APPROXIMATELY) 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: SITUATE ON THE SOUTH SIDE OF LEONARD, 385 FEET FROM THE EAST SIDE OF NELSON AVE.\nTHIS IS A RESIDENTIAL PROPERTY.\nTHE APPROXIMATE UPSET AMOUNT IS $99,000.00\nSHERIFF SALE SUBJECT TO:\n2026 OPEN TAXES IN THE APPROXIMATE AMOUNT OF $15,436.68\n2027 OPEN TAXES IN THE APPROXIMATE AMOUNT OF $7,718.34\nTOTALING: $23,155.02 PLUS POSSIBLE SUBSEQUENT TAXES, CHARGES, INTEREST AND PENALTIES.",
+    "Good Faith Upset*": "$99,000.00",
+    "Judgment": "$92,472.85",
+    "Plaintiff": "FCR TL REO TRS LLC",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20064586"
+  },
+  "first_seen": "2026-10-28",
+  "judgment_amount": 92472.85,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "113 LEONARD STREET JERSEY CITY NJ 07307",
+    "defendant": "CHUN PEI LI; MRS. CHUN PEI LI, WIFE OF CHUN PEI LI",
+    "listing_status": null,
+    "plaintiff": "FCR TL REO TRS LLC",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "FCR TL REO TRS LLC",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20064586",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-12-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 99000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -4,7 +4,7 @@
   "county": "Passaic County, NJ",
   "county_id": 17,
   "court_case_number": "F 004680 25 CTL#163200",
-  "current_status": "Adjourned - Defendant",
+  "current_status": "Bankruptcy",
   "defendant": "VERONIQUE P. WATKINS, ET AL",
   "description": "Dimensions (approx): Condo\nNearest Cross Street: Summer Street\nImportant: Indicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99-Summit Bank vs. Dennis Thiel (A-58-98)\nTax Certificate: Recorded: September 03,2015\nHolder: PC 4 LLC, Amount $413.89\nBook M13615 Page:59\nInstrument Number:2016-000315\nTax Certificate: Recorded: October 28,2019\nHolder: PC 4 LLC Amount $0.00\nBook: AS683 Page: 114\nInstrument Number\nTax Certificate: Recorded: March 05,2025\nHolder: ProCap 8 FBO FirstTrust Bank Amount $466.66\nBook:M19290 PAge 31\nInstrument Number\nAffordable Housing Restriction\nRecorded: October 08,2009\nHolder: Veronique Prescott-Watkins\nBook: D1830 Page 19\nINstrument Number\nGood Faith Estimated Upset Price: $314,498.52\nOccupancy Status: Occupied",
   "extracted": {
@@ -33,7 +33,7 @@
     "sale_date": "2026-10-27"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Passaic County, NJ)",
   "parcel": "Tax Lot 28 Qual. C0402 Block 3109",
   "plaintiff": "U.S BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF CABANA SERIES V TRUST",
@@ -53,6 +53,10 @@
     {
       "date": "2026-10-27",
       "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-10-27",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 288409.63,

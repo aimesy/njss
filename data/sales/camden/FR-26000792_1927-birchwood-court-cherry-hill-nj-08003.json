@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00448025",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Court Adjournment",
   "defendant": "STEPHEN P. ROBINSON, ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT: 14 TAX BLOCK: 469.04",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
     "Property Note": "",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26000792"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "STEPHEN P. ROBINSON, ET AL.",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-    "sale_date": "2026-11-04"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "TAX LOT: 14 TAX BLOCK: 469.04",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
   "property_note": null,
-  "sale_date": "2026-11-04",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26000792",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -58,6 +58,10 @@
     {
       "date": "2026-11-04",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Court Adjournment"
     }
   ],
   "upset_amount": 464794.65,

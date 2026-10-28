@@ -1,0 +1,56 @@
+{
+  "address": "79 HARDING AVENUE PARLIN NJ 08859",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00689026",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "JOHN WITKOSKI, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$112,002.02",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00689026",
+    "Defendant": "JOHN WITKOSKI, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 37 & 38 BLOCK 356",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Address": "79 HARDING AVENUE\nPARLIN NJ 08859",
+    "Property Note": "",
+    "Sale Date": "1/6/2027",
+    "Sheriff #": "F-26002947"
+  },
+  "first_seen": "2026-10-28",
+  "judgment_amount": 112002.02,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "79 HARDING AVENUE PARLIN NJ 08859",
+    "defendant": "JOHN WITKOSKI, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 37 & 38 BLOCK 356",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "F-26002947",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

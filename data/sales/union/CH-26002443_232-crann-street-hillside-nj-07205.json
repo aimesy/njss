@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F01097224",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "ALICE PITTMAN; STATE OF NEW JERSEY",
   "description": null,
   "extracted": {},
@@ -18,7 +18,7 @@
     "Parcel #": "LOT 21 BLOCK 902",
     "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG BASKET TRUST",
     "Property Note": "Dimensions (Approx.): 63xI 00\nNearest Cross Street: Thomas St.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise thefollowing:\nGood Faith Estimated Upset Price: $332,859.63\nOccupancy Status:\nOccupied\nDated: October 14, 2026",
-    "Sales Date": "12/2/2026",
+    "Sales Date": "2/17/2027",
     "Sheriff #": "CH-26002443"
   },
   "first_seen": "2026-10-27",
@@ -27,7 +27,7 @@
     "defendant": "ALICE PITTMAN; STATE OF NEW JERSEY",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG BASKET TRUST",
-    "sale_date": "2026-12-02"
+    "sale_date": "2027-02-17"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "LOT 21 BLOCK 902",
   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF BKPL-EG BASKET TRUST",
   "property_note": "Dimensions (Approx.): 63xI 00\nNearest Cross Street: Thomas St.\nImportant:\nIndicate lien information, if any, to be advertised pursuant to the Supreme Court decision of 10/28/99 Summit Bank vs. Dennis Thiel (A-58-98).\nSheriff, kindly advertise thefollowing:\nGood Faith Estimated Upset Price: $332,859.63\nOccupancy Status:\nOccupied\nDated: October 14, 2026",
-  "sale_date": "2026-12-02",
+  "sale_date": "2027-02-17",
   "sheriff_number": "CH-26002443",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
   "status_history": [
     {
       "date": "2026-12-02",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-02-17",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 289061.72,

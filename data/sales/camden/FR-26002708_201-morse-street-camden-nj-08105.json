@@ -1,0 +1,49 @@
+{
+  "address": "201 MORSE STREET CAMDEN NJ 08105",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "1-856-813-1700",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01251325",
+  "current_status": "Scheduled",
+  "defendant": "YASMIN AZCONA, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "201 MORSE STREET\nCAMDEN NJ 08105",
+    "Approx. Upset*": "$74,487.66",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "1-856-813-1700",
+    "Court Case #": "F01251325",
+    "Defendant": "YASMIN AZCONA, ET AL.",
+    "Parcel #": "Tax Lot:60 Tax Block:1234",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002708"
+  },
+  "first_seen": "2026-10-28",
+  "listing": {
+    "address": "201 MORSE STREET CAMDEN NJ 08105",
+    "defendant": "YASMIN AZCONA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Tax Lot:60 Tax Block:1234",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002708",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 74487.66,
+  "upset_amount_label": "Approx. Upset*"
+}

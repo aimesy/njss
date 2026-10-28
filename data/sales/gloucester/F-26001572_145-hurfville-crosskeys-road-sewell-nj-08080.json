@@ -1,0 +1,52 @@
+{
+  "address": "145 HURFVILLE CROSSKEYS ROAD SEWELL NJ 08080",
+  "attorney": "RAGAN & RAGAN, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "BUR-L-000170-23; DJ-036190-26",
+  "current_status": "Scheduled",
+  "defendant": "3 DIMENSION DESIGN & DEVELOPMENT LLC, ET AL.",
+  "description": "LOCATED IN THE TOWNSHIP OF WASHINGTON, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: 190' X 433'\nNUMBER OF FEET TO NEAREST CROSS STREET: APPROXIMATELY 1198' TO INTERSECTION OF TURNERSVILLE AND CROSSKEYS ROAD\nESTIMATED UPSET PRICE: $200,000.00\nOCCUPANCY: UNKNOWN\nPRIOR LIENS:\nCOMMUNITY LOAN SERVICING, LLC $476,000.00 +/-",
+  "extracted": {
+    "occupancy": "UNKNOWN",
+    "upset_amount": 200000.0
+  },
+  "fields": {
+    "Address": "145 HURFVILLE CROSSKEYS ROAD\nSEWELL NJ 08080",
+    "Approximate Judgment": "$3,712,716.00",
+    "Attorney": "RAGAN & RAGAN, P.C.",
+    "Court Case #": "BUR-L-000170-23; DJ-036190-26",
+    "Defendant": "3 DIMENSION DESIGN & DEVELOPMENT LLC, ET AL.",
+    "Description": "LOCATED IN THE TOWNSHIP OF WASHINGTON, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: 190' X 433'\nNUMBER OF FEET TO NEAREST CROSS STREET: APPROXIMATELY 1198' TO INTERSECTION OF TURNERSVILLE AND CROSSKEYS ROAD\nESTIMATED UPSET PRICE: $200,000.00\nOCCUPANCY: UNKNOWN\nPRIOR LIENS:\nCOMMUNITY LOAN SERVICING, LLC $476,000.00 +/-",
+    "Parcel #": "BLOCK: 89 LOTS: 10 AND 10.01",
+    "Plaintiff": "DONALD POLLOCK",
+    "Property Note": "",
+    "Sales Date": "2/17/2027",
+    "Sheriff #": "F-26001572"
+  },
+  "first_seen": "2026-10-28",
+  "judgment_amount": 3712716.0,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "145 HURFVILLE CROSSKEYS ROAD SEWELL NJ 08080",
+    "defendant": "3 DIMENSION DESIGN & DEVELOPMENT LLC, ET AL.",
+    "listing_status": "Scheduled",
+    "plaintiff": "DONALD POLLOCK",
+    "sale_date": "2027-02-17"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 89 LOTS: 10 AND 10.01",
+  "plaintiff": "DONALD POLLOCK",
+  "property_note": null,
+  "sale_date": "2027-02-17",
+  "sheriff_number": "F-26001572",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2027-02-17",
+      "status": "Scheduled"
+    }
+  ]
+}

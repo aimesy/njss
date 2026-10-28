@@ -1,0 +1,55 @@
+{
+  "address": "40 GLENWOOD AVENUE APT 10 JERSEY CITY NJ 07306",
+  "attorney": "PINCUS & TARAB",
+  "attorney_phone": "516-699-8902",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-001742-26",
+  "current_status": "Scheduled",
+  "defendant": "SASWATI SARKAR; GLENWOOD ASSOCIATION, INC.; JPMORGAN CHASE BANK, N.A.; CAVALRY SPV I, LLC ASSIGNEE OF CITIBANK, N.A.",
+  "description": "LOT 25 C0114 BLOCK 13303\nDIMENSIONS: N/A CONDO UNIT\nNEAREST CROSS STREET: N/A CONDO UNIT\nPLEASE BE ADVISED THAT DEFINITIVE OCCUPANCY INFORMATION IS NOT AVAILABLE AND PLAINTIFF MAKES NO REPRESENTATION REGARDING OCCUPANCY.\nGOOD FAITH ESTIMATED UPSET: $133,943.27",
+  "extracted": {
+    "block": "13303",
+    "lot": "25"
+  },
+  "fields": {
+    "Address": "40 GLENWOOD AVENUE APT 10\nJERSEY CITY NJ 07306",
+    "Attorney": "PINCUS & TARAB",
+    "Attorney Phone": "516-699-8902",
+    "Court Case #": "F-001742-26",
+    "Defendant": "SASWATI SARKAR; GLENWOOD ASSOCIATION, INC.; JPMORGAN CHASE BANK, N.A.; CAVALRY SPV I, LLC ASSIGNEE OF CITIBANK, N.A.",
+    "Description": "LOT 25 C0114 BLOCK 13303\nDIMENSIONS: N/A CONDO UNIT\nNEAREST CROSS STREET: N/A CONDO UNIT\nPLEASE BE ADVISED THAT DEFINITIVE OCCUPANCY INFORMATION IS NOT AVAILABLE AND PLAINTIFF MAKES NO REPRESENTATION REGARDING OCCUPANCY.\nGOOD FAITH ESTIMATED UPSET: $133,943.27",
+    "Good Faith Upset*": "$133,943.27",
+    "Judgment": "$124,930.31",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20064635"
+  },
+  "first_seen": "2026-10-28",
+  "judgment_amount": 124930.31,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "40 GLENWOOD AVENUE APT 10 JERSEY CITY NJ 07306",
+    "defendant": "SASWATI SARKAR; GLENWOOD ASSOCIATION, INC.; JPMORGAN CHASE BANK, N.A.; CAVALRY SPV I, LLC ASSIGNEE OF CITIBANK, N.A.",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20064635",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-12-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 133943.27,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,56 @@
+{
+  "address": "118 SWARTHMORE TERRACE METUCHEN NJ 08840",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "(856) 457-4177",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00784122",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "TAJ M. SHAHID, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$551,256.68",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "(856) 457-4177",
+    "Court Case #": "F00784122",
+    "Defendant": "TAJ M. SHAHID, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 10 BLOCK 362.03",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC.",
+    "Property Address": "118 SWARTHMORE TERRACE\nMETUCHEN NJ 08840",
+    "Property Note": "",
+    "Sale Date": "1/6/2027",
+    "Sheriff #": "F-26002951"
+  },
+  "first_seen": "2026-10-28",
+  "judgment_amount": 551256.68,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "118 SWARTHMORE TERRACE METUCHEN NJ 08840",
+    "defendant": "TAJ M. SHAHID, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "NATIONSTAR MORTGAGE LLC.",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 10 BLOCK 362.03",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC.",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "F-26002951",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

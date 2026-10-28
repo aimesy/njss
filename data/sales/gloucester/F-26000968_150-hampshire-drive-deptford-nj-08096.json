@@ -24,7 +24,7 @@
     "Parcel #": "LOT: 5 BLOCK: 634",
     "Plaintiff": "SELENE FINANCE, LP",
     "Property Note": "",
-    "Sales Date": "10/28/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "F-26000968"
   },
   "first_seen": "2026-10-12",
@@ -35,7 +35,7 @@
     "defendant": "DENISE FLYNN, ET AL.",
     "listing_status": "Defendant Adjourned to",
     "plaintiff": "SELENE FINANCE, LP",
-    "sale_date": "2026-10-28"
+    "sale_date": "2027-01-06"
   },
   "listing_status": "Defendant Adjourned to",
   "on_open_list": true,
@@ -43,7 +43,7 @@
   "parcel": "LOT: 5 BLOCK: 634",
   "plaintiff": "SELENE FINANCE, LP",
   "property_note": null,
-  "sale_date": "2026-10-28",
+  "sale_date": "2027-01-06",
   "sheriff_number": "F-26000968",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
   "status_history": [
@@ -57,6 +57,10 @@
     },
     {
       "date": "2026-10-28",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Defendant Adjourned to"
     }
   ]

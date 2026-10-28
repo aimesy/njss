@@ -1,0 +1,49 @@
+{
+  "address": "947 JACKSON STREET CAMDEN NJ",
+  "attorney": "GARY C. ZEITZ L.L.C.",
+  "attorney_phone": "856-857-1222",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F829225",
+  "current_status": "Scheduled",
+  "defendant": "ANGEL RODRIGUEZ, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "947 JACKSON STREET\nCAMDEN NJ",
+    "Approx. Upset*": "$127,662.89",
+    "Attorney": "GARY C. ZEITZ L.L.C.",
+    "Attorney Phone": "856-857-1222",
+    "Court Case #": "F829225",
+    "Defendant": "ANGEL RODRIGUEZ, ET AL.",
+    "Parcel #": "Being known as Block 439, Lot 7 on the official Tax Map of the City of Camden",
+    "Plaintiff": "NICKOLENE NEAL",
+    "Property Note": "Open tax quarters and unpaid municipal charges due and owing to the City of Camden: Tax Sale Certificate Number 25000451 in the Principal Amount of $926.05 as of 04/8/2025 plus interest costs and fees.\nThe full legal description can be found in the Office of the Clerk of Camden in Book 9586 at page 1680",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002712"
+  },
+  "first_seen": "2026-10-28",
+  "listing": {
+    "address": "947 JACKSON STREET CAMDEN NJ",
+    "defendant": "ANGEL RODRIGUEZ, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NICKOLENE NEAL",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Being known as Block 439, Lot 7 on the official Tax Map of the City of Camden",
+  "plaintiff": "NICKOLENE NEAL",
+  "property_note": "Open tax quarters and unpaid municipal charges due and owing to the City of Camden: Tax Sale Certificate Number 25000451 in the Principal Amount of $926.05 as of 04/8/2025 plus interest costs and fees.\nThe full legal description can be found in the Office of the Clerk of Camden in Book 9586 at page 1680",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002712",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 127662.89,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -1,0 +1,49 @@
+{
+  "address": "35 E GREENWOOD AVE HADDON TOWNSHIP NJ 08107",
+  "attorney": "BROCK & SCOTT PLLC",
+  "attorney_phone": "1(844)856-6646",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00350426",
+  "current_status": "Scheduled",
+  "defendant": "DANA ZIPKIN, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "35 E GREENWOOD AVE\nHADDON TOWNSHIP NJ 08107",
+    "Approx. Upset*": "$205,406.63",
+    "Attorney": "BROCK & SCOTT PLLC",
+    "Attorney Phone": "1(844)856-6646",
+    "Court Case #": "F00350426",
+    "Defendant": "DANA ZIPKIN, ET AL.",
+    "Parcel #": "Lot 31, Block 7.03",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Note": "Pursuant to 28 USC 2410(c) this sale is subject to a I year right of redemption held by the United States of America by virtue of its lien:\nSUBORDINATE MORTGAGE: DANA ZIPKIN AND MARK ZIPKIN to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 05/07/2024 and recorded 06/04/2024 in Book 12593, Page 1351,\nto secure $9,125.65.",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002715"
+  },
+  "first_seen": "2026-10-28",
+  "listing": {
+    "address": "35 E GREENWOOD AVE HADDON TOWNSHIP NJ 08107",
+    "defendant": "DANA ZIPKIN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 31, Block 7.03",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": "Pursuant to 28 USC 2410(c) this sale is subject to a I year right of redemption held by the United States of America by virtue of its lien:\nSUBORDINATE MORTGAGE: DANA ZIPKIN AND MARK ZIPKIN to SECRETARY OF HOUSING AND URBAN DEVELOPMENT, dated 05/07/2024 and recorded 06/04/2024 in Book 12593, Page 1351,\nto secure $9,125.65.",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002715",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 205406.63,
+  "upset_amount_label": "Approx. Upset*"
+}
