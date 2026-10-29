@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00718825",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned Sheriff",
   "defendant": "DHANPAUL D. RAMDASS; ET. ALS.",
   "description": "SUPERIOR COURT OF NEW JERSEY\nSuperior Court\nSHERIFF'S SALE NO. 26004249\nDOCKET NO. F00718825\nPLAINTIFF – FREEDO MORTGAGE CORPORATION\nDEFENDANTS- DHANPAUL D. RAMDASS; ET. ALS.\nWrit of Execution.\nBy virtue of the above stated Writ of Execution to me directed and delivered I will expose for sale at public vendue on\nTuesday THE 10th DAY OF November 2026\nbetween the hours of 1:30 pm and 5:00 pm in the afternoon of said day, that is to say at 1:30 P.M. the prevailing time at The Leroy F. Smith Building, 60 West Market Street, 14th Floor, Newark, NJ 07102 to wit:\nAll that tract or parcel of land, situate, lying and being in the of NEWARK, County of Essex County and State of New Jersey:\nBeing known as:\nLOT: 34 BLOCK: 540\nAPPROXIMATE DIMENSIONS: 34.17' X 100.00\nNEAREST CROSS STREET: PARK AVENUE\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATELY $124,000.00\nOCCUPANCY STATUS: UNKNOWN\nPREMISES COMMONLY KNOWN AS:\n78-80 HIGHLAND AVE NEWARK, NJ 07104\nA more complete metes and bounds description can be found in the Office of the Essex County Sheriff.\nLien(s)/Taxes:\nNote: The street address is merely given as a convenience to the bidders and is not a representation of fact on the part of the sheriff. The diagram or concise description does not constitute a full legal description of the premises, but it can be found in the Essex County Sheriff Office.\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.\nIf the sale is set aside for any reason, the Purchaser at the sale shall be entitled only to a return of the deposit paid. The Purchaser shall have no further recourse against the Mortgagor, the Mortgagee and the Mortgagee’s attorney.\nSurplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nThe approximate amount due on this execution is $114,903.61 plus interest, cost, printers’ fees, Sheriff's fees and commission. The prior liens, as per affidavit of consideration are not a representation of fact on the part of the Sheriff.\nAmir D. Jones\nSHERIFF\nAdvertised\nDATED: September 30, 2026\nPLUESE, BECKER & SALTZMAN, LLC\n20000 HORIZON WAY\nSUITE 900\nMT. LAUREL, NJ 08054\n(856) 813-1700",
   "extracted": {
@@ -24,7 +24,7 @@
     "Parcel #": "",
     "Plaintiff": "FREEDO MORTGAGE CORPORATION",
     "Property Note": "",
-    "Sales Date": "11/10/2026",
+    "Sales Date": "12/15/2026",
     "Sheriff #": "F-26004249"
   },
   "first_seen": "2026-10-12",
@@ -33,7 +33,7 @@
     "defendant": "DHANPAUL D. RAMDASS; ET. ALS.",
     "listing_status": null,
     "plaintiff": "FREEDO MORTGAGE CORPORATION",
-    "sale_date": "2026-11-10"
+    "sale_date": "2026-12-15"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -41,13 +41,21 @@
   "parcel": null,
   "plaintiff": "FREEDO MORTGAGE CORPORATION",
   "property_note": null,
-  "sale_date": "2026-11-10",
+  "sale_date": "2026-12-15",
   "sheriff_number": "F-26004249",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
     {
       "date": "2026-11-10",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-08",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-12-15",
+      "status": "Adjourned Sheriff"
     }
   ],
   "upset_amount": 114903.61,

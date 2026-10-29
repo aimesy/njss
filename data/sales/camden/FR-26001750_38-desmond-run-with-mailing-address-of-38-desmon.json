@@ -18,7 +18,7 @@
     "Parcel #": "Lot: 38; Block: 11703",
     "Plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
     "Property Note": "Pursuant to a tax search of 07/08/2026; 2026 Qtr 3 Due: 08/01/2026 TO BE DETERMINED Water: Twp of Winslow 125 S Rte 73 Braddock, NJ 08037 609-567-0700 Acct: 243387 0 To: 04/01/2026 $110.00 OPEN PLUS PENALTY $615.65 OPEN PLUS PENALTY; OWED IN\nARREARS Subject to final reading. Sewer: Twp of Winslow 125 S Rte 73 Braddock, NJ 08037 609-567-0700 Acct: 243387 0 04/01/2026 - 06/30/2026 $110.00 OPEN PLUS PENALTY$408.OO OPEN PLUS PENALTY; OWED IN ARREARS CCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 360105373 06/01/2026 - 08/31/2026 $93.00 OPEN AND DUE 07/17/2026 $372.00 OPEN PLUS PENALTY; OWED IN ARREARS",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "10/28/2026",
     "Sheriff #": "FR-26001750"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "LEON RUDRADEAN; TRANSAMERICA FINANCIAL SERVICES, INC.,",
     "listing_status": null,
     "plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-10-28"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Lot: 38; Block: 11703",
   "plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
   "property_note": "Pursuant to a tax search of 07/08/2026; 2026 Qtr 3 Due: 08/01/2026 TO BE DETERMINED Water: Twp of Winslow 125 S Rte 73 Braddock, NJ 08037 609-567-0700 Acct: 243387 0 To: 04/01/2026 $110.00 OPEN PLUS PENALTY $615.65 OPEN PLUS PENALTY; OWED IN\nARREARS Subject to final reading. Sewer: Twp of Winslow 125 S Rte 73 Braddock, NJ 08037 609-567-0700 Acct: 243387 0 04/01/2026 - 06/30/2026 $110.00 OPEN PLUS PENALTY$408.OO OPEN PLUS PENALTY; OWED IN ARREARS CCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700 Acct: 360105373 06/01/2026 - 08/31/2026 $93.00 OPEN AND DUE 07/17/2026 $372.00 OPEN PLUS PENALTY; OWED IN ARREARS",
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-10-28",
   "sheriff_number": "FR-26001750",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-07",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-10-28",
+      "status": "Cancelled"
     },
     {
       "date": "2026-11-04",

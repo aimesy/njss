@@ -1,0 +1,49 @@
+{
+  "address": "37 CLARK DRIVE BARRINGTON NJ 08007",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_phone": "(609) 924-0808",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00311126",
+  "current_status": "Scheduled",
+  "defendant": "RALPH E. FARINELLA; LARA M. WRIGHT; STATE OF NEW JERSEY; UNITED STATES OF AMERICA;",
+  "extracted": {},
+  "fields": {
+    "Address": "37 CLARK DRIVE\nBARRINGTON NJ 08007",
+    "Approx. Upset*": "$389,880.08",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney Phone": "(609) 924-0808",
+    "Court Case #": "F00311126",
+    "Defendant": "RALPH E. FARINELLA; LARA M. WRIGHT; STATE OF NEW JERSEY; UNITED STATES OF AMERICA;",
+    "Parcel #": "Lot: 11; Block: 9.06",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS SUCH, THE TRUSTEE ON BEHALF OF WFL HOMES TRUST,",
+    "Property Note": "Subject to: 2026 3rd quarter taxes due 8/1/2026, $2,551.65 BILLED; $23.23 OPEN\nPLUS PENALTY; $2,528.42 PAID\n2026 4th quarter taxes due 11/1/2026, $2,551.64 OPEN\n2027 1 st quarter taxes due 2/1/2027, $2,489.96 OPEN\nSewer: Acct. 271 0, 7/1/2026-12/31/2026, $120.00 OPEN AND DUE\n10/1/2026; $120.00 OPEN PLUS PENALTY; OWED IN ARREARS\nCCMUA: Acct. 030002778, 9/1/2026-11/30/2026, $93.00 OPEN AND DUE\n10/15/2026; $567.14 OPEN PLUS PENALTY; OWED IN ARREARS\n2025 3rd Party Sewer and CCMUA Lien, Cert No. 26-00005, $1,284.03, Sold\n9/17/2026 to CHRISTIANA T CF CEI FIRSTRUST\nSubject to subsequent Taxes + Interest",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002733"
+  },
+  "first_seen": "2026-10-29",
+  "listing": {
+    "address": "37 CLARK DRIVE BARRINGTON NJ 08007",
+    "defendant": "RALPH E. FARINELLA; LARA M. WRIGHT; STATE OF NEW JERSEY; UNITED STATES OF AMERICA;",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS SUCH, THE TRUSTEE ON BEHALF OF WFL HOMES TRUST,",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot: 11; Block: 9.06",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS SUCH, THE TRUSTEE ON BEHALF OF WFL HOMES TRUST,",
+  "property_note": "Subject to: 2026 3rd quarter taxes due 8/1/2026, $2,551.65 BILLED; $23.23 OPEN\nPLUS PENALTY; $2,528.42 PAID\n2026 4th quarter taxes due 11/1/2026, $2,551.64 OPEN\n2027 1 st quarter taxes due 2/1/2027, $2,489.96 OPEN\nSewer: Acct. 271 0, 7/1/2026-12/31/2026, $120.00 OPEN AND DUE\n10/1/2026; $120.00 OPEN PLUS PENALTY; OWED IN ARREARS\nCCMUA: Acct. 030002778, 9/1/2026-11/30/2026, $93.00 OPEN AND DUE\n10/15/2026; $567.14 OPEN PLUS PENALTY; OWED IN ARREARS\n2025 3rd Party Sewer and CCMUA Lien, Cert No. 26-00005, $1,284.03, Sold\n9/17/2026 to CHRISTIANA T CF CEI FIRSTRUST\nSubject to subsequent Taxes + Interest",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002733",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 389880.08,
+  "upset_amount_label": "Approx. Upset*"
+}

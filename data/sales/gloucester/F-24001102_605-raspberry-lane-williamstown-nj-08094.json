@@ -4,7 +4,7 @@
   "county": "Gloucester County, NJ",
   "county_id": 19,
   "court_case_number": "F-012874-22",
-  "current_status": "Defendant Adjourned to",
+  "current_status": "Purchased - Plaintiff",
   "defendant": "DENISE F. FRIEL, ET AL",
   "description": "PUBLIC NOTICE\nSHERIFF’S SALE\nSUPERIOR COURT OF NEW JERSEY\nCHANCERY DIVISION,\nGLOUCESTER COUNTY\nDOCKET NO.: F-012874-22\nSHERIFF’S NO.: 24001102\nPlaintiff:\nWILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST\nVs\nDefendant:\nDENISE F. FRIEL, ET AL\nBy virtue of the above stated ALIAS WRIT OF EXECUTION to me directed and delivered, issued out of the above stated Court, will be exposed for sale at Public Venue, on Wednesday, September 2, 2026, to-wit, at 2 o’clock in the afternoon prevailing time, at 1 N. Broad Street, Ceremonial Courtroom 201 in the City of Woodbury, County of Gloucester and State of New Jersey, all the following described real estate, that is to say:\nProperty being known as: 605 RASPBERRY LANE WILLIAMSTOWN, NJ 08094 and BLOCK: 24.101 LOT: 2\nTOWNSHIP OF MONROE IN THE COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY\nDIMENSIONS OF LOT: 100 FEET WIDE BY 138 FEET LONG\nNEAREST CROSS STREET: CHERRY BLOSSOM ROAD\nESTIMATED UPSET BID AMOUNT: $367,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON.\n2026 QTR 2 DU: 05/01/2026 $2,497.90 OPEN\nWATER: MONROE MUA 372 S MAIN ST WILLIAMSTOWN, NJ 08094 856-629-1444 ACCT: 31959 0\nTO: 05/15/2026 $23.70 OPEN AND DUE 06/25/2026 $24.41 OPEN PLUS PENALTY\nSEWER: MONROE MUA 372 S MAIN ST WILLIAMSTOWN, NJ 08094 856-629-1444 ACCT: 31959 0\n06/01/2026 - 06/30/2026 $44.03 OPEN AND DUE 06/25/2026 $45.35 OPEN PLUS PENALTY\nVACANT LOT CHARGE: PROPERTY REGISTRATION FEE EXISTS. PLEASE CONTACT HERA PROPERTY REGISTRY 321-234-5303 FOR DETAILS.\nThe Sheriff hereby reserves the right to adjourn the sale without further notice through publication.\nThe approximate amount of the Judgment sought to be satisfied by said sale is $293,213.58\nThe purchaser must pay 20% of the purchase price in cash, certified check, cashier’s check, or treasurer’s check, balance to be paid within 30 days.\nA deed to be delivered to the purchaser within 30 days from the date of sale, with lawful interest on the balance due, from the 11th day after sale, until the balance is paid.\nAny eligible defendant/party interested in purchasing this property through the NJ Community Wealth Preservation Program set forth in NJ A5664 can find more information on our website at https://www.gloucestercountynj.gov/564/Foreclosure-Procedures.\nSales will begin promptly at 2:00pm. Please arrive shortly before this time to check in if you plan on bidding.\nSURPLUS MONEY: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any persons claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person’s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nSeized as the property of the Defendant, and taken in execution at the suit of the Plaintiff, and to be sold by\nCarmel M. Morina,\nGloucester County Sheriff\nAdvertised online at: https://salesweb.civilview.com/Sales/SalesSearch?countyId=19\nDate: July 7, 2026\nFirm: RAS CITRON, LLC\nJudgement Date: 7/9/2024",
   "extracted": {
@@ -32,12 +32,12 @@
   "listing": {
     "address": "605 RASPBERRY LANE WILLIAMSTOWN NJ 08094",
     "defendant": "DENISE F. FRIEL, ET AL",
-    "listing_status": "Defendant Adjourned to",
+    "listing_status": "Purchased - Plaintiff",
     "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
     "sale_date": "2026-10-28"
   },
-  "listing_status": "Defendant Adjourned to",
-  "on_open_list": true,
+  "listing_status": "Purchased - Plaintiff",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Gloucester County, NJ)",
   "parcel": "BLOCK: 24.101 LOT: 2",
   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
@@ -65,6 +65,10 @@
     {
       "date": "2026-10-28",
       "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-10-28",
+      "status": "Purchased - Plaintiff"
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "address": "4 PEACH ORCHARD Road Ocean View NJ 08230",
+  "attorney": "Ras Citron, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-575-0707",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-002337-25",
+  "current_status": "Scheduled",
+  "defendant": "JACQUELINE L TODD",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$185,713.83",
+    "Attorney": "Ras Citron, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-002337-25",
+    "Defendant": "JACQUELINE L TODD",
+    "Description": "",
+    "Minimum Bid": "$228,000.00",
+    "Parcel #": "LOT 370, BLOCK 453.10 FKA 453",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Address": "4 PEACH ORCHARD Road\nOcean View NJ 08230",
+    "Property Note": "",
+    "Sale Date": "2/17/2027",
+    "Sheriff #": "F-26000414"
+  },
+  "first_seen": "2026-10-29",
+  "judgment_amount": 185713.83,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "4 PEACH ORCHARD Road Ocean View NJ 08230",
+    "defendant": "JACQUELINE L TODD",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2027-02-17"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 370, BLOCK 453.10 FKA 453",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2027-02-17",
+  "sheriff_number": "F-26000414",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2027-02-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 228000.0,
+  "upset_amount_label": "Minimum Bid"
+}

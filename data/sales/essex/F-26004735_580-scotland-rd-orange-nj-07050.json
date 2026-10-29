@@ -1,0 +1,55 @@
+{
+  "address": "580 SCOTLAND RD ORANGE NJ 07050",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00722025",
+  "current_status": "Scheduled",
+  "defendant": "576-580 SCOTLAND RD LLC",
+  "description": "LOT: 2 BLOCK: 5901\nAPPROXIMATE DIMENSIONS: 47.08 X 88.71 X 43.89 X 78.89 FEET (IRREGULAR)\nNEAREST CROSS STREET: TREMONT AVENUE\nSUBJECT TO: TAX SALE CERTIFICATE NO. 23-00349 IN THE AMOUNT OF $14,621.21\nUPSET PRICE: N/A COMMERCIAL LOAN\nOCCUPANCY STATUS: UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+  "extracted": {
+    "block": "5901",
+    "lot": "2",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "580 SCOTLAND RD\nORANGE NJ 07050",
+    "Approx. Upset*": "$0.00",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F00722025",
+    "Defendant": "576-580 SCOTLAND RD LLC",
+    "Description": "LOT: 2 BLOCK: 5901\nAPPROXIMATE DIMENSIONS: 47.08 X 88.71 X 43.89 X 78.89 FEET (IRREGULAR)\nNEAREST CROSS STREET: TREMONT AVENUE\nSUBJECT TO: TAX SALE CERTIFICATE NO. 23-00349 IN THE AMOUNT OF $14,621.21\nUPSET PRICE: N/A COMMERCIAL LOAN\nOCCUPANCY STATUS: UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT**",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2022-5",
+    "Property Note": "",
+    "Sales Date": "12/15/2026",
+    "Sheriff #": "F-26004735"
+  },
+  "first_seen": "2026-10-29",
+  "listing": {
+    "address": "580 SCOTLAND RD ORANGE NJ 07050",
+    "defendant": "576-580 SCOTLAND RD LLC",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2022-5",
+    "sale_date": "2026-12-15"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2022-5",
+  "property_note": null,
+  "sale_date": "2026-12-15",
+  "sheriff_number": "F-26004735",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-12-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 0.0,
+  "upset_amount_label": "Approx. Upset*"
+}
