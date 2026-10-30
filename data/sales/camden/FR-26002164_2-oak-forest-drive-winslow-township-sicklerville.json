@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot: 66 Tax Block: 12205",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26002164"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "TERENCE TEEL, EL AL.",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "Tax Lot: 66 Tax Block: 12205",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26002164",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -45,6 +45,10 @@
     },
     {
       "date": "2026-11-18",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Plaintiff Adjournment"
     }
   ],

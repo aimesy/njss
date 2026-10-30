@@ -1,0 +1,56 @@
+{
+  "address": "3 AVOCADO Road Cape May Court House NJ 08210",
+  "attorney": "Brock and Scott, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "844-856-6646",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-004492-26",
+  "current_status": "Scheduled",
+  "defendant": "MEGAN L WINTERS, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$242,638.36",
+    "Attorney": "Brock and Scott, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "844-856-6646",
+    "Court Case #": "F-004492-26",
+    "Defendant": "MEGAN L WINTERS, ET AL",
+    "Description": "",
+    "Minimum Bid": "$262,646.03",
+    "Parcel #": "LOT 9, BLOCK 103",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Property Address": "3 AVOCADO Road\nCape May Court House NJ 08210",
+    "Property Note": "",
+    "Sale Date": "2/17/2027",
+    "Sheriff #": "F-26000423"
+  },
+  "first_seen": "2026-10-30",
+  "judgment_amount": 242638.36,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "3 AVOCADO Road Cape May Court House NJ 08210",
+    "defendant": "MEGAN L WINTERS, ET AL",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2027-02-17"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 9, BLOCK 103",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "property_note": null,
+  "sale_date": "2027-02-17",
+  "sheriff_number": "F-26000423",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2027-02-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 262646.03,
+  "upset_amount_label": "Minimum Bid"
+}

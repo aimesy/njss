@@ -1,0 +1,57 @@
+{
+  "address": "1 PARK PLACE KEARNY NJ 07032",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "860-241-2806",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005588-26",
+  "current_status": "Scheduled",
+  "defendant": "EBENA ARVINGER AND MR. EBENA ARVINGER, HUSBAND OF EBENA ARVINGER",
+  "description": "LOT 1, BLOCK 39\nAPPROXIMATE DIMENSIONS: 135.39 X 37.68 X 132.71 X 52.64 FEET (IRREGULAR)\nNEAREST CROSS STREET: AFTON STREET\nSUBJECT TO: N/A\nUPSET PRICE: $532,136.00\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "39",
+    "lot": "1",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 532136.0
+  },
+  "fields": {
+    "Address": "1 PARK PLACE\nKEARNY NJ 07032",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "860-241-2806",
+    "Court Case #": "F-005588-26",
+    "Defendant": "EBENA ARVINGER AND MR. EBENA ARVINGER, HUSBAND OF EBENA ARVINGER",
+    "Description": "LOT 1, BLOCK 39\nAPPROXIMATE DIMENSIONS: 135.39 X 37.68 X 132.71 X 52.64 FEET (IRREGULAR)\nNEAREST CROSS STREET: AFTON STREET\nSUBJECT TO: N/A\nUPSET PRICE: $532,136.00\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Good Faith Upset*": "$532,136.00",
+    "Judgment": "$494,538.32",
+    "Plaintiff": "ROCKET MORTGAGE, LLC",
+    "Property Note": "",
+    "Sales Date": "12/10/2026",
+    "Sheriff #": "20064663"
+  },
+  "first_seen": "2026-10-30",
+  "judgment_amount": 494538.32,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1 PARK PLACE KEARNY NJ 07032",
+    "defendant": "EBENA ARVINGER AND MR. EBENA ARVINGER, HUSBAND OF EBENA ARVINGER",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC",
+    "sale_date": "2026-12-10"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "ROCKET MORTGAGE, LLC",
+  "property_note": null,
+  "sale_date": "2026-12-10",
+  "sheriff_number": "20064663",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-12-10",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 532136.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

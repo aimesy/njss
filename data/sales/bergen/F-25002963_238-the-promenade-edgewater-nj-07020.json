@@ -4,7 +4,7 @@
   "county": "Bergen County, NJ",
   "county_id": 7,
   "court_case_number": "F01173224",
-  "current_status": "Purchased - 3rd Party",
+  "current_status": "Rescheduled",
   "defendant": "M. HANS DELLY; MRS. M. HANS DELLY, HIS WIFE, ET AL.",
   "description": "THE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $561,853.62",
   "extracted": {
@@ -20,7 +20,7 @@
     "Parcel #": "LOT 3, QUALIFIER C0238, BLOCK 91",
     "Plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS AS INDENTURE TRUSTEE FOR THE REGISTERED HOLDERS OF SAXON ASSET SECURITIES TRUST 2006-1 MORTGAGE LOAN ASSET BACKED NOTES, SERIES 2006-1",
     "Property Note": "",
-    "Sales Date": "3/20/2026",
+    "Sales Date": "11/20/2026",
     "Sheriff #": "F-25002963"
   },
   "first_seen": "2026-10-12",
@@ -29,15 +29,15 @@
     "defendant": "M. HANS DELLY; MRS. M. HANS DELLY, HIS WIFE, ET AL.",
     "listing_status": null,
     "plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS AS INDENTURE TRUSTEE FOR THE REGISTERED HOLDERS OF SAXON ASSET SECURITIES TRUST 2006-1 MORTGAGE LOAN ASSET BACKED NOTES, SERIES 2006-1",
-    "sale_date": "2026-03-20"
+    "sale_date": "2026-11-20"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Bergen County, NJ)",
   "parcel": "LOT 3, QUALIFIER C0238, BLOCK 91",
   "plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS AS INDENTURE TRUSTEE FOR THE REGISTERED HOLDERS OF SAXON ASSET SECURITIES TRUST 2006-1 MORTGAGE LOAN ASSET BACKED NOTES, SERIES 2006-1",
   "property_note": null,
-  "sale_date": "2026-03-20",
+  "sale_date": "2026-11-20",
   "sheriff_number": "F-25002963",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
   "status_history": [
@@ -50,8 +50,8 @@
       "status": "Adjourned - Defendant"
     },
     {
-      "date": "2026-03-20",
-      "status": "Purchased - 3rd Party"
+      "date": "2026-11-20",
+      "status": "Rescheduled"
     }
   ],
   "upset_amount": 527200.58,

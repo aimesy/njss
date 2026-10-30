@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00169926",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "TY R. BENNETT; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT: SOUTH JERSEY GAS COMPANY; CAMDEN COUNTY BOARD OF SOCIAL SERVICES; STATE OF NEW JERSEY,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax LOT 41 BLOCK 62",
     "Plaintiff": "ROCKET MORTGAGE, LLC,",
     "Property Note": "2026 Qtr 4 Due: 11/01/2026 $2,209.09 OPEN\n2027 Qtr I Due: 02/01/2027 $1,927.07 OPEN\n2027 Qtr 2 Due: 05/01/2027 $1,927.06 OPEN\nWater: Pine Hill MUA 907 Tumerville Rd. Pine Hill, NJ 08021 856-783-0739\nAcct: 163 1000 0 04/01/2026 - 06/30/2026 $140.20 OPEN PLUS PENALTY $166.46 OPEN PLUS PENALTY\nSewer: Pine Hill MUA 907 Turnerville Rd. Pine Hill, NJ 08021 856-783-0739\nAcct: 1631000 0 08/01/2026 - 10/31/2026 $50.00 OPEN PLUS PENALTY $103.27 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700\nAcct: 280012873 07/01/2026 - 09/30/2026 $93.00 OPEN PLUS PENALTY $183.08 OPEN PLUS PENALTY\nVacant lot charge: Property registration fees exist. Please Contact HERA PROPERTY REGISTRY 321034-5303 for details.\nLiens: Year: 2024 Type: 3RD PARTY Amount: $4,141.70\ncert No.: 25-00465 Sold: 04/04/2025 To: JAX, AS CUST FOR ATLANTIC TAX\nLien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures.\nTHE REDEMPTION OF LIENS OUTLINED IN N.J.S.A 54:5-54",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/20/2027",
     "Sheriff #": "FR-26002447"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "TY R. BENNETT; UNITED STATES OF AMERICA ON BEHALF OF THE \nSECRETARY OF HOUSING AND URBAN DEVELOPMENT: SOUTH JERSEY \n GAS COMPANY; CAMDEN COUNTY BOARD OF SOCIAL SERVICES; STATE OF NEW JERSEY,",
     "listing_status": null,
     "plaintiff": "ROCKET MORTGAGE, LLC,",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-20"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Tax LOT 41 BLOCK 62",
   "plaintiff": "ROCKET MORTGAGE, LLC,",
   "property_note": "2026 Qtr 4 Due: 11/01/2026 $2,209.09 OPEN\n2027 Qtr I Due: 02/01/2027 $1,927.07 OPEN\n2027 Qtr 2 Due: 05/01/2027 $1,927.06 OPEN\nWater: Pine Hill MUA 907 Tumerville Rd. Pine Hill, NJ 08021 856-783-0739\nAcct: 163 1000 0 04/01/2026 - 06/30/2026 $140.20 OPEN PLUS PENALTY $166.46 OPEN PLUS PENALTY\nSewer: Pine Hill MUA 907 Turnerville Rd. Pine Hill, NJ 08021 856-783-0739\nAcct: 1631000 0 08/01/2026 - 10/31/2026 $50.00 OPEN PLUS PENALTY $103.27 OPEN PLUS PENALTY\nCCMUA: CCMUA 1645 Ferry Ave. Camden, NJ 08104 856-541-3700\nAcct: 280012873 07/01/2026 - 09/30/2026 $93.00 OPEN PLUS PENALTY $183.08 OPEN PLUS PENALTY\nVacant lot charge: Property registration fees exist. Please Contact HERA PROPERTY REGISTRY 321034-5303 for details.\nLiens: Year: 2024 Type: 3RD PARTY Amount: $4,141.70\ncert No.: 25-00465 Sold: 04/04/2025 To: JAX, AS CUST FOR ATLANTIC TAX\nLien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures.\nTHE REDEMPTION OF LIENS OUTLINED IN N.J.S.A 54:5-54",
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-20",
   "sheriff_number": "FR-26002447",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-18",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-20",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 212087.88,

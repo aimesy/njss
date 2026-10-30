@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "00063626",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "CODY D. WILKINS; MRS. CODY D. WILKINS, WIFE OF CODY D. WILKINS; MARK LOVALLO; AND UNITE STATES OF AMERICA,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Lot 4 aka 4.01, Block 234",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
     "Property Note": "Subject to Water - 07/01/2026 - 09/30/2026 $89.50 open Plus Penalty $301.50 open Plus Penalty; Owed In Arrears\nSewer - 07/01/2026 - 09/30/2026 $105.00 open Plus Penalty $210.00 open Plus Penalty; Owed In Arrears\nCcmua - 06/01/2026 - 08/31/2026 $93.00 open Plus Penalty $274.81 open Plus Penalty; Owed In Arrears\nVacant Lot Charge - Property Registration Fees Exist. Contact Construction/Code Enforcement 856 456-7689\nLien Cert No. 26-00232 3rd Party Water Sewer CCMUA $1,279.70",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/20/2027",
     "Sheriff #": "FR-26002367"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "CODY D. WILKINS; MRS. CODY D. WILKINS, WIFE OF CODY D. WILKINS; MARK LOVALLO; AND UNITE STATES OF AMERICA,",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-20"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Lot 4 aka 4.01, Block 234",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
   "property_note": "Subject to Water - 07/01/2026 - 09/30/2026 $89.50 open Plus Penalty $301.50 open Plus Penalty; Owed In Arrears\nSewer - 07/01/2026 - 09/30/2026 $105.00 open Plus Penalty $210.00 open Plus Penalty; Owed In Arrears\nCcmua - 06/01/2026 - 08/31/2026 $93.00 open Plus Penalty $274.81 open Plus Penalty; Owed In Arrears\nVacant Lot Charge - Property Registration Fees Exist. Contact Construction/Code Enforcement 856 456-7689\nLien Cert No. 26-00232 3rd Party Water Sewer CCMUA $1,279.70",
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-20",
   "sheriff_number": "FR-26002367",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-18",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-20",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 197606.42,

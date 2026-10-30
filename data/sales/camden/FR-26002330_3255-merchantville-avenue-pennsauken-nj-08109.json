@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01109325",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "GARY H. MCCOMBS JR.,ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot:2 Tax Block:5108",
     "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
     "Property Note": "Special Charges: CCMUA holds a special charge in the amount of $186.01 + interest in the amount of $37.46 totaling in $223.47\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26002330"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "GARY H. MCCOMBS JR.,ET AL.",
     "listing_status": null,
     "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Tax Lot:2 Tax Block:5108",
   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
   "property_note": "Special Charges: CCMUA holds a special charge in the amount of $186.01 + interest in the amount of $37.46 totaling in $223.47\n*** Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the \"Redemption Sum\") necessary to redeem.***",
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26002330",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-04",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 268265.52,

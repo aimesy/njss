@@ -1,0 +1,56 @@
+{
+  "address": "26 NORTH 6TH STREET NEWARK NJ 07107",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F01270425",
+  "current_status": "Scheduled",
+  "defendant": "LIONEL MICHAEL MATTHEWS; ET AL.",
+  "description": "LOT: 8 BLOCK: 1852\nAPPROXIMATE DIMENSIONS: 100.00 X 24.50\nNEAREST CROSS STREET: DICKERSON STREET\nUPSET PRICE: $610,928.01. OCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "1852",
+    "lot": "8",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 610928.01
+  },
+  "fields": {
+    "Address": "26 NORTH 6TH STREET\nNEWARK NJ 07107",
+    "Approx. Upset*": "$567,588.60",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01270425",
+    "Defendant": "LIONEL MICHAEL MATTHEWS; ET AL.",
+    "Description": "LOT: 8 BLOCK: 1852\nAPPROXIMATE DIMENSIONS: 100.00 X 24.50\nNEAREST CROSS STREET: DICKERSON STREET\nUPSET PRICE: $610,928.01. OCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Parcel #": "",
+    "Plaintiff": "NORTHPOINTE BANK",
+    "Property Note": "",
+    "Sales Date": "12/15/2026",
+    "Sheriff #": "F-26004747"
+  },
+  "first_seen": "2026-10-30",
+  "listing": {
+    "address": "26 NORTH 6TH STREET NEWARK NJ 07107",
+    "defendant": "LIONEL MICHAEL MATTHEWS; ET AL.",
+    "listing_status": null,
+    "plaintiff": "NORTHPOINTE BANK",
+    "sale_date": "2026-12-15"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "NORTHPOINTE BANK",
+  "property_note": null,
+  "sale_date": "2026-12-15",
+  "sheriff_number": "F-26004747",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-12-15",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 567588.6,
+  "upset_amount_label": "Approx. Upset*"
+}

@@ -5,8 +5,8 @@
   "county_id": 25,
   "court_case_number": "ATL-DC-005885-23 / DJ-080891-25",
   "current_status": "Scheduled",
-  "deed": null,
-  "deed_address": null,
+  "deed": "Palm Shores, LLC",
+  "deed_address": "105 New Bridge Rd. Egg Harbor Township, NJ 08234",
   "defendant": "Kathryn Gilliam",
   "extracted": {},
   "fields": {
@@ -14,8 +14,8 @@
     "Approx. Judgment*": "$11,151.94",
     "Attorney": "McGovern Legal Services, LLC",
     "Court Case #": "ATL-DC-005885-23 / DJ-080891-25",
-    "Deed": "",
-    "Deed Address": "",
+    "Deed": "Palm Shores, LLC",
+    "Deed Address": "105 New Bridge Rd. Egg Harbor Township, NJ 08234",
     "Defendant": "Kathryn Gilliam",
     "Plaintiff": "The Village at Hardings Run Condominium Association, Inc.",
     "Priors": "Commerce Bank N.A. $135,107.00\nDiscover Bank $4,565.65\nShore Medical Center $719.63\nVillage at Hardings Run Lien Claim #2023030275 $1,957.70\nVillage at Hardings Run Lien Claim #2024033300 $10,709.70\nTotal $153,059.68",
@@ -35,7 +35,7 @@
     "sale_date": "2026-10-29"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Atlantic County, NJ)",
   "plaintiff": "The Village at Hardings Run Condominium Association, Inc.",
   "priors": "Commerce Bank N.A. $135,107.00 Discover Bank $4,565.65 Shore Medical Center $719.63 Village at Hardings Run Lien Claim #2023030275 $1,957.70 Village at Hardings Run Lien Claim #2024033300 $10,709.70 Total $153,059.68",
@@ -44,6 +44,10 @@
   "sheriff_number": "L-25001132",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
+    {
+      "date": "2026-10-29",
+      "status": "Purchased - 3rd Party"
+    },
     {
       "date": "2026-10-29",
       "status": "Scheduled"

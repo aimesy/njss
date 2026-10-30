@@ -3,7 +3,7 @@
   "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
   "county": "Atlantic County, NJ",
   "county_id": 25,
-  "court_case_number": "F-001413-23",
+  "court_case_number": null,
   "current_status": "Scheduled",
   "deed": null,
   "deed_address": null,
@@ -11,49 +11,41 @@
   "extracted": {},
   "fields": {
     "Address": "1689 McCall Avenue\nMays Landing NJ 08330",
-    "Approx. Judgment*": "$229,067.32",
+    "Approx. Judgment*": "$458,134.64",
     "Attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
-    "Court Case #": "F-001413-23",
+    "Court Case #": "",
     "Deed": "",
     "Deed Address": "",
     "Defendant": "Michelle Carrigan; Mr. Carrigan, Husband of Michelle Carrigan",
     "Plaintiff": "Lakeview Loan Servicing, LLC",
-    "Priors": "NONE",
-    "Property Note": "",
-    "Sales Date": "9/8/2025",
+    "Priors": "no priors",
+    "Property Note": "occupancy status: unknown",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "F-23001306",
     "Upset Amount": ""
   },
   "first_seen": "2026-10-12",
-  "judgment_amount": 229067.32,
+  "judgment_amount": 458134.64,
   "judgment_amount_label": "Approx. Judgment*",
   "listing": {
     "address": "1689 McCall Avenue Mays Landing NJ 08330",
     "defendant": "Michelle Carrigan; M...",
     "listing_status": null,
     "plaintiff": "Lakeview Loan Servic...",
-    "sale_date": "2025-09-08"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Atlantic County, NJ)",
   "plaintiff": "Lakeview Loan Servicing, LLC",
-  "priors": "NONE",
-  "property_note": null,
-  "sale_date": "2025-09-08",
+  "priors": "no priors",
+  "property_note": "occupancy status: unknown",
+  "sale_date": "2027-01-07",
   "sheriff_number": "F-23001306",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
     {
-      "date": "2025-09-08",
-      "status": "Cancelled/Outdated"
-    },
-    {
-      "date": "2023-11-30",
-      "status": "Indefinite Bankruptcy"
-    },
-    {
-      "date": "2023-11-30",
+      "date": "2027-01-07",
       "status": "Scheduled"
     }
   ],

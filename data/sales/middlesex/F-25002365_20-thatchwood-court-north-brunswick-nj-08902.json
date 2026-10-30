@@ -36,12 +36,12 @@
   "listing": {
     "address": "20 THATCHWOOD COURT NORTH BRUNSWICK NJ 08902",
     "defendant": "STEVEN JOSEPH, ET ALS.",
-    "listing_status": "Scheduled - Foreclosure",
+    "listing_status": "Bankruptcy",
     "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Scheduled - Foreclosure",
-  "on_open_list": true,
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 115.11 BLOCK 4.47",
   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
@@ -52,7 +52,15 @@
   "status_history": [
     {
       "date": "2026-11-04",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-11-04",
       "status": "Scheduled - Foreclosure"
+    },
+    {
+      "date": "2026-10-29",
+      "status": "Bankruptcy"
     },
     {
       "date": "2026-09-29",
