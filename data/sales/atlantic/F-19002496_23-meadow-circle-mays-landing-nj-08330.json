@@ -3,26 +3,26 @@
   "attorney": "Hill Wallack LLP",
   "county": "Atlantic County, NJ",
   "county_id": 25,
-  "court_case_number": "F-22082-18 THIRD PLURIES",
+  "court_case_number": "F-22082-18 PLURIES",
   "current_status": "Scheduled",
-  "deed": "Ahasan Realty LLC",
-  "deed_address": "410 Montrose Lane, Galloway, NJ 08205",
+  "deed": null,
+  "deed_address": null,
   "defendant": "Regina Dever; Mr. Dever, husband of Regina Dever; United States of America",
   "extracted": {},
   "fields": {
     "Address": "23 Meadow Circle\nMays Landing NJ 08330",
     "Approx. Judgment*": "$126,272.48",
     "Attorney": "Hill Wallack LLP",
-    "Court Case #": "F-22082-18 THIRD PLURIES",
-    "Deed": "Ahasan Realty LLC",
-    "Deed Address": "410 Montrose Lane, Galloway, NJ 08205",
+    "Court Case #": "F-22082-18 PLURIES",
+    "Deed": "",
+    "Deed Address": "",
     "Defendant": "Regina Dever; Mr. Dever, husband of Regina Dever; United States of America",
     "Plaintiff": "Carrington Mortgage Services, LLC",
     "Priors": "NONE",
     "Property Note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
-    "Sales Date": "7/31/2025",
+    "Sales Date": "4/3/2025",
     "Sheriff #": "F-19002496",
-    "Upset Amount": "$195,000.00"
+    "Upset Amount": "$215,474.76"
   },
   "first_seen": "2026-10-12",
   "judgment_amount": 126272.48,
@@ -32,7 +32,7 @@
     "defendant": "Regina Dever; Mr. De...",
     "listing_status": null,
     "plaintiff": "Carrington Mortgage ...",
-    "sale_date": "2025-07-31"
+    "sale_date": "2025-04-03"
   },
   "listing_status": null,
   "on_open_list": false,
@@ -40,19 +40,23 @@
   "plaintiff": "Carrington Mortgage Services, LLC",
   "priors": "NONE",
   "property_note": "OCCUPANCY STATUS: BORROWER OCCUPIED",
-  "sale_date": "2025-07-31",
+  "sale_date": "2025-04-03",
   "sheriff_number": "F-19002496",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
     {
-      "date": "2025-07-31",
-      "status": "Purchased - 3rd Party"
+      "date": "2025-04-03",
+      "status": "Cancelled"
     },
     {
-      "date": "2025-07-31",
+      "date": "2025-04-03",
+      "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2025-03-06",
       "status": "Scheduled"
     }
   ],
-  "upset_amount": 195000.0,
+  "upset_amount": 215474.76,
   "upset_amount_label": "Upset Amount"
 }

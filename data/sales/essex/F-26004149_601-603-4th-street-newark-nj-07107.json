@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F1097725",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned Sheriff",
   "defendant": "HELLANE T. FREEMAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF ROSEMARY FREEMAN, DECEASED; ET AL.",
   "description": "LOT: 46 BLOCK: 600\nAPPROXIMATE DIMENSIONS: 50 X 100\nNEAREST CROSSS STREET: NUMBER OF FEET TO NEAREST CROSS-STREET: 328 FEET TO 1ST AVE\nAPPROXIMATE UPSET AMOUNT: $53,000.00\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,841.78\nMETES AND BOUNDS DESCRIPTION: THIS CONCISE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION. THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF ESSEX COUNTY IN BOOK 4645 AT PAGE 719\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,841.78",
   "extracted": {
@@ -23,7 +23,7 @@
     "Parcel #": "",
     "Plaintiff": "TRENTON OPPORTUNITY 10, LLC",
     "Property Note": "",
-    "Sales Date": "11/10/2026",
+    "Sales Date": "12/15/2026",
     "Sheriff #": "F-26004149"
   },
   "first_seen": "2026-10-12",
@@ -32,7 +32,7 @@
     "defendant": "HELLANE T. FREEMAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF ROSEMARY FREEMAN, DECEASED; ET AL.",
     "listing_status": null,
     "plaintiff": "TRENTON OPPORTUNITY 10, LLC",
-    "sale_date": "2026-11-10"
+    "sale_date": "2026-12-15"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -40,13 +40,21 @@
   "parcel": null,
   "plaintiff": "TRENTON OPPORTUNITY 10, LLC",
   "property_note": null,
-  "sale_date": "2026-11-10",
+  "sale_date": "2026-12-15",
   "sheriff_number": "F-26004149",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
     {
       "date": "2026-11-10",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-08",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-12-15",
+      "status": "Adjourned Sheriff"
     }
   ],
   "upset_amount": 45287.23,

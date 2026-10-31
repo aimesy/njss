@@ -34,7 +34,7 @@
     "sale_date": "2026-11-04"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "LOT 84 BLOCK 3.17",
   "plaintiff": "NEWREZ LLC",
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-07",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-10-30",
+      "status": "Settled"
     },
     {
       "date": "2026-11-04",
