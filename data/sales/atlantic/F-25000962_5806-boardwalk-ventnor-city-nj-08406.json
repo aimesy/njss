@@ -20,7 +20,7 @@
     "Plaintiff": "Bank of America, N.A.",
     "Priors": "Outstanding Property Taxes estimated to be due to Ventnor City Tax Collector, amount: $115,535.76",
     "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
-    "Sales Date": "11/5/2026",
+    "Sales Date": "2/4/2027",
     "Sheriff #": "F-25000962",
     "Upset Amount": "$2,652,894.77"
   },
@@ -32,7 +32,7 @@
     "defendant": "5806 Boardwalk LLC; ...",
     "listing_status": null,
     "plaintiff": "Bank of America, N.A...",
-    "sale_date": "2026-11-05"
+    "sale_date": "2027-02-04"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -40,10 +40,14 @@
   "plaintiff": "Bank of America, N.A.",
   "priors": "Outstanding Property Taxes estimated to be due to Ventnor City Tax Collector, amount: $115,535.76",
   "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
-  "sale_date": "2026-11-05",
+  "sale_date": "2027-02-04",
   "sheriff_number": "F-25000962",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
+    {
+      "date": "2027-02-04",
+      "status": "Consensual/Mutual Adjournment"
+    },
     {
       "date": "2026-11-05",
       "status": "Court Adjourned to"

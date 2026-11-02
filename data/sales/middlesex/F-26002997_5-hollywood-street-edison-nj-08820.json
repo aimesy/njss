@@ -1,0 +1,56 @@
+{
+  "address": "5 HOLLYWOOD STREET EDISON NJ 08820",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "(716) 253-6291",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00692526",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "SYNERGY RESOURCES LLC., ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$389,362.41",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "(716) 253-6291",
+    "Court Case #": "F00692526",
+    "Defendant": "SYNERGY RESOURCES LLC., ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 24 BLOCK 957",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+    "Property Address": "5 HOLLYWOOD STREET\nEDISON NJ 08820",
+    "Property Note": "",
+    "Sale Date": "2/3/2027",
+    "Sheriff #": "F-26002997"
+  },
+  "first_seen": "2026-11-02",
+  "judgment_amount": 389362.41,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "5 HOLLYWOOD STREET EDISON NJ 08820",
+    "defendant": "SYNERGY RESOURCES LLC., ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+    "sale_date": "2027-02-03"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 24 BLOCK 957",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+  "property_note": null,
+  "sale_date": "2027-02-03",
+  "sheriff_number": "F-26002997",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-02-03",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

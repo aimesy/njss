@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F645124",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "BENJAMIN R VUKICEVICH, ET ALS.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot No. 3 in Block No. 30",
     "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
     "Property Note": "PRIOR LIENS/ENCUMBRANCES\nSEWER OPEN AND DUE $62.50 CCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY\n3 RD PARTY TAX, SEWER, CCMUA CERT NO. 25-00014 $29,634.46 TOTAL AS OF September 16, 2026: $29,790.47",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26002345"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "BENJAMIN R VUKICEVICH, ET ALS.",
     "listing_status": null,
     "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Tax Lot No. 3 in Block No. 30",
   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
   "property_note": "PRIOR LIENS/ENCUMBRANCES\nSEWER OPEN AND DUE $62.50 CCMUA OPEN AND DUE $93.00\nCCMUA OPEN PLUS PENALTY\n3 RD PARTY TAX, SEWER, CCMUA CERT NO. 25-00014 $29,634.46 TOTAL AS OF September 16, 2026: $29,790.47",
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26002345",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-04",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 217409.13,

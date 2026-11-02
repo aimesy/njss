@@ -1,0 +1,49 @@
+{
+  "address": "2532 STARR RD PENNSAUKEN NJ 08109",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00899625",
+  "current_status": "Scheduled",
+  "defendant": "ROBERT HURAL, A/K/A ROBERT P. HURAL; MRS. HURAL, SPOUSE OF ROBERT HURAL A/K/A ROBERT P. HURAL; LVNV FUNDING LLC ASSIGNEE NEW CENTURY FINANCIAL SERVICES; KENNEDY HEALTH SYSTEM; STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "2532 STARR RD\nPENNSAUKEN NJ 08109",
+    "Approx. Upset*": "$282,124.51",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F00899625",
+    "Defendant": "ROBERT HURAL, A/K/A ROBERT P. HURAL; MRS. HURAL, SPOUSE OF ROBERT HURAL A/K/A ROBERT P. HURAL; LVNV FUNDING LLC ASSIGNEE NEW CENTURY FINANCIAL SERVICES; KENNEDY HEALTH SYSTEM; STATE OF NEW JERSEY,",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-AHL2,",
+    "Property Note": "",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002747"
+  },
+  "first_seen": "2026-11-02",
+  "listing": {
+    "address": "2532 STARR RD PENNSAUKEN NJ 08109",
+    "defendant": "ROBERT HURAL, A/K/A ROBERT P. HURAL; MRS. HURAL, SPOUSE OF ROBERT HURAL A/K/A ROBERT P. HURAL; LVNV FUNDING LLC ASSIGNEE NEW CENTURY FINANCIAL SERVICES; KENNEDY HEALTH SYSTEM; STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-AHL2,",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-AHL2,",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002747",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 282124.51,
+  "upset_amount_label": "Approx. Upset*"
+}

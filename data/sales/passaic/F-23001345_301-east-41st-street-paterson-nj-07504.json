@@ -4,7 +4,7 @@
   "county": "Passaic County, NJ",
   "county_id": 17,
   "court_case_number": "F 003861 09 CTL 162559",
-  "current_status": "Rescheduled",
+  "current_status": "Bankruptcy",
   "defendant": "CAROLYN CHESTNUT, ET AL",
   "description": "Approximate Dimensions: 50.00' x 100.00'\nNearest Cross Street: 17th Avenue\nThe Plaintiffs Upset Bid presently approximates $1,303,200.00\nOccupancy Status: Unknown\nPriority Tax Lien Holder: PRO CAP 8 FBO FIRSTRUST BANK holds Tax Sale Certificate No. 26-00860 in the amount of $915.30 as of 12/10/2025.\n***Lien amount is subject to subsequent taxes + interest. Must call the local Tax Collector for the amount (the redemption sum) necessary to redeem.***",
   "extracted": {
@@ -60,6 +60,10 @@
     {
       "date": "2027-01-12",
       "status": "Rescheduled"
+    },
+    {
+      "date": "2027-01-12",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 1015609.87,

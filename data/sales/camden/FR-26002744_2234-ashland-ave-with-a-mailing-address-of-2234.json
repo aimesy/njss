@@ -1,0 +1,49 @@
+{
+  "address": "2234 ASHLAND AVE WITH A MAILING ADDRESS OF 2234 ASHLAND AVE, ATCO NEW JERSEY 08004 TOWNSHIP OF WATERFORD NJ 08004",
+  "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+  "attorney_phone": "(973) 325-8800",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00489826",
+  "current_status": "Scheduled",
+  "defendant": "GARLAND MITCHELL; CHRISTINA HICKSON ;,",
+  "extracted": {},
+  "fields": {
+    "Address": "2234 ASHLAND AVE\nWITH A MAILING ADDRESS OF 2234 ASHLAND AVE, ATCO NEW JERSEY 08004\nTOWNSHIP OF WATERFORD NJ 08004",
+    "Approx. Upset*": "$415,421.55",
+    "Attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+    "Attorney Phone": "(973) 325-8800",
+    "Court Case #": "F00489826",
+    "Defendant": "GARLAND MITCHELL; CHRISTINA HICKSON ;,",
+    "Parcel #": "",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
+    "Property Note": "",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002744"
+  },
+  "first_seen": "2026-11-02",
+  "listing": {
+    "address": "2234 ASHLAND AVE WITH A MAILING ADDRESS OF 2234 ASHLAND AVE, ATCO NEW JERSEY 08004 TOWNSHIP OF WATERFORD NJ 08004",
+    "defendant": "GARLAND MITCHELL; CHRISTINA HICKSON ;,",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC,",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002744",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 415421.55,
+  "upset_amount_label": "Approx. Upset*"
+}

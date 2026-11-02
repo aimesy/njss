@@ -1,0 +1,56 @@
+{
+  "address": "123 KIMBALL ST. WOODBRIDGE NJ 07095 A/K/A 123 KIMBALL STREET ISELIN NJ 08830",
+  "attorney": "HILL WALLACK LLP",
+  "attorney_file_number": null,
+  "attorney_phone": "609-924-0808",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01299425",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "MARCO MYERS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$562,987.13",
+    "Attorney": "HILL WALLACK LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "609-924-0808",
+    "Court Case #": "F01299425",
+    "Defendant": "MARCO MYERS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 27 BLOCK 404.04 F/K/A 404D",
+    "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS SUCH, THE TRUSTEE ON BEHALF OF WFL HOME TRUST",
+    "Property Address": "123 KIMBALL ST. WOODBRIDGE NJ 07095\nA/K/A 123 KIMBALL STREET\nISELIN NJ 08830",
+    "Property Note": "",
+    "Sale Date": "2/3/2027",
+    "Sheriff #": "F-26002998"
+  },
+  "first_seen": "2026-11-02",
+  "judgment_amount": 562987.13,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "123 KIMBALL ST. WOODBRIDGE NJ 07095 A/K/A 123 KIMBALL STREET ISELIN NJ 08830",
+    "defendant": "MARCO MYERS, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS SUCH, THE TRUSTEE ON BEHALF OF WFL HOME TRUST",
+    "sale_date": "2027-02-03"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 27 BLOCK 404.04 F/K/A 404D",
+  "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS SUCH, THE TRUSTEE ON BEHALF OF WFL HOME TRUST",
+  "property_note": null,
+  "sale_date": "2027-02-03",
+  "sheriff_number": "F-26002998",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-02-03",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

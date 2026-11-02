@@ -1,0 +1,67 @@
+{
+  "address": "13 MELONY LANE TURNERSVILLE NJ 08012",
+  "attorney": "LEOPOLD & ASSOCIATES PLLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-006711-23",
+  "current_status": "Scheduled",
+  "defendant": "KING ESTATES LLC",
+  "description": "THE PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF WASHINGTON, COUNTY OF GLOUCESTER, AND THE STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: 69X141 IRR\nNEAREST CROSS STREET: MILL LN\nESTIMATED UPSET AMOUNT: $320,660.89 WHICH IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "13 MELONY LANE\nTURNERSVILLE NJ 08012",
+    "Approximate Judgment": "$277,238.15",
+    "Attorney": "LEOPOLD & ASSOCIATES PLLC",
+    "Court Case #": "F-006711-23",
+    "Defendant": "KING ESTATES LLC",
+    "Description": "THE PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF WASHINGTON, COUNTY OF GLOUCESTER, AND THE STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: 69X141 IRR\nNEAREST CROSS STREET: MILL LN\nESTIMATED UPSET AMOUNT: $320,660.89 WHICH IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "BLOCK: 116.38 LOT: 3",
+    "Plaintiff": "1900 CAPITAL TRUST II, BY U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "3/3/2027",
+    "Sheriff #": "F-24000855"
+  },
+  "first_seen": "2026-11-02",
+  "judgment_amount": 277238.15,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "13 MELONY LANE TURNERSVILLE NJ 08012",
+    "defendant": "KING ESTATES LLC",
+    "listing_status": "Scheduled",
+    "plaintiff": "1900 CAPITAL TRUST II, BY U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE",
+    "sale_date": "2027-03-03"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "BLOCK: 116.38 LOT: 3",
+  "plaintiff": "1900 CAPITAL TRUST II, BY U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE",
+  "property_note": null,
+  "sale_date": "2027-03-03",
+  "sheriff_number": "F-24000855",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2024-08-28",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-25",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2024-10-23",
+      "status": "Defendant Adjourned to"
+    },
+    {
+      "date": "2026-11-02",
+      "status": "Bankruptcy Hold"
+    },
+    {
+      "date": "2027-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

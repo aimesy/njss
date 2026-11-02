@@ -1,0 +1,56 @@
+{
+  "address": "24 FRONT CT OLD BRIDGE NJ 08857",
+  "attorney": "PELLEGRINO & FELDSTEIN, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "973-586-2300 EXT 107",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00239926",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "JOYCE HOBBS, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$52,635.69",
+    "Attorney": "PELLEGRINO & FELDSTEIN, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "973-586-2300 EXT 107",
+    "Court Case #": "F00239926",
+    "Defendant": "JOYCE HOBBS, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 24 BLOCK 9001",
+    "Plaintiff": "WSFS CUST FOR ACTLIEN HOLDING INC.",
+    "Property Address": "24 FRONT CT\nOLD BRIDGE NJ 08857",
+    "Property Note": "",
+    "Sale Date": "2/3/2027",
+    "Sheriff #": "F-26002994"
+  },
+  "first_seen": "2026-11-02",
+  "judgment_amount": 52635.69,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "24 FRONT CT OLD BRIDGE NJ 08857",
+    "defendant": "JOYCE HOBBS, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "WSFS CUST FOR ACTLIEN HOLDING INC.",
+    "sale_date": "2027-02-03"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 24 BLOCK 9001",
+  "plaintiff": "WSFS CUST FOR ACTLIEN HOLDING INC.",
+  "property_note": null,
+  "sale_date": "2027-02-03",
+  "sheriff_number": "F-26002994",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-02-03",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

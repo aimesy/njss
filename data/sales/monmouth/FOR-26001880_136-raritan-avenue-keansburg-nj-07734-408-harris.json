@@ -21,7 +21,7 @@
     "Parcel #": "",
     "Plaintiff": "SCODB LLC",
     "Property Note": "",
-    "Sales Date": "11/9/2026",
+    "Sales Date": "1/11/2027",
     "Sheriff #": "FOR-26001880"
   },
   "first_seen": "2026-10-12",
@@ -30,20 +30,28 @@
   "listing": {
     "address": "136 Raritan Avenue, Keansburg, NJ 07734 408 Harrison Avenue Union Beach, NJ 07735 55 Tulip Lane Red Bank NJ 07701",
     "defendant": "Hanning Family Real Estate LLC; Joeph M. Hanning: Jaclyn Anne Hanning",
-    "listing_status": "Scheduled",
+    "listing_status": "Adjournment Defendant",
     "plaintiff": "SCODB LLC",
-    "sale_date": "2026-11-09"
+    "sale_date": "2027-01-11"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Adjournment Defendant",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": null,
   "plaintiff": "SCODB LLC",
   "property_note": null,
-  "sale_date": "2026-11-09",
+  "sale_date": "2027-01-11",
   "sheriff_number": "FOR-26001880",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2027-01-11",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-12-07",
+      "status": "Adjournment Defendant"
+    },
     {
       "date": "2026-11-09",
       "status": "Scheduled"

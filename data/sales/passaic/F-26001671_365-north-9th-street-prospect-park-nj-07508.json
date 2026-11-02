@@ -4,7 +4,7 @@
   "county": "Passaic County, NJ",
   "county_id": 17,
   "court_case_number": "F 005626 26 CTL #163279",
-  "current_status": "Scheduled",
+  "current_status": "Bankruptcy",
   "defendant": "AGRIPINA IRRIZARRI, ET ALS",
   "description": "Dimension of lot: 25 feet wide by 100 feet long\nNearest Cross Street: Planten Avenue\nEstimated upset bid amount: $393,900.00, plus any additional sums as ordered by the court.\nOccupancy Status: owner occupied\nSubject to any unpaid taxes, municipal liens or other charges, and any such taxes, charges, liens, insurance premiums or other advances made by plaintiff prior to this sale. All interested parties are to conduct and rely upon their own independent investigation to ascertain whether or not any outstanding interest remain of record and/or have priority over the lien being foreclosed and, if so the current amount due thereon.",
   "extracted": {
@@ -45,6 +45,10 @@
     {
       "date": "2027-01-26",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-26",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 361175.31,

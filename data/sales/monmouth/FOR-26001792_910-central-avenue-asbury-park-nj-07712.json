@@ -22,7 +22,7 @@
     "Parcel #": "Tax Lot: 12 Block: 1803 Located on the tax map of the City of Asbury Park",
     "Plaintiff": "PHH Mortgage Corporation",
     "Property Note": "",
-    "Sales Date": "11/9/2026",
+    "Sales Date": "12/7/2026",
     "Sheriff #": "FOR-26001792"
   },
   "first_seen": "2026-10-12",
@@ -33,7 +33,7 @@
     "defendant": "Ernest Newkirk, his or her heirs, devisees and personal representatives and his, her, their or any of their successors in right, title and interest",
     "listing_status": "Adjournment Defendant",
     "plaintiff": "PHH Mortgage Corporation",
-    "sale_date": "2026-11-09"
+    "sale_date": "2026-12-07"
   },
   "listing_status": "Adjournment Defendant",
   "on_open_list": true,
@@ -41,10 +41,14 @@
   "parcel": "Tax Lot: 12 Block: 1803 Located on the tax map of the City of Asbury Park",
   "plaintiff": "PHH Mortgage Corporation",
   "property_note": null,
-  "sale_date": "2026-11-09",
+  "sale_date": "2026-12-07",
   "sheriff_number": "FOR-26001792",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-12-07",
+      "status": "Adjournment Defendant"
+    },
     {
       "date": "2026-11-09",
       "status": "Adjournment Defendant"
