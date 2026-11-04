@@ -36,12 +36,12 @@
   "listing": {
     "address": "416 PLEASANT AVENUE PISCATAWAY NJ 08854",
     "defendant": "BELINDA GURLEY, ET ALS.",
-    "listing_status": "Adjourned - Defendant",
+    "listing_status": "Bankruptcy",
     "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Adjourned - Defendant",
-  "on_open_list": true,
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 90.01 BLOCK 110 FKA 14.01",
   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
@@ -50,6 +50,10 @@
   "sheriff_number": "F-26001164",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Bankruptcy"
+    },
     {
       "date": "2026-11-04",
       "status": "Adjourned - Defendant"

@@ -35,12 +35,12 @@
   "listing": {
     "address": "323 CARTERET AVENUE CARTERET NJ 07008",
     "defendant": "SHAFQAT CHEEMA AKA SHAFQAT U. CHEEMA, ET ALS.",
-    "listing_status": "Adjourned - Court",
+    "listing_status": "Bankruptcy",
     "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 2005-80CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-80CB",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Adjourned - Court",
-  "on_open_list": true,
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 10 FKA 11 BLOCK 3701 FKA 66",
   "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 2005-80CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-80CB",
@@ -49,6 +49,10 @@
   "sheriff_number": "F-26000541",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Bankruptcy"
+    },
     {
       "date": "2026-11-04",
       "status": "Adjourned - Court"

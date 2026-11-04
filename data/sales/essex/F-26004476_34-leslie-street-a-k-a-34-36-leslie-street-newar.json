@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00160826",
-  "current_status": "Scheduled",
+  "current_status": "Adjourned Defendant",
   "defendant": "CHRISTOPHER JONES A/K/A CHRISTOPH JONES A/K/A CHRISTOPH E. JONES; ET AL.",
   "description": "LOT: 18 (AKA LOT 18 AND 19) BLOCK: 3042\nAPPROXIMATE DIMENSIONS: 50 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: CYPRESS STREET\nESTIMATED UPSET BID AMOUNT: $208,600.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. OCCUPANCY STATUS: OWNER OCCUPIED\nWATER: NEWARK WATER DEPT. 920 BROAD STREET - ROOM 117 NEWARK, NJ 07102 973-733-6370. ACCT: 8222940649 TO: 09/08/2026 $1,806.08 OPEN PLUS PENALTY\nGENERAL REMARK: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES",
   "extracted": {
@@ -24,7 +24,7 @@
     "Parcel #": "",
     "Plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-1, ASSET-BACKED CERTIFICATES, SERIES 2007-1",
     "Property Note": "",
-    "Sales Date": "12/1/2026",
+    "Sales Date": "1/26/2027",
     "Sheriff #": "F-26004476"
   },
   "first_seen": "2026-10-16",
@@ -33,7 +33,7 @@
     "defendant": "CHRISTOPHER JONES A/K/A CHRISTOPH JONES A/K/A CHRISTOPH E. JONES; ET AL.",
     "listing_status": null,
     "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-1, ASSET-BACKED CERTIFICATES, SERIES 2007-1",
-    "sale_date": "2026-12-01"
+    "sale_date": "2027-01-26"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -41,13 +41,25 @@
   "parcel": null,
   "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-1, ASSET-BACKED CERTIFICATES, SERIES 2007-1",
   "property_note": null,
-  "sale_date": "2026-12-01",
+  "sale_date": "2027-01-26",
   "sheriff_number": "F-26004476",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
     {
+      "date": "2026-02-02",
+      "status": "Adjourned Sheriff"
+    },
+    {
       "date": "2026-12-01",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-29",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2027-01-26",
+      "status": "Adjourned Defendant"
     }
   ],
   "upset_amount": 191297.76,

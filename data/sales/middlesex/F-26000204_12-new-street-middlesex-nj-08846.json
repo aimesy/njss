@@ -36,12 +36,12 @@
   "listing": {
     "address": "12 NEW STREET MIDDLESEX NJ 08846",
     "defendant": "KHESHA ALSBROOK KELLY AKA KHESHA KELLY, ET ALS.",
-    "listing_status": "Adjourned - Plaintiff",
+    "listing_status": "Bankruptcy",
     "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Adjourned - Plaintiff",
-  "on_open_list": true,
+  "listing_status": "Bankruptcy",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 9 BLOCK 46",
   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
@@ -50,6 +50,10 @@
   "sheriff_number": "F-26000204",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Bankruptcy"
+    },
     {
       "date": "2026-11-04",
       "status": "Adjourned - Plaintiff"

@@ -35,11 +35,11 @@
   "listing": {
     "address": "5 CHANDLER ROAD EDISON NJ 08820",
     "defendant": "AKHILESH GUPTA, ET ALS.",
-    "listing_status": "Adjourned - Plaintiff",
+    "listing_status": "Cancelled",
     "plaintiff": "CITIZENS BANK, N.A.",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Adjourned - Plaintiff",
+  "listing_status": "Cancelled",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 25 BLOCK 557.14 F/K/A 557N",
@@ -49,6 +49,10 @@
   "sheriff_number": "F-26001212",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Cancelled"
+    },
     {
       "date": "2026-11-04",
       "status": "Adjourned - Plaintiff"

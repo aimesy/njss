@@ -1,0 +1,51 @@
+{
+  "address": "760 DUNCAN AVENUE GIBBSTOWN NJ 08027",
+  "attorney": "Hladik, Onorato & Federman, LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-010373-25",
+  "current_status": "Scheduled",
+  "defendant": "760 DUNCAN AVE LLC, TIMOTHY D'ASCENZO",
+  "description": "PROPERTY IS LOCATED IN THE TOWNSHIP OF GREENWICH (GIBBSTOWN), COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY.\nAPPROXIMATE DIMENSIONS: 145 x 87 x 145 x 87\nNEAREST CROSS STREET: TOMLIN STATION ROAD\nOCCUPANCY STATUS: OWNER OCCUPIED\nESTIMATED UPSET SHERIFF'S SALE BID AMOUNT: $420,000.00\n*SUBJECT TO ANY FURTHER ORDERS OF ADDITIONAL SUMS EXECUTED BY THE COURT.",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "760 DUNCAN AVENUE\nGIBBSTOWN NJ 08027",
+    "Approximate Judgment": "$380,495.62",
+    "Attorney": "Hladik, Onorato & Federman, LLP",
+    "Court Case #": "F-010373-25",
+    "Defendant": "760 DUNCAN AVE LLC, TIMOTHY D'ASCENZO",
+    "Description": "PROPERTY IS LOCATED IN THE TOWNSHIP OF GREENWICH (GIBBSTOWN), COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY.\nAPPROXIMATE DIMENSIONS: 145 x 87 x 145 x 87\nNEAREST CROSS STREET: TOMLIN STATION ROAD\nOCCUPANCY STATUS: OWNER OCCUPIED\nESTIMATED UPSET SHERIFF'S SALE BID AMOUNT: $420,000.00\n*SUBJECT TO ANY FURTHER ORDERS OF ADDITIONAL SUMS EXECUTED BY THE COURT.",
+    "Parcel #": "LOT 15, BLOCK 51.02",
+    "Plaintiff": "U.S BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II",
+    "Property Note": "",
+    "Sales Date": "3/3/2027",
+    "Sheriff #": "F-26001611"
+  },
+  "first_seen": "2026-11-04",
+  "judgment_amount": 380495.62,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "760 DUNCAN AVENUE GIBBSTOWN NJ 08027",
+    "defendant": "760 DUNCAN AVE LLC, TIMOTHY D'ASCENZO",
+    "listing_status": "Scheduled",
+    "plaintiff": "U.S BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II",
+    "sale_date": "2027-03-03"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT 15, BLOCK 51.02",
+  "plaintiff": "U.S BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II",
+  "property_note": null,
+  "sale_date": "2027-03-03",
+  "sheriff_number": "F-26001611",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2027-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01288124",
-  "current_status": "Plaintiff Adjournment",
+  "current_status": "Defendant Adjournment",
   "defendant": "BRIAN J. SCHREINER, ET AL.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "",
     "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
     "Property Note": "",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26000094"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "BRIAN J. SCHREINER, ET AL.",
     "listing_status": null,
     "plaintiff": "FREEDOM MORTGAGE CORPORATION",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": null,
   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
   "property_note": null,
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26000094",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -66,6 +66,10 @@
     {
       "date": "2026-11-04",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 143689.3,

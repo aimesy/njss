@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00163326",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Court Adjournment",
   "defendant": "THOMAS WALLACE, JR., HIS UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; MAEOZIA SAMUEL A/K/A MAEOZIA WALLACE, INDIVIDUALLY AND AS ADMINISTRATRIX OF THE ESTATE OF THOMAS WALLACE JR.; ERIC WALLACE; DARRELL WALLACE; FIRST HARVEST CREDIT UNION; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Lot 1, Block 908",
     "Plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES,",
     "Property Note": "Water - To: 04/03/2026 $107.20 OPEN PLUS PENALTY $118.65 OPEN\nPLUS PENALTY; OWED ARREARS\nCCMUA - 06/01/2026 - 08/31/2026 $93.00 OPEN AND DUE 07/15/2026\n$558.00 OPEN PLUS PENALTY; OWED IN ARREARS\nSewer - 07/01/2026 - 09/30/2026 $51.50 OPEN AND DUE 09/01/2026\n$103.77 OPEN PLUS PENALTY; OWED IN ARREARS",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26001667"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "THOMAS WALLACE, JR., HIS UNKNOWN HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; MAEOZIA SAMUEL A/K/A MAEOZIA WALLACE, INDIVIDUALLY AND AS ADMINISTRATRIX OF THE ESTATE OF THOMAS WALLACE JR.; ERIC WALLACE; DARRELL WALLACE; FIRST HARVEST CREDIT UNION; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA,",
     "listing_status": null,
     "plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES,",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "Lot 1, Block 908",
   "plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES,",
   "property_note": "Water - To: 04/03/2026 $107.20 OPEN PLUS PENALTY $118.65 OPEN\nPLUS PENALTY; OWED ARREARS\nCCMUA - 06/01/2026 - 08/31/2026 $93.00 OPEN AND DUE 07/15/2026\n$558.00 OPEN PLUS PENALTY; OWED IN ARREARS\nSewer - 07/01/2026 - 09/30/2026 $51.50 OPEN AND DUE 09/01/2026\n$103.77 OPEN PLUS PENALTY; OWED IN ARREARS",
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26001667",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -50,6 +50,10 @@
     {
       "date": "2026-11-04",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Court Adjournment"
     }
   ],
   "upset_amount": 249479.75,

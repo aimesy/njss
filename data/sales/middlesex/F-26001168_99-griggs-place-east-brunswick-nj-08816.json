@@ -36,11 +36,11 @@
   "listing": {
     "address": "99 GRIGGS PLACE EAST BRUNSWICK NJ 08816",
     "defendant": "PHILLIP BROWN, ET ALS.",
-    "listing_status": "Adjourned - Defendant",
+    "listing_status": "Bankruptcy",
     "plaintiff": "THE CLUB AT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Adjourned - Defendant",
+  "listing_status": "Bankruptcy",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 1 C099 BLOCK 88.43",
@@ -50,6 +50,10 @@
   "sheriff_number": "F-26001168",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Bankruptcy"
+    },
     {
       "date": "2026-11-04",
       "status": "Adjourned - Defendant"

@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "F01255724",
-  "current_status": "Adjourned per Court Order",
+  "current_status": "Bankuptcy",
   "defendant": "CLARK REINHARD A/K/A CLARK REIHARD; NANCY REINHARD; UNITED STATES OF AMERICA; AMERICAN EXPRESS CENTURION BANK; CARDIOVASCULAR CONSULTANTS PA; AND STATE OF NEW JERSEY",
   "description": null,
   "extracted": {},
@@ -78,6 +78,10 @@
     {
       "date": "2026-11-04",
       "status": "Adjourned per Court Order"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Bankuptcy"
     }
   ],
   "upset_amount": 1097918.77,

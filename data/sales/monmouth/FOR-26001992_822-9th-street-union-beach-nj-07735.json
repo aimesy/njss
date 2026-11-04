@@ -22,7 +22,7 @@
     "Parcel #": "Lot and Block: Lot 7, Block 76 Tax Map of Borough of Union Beach",
     "Plaintiff": "U.S Bank Trust National Association, Not in its individual capacity, but solely as owner trustee for RCAF acquisition trust.",
     "Property Note": "",
-    "Sales Date": "11/23/2026",
+    "Sales Date": "2/8/2027",
     "Sheriff #": "FOR-26001992"
   },
   "first_seen": "2026-10-12",
@@ -31,20 +31,28 @@
   "listing": {
     "address": "822 9th Street Union Beach NJ 07735",
     "defendant": "Harry R. Hoff, et al.",
-    "listing_status": "Scheduled",
+    "listing_status": "Adjournment Defendant",
     "plaintiff": "U.S Bank Trust National Association, Not in its individual capacity, but solely as owner trustee for RCAF acquisition trust.",
-    "sale_date": "2026-11-23"
+    "sale_date": "2027-02-08"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Adjournment Defendant",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 7, Block 76 Tax Map of Borough of Union Beach",
   "plaintiff": "U.S Bank Trust National Association, Not in its individual capacity, but solely as owner trustee for RCAF acquisition trust.",
   "property_note": null,
-  "sale_date": "2026-11-23",
+  "sale_date": "2027-02-08",
   "sheriff_number": "FOR-26001992",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2027-02-08",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2027-01-11",
+      "status": "Adjournment Defendant"
+    },
     {
       "date": "2026-11-23",
       "status": "Scheduled"

@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F888125",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "JOHN-MICHAEL ESPOSITO, ET ALS.",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot No. 32 in Block No. 10005 FKA 30, PLATE 9E",
     "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
     "Property Note": "PRIOR MORTGAGE $213,500.00\nCCMUA OPEN AND DUE $93.00 CCMUA OPEN PLUS PENALTY $371.35\nSEWER OPEN PLUS PENALTY $138.00\nTOTAL AS OF September 16, 2026: $214,102.35",
-    "Sales Date": "11/4/2026",
+    "Sales Date": "12/2/2026",
     "Sheriff #": "FR-26002344"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "JOHN-MICHAEL ESPOSITO, ET ALS.",
     "listing_status": null,
     "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
-    "sale_date": "2026-11-04"
+    "sale_date": "2026-12-02"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Tax Lot No. 32 in Block No. 10005 FKA 30, PLATE 9E",
   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
   "property_note": "PRIOR MORTGAGE $213,500.00\nCCMUA OPEN AND DUE $93.00 CCMUA OPEN PLUS PENALTY $371.35\nSEWER OPEN PLUS PENALTY $138.00\nTOTAL AS OF September 16, 2026: $214,102.35",
-  "sale_date": "2026-11-04",
+  "sale_date": "2026-12-02",
   "sheriff_number": "FR-26002344",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-04",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 23034.54,

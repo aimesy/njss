@@ -1,0 +1,51 @@
+{
+  "address": "64 Lincoln Avenue Little Falls NJ 07424",
+  "attorney": "Goldberg Mackler Sayegh Mintz Pfeffer Bonchi & Gill",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 012648 25 CTL#163295",
+  "current_status": "Scheduled",
+  "defendant": "JACK DONNARUMMA, MICHELINA PIERRE",
+  "description": "Property size: 50' x 150'\nJudgement Amount: $62,218.94\nUpset Bid: $82,000.00 as of 10/27/2026\nOccupancy: Occupied Residential\nSURPLUS MONEY: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to the Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nSALE SUBJECT TO:\nMunicipal liens through the 1st quarter of 2026 are included in plaintiff's judgement.\nTaxes for the 2nd quarter of 2026 are included in Plaintiff's Order Directing Sheriff to Collect Additional Sums.\nTaxes for 3rd quarter of 2026 are due in the amount of $3,572.86, plus interest to date paid.\nTaxes for the 4th quarter of 2026 will become due on 11/1/2026 in the amount of $3,574.85, plus interest to date paid.",
+  "extracted": {
+    "occupancy": "Occupied Residential"
+  },
+  "fields": {
+    "Address": "64 Lincoln Avenue\nLittle Falls NJ 07424",
+    "Approx. Upset*": "$66,375.62",
+    "Attorney": "Goldberg Mackler Sayegh Mintz Pfeffer Bonchi & Gill",
+    "Court Case #": "F 012648 25 CTL#163295",
+    "Defendant": "JACK DONNARUMMA, MICHELINA PIERRE",
+    "Description": "Property size: 50' x 150'\nJudgement Amount: $62,218.94\nUpset Bid: $82,000.00 as of 10/27/2026\nOccupancy: Occupied Residential\nSURPLUS MONEY: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to the Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person's claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any.\nSALE SUBJECT TO:\nMunicipal liens through the 1st quarter of 2026 are included in plaintiff's judgement.\nTaxes for the 2nd quarter of 2026 are included in Plaintiff's Order Directing Sheriff to Collect Additional Sums.\nTaxes for 3rd quarter of 2026 are due in the amount of $3,572.86, plus interest to date paid.\nTaxes for the 4th quarter of 2026 will become due on 11/1/2026 in the amount of $3,574.85, plus interest to date paid.",
+    "Parcel #": "Tax Lot: 4 Tax Block: 116",
+    "Plaintiff": "OPTIMUM FINANCIAL LLC",
+    "Property Note": "",
+    "Sales Date": "3/2/2027",
+    "Sheriff #": "F-26001850"
+  },
+  "first_seen": "2026-11-04",
+  "listing": {
+    "address": "64 Lincoln Avenue Little Falls NJ 07424",
+    "defendant": "JACK DONNARUMMA, MICHELINA PIERRE",
+    "listing_status": null,
+    "plaintiff": "OPTIMUM FINANCIAL LLC",
+    "sale_date": "2027-03-02"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot: 4 Tax Block: 116",
+  "plaintiff": "OPTIMUM FINANCIAL LLC",
+  "property_note": null,
+  "sale_date": "2027-03-02",
+  "sheriff_number": "F-26001850",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-03-02",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 66375.62,
+  "upset_amount_label": "Approx. Upset*"
+}

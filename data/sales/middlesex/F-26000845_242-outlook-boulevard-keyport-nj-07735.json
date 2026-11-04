@@ -37,12 +37,12 @@
   "listing": {
     "address": "242 OUTLOOK BOULEVARD KEYPORT NJ 07735",
     "defendant": "ROBERT FISH, ET ALS.",
-    "listing_status": "Adjourned - Court",
+    "listing_status": "Settled",
     "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Adjourned - Court",
-  "on_open_list": true,
+  "listing_status": "Settled",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 242.11 BLOCK 1082",
   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
@@ -51,6 +51,10 @@
   "sheriff_number": "F-26000845",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Settled"
+    },
     {
       "date": "2026-11-04",
       "status": "Adjourned - Court"

@@ -22,7 +22,7 @@
     "Parcel #": "",
     "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
     "Property Note": "",
-    "Sales Date": "11/12/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "26000108"
   },
   "first_seen": "2026-10-12",
@@ -33,7 +33,7 @@
     "defendant": "THOMAS J. WOOLEY, III; DENISE L. WOOLEY; FIRST FINANCIAL FEDERAL CREDIT UNION; IMPERIAL ACCEPTANCE CORPORATION; BANK OF AMERICA, N.A.",
     "listing_status": null,
     "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
-    "sale_date": "2026-11-12"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -41,7 +41,7 @@
   "parcel": null,
   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
   "property_note": null,
-  "sale_date": "2026-11-12",
+  "sale_date": "2027-01-07",
   "sheriff_number": "26000108",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=3",
   "status_history": [
@@ -79,6 +79,10 @@
     },
     {
       "date": "2026-11-12",
+      "status": "Adjourned by Court to"
+    },
+    {
+      "date": "2027-01-07",
       "status": "Adjourned by Court to"
     }
   ]
