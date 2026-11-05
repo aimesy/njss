@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00904325",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Purchased",
   "defendant": "MARIO LAVIENA, HIS OR HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR, OR ANY OF THEIR, SUCCESSORS IN RIGHT, TITLE AND INTEREST; ELIZABETH RIVERA-NUNEZ; JOSE TORRES LAVIENA; MIDLAND FUNDING LLC; STATE OF NEW JERSEY; UNITED STATES OF AMERICA ON BEHALF OF THE IRS",
   "extracted": {},
   "fields": {
@@ -30,7 +30,7 @@
     "sale_date": "2026-11-04"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "BLOCK 1410 LOT 13",
   "plaintiff": "MIDFIRST BANK",
@@ -50,6 +50,10 @@
     {
       "date": "2026-11-04",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Purchased"
     }
   ],
   "upset_amount": 47144.52,

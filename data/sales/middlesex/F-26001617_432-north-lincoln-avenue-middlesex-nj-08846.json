@@ -36,12 +36,12 @@
   "listing": {
     "address": "432 NORTH LINCOLN AVENUE MIDDLESEX NJ 08846",
     "defendant": "MYLES WATSON, ET ALS.",
-    "listing_status": "Adjourned - Plaintiff",
+    "listing_status": "Purchased - 3rd Party",
     "plaintiff": "FREEDOM MORTGAGE CORPORATION",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Adjourned - Plaintiff",
-  "on_open_list": true,
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 20 BLOCK 27",
   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
@@ -50,6 +50,10 @@
   "sheriff_number": "F-26001617",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Purchased - 3rd Party"
+    },
     {
       "date": "2026-11-04",
       "status": "Adjourned - Plaintiff"

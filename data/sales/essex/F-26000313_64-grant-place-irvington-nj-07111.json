@@ -1,0 +1,63 @@
+{
+  "address": "64 GRANT PLACE IRVINGTON NJ 07111",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00775323",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "THERESA WILLIAMS, ET. AL",
+  "description": "TAX LOT(S): 29, IN BLOCK: 29\nDIMENSIONS (APPROX.): 40 X 100\nNEAREST CROSS STREET: LAUREL AVENUE.\nGOOD FAITH ESTIMATED UPSET PRICE: $304,999.56. OCCUPANCY STATUS: OWNER OCCUPIED.\nTAX CERTIFICATE\nRECORDED: MARCH 11, 2016\nHOLDER: US BANK CUST FOR PC6, LLC\nAMOUNT: $473.20\nBOOK:\nPAGE:\nINSTRUMENT NUMBER: 2016021540.\nTAX CERTIFICATE\nRECORDED: MARCH 16, 2023\nHOLDER: FIG 20, LLC\nAMOUNT: $2,286.92\nBOOK:\nPAGE:\nINSTRUMENT NUMBER: 2023016572",
+  "extracted": {
+    "block": "29",
+    "occupancy": "OWNER OCCUPIED.",
+    "upset_amount": 304999.56
+  },
+  "fields": {
+    "Address": "64 GRANT PLACE\nIRVINGTON NJ 07111",
+    "Approx. Upset*": "$259,167.08",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F00775323",
+    "Defendant": "THERESA WILLIAMS, ET. AL",
+    "Description": "TAX LOT(S): 29, IN BLOCK: 29\nDIMENSIONS (APPROX.): 40 X 100\nNEAREST CROSS STREET: LAUREL AVENUE.\nGOOD FAITH ESTIMATED UPSET PRICE: $304,999.56. OCCUPANCY STATUS: OWNER OCCUPIED.\nTAX CERTIFICATE\nRECORDED: MARCH 11, 2016\nHOLDER: US BANK CUST FOR PC6, LLC\nAMOUNT: $473.20\nBOOK:\nPAGE:\nINSTRUMENT NUMBER: 2016021540.\nTAX CERTIFICATE\nRECORDED: MARCH 16, 2023\nHOLDER: FIG 20, LLC\nAMOUNT: $2,286.92\nBOOK:\nPAGE:\nINSTRUMENT NUMBER: 2023016572",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LODGE SERIES III TRUST,",
+    "Property Note": "",
+    "Sales Date": "10/15/2026",
+    "Sheriff #": "F-26000313"
+  },
+  "first_seen": "2026-11-05",
+  "listing": {
+    "address": "64 GRANT PLACE IRVINGTON NJ 07111",
+    "defendant": "THERESA WILLIAMS, ET. AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LODGE SERIES III TRUST,",
+    "sale_date": "2026-10-15"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LODGE SERIES III TRUST,",
+  "property_note": null,
+  "sale_date": "2026-10-15",
+  "sheriff_number": "F-26000313",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2026-03-17",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-10-15",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 259167.08,
+  "upset_amount_label": "Approx. Upset*"
+}

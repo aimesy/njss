@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01354025",
-  "current_status": "Plaintiff Adjournment",
+  "current_status": "Plaintiff Buy Back",
   "defendant": "ASHLEY ZIMMERMAN AND VOLODYMYR YUSHKO, WIFE AND HUSBAND",
   "extracted": {},
   "fields": {
@@ -30,7 +30,7 @@
     "sale_date": "2026-11-04"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "LOT 19, BLOCK 33",
   "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
@@ -58,6 +58,10 @@
     {
       "date": "2026-11-04",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Plaintiff Buy Back"
     }
   ],
   "upset_amount": 380849.76,

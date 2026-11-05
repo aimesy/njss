@@ -35,11 +35,11 @@
   "listing": {
     "address": "57 LEAR COURT EAST BRUNSWICK NJ 08816",
     "defendant": "AYMAN AL-NSAIRAT, ET ALS.",
-    "listing_status": "Scheduled - Foreclosure",
+    "listing_status": "Cancelled",
     "plaintiff": "CROSSPOINTE CONDOMINIUM ASSOCIATION INC.",
     "sale_date": "2026-12-02"
   },
-  "listing_status": "Scheduled - Foreclosure",
+  "listing_status": "Cancelled",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 1 C0057 BLOCK 26",
@@ -49,6 +49,10 @@
   "sheriff_number": "F-26002738",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Cancelled"
+    },
     {
       "date": "2026-12-02",
       "status": "Scheduled - Foreclosure"

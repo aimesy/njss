@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-017227-18",
-  "current_status": "Scheduled",
+  "current_status": "Cancelled",
   "defendant": "LUIS R. CUIDAD REAL; MARIA CIUDAD REAL",
   "description": "TAX LOT 10 BLOCK 16\nDIMENSIONS OF LOT ARE (APPROXIMATELY) 100 X 25 X 100 X 25\nNEAREST CROSS STREET: PALISADE AVENUE\nTHE APPROXIMATE UPSET SUM IS $942,443.47 CALCULATED THROUGH AUGUST 26, 2026 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.\nTHE SALE IS SUBJECT TO ANY UNPAID TAXES AND ASSESSMENTS, TAX, WATER, AND SEWER LIENS AND OTHER MUNICIPAL ASSESSMENTS. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM / HOMEOWNER ASSOCIATION LIENS WHICH MAY EXIST. THE SALE MAY BE FURTHER SUBJECT TO RESTRICTIONS, REVERSIONS, RESERVATIONS, AND EASEMENTS OF RECORD.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.",
   "extracted": {
@@ -23,7 +23,7 @@
     "Judgment": "$751,814.06",
     "Plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS, AS TRUSTEE FOR RESIDENTIAL ACCREDIT LOANS, INC., MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-QO6",
     "Property Note": "**DEF USED TOTAL ADJ. SEE FILE 20060831.**",
-    "Sales Date": "11/5/2026",
+    "Sales Date": "11/4/2026",
     "Sheriff #": "20064126"
   },
   "first_seen": "2026-10-12",
@@ -34,20 +34,24 @@
     "defendant": "LUIS R. CUIDAD REAL; MARIA CIUDAD REAL",
     "listing_status": null,
     "plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS, AS TRUSTEE FOR RESIDENTIAL ACCREDIT LOANS, INC., MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-QO6",
-    "sale_date": "2026-11-05"
+    "sale_date": "2026-11-04"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS, AS TRUSTEE FOR RESIDENTIAL ACCREDIT LOANS, INC., MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-QO6",
   "property_note": "**DEF USED TOTAL ADJ. SEE FILE 20060831.**",
-  "sale_date": "2026-11-05",
+  "sale_date": "2026-11-04",
   "sheriff_number": "20064126",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
     {
-      "date": "2026-11-05",
+      "date": "2026-10-22",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Cancelled"
     }
   ],
   "upset_amount": 942443.47,

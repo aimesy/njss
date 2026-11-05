@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F541625",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Purchased",
   "defendant": "CAROLINE S. BARBER; MR. BARBER, HUSBAND OF CAROLINE S. BARBER; JORDAN BARBER; AND UNKNOWN TENANT(S) AND/ OR OCCUPANT(S)(1-10),",
   "extracted": {},
   "fields": {
@@ -30,7 +30,7 @@
     "sale_date": "2026-11-04"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "BLOCK 13703, LOT 47",
   "plaintiff": "GREENBRIAR COMMUNITY ASSOCIATION,",
@@ -50,6 +50,10 @@
     {
       "date": "2026-11-04",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "Purchased"
     }
   ],
   "upset_amount": 15943.97,

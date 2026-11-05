@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT # 2 BLOCK # 21",
     "Plaintiff": "NEWREZ LLC,",
     "Property Note": "*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26002477"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "JANELLE M. COLLINS; MR. COLLINS, HUSBAND OF \nJANELLE M. COLLINS; UNITED STATE OF AMERICA",
     "listing_status": null,
     "plaintiff": "NEWREZ LLC,",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,12 +35,16 @@
   "parcel": "TAX LOT # 2 BLOCK # 21",
   "plaintiff": "NEWREZ LLC,",
   "property_note": "*Also subject to subsequent taxes, water and sewer plus interest through date of payoff.",
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26002477",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Scheduled"
     }
   ],

@@ -6,7 +6,7 @@
   "county": "Middlesex County, NJ",
   "county_id": 73,
   "court_case_number": "F00186626",
-  "current_status": "Scheduled - Foreclosure",
+  "current_status": "Cancelled",
   "defendant": "MARIA Y. YUPA YUPA, ET ALS.",
   "description": null,
   "extracted": {},
@@ -37,7 +37,7 @@
     "sale_date": "2026-11-04"
   },
   "listing_status": "Cancelled",
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 19 BLOCK 476.01",
   "plaintiff": "PENNYMAC LOAN SERVICES, LLC.",
@@ -49,10 +49,6 @@
     {
       "date": "2026-11-04",
       "status": "Cancelled"
-    },
-    {
-      "date": "2026-11-04",
-      "status": "Scheduled - Foreclosure"
     }
   ],
   "upset_amount": null,

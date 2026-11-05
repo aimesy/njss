@@ -35,12 +35,12 @@
   "listing": {
     "address": "95 SCHUYLER DRIVE EDISON NJ 08817",
     "defendant": "DONNA LEE AMELIO, ET ALS.",
-    "listing_status": "Adjourned - Defendant",
+    "listing_status": "Purchased - 3rd Party",
     "plaintiff": "WELLS FARGO BANK, N.A.",
     "sale_date": "2026-11-04"
   },
-  "listing_status": "Adjourned - Defendant",
-  "on_open_list": true,
+  "listing_status": "Purchased - 3rd Party",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 11 BLOCK 160.15 FKA 160.0",
   "plaintiff": "WELLS FARGO BANK, N.A.",
@@ -49,6 +49,10 @@
   "sheriff_number": "F-26001273",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-11-04",
+      "status": "Purchased - 3rd Party"
+    },
     {
       "date": "2026-11-04",
       "status": "Adjourned - Defendant"

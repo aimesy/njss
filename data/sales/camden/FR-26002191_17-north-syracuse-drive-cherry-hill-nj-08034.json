@@ -18,7 +18,7 @@
     "Parcel #": "LOT 8, BLOCK 338 FKA338.DD",
     "Plaintiff": "FREEDOM MORTGAGE CORPORATION,",
     "Property Note": "TAXES - DUE: 8/01/2026 $2,866.15 OPEN\nCCMU - 07/01//2026 -09/30/2026 $93.00 OPEN AND\nDUE 08/15/2026 $561.10 OPEN PLUS PENALTY; OWED IN ARREARS",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26002191"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "COREY JEFFERSON AND NICOLE JEFFERSON, HUSBAND AND WIFE; TBF FINANCIAL, LLC; SUNRUN, INC.; ANDREWS FEDERAL CREDIT UNION; AND UNITED STATES OF AMERICA,",
     "listing_status": null,
     "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "LOT 8, BLOCK 338 FKA338.DD",
   "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
   "property_note": "TAXES - DUE: 8/01/2026 $2,866.15 OPEN\nCCMU - 07/01//2026 -09/30/2026 $93.00 OPEN AND\nDUE 08/15/2026 $561.10 OPEN PLUS PENALTY; OWED IN ARREARS",
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26002191",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -45,6 +45,10 @@
     },
     {
       "date": "2026-11-18",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Defendant Adjournment"
     }
   ],

@@ -1,0 +1,88 @@
+{
+  "address": "198-200 W 31ST STREET BAYONNE NJ 07002",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-009646-22",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "DAVID CURIAZZA; BLUE FOUNDRY BANK F/K/A BOILING SPRINGS SAVINGS BANK; GENERAL PLUMBING SUPPLY INC.",
+  "description": "TAX LOT 20 BLOCK 155\nDIMENSIONS OF LOT: 53X100\nNEAREST CROSS STREET: WEST DRIVE\nESTIMATED UPSET BID AMOUNT: $762,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2026 QTR 4 DUE: 11/01/2026 $3,308.20 OPEN\n2027 QTR 1 DUE: 02/01/2027 $3,053.65 OPEN\n2027 QTR 2 DUE: 05/01/2027 $3,053.65 OPEN\nWATER: VEOLIA WATER NEW JERSEY / BAYONNE PO BOX 40122 NEWARK,NJ 07101-4001 888-434-0518 ACCT: 68905724611900 TO: 08/03/2026 $632.17 OPEN",
+  "extracted": {
+    "block": "155",
+    "lot": "20",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "198-200 W 31ST STREET\nBAYONNE NJ 07002",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-009646-22",
+    "Defendant": "DAVID CURIAZZA; BLUE FOUNDRY BANK F/K/A BOILING SPRINGS SAVINGS BANK; GENERAL PLUMBING SUPPLY INC.",
+    "Description": "TAX LOT 20 BLOCK 155\nDIMENSIONS OF LOT: 53X100\nNEAREST CROSS STREET: WEST DRIVE\nESTIMATED UPSET BID AMOUNT: $762,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\n2026 QTR 4 DUE: 11/01/2026 $3,308.20 OPEN\n2027 QTR 1 DUE: 02/01/2027 $3,053.65 OPEN\n2027 QTR 2 DUE: 05/01/2027 $3,053.65 OPEN\nWATER: VEOLIA WATER NEW JERSEY / BAYONNE PO BOX 40122 NEWARK,NJ 07101-4001 888-434-0518 ACCT: 68905724611900 TO: 08/03/2026 $632.17 OPEN",
+    "Good Faith Upset*": "$762,000.00",
+    "Judgment": "$635,270.56",
+    "Plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2018-RPL1",
+    "Property Note": "",
+    "Sales Date": "1/7/2027",
+    "Sheriff #": "20052986"
+  },
+  "first_seen": "2026-11-05",
+  "judgment_amount": 635270.56,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "198-200 W 31ST STREET BAYONNE NJ 07002",
+    "defendant": "DAVID CURIAZZA; BLUE FOUNDRY BANK F/K/A BOILING SPRINGS SAVINGS BANK; GENERAL PLUMBING SUPPLY INC.",
+    "listing_status": null,
+    "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2018-RPL1",
+    "sale_date": "2027-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2018-RPL1",
+  "property_note": null,
+  "sale_date": "2027-01-07",
+  "sheriff_number": "20052986",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2023-11-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-01-04",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2024-01-17",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2024-10-24",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "ADJOURNED SHERIFF - New Sale Date:"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 762000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-003942-21",
-  "current_status": "POST BANKRUPTCY SALE DATE",
+  "current_status": "BANKRUPTCY HOLD",
   "defendant": "ODETTE MILLER, ET AL.",
   "description": "TAX LOT: 6 TAX BLOCK: 208\nAPPROXIMATE DIMENSIONS: 25.09' X 109.27' X 25.00' X 107.24'\nNEAREST CROSS STREET: W. 21ST STREET\nOCCUPANCY STATUS: UNKNOWN\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $548,000.00",
   "extracted": {
@@ -24,7 +24,7 @@
     "Judgment": "$429,763.20",
     "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
     "Property Note": "",
-    "Sales Date": "11/5/2026",
+    "Sales Date": "11/4/2026",
     "Sheriff #": "20052199"
   },
   "first_seen": "2026-10-12",
@@ -35,14 +35,14 @@
     "defendant": "ODETTE MILLER, ET AL.",
     "listing_status": null,
     "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
-    "sale_date": "2026-11-05"
+    "sale_date": "2026-11-04"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, NOT INDIVIDUALLY BUT AS TRUSTEE FOR PRETIUM MORTGAGE ACQUISITION TRUST",
   "property_note": null,
-  "sale_date": "2026-11-05",
+  "sale_date": "2026-11-04",
   "sheriff_number": "20052199",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
@@ -75,8 +75,12 @@
       "status": "BANKRUPTCY HOLD"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-10-22",
       "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "BANKRUPTCY HOLD"
     }
   ],
   "upset_amount": 548000.0,

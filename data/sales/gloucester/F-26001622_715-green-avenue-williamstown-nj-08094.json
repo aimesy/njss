@@ -1,0 +1,51 @@
+{
+  "address": "715 GREEN AVENUE WILLIAMSTOWN NJ 08094",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-004003-26",
+  "current_status": "Scheduled",
+  "defendant": "ROBERT SIEMINSKI; ANGELA R. DENERO; AQUA FINANCE INC.; NEW CENTURY FINANCIAL SERVICES",
+  "description": "COUNTY OF GLOUCESTER, TOWNSHIP OF MONROE\nAPPROXIMATE DIMENSIONS: 183.96' x 90.00' x 186.94' x 90.05'\nNEAREST CROSS STREET: BRIDLEPATH LANE\nESTIMATED UPSET BID: $414,000.00\nOCCUPANCY STATUS: UNKNOWN\n***SUBJECT TO UCC FINANCING STATEMENT: SOLAR MOSAIC, INC.***\n***SUBJECT TO UCC FINANCING STATEMENT:AQUA FINANCE, INC.***",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "715 GREEN AVENUE\nWILLIAMSTOWN NJ 08094",
+    "Approximate Judgment": "$387,120.65",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F-004003-26",
+    "Defendant": "ROBERT SIEMINSKI; ANGELA R. DENERO; AQUA FINANCE INC.; NEW CENTURY FINANCIAL SERVICES",
+    "Description": "COUNTY OF GLOUCESTER, TOWNSHIP OF MONROE\nAPPROXIMATE DIMENSIONS: 183.96' x 90.00' x 186.94' x 90.05'\nNEAREST CROSS STREET: BRIDLEPATH LANE\nESTIMATED UPSET BID: $414,000.00\nOCCUPANCY STATUS: UNKNOWN\n***SUBJECT TO UCC FINANCING STATEMENT: SOLAR MOSAIC, INC.***\n***SUBJECT TO UCC FINANCING STATEMENT:AQUA FINANCE, INC.***",
+    "Parcel #": "LOT: 26 BLOCK: 24.0202",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-A",
+    "Property Note": "",
+    "Sales Date": "3/3/2027",
+    "Sheriff #": "F-26001622"
+  },
+  "first_seen": "2026-11-05",
+  "judgment_amount": 387120.65,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "715 GREEN AVENUE WILLIAMSTOWN NJ 08094",
+    "defendant": "ROBERT SIEMINSKI; ANGELA R. DENERO; AQUA FINANCE INC.; NEW CENTURY FINANCIAL SERVICES",
+    "listing_status": "Scheduled",
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-A",
+    "sale_date": "2027-03-03"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 26 BLOCK: 24.0202",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-A",
+  "property_note": null,
+  "sale_date": "2027-03-03",
+  "sheriff_number": "F-26001622",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2027-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

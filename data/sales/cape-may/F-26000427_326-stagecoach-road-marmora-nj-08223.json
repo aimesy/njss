@@ -1,0 +1,56 @@
+{
+  "address": "326 STAGECOACH Road Marmora NJ 08223",
+  "attorney": "Powers Kirn, LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-802-1000",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-006056-26",
+  "current_status": "Scheduled",
+  "defendant": "CHARLES N POMLEAR, JR., ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$142,033.39",
+    "Attorney": "Powers Kirn, LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-802-1000",
+    "Court Case #": "F-006056-26",
+    "Defendant": "CHARLES N POMLEAR, JR., ET AL",
+    "Description": "",
+    "Minimum Bid": "$154,439.70",
+    "Parcel #": "LOT 36, BLOCK 650",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Address": "326 STAGECOACH Road\nMarmora NJ 08223",
+    "Property Note": "",
+    "Sale Date": "3/3/2027",
+    "Sheriff #": "F-26000427"
+  },
+  "first_seen": "2026-11-05",
+  "judgment_amount": 142033.39,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "326 STAGECOACH Road Marmora NJ 08223",
+    "defendant": "CHARLES N POMLEAR, JR., ET AL",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2027-03-03"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 36, BLOCK 650",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": null,
+  "sale_date": "2027-03-03",
+  "sheriff_number": "F-26000427",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2027-03-03",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 154439.7,
+  "upset_amount_label": "Minimum Bid"
+}

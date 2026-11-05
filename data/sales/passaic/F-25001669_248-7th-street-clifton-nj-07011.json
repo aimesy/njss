@@ -18,7 +18,7 @@
     "Parcel #": "Tax Lot 72 Block 17.04",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
     "Property Note": "",
-    "Sales Date": "10/13/2026",
+    "Sales Date": "12/15/2026",
     "Sheriff #": "F-25001669"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "AMADO HERRERA, ET AL.",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-    "sale_date": "2026-10-13"
+    "sale_date": "2026-12-15"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Passaic County, NJ)",
   "parcel": "Tax Lot 72 Block 17.04",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
   "property_note": null,
-  "sale_date": "2026-10-13",
+  "sale_date": "2026-12-15",
   "sheriff_number": "F-25001669",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -72,7 +72,11 @@
       "status": "Adjourned - Court"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-11-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-12-15",
       "status": "Adjourned - Court"
     }
   ],
