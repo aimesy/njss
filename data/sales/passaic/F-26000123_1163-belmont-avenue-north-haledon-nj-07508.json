@@ -21,7 +21,7 @@
     "Parcel #": "Tax lot 69 Block 31",
     "Plaintiff": "PENNYMAC LOAN SERVICES,LLC",
     "Property Note": "",
-    "Sales Date": "11/17/2026",
+    "Sales Date": "1/5/2027",
     "Sheriff #": "F-26000123"
   },
   "first_seen": "2026-10-12",
@@ -30,7 +30,7 @@
     "defendant": "MIGUEL YNFANTE, ET AL.",
     "listing_status": null,
     "plaintiff": "PENNYMAC LOAN SERVICES,LLC",
-    "sale_date": "2026-11-17"
+    "sale_date": "2027-01-05"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -38,7 +38,7 @@
   "parcel": "Tax lot 69 Block 31",
   "plaintiff": "PENNYMAC LOAN SERVICES,LLC",
   "property_note": null,
-  "sale_date": "2026-11-17",
+  "sale_date": "2027-01-05",
   "sheriff_number": "F-26000123",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -68,6 +68,10 @@
     },
     {
       "date": "2026-11-17",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2027-01-05",
       "status": "Adjourned - Court"
     }
   ],

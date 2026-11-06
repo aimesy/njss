@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-001244-26",
-  "current_status": "Scheduled",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
   "defendant": "DAVID GOTTLIEB; TD BANK NA; AND FIRST NATIONAL BANK OF OMAHA",
   "description": "LOT 18 FKA 38, BLOCK 23403 FKA 1315\nAPPROXIMATE DIMENSIONS: 100.00 X 25.00 FEET\nNEAREST CROSS STREET: MARTIN LUTHER KING DRIVE\nSUBJECT TO: TAX SALE CERTIFICATE NO. 2024-1293 IN THE AMOUNT OF $3,362.21. 2026 3RD QUARTER TAXES IN THE AMOUNT OF $4,410.17, OPEN PLUS PENALTY. WATER IN THE AMOUNT OF $687.30, OPEN PLUS PENALTY.\nUPSET PRICE: $576,910.38\nOCCUPANCY STATUS: VACANT\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
   "extracted": {
@@ -25,7 +25,7 @@
     "Judgment": "$534,657.41",
     "Plaintiff": "NATIONSTAR MORTGAGE LLC",
     "Property Note": "",
-    "Sales Date": "11/5/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "20064155"
   },
   "first_seen": "2026-10-12",
@@ -36,20 +36,24 @@
     "defendant": "DAVID GOTTLIEB; TD BANK NA; AND FIRST NATIONAL BANK OF OMAHA",
     "listing_status": null,
     "plaintiff": "NATIONSTAR MORTGAGE LLC",
-    "sale_date": "2026-11-05"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "NATIONSTAR MORTGAGE LLC",
   "property_note": null,
-  "sale_date": "2026-11-05",
+  "sale_date": "2027-01-07",
   "sheriff_number": "20064155",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
     {
       "date": "2026-11-05",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
     }
   ],
   "upset_amount": 576910.38,

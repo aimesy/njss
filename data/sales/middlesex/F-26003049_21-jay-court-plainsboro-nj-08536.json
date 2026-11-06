@@ -1,0 +1,56 @@
+{
+  "address": "21 JAY COURT PLAINSBORO NJ 08536",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+  "attorney_file_number": null,
+  "attorney_phone": "856-813-1700",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F01261825",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "JOSE A. DEL VALLE, ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$40,127.22",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+    "Attorney File #": "",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F01261825",
+    "Defendant": "JOSE A. DEL VALLE, ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 1807 C1807 F/K/A 100.11 C1807 BLOCK 2202 F/K/A 10.09",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP5",
+    "Property Address": "21 JAY COURT\nPLAINSBORO NJ 08536",
+    "Property Note": "",
+    "Sale Date": "2/3/2027",
+    "Sheriff #": "F-26003049"
+  },
+  "first_seen": "2026-11-06",
+  "judgment_amount": 40127.22,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "21 JAY COURT PLAINSBORO NJ 08536",
+    "defendant": "JOSE A. DEL VALLE, ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP5",
+    "sale_date": "2027-02-03"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 1807 C1807 F/K/A 100.11 C1807 BLOCK 2202 F/K/A 10.09",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2021-RP5",
+  "property_note": null,
+  "sale_date": "2027-02-03",
+  "sheriff_number": "F-26003049",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-02-03",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F02299416",
-  "current_status": "Scheduled",
+  "current_status": "Bankruptcy",
   "defendant": "DIANE BROWN-STITH, ET. AL.",
   "description": "LOT: 31 BLOCK: 4126\nDIMENSIONS OF LOT: ( APPROXIMATELY) 75 FEET WIDE BY 93.63 FEET LONG\nNEAREST CROSS STREET: VARSITY ROAD\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULE SALE IS CURRENTLY $155,588.49\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY OCCUPANCY UNKNOWN",
   "extracted": {
@@ -35,7 +35,7 @@
     "sale_date": "2026-11-10"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "MIDFIRST BANK",
@@ -47,6 +47,10 @@
     {
       "date": "2026-11-10",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 104472.9,

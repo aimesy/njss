@@ -21,7 +21,7 @@
     "Parcel #": "Block: 8 Lot: 1",
     "Plaintiff": "PENNYMAC LOAN SERVICES LLC",
     "Property Note": "",
-    "Sales Date": "11/10/2026",
+    "Sales Date": "12/15/2026",
     "Sheriff #": "F-26000128"
   },
   "first_seen": "2026-10-12",
@@ -30,7 +30,7 @@
     "defendant": "MICHAEL RAMOS ET ALS",
     "listing_status": null,
     "plaintiff": "PENNYMAC LOAN SERVICES LLC",
-    "sale_date": "2026-11-10"
+    "sale_date": "2026-12-15"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -38,7 +38,7 @@
   "parcel": "Block: 8 Lot: 1",
   "plaintiff": "PENNYMAC LOAN SERVICES LLC",
   "property_note": null,
-  "sale_date": "2026-11-10",
+  "sale_date": "2026-12-15",
   "sheriff_number": "F-26000128",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -64,6 +64,10 @@
     },
     {
       "date": "2026-11-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-12-15",
       "status": "Adjourned - Court"
     }
   ],
