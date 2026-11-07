@@ -1,0 +1,51 @@
+{
+  "address": "38 HANCOCK STREET SWEDESBORO NJ 08085",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-004495-26",
+  "current_status": "Scheduled",
+  "defendant": "SHELBY WALLRATH, et al",
+  "description": "PROPERTY IS LOCATED IN THE TOWNSHIP OF LOGAN, COUNTY OF GLOUCESTER, AND STATE OF NEW JERSEY.\nAPPROXIMATE DIMENSIONS: 29.22' x 1.39' x 120.40' x 30' x 114.31'\nNEAREST CROSS STREET: ADAMS STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $195,000.00\nOCCUPANCY STATUS: UNKNOWN\n**SPECIAL CHARGES: SEWER HOLDS A SPECIAL CHARGE IN THE AMOUNT OF $95.00 + INTEREST IN THE AMOUNT OF $18.59 TOTALING IN $113.59**",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "38 HANCOCK STREET\nSWEDESBORO NJ 08085",
+    "Approximate Judgment": "$181,810.54",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Court Case #": "F-004495-26",
+    "Defendant": "SHELBY WALLRATH, et al",
+    "Description": "PROPERTY IS LOCATED IN THE TOWNSHIP OF LOGAN, COUNTY OF GLOUCESTER, AND STATE OF NEW JERSEY.\nAPPROXIMATE DIMENSIONS: 29.22' x 1.39' x 120.40' x 30' x 114.31'\nNEAREST CROSS STREET: ADAMS STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $195,000.00\nOCCUPANCY STATUS: UNKNOWN\n**SPECIAL CHARGES: SEWER HOLDS A SPECIAL CHARGE IN THE AMOUNT OF $95.00 + INTEREST IN THE AMOUNT OF $18.59 TOTALING IN $113.59**",
+    "Parcel #": "LOT 11, BLOCK 2503",
+    "Plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "Property Note": "",
+    "Sales Date": "3/3/2027",
+    "Sheriff #": "F-26001636"
+  },
+  "first_seen": "2026-11-07",
+  "judgment_amount": 181810.54,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "38 HANCOCK STREET SWEDESBORO NJ 08085",
+    "defendant": "SHELBY WALLRATH, et al",
+    "listing_status": "Scheduled",
+    "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+    "sale_date": "2027-03-03"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT 11, BLOCK 2503",
+  "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+  "property_note": null,
+  "sale_date": "2027-03-03",
+  "sheriff_number": "F-26001636",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2027-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -22,7 +22,7 @@
     "Parcel #": "Lot and Block: Lot 126, Block 139.02 Tax Map of Township of Howell",
     "Plaintiff": "The Moors Landing Homeowners Association, Inc",
     "Property Note": "",
-    "Sales Date": "11/9/2026",
+    "Sales Date": "1/11/2027",
     "Sheriff #": "FOR-26001918"
   },
   "first_seen": "2026-10-12",
@@ -31,20 +31,28 @@
   "listing": {
     "address": "25 Harbor Circle Howell NJ 07731",
     "defendant": "Kevin England and Sylvia England,",
-    "listing_status": "Scheduled",
+    "listing_status": "Adjournment Defendant",
     "plaintiff": "The Moors Landing Homeowners Association, Inc",
-    "sale_date": "2026-11-09"
+    "sale_date": "2027-01-11"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Adjournment Defendant",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 126, Block 139.02 Tax Map of Township of Howell",
   "plaintiff": "The Moors Landing Homeowners Association, Inc",
   "property_note": null,
-  "sale_date": "2026-11-09",
+  "sale_date": "2027-01-11",
   "sheriff_number": "FOR-26001918",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2027-01-11",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2026-12-07",
+      "status": "Adjournment Defendant"
+    },
     {
       "date": "2026-11-09",
       "status": "Scheduled"

@@ -4,7 +4,7 @@
   "county": "Union County, NJ",
   "county_id": 15,
   "court_case_number": "L00063626 / J079509206",
-  "current_status": "Scheduled",
+  "current_status": "On Hold",
   "defendant": "ARL SERVICE LLC AND ROBERT PAZ-MIRO,",
   "description": null,
   "extracted": {},
@@ -42,6 +42,10 @@
     {
       "date": "2026-12-02",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "On Hold"
     }
   ],
   "upset_amount": 99354.45,
