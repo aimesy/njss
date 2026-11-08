@@ -4,7 +4,7 @@
   "county": "Atlantic County, NJ",
   "county_id": 25,
   "court_case_number": "2215-24",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjourned to",
   "deed": null,
   "deed_address": null,
   "defendant": "Annalisa D Johnson A/K/A Annalisa Johnson, Individually and as executrix of th Estate of Barbara S Gilliam; Kathryn Gilliam; Mark AnthonyRassmann; New Jersey Department of Community Affairs; State of New Jersey",
@@ -47,6 +47,10 @@
     {
       "date": "2026-12-10",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Defendant Adjourned to"
     }
   ],
   "upset_amount": 37077.52,
