@@ -1,0 +1,62 @@
+{
+  "address": "12 ELMWOOD AVENUE BELLEVILLE NJ 07109",
+  "attorney": "KML LAW GROUP, P.C.",
+  "attorney_phone": null,
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00259723",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "JOE A. COLON AKA JOE COLON, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL",
+  "description": "TAX LOT NO. 11 BLOCK 6604\nDIMENSIONS OF LOT:(APPROXIMATELY) 40.00 FEET BY 100.00 FEET\nNEAREST CROSS STREET: OAKWOOD AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULES SHERIFF SALE IS CURRENTLY $523,878.98.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHIS PROPERTY IS OCCUPIED BY UNKNOWN.",
+  "extracted": {
+    "block": "6604",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "12 ELMWOOD AVENUE\nBELLEVILLE NJ 07109",
+    "Approx. Upset*": "$455,249.76",
+    "Attorney": "KML LAW GROUP, P.C.",
+    "Attorney Phone": "",
+    "Court Case #": "F00259723",
+    "Defendant": "JOE A. COLON AKA JOE COLON, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL",
+    "Description": "TAX LOT NO. 11 BLOCK 6604\nDIMENSIONS OF LOT:(APPROXIMATELY) 40.00 FEET BY 100.00 FEET\nNEAREST CROSS STREET: OAKWOOD AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULES SHERIFF SALE IS CURRENTLY $523,878.98.\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nTHIS PROPERTY IS OCCUPIED BY UNKNOWN.",
+    "Parcel #": "",
+    "Plaintiff": "FLAGSTAR BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "1/14/2027",
+    "Sheriff #": "F-25000366"
+  },
+  "first_seen": "2026-11-09",
+  "listing": {
+    "address": "12 ELMWOOD AVENUE BELLEVILLE NJ 07109",
+    "defendant": "JOE A. COLON AKA JOE COLON, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL",
+    "listing_status": null,
+    "plaintiff": "FLAGSTAR BANK, N.A.",
+    "sale_date": "2027-01-14"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "FLAGSTAR BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2027-01-14",
+  "sheriff_number": "F-25000366",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-03-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2027-01-14",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 455249.76,
+  "upset_amount_label": "Approx. Upset*"
+}

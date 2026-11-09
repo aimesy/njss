@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00356626",
-  "current_status": "Scheduled",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "WILLIAM T. BARTOLETT, JR AND MELLISA BARTOLETT, HUSBAND AND WIFE; AND UNITED STATES OF AMERICA,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Lot 5.08 (fka Lot 5 H), Block 71",
     "Plaintiff": "FREEDOM MORTGAGE CORPORATION,",
     "Property Note": "Tax Sale Certificate No. 26-00047 in the amount of $1,368.52.\n2026 3rd Quarter Taxes in the amount of $1,950.33, open plus penalty.\nWater in the amount of $98.86, open plus penalty.\nWater in the amount of $201.00, open plus penalty; owed in arrears.\nSewer in the amount of $124.00, open plus penalty.\nCCMUA in the amount of $93.00, open plus penalty.\nCCMUA in the amount of $646.34, open plus penalty; owed in arrears.",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/20/2027",
     "Sheriff #": "FR-26002426"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "WILLIAM T. BARTOLETT, JR AND MELLISA BARTOLETT, \nHUSBAND AND WIFE; AND UNITED STATES OF AMERICA,",
     "listing_status": null,
     "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-20"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Lot 5.08 (fka Lot 5 H), Block 71",
   "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
   "property_note": "Tax Sale Certificate No. 26-00047 in the amount of $1,368.52.\n2026 3rd Quarter Taxes in the amount of $1,950.33, open plus penalty.\nWater in the amount of $98.86, open plus penalty.\nWater in the amount of $201.00, open plus penalty; owed in arrears.\nSewer in the amount of $124.00, open plus penalty.\nCCMUA in the amount of $93.00, open plus penalty.\nCCMUA in the amount of $646.34, open plus penalty; owed in arrears.",
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-20",
   "sheriff_number": "FR-26002426",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-18",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-20",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 118658.46,

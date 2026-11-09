@@ -1,0 +1,52 @@
+{
+  "address": "728 GLASSBORO ROAD WILLIAMSTOWN NJ 08094",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-002752-26",
+  "current_status": "Scheduled",
+  "defendant": "KIM L. GRIFFIN, et al",
+  "description": "PROPERTY IS LOCATED IN THE TOWNSHIP OF MONROE, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY.\nDIMENSIONS (APPROX.): 144.10 x 132.90 x 146.30 x 158.16\nNEAREST CROSS STREET: JOBS LANE\nGOOD FAITH ESTIMATED UPSET PRICE: $115,751.33\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 115751.33
+  },
+  "fields": {
+    "Address": "728 GLASSBORO ROAD\nWILLIAMSTOWN NJ 08094",
+    "Approximate Judgment": "$62,869.16",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-002752-26",
+    "Defendant": "KIM L. GRIFFIN, et al",
+    "Description": "PROPERTY IS LOCATED IN THE TOWNSHIP OF MONROE, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY.\nDIMENSIONS (APPROX.): 144.10 x 132.90 x 146.30 x 158.16\nNEAREST CROSS STREET: JOBS LANE\nGOOD FAITH ESTIMATED UPSET PRICE: $115,751.33\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT 29, BLOCK 13601",
+    "Plaintiff": "US BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMAC TRUST, SERIES 2016-CTT",
+    "Property Note": "",
+    "Sales Date": "3/3/2027",
+    "Sheriff #": "F-26001645"
+  },
+  "first_seen": "2026-11-09",
+  "judgment_amount": 62869.16,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "728 GLASSBORO ROAD WILLIAMSTOWN NJ 08094",
+    "defendant": "KIM L. GRIFFIN, et al",
+    "listing_status": "Scheduled",
+    "plaintiff": "US BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMAC TRUST, SERIES 2016-CTT",
+    "sale_date": "2027-03-03"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT 29, BLOCK 13601",
+  "plaintiff": "US BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMAC TRUST, SERIES 2016-CTT",
+  "property_note": null,
+  "sale_date": "2027-03-03",
+  "sheriff_number": "F-26001645",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2027-03-03",
+      "status": "Scheduled"
+    }
+  ]
+}

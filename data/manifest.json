@@ -5,52 +5,52 @@
       "records": 779
     },
     "Bergen County, NJ": {
-      "open": 109,
-      "records": 481
+      "open": 110,
+      "records": 483
     },
     "Burlington County, NJ": {
       "open": 100,
       "records": 131
     },
     "Camden County, NJ": {
-      "open": 158,
-      "records": 817
+      "open": 162,
+      "records": 822
     },
     "Cape May County, NJ": {
-      "open": 32,
-      "records": 114
+      "open": 34,
+      "records": 116
     },
     "Cumberland County, NJ": {
-      "open": 60,
-      "records": 260
+      "open": 61,
+      "records": 261
     },
     "Essex County, NJ": {
-      "open": 171,
-      "records": 407
+      "open": 173,
+      "records": 412
     },
     "Gloucester County, NJ": {
       "open": 158,
-      "records": 427
+      "records": 428
     },
     "Hudson County, NJ": {
       "open": 71,
       "records": 149
     },
     "Hunterdon County, NJ": {
-      "open": 29,
-      "records": 48
+      "open": 30,
+      "records": 49
     },
     "Middlesex County, NJ": {
-      "open": 198,
+      "open": 199,
       "records": 693
     },
     "Monmouth County, NJ": {
       "open": 98,
-      "records": 808
+      "records": 809
     },
     "Morris County, NJ": {
-      "open": 97,
-      "records": 152
+      "open": 98,
+      "records": 153
     },
     "Passaic County, NJ": {
       "open": 117,
@@ -61,129 +61,129 @@
       "records": 122
     },
     "Union County, NJ": {
-      "open": 83,
-      "records": 406
+      "open": 87,
+      "records": 410
     }
   },
-  "generated_at": "2026-11-08T17:08:57+00:00",
+  "generated_at": "2026-11-09T21:42:11+00:00",
   "last_run": {
     "counties": {
       "Atlantic County, NJ": {
         "county_id": 25,
-        "details_fetched": 2,
-        "listing_reloads": 0,
+        "details_fetched": 45,
+        "listing_reloads": 1,
         "open_listed": 74,
-        "records_written": 1,
-        "source_last_updated": "11/8/2026 12:05:00 PM",
-        "tracked": 762
+        "records_written": 6,
+        "source_last_updated": "11/9/2026 4:25:00 PM",
+        "tracked": 745
       },
       "Bergen County, NJ": {
         "county_id": 7,
-        "details_fetched": 0,
+        "details_fetched": 35,
         "listing_reloads": 0,
-        "open_listed": 109,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:00:00 PM",
-        "tracked": 451
+        "open_listed": 110,
+        "records_written": 5,
+        "source_last_updated": "11/9/2026 4:00:00 PM",
+        "tracked": 452
       },
       "Burlington County, NJ": {
         "county_id": 3,
-        "details_fetched": 0,
+        "details_fetched": 30,
         "listing_reloads": 0,
         "open_listed": 100,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 11:01:00 AM",
+        "records_written": 3,
+        "source_last_updated": "11/9/2026 3:35:00 PM",
         "tracked": 100
       },
       "Camden County, NJ": {
         "county_id": 1,
-        "details_fetched": 0,
+        "details_fetched": 67,
         "listing_reloads": 0,
-        "open_listed": 158,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:00:00 PM",
-        "tracked": 776
+        "open_listed": 162,
+        "records_written": 22,
+        "source_last_updated": "11/9/2026 4:30:00 PM",
+        "tracked": 781
       },
       "Cape May County, NJ": {
         "county_id": 52,
-        "details_fetched": 0,
+        "details_fetched": 21,
         "listing_reloads": 0,
-        "open_listed": 32,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:00:00 PM",
-        "tracked": 109
+        "open_listed": 34,
+        "records_written": 2,
+        "source_last_updated": "11/9/2026 4:00:00 PM",
+        "tracked": 111
       },
       "Cumberland County, NJ": {
         "county_id": 6,
-        "details_fetched": 0,
+        "details_fetched": 28,
         "listing_reloads": 0,
-        "open_listed": 60,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:00:00 PM",
-        "tracked": 250
+        "open_listed": 61,
+        "records_written": 2,
+        "source_last_updated": "11/9/2026 4:30:00 PM",
+        "tracked": 251
       },
       "Essex County, NJ": {
         "county_id": 2,
-        "details_fetched": 1,
+        "details_fetched": 75,
         "listing_reloads": 0,
-        "open_listed": 171,
-        "records_written": 1,
-        "source_last_updated": "11/8/2026 11:52:00 AM",
-        "tracked": 361
+        "open_listed": 173,
+        "records_written": 24,
+        "source_last_updated": "11/9/2026 3:52:00 PM",
+        "tracked": 366
       },
       "Gloucester County, NJ": {
         "county_id": 19,
-        "details_fetched": 0,
+        "details_fetched": 101,
         "listing_reloads": 0,
         "open_listed": 158,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 11:50:00 AM",
-        "tracked": 410
+        "records_written": 5,
+        "source_last_updated": "11/9/2026 3:50:00 PM",
+        "tracked": 411
       },
       "Hudson County, NJ": {
         "county_id": 10,
-        "details_fetched": 0,
+        "details_fetched": 26,
         "listing_reloads": 0,
         "open_listed": 71,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:00:00 PM",
-        "tracked": 125
+        "records_written": 2,
+        "source_last_updated": "11/9/2026 4:00:00 PM",
+        "tracked": 124
       },
       "Hunterdon County, NJ": {
         "county_id": 32,
-        "details_fetched": 0,
+        "details_fetched": 16,
         "listing_reloads": 0,
-        "open_listed": 29,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:04:00 PM",
-        "tracked": 42
+        "open_listed": 30,
+        "records_written": 2,
+        "source_last_updated": "11/9/2026 4:34:00 PM",
+        "tracked": 43
       },
       "Middlesex County, NJ": {
         "county_id": 73,
-        "details_fetched": 0,
-        "listing_reloads": 0,
-        "open_listed": 198,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:07:00 PM",
+        "details_fetched": 119,
+        "listing_reloads": 1,
+        "open_listed": 199,
+        "records_written": 21,
+        "source_last_updated": "11/9/2026 4:32:00 PM",
         "tracked": 683
       },
       "Monmouth County, NJ": {
         "county_id": 8,
-        "details_fetched": 0,
+        "details_fetched": 40,
         "listing_reloads": 0,
         "open_listed": 98,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:00:00 PM",
-        "tracked": 785
+        "records_written": 7,
+        "source_last_updated": "11/9/2026 4:00:00 PM",
+        "tracked": 786
       },
       "Morris County, NJ": {
         "county_id": 9,
-        "details_fetched": 0,
+        "details_fetched": 76,
         "listing_reloads": 0,
-        "open_listed": 97,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:00:00 PM",
-        "tracked": 138
+        "open_listed": 98,
+        "records_written": 7,
+        "source_last_updated": "11/9/2026 4:30:00 PM",
+        "tracked": 139
       },
       "Ocean County, NJ": {
         "county_id": 85,
@@ -196,37 +196,37 @@
       },
       "Passaic County, NJ": {
         "county_id": 17,
-        "details_fetched": 0,
+        "details_fetched": 86,
         "listing_reloads": 0,
         "open_listed": 117,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:00:00 PM",
+        "records_written": 3,
+        "source_last_updated": "11/9/2026 4:40:00 PM",
         "tracked": 336
       },
       "Salem County, NJ": {
         "county_id": 20,
-        "details_fetched": 0,
+        "details_fetched": 16,
         "listing_reloads": 0,
         "open_listed": 23,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:03:00 PM",
+        "records_written": 2,
+        "source_last_updated": "11/9/2026 4:33:00 PM",
         "tracked": 118
       },
       "Union County, NJ": {
         "county_id": 15,
-        "details_fetched": 0,
+        "details_fetched": 35,
         "listing_reloads": 0,
-        "open_listed": 83,
-        "records_written": 0,
-        "source_last_updated": "11/8/2026 12:04:00 PM",
-        "tracked": 387
+        "open_listed": 87,
+        "records_written": 10,
+        "source_last_updated": "11/9/2026 4:39:00 PM",
+        "tracked": 391
       }
     },
     "detail_failures": [],
-    "details_fetched": 3,
-    "records_written": 2
+    "details_fetched": 816,
+    "records_written": 123
   },
-  "open": 1578,
-  "records": 6149,
+  "open": 1595,
+  "records": 6172,
   "source": "https://salesweb.civilview.com"
 }

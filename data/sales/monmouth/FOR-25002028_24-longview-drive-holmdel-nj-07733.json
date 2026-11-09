@@ -30,11 +30,11 @@
   "listing": {
     "address": "24 Longview Drive Holmdel NJ 07733",
     "defendant": "William A. Shea; Lori A. Shea; et al.",
-    "listing_status": "Court Ordered Plaintiff Adjournment",
+    "listing_status": "Canceled",
     "plaintiff": "Newrez LLC d/b/a Shellpoint Mortgage Servicing",
     "sale_date": "2026-11-09"
   },
-  "listing_status": "Court Ordered Plaintiff Adjournment",
+  "listing_status": "Canceled",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "LOT 32.24 BLOCK 29 TAX MAP OF TOWNSHIP OF HOLMDEL",
@@ -44,6 +44,10 @@
   "sheriff_number": "FOR-25002028",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-09",
+      "status": "Canceled"
+    },
     {
       "date": "2026-11-09",
       "status": "Court Ordered Plaintiff Adjournment"

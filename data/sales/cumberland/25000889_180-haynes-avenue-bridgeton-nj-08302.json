@@ -4,7 +4,7 @@
   "county": "Cumberland County, NJ",
   "county_id": 6,
   "court_case_number": "F00171023",
-  "current_status": "Plaintiff Adjourned to",
+  "current_status": "Cancelled - No Commission",
   "deed": null,
   "deed_address": "LOT 49 BLOCK 173",
   "defendant": "LINDA GAULT ET AL",
@@ -75,6 +75,10 @@
     {
       "date": "2026-11-18",
       "status": "Plaintiff Adjourned to"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Cancelled - No Commission"
     }
   ],
   "upset_amount": 315483.7,

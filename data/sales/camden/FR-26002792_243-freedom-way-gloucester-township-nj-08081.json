@@ -1,0 +1,49 @@
+{
+  "address": "243 FREEDOM WAY GLOUCESTER TOWNSHIP NJ 08081",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00291326",
+  "current_status": "Scheduled",
+  "defendant": "KENITRA D. PITTS, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "243 FREEDOM WAY\nGLOUCESTER TOWNSHIP NJ 08081",
+    "Approx. Upset*": "$342,255.97",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00291326",
+    "Defendant": "KENITRA D. PITTS, ET AL.",
+    "Parcel #": "BLOCK: 18322 LOT: 36",
+    "Plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "Property Note": "PRO CAP 8 FBO FIRSTRUST BANK holds a tax sale certificate in the amount of $520.26 plus subsequent taxes and interest as of 10/05/2026.\nGloucester Twp Sewer Dept holds a claim in the amount of $46.00 and $138.00 plus penalty as of 10/05/2026.\nCCMUA holds a claim in the amount of $93.00 and $371.36 plus penalty as of 10/05/2026.",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002792"
+  },
+  "first_seen": "2026-11-09",
+  "listing": {
+    "address": "243 FREEDOM WAY GLOUCESTER TOWNSHIP NJ 08081",
+    "defendant": "KENITRA D. PITTS, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "BLOCK: 18322 LOT: 36",
+  "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+  "property_note": "PRO CAP 8 FBO FIRSTRUST BANK holds a tax sale certificate in the amount of $520.26 plus subsequent taxes and interest as of 10/05/2026.\nGloucester Twp Sewer Dept holds a claim in the amount of $46.00 and $138.00 plus penalty as of 10/05/2026.\nCCMUA holds a claim in the amount of $93.00 and $371.36 plus penalty as of 10/05/2026.",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002792",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 342255.97,
+  "upset_amount_label": "Approx. Upset*"
+}

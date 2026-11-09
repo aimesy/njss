@@ -1,0 +1,52 @@
+{
+  "address": "869 TERNAY AVENUE SCOTCH PLAINS NJ 07076",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00453826",
+  "current_status": "Scheduled",
+  "defendant": "LILLIAN B. JACKSON A/K/A LILLIAN BRENDA JACKSON; SUNNOVA TE MANAGEMENT LLC",
+  "description": "LOT 19 FKA 29B BLOCK 7302 FKA 187",
+  "extracted": {
+    "block": "7302",
+    "lot": "19"
+  },
+  "fields": {
+    "Address": "869 TERNAY AVENUE\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$317,967.07",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00453826",
+    "Defendant": "LILLIAN B. JACKSON A/K/A LILLIAN BRENDA JACKSON; SUNNOVA TE MANAGEMENT LLC",
+    "Description": "LOT 19 FKA 29B BLOCK 7302 FKA 187",
+    "Parcel #": "LOT 19 FKA 29B BLOCK 7302 FKA 187",
+    "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR SEQUOIA MORTGAGE TRUST 2004-6",
+    "Property Note": "",
+    "Sales Date": "12/16/2026",
+    "Sheriff #": "CH-26002586"
+  },
+  "first_seen": "2026-11-09",
+  "listing": {
+    "address": "869 TERNAY AVENUE SCOTCH PLAINS NJ 07076",
+    "defendant": "LILLIAN B. JACKSON A/K/A LILLIAN BRENDA JACKSON; SUNNOVA TE MANAGEMENT LLC",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR SEQUOIA MORTGAGE TRUST 2004-6",
+    "sale_date": "2026-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 19 FKA 29B BLOCK 7302 FKA 187",
+  "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR SEQUOIA MORTGAGE TRUST 2004-6",
+  "property_note": null,
+  "sale_date": "2026-12-16",
+  "sheriff_number": "CH-26002586",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-12-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 317967.07,
+  "upset_amount_label": "Approx. Upset*"
+}

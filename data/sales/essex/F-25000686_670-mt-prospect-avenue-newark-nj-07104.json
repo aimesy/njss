@@ -1,0 +1,62 @@
+{
+  "address": "670 MT. PROSPECT AVENUE NEWARK NJ 07104",
+  "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973 575-0707",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00117422",
+  "current_status": "WRIT EXPIRED",
+  "defendant": "DONNA BAZAN; ET AL.",
+  "description": "LOT: 8 BLOCK: 737\nAPPROXIMATE DIMENSIONS: 27FT X 130FT\nNEAREST CROSS STREET: HELLER PKWY\nTHIS IS A COMMERICAL PROPERTY\n2024 Taxes: $8,191.66 OPEN PLUS PENALTY; 2025 Qtr 1 Due: 02/01/2025 $2,047.92 OPEN; 2025 Qtr 2 Due: 05/01/2025 $2,047.92 OPEN\nWater: Newark Water Dept. 920 Broad Street - Room 117 Newark, NJ 07102 973-733-6370 Acct: 4015225715 To: 01/07/2025 $439.36 OPEN PLUS PENALTY; Liens: Year: PART OF 2023 Type: 3RD PARTY TAX, SID Amount: $5,711.66. Cert No.: 2024-0448 Sold: 12/06/2024 To: TAX LIEN FUND LP\nLien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED m N.J.S.A 54:5-54. Special Improvement District: 2024$180.46 OPEN PLUS PENALTY. Special Improvement District: 2025 1ST QTR $96.29 OPEN DUE DATE: 02/01/2025.\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+  "extracted": {
+    "block": "737",
+    "lot": "8"
+  },
+  "fields": {
+    "Address": "670 MT. PROSPECT AVENUE\nNEWARK NJ 07104",
+    "Approx. Upset*": "$379,424.71",
+    "Attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973 575-0707",
+    "Court Case #": "F00117422",
+    "Defendant": "DONNA BAZAN; ET AL.",
+    "Description": "LOT: 8 BLOCK: 737\nAPPROXIMATE DIMENSIONS: 27FT X 130FT\nNEAREST CROSS STREET: HELLER PKWY\nTHIS IS A COMMERICAL PROPERTY\n2024 Taxes: $8,191.66 OPEN PLUS PENALTY; 2025 Qtr 1 Due: 02/01/2025 $2,047.92 OPEN; 2025 Qtr 2 Due: 05/01/2025 $2,047.92 OPEN\nWater: Newark Water Dept. 920 Broad Street - Room 117 Newark, NJ 07102 973-733-6370 Acct: 4015225715 To: 01/07/2025 $439.36 OPEN PLUS PENALTY; Liens: Year: PART OF 2023 Type: 3RD PARTY TAX, SID Amount: $5,711.66. Cert No.: 2024-0448 Sold: 12/06/2024 To: TAX LIEN FUND LP\nLien amount is subject to subsequent taxes + interest. Must call prior to settlement for redemption figures. THE REDEMPTION OF LIENS IS OUTLINED m N.J.S.A 54:5-54. Special Improvement District: 2024$180.46 OPEN PLUS PENALTY. Special Improvement District: 2025 1ST QTR $96.29 OPEN DUE DATE: 02/01/2025.\n*SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.",
+    "Parcel #": "",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE C-BASS MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-MX1",
+    "Property Note": "",
+    "Sales Date": "1/16/2027",
+    "Sheriff #": "F-25000686"
+  },
+  "first_seen": "2026-11-09",
+  "listing": {
+    "address": "670 MT. PROSPECT AVENUE NEWARK NJ 07104",
+    "defendant": "DONNA BAZAN; ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE C-BASS MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-MX1",
+    "sale_date": "2027-01-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE C-BASS MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-MX1",
+  "property_note": null,
+  "sale_date": "2027-01-16",
+  "sheriff_number": "F-25000686",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-04-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-15",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2027-01-16",
+      "status": "WRIT EXPIRED"
+    }
+  ],
+  "upset_amount": 379424.71,
+  "upset_amount_label": "Approx. Upset*"
+}

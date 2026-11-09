@@ -1,0 +1,49 @@
+{
+  "address": "100 EAST ELM AVENUE BOROUGH OF LINDENWOLD NJ 08021",
+  "attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+  "attorney_phone": "732-902-5399",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F01203925",
+  "current_status": "Scheduled",
+  "defendant": "KRISTIN SNEAD; EARL BENJAMIN KENDALL; MR. KRISTIN SNEAD, HUSBAND OF KRISTIN SNEAD; ASPEN D. STEVENSON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; UNITED STATES OF AMERICA AND SUNNOVA TE MANAGEMENT LLC,",
+  "extracted": {},
+  "fields": {
+    "Address": "100 EAST ELM AVENUE\nBOROUGH OF LINDENWOLD NJ 08021",
+    "Approx. Upset*": "$154,364.05",
+    "Attorney": "MCCALLA, RAYMER, LEIBERT, PIERCE, LLC",
+    "Attorney Phone": "732-902-5399",
+    "Court Case #": "F01203925",
+    "Defendant": "KRISTIN SNEAD; EARL BENJAMIN KENDALL; MR. KRISTIN SNEAD, HUSBAND OF KRISTIN SNEAD; ASPEN D. STEVENSON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; UNITED STATES OF AMERICA AND SUNNOVA TE MANAGEMENT LLC,",
+    "Parcel #": "LOT 17, BLOCK 143",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+    "Property Note": "Sewer: Acct: 1236 0 01/01/2027 - 03/31/2027 $50.00 OPEN AND DUE\n01/01/2027 $400.00 OPEN PLUS PENALTY; OWED m ARREARS\nVacant lot charge: Property registration fee $500.00 OPEN AND DUE 11/1/2026\nCCMUA: CCMUA Acct: 220014435 10/01/2026 12/31/2026 $93.00 OPEN\nAND DUE 11/15/2026 $737.69 OPEN PLUS PENALTY; OWED IN ARREARS\nFirst Mortgage iao. $158,529.00",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002789"
+  },
+  "first_seen": "2026-11-09",
+  "listing": {
+    "address": "100 EAST ELM AVENUE BOROUGH OF LINDENWOLD NJ 08021",
+    "defendant": "KRISTIN SNEAD; EARL BENJAMIN KENDALL; MR. KRISTIN SNEAD, HUSBAND OF KRISTIN SNEAD; ASPEN D. STEVENSON; STATE OF NEW JERSEY; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; UNITED STATES OF AMERICA AND SUNNOVA TE MANAGEMENT LLC,",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "LOT 17, BLOCK 143",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION,",
+  "property_note": "Sewer: Acct: 1236 0 01/01/2027 - 03/31/2027 $50.00 OPEN AND DUE\n01/01/2027 $400.00 OPEN PLUS PENALTY; OWED m ARREARS\nVacant lot charge: Property registration fee $500.00 OPEN AND DUE 11/1/2026\nCCMUA: CCMUA Acct: 220014435 10/01/2026 12/31/2026 $93.00 OPEN\nAND DUE 11/15/2026 $737.69 OPEN PLUS PENALTY; OWED IN ARREARS\nFirst Mortgage iao. $158,529.00",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002789",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 154364.05,
+  "upset_amount_label": "Approx. Upset*"
+}

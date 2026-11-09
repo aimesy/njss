@@ -1,0 +1,52 @@
+{
+  "address": "28 W ELIZABETH AVENUE APT C4 LINDEN NJ 07036",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00758226",
+  "current_status": "Scheduled",
+  "defendant": "COLLEEN KING; MR. KING, SPOUSE OF COLLEEN KING; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+  "description": "LOT 11 CC04 BLOCK 253",
+  "extracted": {
+    "block": "253",
+    "lot": "11"
+  },
+  "fields": {
+    "Address": "28 W ELIZABETH AVENUE\nAPT C4\nLINDEN NJ 07036",
+    "Approx. Upset*": "$117,542.41",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Court Case #": "F00758226",
+    "Defendant": "COLLEEN KING; MR. KING, SPOUSE OF COLLEEN KING; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+    "Description": "LOT 11 CC04 BLOCK 253",
+    "Parcel #": "LOT 11 CC04 BLOCK 253",
+    "Plaintiff": "ROCKET MORTGAGE, LLC",
+    "Property Note": "",
+    "Sales Date": "12/16/2026",
+    "Sheriff #": "CH-26002587"
+  },
+  "first_seen": "2026-11-09",
+  "listing": {
+    "address": "28 W ELIZABETH AVENUE APT C4 LINDEN NJ 07036",
+    "defendant": "COLLEEN KING; MR. KING, SPOUSE OF COLLEEN KING; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC",
+    "sale_date": "2026-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 11 CC04 BLOCK 253",
+  "plaintiff": "ROCKET MORTGAGE, LLC",
+  "property_note": null,
+  "sale_date": "2026-12-16",
+  "sheriff_number": "CH-26002587",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-12-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 117542.41,
+  "upset_amount_label": "Approx. Upset*"
+}

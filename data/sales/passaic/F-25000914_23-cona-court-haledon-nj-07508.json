@@ -4,7 +4,7 @@
   "county": "Passaic County, NJ",
   "county_id": 17,
   "court_case_number": "F 001109 24 CTL#162978",
-  "current_status": "Adjourned - Plaintiff",
+  "current_status": "Bankruptcy",
   "defendant": "OMAR VAZQUEZ ET ALS",
   "description": "Dimensions of Lot:.130 AC\nNearest Cross Street: Burhans Ave\nEstimated upset bid amount: $447,900.00 plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\n* SUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON.\nWater: Haledon Water Dept. 510 Belmont Ave. Haledon NJ 07508 973-942-6538 Acct: 1384 to: 05/14/2026 $187.75 OPEN $322.29 OPEN",
   "extracted": {
@@ -69,6 +69,10 @@
     {
       "date": "2026-11-17",
       "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-11-17",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 375299.41,

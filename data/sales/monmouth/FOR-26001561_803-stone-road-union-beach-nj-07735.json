@@ -30,11 +30,11 @@
   "listing": {
     "address": "803 Stone Road Union Beach NJ 07735",
     "defendant": "Kelly A. McGreevy-Odom, et al",
-    "listing_status": "Adjournment Defendant",
+    "listing_status": "Bankrupt",
     "plaintiff": "The Bank Of New York Mellon F/K/A The Bank Of New York, As Trustee (CWABS 2006-SD3)",
     "sale_date": "2026-11-09"
   },
-  "listing_status": "Adjournment Defendant",
+  "listing_status": "Bankrupt",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot 14, Block 133 Tax Map of the Borough of Union Beach",
@@ -44,6 +44,10 @@
   "sheriff_number": "FOR-26001561",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-09",
+      "status": "Bankrupt"
+    },
     {
       "date": "2026-11-09",
       "status": "Adjournment Defendant"

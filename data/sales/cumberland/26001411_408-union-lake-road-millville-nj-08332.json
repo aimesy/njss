@@ -1,0 +1,54 @@
+{
+  "address": "408 UNION LAKE ROAD MILLVILLE NJ 08332",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+  "county": "Cumberland County, NJ",
+  "county_id": 6,
+  "court_case_number": "F00199226",
+  "current_status": "Scheduled",
+  "deed": null,
+  "deed_address": "LOT 3 BLOCK 252 FKA 206.G",
+  "defendant": "PAUL HONAKER ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "408 UNION LAKE ROAD\nMILLVILLE NJ 08332",
+    "Approx. Judgment*": "$322,270.74",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+    "Court Case #": "F00199226",
+    "Deed": "",
+    "Deed Address": "LOT 3 BLOCK 252 FKA 206.G",
+    "Defendant": "PAUL HONAKER ET AL",
+    "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "Priors": "",
+    "Property Note": "",
+    "Sales Date": "12/30/2026",
+    "Sheriff #": "26001411",
+    "Upset Amount": "$351,990.85"
+  },
+  "first_seen": "2026-11-09",
+  "judgment_amount": 322270.74,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "408 UNION LAKE ROAD MILLVILLE NJ 08332",
+    "defendant": "PAUL HONAKER ET AL",
+    "listing_status": null,
+    "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+    "sale_date": "2026-12-30"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Cumberland County, NJ)",
+  "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+  "priors": null,
+  "property_note": null,
+  "sale_date": "2026-12-30",
+  "sheriff_number": "26001411",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+  "status_history": [
+    {
+      "date": "2026-12-30",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 351990.85,
+  "upset_amount_label": "Upset Amount"
+}

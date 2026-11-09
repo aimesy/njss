@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F754423",
-  "current_status": "Scheduled",
+  "current_status": "Bankruptcy",
   "defendant": "NEWARK REALTY PLUS, LLC",
   "description": "LOT: 97 BLOCK: 4063\nAPPROXIMATE DIMENSIONS: 33.4 X 100\nNEAREST CROSS STREET: SOUTH ORANGE AVE\nGOOD FAITH ESTIMATE OF UPSET PRICE: $898,391.56. OCCUPANCY STATUS: UNKNOWN\nPRIOR LIENS/ENCUMBRANCES - WATER OPEN PLUS PENALTY $3,759.70; TOTAL AS OF SEPTEMBER 21, 2026: $3,759.70.\nBEGINNING AT A POINT IN THE WESTERLY LINE OF BOYLAN STREET, DISTANT 884.87 FEET SOUTHERLY FRM THE INTERSECTION OF THE WESTERLY LINE OF BOYLAN STREET WITH THE SOUTHERLY LINE OF SOUTH ORANGE AVENUE AND RUNNING; THENCE",
   "extracted": {
@@ -37,7 +37,7 @@
     "sale_date": "2026-11-10"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
@@ -49,6 +49,10 @@
     {
       "date": "2026-11-10",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 758204.82,

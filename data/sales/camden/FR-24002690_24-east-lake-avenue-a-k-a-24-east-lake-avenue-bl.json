@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00222124",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "JOSE ORTIZ, FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF JOSE ORTIZ, ELIZABETH RAMIREZ, FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF ELIZABETH RAMIREZ; UNITED STATES OF AMERICA; DRIVE NEW JERSEY INSURANCE COMPANY, SUBROGEE GALINDEZ HERNANDEZ; NATIONAL CONTINENTIAL INSURANCE COMPANY, SUBROGEE LEVI BELL JR; DAIMLER CHRYSLER FINANCIAL SERVICES AMERICAS LLC; STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY, SUBROGEE JOHN YI; MIDLAND FUNDING LLC, ASSIGNEE CHASE BANK USA NA; WEINBERGER LAW GROUP LLC; EQUABLE ASCENT FINANCIAL LLC;",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Lot; 2; Block: 11706",
     "Plaintiff": "BANKUNITED, N.A.,",
     "Property Note": "Pursuant to a municipal tax search dated September 25, 2026.\nSubject to: 2026 4th quarter taxes due 11/1/2026, $2,304.58 OPEN\n2027 quarter taxes due 2/1/2027, $2,174.27 OPEN\nSewer: Acct. 120028 0, 1011/2026-12131/2026, $46.00 OPEN AND DUD 11/1/2026. CCMUA: Acct. 150089076, 9/1/2026-11/30/2026, $93.00 OPEN AND DUE 10/15/2026\nProperty Registration: 314/2026-3/3/2027, $800.00 OPEN PLUS PENALTY;",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/20/2027",
     "Sheriff #": "FR-24002690"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "JOSE ORTIZ, FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF JOSE ORTIZ, \nELIZABETH RAMIREZ, FICTITIOUS SPOUSE OR CIVIL UNION PARTNER OF ELIZABETH \nRAMIREZ; UNITED STATES OF AMERICA; DRIVE NEW JERSEY INSURANCE COMPANY, \nSUBROGEE GALINDEZ HERNANDEZ; NATIONAL CONTINENTIAL INSURANCE COMPANY, \nSUBROGEE LEVI BELL JR; DAIMLER CHRYSLER FINANCIAL SERVICES AMERICAS LLC; \nSTATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY, SUBROGEE JOHN YI; \nMIDLAND FUNDING LLC, ASSIGNEE CHASE BANK USA NA; WEINBERGER LAW GROUP \nLLC; EQUABLE ASCENT FINANCIAL LLC;",
     "listing_status": null,
     "plaintiff": "BANKUNITED, N.A.,",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-20"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "Lot; 2; Block: 11706",
   "plaintiff": "BANKUNITED, N.A.,",
   "property_note": "Pursuant to a municipal tax search dated September 25, 2026.\nSubject to: 2026 4th quarter taxes due 11/1/2026, $2,304.58 OPEN\n2027 quarter taxes due 2/1/2027, $2,174.27 OPEN\nSewer: Acct. 120028 0, 1011/2026-12131/2026, $46.00 OPEN AND DUD 11/1/2026. CCMUA: Acct. 150089076, 9/1/2026-11/30/2026, $93.00 OPEN AND DUE 10/15/2026\nProperty Registration: 314/2026-3/3/2027, $800.00 OPEN PLUS PENALTY;",
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-20",
   "sheriff_number": "FR-24002690",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-11-18",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-20",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 305542.8,

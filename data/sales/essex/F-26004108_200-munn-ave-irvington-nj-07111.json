@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00218726",
-  "current_status": "Scheduled",
+  "current_status": "Bankruptcy",
   "defendant": "200 MUNN AVE LLC; ET. AL.",
   "description": "LOT(S): 33 BLOCK: 60\nDIMENSIONS (APPROX.): 33.00 X 100.00\nNEAREST CROSS STREET: GROVE TERRACE\nGOOD FAITH ESTIMATED UPSET PRICE: $795,350.80\nOCCUPANCY STATUS: OWNER OCCUPIED\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
   "extracted": {
@@ -36,7 +36,7 @@
     "sale_date": "2026-11-10"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
@@ -48,6 +48,10 @@
     {
       "date": "2026-11-10",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 741030.38,
