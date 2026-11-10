@@ -22,7 +22,7 @@
     "Parcel #": "Tax Lot 2 in Block 49.10",
     "Plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2020-RPL2",
     "Property Note": "",
-    "Sales Date": "11/10/2026",
+    "Sales Date": "12/1/2026",
     "Sheriff #": "F-26000302"
   },
   "first_seen": "2026-10-12",
@@ -31,7 +31,7 @@
     "defendant": "LUIS A. ORTIZ, ET ALS.",
     "listing_status": null,
     "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2020-RPL2",
-    "sale_date": "2026-11-10"
+    "sale_date": "2026-12-01"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -39,7 +39,7 @@
   "parcel": "Tax Lot 2 in Block 49.10",
   "plaintiff": "GS MORTGAGE-BACKED SECURITIES TRUST 2020-RPL2",
   "property_note": null,
-  "sale_date": "2026-11-10",
+  "sale_date": "2026-12-01",
   "sheriff_number": "F-26000302",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -61,6 +61,10 @@
     },
     {
       "date": "2026-11-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-12-01",
       "status": "Adjourned - Court"
     }
   ],

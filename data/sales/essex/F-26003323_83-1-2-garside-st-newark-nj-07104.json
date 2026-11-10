@@ -5,7 +5,7 @@
   "county": "Essex County, NJ",
   "county_id": 2,
   "court_case_number": "F00082525",
-  "current_status": "Adjourned Defendant",
+  "current_status": "Bankruptcy",
   "defendant": "NEWARK GARSIDE LLC; ET. ALS.",
   "description": "LOT(S) 73 BLOCK 489\nDIMENSIONS OF THE LOT (APPROXIMATELY): 16.7 X 100\nNEAREST CROSS STREET: VICTORIA AVENUE\nTHE PLAINTIFF'S GOOD FAITH ESTIMATE IS $847,613.14. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS IS OCCUPIED",
   "extracted": {
@@ -34,7 +34,7 @@
     "sale_date": "2026-11-10"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Essex County, NJ)",
   "parcel": null,
   "plaintiff": "HOMEXPRESS MORTGAGE CORPORATION",
@@ -54,6 +54,10 @@
     {
       "date": "2026-11-10",
       "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "Bankruptcy"
     }
   ],
   "upset_amount": 766129.97,

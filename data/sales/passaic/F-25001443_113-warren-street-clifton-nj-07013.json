@@ -23,7 +23,7 @@
     "Parcel #": "Tax Lot 11 Block 22.15",
     "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR RCF 2 ACQUISTION TRUST",
     "Property Note": "",
-    "Sales Date": "11/10/2026",
+    "Sales Date": "12/8/2026",
     "Sheriff #": "F-25001443"
   },
   "first_seen": "2026-10-12",
@@ -32,7 +32,7 @@
     "defendant": "MISE ANEVSKI, ET AL",
     "listing_status": null,
     "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR RCF 2 ACQUISTION TRUST",
-    "sale_date": "2026-11-10"
+    "sale_date": "2026-12-08"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -40,7 +40,7 @@
   "parcel": "Tax Lot 11 Block 22.15",
   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR RCF 2 ACQUISTION TRUST",
   "property_note": null,
-  "sale_date": "2026-11-10",
+  "sale_date": "2026-12-08",
   "sheriff_number": "F-25001443",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -78,6 +78,10 @@
     },
     {
       "date": "2026-11-10",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-12-08",
       "status": "Adjourned - Court"
     }
   ],

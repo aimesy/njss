@@ -32,12 +32,12 @@
   "listing": {
     "address": "1039 Norwood Avenue Long Branch NJ 07740",
     "defendant": "1039 Norwood Holdings, LLC; et al.",
-    "listing_status": "Scheduled",
+    "listing_status": "Purchased - Buy Back",
     "plaintiff": "Bil-Man Asset Management LLC",
     "sale_date": "2026-11-09"
   },
-  "listing_status": "Scheduled",
-  "on_open_list": true,
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 7, Block 5, Tax Map of City of Long Branch",
   "plaintiff": "Bil-Man Asset Management LLC",
@@ -46,6 +46,10 @@
   "sheriff_number": "FOR-26001903",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-09",
+      "status": "Purchased - Buy Back"
+    },
     {
       "date": "2026-11-09",
       "status": "Scheduled"

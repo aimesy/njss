@@ -22,7 +22,7 @@
     "Parcel #": "Tax Lot 13 FKA lot 19 Block 302 FKA 58",
     "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
     "Property Note": "",
-    "Sales Date": "11/17/2026",
+    "Sales Date": "12/15/2026",
     "Sheriff #": "F-26001156"
   },
   "first_seen": "2026-10-12",
@@ -31,7 +31,7 @@
     "defendant": "TAVERIUS WILKINS, ET ALS.",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-    "sale_date": "2026-11-17"
+    "sale_date": "2026-12-15"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -39,7 +39,7 @@
   "parcel": "Tax Lot 13 FKA lot 19 Block 302 FKA 58",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
   "property_note": null,
-  "sale_date": "2026-11-17",
+  "sale_date": "2026-12-15",
   "sheriff_number": "F-26001156",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -49,6 +49,10 @@
     },
     {
       "date": "2026-11-17",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2026-12-15",
       "status": "Adjourned - Plaintiff"
     }
   ],

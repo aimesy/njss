@@ -21,7 +21,7 @@
     "Parcel #": "Tax Lot: 11 Block: 1296.01",
     "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST",
     "Property Note": "",
-    "Sales Date": "11/10/2026",
+    "Sales Date": "12/8/2026",
     "Sheriff #": "F-26001096"
   },
   "first_seen": "2026-10-12",
@@ -30,7 +30,7 @@
     "defendant": "ROGER NELSON, CAVALRY SPV I LLC ASSIGNEE CITIBANK, NA, LINEAR MORTGAGE LLC",
     "listing_status": null,
     "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST",
-    "sale_date": "2026-11-10"
+    "sale_date": "2026-12-08"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -38,7 +38,7 @@
   "parcel": "Tax Lot: 11 Block: 1296.01",
   "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST",
   "property_note": null,
-  "sale_date": "2026-11-10",
+  "sale_date": "2026-12-08",
   "sheriff_number": "F-26001096",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -48,6 +48,10 @@
     },
     {
       "date": "2026-11-10",
+      "status": "Adjourned - Defendant"
+    },
+    {
+      "date": "2026-12-08",
       "status": "Adjourned - Defendant"
     }
   ],
