@@ -34,7 +34,7 @@
     "sale_date": "2026-12-02"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Union County, NJ)",
   "parcel": "LOT 21 BLOCK 7403",
   "plaintiff": "FIFTH THIRD BANK N.A.",
@@ -43,6 +43,10 @@
   "sheriff_number": "CH-26002440",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
   "status_history": [
+    {
+      "date": "2026-11-10",
+      "status": "Cancelled"
+    },
     {
       "date": "2026-12-02",
       "status": "Scheduled"

@@ -1,0 +1,57 @@
+{
+  "address": "812 WEST 3RD AVENUE RUNNEMEDE NJ 08078",
+  "attorney": "STERN & EISENBERG, PC",
+  "attorney_phone": "(609) 397-9200",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00077324",
+  "current_status": "Settled",
+  "defendant": "ROBERT M. FOSTER, ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "812 WEST 3RD AVENUE\nRUNNEMEDE NJ 08078",
+    "Approx. Upset*": "$402,897.99",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Attorney Phone": "(609) 397-9200",
+    "Court Case #": "F00077324",
+    "Defendant": "ROBERT M. FOSTER, ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR\nIN INTEREST TO JPMORGAN CHASE BANK, N.A. AS INDENTURE TUSTEE FOR\nNOVASTAR MORTGAGE FUNDING TRUST, SERIES 2006-1, NOVASTAR HOME EQUITY\nLOAN ASSET-BACKED CERTIFICATES, SERIES 2006-1,",
+    "Property Note": "",
+    "Sales Date": "11/10/2026",
+    "Sheriff #": "FR-24002406"
+  },
+  "first_seen": "2026-11-11",
+  "listing": {
+    "address": "812 WEST 3RD AVENUE RUNNEMEDE NJ 08078",
+    "defendant": "ROBERT M. FOSTER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR \nIN INTEREST TO JPMORGAN CHASE BANK, N.A. AS INDENTURE TUSTEE FOR \nNOVASTAR MORTGAGE FUNDING TRUST, SERIES 2006-1, NOVASTAR HOME EQUITY \nLOAN ASSET-BACKED CERTIFICATES, SERIES 2006-1,",
+    "sale_date": "2026-11-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS SUCCESSOR IN INTEREST TO JPMORGAN CHASE BANK, N.A. AS INDENTURE TUSTEE FOR NOVASTAR MORTGAGE FUNDING TRUST, SERIES 2006-1, NOVASTAR HOME EQUITY LOAN ASSET-BACKED CERTIFICATES, SERIES 2006-1,",
+  "property_note": null,
+  "sale_date": "2026-11-10",
+  "sheriff_number": "FR-24002406",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2024-11-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-15",
+      "status": "Court Adjournment"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "Settled"
+    }
+  ],
+  "upset_amount": 402897.99,
+  "upset_amount_label": "Approx. Upset*"
+}
