@@ -1,0 +1,49 @@
+{
+  "address": "300 WHITE HORSE PIKE OAKLYN NJ 08107",
+  "attorney": "DEMBO, BROWN & BURNS LLP",
+  "attorney_phone": "856-354-8866 EXT. 117",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F627126",
+  "current_status": "Scheduled",
+  "defendant": "COTTON CANDY REAL ESTATE LLC; UNITED HEARTS EDUCATION CENTER 2 LLC, AND STATE OF NEW JERSEY,",
+  "extracted": {},
+  "fields": {
+    "Address": "300 WHITE HORSE PIKE\nOAKLYN NJ 08107",
+    "Approx. Upset*": "$371,805.59",
+    "Attorney": "DEMBO, BROWN & BURNS LLP",
+    "Attorney Phone": "856-354-8866 EXT. 117",
+    "Court Case #": "F627126",
+    "Defendant": "COTTON CANDY REAL ESTATE LLC; UNITED HEARTS EDUCATION CENTER 2 LLC, AND STATE OF NEW JERSEY,",
+    "Parcel #": "Block 50, Lot 1 1 (OAKLYN BOROUGH)",
+    "Plaintiff": "WILMINGTON SAVING FUND SOCIETY, FSB,",
+    "Property Note": "** 3 RD AND 4TH Qtr. 2026 taxes of approximately $7,324.46\n** Sewer charges as of 10-1-2026 of $409.20\n** Special Charges of $930.05",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002848"
+  },
+  "first_seen": "2026-11-13",
+  "listing": {
+    "address": "300 WHITE HORSE PIKE OAKLYN NJ 08107",
+    "defendant": "COTTON CANDY REAL ESTATE LLC; UNITED HEARTS EDUCATION CENTER 2 LLC, AND STATE OF NEW JERSEY,",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVING FUND SOCIETY, FSB,",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Block 50, Lot 1 1 (OAKLYN BOROUGH)",
+  "plaintiff": "WILMINGTON SAVING FUND SOCIETY, FSB,",
+  "property_note": "** 3 RD AND 4TH Qtr. 2026 taxes of approximately $7,324.46\n** Sewer charges as of 10-1-2026 of $409.20\n** Special Charges of $930.05",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002848",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 371805.59,
+  "upset_amount_label": "Approx. Upset*"
+}

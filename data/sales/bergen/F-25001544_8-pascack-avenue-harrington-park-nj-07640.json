@@ -21,7 +21,7 @@
     "Parcel #": "LOT 9, BLOCK 1502",
     "Plaintiff": "HOME PROS FUNDING LLC",
     "Property Note": "",
-    "Sales Date": "11/13/2026",
+    "Sales Date": "12/18/2026",
     "Sheriff #": "F-25001544"
   },
   "first_seen": "2026-10-12",
@@ -30,7 +30,7 @@
     "defendant": "SCHAFFER HOMES 1, LLC, NATIONAL BUILDING SUPPLY CORP. A DIVISION OF DISTRIBUTION, INC, ET AL",
     "listing_status": null,
     "plaintiff": "HOME PROS FUNDING LLC",
-    "sale_date": "2026-11-13"
+    "sale_date": "2026-12-18"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -38,7 +38,7 @@
   "parcel": "LOT 9, BLOCK 1502",
   "plaintiff": "HOME PROS FUNDING LLC",
   "property_note": null,
-  "sale_date": "2026-11-13",
+  "sale_date": "2026-12-18",
   "sheriff_number": "F-25001544",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
   "status_history": [
@@ -100,6 +100,10 @@
     },
     {
       "date": "2026-11-13",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-12-18",
       "status": "Adjourned - Court"
     }
   ],

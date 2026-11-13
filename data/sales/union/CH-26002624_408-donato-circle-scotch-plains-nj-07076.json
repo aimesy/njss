@@ -1,0 +1,52 @@
+{
+  "address": "408 DONATO CIRCLE SCOTCH PLAINS NJ 07076",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00759418",
+  "current_status": "Scheduled",
+  "defendant": "GORDON C. HENWOOD, MRS. GORDON C. HENWOOD, SPOUSE OF GORDON C. HENWOOD, RESERVE AT SCOTCH PLAINS CONDOMINIUM ASSOCIATION, INC., STATE OF NEW JERSEY, SHARON HOLDING CORP, AND METUCHEN GOLF & COUNTY CLUB",
+  "description": "LOT 3 C0408 BLOCK 4901.04",
+  "extracted": {
+    "block": "4901.04",
+    "lot": "3"
+  },
+  "fields": {
+    "Address": "408 DONATO CIRCLE\nSCOTCH PLAINS NJ 07076",
+    "Approx. Upset*": "$416,535.96",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F00759418",
+    "Defendant": "GORDON C. HENWOOD, MRS. GORDON C. HENWOOD, SPOUSE OF GORDON C. HENWOOD, RESERVE AT SCOTCH PLAINS CONDOMINIUM ASSOCIATION, INC., STATE OF NEW JERSEY, SHARON HOLDING CORP, AND METUCHEN GOLF & COUNTY CLUB",
+    "Description": "LOT 3 C0408 BLOCK 4901.04",
+    "Parcel #": "LOT 3 C0408 BLOCK 4901.04",
+    "Plaintiff": "WILMINGTON SAVING FUND SOCIETY, FSB, ACTING NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF SOUTHSIDE NSP TRUST 2017-1",
+    "Property Note": "",
+    "Sales Date": "12/16/2026",
+    "Sheriff #": "CH-26002624"
+  },
+  "first_seen": "2026-11-13",
+  "listing": {
+    "address": "408 DONATO CIRCLE SCOTCH PLAINS NJ 07076",
+    "defendant": "GORDON C. HENWOOD, MRS. GORDON C. HENWOOD, SPOUSE OF GORDON C. HENWOOD, RESERVE AT SCOTCH PLAINS CONDOMINIUM ASSOCIATION, INC., STATE OF NEW JERSEY, SHARON HOLDING CORP, AND METUCHEN GOLF & COUNTY CLUB",
+    "listing_status": null,
+    "plaintiff": "WILMINGTON SAVING FUND SOCIETY, FSB, ACTING NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF SOUTHSIDE NSP TRUST 2017-1",
+    "sale_date": "2026-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 3 C0408 BLOCK 4901.04",
+  "plaintiff": "WILMINGTON SAVING FUND SOCIETY, FSB, ACTING NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF SOUTHSIDE NSP TRUST 2017-1",
+  "property_note": null,
+  "sale_date": "2026-12-16",
+  "sheriff_number": "CH-26002624",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-12-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 416535.96,
+  "upset_amount_label": "Approx. Upset*"
+}

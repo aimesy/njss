@@ -1,7 +1,7 @@
 {
   "address": "42 E. 7TH AVE PINE HILL NJ 08021",
   "attorney": "BROCK & SCOTT PLLC",
-  "attorney_phone": "1(844)856-6646",
+  "attorney_phone": "1(888) 726-9953",
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00370226",
@@ -12,13 +12,13 @@
     "Address": "42 E. 7TH AVE\nPINE HILL NJ 08021",
     "Approx. Upset*": "$117,104.36",
     "Attorney": "BROCK & SCOTT PLLC",
-    "Attorney Phone": "1(844)856-6646",
+    "Attorney Phone": "1(888) 726-9953",
     "Court Case #": "F00370226",
     "Defendant": "JOHN F. MCALLISTER, ET AL.",
     "Parcel #": "LOT 77, BLOCK 65 ON THE OFFICAL TAX MAP OF THE BOROUGH OF PINE HILL.",
     "Plaintiff": "AMERISAVE MORTGAGE CORPORATION",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26002357"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "JOHN F. MCALLISTER, ET AL.",
     "listing_status": null,
     "plaintiff": "AMERISAVE MORTGAGE CORPORATION",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,12 +35,16 @@
   "parcel": "LOT 77, BLOCK 65 ON THE OFFICAL TAX MAP OF THE BOROUGH OF PINE HILL.",
   "plaintiff": "AMERISAVE MORTGAGE CORPORATION",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26002357",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Scheduled"
     }
   ],

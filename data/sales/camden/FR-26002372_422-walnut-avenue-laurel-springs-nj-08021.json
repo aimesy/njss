@@ -18,7 +18,7 @@
     "Parcel #": "BLOCK 38, LOT 10",
     "Plaintiff": "CITIZENS BANK, N.A.",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26002372"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "DOROTHY A. RODILOSSO, ET AL.",
     "listing_status": null,
     "plaintiff": "CITIZENS BANK, N.A.",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,12 +35,16 @@
   "parcel": "BLOCK 38, LOT 10",
   "plaintiff": "CITIZENS BANK, N.A.",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26002372",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-18",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Scheduled"
     }
   ],

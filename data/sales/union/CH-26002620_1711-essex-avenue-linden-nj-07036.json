@@ -1,0 +1,52 @@
+{
+  "address": "1711 ESSEX AVENUE LINDEN NJ 07036",
+  "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F00803026",
+  "current_status": "Scheduled",
+  "defendant": "JOHN SABAT, MRS. JOHN SABAT, WIFE OF JOHN SABAT AND SUNNOVA TE MANAGEMENT LLC",
+  "description": "LOT 18 (FORMERLY LOTS 189, 190,193, AND 194), BLOCK 31 (FORMERLY BLOCK 332)",
+  "extracted": {
+    "block": "31",
+    "lot": "18"
+  },
+  "fields": {
+    "Address": "1711 ESSEX AVENUE\nLINDEN NJ 07036",
+    "Approx. Upset*": "$220,114.20",
+    "Attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+    "Court Case #": "F00803026",
+    "Defendant": "JOHN SABAT, MRS. JOHN SABAT, WIFE OF JOHN SABAT AND SUNNOVA TE MANAGEMENT LLC",
+    "Description": "LOT 18 (FORMERLY LOTS 189, 190,193, AND 194), BLOCK 31 (FORMERLY BLOCK 332)",
+    "Parcel #": "LOT 18 (FORMERLY LOTS 189, 190,193, AND 194), BLOCK 31 (FORMERLY BLOCK 332)",
+    "Plaintiff": "ROCKET MORTGAGE, LLC",
+    "Property Note": "",
+    "Sales Date": "12/16/2026",
+    "Sheriff #": "CH-26002620"
+  },
+  "first_seen": "2026-11-13",
+  "listing": {
+    "address": "1711 ESSEX AVENUE LINDEN NJ 07036",
+    "defendant": "JOHN SABAT, MRS. JOHN SABAT, WIFE OF JOHN SABAT AND SUNNOVA TE MANAGEMENT LLC",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC",
+    "sale_date": "2026-12-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 18 (FORMERLY LOTS 189, 190,193, AND 194), BLOCK 31 (FORMERLY BLOCK 332)",
+  "plaintiff": "ROCKET MORTGAGE, LLC",
+  "property_note": null,
+  "sale_date": "2026-12-16",
+  "sheriff_number": "CH-26002620",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2026-12-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 220114.2,
+  "upset_amount_label": "Approx. Upset*"
+}

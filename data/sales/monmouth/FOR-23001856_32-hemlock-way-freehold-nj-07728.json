@@ -31,11 +31,11 @@
   "listing": {
     "address": "32 Hemlock Way Freehold NJ 07728",
     "defendant": "Danielle M. Ruffino F/K/A Danielle M. Urciuoli, et al",
-    "listing_status": "Scheduled",
+    "listing_status": "Bankrupt",
     "plaintiff": "U.S. Bank Trust National Association, Not In its Individual Capacity But Solely As Owner Trustee For RCF-2 Acquisition Trust",
     "sale_date": "2026-11-23"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Bankrupt",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Tax Lot: 1.32 S03 Tax Block: 86.09 Tax Map of Township of Freehold",
@@ -45,6 +45,10 @@
   "sheriff_number": "FOR-23001856",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-23",
+      "status": "Bankrupt"
+    },
     {
       "date": "2026-11-23",
       "status": "Scheduled"

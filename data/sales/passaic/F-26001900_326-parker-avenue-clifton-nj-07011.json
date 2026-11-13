@@ -1,0 +1,51 @@
+{
+  "address": "326 Parker Avenue Clifton NJ 07011",
+  "attorney": "Stark & Stark",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 008587 26 CTL#163296",
+  "current_status": "Scheduled",
+  "defendant": "326 PARKER AVE HOLDINGS LLC; BLUE ONYX MANAGEMENT LLC",
+  "description": "DIMENSIONS: 198 Feet x 35 Feet\nNO. OF FEET TO NEAREST INTERSECTION: Approx. 125 Feet from Randolph Avenue\nSUBJECT TO: TAX SALE CERTIFICATE #26-00040 IN THE APPROXIMATE AMOUNT OF $33,100.00 PLUS UNPAID REAL ESTATE TAXES AND OTHER MUNICIPAL CHARGES INCLUDING WATER AND SEWER IN THE APPROXIMATE AMOUNT OF $6,000.00 FOR TOTAL AMOUNT DUE OF $39,100.00\nTHE GOOD FAITH UPSET PRICE IS $1,167,865.33\nTHE PROPERTY IS OWNER OCCUPIED.",
+  "extracted": {
+    "upset_amount": 1167865.33
+  },
+  "fields": {
+    "Address": "326 Parker Avenue\nClifton NJ 07011",
+    "Approx. Upset*": "$1,087,746.86",
+    "Attorney": "Stark & Stark",
+    "Court Case #": "F 008587 26 CTL#163296",
+    "Defendant": "326 PARKER AVE HOLDINGS LLC; BLUE ONYX MANAGEMENT LLC",
+    "Description": "DIMENSIONS: 198 Feet x 35 Feet\nNO. OF FEET TO NEAREST INTERSECTION: Approx. 125 Feet from Randolph Avenue\nSUBJECT TO: TAX SALE CERTIFICATE #26-00040 IN THE APPROXIMATE AMOUNT OF $33,100.00 PLUS UNPAID REAL ESTATE TAXES AND OTHER MUNICIPAL CHARGES INCLUDING WATER AND SEWER IN THE APPROXIMATE AMOUNT OF $6,000.00 FOR TOTAL AMOUNT DUE OF $39,100.00\nTHE GOOD FAITH UPSET PRICE IS $1,167,865.33\nTHE PROPERTY IS OWNER OCCUPIED.",
+    "Parcel #": "Lot 1 Block 4.05",
+    "Plaintiff": "FIRST BANK",
+    "Property Note": "",
+    "Sales Date": "3/9/2027",
+    "Sheriff #": "F-26001900"
+  },
+  "first_seen": "2026-11-13",
+  "listing": {
+    "address": "326 Parker Avenue Clifton NJ 07011",
+    "defendant": "326 PARKER AVE HOLDINGS LLC; BLUE ONYX MANAGEMENT LLC",
+    "listing_status": null,
+    "plaintiff": "FIRST BANK",
+    "sale_date": "2027-03-09"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Lot 1 Block 4.05",
+  "plaintiff": "FIRST BANK",
+  "property_note": null,
+  "sale_date": "2027-03-09",
+  "sheriff_number": "F-26001900",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-03-09",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 1087746.86,
+  "upset_amount_label": "Approx. Upset*"
+}

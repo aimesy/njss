@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00146726",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "DAMIEN M. TAYLOR,, ET AL",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "Lot No. 25 Block 11903",
     "Plaintiff": "MIDFIRST BANK",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/20/2027",
     "Sheriff #": "FR-26002480"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "DAMIEN M. TAYLOR,, ET AL",
     "listing_status": null,
     "plaintiff": "MIDFIRST BANK",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-20"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "Lot No. 25 Block 11903",
   "plaintiff": "MIDFIRST BANK",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-20",
   "sheriff_number": "FR-26002480",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-18",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-20",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 241407.72,
