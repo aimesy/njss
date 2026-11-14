@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F309523",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "DUNBAR PROPERTIES, LLC; DINASO & SONS BUILDING SUPPLY CO.; CONTRACOT SERVICE/WDDS ENT., INC.; UNITED RENTALS, INC.;",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "TAX LOT 43, BLOCK 620, OF THE CITY OF CAMDEN",
     "Plaintiff": "FIG CUST FIG NJ19, LLC,",
     "Property Note": "THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN COUNTY BOOK 11597 AT PAGE 6.\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,179.24",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/20/2027",
     "Sheriff #": "FR-26002388"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "DUNBAR PROPERTIES, LLC; DINASO & SONS BUILDING \nSUPPLY CO.; CONTRACOT SERVICE/WDDS ENT., INC.; \nUNITED RENTALS, INC.;",
     "listing_status": null,
     "plaintiff": "FIG CUST FIG NJ19, LLC,",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-20"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "TAX LOT 43, BLOCK 620, OF THE CITY OF CAMDEN",
   "plaintiff": "FIG CUST FIG NJ19, LLC,",
   "property_note": "THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF CAMDEN COUNTY BOOK 11597 AT PAGE 6.\nAMOUNT OF TAXES DUE AND PRIOR LIENS: $3,179.24",
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-20",
   "sheriff_number": "FR-26002388",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-18",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-20",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 43203.71,

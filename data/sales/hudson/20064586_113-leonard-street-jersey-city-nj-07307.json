@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-008746-25",
-  "current_status": "Scheduled",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
   "defendant": "CHUN PEI LI; MRS. CHUN PEI LI, WIFE OF CHUN PEI LI",
   "description": "TAX LOT 14 BLOCK 403\nDIMENSIONS OF LOT: (APPROXIMATELY) 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: SITUATE ON THE SOUTH SIDE OF LEONARD, 385 FEET FROM THE EAST SIDE OF NELSON AVE.\nTHIS IS A RESIDENTIAL PROPERTY.\nTHE APPROXIMATE UPSET AMOUNT IS $99,000.00\nSHERIFF SALE SUBJECT TO:\n2026 OPEN TAXES IN THE APPROXIMATE AMOUNT OF $15,436.68\n2027 OPEN TAXES IN THE APPROXIMATE AMOUNT OF $7,718.34\nTOTALING: $23,155.02 PLUS POSSIBLE SUBSEQUENT TAXES, CHARGES, INTEREST AND PENALTIES.",
   "extracted": {
@@ -23,7 +23,7 @@
     "Judgment": "$97,087.99",
     "Plaintiff": "FCR TL REO TRS LLC",
     "Property Note": "",
-    "Sales Date": "12/10/2026",
+    "Sales Date": "2/4/2027",
     "Sheriff #": "20064586"
   },
   "first_seen": "2026-10-28",
@@ -34,20 +34,24 @@
     "defendant": "CHUN PEI LI; MRS. CHUN PEI LI, WIFE OF CHUN PEI LI",
     "listing_status": null,
     "plaintiff": "FCR TL REO TRS LLC",
-    "sale_date": "2026-12-10"
+    "sale_date": "2027-02-04"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "FCR TL REO TRS LLC",
   "property_note": null,
-  "sale_date": "2026-12-10",
+  "sale_date": "2027-02-04",
   "sheriff_number": "20064586",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
     {
       "date": "2026-12-10",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-02-04",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
     }
   ],
   "upset_amount": 99000.0,
