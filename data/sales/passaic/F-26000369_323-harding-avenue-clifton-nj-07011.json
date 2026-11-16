@@ -15,7 +15,7 @@
   },
   "fields": {
     "Address": "323 Harding Avenue\nClifton NJ 07011",
-    "Approx. Upset*": "$259,220.94",
+    "Approx. Upset*": "$273,654.76",
     "Attorney": "ROMANO GARUBO & ARGENTIERI",
     "Court Case #": "F 008918 24 CTL#163156",
     "Defendant": "ALICJA GROCHOWINA, ET ALS.",
@@ -23,7 +23,7 @@
     "Parcel #": "Tax lot 13 in Block 20.03",
     "Plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF CSMC 2019-RPL11 TRUST",
     "Property Note": "",
-    "Sales Date": "11/17/2026",
+    "Sales Date": "12/1/2026",
     "Sheriff #": "F-26000369"
   },
   "first_seen": "2026-10-12",
@@ -32,7 +32,7 @@
     "defendant": "ALICJA GROCHOWINA, ET ALS.",
     "listing_status": null,
     "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF CSMC 2019-RPL11 TRUST",
-    "sale_date": "2026-11-17"
+    "sale_date": "2026-12-01"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -40,7 +40,7 @@
   "parcel": "Tax lot 13 in Block 20.03",
   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF CSMC 2019-RPL11 TRUST",
   "property_note": null,
-  "sale_date": "2026-11-17",
+  "sale_date": "2026-12-01",
   "sheriff_number": "F-26000369",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -63,8 +63,12 @@
     {
       "date": "2026-11-17",
       "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-12-01",
+      "status": "Adjourned - Court"
     }
   ],
-  "upset_amount": 259220.94,
+  "upset_amount": 273654.76,
   "upset_amount_label": "Approx. Upset*"
 }

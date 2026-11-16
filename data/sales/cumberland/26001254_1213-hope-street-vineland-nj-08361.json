@@ -4,7 +4,7 @@
   "county": "Cumberland County, NJ",
   "county_id": 6,
   "court_case_number": "F00729726",
-  "current_status": "Scheduled",
+  "current_status": "Settled",
   "deed": null,
   "deed_address": "LOT 3 BLOCK 7105",
   "defendant": "BERNARD MERRITT ET AL",
@@ -47,6 +47,10 @@
     {
       "date": "2026-12-02",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-02",
+      "status": "Settled"
     }
   ],
   "upset_amount": 161002.02,

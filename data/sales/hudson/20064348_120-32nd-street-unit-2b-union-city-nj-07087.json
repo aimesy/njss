@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-003911-26",
-  "current_status": "Scheduled",
+  "current_status": "DEFENDANT 1ST 4 WEEK ADJ",
   "defendant": "IVAN LOPEZ, ET AL.",
   "description": "LOT 15 Qualifier No. C0102, BLOCK 197\nDIMENSIONS: CONDO UNIT (NONE GIVEN)\nNEAREST CROSS STREET: CONDO UNIT (NONE GIVEN)\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: UNKOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF UPSET PRICE IS: $180,382.40\nSUBJECT TO THE RIGHTS OF AN APPLICABLE CONDOMINIUM ASSOCIATION UNDER N.J.S.A. 46:8B-21, ET AL., IF ANY.\nSUBJECT TO STATE OF NEW JERSEY TAX LIEN JUDGEMENT. JUDGEMENT #DJ027302-2026: 2683.13",
   "extracted": {
@@ -24,7 +24,7 @@
     "Judgment": "$166,948.86",
     "Plaintiff": "UNITY BANK",
     "Property Note": "",
-    "Sales Date": "11/19/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "20064348"
   },
   "first_seen": "2026-10-12",
@@ -35,20 +35,24 @@
     "defendant": "IVAN LOPEZ, ET AL.",
     "listing_status": null,
     "plaintiff": "UNITY BANK",
-    "sale_date": "2026-11-19"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "UNITY BANK",
   "property_note": null,
-  "sale_date": "2026-11-19",
+  "sale_date": "2027-01-07",
   "sheriff_number": "20064348",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
     {
       "date": "2026-11-19",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
     }
   ],
   "upset_amount": 180382.4,

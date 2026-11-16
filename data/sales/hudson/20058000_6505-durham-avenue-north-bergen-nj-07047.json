@@ -1,0 +1,68 @@
+{
+  "address": "6505 DURHAM AVENUE NORTH BERGEN NJ 07047",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006323-24",
+  "current_status": "Cancelled",
+  "defendant": "DELIA VACA, ET AL.",
+  "description": "TAX LOT: 86 TAX BLOCK: 221\nAPPROXIMATE DIMENSIONS: 25.00’ x 100.00’\nNEAREST CROSS STREET: 64TH STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $953,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "221",
+    "lot": "86",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "6505 DURHAM AVENUE\nNORTH BERGEN NJ 07047",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-006323-24",
+    "Defendant": "DELIA VACA, ET AL.",
+    "Description": "TAX LOT: 86 TAX BLOCK: 221\nAPPROXIMATE DIMENSIONS: 25.00’ x 100.00’\nNEAREST CROSS STREET: 64TH STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $953,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Good Faith Upset*": "$953,000.00",
+    "Judgment": "$894,931.04",
+    "Plaintiff": "MORGAN STANLEY MORTGAGE LOAN TRUST, 2006-12XS, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "Property Note": "",
+    "Sales Date": "11/13/2026",
+    "Sheriff #": "20058000"
+  },
+  "first_seen": "2026-11-16",
+  "judgment_amount": 894931.04,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "6505 DURHAM AVENUE NORTH BERGEN NJ 07047",
+    "defendant": "DELIA VACA, ET AL.",
+    "listing_status": null,
+    "plaintiff": "MORGAN STANLEY MORTGAGE LOAN TRUST, 2006-12XS, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+    "sale_date": "2026-11-13"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "MORGAN STANLEY MORTGAGE LOAN TRUST, 2006-12XS, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+  "property_note": null,
+  "sale_date": "2026-11-13",
+  "sheriff_number": "20058000",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-04-10",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-11-13",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 953000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

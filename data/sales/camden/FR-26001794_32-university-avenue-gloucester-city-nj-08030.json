@@ -1,24 +1,24 @@
 {
   "address": "32 UNIVERSITY AVENUE GLOUCESTER CITY NJ 08030",
   "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
-  "attorney_phone": "856-352-4905 chews landing office",
+  "attorney_phone": "215-855-9521 NORTH WALES",
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00450925",
-  "current_status": "Plaintiff Adjournment",
+  "current_status": "Court Adjournment",
   "defendant": "CARMELO A. MALARA, MR. OR MRS. MALARA, THE SPOUSE, DOMESTIC PARTNER, OR CIVIL UNION PARTNER OF CARMELO A. MALARA, STATE OF NEW JERSEY, UNITED STATES OF AMERICA",
   "extracted": {},
   "fields": {
     "Address": "32 UNIVERSITY AVENUE\nGLOUCESTER CITY NJ 08030",
     "Approx. Upset*": "$119,861.39",
     "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
-    "Attorney Phone": "856-352-4905 chews landing office",
+    "Attorney Phone": "215-855-9521 NORTH WALES",
     "Court Case #": "F00450925",
     "Defendant": "CARMELO A. MALARA, MR. OR MRS. MALARA,\nTHE SPOUSE, DOMESTIC PARTNER, OR CIVIL\nUNION PARTNER OF CARMELO A. MALARA,\nSTATE OF NEW JERSEY, UNITED STATES OF AMERICA",
     "Parcel #": "TAX LOT: 7 BLOCK 226",
     "Plaintiff": "NATIONSTAR MORTGAGE LLC",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26001794"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "CARMELO A. MALARA, MR. OR MRS. MALARA, \nTHE SPOUSE, DOMESTIC PARTNER, OR CIVIL \nUNION PARTNER OF CARMELO A. MALARA, \nSTATE OF NEW JERSEY, UNITED STATES OF AMERICA",
     "listing_status": null,
     "plaintiff": "NATIONSTAR MORTGAGE LLC",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": "TAX LOT: 7 BLOCK 226",
   "plaintiff": "NATIONSTAR MORTGAGE LLC",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26001794",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -50,6 +50,10 @@
     {
       "date": "2026-11-18",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Court Adjournment"
     }
   ],
   "upset_amount": 119861.39,

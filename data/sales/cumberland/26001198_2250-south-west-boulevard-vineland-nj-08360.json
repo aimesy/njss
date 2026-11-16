@@ -4,7 +4,7 @@
   "county": "Cumberland County, NJ",
   "county_id": 6,
   "court_case_number": "F00502526",
-  "current_status": "Scheduled",
+  "current_status": "Bankruptcy - Sale on Hold",
   "deed": null,
   "deed_address": "LOT 26 FKA 13 BLOCK 6102 FKA 963",
   "defendant": "MANUEL MERCADO JR ET AL",
@@ -47,6 +47,10 @@
     {
       "date": "2026-11-18",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Bankruptcy - Sale on Hold"
     }
   ],
   "upset_amount": 211400.0,
