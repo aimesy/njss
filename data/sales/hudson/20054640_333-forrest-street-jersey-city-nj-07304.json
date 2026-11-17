@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-008401-23",
-  "current_status": "Adjourned - Court",
+  "current_status": "JOINT ADJOURNMENT",
   "defendant": "MICHAEL DAVU, ET AL.",
   "description": "TAX LOT: 24 F/K/A 8.A AND L TAX BLOCK: 21101 F/K/A 1978\nAPPROXIMATE DIMENSIONS: 100.00' X 26.94' X 1.12' X 0.15' X 101.12' X 36.40'\nNEAREST CROSS STREET: MARTIN LUTHER KING DRIVE\nOCCUPANCY STATUS: UNKNOWN\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $761,000.00",
   "extracted": {
@@ -24,7 +24,7 @@
     "Judgment": "$656,519.32",
     "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR MORGAN STANLEY ABS CAPITAL I INC. TRUST 2006-HE4, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-HE4",
     "Property Note": "",
-    "Sales Date": "11/19/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "20054640"
   },
   "first_seen": "2026-10-12",
@@ -35,14 +35,14 @@
     "defendant": "MICHAEL DAVU, ET AL.",
     "listing_status": null,
     "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR MORGAN STANLEY ABS CAPITAL I INC. TRUST 2006-HE4, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-HE4",
-    "sale_date": "2026-11-19"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR MORGAN STANLEY ABS CAPITAL I INC. TRUST 2006-HE4, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-HE4",
   "property_note": null,
-  "sale_date": "2026-11-19",
+  "sale_date": "2027-01-07",
   "sheriff_number": "20054640",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
@@ -125,6 +125,10 @@
     {
       "date": "2026-11-19",
       "status": "Adjourned - Court"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "JOINT ADJOURNMENT"
     }
   ],
   "upset_amount": 761000.0,

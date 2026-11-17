@@ -23,7 +23,7 @@
     "Parcel #": "Tax Lot: 25 Block: 141 Located on the tax map of the Township of Hazlet",
     "Plaintiff": "Bank of America, N.A.",
     "Property Note": "",
-    "Sales Date": "11/23/2026",
+    "Sales Date": "1/11/2027",
     "Sheriff #": "FOR-26000572"
   },
   "first_seen": "2026-10-12",
@@ -32,20 +32,24 @@
   "listing": {
     "address": "40 Compton Avenue Hazlet NJ 07734",
     "defendant": "Keith D. Chapin and Linda Carroll Chapin, husband and wife et als.",
-    "listing_status": "Scheduled",
+    "listing_status": "Adjournment Defendant",
     "plaintiff": "Bank of America, N.A.",
-    "sale_date": "2026-11-23"
+    "sale_date": "2027-01-11"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Adjournment Defendant",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Tax Lot: 25 Block: 141 Located on the tax map of the Township of Hazlet",
   "plaintiff": "Bank of America, N.A.",
   "property_note": null,
-  "sale_date": "2026-11-23",
+  "sale_date": "2027-01-11",
   "sheriff_number": "FOR-26000572",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2027-01-11",
+      "status": "Adjournment Defendant"
+    },
     {
       "date": "2026-11-23",
       "status": "Scheduled"

@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00239226",
-  "current_status": "Scheduled",
+  "current_status": "Defendant Adjournment",
   "defendant": "154 LINDEN AVE LLC, AIDAN PATRICK CONDON AND MOHIN ABEDIN",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "LOTS 5 AND 6 IN BLOCK 602",
     "Plaintiff": "LOAN FUNDER LLC, SERIES 98305",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/20/2027",
     "Sheriff #": "FR-26002356"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "154 LINDEN AVE LLC, AIDAN PATRICK CONDON AND MOHIN ABEDIN",
     "listing_status": null,
     "plaintiff": "LOAN FUNDER LLC, SERIES 98305",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-20"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,13 +35,17 @@
   "parcel": "LOTS 5 AND 6 IN BLOCK 602",
   "plaintiff": "LOAN FUNDER LLC, SERIES 98305",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-20",
   "sheriff_number": "FR-26002356",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
     {
       "date": "2026-11-18",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-01-20",
+      "status": "Defendant Adjournment"
     }
   ],
   "upset_amount": 280731.44,

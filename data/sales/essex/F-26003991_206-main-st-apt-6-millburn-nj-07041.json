@@ -24,7 +24,7 @@
     "Parcel #": "",
     "Plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
     "Property Note": "",
-    "Sales Date": "12/1/2026",
+    "Sales Date": "1/5/2027",
     "Sheriff #": "F-26003991"
   },
   "first_seen": "2026-10-12",
@@ -33,7 +33,7 @@
     "defendant": "SANDRA PENUELA",
     "listing_status": null,
     "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
-    "sale_date": "2026-12-01"
+    "sale_date": "2027-01-05"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -41,7 +41,7 @@
   "parcel": null,
   "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
   "property_note": null,
-  "sale_date": "2026-12-01",
+  "sale_date": "2027-01-05",
   "sheriff_number": "F-26003991",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
   "status_history": [
@@ -55,6 +55,14 @@
     },
     {
       "date": "2026-12-01",
+      "status": "Adjourned Sheriff"
+    },
+    {
+      "date": "2026-12-29",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2027-01-05",
       "status": "Adjourned Sheriff"
     }
   ],

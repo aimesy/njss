@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00261825",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Plaintiff Adjournment",
   "defendant": "PAUL BARTELD AND JOHN BARTELD,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "",
     "Plaintiff": "HARD MONEY PA LLC,",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26001816"
   },
   "first_seen": "2026-10-12",
@@ -27,7 +27,7 @@
     "defendant": "PAUL BARTELD AND JOHN BARTELD,",
     "listing_status": null,
     "plaintiff": "HARD MONEY PA LLC,",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -35,7 +35,7 @@
   "parcel": null,
   "plaintiff": "HARD MONEY PA LLC,",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26001816",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -50,6 +50,10 @@
     {
       "date": "2026-11-18",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Plaintiff Adjournment"
     }
   ],
   "upset_amount": 125320.11,

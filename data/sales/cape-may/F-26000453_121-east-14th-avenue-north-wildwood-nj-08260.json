@@ -1,0 +1,56 @@
+{
+  "address": "121 East 14TH Avenue North Wildwood NJ 08260",
+  "attorney": "Brock and Scott, PLLC",
+  "attorney_file_number": null,
+  "attorney_phone": "844-856-6646",
+  "county": "Cape May County, NJ",
+  "county_id": 52,
+  "court_case_number": "F-014192-25",
+  "current_status": "Scheduled",
+  "defendant": "VICTORIA L MASSI, DECEASED, ET AL",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$37,707.99",
+    "Attorney": "Brock and Scott, PLLC",
+    "Attorney File #": "",
+    "Attorney Phone": "844-856-6646",
+    "Court Case #": "F-014192-25",
+    "Defendant": "VICTORIA L MASSI, DECEASED, ET AL",
+    "Description": "",
+    "Minimum Bid": "$41,654.15",
+    "Parcel #": "LOT 16, BLOCK 207",
+    "Plaintiff": "U.S. BANK TRUST COMPANY NATIONAL ASSOCIATION",
+    "Property Address": "121 East 14TH Avenue\nNorth Wildwood NJ 08260",
+    "Property Note": "",
+    "Sale Date": "3/17/2027",
+    "Sheriff #": "F-26000453"
+  },
+  "first_seen": "2026-11-17",
+  "judgment_amount": 37707.99,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "121 East 14TH Avenue North Wildwood NJ 08260",
+    "defendant": "VICTORIA L MASSI, DECEASED, ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST COMPANY NATIONAL ASSOCIATION",
+    "sale_date": "2027-03-17"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Cape May County, NJ)",
+  "parcel": "LOT 16, BLOCK 207",
+  "plaintiff": "U.S. BANK TRUST COMPANY NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2027-03-17",
+  "sheriff_number": "F-26000453",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=52",
+  "status_history": [
+    {
+      "date": "2027-03-17",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 41654.15,
+  "upset_amount_label": "Minimum Bid"
+}
