@@ -1,0 +1,56 @@
+{
+  "address": "2012 KERRIGAN AVENUE UNION CITY NJ 07087",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006820-26",
+  "current_status": "Scheduled",
+  "defendant": "SILVIO CEPEDA A/K/A SILVIO I. CEPEDA",
+  "description": "TAX LOT 18 BLOCK 107\nDIMENSIONS OF LOT: 22 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: 20TH STREET\nESTIMATED UPSET BID AMOUNT: $313,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\nSEWER: NORTH HUDSON SEWER AUTH. 1600 ADAMS ST. HOBOKEN, NJ 07030 201-963-6043 ACCT: 202775 0 07/01/2026 - 09/30/2026 $288.60 OPEN PLUS PENALTY $16,673.14 OPEN PLUS PENALTY\nGENERAL REMARK: DELINQUENT UTILITY CHARGES MAY BE SUBJECT TO TAX SALE; SUBJECT TO ADDITIONAL FEES.\nGENERAL REMARK: SUBJECT TO ADD'L 6% PENALTY FOR BALANCES OVER $10,000.00",
+  "extracted": {
+    "block": "107",
+    "lot": "18",
+    "occupancy": "OWNER OCCUPIED"
+  },
+  "fields": {
+    "Address": "2012 KERRIGAN AVENUE\nUNION CITY NJ 07087",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-006820-26",
+    "Defendant": "SILVIO CEPEDA A/K/A SILVIO I. CEPEDA",
+    "Description": "TAX LOT 18 BLOCK 107\nDIMENSIONS OF LOT: 22 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: 20TH STREET\nESTIMATED UPSET BID AMOUNT: $313,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER OCCUPIED\nSEWER: NORTH HUDSON SEWER AUTH. 1600 ADAMS ST. HOBOKEN, NJ 07030 201-963-6043 ACCT: 202775 0 07/01/2026 - 09/30/2026 $288.60 OPEN PLUS PENALTY $16,673.14 OPEN PLUS PENALTY\nGENERAL REMARK: DELINQUENT UTILITY CHARGES MAY BE SUBJECT TO TAX SALE; SUBJECT TO ADDITIONAL FEES.\nGENERAL REMARK: SUBJECT TO ADD'L 6% PENALTY FOR BALANCES OVER $10,000.00",
+    "Good Faith Upset*": "$313,000.00",
+    "Judgment": "$288,653.43",
+    "Plaintiff": "CSMC 2021-RPL4 TRUST",
+    "Property Note": "",
+    "Sales Date": "1/7/2027",
+    "Sheriff #": "20064872"
+  },
+  "first_seen": "2026-11-18",
+  "judgment_amount": 288653.43,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "2012 KERRIGAN AVENUE UNION CITY NJ 07087",
+    "defendant": "SILVIO CEPEDA A/K/A SILVIO I. CEPEDA",
+    "listing_status": null,
+    "plaintiff": "CSMC 2021-RPL4 TRUST",
+    "sale_date": "2027-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "CSMC 2021-RPL4 TRUST",
+  "property_note": null,
+  "sale_date": "2027-01-07",
+  "sheriff_number": "20064872",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2027-01-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 313000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

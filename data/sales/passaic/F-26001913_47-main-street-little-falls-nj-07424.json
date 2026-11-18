@@ -1,0 +1,53 @@
+{
+  "address": "47 Main Street Little Falls NJ 07424",
+  "attorney": "EUGENIO GENISE P.A.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "SWC F 1747 26 CTL# 163300",
+  "current_status": "Scheduled",
+  "defendant": "47 MAIN STREET REALTY CORPORATION",
+  "description": "Approximate Lot size: 62X135+177IRR. Block 110 Lot 7 Approximate Lot size: 50X135 12X135T\nNearest cross street: Lincoln Ave. approximately 71 yards to the east\nUpset price: $349,125.00\nTax sale scheduled for November 17, 2026, in the amount of $32,349.13",
+  "extracted": {
+    "block": "110",
+    "lot": "size",
+    "upset_amount": 349125.0
+  },
+  "fields": {
+    "Address": "47 Main Street\nLittle Falls NJ 07424",
+    "Approx. Upset*": "$353,256.25",
+    "Attorney": "EUGENIO GENISE P.A.",
+    "Court Case #": "SWC F 1747 26 CTL# 163300",
+    "Defendant": "47 MAIN STREET REALTY CORPORATION",
+    "Description": "Approximate Lot size: 62X135+177IRR. Block 110 Lot 7 Approximate Lot size: 50X135 12X135T\nNearest cross street: Lincoln Ave. approximately 71 yards to the east\nUpset price: $349,125.00\nTax sale scheduled for November 17, 2026, in the amount of $32,349.13",
+    "Parcel #": "Tax lot 7.01 X Lot 8 in Block 110",
+    "Plaintiff": "MARKO KOPIC",
+    "Property Note": "",
+    "Sales Date": "3/16/2027",
+    "Sheriff #": "F-26001913"
+  },
+  "first_seen": "2026-11-18",
+  "listing": {
+    "address": "47 Main Street Little Falls NJ 07424",
+    "defendant": "47 MAIN STREET REALTY CORPORATION",
+    "listing_status": null,
+    "plaintiff": "MARKO KOPIC",
+    "sale_date": "2027-03-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax lot 7.01 X Lot 8 in Block 110",
+  "plaintiff": "MARKO KOPIC",
+  "property_note": null,
+  "sale_date": "2027-03-16",
+  "sheriff_number": "F-26001913",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-03-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 353256.25,
+  "upset_amount_label": "Approx. Upset*"
+}

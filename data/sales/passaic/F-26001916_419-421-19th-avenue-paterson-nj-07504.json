@@ -1,0 +1,51 @@
+{
+  "address": "419-421 19TH Avenue Paterson NJ 07504",
+  "attorney": "LOGS LEGAL GROUP, LLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 027280 17 CTL# 163301",
+  "current_status": "Scheduled",
+  "defendant": "GREKI RIVERA, ET AL",
+  "description": "Dimensions of the lot are (approximately) 50 x 100 x 50 x 100\nNearest Cross Street: East 41st Street\nThe sale is subject to unpaid taxes and assesments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authorit. Pursuant to NJSA 46:8B-21 the sale may be also be subject to the limited lien priority of any condominum/homeowner association liens which may exist. The sale may be further subject to Restriction, reversions, reservations, and easements of record.\nThe occupanct status of the subject property is unknown\nThe approximate upset sum is $421,614.71 calculated through November 11, 2026 plus any additional advance, interest Sheriff's cost and commission to the date of sale.",
+  "extracted": {
+    "lot": "are"
+  },
+  "fields": {
+    "Address": "419-421 19TH Avenue\nPaterson NJ 07504",
+    "Approx. Upset*": "$289,807.34",
+    "Attorney": "LOGS LEGAL GROUP, LLC",
+    "Court Case #": "F 027280 17 CTL# 163301",
+    "Defendant": "GREKI RIVERA, ET AL",
+    "Description": "Dimensions of the lot are (approximately) 50 x 100 x 50 x 100\nNearest Cross Street: East 41st Street\nThe sale is subject to unpaid taxes and assesments, tax, water and sewer liens and other municipal assessments. The amount due can be obtained from the local taxing authorit. Pursuant to NJSA 46:8B-21 the sale may be also be subject to the limited lien priority of any condominum/homeowner association liens which may exist. The sale may be further subject to Restriction, reversions, reservations, and easements of record.\nThe occupanct status of the subject property is unknown\nThe approximate upset sum is $421,614.71 calculated through November 11, 2026 plus any additional advance, interest Sheriff's cost and commission to the date of sale.",
+    "Parcel #": "Tax Lot 12 Block 8011 f/k/a Lot 22 Block L1494",
+    "Plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST. MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-BNC1",
+    "Property Note": "",
+    "Sales Date": "3/16/2027",
+    "Sheriff #": "F-26001916"
+  },
+  "first_seen": "2026-11-18",
+  "listing": {
+    "address": "419-421 19TH Avenue Paterson NJ 07504",
+    "defendant": "GREKI RIVERA, ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST. MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-BNC1",
+    "sale_date": "2027-03-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 12 Block 8011 f/k/a Lot 22 Block L1494",
+  "plaintiff": "US BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST. MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-BNC1",
+  "property_note": null,
+  "sale_date": "2027-03-16",
+  "sheriff_number": "F-26001916",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-03-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 289807.34,
+  "upset_amount_label": "Approx. Upset*"
+}

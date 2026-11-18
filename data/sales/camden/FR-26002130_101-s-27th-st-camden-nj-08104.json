@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00406424",
-  "current_status": "Plaintiff Adjournment",
+  "current_status": "Settled",
   "defendant": "LESA M. DAVIS A/K/A LESA RICHARDSON A/K/A LESA M. DAVIS, INDIVIDUALLY AND AS ADMINISTRATRIX OF THE ESTATE OF RUTH Y. DAVIS A/K/A RUTH DAVIS A/K/A RUTH E. YERBY DAVIS; STATE OF NEW JERSEY; UNITED STATES OFAMERICA; DAIMLER CHRYSLER FINANCIAL SERVICES AMERICAS LLC; MANCINI AUTO SALES T/A TURNERS; KALIROAD 105, LLC,",
   "extracted": {},
   "fields": {
@@ -46,6 +46,10 @@
     {
       "date": "2026-11-18",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Settled"
     }
   ],
   "upset_amount": 40336.02,

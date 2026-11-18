@@ -22,7 +22,7 @@
     "Parcel #": "Lot and Block: Lot 14, Block 111 Tax Map of Township of Aberdeen",
     "Plaintiff": "Freedom Mortgage Corporation",
     "Property Note": "",
-    "Sales Date": "12/7/2026",
+    "Sales Date": "2/8/2027",
     "Sheriff #": "FOR-26002135"
   },
   "first_seen": "2026-10-17",
@@ -31,20 +31,28 @@
   "listing": {
     "address": "61 Juniper Place Aberdeen NJ 07747",
     "defendant": "Jocelyn Shenfield f/k/a Jocelyn Cortes, et al.",
-    "listing_status": "Scheduled",
+    "listing_status": "Adjournment Defendant",
     "plaintiff": "Freedom Mortgage Corporation",
-    "sale_date": "2026-12-07"
+    "sale_date": "2027-02-08"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Adjournment Defendant",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 14, Block 111 Tax Map of Township of Aberdeen",
   "plaintiff": "Freedom Mortgage Corporation",
   "property_note": null,
-  "sale_date": "2026-12-07",
+  "sale_date": "2027-02-08",
   "sheriff_number": "FOR-26002135",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2027-02-08",
+      "status": "Adjournment Defendant"
+    },
+    {
+      "date": "2027-01-11",
+      "status": "Adjournment Defendant"
+    },
     {
       "date": "2026-12-07",
       "status": "Scheduled"

@@ -18,7 +18,7 @@
     "Parcel #": "Lot 2, Block 1105.06",
     "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR\nSTRUCTURED ASSET INVESTMENT LOAN TRUST,\nMORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1",
     "Property Note": "Subject to tax sale certificate #25-00189 for water, sewer, ccmua in the amount of $1,643.75. Third Party Purchaser is responsible for obtaining final amount to redeem.",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "11/17/2026",
     "Sheriff #": "FR-26002353"
   },
   "first_seen": "2026-10-12",
@@ -27,18 +27,22 @@
     "defendant": "PREDDIE FORD, DECREASED, HIS HEIRS, DEVISEES, AND \nPERSONAL REPRESENTATIVES, AND HIS, THEIR OR ANY OF \nTHEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, \nET AL.",
     "listing_status": null,
     "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR \nSTRUCTURED ASSET INVESTMENT LOAN TRUST, \nMORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1",
-    "sale_date": "2026-11-18"
+    "sale_date": "2026-11-17"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Lot 2, Block 1105.06",
   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-1",
   "property_note": "Subject to tax sale certificate #25-00189 for water, sewer, ccmua in the amount of $1,643.75. Third Party Purchaser is responsible for obtaining final amount to redeem.",
-  "sale_date": "2026-11-18",
+  "sale_date": "2026-11-17",
   "sheriff_number": "FR-26002353",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
+    {
+      "date": "2026-11-17",
+      "status": "Bankruptcy"
+    },
     {
       "date": "2026-11-18",
       "status": "Scheduled"

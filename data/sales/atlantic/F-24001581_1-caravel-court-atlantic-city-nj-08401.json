@@ -20,7 +20,7 @@
     "Plaintiff": "Deutsche Bank National Trust Company as Trustee for INDYMAC INDX MORTGAGE LOAN TRUST 2006-AR8, Mortgage Pass-Through Certificates Series 2006-AR8",
     "Priors": "NONE",
     "Property Note": "OCCUPANCY STATUS: UNKNOWN",
-    "Sales Date": "1/8/2026",
+    "Sales Date": "11/26/2026",
     "Sheriff #": "F-24001581",
     "Upset Amount": "$84,178.89"
   },
@@ -32,18 +32,22 @@
     "defendant": "Nicholas J. Merlino ...",
     "listing_status": null,
     "plaintiff": "Deutsche Bank Nation...",
-    "sale_date": "2026-01-08"
+    "sale_date": "2026-11-26"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Atlantic County, NJ)",
   "plaintiff": "Deutsche Bank National Trust Company as Trustee for INDYMAC INDX MORTGAGE LOAN TRUST 2006-AR8, Mortgage Pass-Through Certificates Series 2006-AR8",
   "priors": "NONE",
   "property_note": "OCCUPANCY STATUS: UNKNOWN",
-  "sale_date": "2026-01-08",
+  "sale_date": "2026-11-26",
   "sheriff_number": "F-24001581",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
+    {
+      "date": "2026-11-26",
+      "status": "Cancelled/Outdated"
+    },
     {
       "date": "2026-01-08",
       "status": "Indefinite Bankruptcy"

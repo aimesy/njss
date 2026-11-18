@@ -20,7 +20,7 @@
     "Plaintiff": "Legacy Mortgage Asset Trust 2019-RPL3",
     "Priors": "3rd PARTY TAX, SEWER CERT NO. 24-00502, amount: $1,759.19\nTOTAL AS OF April 16, 2025: $1,759.19",
     "Property Note": "OCCUPANCY STATUS: UNKNOWN",
-    "Sales Date": "6/26/2025",
+    "Sales Date": "11/26/2026",
     "Sheriff #": "F-25000428",
     "Upset Amount": "$192,940.74"
   },
@@ -32,18 +32,22 @@
     "defendant": "Alfred Thomas; Shayn...",
     "listing_status": null,
     "plaintiff": "Legacy Mortgage Asse...",
-    "sale_date": "2025-06-26"
+    "sale_date": "2026-11-26"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Atlantic County, NJ)",
   "plaintiff": "Legacy Mortgage Asset Trust 2019-RPL3",
   "priors": "3rd PARTY TAX, SEWER CERT NO. 24-00502, amount: $1,759.19 TOTAL AS OF April 16, 2025: $1,759.19",
   "property_note": "OCCUPANCY STATUS: UNKNOWN",
-  "sale_date": "2025-06-26",
+  "sale_date": "2026-11-26",
   "sheriff_number": "F-25000428",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
+    {
+      "date": "2026-11-26",
+      "status": "Cancelled/Outdated"
+    },
     {
       "date": "2025-06-26",
       "status": "Indefinite Bankruptcy"

@@ -1,0 +1,71 @@
+{
+  "address": "17 PROSPECT PLACE WEST ORANGE NJ",
+  "attorney": "PLUESE BECKER & SALTZMAN",
+  "attorney_phone": "856-813-1700",
+  "county": "Essex County, NJ",
+  "county_id": 2,
+  "court_case_number": "F00627524",
+  "current_status": "Cancelled",
+  "defendant": "JANICE ANDERSON, ET. AL",
+  "description": "TAX LOT 31.02\nTAX BLOCK: 114.01\nAPPROXIMATE DIMENSIONS: 37.50' X 123.41'\nNEAREST CROSS STREET: MAIN STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $463,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "114.01",
+    "lot": "31.02",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "17 PROSPECT PLACE\nWEST ORANGE NJ",
+    "Approx. Upset*": "$434,702.98",
+    "Attorney": "PLUESE BECKER & SALTZMAN",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F00627524",
+    "Defendant": "JANICE ANDERSON, ET. AL",
+    "Description": "TAX LOT 31.02\nTAX BLOCK: 114.01\nAPPROXIMATE DIMENSIONS: 37.50' X 123.41'\nNEAREST CROSS STREET: MAIN STREET\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $463,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Parcel #": "",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2017-RP1",
+    "Property Note": "",
+    "Sales Date": "11/18/2026",
+    "Sheriff #": "F-25003587"
+  },
+  "first_seen": "2026-11-18",
+  "listing": {
+    "address": "17 PROSPECT PLACE WEST ORANGE NJ",
+    "defendant": "JANICE ANDERSON, ET. AL",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2017-RP1",
+    "sale_date": "2026-11-18"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Essex County, NJ)",
+  "parcel": null,
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2017-RP1",
+  "property_note": null,
+  "sale_date": "2026-11-18",
+  "sheriff_number": "F-25003587",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=2",
+  "status_history": [
+    {
+      "date": "2025-12-02",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Adjourned Defendant"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "Bankruptcy"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 434702.98,
+  "upset_amount_label": "Approx. Upset*"
+}

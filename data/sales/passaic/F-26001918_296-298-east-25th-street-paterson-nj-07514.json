@@ -1,0 +1,52 @@
+{
+  "address": "296-298 East 25th Street Paterson NJ 07514",
+  "attorney": "RAS, PLLC",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 001450 26 CTL#163302",
+  "current_status": "Scheduled",
+  "defendant": "FRANKLIN G. LASSITER ET ALS",
+  "description": "Dimensions of Lot: 37 feet wide by 100 feet long\nNearest Cross Street: 8th Avenue\nEstimated upset bid amount: $65,600.00, plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nSewer: Paterson Sewer Dept. 155 Market St. Paterson, NJ 07501 973-321-1230\nAcct: 10002857 0 10/01/2026 - 12/31/26 $96.75 OPEN AND DUE 11/01/2026 $269.25 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton, NJ 07011 973-340-4300\nAcct: 0142545 - 115414 To: 10/14/2026 $472.92 OPEN PLUS PENALTY",
+  "extracted": {
+    "lot": "37",
+    "occupancy": "Occupied"
+  },
+  "fields": {
+    "Address": "296-298 East 25th Street\nPaterson NJ 07514",
+    "Approx. Upset*": "$58,564.76",
+    "Attorney": "RAS, PLLC",
+    "Court Case #": "F 001450 26 CTL#163302",
+    "Defendant": "FRANKLIN G. LASSITER ET ALS",
+    "Description": "Dimensions of Lot: 37 feet wide by 100 feet long\nNearest Cross Street: 8th Avenue\nEstimated upset bid amount: $65,600.00, plus any additional sums as ordered by the court.\nOccupancy Status: Occupied\nSewer: Paterson Sewer Dept. 155 Market St. Paterson, NJ 07501 973-321-1230\nAcct: 10002857 0 10/01/2026 - 12/31/26 $96.75 OPEN AND DUE 11/01/2026 $269.25 OPEN PLUS PENALTY\nWater: Passaic Valley Water Comm. 1525 Main Ave. Clifton, NJ 07011 973-340-4300\nAcct: 0142545 - 115414 To: 10/14/2026 $472.92 OPEN PLUS PENALTY",
+    "Parcel #": "Tax LOT FKA 19 BLOCK 2716 FKA C0317",
+    "Plaintiff": "WELLS FARGO BANK N.A.",
+    "Property Note": "",
+    "Sales Date": "3/16/2027",
+    "Sheriff #": "F-26001918"
+  },
+  "first_seen": "2026-11-18",
+  "listing": {
+    "address": "296-298 East 25th Street Paterson NJ 07514",
+    "defendant": "FRANKLIN G. LASSITER ET ALS",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK N.A.",
+    "sale_date": "2027-03-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax LOT FKA 19 BLOCK 2716 FKA C0317",
+  "plaintiff": "WELLS FARGO BANK N.A.",
+  "property_note": null,
+  "sale_date": "2027-03-16",
+  "sheriff_number": "F-26001918",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-03-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 58564.76,
+  "upset_amount_label": "Approx. Upset*"
+}

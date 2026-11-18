@@ -1,0 +1,56 @@
+{
+  "address": "1 CENTENNIAL AVENUE PISCATAWAY NJ 08854",
+  "attorney": "MASELLI MILLS & FORNAL PC",
+  "attorney_file_number": null,
+  "attorney_phone": "609-452-8411",
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00418624",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "IMARC PROPERTIES LLC. ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$27,150,446.10",
+    "Attorney": "MASELLI MILLS & FORNAL PC",
+    "Attorney File #": "",
+    "Attorney Phone": "609-452-8411",
+    "Court Case #": "F00418624",
+    "Defendant": "IMARC PROPERTIES LLC. ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 3.01, QUALIFIER C0006, BLOCK 6701",
+    "Plaintiff": "CROWN BANK",
+    "Property Address": "1 CENTENNIAL AVENUE\nPISCATAWAY NJ 08854",
+    "Property Note": "All that tract or parcel of land and premises, situated, lying and being in the Township of\nPiscataway, County of Middlesex, State of New Jersey and commonly described as 1\nCentennial Avenue, Piscataway, NJ 08854 and identified on the municipal tax map of the\ntownship of Piscataway as Lot 3.01, Qualifier C0006, Block 6701.\nThe closest cross-street is River Road.",
+    "Sale Date": "2/3/2027",
+    "Sheriff #": "F-26003168"
+  },
+  "first_seen": "2026-11-18",
+  "judgment_amount": 27150446.1,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "1 CENTENNIAL AVENUE PISCATAWAY NJ 08854",
+    "defendant": "IMARC PROPERTIES LLC. ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "CROWN BANK",
+    "sale_date": "2027-02-03"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 3.01, QUALIFIER C0006, BLOCK 6701",
+  "plaintiff": "CROWN BANK",
+  "property_note": "All that tract or parcel of land and premises, situated, lying and being in the Township of\nPiscataway, County of Middlesex, State of New Jersey and commonly described as 1\nCentennial Avenue, Piscataway, NJ 08854 and identified on the municipal tax map of the\ntownship of Piscataway as Lot 3.01, Qualifier C0006, Block 6701.\nThe closest cross-street is River Road.",
+  "sale_date": "2027-02-03",
+  "sheriff_number": "F-26003168",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-02-03",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

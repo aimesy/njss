@@ -15,10 +15,10 @@
     "Attorney Phone": "1(888) 726-9953",
     "Court Case #": "F01177525",
     "Defendant": "DANIEL J KNOLL, ET AL.",
-    "Parcel #": ": Lot 5, Block 4106 on the official Tax Map of the TOWNSHIP OF WATERFORD.",
+    "Parcel #": "Lot 5, Block 4106 on the official Tax Map of the TOWNSHIP OF WATERFORD.",
     "Plaintiff": "FREEDOM MORTGAGE CORPORATION",
     "Property Note": "",
-    "Sales Date": "11/18/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26002132"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "DANIEL J KNOLL, ET AL.",
     "listing_status": null,
     "plaintiff": "FREEDOM MORTGAGE CORPORATION",
-    "sale_date": "2026-11-18"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
-  "parcel": ": Lot 5, Block 4106 on the official Tax Map of the TOWNSHIP OF WATERFORD.",
+  "parcel": "Lot 5, Block 4106 on the official Tax Map of the TOWNSHIP OF WATERFORD.",
   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
   "property_note": null,
-  "sale_date": "2026-11-18",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26002132",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -45,6 +45,10 @@
     },
     {
       "date": "2026-11-18",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2027-01-06",
       "status": "Plaintiff Adjournment"
     }
   ],

@@ -5,13 +5,13 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-003449-26",
-  "current_status": "Scheduled",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
   "defendant": "ANTHONY V. TOMASHESKY, ET AL.",
-  "description": "LOT 6, BLOCK 259\nDIMENSIONS: 79.4FT. X 55FT.\nNEAREST CROSS STREET: DAVIS AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $504,837.70",
+  "description": "LOT 6, BLOCK 259\nDIMENSIONS: 79.4FT. X 55FT.\nNEAREST CROSS STREET: DAVIS AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $513,103.49",
   "extracted": {
     "block": "259",
     "lot": "6",
-    "upset_amount": 504837.7
+    "upset_amount": 513103.49
   },
   "fields": {
     "Address": "212-214 WILSON AVENUE\nKEARNY NJ 07032",
@@ -19,12 +19,12 @@
     "Attorney Phone": "401-217-8701",
     "Court Case #": "F-003449-26",
     "Defendant": "ANTHONY V. TOMASHESKY, ET AL.",
-    "Description": "LOT 6, BLOCK 259\nDIMENSIONS: 79.4FT. X 55FT.\nNEAREST CROSS STREET: DAVIS AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $504,837.70",
-    "Good Faith Upset*": "$504,837.70",
+    "Description": "LOT 6, BLOCK 259\nDIMENSIONS: 79.4FT. X 55FT.\nNEAREST CROSS STREET: DAVIS AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $513,103.49",
+    "Good Faith Upset*": "$513,103.49",
     "Judgment": "$474,317.37",
     "Plaintiff": "DEUTSCHE BANK, NATIONAL TRUST COMPANY AS TRUSTEE UNDER THE POOLING AND SERVICING AGREEMENT DATED AS OF FEBRUARY 1, 2007, GSAMP TRUST 2007-FM2, MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2007-FM2",
     "Property Note": "",
-    "Sales Date": "1/7/2027",
+    "Sales Date": "3/4/2027",
     "Sheriff #": "20064740"
   },
   "first_seen": "2026-11-07",
@@ -35,22 +35,26 @@
     "defendant": "ANTHONY V. TOMASHESKY, ET AL.",
     "listing_status": null,
     "plaintiff": "DEUTSCHE BANK, NATIONAL TRUST COMPANY AS TRUSTEE UNDER THE POOLING AND SERVICING AGREEMENT DATED AS OF FEBRUARY 1, 2007, GSAMP TRUST 2007-FM2, MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2007-FM2",
-    "sale_date": "2027-01-07"
+    "sale_date": "2027-03-04"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "DEUTSCHE BANK, NATIONAL TRUST COMPANY AS TRUSTEE UNDER THE POOLING AND SERVICING AGREEMENT DATED AS OF FEBRUARY 1, 2007, GSAMP TRUST 2007-FM2, MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2007-FM2",
   "property_note": null,
-  "sale_date": "2027-01-07",
+  "sale_date": "2027-03-04",
   "sheriff_number": "20064740",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
     {
       "date": "2027-01-07",
       "status": "Scheduled"
+    },
+    {
+      "date": "2027-03-04",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
     }
   ],
-  "upset_amount": 504837.7,
+  "upset_amount": 513103.49,
   "upset_amount_label": "Good Faith Upset*"
 }

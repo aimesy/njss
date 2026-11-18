@@ -5,7 +5,7 @@
   "county": "Burlington County, NJ",
   "county_id": 3,
   "court_case_number": "F-007795-24",
-  "current_status": "1st Debtor Adjournment to",
+  "current_status": "2nd Debtor Adjournment to",
   "defendant": "NAJEE LUNDY AND SPOUSE OF NAJEE LUNDY",
   "description": "APPROXIMATE GOOD FAITH ESTIMATE OF UPSET PRICE: $385,000.00",
   "extracted": {
@@ -22,7 +22,7 @@
     "Parcel #": "",
     "Plaintiff": "AMERICAN NEIGHBORHOOD MORTGAGE ACCEPTANCE COMPANY, LLC",
     "Property Note": "",
-    "Sales Date": "11/19/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "26001876"
   },
   "first_seen": "2026-10-12",
@@ -33,7 +33,7 @@
     "defendant": "NAJEE LUNDY AND SPOUSE OF NAJEE LUNDY",
     "listing_status": null,
     "plaintiff": "AMERICAN NEIGHBORHOOD MORTGAGE ACCEPTANCE COMPANY, LLC",
-    "sale_date": "2026-11-19"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -41,7 +41,7 @@
   "parcel": null,
   "plaintiff": "AMERICAN NEIGHBORHOOD MORTGAGE ACCEPTANCE COMPANY, LLC",
   "property_note": null,
-  "sale_date": "2026-11-19",
+  "sale_date": "2027-01-07",
   "sheriff_number": "26001876",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=3",
   "status_history": [
@@ -52,6 +52,10 @@
     {
       "date": "2026-11-19",
       "status": "1st Debtor Adjournment to"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "2nd Debtor Adjournment to"
     }
   ]
 }

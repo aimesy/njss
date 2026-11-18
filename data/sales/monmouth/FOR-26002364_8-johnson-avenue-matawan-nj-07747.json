@@ -1,0 +1,51 @@
+{
+  "address": "8 Johnson Avenue Matawan NJ 07747",
+  "attorney": "Hill Wallack LLP",
+  "county": "Monmouth County, NJ",
+  "county_id": 8,
+  "court_case_number": "F01172425",
+  "current_status": "Scheduled",
+  "defendant": "Russell Thomas; et al.;",
+  "description": "Nearest Cross Street: Approximately 421.36ft from the nearest cross street known as Railroad Plaza and Harrel Street\nApproximate Dimensions: 56.54ft x 486.07ft x 50.50ft x 174.70ft x 83ft x 85.03ft x 22.54ft x 99.32ft x 205.9ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8006, at Page 1246\nApproximate Upset Price is $369,140.51 for the Sheriff's Sale\nPursuant to a municipal tax search dated November 4, 2026.\nSubject to: 2026 3rd quarter taxes due 8/1/2026, $3,793.23 billed; $3,793.18 Open Plus Penalty; $0.05 Paid\n2026 4th quarter taxes due 11/1/2026, $3,793.22 Open; Subject to Posting\n2027 1st quarter taxes due 2/1/2027, $3,417.52 Open\n2027 2nd quarter taxes due 5/1/2027, $3,417.51 Open\nWater: Acct. 703917 0, 6/1/2026-8/31/2026, $395.21 Open Plus Penalty; $297.62 Open Plus Penalty; Owed in Arrears\nSewer: Acct. 703917 0, 6/1/2026-8/31/2026, $216.70 Open Plus Penalty; $216.70 Open Plus Penalty; Owed in arrears",
+  "extracted": {
+    "upset_amount": 369140.51
+  },
+  "fields": {
+    "Address": "8 Johnson Avenue\nMatawan NJ 07747",
+    "Approx. Judgment*": "$340,259.33",
+    "Attorney": "Hill Wallack LLP",
+    "Court Case #": "F01172425",
+    "Defendant": "Russell Thomas; et al.;",
+    "Description": "Nearest Cross Street: Approximately 421.36ft from the nearest cross street known as Railroad Plaza and Harrel Street\nApproximate Dimensions: 56.54ft x 486.07ft x 50.50ft x 174.70ft x 83ft x 85.03ft x 22.54ft x 99.32ft x 205.9ft\nThe full legal description can be found in the Office of the Clerk of Monmouth County in Deed Book 8006, at Page 1246\nApproximate Upset Price is $369,140.51 for the Sheriff's Sale\nPursuant to a municipal tax search dated November 4, 2026.\nSubject to: 2026 3rd quarter taxes due 8/1/2026, $3,793.23 billed; $3,793.18 Open Plus Penalty; $0.05 Paid\n2026 4th quarter taxes due 11/1/2026, $3,793.22 Open; Subject to Posting\n2027 1st quarter taxes due 2/1/2027, $3,417.52 Open\n2027 2nd quarter taxes due 5/1/2027, $3,417.51 Open\nWater: Acct. 703917 0, 6/1/2026-8/31/2026, $395.21 Open Plus Penalty; $297.62 Open Plus Penalty; Owed in Arrears\nSewer: Acct. 703917 0, 6/1/2026-8/31/2026, $216.70 Open Plus Penalty; $216.70 Open Plus Penalty; Owed in arrears",
+    "Parcel #": "Lot and Block: Lot 22, Block 11 Tax Map of Borough of Matawan",
+    "Plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust X-C,",
+    "Property Note": "",
+    "Sales Date": "1/25/2027",
+    "Sheriff #": "FOR-26002364"
+  },
+  "first_seen": "2026-11-18",
+  "judgment_amount": 340259.33,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "8 Johnson Avenue Matawan NJ 07747",
+    "defendant": "Russell Thomas; et al.;",
+    "listing_status": "Scheduled",
+    "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust X-C,",
+    "sale_date": "2027-01-25"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Monmouth County, NJ)",
+  "parcel": "Lot and Block: Lot 22, Block 11 Tax Map of Borough of Matawan",
+  "plaintiff": "Wilmington Savings Fund Society, FSB, as Owner Trustee of the Residential Credit Opportunities Trust X-C,",
+  "property_note": null,
+  "sale_date": "2027-01-25",
+  "sheriff_number": "FOR-26002364",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+  "status_history": [
+    {
+      "date": "2027-01-25",
+      "status": "Scheduled"
+    }
+  ]
+}
