@@ -1,0 +1,100 @@
+{
+  "address": "207 FIFTEENTH STREET UNIT 52 JERSEY CITY NJ 07311",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-004717-23",
+  "current_status": "Cancelled",
+  "defendant": "ALTAGRACI MATOS A/K/A ALTAGRACIA MATOS",
+  "description": "TAX LOT 7105 BLOCK 4\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 10% INTEREST IN THE COMMON ELEMENTS OF THE 15TH STREET CONDOMINIUM.\nNEAREST CROSS STREET: ERIE STREET\nESTIMATED UPSET BID AMOUNT: $139,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: TENANT OCCUPIED\n2026 QTR 1 DUE: 02/01/2026 $337.41 OPEN\n2026 QTR 2 DUE: 05/01/2026 $337.41 OPEN\nA. MORTGAGE ORIGINALLY HELD BY UNITED JERSEY BANK, RECORDED IN THE HUDSON COUNTY CLERK'S OFFICE ON MAY 26, 1992 IN BOOK 4925, PAGE 191, IN ORIGINAL AMOUNT OF $17,430.00. MESNE ASSIGNMENTS OF RECORD; LAST ASSIGNEE PRIOR TO PLAINTIFF'S LIS PENDENS WAS GREEN TREE SERVICING, LLC. PURCHASERS ENCOURAGED TO EXERCISE DILIGENCE IN DETERMINING CURRENT INTERESTED PARTY\nB. MORTGAGE ORIGINALLY HELD BY NJ. DEPT OF COMMUNITY AFFAIRS, RECORDED IN THE HUDSON COUNTY CLERK/REGISTER'S OFFICE ON MAY 26, 1992 IN BOOK 4925, PAGE 184. MORTGAGE HAS NO FACE DOLLAR AMOUNT.",
+  "extracted": {
+    "block": "4",
+    "lot": "7105",
+    "occupancy": "TENANT OCCUPIED"
+  },
+  "fields": {
+    "Address": "207 FIFTEENTH STREET UNIT 52\nJERSEY CITY NJ 07311",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-004717-23",
+    "Defendant": "ALTAGRACI MATOS A/K/A ALTAGRACIA MATOS",
+    "Description": "TAX LOT 7105 BLOCK 4\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 10% INTEREST IN THE COMMON ELEMENTS OF THE 15TH STREET CONDOMINIUM.\nNEAREST CROSS STREET: ERIE STREET\nESTIMATED UPSET BID AMOUNT: $139,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: TENANT OCCUPIED\n2026 QTR 1 DUE: 02/01/2026 $337.41 OPEN\n2026 QTR 2 DUE: 05/01/2026 $337.41 OPEN\nA. MORTGAGE ORIGINALLY HELD BY UNITED JERSEY BANK, RECORDED IN THE HUDSON COUNTY CLERK'S OFFICE ON MAY 26, 1992 IN BOOK 4925, PAGE 191, IN ORIGINAL AMOUNT OF $17,430.00. MESNE ASSIGNMENTS OF RECORD; LAST ASSIGNEE PRIOR TO PLAINTIFF'S LIS PENDENS WAS GREEN TREE SERVICING, LLC. PURCHASERS ENCOURAGED TO EXERCISE DILIGENCE IN DETERMINING CURRENT INTERESTED PARTY\nB. MORTGAGE ORIGINALLY HELD BY NJ. DEPT OF COMMUNITY AFFAIRS, RECORDED IN THE HUDSON COUNTY CLERK/REGISTER'S OFFICE ON MAY 26, 1992 IN BOOK 4925, PAGE 184. MORTGAGE HAS NO FACE DOLLAR AMOUNT.",
+    "Good Faith Upset*": "$145,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.",
+    "Judgment": "$120,985.15",
+    "Plaintiff": "FIRST KEY MASTER FUNDING 2021-A COLLATERAL TRUST",
+    "Property Note": "",
+    "Sales Date": "2/16/2026",
+    "Sheriff #": "20054677"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 120985.15,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "207 FIFTEENTH STREET UNIT 52 JERSEY CITY NJ 07311",
+    "defendant": "ALTAGRACI MATOS A/K/A ALTAGRACIA MATOS",
+    "listing_status": null,
+    "plaintiff": "FIRST KEY MASTER FUNDING 2021-A COLLATERAL TRUST",
+    "sale_date": "2026-02-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "FIRST KEY MASTER FUNDING 2021-A COLLATERAL TRUST",
+  "property_note": null,
+  "sale_date": "2026-02-16",
+  "sheriff_number": "20054677",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-05-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-05-17",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2024-09-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2024-11-06",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2024-11-07",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2025-06-03",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-02-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 145000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

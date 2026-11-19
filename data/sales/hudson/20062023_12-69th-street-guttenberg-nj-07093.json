@@ -1,0 +1,64 @@
+{
+  "address": "12 69TH STREET GUTTENBERG NJ 07093",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-010729-22",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "DIA INVESTMENT GROUP LLC; BKUK REALTY LLC; BESIM KUKAJ; SAEED KETABCHI; GEON, INC.; PERFORMANCE FOOD GROUP INC D/B/A PERFORMANCE FOODSERVICE METRO NY; BANK OF NEW YORK N/K/A THE BANK OF NEW YORK MELLON; UNKNOWN OCCUPANTS #1-10 N/K/A LOPEZ CASTRO, OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A MARIA JUANA, OCCUPANT",
+  "description": "TAX LOT(S): 11, IN BLOCK: 39\nDIMENSIONS (APPROX.): 29 X 22.28\nNEAREST CROSS STREET: JFK BLVD. E.\nGOOD FAITH ESTIMATED UPSET PRICE: $504,633.39\nOCCUPANCY STATUS: VACANT",
+  "extracted": {
+    "block": "39",
+    "occupancy": "VACANT",
+    "upset_amount": 504633.39
+  },
+  "fields": {
+    "Address": "12 69TH STREET\nGUTTENBERG NJ 07093",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-010729-22",
+    "Defendant": "DIA INVESTMENT GROUP LLC; BKUK REALTY LLC; BESIM KUKAJ; SAEED KETABCHI; GEON, INC.; PERFORMANCE FOOD GROUP INC D/B/A PERFORMANCE FOODSERVICE METRO NY; BANK OF NEW YORK N/K/A THE BANK OF NEW YORK MELLON; UNKNOWN OCCUPANTS #1-10 N/K/A LOPEZ CASTRO, OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A MARIA JUANA, OCCUPANT",
+    "Description": "TAX LOT(S): 11, IN BLOCK: 39\nDIMENSIONS (APPROX.): 29 X 22.28\nNEAREST CROSS STREET: JFK BLVD. E.\nGOOD FAITH ESTIMATED UPSET PRICE: $504,633.39\nOCCUPANCY STATUS: VACANT",
+    "Good Faith Upset*": "$504,633.39",
+    "Judgment": "$419,368.49",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF THE NEW RESIDENTIAL MORTGAGE LOAN TRUST 2021-NQM2R",
+    "Property Note": "**DEF USED TOTAL ADJS. SEE FILE 20056061.**",
+    "Sales Date": "5/21/2026",
+    "Sheriff #": "20062023"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 419368.49,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "12 69TH STREET GUTTENBERG NJ 07093",
+    "defendant": "DIA INVESTMENT GROUP LLC; BKUK REALTY LLC; BESIM KUKAJ; SAEED KETABCHI; GEON, INC.; PERFORMANCE FOOD GROUP INC D/B/A PERFORMANCE FOODSERVICE METRO NY; BANK OF NEW YORK N/K/A THE BANK OF NEW YORK MELLON; UNKNOWN OCCUPANTS #1-10 N/K/A LOPEZ CASTRO, OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A MARIA JUANA, OCCUPANT",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF THE NEW RESIDENTIAL MORTGAGE LOAN TRUST 2021-NQM2R",
+    "sale_date": "2026-05-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF THE NEW RESIDENTIAL MORTGAGE LOAN TRUST 2021-NQM2R",
+  "property_note": "**DEF USED TOTAL ADJS. SEE FILE 20056061.**",
+  "sale_date": "2026-05-21",
+  "sheriff_number": "20062023",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 504633.39,
+  "upset_amount_label": "Good Faith Upset*"
+}

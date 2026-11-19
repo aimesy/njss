@@ -1,0 +1,76 @@
+{
+  "address": "18 WINFIELD AVENUE JERSEY CITY NJ 07305",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-013420-23 (CWPP INELIGIBLE)",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "18 WINFIELD LLC; DAVID GOTTLIEB; UNKNOWN OCCUPANTS #1-10 N/K/A QUADREANER (LAST NAME REFUSED), TENANT",
+  "description": "TAX LOT(S): 35, IN BLOCK: 29502\nDIMENSIONS (APPROX.): 125X25\nNEAREST CROSS STREET: PRINCETON AVENUE\nGOOD FAITH ESTIMATED UPSET PRICE: $879,848.68\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+  "extracted": {
+    "block": "29502",
+    "occupancy": "OCCUPIED BY UNKNOWN",
+    "upset_amount": 879848.68
+  },
+  "fields": {
+    "Address": "18 WINFIELD AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-013420-23 (CWPP INELIGIBLE)",
+    "Defendant": "18 WINFIELD LLC; DAVID GOTTLIEB; UNKNOWN OCCUPANTS #1-10 N/K/A QUADREANER (LAST NAME REFUSED), TENANT",
+    "Description": "TAX LOT(S): 35, IN BLOCK: 29502\nDIMENSIONS (APPROX.): 125X25\nNEAREST CROSS STREET: PRINCETON AVENUE\nGOOD FAITH ESTIMATED UPSET PRICE: $879,848.68\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN\nTHIS IS A COMMERCIAL PROPERTY NOT SUBJECT TO THE COMMUNITY WEALTH PRESERVATION PROGRAM BILL.",
+    "Good Faith Upset*": "$879,848.68",
+    "Judgment": "$807,234.17",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF FIDELITY & GUARANTY LIFE MORTGAGE TRUST 2018-1",
+    "Property Note": "",
+    "Sales Date": "3/5/2026",
+    "Sheriff #": "20059826"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 807234.17,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "18 WINFIELD AVENUE JERSEY CITY NJ 07305",
+    "defendant": "18 WINFIELD LLC; DAVID GOTTLIEB; UNKNOWN OCCUPANTS #1-10 N/K/A QUADREANER (LAST NAME REFUSED), TENANT",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF FIDELITY & GUARANTY LIFE MORTGAGE TRUST 2018-1",
+    "sale_date": "2026-03-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF FIDELITY & GUARANTY LIFE MORTGAGE TRUST 2018-1",
+  "property_note": null,
+  "sale_date": "2026-03-05",
+  "sheriff_number": "20059826",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-09-25",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-10-23",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 879848.68,
+  "upset_amount_label": "Good Faith Upset*"
+}

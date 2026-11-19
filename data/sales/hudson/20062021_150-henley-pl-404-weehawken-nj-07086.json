@@ -1,0 +1,63 @@
+{
+  "address": "150 HENLEY PL #404 WEEHAWKEN NJ 07086",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-010696-23",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "COLFAX ONCOLOGY, LLC; HENLEY-ON-HUDSON CONDOMINIUM ASSOCIATION, INC.; RICHARDS AFONJA; STATE OF NEW JERSEY",
+  "description": "TAX LOT 1.01 BLOCK 45.01 QUALIFIER: C0073\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 0.004941 PERCENT INTEREST IN THE COMMON ELEMENTS O HENLEY ON HUDSON CONDOMINIUM\nNEAREST CROSS STREET: ETON ROW\n2026 QTR 2 DUE: 05/01/2026 $11,554.30 OPEN\nSEWER: NORTH HUDSON SEWER AUTH. 1600 ADAMS ST. HOBOKEN, NJ 07030 201-963-6043 ACCT: 302520 0 01/01/2026 - 03/31/2026 $128.16 OPEN AND DUE 02/20/2026 $4,891.71 OPEN PLUS PENALTY",
+  "extracted": {
+    "block": "45.01",
+    "lot": "1.01"
+  },
+  "fields": {
+    "Address": "150 HENLEY PL #404\nWEEHAWKEN NJ 07086",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-010696-23",
+    "Defendant": "COLFAX ONCOLOGY, LLC; HENLEY-ON-HUDSON CONDOMINIUM ASSOCIATION, INC.; RICHARDS AFONJA; STATE OF NEW JERSEY",
+    "Description": "TAX LOT 1.01 BLOCK 45.01 QUALIFIER: C0073\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 0.004941 PERCENT INTEREST IN THE COMMON ELEMENTS O HENLEY ON HUDSON CONDOMINIUM\nNEAREST CROSS STREET: ETON ROW\n2026 QTR 2 DUE: 05/01/2026 $11,554.30 OPEN\nSEWER: NORTH HUDSON SEWER AUTH. 1600 ADAMS ST. HOBOKEN, NJ 07030 201-963-6043 ACCT: 302520 0 01/01/2026 - 03/31/2026 $128.16 OPEN AND DUE 02/20/2026 $4,891.71 OPEN PLUS PENALTY",
+    "Good Faith Upset*": "",
+    "Judgment": "$2,053,894.71",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "6/25/2026",
+    "Sheriff #": "20062021"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 2053894.71,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "150 HENLEY PL #404 WEEHAWKEN NJ 07086",
+    "defendant": "COLFAX ONCOLOGY, LLC; HENLEY-ON-HUDSON CONDOMINIUM ASSOCIATION, INC.; RICHARDS AFONJA; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+    "sale_date": "2026-06-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-06-25",
+  "sheriff_number": "20062021",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-04-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

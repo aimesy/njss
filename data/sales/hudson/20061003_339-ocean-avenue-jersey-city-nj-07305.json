@@ -1,0 +1,68 @@
+{
+  "address": "339 OCEAN AVENUE JERSEY CITY NJ 07305",
+  "attorney": "JOHN J. CARDILE",
+  "attorney_phone": "973-227-2303",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "SWC-F-004432-25",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "339 OCEAN AVENUE PARTNERS LLC, ALBERTO WELLS, AND MIDLAND FUNDING LLC",
+  "description": "TAX LOT 28, BLOCK 26503\nDIMENSIONS OF LOT: APPROXIMATELY 30X94 FEET\nNEAREST CROSS STREET: WADE STREET\nESTIMATED UPSET BID AMOUNT: $672,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: NOT OCCUPIED\n2026 QTR 1 DUE: 02/01/2026 $3,022.66 OPEN\n2026 QTR 2 DUE: 05/01/2026 $3,022.66 OPEN",
+  "extracted": {
+    "block": "26503",
+    "lot": "28",
+    "occupancy": "NOT OCCUPIED"
+  },
+  "fields": {
+    "Address": "339 OCEAN AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "JOHN J. CARDILE",
+    "Attorney Phone": "973-227-2303",
+    "Court Case #": "SWC-F-004432-25",
+    "Defendant": "339 OCEAN AVENUE PARTNERS LLC, ALBERTO WELLS, AND MIDLAND FUNDING LLC",
+    "Description": "TAX LOT 28, BLOCK 26503\nDIMENSIONS OF LOT: APPROXIMATELY 30X94 FEET\nNEAREST CROSS STREET: WADE STREET\nESTIMATED UPSET BID AMOUNT: $672,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: NOT OCCUPIED\n2026 QTR 1 DUE: 02/01/2026 $3,022.66 OPEN\n2026 QTR 2 DUE: 05/01/2026 $3,022.66 OPEN",
+    "Good Faith Upset*": "$672,000.00",
+    "Judgment": "$691,862.60",
+    "Plaintiff": "ROHTASH GOYAL",
+    "Property Note": "",
+    "Sales Date": "6/25/2026",
+    "Sheriff #": "20061003"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 691862.6,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "339 OCEAN AVENUE JERSEY CITY NJ 07305",
+    "defendant": "339 OCEAN AVENUE PARTNERS LLC, ALBERTO WELLS, AND MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "ROHTASH GOYAL",
+    "sale_date": "2026-06-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "ROHTASH GOYAL",
+  "property_note": null,
+  "sale_date": "2026-06-25",
+  "sheriff_number": "20061003",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 672000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "1702 KENNEDY BLVD JERSEY CITY NJ 07305",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "844-856-6646",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-007538-24",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "JUDY CORDERO, ET AL.",
+  "description": "LOT 29, BLOCK 28601\nDIMENSIONS: 24.93FT. X 108FT. X 22FT. X 96FT.\nNEAREST CROSS STREET: GREENVILLE AVENUE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED.\nPLANTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $505,475.45\nSUBJECT TO TAX SALE CERTIFICATE #2024-1598 FOR WATER AND SEWER SOLD ON DECEMBER 18, 2024, IN THE AMOUNT OF $2,665.02. PURCHASER IS RESPONSIBLE FOR OBTAINING LIEN REDEMPTION AMOUNT.",
+  "extracted": {
+    "block": "28601",
+    "lot": "29",
+    "upset_amount": 505475.45
+  },
+  "fields": {
+    "Address": "1702 KENNEDY BLVD\nJERSEY CITY NJ 07305",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "844-856-6646",
+    "Court Case #": "F-007538-24",
+    "Defendant": "JUDY CORDERO, ET AL.",
+    "Description": "LOT 29, BLOCK 28601\nDIMENSIONS: 24.93FT. X 108FT. X 22FT. X 96FT.\nNEAREST CROSS STREET: GREENVILLE AVENUE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED.\nPLANTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $505,475.45\nSUBJECT TO TAX SALE CERTIFICATE #2024-1598 FOR WATER AND SEWER SOLD ON DECEMBER 18, 2024, IN THE AMOUNT OF $2,665.02. PURCHASER IS RESPONSIBLE FOR OBTAINING LIEN REDEMPTION AMOUNT.",
+    "Good Faith Upset*": "$505,475.45",
+    "Judgment": "$433,236.64",
+    "Plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR FREMONT HOME LOAN TRUST 2006-E, MORTGAGE-BACKED CERTIFICATES, SERIES 2006-E",
+    "Property Note": "",
+    "Sales Date": "5/21/2026",
+    "Sheriff #": "20061446"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 433236.64,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1702 KENNEDY BLVD JERSEY CITY NJ 07305",
+    "defendant": "JUDY CORDERO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR FREMONT HOME LOAN TRUST 2006-E, MORTGAGE-BACKED CERTIFICATES, SERIES 2006-E",
+    "sale_date": "2026-05-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR FREMONT HOME LOAN TRUST 2006-E, MORTGAGE-BACKED CERTIFICATES, SERIES 2006-E",
+  "property_note": null,
+  "sale_date": "2026-05-21",
+  "sheriff_number": "20061446",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-03-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 505475.45,
+  "upset_amount_label": "Good Faith Upset*"
+}

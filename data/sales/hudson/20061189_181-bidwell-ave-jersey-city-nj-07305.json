@@ -1,0 +1,68 @@
+{
+  "address": "181 BIDWELL AVE JERSEY CITY NJ 07305",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "844-856-6646",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011278-23",
+  "current_status": "Cancelled",
+  "defendant": "TIFFANY MOSES, ET AL.",
+  "description": "LOT 5, BLOCK 242002\nDIMENSIONS: 25FT. X 112FT.\nNEAREST CROSS STREET: MARTIN LUTHER KING DR.\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $601,360.85.",
+  "extracted": {
+    "block": "242002",
+    "lot": "5",
+    "upset_amount": 601360.85
+  },
+  "fields": {
+    "Address": "181 BIDWELL AVE\nJERSEY CITY NJ 07305",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "844-856-6646",
+    "Court Case #": "F-011278-23",
+    "Defendant": "TIFFANY MOSES, ET AL.",
+    "Description": "LOT 5, BLOCK 242002\nDIMENSIONS: 25FT. X 112FT.\nNEAREST CROSS STREET: MARTIN LUTHER KING DR.\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $601,360.85.",
+    "Good Faith Upset*": "$601,360.85",
+    "Judgment": "$542,919.69",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "4/22/2026",
+    "Sheriff #": "20061189"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 542919.69,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "181 BIDWELL AVE JERSEY CITY NJ 07305",
+    "defendant": "TIFFANY MOSES, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-04-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-04-22",
+  "sheriff_number": "20061189",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 601360.85,
+  "upset_amount_label": "Good Faith Upset*"
+}

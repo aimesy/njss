@@ -1,0 +1,69 @@
+{
+  "address": "3315 PLEASANT AVENUE, UNIT 110, UNION CITY NJ 07087",
+  "attorney": "GRIFFIN ALEXANDER, P.C.",
+  "attorney_phone": "973-366-1188",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011077-23",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "MELISSA KLOTZ",
+  "description": "LOT 21 C0110 BLOCK 202\nDIMENSIONS OF LOT: APPROXIMATELY 588 SQ. FT. CONDO UNIT\nNUMBER OF FEET TO NEAREST CROSS STREET: APPROXIMATELY 100 FT FROM THE NEAREST CROSS STREET OF PARK AVENUE.\nPINNACLE MORTGAGE (FIRST MORTGAGE) $112,000.00\nPNC BANK (SECOND MORTGAGE) $36,400.00\nCONDO LIEN 2007 $7,082.63\nCONDO LIEN 2010 $6,376.69\nCONDO LIEN 2012 $25,013.62\nCONDO LIEN 2017 $36,162.75\nCONDO LIEN 2024 $41,450.43\nCONDO LIEN 2024 $69,146.33\nJudgment J-117042-19 $41,450.43\nWATER: N/A\nSEWER: N/A\nTOTAL: $333,632.45\nUPSET PRICE: $67,172.81\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "block": "202",
+    "lot": "21",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 67172.81
+  },
+  "fields": {
+    "Address": "3315 PLEASANT AVENUE, UNIT 110,\nUNION CITY NJ 07087",
+    "Attorney": "GRIFFIN ALEXANDER, P.C.",
+    "Attorney Phone": "973-366-1188",
+    "Court Case #": "F-011077-23",
+    "Defendant": "MELISSA KLOTZ",
+    "Description": "LOT 21 C0110 BLOCK 202\nDIMENSIONS OF LOT: APPROXIMATELY 588 SQ. FT. CONDO UNIT\nNUMBER OF FEET TO NEAREST CROSS STREET: APPROXIMATELY 100 FT FROM THE NEAREST CROSS STREET OF PARK AVENUE.\nPINNACLE MORTGAGE (FIRST MORTGAGE) $112,000.00\nPNC BANK (SECOND MORTGAGE) $36,400.00\nCONDO LIEN 2007 $7,082.63\nCONDO LIEN 2010 $6,376.69\nCONDO LIEN 2012 $25,013.62\nCONDO LIEN 2017 $36,162.75\nCONDO LIEN 2024 $41,450.43\nCONDO LIEN 2024 $69,146.33\nJudgment J-117042-19 $41,450.43\nWATER: N/A\nSEWER: N/A\nTOTAL: $333,632.45\nUPSET PRICE: $67,172.81\nOCCUPANCY STATUS: OCCUPIED",
+    "Good Faith Upset*": "$67,172.81",
+    "Judgment": "$67,172.81",
+    "Plaintiff": "3315 HARBOR VIEW CONDOMINIUM ASSOCIATION, INC., A NON-PROFIT CORPORATION",
+    "Property Note": "",
+    "Sales Date": "5/21/2026",
+    "Sheriff #": "20061156"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 67172.81,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "3315 PLEASANT AVENUE, UNIT 110, UNION CITY NJ 07087",
+    "defendant": "MELISSA KLOTZ",
+    "listing_status": null,
+    "plaintiff": "3315 HARBOR VIEW CONDOMINIUM ASSOCIATION, INC., A NON-PROFIT CORPORATION",
+    "sale_date": "2026-05-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "3315 HARBOR VIEW CONDOMINIUM ASSOCIATION, INC., A NON-PROFIT CORPORATION",
+  "property_note": null,
+  "sale_date": "2026-05-21",
+  "sheriff_number": "20061156",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 67172.81,
+  "upset_amount_label": "Good Faith Upset*"
+}

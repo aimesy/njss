@@ -1,0 +1,80 @@
+{
+  "address": "99 GREENVILLE AVENUE JERSEY CITY NJ 07305",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "401-217-8701",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-003262-24",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "DONALD A. HALTER JR., INDIVIDUALLY AND AS EXECUTOR FOR THE REAL ESTATE OF DONALD HALTER, ET AL.",
+  "description": "LOT 2, BLOCK 28507\nDIMENSIONS: 17.41 FT X 49.56 FT\nNEAREST CROSS STREET: NEW BERGEN ROAD\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $307,464.51\nSUBJECT TO OPEN WATER IN THE AMOUNT OF $2,420.13 PLUS PENALTY AND COSTS.",
+  "extracted": {
+    "block": "28507",
+    "lot": "2",
+    "upset_amount": 307464.51
+  },
+  "fields": {
+    "Address": "99 GREENVILLE AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "401-217-8701",
+    "Court Case #": "F-003262-24",
+    "Defendant": "DONALD A. HALTER JR., INDIVIDUALLY AND AS EXECUTOR FOR THE REAL ESTATE OF DONALD HALTER, ET AL.",
+    "Description": "LOT 2, BLOCK 28507\nDIMENSIONS: 17.41 FT X 49.56 FT\nNEAREST CROSS STREET: NEW BERGEN ROAD\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $307,464.51\nSUBJECT TO OPEN WATER IN THE AMOUNT OF $2,420.13 PLUS PENALTY AND COSTS.",
+    "Good Faith Upset*": "$307,464.51",
+    "Judgment": "$258,573.65",
+    "Plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+    "Property Note": "",
+    "Sales Date": "6/11/2026",
+    "Sheriff #": "20057083"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 258573.65,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "99 GREENVILLE AVENUE JERSEY CITY NJ 07305",
+    "defendant": "DONALD A. HALTER JR., INDIVIDUALLY AND AS EXECUTOR FOR THE REAL ESTATE OF DONALD HALTER, ET AL.",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+    "sale_date": "2026-06-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+  "property_note": null,
+  "sale_date": "2026-06-11",
+  "sheriff_number": "20057083",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-12-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Purchased at Auction by 3rd Party"
+    },
+    {
+      "date": "2025-11-12",
+      "status": "HOLD"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 307464.51,
+  "upset_amount_label": "Good Faith Upset*"
+}

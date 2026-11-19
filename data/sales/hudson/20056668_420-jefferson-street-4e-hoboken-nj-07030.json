@@ -1,0 +1,77 @@
+{
+  "address": "420 JEFFERSON STREET #4E HOBOKEN NJ 07030",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "860-241-2806",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011169-23",
+  "current_status": "Cancelled",
+  "defendant": "MARK D. ARONSON AND CLUB HOBOKEN CONDOMINIUM ASSOCIATION, INC.",
+  "description": "LOT 12, QUALIFIER C004E, BLOCK 59\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: 5TH STREET\nSUBJECT TO: SUBJECT TO FIRST MORTGAGE IN THE AMOUNT OF $80,000.00 RECORDED ON 02/10/1995.\nOCCUPANCY STATUS: OCCUPIED\nUPSET PRICE: $122,202.01\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "59",
+    "lot": "12",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 122202.01
+  },
+  "fields": {
+    "Address": "420 JEFFERSON STREET #4E\nHOBOKEN NJ 07030",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "860-241-2806",
+    "Court Case #": "F-011169-23",
+    "Defendant": "MARK D. ARONSON AND CLUB HOBOKEN CONDOMINIUM ASSOCIATION, INC.",
+    "Description": "LOT 12, QUALIFIER C004E, BLOCK 59\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: 5TH STREET\nSUBJECT TO: SUBJECT TO FIRST MORTGAGE IN THE AMOUNT OF $80,000.00 RECORDED ON 02/10/1995.\nOCCUPANCY STATUS: OCCUPIED\nUPSET PRICE: $122,202.01\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Good Faith Upset*": "$122,202.01",
+    "Judgment": "$110,107.59",
+    "Plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "2/26/2026",
+    "Sheriff #": "20056668"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 110107.59,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "420 JEFFERSON STREET #4E HOBOKEN NJ 07030",
+    "defendant": "MARK D. ARONSON AND CLUB HOBOKEN CONDOMINIUM ASSOCIATION, INC.",
+    "listing_status": null,
+    "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-02-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-02-26",
+  "sheriff_number": "20056668",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-12-19",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2025-01-16",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-01-30",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-02-04",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-02-26",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 122202.01,
+  "upset_amount_label": "Good Faith Upset*"
+}

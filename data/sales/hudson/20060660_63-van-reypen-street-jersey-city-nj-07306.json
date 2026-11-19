@@ -1,0 +1,68 @@
+{
+  "address": "63 VAN REYPEN STREET JERSEY CITY NJ 07306",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-007609-24",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "RAMON S. DALMASI INDIVIDUALLY, AND AS EXECUTOR OF THE ESTATE OF JUAN DALMASI; ET AL",
+  "description": "TAX LOT(S): 38, IN BLOCK: 12101\nDIMENSIONS (APPROX.): 25.07 X 109.44\nNEAREST CROSS STREET: VROOM STREET\nGOOD FAITH ESTIMATED UPSET PRICE: $404,659.38\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+  "extracted": {
+    "block": "12101",
+    "occupancy": "OCCUPIED BY UNKNOWN",
+    "upset_amount": 404659.38
+  },
+  "fields": {
+    "Address": "63 VAN REYPEN STREET\nJERSEY CITY NJ 07306",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-007609-24",
+    "Defendant": "RAMON S. DALMASI INDIVIDUALLY, AND AS EXECUTOR OF THE ESTATE OF JUAN DALMASI; ET AL",
+    "Description": "TAX LOT(S): 38, IN BLOCK: 12101\nDIMENSIONS (APPROX.): 25.07 X 109.44\nNEAREST CROSS STREET: VROOM STREET\nGOOD FAITH ESTIMATED UPSET PRICE: $404,659.38\nOCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
+    "Good Faith Upset*": "$404,659.38",
+    "Judgment": "$368,960.95",
+    "Plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "20060660"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 368960.95,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "63 VAN REYPEN STREET JERSEY CITY NJ 07306",
+    "defendant": "RAMON S. DALMASI INDIVIDUALLY, AND AS EXECUTOR OF THE ESTATE OF JUAN DALMASI; ET AL",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "20060660",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-12-11",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 404659.38,
+  "upset_amount_label": "Good Faith Upset*"
+}

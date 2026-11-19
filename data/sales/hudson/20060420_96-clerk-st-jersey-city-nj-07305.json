@@ -1,0 +1,76 @@
+{
+  "address": "96 CLERK ST JERSEY CITY NJ 07305",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "844-856-6646",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005123-23",
+  "current_status": "Cancelled",
+  "defendant": "GARY GARVIN, ET AL.",
+  "description": "LOT 46, BLOCK 23302\nDIMENSIONS: 25 FT X 125 FT\nNEAREST CROSS STREET: CLAREMONT AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $460,200.00",
+  "extracted": {
+    "block": "23302",
+    "lot": "46",
+    "upset_amount": 460200.0
+  },
+  "fields": {
+    "Address": "96 CLERK ST\nJERSEY CITY NJ 07305",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "844-856-6646",
+    "Court Case #": "F-005123-23",
+    "Defendant": "GARY GARVIN, ET AL.",
+    "Description": "LOT 46, BLOCK 23302\nDIMENSIONS: 25 FT X 125 FT\nNEAREST CROSS STREET: CLAREMONT AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $460,200.00",
+    "Good Faith Upset*": "$460,200.00",
+    "Judgment": "$424,974.29",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "**DEFENDANT ADJOURNMENTS WERE USED. SEE FILE 20056008",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "20060420"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 424974.29,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "96 CLERK ST JERSEY CITY NJ 07305",
+    "defendant": "GARY GARVIN, ET AL.",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": "**DEFENDANT ADJOURNMENTS WERE USED. SEE FILE 20056008",
+  "sale_date": "2026-03-04",
+  "sheriff_number": "20060420",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-10-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-11-05",
+      "status": "HOLD"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 460200.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

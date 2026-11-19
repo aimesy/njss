@@ -1,0 +1,79 @@
+{
+  "address": "6-35 CHAPEL AVENUE JERSEY CITY NJ 07305",
+  "attorney": "RIKER DANZIG SCHERER HYLAND & PERRETTI, LLP",
+  "attorney_phone": "973-451-8526",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "SWC-F-005369-24",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "CHAPEL AVENUE LLC AND STATE OF NEW JERSEY",
+  "description": "TAX LOT AND BLOCK NO.: BLOCK 27503, LOT 11, QUALIFIERS C8001, C8002, C8004 THROUGH C8007, INCLUSIVE & C8009 THROUGH C8011, INCLUSIVE\nDIMENSIONS (APPROX.):\nC8001: 4470 SF\nC8002: 1620 SF\nC8004: 965 SF\nC8005: 3005 SF\nC8006: 1660 SF\nC8007: 2955 SF\nC8009: 4645 SF\nC8010: 4645 SF\nC8011: 400 SF\nNEAREST CROSS STREET: SHEARWATER CT E AND HALF MOON ISLE\n1. AUGUST 20, 2019 IN THE HUDSON COUNTY REGISTER'S OFFICE AT BOOK 19442, PAGE 396 ET SEQ.;\n2. FEBRUARY 22, 2021 IN THE HUDSON COUNTY REGISTER'S OFFICE AT BOOK 732, PAGE 354 ET SEQ;",
+  "extracted": {
+    "block": "NO",
+    "lot": "AND"
+  },
+  "fields": {
+    "Address": "6-35 CHAPEL AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "RIKER DANZIG SCHERER HYLAND & PERRETTI, LLP",
+    "Attorney Phone": "973-451-8526",
+    "Court Case #": "SWC-F-005369-24",
+    "Defendant": "CHAPEL AVENUE LLC AND STATE OF NEW JERSEY",
+    "Description": "TAX LOT AND BLOCK NO.: BLOCK 27503, LOT 11, QUALIFIERS C8001, C8002, C8004 THROUGH C8007, INCLUSIVE & C8009 THROUGH C8011, INCLUSIVE\nDIMENSIONS (APPROX.):\nC8001: 4470 SF\nC8002: 1620 SF\nC8004: 965 SF\nC8005: 3005 SF\nC8006: 1660 SF\nC8007: 2955 SF\nC8009: 4645 SF\nC8010: 4645 SF\nC8011: 400 SF\nNEAREST CROSS STREET: SHEARWATER CT E AND HALF MOON ISLE\n1. AUGUST 20, 2019 IN THE HUDSON COUNTY REGISTER'S OFFICE AT BOOK 19442, PAGE 396 ET SEQ.;\n2. FEBRUARY 22, 2021 IN THE HUDSON COUNTY REGISTER'S OFFICE AT BOOK 732, PAGE 354 ET SEQ;",
+    "Good Faith Upset*": "",
+    "Judgment": "$1,992,943.46",
+    "Plaintiff": "PEAPACK-GLADSTONE BANK",
+    "Property Note": "*NOT ELIGIBLE FOR CWPP (MORE THAN 4 UNITS)",
+    "Sales Date": "4/9/2026",
+    "Sheriff #": "20057830"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 1992943.46,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "6-35 CHAPEL AVENUE JERSEY CITY NJ 07305",
+    "defendant": "CHAPEL AVENUE LLC AND STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "PEAPACK-GLADSTONE BANK",
+    "sale_date": "2026-04-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PEAPACK-GLADSTONE BANK",
+  "property_note": "*NOT ELIGIBLE FOR CWPP (MORE THAN 4 UNITS)",
+  "sale_date": "2026-04-09",
+  "sheriff_number": "20057830",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-03-27",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "ADJOURNED SHERIFF - New Sale Date:"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,71 @@
+{
+  "address": "20 SOUTH MIDLAND AVENUE UNIT R4 KEARNY NJ 07032",
+  "attorney": "LEOPOLD & ASSOCIATES, PLLC",
+  "attorney_phone": "914-219-5787",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-012641-23",
+  "current_status": "Cancelled",
+  "defendant": "MARK CARRERA; MR./MRS. CARRERA, SPOUSE OF MARK CARRERA; SOVEREIGN BANK, A FEDERAL SAVINGS BANK; ARLINGTON RIDGE CONDOMINIUM ASSOCIATION; RIAD KABAKIBI MD PA,",
+  "description": "TAX LOT 2.01/BLOCK 67\nDIMENSIONS OF LOT (APPROXIMATELY): N/A\nNEAREST CROSS STREET: PASSAIC AVENUE\nTHE ESTIMATED UPSET AMOUNT AT THE TIME OF SALE IS $341,862.81, WHICH AMOUNT IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION.\nUPON INFORMATION AND BELIEF, PROPERTY IS CURRENTLY NON OWNER OCCUPIED.",
+  "extracted": {
+    "block": "67",
+    "lot": "2.01"
+  },
+  "fields": {
+    "Address": "20 SOUTH MIDLAND AVENUE UNIT R4\nKEARNY NJ 07032",
+    "Attorney": "LEOPOLD & ASSOCIATES, PLLC",
+    "Attorney Phone": "914-219-5787",
+    "Court Case #": "F-012641-23",
+    "Defendant": "MARK CARRERA; MR./MRS. CARRERA, SPOUSE OF MARK CARRERA; SOVEREIGN BANK, A FEDERAL SAVINGS BANK; ARLINGTON RIDGE CONDOMINIUM ASSOCIATION; RIAD KABAKIBI MD PA,",
+    "Description": "TAX LOT 2.01/BLOCK 67\nDIMENSIONS OF LOT (APPROXIMATELY): N/A\nNEAREST CROSS STREET: PASSAIC AVENUE\nTHE ESTIMATED UPSET AMOUNT AT THE TIME OF SALE IS $341,862.81, WHICH AMOUNT IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION.\nUPON INFORMATION AND BELIEF, PROPERTY IS CURRENTLY NON OWNER OCCUPIED.",
+    "Good Faith Upset*": "$341,862.81",
+    "Judgment": "$330,123.74",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "4/16/2026",
+    "Sheriff #": "20060814"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 330123.74,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "20 SOUTH MIDLAND AVENUE UNIT R4 KEARNY NJ 07032",
+    "defendant": "MARK CARRERA; MR./MRS. CARRERA, SPOUSE OF MARK CARRERA; SOVEREIGN BANK, A FEDERAL SAVINGS BANK; ARLINGTON RIDGE CONDOMINIUM ASSOCIATION; RIAD KABAKIBI MD PA,",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-04-16"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-04-16",
+  "sheriff_number": "20060814",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-01-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 341862.81,
+  "upset_amount_label": "Good Faith Upset*"
+}

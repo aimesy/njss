@@ -1,11 +1,11 @@
 {
   "address": "551 OBSERVER HWY 10H HOBOKEN NJ 07030",
   "attorney": "BROCK & SCOTT, PLLC",
-  "attorney_phone": "401-217-8701",
+  "attorney_phone": "844-856-6646",
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-007952-25",
-  "current_status": "Adjourned - Plaintiff - New Sale Date:",
+  "current_status": "Adjourned - Court",
   "defendant": "BRIAN P. NAUS, ET AL.",
   "description": "LOT 1, BLOCK 8 QUALIFIER NO. C010H\nDIMENSIONS: CONDO UNIT (NONE GIVEN)\nNEAREST CROSS STREET: CONDO UNIT (NONE GIVEN)\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $73,153.68\nSUBJECT TO THE RIGHTS OF AN APPLICABLE CONDOMINIUM ASSOCIATION UNDER N.J.S.A. § 46:8B-21, ET AL., IF ANY.",
   "extracted": {
@@ -16,7 +16,7 @@
   "fields": {
     "Address": "551 OBSERVER HWY 10H\nHOBOKEN NJ 07030",
     "Attorney": "BROCK & SCOTT, PLLC",
-    "Attorney Phone": "401-217-8701",
+    "Attorney Phone": "844-856-6646",
     "Court Case #": "F-007952-25",
     "Defendant": "BRIAN P. NAUS, ET AL.",
     "Description": "LOT 1, BLOCK 8 QUALIFIER NO. C010H\nDIMENSIONS: CONDO UNIT (NONE GIVEN)\nNEAREST CROSS STREET: CONDO UNIT (NONE GIVEN)\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: UNKNOWN\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $73,153.68\nSUBJECT TO THE RIGHTS OF AN APPLICABLE CONDOMINIUM ASSOCIATION UNDER N.J.S.A. § 46:8B-21, ET AL., IF ANY.",
@@ -24,7 +24,7 @@
     "Judgment": "$70,748.22",
     "Plaintiff": "ALLEGACY FEDERAL CREDIT UNION",
     "Property Note": "",
-    "Sales Date": "11/19/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "20063695"
   },
   "first_seen": "2026-10-12",
@@ -35,14 +35,14 @@
     "defendant": "BRIAN P. NAUS, ET AL.",
     "listing_status": null,
     "plaintiff": "ALLEGACY FEDERAL CREDIT UNION",
-    "sale_date": "2026-11-19"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "ALLEGACY FEDERAL CREDIT UNION",
   "property_note": null,
-  "sale_date": "2026-11-19",
+  "sale_date": "2027-01-07",
   "sheriff_number": "20063695",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
@@ -53,6 +53,10 @@
     {
       "date": "2026-11-19",
       "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "Adjourned - Court"
     }
   ],
   "upset_amount": 73153.68,

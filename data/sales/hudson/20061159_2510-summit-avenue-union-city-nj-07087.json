@@ -1,0 +1,67 @@
+{
+  "address": "2510 SUMMIT AVENUE UNION CITY NJ 07087",
+  "attorney": "STERN, LAVINTHAL & FRANKENBERG, LLC",
+  "attorney_phone": "973-797-1100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006847-25",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "ARNULFO HENAO; SONNIA PEPPE; MR. PEPE, HUSBAND OF SOFIA PEPE; REAL TIME RESOLUTIONS INC, INC.; FORD MOTOR CREDIT COMPANY LLC AND AMBULATORY CTR FOR ENDOSCOPY",
+  "description": "BLOCK 144.02, LOT 6\nTHE DIMENSIONS ARE APPROXIMATELY - 25' X 100'\nNEAREST CROSS STREET: 26TH STREET\nPROPERTY IS OCCUPIED BY UNKNOWN\nTHE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 11/13/2025 IS $890,230.31.\nPRIOR LIEN(S): PROPERTY IS SUBJECT TO TAX SALE. PROPERTY IS ALSO SUBJECT TO ADDT'L 6% PENALTY FOR BALANCES OF $10,000.00.\n2025 4TH QUARTER TAXES UNPAID IN THE APPROX. AMOUNT OF $2,583.46\nSEWER ACCOUNT PAST DUE IN THE APPROX. AMOUNT OF $17,581.67",
+  "extracted": {
+    "block": "144.02",
+    "lot": "6"
+  },
+  "fields": {
+    "Address": "2510 SUMMIT AVENUE\nUNION CITY NJ 07087",
+    "Attorney": "STERN, LAVINTHAL & FRANKENBERG, LLC",
+    "Attorney Phone": "973-797-1100",
+    "Court Case #": "F-006847-25",
+    "Defendant": "ARNULFO HENAO; SONNIA PEPPE; MR. PEPE, HUSBAND OF SOFIA PEPE; REAL TIME RESOLUTIONS INC, INC.; FORD MOTOR CREDIT COMPANY LLC AND AMBULATORY CTR FOR ENDOSCOPY",
+    "Description": "BLOCK 144.02, LOT 6\nTHE DIMENSIONS ARE APPROXIMATELY - 25' X 100'\nNEAREST CROSS STREET: 26TH STREET\nPROPERTY IS OCCUPIED BY UNKNOWN\nTHE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 11/13/2025 IS $890,230.31.\nPRIOR LIEN(S): PROPERTY IS SUBJECT TO TAX SALE. PROPERTY IS ALSO SUBJECT TO ADDT'L 6% PENALTY FOR BALANCES OF $10,000.00.\n2025 4TH QUARTER TAXES UNPAID IN THE APPROX. AMOUNT OF $2,583.46\nSEWER ACCOUNT PAST DUE IN THE APPROX. AMOUNT OF $17,581.67",
+    "Good Faith Upset*": "$890,230.31",
+    "Judgment": "$831,476.84",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "4/21/2026",
+    "Sheriff #": "20061159"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 831476.84,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "2510 SUMMIT AVENUE UNION CITY NJ 07087",
+    "defendant": "ARNULFO HENAO; SONNIA PEPPE; MR. PEPE, HUSBAND OF SOFIA PEPE; REAL TIME RESOLUTIONS INC, INC.; FORD MOTOR CREDIT COMPANY LLC AND AMBULATORY CTR FOR ENDOSCOPY",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-04-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-04-21",
+  "sheriff_number": "20061159",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-04-21",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 890230.31,
+  "upset_amount_label": "Good Faith Upset*"
+}

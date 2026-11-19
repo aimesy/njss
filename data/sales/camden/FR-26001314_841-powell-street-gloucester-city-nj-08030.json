@@ -1,18 +1,18 @@
 {
   "address": "841 POWELL STREET GLOUCESTER CITY NJ 08030",
   "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
-  "attorney_phone": "856-352-4905 chews landing office",
+  "attorney_phone": "215-572-5095 JENKINTOWN",
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00130225",
-  "current_status": "Plaintiff Adjournment",
+  "current_status": "Purchased",
   "defendant": "EDWIN A. RUIZ, DISCOVER BANK, MR. OR MRS. RUIZ THE SPOUSE, DOMESTIC PARTNER, CIVIL UNION PARTNER OF EDWIN A. RUIZ, UNITED STATES OF AMERICA",
   "extracted": {},
   "fields": {
     "Address": "841 POWELL STREET\nGLOUCESTER CITY NJ 08030",
     "Approx. Upset*": "$212,656.48",
     "Attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
-    "Attorney Phone": "856-352-4905 chews landing office",
+    "Attorney Phone": "215-572-5095 JENKINTOWN",
     "Court Case #": "F00130225",
     "Defendant": "EDWIN A. RUIZ, DISCOVER BANK, MR. OR\nMRS. RUIZ THE SPOUSE, DOMESTIC\nPARTNER, CIVIL UNION PARTNER OF\nEDWIN A. RUIZ, UNITED STATES OF AMERICA",
     "Parcel #": "TAX LOT: 83 BLOCK: 136.02",
@@ -30,7 +30,7 @@
     "sale_date": "2026-11-18"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "TAX LOT: 83 BLOCK: 136.02",
   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
@@ -58,6 +58,10 @@
     {
       "date": "2026-11-18",
       "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "Purchased"
     }
   ],
   "upset_amount": 212656.48,

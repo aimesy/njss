@@ -1,0 +1,59 @@
+{
+  "address": "32 KELLY PARKWAY BAYONNE NJ 07002",
+  "attorney": "STERN, LAVINTHAL & FRANKENBERG, LLC",
+  "attorney_phone": "973-797-1100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-003474-25",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "INDRAJEET A. VAGHA AND MRS. INDRAJETT A. VAGHA, HIS WIFE",
+  "description": "BLOCK 380, LOT 6\nTHE DIMENSIONS ARE APPROXIMATELY - 24.51' X 106'\nNEAREST CROSS STREET: WEST 2ND STREET\nPROPERTY IS OCCUPIED BY UNKNOWN\nTHE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 12/10/2025 IS $488,170.81.\nPRIOR LIEN(S): WATER ACCOUNT PAST DUE IN THE APPROX. AMOUNT OF $1,814.91",
+  "extracted": {
+    "block": "380",
+    "lot": "6"
+  },
+  "fields": {
+    "Address": "32 KELLY PARKWAY\nBAYONNE NJ 07002",
+    "Attorney": "STERN, LAVINTHAL & FRANKENBERG, LLC",
+    "Attorney Phone": "973-797-1100",
+    "Court Case #": "F-003474-25",
+    "Defendant": "INDRAJEET A. VAGHA AND MRS. INDRAJETT A. VAGHA, HIS WIFE",
+    "Description": "BLOCK 380, LOT 6\nTHE DIMENSIONS ARE APPROXIMATELY - 24.51' X 106'\nNEAREST CROSS STREET: WEST 2ND STREET\nPROPERTY IS OCCUPIED BY UNKNOWN\nTHE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 12/10/2025 IS $488,170.81.\nPRIOR LIEN(S): WATER ACCOUNT PAST DUE IN THE APPROX. AMOUNT OF $1,814.91",
+    "Good Faith Upset*": "$488,170.81",
+    "Judgment": "$453,085.29",
+    "Plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "Property Note": "",
+    "Sales Date": "2/19/2026",
+    "Sheriff #": "20061241"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 453085.29,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "32 KELLY PARKWAY BAYONNE NJ 07002",
+    "defendant": "INDRAJEET A. VAGHA AND MRS. INDRAJETT A. VAGHA, HIS WIFE",
+    "listing_status": null,
+    "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+    "sale_date": "2026-02-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-19",
+  "sheriff_number": "20061241",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-02-19",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 488170.81,
+  "upset_amount_label": "Good Faith Upset*"
+}

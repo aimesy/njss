@@ -1,0 +1,60 @@
+{
+  "address": "712 80TH STREET NORTH BERGEN NJ 07047",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "401-217-8701",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-004022-25",
+  "current_status": "Cancelled",
+  "defendant": "FREDDY J. GRULLON, ET AL.",
+  "description": "LOT 2.02, BLOCK 380\nDIMENSIONS: 36 FT X 100 FT\nNEAREST CROSS STREET: 3RD AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY OWNER\nPLANTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $396,115.29\nSUBJECT TO TAX SALE ON 12/5/25 IN THE AMOUNT OF $2,791.39 FOR OPEN SEWER PLUS PENALTY AND COSTS.",
+  "extracted": {
+    "block": "380",
+    "lot": "2.02",
+    "upset_amount": 396115.29
+  },
+  "fields": {
+    "Address": "712 80TH STREET\nNORTH BERGEN NJ 07047",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "401-217-8701",
+    "Court Case #": "F-004022-25",
+    "Defendant": "FREDDY J. GRULLON, ET AL.",
+    "Description": "LOT 2.02, BLOCK 380\nDIMENSIONS: 36 FT X 100 FT\nNEAREST CROSS STREET: 3RD AVE\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY OWNER\nPLANTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $396,115.29\nSUBJECT TO TAX SALE ON 12/5/25 IN THE AMOUNT OF $2,791.39 FOR OPEN SEWER PLUS PENALTY AND COSTS.",
+    "Good Faith Upset*": "$396,115.29",
+    "Judgment": "$370,239.25",
+    "Plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2007-BR1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BR1",
+    "Property Note": "",
+    "Sales Date": "1/28/2026",
+    "Sheriff #": "20061229"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 370239.25,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "712 80TH STREET NORTH BERGEN NJ 07047",
+    "defendant": "FREDDY J. GRULLON, ET AL.",
+    "listing_status": null,
+    "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2007-BR1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BR1",
+    "sale_date": "2026-01-28"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2007-BR1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BR1",
+  "property_note": null,
+  "sale_date": "2026-01-28",
+  "sheriff_number": "20061229",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 396115.29,
+  "upset_amount_label": "Good Faith Upset*"
+}

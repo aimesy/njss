@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00622925",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Scheduled",
   "defendant": "MICHAEL HOLLOWAY; FELICIA HOLLOWAY; MRS. MICHAEL HOLLOWAY, HIS WIFE; CITIZENS BANK OF PENNSYLVANIA NKA CITIZENS BANK, NATIONAL ASSOCIATION; STATE OF NEW JERSEY,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "",
     "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE\nFOR VRMTG ASSET TRUST",
     "Property Note": "",
-    "Sales Date": "6/16/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26000186"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "MICHAEL HOLLOWAY; FELICIA HOLLOWAY; MRS. MICHAEL \nHOLLOWAY, HIS WIFE; CITIZENS BANK OF PENNSYLVANIA \nNKA CITIZENS BANK, NATIONAL ASSOCIATION; STATE OF \nNEW JERSEY,",
     "listing_status": null,
     "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE \nFOR VRMTG ASSET TRUST",
-    "sale_date": "2026-06-16"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": null,
   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
   "property_note": null,
-  "sale_date": "2026-06-16",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26000186",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -48,12 +48,12 @@
       "status": "Defendant Adjournment"
     },
     {
-      "date": "2026-06-16",
-      "status": "Bankruptcy"
-    },
-    {
       "date": "2026-06-17",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
     }
   ],
   "upset_amount": 444356.29,

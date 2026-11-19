@@ -1,0 +1,72 @@
+{
+  "address": "9060 PALISADE AVENUE UNIT 512 NORTH BERGEN NJ 07047",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-001327-24",
+  "current_status": "Cancelled",
+  "defendant": "MICHAEL ROSADO; JESSICA JAMARILLO; JPMORGAN CHASE BANK, NA, ASSIGNEE BANK OF NEW YORK N/K/A JP MORGAN CHASE BANK NATIONAL ASSOCIATION",
+  "description": "TAX LOT 14 BLOCK 429 C0512\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 0.346056% INTEREST IN THE COMMON ELEMENTS OF THE PARK HUDSON CONDOMINIUM\nNEAREST CROSS STREET: KAMP PL\nESTIMATED UPSET BID AMOUNT: $268,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER\n2024 QTR 2 DUE: 05/01/2024 $1,019.13 OPEN; SUBJECT TO POSTING",
+  "extracted": {
+    "block": "429",
+    "lot": "14",
+    "occupancy": "OWNER"
+  },
+  "fields": {
+    "Address": "9060 PALISADE AVENUE UNIT 512\nNORTH BERGEN NJ 07047",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-001327-24",
+    "Defendant": "MICHAEL ROSADO; JESSICA JAMARILLO; JPMORGAN CHASE BANK, NA, ASSIGNEE BANK OF NEW YORK N/K/A JP MORGAN CHASE BANK NATIONAL ASSOCIATION",
+    "Description": "TAX LOT 14 BLOCK 429 C0512\nDIMENSIONS OF LOT: TOGETHER WITH AN UNDIVIDED 0.346056% INTEREST IN THE COMMON ELEMENTS OF THE PARK HUDSON CONDOMINIUM\nNEAREST CROSS STREET: KAMP PL\nESTIMATED UPSET BID AMOUNT: $268,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OWNER\n2024 QTR 2 DUE: 05/01/2024 $1,019.13 OPEN; SUBJECT TO POSTING",
+    "Good Faith Upset*": "$268,000.00",
+    "Judgment": "$247,664.98",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "1/12/2026",
+    "Sheriff #": "20055207"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 247664.98,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "9060 PALISADE AVENUE UNIT 512 NORTH BERGEN NJ 07047",
+    "defendant": "MICHAEL ROSADO; JESSICA JAMARILLO; JPMORGAN CHASE BANK, NA, ASSIGNEE BANK OF NEW YORK N/K/A JP MORGAN CHASE BANK NATIONAL ASSOCIATION",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-01-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2026-01-12",
+  "sheriff_number": "20055207",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-08-01",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-09-26",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2024-10-10",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2024-10-23",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 268000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

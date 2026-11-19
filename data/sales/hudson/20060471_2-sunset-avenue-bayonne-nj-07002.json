@@ -1,0 +1,69 @@
+{
+  "address": "2 SUNSET AVENUE BAYONNE NJ 07002",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732-692-6839",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-003732-20",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "CYNTHIA NARVAEZ AND WILSON NARVAEZ, WIFE AND HUSBAND; NEW CENTURY FINANCIAL SERVICES, INC. AND MIDLAND FUNDING LLC",
+  "description": "LOT 24 (FKA LOT A.20), BLOCK 24 (FKA BLOCK 23.A)\nAPPROXIMATE DIMENSIONS: 23.00 X 85.00 FEET\nNEAREST CROSS STREET: WEST 54TH STREET\nSUBJECT TO:\nTAXES - DUE 11/1/25 $3,784.99 OPEN\nWATER - VEOLIA WATER NEW JERSEY / BAYONNE PO BOX 40122 NEWARK, NJ 07101-4001 888-434-0518 INFORMATION TO FOLLOW\nUPSET PRICE: $916,115.28\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "24",
+    "lot": "24",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 916115.28
+  },
+  "fields": {
+    "Address": "2 SUNSET AVENUE\nBAYONNE NJ 07002",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732-692-6839",
+    "Court Case #": "F-003732-20",
+    "Defendant": "CYNTHIA NARVAEZ AND WILSON NARVAEZ, WIFE AND HUSBAND; NEW CENTURY FINANCIAL SERVICES, INC. AND MIDLAND FUNDING LLC",
+    "Description": "LOT 24 (FKA LOT A.20), BLOCK 24 (FKA BLOCK 23.A)\nAPPROXIMATE DIMENSIONS: 23.00 X 85.00 FEET\nNEAREST CROSS STREET: WEST 54TH STREET\nSUBJECT TO:\nTAXES - DUE 11/1/25 $3,784.99 OPEN\nWATER - VEOLIA WATER NEW JERSEY / BAYONNE PO BOX 40122 NEWARK, NJ 07101-4001 888-434-0518 INFORMATION TO FOLLOW\nUPSET PRICE: $916,115.28\nOCCUPANCY STATUS: OCCUPIED\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Good Faith Upset*": "$916,115.28",
+    "Judgment": "$853,755.60",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., SUCCESSOR-IN-INTEREST TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR MASTR ADJUSTABLE RATE MORTGAGES TRUST 2005-8",
+    "Property Note": "",
+    "Sales Date": "3/4/2026",
+    "Sheriff #": "20060471"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 853755.6,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "2 SUNSET AVENUE BAYONNE NJ 07002",
+    "defendant": "CYNTHIA NARVAEZ AND WILSON NARVAEZ, WIFE AND HUSBAND; NEW CENTURY FINANCIAL SERVICES, INC. AND MIDLAND FUNDING LLC",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., SUCCESSOR-IN-INTEREST TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR MASTR ADJUSTABLE RATE MORTGAGES TRUST 2005-8",
+    "sale_date": "2026-03-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., SUCCESSOR-IN-INTEREST TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR MASTR ADJUSTABLE RATE MORTGAGES TRUST 2005-8",
+  "property_note": null,
+  "sale_date": "2026-03-04",
+  "sheriff_number": "20060471",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-11-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 916115.28,
+  "upset_amount_label": "Good Faith Upset*"
+}

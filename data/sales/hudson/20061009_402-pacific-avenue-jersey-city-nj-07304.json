@@ -1,11 +1,11 @@
 {
   "address": "402 PACIFIC AVENUE JERSEY CITY NJ 07304",
   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
-  "attorney_phone": "860-241-2806",
+  "attorney_phone": "732-692-6839",
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-006460-24 (CWPP INELIGIBLE)",
-  "current_status": "POST BANKRUPTCY SALE DATE",
+  "current_status": "BANKRUPTCY HOLD",
   "defendant": "GOOD WILL ASSET LIMITED LIABILITY COMPANY, ET AL.",
   "description": "LOT 24, BLOCK 19001\nAPPROXIMATE DIMENSIONS: 100.00 X 25.00 FEET\nNEAREST CROSS STREET: JOHNSTON AVENUE\nSUBJECT TO: TAXES - DUE 8/1/2026 - $3,612.42\nUPSET PRICE: COMMERCIAL PROPERTY - UPSET NOT NEEDED\nOCCUPANCY STATUS: UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
   "extracted": {
@@ -16,7 +16,7 @@
   "fields": {
     "Address": "402 PACIFIC AVENUE\nJERSEY CITY NJ 07304",
     "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
-    "Attorney Phone": "860-241-2806",
+    "Attorney Phone": "732-692-6839",
     "Court Case #": "F-006460-24 (CWPP INELIGIBLE)",
     "Defendant": "GOOD WILL ASSET LIMITED LIABILITY COMPANY, ET AL.",
     "Description": "LOT 24, BLOCK 19001\nAPPROXIMATE DIMENSIONS: 100.00 X 25.00 FEET\nNEAREST CROSS STREET: JOHNSTON AVENUE\nSUBJECT TO: TAXES - DUE 8/1/2026 - $3,612.42\nUPSET PRICE: COMMERCIAL PROPERTY - UPSET NOT NEEDED\nOCCUPANCY STATUS: UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
@@ -24,7 +24,7 @@
     "Judgment": "$585,314.42",
     "Plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE OR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-1",
     "Property Note": "",
-    "Sales Date": "11/19/2026",
+    "Sales Date": "11/18/2026",
     "Sheriff #": "20061009"
   },
   "first_seen": "2026-10-12",
@@ -35,14 +35,14 @@
     "defendant": "GOOD WILL ASSET LIMITED LIABILITY COMPANY, ET AL.",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE OR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-1",
-    "sale_date": "2026-11-19"
+    "sale_date": "2026-11-18"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE OR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-1",
   "property_note": null,
-  "sale_date": "2026-11-19",
+  "sale_date": "2026-11-18",
   "sheriff_number": "20061009",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
@@ -59,8 +59,12 @@
       "status": "BANKRUPTCY HOLD"
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-05",
       "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "BANKRUPTCY HOLD"
     }
   ],
   "upset_amount": null,

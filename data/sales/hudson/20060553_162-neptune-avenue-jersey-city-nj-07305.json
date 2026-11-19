@@ -1,0 +1,64 @@
+{
+  "address": "162 NEPTUNE AVENUE JERSEY CITY NJ 07305",
+  "attorney": "KML LAW GROUP, P.C",
+  "attorney_phone": "215-627-1322",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-004365-25",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "SHANITA M. HOPKINS, ET AL",
+  "description": "DIMENSIONS OF LOT: (APPROXIMATELY) 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: OLD BERGEN ROAD\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $323,151.52\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS OWNER OCCUPIED.",
+  "extracted": {},
+  "fields": {
+    "Address": "162 NEPTUNE AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "KML LAW GROUP, P.C",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F-004365-25",
+    "Defendant": "SHANITA M. HOPKINS, ET AL",
+    "Description": "DIMENSIONS OF LOT: (APPROXIMATELY) 25 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: OLD BERGEN ROAD\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF SALE IS CURRENTLY $323,151.52\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS OWNER OCCUPIED.",
+    "Good Faith Upset*": "$323,151.52",
+    "Judgment": "$288,391.82",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "3/5/2026",
+    "Sheriff #": "20060553"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 288391.82,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "162 NEPTUNE AVENUE JERSEY CITY NJ 07305",
+    "defendant": "SHANITA M. HOPKINS, ET AL",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2026-03-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2026-03-05",
+  "sheriff_number": "20060553",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-11-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 323151.52,
+  "upset_amount_label": "Good Faith Upset*"
+}

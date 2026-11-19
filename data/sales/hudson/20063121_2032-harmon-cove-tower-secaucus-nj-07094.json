@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-008302-23",
-  "current_status": "Adjourned - Plaintiff - New Sale Date:",
+  "current_status": "JOINT ADJOURNMENT",
   "defendant": "SANDRA SCHWARTZ",
   "description": "LOT 15 C2032 BLOCK NO. 21\nSQUARE FOOTAGE: 1,372 SQ. FT.\nTYPE OF PROPERTY: CONDOMINIUM\nCROSS-STREET(S): MEADOWLANDS PKWY\nCURRENT AMOUNT DUE:\nMERS AS NOMINEEFOR CROSSCOUNTRY MORTGAGE LLC (ORIGINAL BALANCE AS OF 11/2019) $312,000.00\n2026 QTR 2 UNPAID TAXES $1,435.12",
   "extracted": {
@@ -23,7 +23,7 @@
     "Judgment": "$51,188.36",
     "Plaintiff": "HARMON COVE TOWERS I CONDOMIMINIUM ASSOCIATION, INC., A NEW JERSEY NONPROFIT CORPORATION",
     "Property Note": "",
-    "Sales Date": "11/19/2026",
+    "Sales Date": "1/7/2027",
     "Sheriff #": "20063121"
   },
   "first_seen": "2026-10-12",
@@ -34,14 +34,14 @@
     "defendant": "SANDRA SCHWARTZ",
     "listing_status": null,
     "plaintiff": "HARMON COVE TOWERS I CONDOMIMINIUM ASSOCIATION, INC., A NEW JERSEY NONPROFIT CORPORATION",
-    "sale_date": "2026-11-19"
+    "sale_date": "2027-01-07"
   },
   "listing_status": null,
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "HARMON COVE TOWERS I CONDOMIMINIUM ASSOCIATION, INC., A NEW JERSEY NONPROFIT CORPORATION",
   "property_note": null,
-  "sale_date": "2026-11-19",
+  "sale_date": "2027-01-07",
   "sheriff_number": "20063121",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
   "status_history": [
@@ -60,6 +60,10 @@
     {
       "date": "2026-11-19",
       "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "JOINT ADJOURNMENT"
     }
   ],
   "upset_amount": null,

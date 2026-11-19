@@ -1,0 +1,68 @@
+{
+  "address": "543 WEST SIDE AVENUE JERSEY CITY NJ 07304",
+  "attorney": "HINSHAW & CULBERTSON LLP",
+  "attorney_phone": "908-374-0320",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006486-24",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "KEYSTONE TECH LLC; JOON H. LEE A/K/A JOON HWAN LEE; AND STATE OF NEW JERSEY",
+  "description": "BLOCK 19202, LOT 52.\nTHE DIMENSIONS ARE APPROXIMATELY: 81 FT. X 19 FT.\nNEAREST CROSS STREET: LEXINGTON AVENUE\nPURSUANT TO N.J.S.A. 2A:50-64(a)(5), THERE IS NO REQUIREMENT TO PROVIDE A GOOD FAITH UPSET PRICE FOR REAL PROPERTY WHICH IS ACQUIRED FOR INVESTMENT, COMMERCIAL OR BUSINESS PURPOSES.\nThere are the following prior liens:\nA) Tax certificate in the amount Of $20,094.71 good through August 29, 2025 held by FCR TL Trust.\nB) Judgment lien in the amount of $17,759.41 held by Velocity Investments LLC.\nAs of August 29, 2025, taxes were paid through the second quarter of 2025.",
+  "extracted": {
+    "block": "19202",
+    "lot": "52",
+    "upset_amount": 20094.71
+  },
+  "fields": {
+    "Address": "543 WEST SIDE AVENUE\nJERSEY CITY NJ 07304",
+    "Attorney": "HINSHAW & CULBERTSON LLP",
+    "Attorney Phone": "908-374-0320",
+    "Court Case #": "F-006486-24",
+    "Defendant": "KEYSTONE TECH LLC; JOON H. LEE A/K/A JOON HWAN LEE; AND STATE OF NEW JERSEY",
+    "Description": "BLOCK 19202, LOT 52.\nTHE DIMENSIONS ARE APPROXIMATELY: 81 FT. X 19 FT.\nNEAREST CROSS STREET: LEXINGTON AVENUE\nPURSUANT TO N.J.S.A. 2A:50-64(a)(5), THERE IS NO REQUIREMENT TO PROVIDE A GOOD FAITH UPSET PRICE FOR REAL PROPERTY WHICH IS ACQUIRED FOR INVESTMENT, COMMERCIAL OR BUSINESS PURPOSES.\nThere are the following prior liens:\nA) Tax certificate in the amount Of $20,094.71 good through August 29, 2025 held by FCR TL Trust.\nB) Judgment lien in the amount of $17,759.41 held by Velocity Investments LLC.\nAs of August 29, 2025, taxes were paid through the second quarter of 2025.",
+    "Good Faith Upset*": "",
+    "Judgment": "$834,159.74",
+    "Plaintiff": "WBL SPO I, LLC",
+    "Property Note": "",
+    "Sales Date": "2/4/2026",
+    "Sheriff #": "20060513"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 834159.74,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "543 WEST SIDE AVENUE JERSEY CITY NJ 07304",
+    "defendant": "KEYSTONE TECH LLC; JOON H. LEE A/K/A JOON HWAN LEE; AND STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "WBL SPO I, LLC",
+    "sale_date": "2026-02-04"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WBL SPO I, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-04",
+  "sheriff_number": "20060513",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-11-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Adjourned - Defendant 1st (4 weeks)"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Adjourned - Defendant 2nd (4 WEEKS)"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

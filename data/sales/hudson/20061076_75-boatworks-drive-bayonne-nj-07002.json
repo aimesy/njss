@@ -1,0 +1,68 @@
+{
+  "address": "75 BOATWORKS DRIVE BAYONNE NJ 07002",
+  "attorney": "DONALD M. ONORATO",
+  "attorney_phone": "(201)343-7222",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "HUD-DC-009501-24",
+  "current_status": "Redeemed",
+  "defendant": "KENNETH BRITT, TRUSTEE OF THE BOATWORKS TRUST AND BOATWORKS TRUST",
+  "description": "BLOCK: 47, LOT 8, QUALIFIER C0107\nDIMENSIONS (APPROX.): 1550 SQUARE FEET TOWNHOUSE HOME\nNEAREST CROSS STREET: PLEASE NOTE THAT WITH CONDOMINIUM UNITS, THERE ARE NO METES AND BOUNDS DESCRIPTIONS\nOCCUPANCY STATUS: OCCUPIED\nAMOUNT DUE FOR TAXES: TAXES DUE IN THE APPROXIMATE AMOUNT $5,031.36 AS OF NOVEMBER 25, 2025.\nCURRENT AMOUNT DUE: BOATWORKS CONDOMINIUM ASSOCIATION, INC. $38,268.62",
+  "extracted": {
+    "block": "47",
+    "lot": "8",
+    "occupancy": "OCCUPIED"
+  },
+  "fields": {
+    "Address": "75 BOATWORKS DRIVE\nBAYONNE NJ 07002",
+    "Attorney": "DONALD M. ONORATO",
+    "Attorney Phone": "(201)343-7222",
+    "Court Case #": "HUD-DC-009501-24",
+    "Defendant": "KENNETH BRITT, TRUSTEE OF THE BOATWORKS TRUST AND BOATWORKS TRUST",
+    "Description": "BLOCK: 47, LOT 8, QUALIFIER C0107\nDIMENSIONS (APPROX.): 1550 SQUARE FEET TOWNHOUSE HOME\nNEAREST CROSS STREET: PLEASE NOTE THAT WITH CONDOMINIUM UNITS, THERE ARE NO METES AND BOUNDS DESCRIPTIONS\nOCCUPANCY STATUS: OCCUPIED\nAMOUNT DUE FOR TAXES: TAXES DUE IN THE APPROXIMATE AMOUNT $5,031.36 AS OF NOVEMBER 25, 2025.\nCURRENT AMOUNT DUE: BOATWORKS CONDOMINIUM ASSOCIATION, INC. $38,268.62",
+    "Good Faith Upset*": "",
+    "Judgment": "$19,204.11",
+    "Plaintiff": "BOATWORKS CONDOMINIUM ASSOCIATION, INC.",
+    "Property Note": "",
+    "Sales Date": "2/27/2026",
+    "Sheriff #": "20061076"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 19204.11,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "75 BOATWORKS DRIVE BAYONNE NJ 07002",
+    "defendant": "KENNETH BRITT, TRUSTEE OF THE BOATWORKS TRUST AND BOATWORKS TRUST",
+    "listing_status": null,
+    "plaintiff": "BOATWORKS CONDOMINIUM ASSOCIATION, INC.",
+    "sale_date": "2026-02-27"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "BOATWORKS CONDOMINIUM ASSOCIATION, INC.",
+  "property_note": null,
+  "sale_date": "2026-02-27",
+  "sheriff_number": "20061076",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-01-22",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Purchased at Auction by 3rd Party"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}

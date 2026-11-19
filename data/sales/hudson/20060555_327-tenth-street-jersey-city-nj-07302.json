@@ -1,0 +1,76 @@
+{
+  "address": "327 TENTH STREET JERSEY CITY NJ 07302",
+  "attorney": "PETER J. LISKA, LLC",
+  "attorney_phone": "732-933-7777",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-012946-24",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "AISHVARYA KRISHNAN GEARY AND RICHARD GEARY",
+  "description": "LOT 5, BLOCK 8606\nDIMENSIONS: 16 FEET X 100 FEET X 16 FEET X 100 FEET\nNEAREST CROSS STREET: MONMOUTH STREET\nTHE LENDER'S UPSET PRICE FOR BIDDING AT THE SHERIFF'S SALE IS APPROXIMATELY $883,000.00. LENDER RESERVES THE RIGHT TO AMEND THE UPSET PRICE PRIOR TO SALE, AND FURTHER, AMEND THE UPSET PRICE TO INCLUDE FUTURE ORDERS FOR ADDITIONAL SUMS EXPENDED AFTER FINAL JUDGMENT, IF ANY.\nAMOUNT DUE FOR TAXES: TAXES ARE CURRENT THROUGH THE THIRD QUARTER 2025.\nTHE ABOVE FIGURES FOR TAXES WERE FURNISHED TO THE LAW FIRM OF PETER J. LISKA, LLC BY THE TAX COLLECTOR'S OFFICE OF THE CITY OF JERSEY CITY AND THE ACCURACY OF SAID FIGURES MUST BE VERIFIED BY ANY INTERESTED PARTY AS PLAINTIFF MAKES NO REPRESENTATIONS AS TO THE ACCURACY OF SAME EITHER EXPRESS OR IMPLIED. ACCORDINGLY, YOU MUST CHECK WITH THE TAX COLLECTOR TO VERIFY THE EXACT AMOUNT DUE.",
+  "extracted": {
+    "block": "8606",
+    "lot": "5",
+    "upset_amount": 883000.0
+  },
+  "fields": {
+    "Address": "327 TENTH STREET\nJERSEY CITY NJ 07302",
+    "Attorney": "PETER J. LISKA, LLC",
+    "Attorney Phone": "732-933-7777",
+    "Court Case #": "F-012946-24",
+    "Defendant": "AISHVARYA KRISHNAN GEARY AND RICHARD GEARY",
+    "Description": "LOT 5, BLOCK 8606\nDIMENSIONS: 16 FEET X 100 FEET X 16 FEET X 100 FEET\nNEAREST CROSS STREET: MONMOUTH STREET\nTHE LENDER'S UPSET PRICE FOR BIDDING AT THE SHERIFF'S SALE IS APPROXIMATELY $883,000.00. LENDER RESERVES THE RIGHT TO AMEND THE UPSET PRICE PRIOR TO SALE, AND FURTHER, AMEND THE UPSET PRICE TO INCLUDE FUTURE ORDERS FOR ADDITIONAL SUMS EXPENDED AFTER FINAL JUDGMENT, IF ANY.\nAMOUNT DUE FOR TAXES: TAXES ARE CURRENT THROUGH THE THIRD QUARTER 2025.\nTHE ABOVE FIGURES FOR TAXES WERE FURNISHED TO THE LAW FIRM OF PETER J. LISKA, LLC BY THE TAX COLLECTOR'S OFFICE OF THE CITY OF JERSEY CITY AND THE ACCURACY OF SAID FIGURES MUST BE VERIFIED BY ANY INTERESTED PARTY AS PLAINTIFF MAKES NO REPRESENTATIONS AS TO THE ACCURACY OF SAME EITHER EXPRESS OR IMPLIED. ACCORDINGLY, YOU MUST CHECK WITH THE TAX COLLECTOR TO VERIFY THE EXACT AMOUNT DUE.",
+    "Good Faith Upset*": "$883,000.00",
+    "Judgment": "$883,000.41",
+    "Plaintiff": "AFFINIT FEDERAL CREDIT UNION",
+    "Property Note": "",
+    "Sales Date": "4/9/2026",
+    "Sheriff #": "20060555"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 883000.41,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "327 TENTH STREET JERSEY CITY NJ 07302",
+    "defendant": "AISHVARYA KRISHNAN GEARY AND RICHARD GEARY",
+    "listing_status": null,
+    "plaintiff": "AFFINIT FEDERAL CREDIT UNION",
+    "sale_date": "2026-04-09"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "AFFINIT FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2026-04-09",
+  "sheriff_number": "20060555",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-11-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 883000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

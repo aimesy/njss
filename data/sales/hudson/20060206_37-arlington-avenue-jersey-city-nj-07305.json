@@ -1,0 +1,71 @@
+{
+  "address": "37 ARLINGTON AVENUE JERSEY CITY NJ 07305",
+  "attorney": "MARTONE & UHLMANN",
+  "attorney_phone": "973-473-3000",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-002614-24",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "DAVID GOTTLIEB; TD BANK, NA",
+  "description": "TAX LOT NO. 15, IN BLOCK NO. 23603\nDIMENSIONS OF LOT (APPROXIMATELY) 17.83 FEET WIDE BY 96.00 FEET LONG.\nNEAREST CROSS STREET: BAYVIEW AVENUE\nPLAINTIFF IS UNABLE TO ASCERTAIN THE OCCUPANCY STATUS OF THE PROPERTY.\nTHE ESTIMATED GOOD FAITH UPSET AMOUNT PURSUANT TO NJSA 2A:50-64(12)(5)(A) IS $570,630.44. (BASED UPON A PROJECTED SALE DATE OF OCTOBER 23, 2025)\n*SUBJECT TO PRIOR MORTGAGES AND JUDGMENTS (IF ANY).",
+  "extracted": {
+    "block": "NO",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "37 ARLINGTON AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "MARTONE & UHLMANN",
+    "Attorney Phone": "973-473-3000",
+    "Court Case #": "F-002614-24",
+    "Defendant": "DAVID GOTTLIEB; TD BANK, NA",
+    "Description": "TAX LOT NO. 15, IN BLOCK NO. 23603\nDIMENSIONS OF LOT (APPROXIMATELY) 17.83 FEET WIDE BY 96.00 FEET LONG.\nNEAREST CROSS STREET: BAYVIEW AVENUE\nPLAINTIFF IS UNABLE TO ASCERTAIN THE OCCUPANCY STATUS OF THE PROPERTY.\nTHE ESTIMATED GOOD FAITH UPSET AMOUNT PURSUANT TO NJSA 2A:50-64(12)(5)(A) IS $570,630.44. (BASED UPON A PROJECTED SALE DATE OF OCTOBER 23, 2025)\n*SUBJECT TO PRIOR MORTGAGES AND JUDGMENTS (IF ANY).",
+    "Good Faith Upset*": "$570,630.44",
+    "Judgment": "$513,908.98",
+    "Plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "3/5/2026",
+    "Sheriff #": "20060206"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 513908.98,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "37 ARLINGTON AVENUE JERSEY CITY NJ 07305",
+    "defendant": "DAVID GOTTLIEB; TD BANK, NA",
+    "listing_status": null,
+    "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-03-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-03-05",
+  "sheriff_number": "20060206",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-10-23",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 570630.44,
+  "upset_amount_label": "Good Faith Upset*"
+}

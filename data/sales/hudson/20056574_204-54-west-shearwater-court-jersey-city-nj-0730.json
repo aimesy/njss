@@ -1,0 +1,75 @@
+{
+  "address": "204-54 WEST SHEARWATER COURT JERSEY CITY NJ 07305",
+  "attorney": "STERN, LAVINTHAL & FRANKENBERG, LLC",
+  "attorney_phone": "973-797-1100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-011306-23",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "JOHN S. GWIN; MRS. JOHN S. GWIN, HIS WIFE; FILBERTO MEDINA; MRS. FILBERTO MEDINA, HIS WIFE; SIGNATURE FEDERAL CREDIT UNION AND PORT LIBERTE CONDOMINIUM I, INC.",
+  "description": "BLOCK 27503, LOT 11.204 C0054/C0054X\nTHE DIMENSIONS ARE APPROXIMATELY - N/A - CONDOMINIUM\nNEAREST CROSS STREET: HALF MOON ISLE\nPROPERTY IS OCCUPIED BY UNKNOWN\nTHE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 9/16/2024 IS $649,694.17\nPRIOR LIEN(S): NONE",
+  "extracted": {
+    "block": "27503",
+    "lot": "11.204"
+  },
+  "fields": {
+    "Address": "204-54 WEST SHEARWATER COURT\nJERSEY CITY NJ 07305",
+    "Attorney": "STERN, LAVINTHAL & FRANKENBERG, LLC",
+    "Attorney Phone": "973-797-1100",
+    "Court Case #": "F-011306-23",
+    "Defendant": "JOHN S. GWIN; MRS. JOHN S. GWIN, HIS WIFE; FILBERTO MEDINA; MRS. FILBERTO MEDINA, HIS WIFE; SIGNATURE FEDERAL CREDIT UNION AND PORT LIBERTE CONDOMINIUM I, INC.",
+    "Description": "BLOCK 27503, LOT 11.204 C0054/C0054X\nTHE DIMENSIONS ARE APPROXIMATELY - N/A - CONDOMINIUM\nNEAREST CROSS STREET: HALF MOON ISLE\nPROPERTY IS OCCUPIED BY UNKNOWN\nTHE GOOD FAITH ESTIMATE OF THE UPSET BID AMOUNT AS OF 9/16/2024 IS $649,694.17\nPRIOR LIEN(S): NONE",
+    "Good Faith Upset*": "$655,613.23",
+    "Judgment": "$654,566.61",
+    "Plaintiff": "FLAGSTAR BANK, NA",
+    "Property Note": "",
+    "Sales Date": "12/11/2025",
+    "Sheriff #": "20056574"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 654566.61,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "204-54 WEST SHEARWATER COURT JERSEY CITY NJ 07305",
+    "defendant": "JOHN S. GWIN; MRS. JOHN S. GWIN, HIS WIFE; FILBERTO MEDINA; MRS. FILBERTO MEDINA, HIS WIFE; SIGNATURE FEDERAL CREDIT UNION AND PORT LIBERTE CONDOMINIUM I, INC.",
+    "listing_status": null,
+    "plaintiff": "FLAGSTAR BANK, NA",
+    "sale_date": "2025-12-11"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "FLAGSTAR BANK, NA",
+  "property_note": null,
+  "sale_date": "2025-12-11",
+  "sheriff_number": "20056574",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-11-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-12-19",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2025-03-13",
+      "status": "Purchased at Auction by 3rd Party"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": 655613.23,
+  "upset_amount_label": "Good Faith Upset*"
+}

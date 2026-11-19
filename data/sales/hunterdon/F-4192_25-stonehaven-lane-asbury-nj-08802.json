@@ -36,7 +36,7 @@
     "sale_date": "2026-11-18"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hunterdon County, NJ)",
   "parcel": "BLOCK 15, LOT 8 AND LOT 8 Q0080",
   "plaintiff": "THE HUNTINGTON NATIONAL BANK",
@@ -45,6 +45,10 @@
   "sheriff_number": "F-4192",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=32",
   "status_history": [
+    {
+      "date": "2026-11-18",
+      "status": "Purchased - 3rd Party"
+    },
     {
       "date": "2026-11-18",
       "status": "Scheduled"

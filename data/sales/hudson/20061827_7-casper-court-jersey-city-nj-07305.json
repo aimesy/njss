@@ -1,0 +1,67 @@
+{
+  "address": "7 CASPER COURT JERSEY CITY NJ 07305",
+  "attorney": "STERN & EISENBERG, PC",
+  "attorney_phone": "732-582-6344",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-009349-25",
+  "current_status": "Redeemed",
+  "defendant": "TERESITA OJEDA A/K/A TERESITA B. OJEDA A/K/A TERESITA B.P. OJEDA, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HER OR THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL.",
+  "description": "TAX LOT # 7 F/K/A 63.A BLOCK # 23904 F/K/A 1282.E\nAPPROXIMATE DIMENSIONS: 25' X 90'\nNEAREST CROSS STREET: VAN HOUTEN AVENUE\nTAXES CURRENT THROUGH 4TH QUARTER OF 2025\nWATER/SEWER - PLAINTIFF IS UNABLE TO CONFIRM THESE AMOUNTS. PROSPECTIVE PURCHASERS MUST CONDUCT THEIR OWN INVESTIGATION TO DETERMINE THE SAME.\n*PLUS INTEREST ON THESE FIGURES THROUGH DATE OF PAYOFF AND ANY AND ALL SUBSEQUENT TAXES, WATER AND SEWER AMOUNTS.\nUPSET PRICE: $138,149.09, GOOD THROUGH JUNE 26, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+  "extracted": {
+    "occupancy": "OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "upset_amount": 138149.09
+  },
+  "fields": {
+    "Address": "7 CASPER COURT\nJERSEY CITY NJ 07305",
+    "Attorney": "STERN & EISENBERG, PC",
+    "Attorney Phone": "732-582-6344",
+    "Court Case #": "F-009349-25",
+    "Defendant": "TERESITA OJEDA A/K/A TERESITA B. OJEDA A/K/A TERESITA B.P. OJEDA, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HER OR THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL.",
+    "Description": "TAX LOT # 7 F/K/A 63.A BLOCK # 23904 F/K/A 1282.E\nAPPROXIMATE DIMENSIONS: 25' X 90'\nNEAREST CROSS STREET: VAN HOUTEN AVENUE\nTAXES CURRENT THROUGH 4TH QUARTER OF 2025\nWATER/SEWER - PLAINTIFF IS UNABLE TO CONFIRM THESE AMOUNTS. PROSPECTIVE PURCHASERS MUST CONDUCT THEIR OWN INVESTIGATION TO DETERMINE THE SAME.\n*PLUS INTEREST ON THESE FIGURES THROUGH DATE OF PAYOFF AND ANY AND ALL SUBSEQUENT TAXES, WATER AND SEWER AMOUNTS.\nUPSET PRICE: $138,149.09, GOOD THROUGH JUNE 26, 2026 AND ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: OCCUPANCY STATUS AT THE PROPERTY IS UNKNOWN.",
+    "Good Faith Upset*": "$138,149.09",
+    "Judgment": "$126,822.09",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "6/22/2026",
+    "Sheriff #": "20061827"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 126822.09,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "7 CASPER COURT JERSEY CITY NJ 07305",
+    "defendant": "TERESITA OJEDA A/K/A TERESITA B. OJEDA A/K/A TERESITA B.P. OJEDA, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HER OR THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL.",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-06-22"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-06-22",
+  "sheriff_number": "20061827",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-04-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "Purchased at Auction by 3rd Party"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "Redeemed"
+    }
+  ],
+  "upset_amount": 138149.09,
+  "upset_amount_label": "Good Faith Upset*"
+}

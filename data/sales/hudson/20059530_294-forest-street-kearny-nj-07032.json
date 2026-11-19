@@ -1,0 +1,84 @@
+{
+  "address": "294 FOREST STREET KEARNY NJ 07032",
+  "attorney": "FSKS",
+  "attorney_phone": "(973)538-4700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-2731-22",
+  "current_status": "Cancelled",
+  "defendant": "STEVEN E. ZOELLNER, ET ALS.",
+  "description": "TAX LOT NO. 19 IN BLOCK NO. 221\nDIMENSION OF LOT APPROXIMATELY:\nNEAREST CROSS STREET: QUINCY AVENUE\nBEGINNING AT A POINT ON THE EASTERLY SIDE OF FOREST STREET AT THE DISTANCE OF THREE HUNDRED AND THREE FEET AND SEVEN AND ONE QUARTER INCHES SOUTHERLY FROM THE SOUTH SIDE OF QUINCY AVENUE THENCE RUNNING\nWATER OPEN PLUS PENALTY $20.98 AS OF JUNE 3, 2025\nGOOD FAITH ESTIMATE OF UPSET PRICE: $305,058.48\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+  "extracted": {
+    "block": "NO",
+    "lot": "NO",
+    "upset_amount": 305058.48
+  },
+  "fields": {
+    "Address": "294 FOREST STREET\nKEARNY NJ 07032",
+    "Attorney": "FSKS",
+    "Attorney Phone": "(973)538-4700",
+    "Court Case #": "F-2731-22",
+    "Defendant": "STEVEN E. ZOELLNER, ET ALS.",
+    "Description": "TAX LOT NO. 19 IN BLOCK NO. 221\nDIMENSION OF LOT APPROXIMATELY:\nNEAREST CROSS STREET: QUINCY AVENUE\nBEGINNING AT A POINT ON THE EASTERLY SIDE OF FOREST STREET AT THE DISTANCE OF THREE HUNDRED AND THREE FEET AND SEVEN AND ONE QUARTER INCHES SOUTHERLY FROM THE SOUTH SIDE OF QUINCY AVENUE THENCE RUNNING\nWATER OPEN PLUS PENALTY $20.98 AS OF JUNE 3, 2025\nGOOD FAITH ESTIMATE OF UPSET PRICE: $305,058.48\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+    "Good Faith Upset*": "$310,834.80",
+    "Judgment": "$275,005.58",
+    "Plaintiff": "PENNYMAC LOAN SERVICES LLC",
+    "Property Note": "",
+    "Sales Date": "6/10/2026",
+    "Sheriff #": "20059530"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 275005.58,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "294 FOREST STREET KEARNY NJ 07032",
+    "defendant": "STEVEN E. ZOELLNER, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "PENNYMAC LOAN SERVICES LLC",
+    "sale_date": "2026-06-10"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PENNYMAC LOAN SERVICES LLC",
+  "property_note": null,
+  "sale_date": "2026-06-10",
+  "sheriff_number": "20059530",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-08-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-09-25",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2025-11-20",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-06-10",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 310834.8,
+  "upset_amount_label": "Good Faith Upset*"
+}

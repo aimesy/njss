@@ -1,0 +1,60 @@
+{
+  "address": "732 OCEAN AVENUE JERSEY CITY NJ 07305",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "attorney_phone": "212-471-5100",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-007369-25",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "CESAR DELAROSA A/K/A CESAR DE LA ROSA",
+  "description": "TAX LOT(S): 50, IN BLOCK: 21401\nDIMENSIONS (APPROX.): 16.67 X 145\nNEAREST CROSS STREET: CARTERET AVE.\nTAX CERTIFICATE\nRECORDED: FEBRUARY 14, 2019\nHOLDER: US BANK-CUST TOWER DB VIII 2018-1\nAMOUNT: $549.20\nBOOK: 19331\nPAGE: 607\nINSTRUMENT NUMBER: N/A\nGOOD FAITH ESTIMATED UPSET PRICE: $378,427.11\nOCCUPANCY STATUS: OCCUPIED",
+  "extracted": {
+    "block": "21401",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 378427.11
+  },
+  "fields": {
+    "Address": "732 OCEAN AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Attorney Phone": "212-471-5100",
+    "Court Case #": "F-007369-25",
+    "Defendant": "CESAR DELAROSA A/K/A CESAR DE LA ROSA",
+    "Description": "TAX LOT(S): 50, IN BLOCK: 21401\nDIMENSIONS (APPROX.): 16.67 X 145\nNEAREST CROSS STREET: CARTERET AVE.\nTAX CERTIFICATE\nRECORDED: FEBRUARY 14, 2019\nHOLDER: US BANK-CUST TOWER DB VIII 2018-1\nAMOUNT: $549.20\nBOOK: 19331\nPAGE: 607\nINSTRUMENT NUMBER: N/A\nGOOD FAITH ESTIMATED UPSET PRICE: $378,427.11\nOCCUPANCY STATUS: OCCUPIED",
+    "Good Faith Upset*": "$378,427.11",
+    "Judgment": "$346,308.29",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE FOR LB-DWELLING SERIES V TRUST",
+    "Property Note": "",
+    "Sales Date": "5/12/2026",
+    "Sheriff #": "20062459"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 346308.29,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "732 OCEAN AVENUE JERSEY CITY NJ 07305",
+    "defendant": "CESAR DELAROSA A/K/A CESAR DE LA ROSA",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE FOR LB-DWELLING SERIES V TRUST",
+    "sale_date": "2026-05-12"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE FOR LB-DWELLING SERIES V TRUST",
+  "property_note": null,
+  "sale_date": "2026-05-12",
+  "sheriff_number": "20062459",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-05-07",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": 378427.11,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -1,0 +1,64 @@
+{
+  "address": "1442 44TH STREET NORTH BERGEN NJ 07047",
+  "attorney": "KNUCKLES & MANFRO, LLP",
+  "attorney_phone": "201-391-0370",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005217-23",
+  "current_status": "DEFENDANT TOTAL 8 WEEK ADJ",
+  "defendant": "DIA INVESTMENT GROUP LLC",
+  "description": "TAX LOT #: LOT 327, BLOCK 144\nDIMENSIONS (APPROX.): 25' X 100'\nNEAREST CROSS STREET: COTTAGE AV (APPROX 14 FT/4 M)\nESTIMATED UPSET BID AMOUNT: $398,000.00, IN ADDITION TO LAWFUL INTEREST ACCRUING DAILY AT THE RATE ALLOWED BY LAW, UP TO AND INCLUDING THE ACTUAL DAY OF SALE PLUS ANY ADDITIONAL SHERIFF FEES, COSTS, AND/OR COMMISSION, AND/OR ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. BID AMOUNT IS SUBJECT TO CHANGE DUE TO UNFORESEEN CIRCUMSTANCES AND/OR ADJOURNMENT.\nPROPERTY OCCUPANCY: THE PROPERTY IS CURRENTLY REPORTED TO BE OWNER OCCUPIED.",
+  "extracted": {
+    "block": "144",
+    "lot": "327",
+    "occupancy": "THE PROPERTY IS CURRENTLY REPORTED TO BE OWNER OCCUPIED."
+  },
+  "fields": {
+    "Address": "1442 44TH STREET\nNORTH BERGEN NJ 07047",
+    "Attorney": "KNUCKLES & MANFRO, LLP",
+    "Attorney Phone": "201-391-0370",
+    "Court Case #": "F-005217-23",
+    "Defendant": "DIA INVESTMENT GROUP LLC",
+    "Description": "TAX LOT #: LOT 327, BLOCK 144\nDIMENSIONS (APPROX.): 25' X 100'\nNEAREST CROSS STREET: COTTAGE AV (APPROX 14 FT/4 M)\nESTIMATED UPSET BID AMOUNT: $398,000.00, IN ADDITION TO LAWFUL INTEREST ACCRUING DAILY AT THE RATE ALLOWED BY LAW, UP TO AND INCLUDING THE ACTUAL DAY OF SALE PLUS ANY ADDITIONAL SHERIFF FEES, COSTS, AND/OR COMMISSION, AND/OR ANY ADDITIONAL SUMS AS ORDERED BY THE COURT. BID AMOUNT IS SUBJECT TO CHANGE DUE TO UNFORESEEN CIRCUMSTANCES AND/OR ADJOURNMENT.\nPROPERTY OCCUPANCY: THE PROPERTY IS CURRENTLY REPORTED TO BE OWNER OCCUPIED.",
+    "Good Faith Upset*": "$398,000.00",
+    "Judgment": "$360,791.85",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "6/25/2026",
+    "Sheriff #": "20062231"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 360791.85,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1442 44TH STREET NORTH BERGEN NJ 07047",
+    "defendant": "DIA INVESTMENT GROUP LLC",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-06-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-06-25",
+  "sheriff_number": "20062231",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-05-21",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    }
+  ],
+  "upset_amount": 398000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

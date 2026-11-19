@@ -1,0 +1,99 @@
+{
+  "address": "17 GRANT AVENUE JERSEY CITY NJ 07305",
+  "attorney": "LOGS LEGAL GROUP LLP",
+  "attorney_phone": "856-793-3080",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-020603-15",
+  "current_status": "Cancelled",
+  "defendant": "MARY WRIGHT",
+  "description": "TAX LOT 29 BLOCK 23202 F/K/A LOT 22.A BLOCK 1988\nDIMENSIONS OF LOT ARE (APPROXIMATELY) 95 X 24.90 X 95 X 24.90\nNEAREST CROSS STREET: OCEAN AVENUE\nTHE SALE IS SUBJECT TO ANY UNPAID TAXES AND ASSESSMENTS, TAX, WATER, AND SEWER LIENS AND OTHER MUNICIPAL ASSESSMENTS. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM / HOMEOWNER ASSOCIATION LIENS WHICH MAY EXIST. THE SALE MAY BE FURTHER SUBJECT TO RESTRICTIONS, REVERSIONS, RESERVATIONS, AND EASEMENTS OF RECORD.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.\nTHE APPROXIMATE UPSET SUM IS $1,186,747.45 CALCULATED THROUGH OCTOBER 20, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.",
+  "extracted": {
+    "block": "23202",
+    "lot": "29"
+  },
+  "fields": {
+    "Address": "17 GRANT AVENUE\nJERSEY CITY NJ 07305",
+    "Attorney": "LOGS LEGAL GROUP LLP",
+    "Attorney Phone": "856-793-3080",
+    "Court Case #": "F-020603-15",
+    "Defendant": "MARY WRIGHT",
+    "Description": "TAX LOT 29 BLOCK 23202 F/K/A LOT 22.A BLOCK 1988\nDIMENSIONS OF LOT ARE (APPROXIMATELY) 95 X 24.90 X 95 X 24.90\nNEAREST CROSS STREET: OCEAN AVENUE\nTHE SALE IS SUBJECT TO ANY UNPAID TAXES AND ASSESSMENTS, TAX, WATER, AND SEWER LIENS AND OTHER MUNICIPAL ASSESSMENTS. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM / HOMEOWNER ASSOCIATION LIENS WHICH MAY EXIST. THE SALE MAY BE FURTHER SUBJECT TO RESTRICTIONS, REVERSIONS, RESERVATIONS, AND EASEMENTS OF RECORD.\nTHE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN.\nTHE APPROXIMATE UPSET SUM IS $1,186,747.45 CALCULATED THROUGH OCTOBER 20, 2025 PLUS ANY ADDITIONAL ADVANCE, INTEREST, SHERIFF'S COST AND COMMISSION TO THE DATE OF SALE.",
+    "Good Faith Upset*": "$1,136,418.38",
+    "Judgment": "$895,873.74",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "**DEF. USED ONE 4 WK ADJ. SEE FILE 20030535.**",
+    "Sales Date": "1/7/2026",
+    "Sheriff #": "20053966"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 895873.74,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "17 GRANT AVENUE JERSEY CITY NJ 07305",
+    "defendant": "MARY WRIGHT",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2026-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": "**DEF. USED ONE 4 WK ADJ. SEE FILE 20030535.**",
+  "sale_date": "2026-01-07",
+  "sheriff_number": "20053966",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-03-14",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-04-11",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2024-05-09",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2024-05-23",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2024-06-05",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2025-03-27",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "ADJOURNED SHERIFF - New Sale Date:"
+    },
+    {
+      "date": "2025-05-08",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-05-22",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-06-05",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2025-12-11",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 1136418.38,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -21,7 +21,7 @@
     "Parcel #": "Lot and Block: Lot 135, Block 25.01 Tax Map of Township of Howell",
     "Plaintiff": "Sheldon Schwartz",
     "Property Note": "",
-    "Sales Date": "11/23/2026",
+    "Sales Date": "1/11/2027",
     "Sheriff #": "FOR-26001676"
   },
   "first_seen": "2026-10-12",
@@ -30,20 +30,24 @@
   "listing": {
     "address": "US Highway 9 Howell NJ 07731",
     "defendant": "Chizuk USA INC; et. al.",
-    "listing_status": "Adjournment Defendant",
+    "listing_status": "Adjournment Plaintiff",
     "plaintiff": "Sheldon Schwartz",
-    "sale_date": "2026-11-23"
+    "sale_date": "2027-01-11"
   },
-  "listing_status": "Adjournment Defendant",
+  "listing_status": "Adjournment Plaintiff",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 135, Block 25.01 Tax Map of Township of Howell",
   "plaintiff": "Sheldon Schwartz",
   "property_note": null,
-  "sale_date": "2026-11-23",
+  "sale_date": "2027-01-11",
   "sheriff_number": "FOR-26001676",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2027-01-11",
+      "status": "Adjournment Plaintiff"
+    },
     {
       "date": "2026-11-23",
       "status": "Adjournment Defendant"

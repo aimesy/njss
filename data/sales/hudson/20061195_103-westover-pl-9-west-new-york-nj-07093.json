@@ -1,0 +1,59 @@
+{
+  "address": "103 WESTOVER PL #9 WEST NEW YORK NJ 07093",
+  "attorney": "GARY C. ZEITZ, L.L.C.",
+  "attorney_phone": "856-857-1222",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-3115-24",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "ANGELINA PEREZ, ET AL.",
+  "description": "BLOCK 44, LOT 7 C0009\nDIMENSIONS: (APPROXIMATELY) CONDO\nNUMBER OF FEET TO NEAREST CROSS STREET: LOT CORNER TO WESTOVER PLACE AND PARK AVENUE\nPRIOR LIENS AND ENCUMBRANCES NOT EXTINGUISHED BY SALE:\nOPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE TOWN OF WEST NEW YORK: $491.00 AS OF NOVEMBER 1, 2025\nAPPROXIMATE UPSET AMOUNT: $17,000.00",
+  "extracted": {
+    "block": "44",
+    "lot": "7"
+  },
+  "fields": {
+    "Address": "103 WESTOVER PL #9\nWEST NEW YORK NJ 07093",
+    "Attorney": "GARY C. ZEITZ, L.L.C.",
+    "Attorney Phone": "856-857-1222",
+    "Court Case #": "F-3115-24",
+    "Defendant": "ANGELINA PEREZ, ET AL.",
+    "Description": "BLOCK 44, LOT 7 C0009\nDIMENSIONS: (APPROXIMATELY) CONDO\nNUMBER OF FEET TO NEAREST CROSS STREET: LOT CORNER TO WESTOVER PLACE AND PARK AVENUE\nPRIOR LIENS AND ENCUMBRANCES NOT EXTINGUISHED BY SALE:\nOPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE TOWN OF WEST NEW YORK: $491.00 AS OF NOVEMBER 1, 2025\nAPPROXIMATE UPSET AMOUNT: $17,000.00",
+    "Good Faith Upset*": "$17,000.00",
+    "Judgment": "$14,471.00",
+    "Plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "Property Note": "",
+    "Sales Date": "2/5/2026",
+    "Sheriff #": "20061195"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 14471.0,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "103 WESTOVER PL #9 WEST NEW YORK NJ 07093",
+    "defendant": "ANGELINA PEREZ, ET AL.",
+    "listing_status": null,
+    "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+    "sale_date": "2026-02-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "PRO CAP 8 FBO FIRSTRUST BANK",
+  "property_note": null,
+  "sale_date": "2026-02-05",
+  "sheriff_number": "20061195",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-02-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 17000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

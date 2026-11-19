@@ -1,0 +1,76 @@
+{
+  "address": "6607 BERGENWOOD AVENUE NORTH BERGEN NJ 07047",
+  "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+  "attorney_phone": "973-538-4700 X 3395 (STEPHANIE/ EVICTIONS)",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-1441-19",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "LOUIS MORENO, ET ALS.",
+  "description": "TAX LOT NO. 2 IN BLOCK NO. 218\nDIMENSION OF LOT APPROXIMATELY: 27 X 100\nNEAREST CROSS STREET: 67TH STREET\nALL THAT CERTAIN PLOT, PIECE OF PARCEL OF LAND, WITH THE BUILDINGS AND IMPROVEMENTS THEREON ERECTED, SITUATE, LYING AND BEING IN THE TOWNSHIP OF NORTH BERGEN, COUNTY OF HUDSON, STATE OF NEW JERSEY, KNOWN AND DESGINATED AS LOT NO. 2, AND THE SOUTHERLY 5.00 FEET OF LOT 1, AS SHOWN ON CERTAIN MAP ENTITLED, \"MAP SHOWING THE PROPERTY BELONGING TO A.I. SMITH ESQ., SITUATED NEAR GUTTENBERG, HUDSON CO., NJ\" AND FILED IN THE OFFICE OF THE CLERK OF THE COUNTY OF HUDSON ON 11/27/1925 AS MAP NO. 1615.\nSEWER OPEN AND DUE TOTAL AS OF DECEMBER 10, 2024 $297.89\nGOOD FAITH ESTIMATE OF UPSET PRICE: $1,006,989.55\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+  "extracted": {
+    "block": "NO",
+    "lot": "NO",
+    "upset_amount": 1006989.55
+  },
+  "fields": {
+    "Address": "6607 BERGENWOOD AVENUE\nNORTH BERGEN NJ 07047",
+    "Attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+    "Attorney Phone": "973-538-4700 X 3395 (STEPHANIE/ EVICTIONS)",
+    "Court Case #": "F-1441-19",
+    "Defendant": "LOUIS MORENO, ET ALS.",
+    "Description": "TAX LOT NO. 2 IN BLOCK NO. 218\nDIMENSION OF LOT APPROXIMATELY: 27 X 100\nNEAREST CROSS STREET: 67TH STREET\nALL THAT CERTAIN PLOT, PIECE OF PARCEL OF LAND, WITH THE BUILDINGS AND IMPROVEMENTS THEREON ERECTED, SITUATE, LYING AND BEING IN THE TOWNSHIP OF NORTH BERGEN, COUNTY OF HUDSON, STATE OF NEW JERSEY, KNOWN AND DESGINATED AS LOT NO. 2, AND THE SOUTHERLY 5.00 FEET OF LOT 1, AS SHOWN ON CERTAIN MAP ENTITLED, \"MAP SHOWING THE PROPERTY BELONGING TO A.I. SMITH ESQ., SITUATED NEAR GUTTENBERG, HUDSON CO., NJ\" AND FILED IN THE OFFICE OF THE CLERK OF THE COUNTY OF HUDSON ON 11/27/1925 AS MAP NO. 1615.\nSEWER OPEN AND DUE TOTAL AS OF DECEMBER 10, 2024 $297.89\nGOOD FAITH ESTIMATE OF UPSET PRICE: $1,006,989.55\nTHE OCCUPANCY STATUS OF THE PROPERTY BEING FORECLOSED HEREIN IS PRESENTLY UNKNOWN.",
+    "Good Faith Upset*": "$1,011,401.81",
+    "Judgment": "$723,535.68",
+    "Plaintiff": "WELLS FARGO BANK, N.A. AS TRUSTEE FOR WAMU MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-PR4 TRUST",
+    "Property Note": "**DEF USED FULL ADJ. ON 10/10/19. SEE FILE 20039285.**",
+    "Sales Date": "2/19/2026",
+    "Sheriff #": "20057719"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 723535.68,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "6607 BERGENWOOD AVENUE NORTH BERGEN NJ 07047",
+    "defendant": "LOUIS MORENO, ET ALS.",
+    "listing_status": null,
+    "plaintiff": "WELLS FARGO BANK, N.A. AS TRUSTEE FOR WAMU MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-PR4 TRUST",
+    "sale_date": "2026-02-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "WELLS FARGO BANK, N.A. AS TRUSTEE FOR WAMU MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-PR4 TRUST",
+  "property_note": "**DEF USED FULL ADJ. ON 10/10/19. SEE FILE 20039285.**",
+  "sale_date": "2026-02-19",
+  "sheriff_number": "20057719",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2025-03-13",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-04-10",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2025-04-14",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-02-12",
+      "status": "Cancelled"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 1011401.81,
+  "upset_amount_label": "Good Faith Upset*"
+}

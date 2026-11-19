@@ -1,0 +1,76 @@
+{
+  "address": "1070 KENNEDY BOULEVARD APT 2A BAYONNE NJ 07002",
+  "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+  "attorney_phone": "856-858-7080",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-006238-23",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "NICHOLAS VERTERANO, ET AL.",
+  "description": "BLOCK 79, LOT 3 QUAL C0201\nDIMENSIONS OF LOT (APPROXIMATELY): CONDO\nNEAREST CROSS STREET: W 46TH STREET\nAPPROX UPSET PRICE - $220,612.51\nPROPERTY STATUS - BORROWER OCCUPIED\nSUBJECT TO: CHAMONIX CONDO ASSOC LIEN RECORDED 4/21/2016 BK 18721 PG 611 IAO $6,251.68,\nSUBJECT TO: CHAMONIX CONDO ASSOC LIEN RECORDED 1/2/2019 BK 19306 PG 395 IAO $5,752.88\nSUBJECT TO: CHAMONIX CONDO ASSOC LIEN RECORDED 7/7/2021 BK 19994 PG 666 IAO $25,531.93\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. THE AMOUNT DUE CAN BE OBTAINED FROM LOCAL TAXING AUTHORITY. PURSDUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNERS ASSOCIATION LIENS WHICH MAY EXIST.",
+  "extracted": {
+    "block": "79",
+    "lot": "3",
+    "upset_amount": 220612.51
+  },
+  "fields": {
+    "Address": "1070 KENNEDY BOULEVARD APT 2A\nBAYONNE NJ 07002",
+    "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
+    "Attorney Phone": "856-858-7080",
+    "Court Case #": "F-006238-23",
+    "Defendant": "NICHOLAS VERTERANO, ET AL.",
+    "Description": "BLOCK 79, LOT 3 QUAL C0201\nDIMENSIONS OF LOT (APPROXIMATELY): CONDO\nNEAREST CROSS STREET: W 46TH STREET\nAPPROX UPSET PRICE - $220,612.51\nPROPERTY STATUS - BORROWER OCCUPIED\nSUBJECT TO: CHAMONIX CONDO ASSOC LIEN RECORDED 4/21/2016 BK 18721 PG 611 IAO $6,251.68,\nSUBJECT TO: CHAMONIX CONDO ASSOC LIEN RECORDED 1/2/2019 BK 19306 PG 395 IAO $5,752.88\nSUBJECT TO: CHAMONIX CONDO ASSOC LIEN RECORDED 7/7/2021 BK 19994 PG 666 IAO $25,531.93\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. THE AMOUNT DUE CAN BE OBTAINED FROM LOCAL TAXING AUTHORITY. PURSDUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNERS ASSOCIATION LIENS WHICH MAY EXIST.",
+    "Good Faith Upset*": "$220,612.51",
+    "Judgment": "$175,082.80",
+    "Plaintiff": "CITIZENS BANK, N.A.",
+    "Property Note": "",
+    "Sales Date": "2/5/2026",
+    "Sheriff #": "20054844"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 175082.8,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1070 KENNEDY BOULEVARD APT 2A BAYONNE NJ 07002",
+    "defendant": "NICHOLAS VERTERANO, ET AL.",
+    "listing_status": null,
+    "plaintiff": "CITIZENS BANK, N.A.",
+    "sale_date": "2026-02-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "CITIZENS BANK, N.A.",
+  "property_note": null,
+  "sale_date": "2026-02-05",
+  "sheriff_number": "20054844",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-06-20",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "DEFENDANT 1ST 4 WEEK ADJ"
+    },
+    {
+      "date": "2024-07-17",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "DEFENDANT 2ND 4 WEEK ADJ"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 220612.51,
+  "upset_amount_label": "Good Faith Upset*"
+}

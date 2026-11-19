@@ -1,0 +1,63 @@
+{
+  "address": "1717 53RD STREET APT. 13 NORTH BERGEN NJ 07047",
+  "attorney": "LEOPOLD & ASSOCIATES, PLLC",
+  "attorney_phone": "914-219-5787",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005593-25",
+  "current_status": "Cancelled",
+  "defendant": "MIGUEL A. MONDEJA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+  "description": "TAX LOT 16 BLOCK 171 QUALIFIER C0098\nDIMENSIONS OF LOT (APPROXIMATELY): 5.38-623\nNEAREST CROSS STREET: TONNELLE AVE\nTHE ESTIMATED UPSET AMOUNT AT TIME OF SALE IS $52,000.00, WHICH AMOUNT IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION.\nUPON INFORMATION AND BELIEF, PROPERTY IS CURRENTLY OWNER OCCUPIED.\nSUBJECT TO:\nMORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. AS NOMINEE FOR ROCKET MORTGAGE, LLC $138,500.00 + ACCRUED INTEREST",
+  "extracted": {
+    "block": "171",
+    "lot": "16"
+  },
+  "fields": {
+    "Address": "1717 53RD STREET APT. 13\nNORTH BERGEN NJ 07047",
+    "Attorney": "LEOPOLD & ASSOCIATES, PLLC",
+    "Attorney Phone": "914-219-5787",
+    "Court Case #": "F-005593-25",
+    "Defendant": "MIGUEL A. MONDEJA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "Description": "TAX LOT 16 BLOCK 171 QUALIFIER C0098\nDIMENSIONS OF LOT (APPROXIMATELY): 5.38-623\nNEAREST CROSS STREET: TONNELLE AVE\nTHE ESTIMATED UPSET AMOUNT AT TIME OF SALE IS $52,000.00, WHICH AMOUNT IS SUBJECT TO CHANGE IN THE EVENT OF ANY MONETARY ADVANCES INCURRED BY PLAINTIFF AND/OR ANY ORDERS FOR ADDITIONAL SUMS ENTERED BY THE COURT, WITHOUT FURTHER PUBLICATION.\nUPON INFORMATION AND BELIEF, PROPERTY IS CURRENTLY OWNER OCCUPIED.\nSUBJECT TO:\nMORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. AS NOMINEE FOR ROCKET MORTGAGE, LLC $138,500.00 + ACCRUED INTEREST",
+    "Good Faith Upset*": "$52,000.00",
+    "Judgment": "$48,966.52",
+    "Plaintiff": "J.P. MORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "6/8/2026",
+    "Sheriff #": "20061714"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 48966.52,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "1717 53RD STREET APT. 13 NORTH BERGEN NJ 07047",
+    "defendant": "MIGUEL A. MONDEJA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+    "listing_status": null,
+    "plaintiff": "J.P. MORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2026-06-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "J.P. MORGAN CHASE BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2026-06-08",
+  "sheriff_number": "20061714",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-04-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 52000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

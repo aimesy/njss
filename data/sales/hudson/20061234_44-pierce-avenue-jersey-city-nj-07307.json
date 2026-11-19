@@ -1,0 +1,60 @@
+{
+  "address": "44 PIERCE AVENUE JERSEY CITY NJ 07307",
+  "attorney": "BROCK & SCOTT, PLLC",
+  "attorney_phone": "401-217-8701",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-004065-25",
+  "current_status": "Purchased at Auction by 3rd Party",
+  "defendant": "ANNABELLE CLARK, ET AL.",
+  "description": "LOT 28, BLOCK 1403\nDIMENSIONS: 21.37FT. X 56.75FT.\nNEAREST CROSS STREET: CONGRESS ST.\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY OWNER\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $389,220.00.\nPURSUANT TO 28 USC 2410(C) THE SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN:\nI. PARTIAL CLAIMS MORTGAGE: ANNABELLE CLARK TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, 06/10/2022 AND RECORDED ON 05/23/2023, IN BOOK 20450, PAGE 899, TO SECURE $14,612.56\nIII. PARTIAL CLAIMS MORTGAGE: ANNABELLE CLARK TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 01/24/2024 AND RECORDED ON 02/01/2024, IN BOOK 20554, PAGE 876, TO SECURE $13,660.95",
+  "extracted": {
+    "block": "1403",
+    "lot": "28",
+    "upset_amount": 389220.0
+  },
+  "fields": {
+    "Address": "44 PIERCE AVENUE\nJERSEY CITY NJ 07307",
+    "Attorney": "BROCK & SCOTT, PLLC",
+    "Attorney Phone": "401-217-8701",
+    "Court Case #": "F-004065-25",
+    "Defendant": "ANNABELLE CLARK, ET AL.",
+    "Description": "LOT 28, BLOCK 1403\nDIMENSIONS: 21.37FT. X 56.75FT.\nNEAREST CROSS STREET: CONGRESS ST.\nTHE OCCUPANCY STATUS OF THE PROPERTY IS: OCCUPIED BY OWNER\nPLAINTIFF'S GOOD FAITH ESTIMATE OF ITS UPSET PRICE IS: $389,220.00.\nPURSUANT TO 28 USC 2410(C) THE SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN:\nI. PARTIAL CLAIMS MORTGAGE: ANNABELLE CLARK TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, 06/10/2022 AND RECORDED ON 05/23/2023, IN BOOK 20450, PAGE 899, TO SECURE $14,612.56\nIII. PARTIAL CLAIMS MORTGAGE: ANNABELLE CLARK TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 01/24/2024 AND RECORDED ON 02/01/2024, IN BOOK 20554, PAGE 876, TO SECURE $13,660.95",
+    "Good Faith Upset*": "$389,220.00",
+    "Judgment": "$395,146.52",
+    "Plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+    "Property Note": "",
+    "Sales Date": "2/5/2026",
+    "Sheriff #": "20061234"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 395146.52,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "44 PIERCE AVENUE JERSEY CITY NJ 07307",
+    "defendant": "ANNABELLE CLARK, ET AL.",
+    "listing_status": null,
+    "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+    "sale_date": "2026-02-05"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+  "property_note": null,
+  "sale_date": "2026-02-05",
+  "sheriff_number": "20061234",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-02-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Purchased at Auction by 3rd Party"
+    }
+  ],
+  "upset_amount": 389220.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

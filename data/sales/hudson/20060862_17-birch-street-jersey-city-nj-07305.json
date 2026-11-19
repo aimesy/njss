@@ -1,0 +1,60 @@
+{
+  "address": "17 BIRCH STREET JERSEY CITY NJ 07305",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+  "attorney_phone": "856-813-1700",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-001384-25",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "DARREN CHARLES, ET AL.",
+  "description": "TAX LOT: 8 C4109 F/K/A 24.411 TAX BLOCK: 26102 F/K/A 1288.A\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: SOCIETY HILL DRIVE N\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $566,000.00\nOCCUPANCY STATUS: UNKNOWN",
+  "extracted": {
+    "block": "26102",
+    "lot": "8",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "17 BIRCH STREET\nJERSEY CITY NJ 07305",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+    "Attorney Phone": "856-813-1700",
+    "Court Case #": "F-001384-25",
+    "Defendant": "DARREN CHARLES, ET AL.",
+    "Description": "TAX LOT: 8 C4109 F/K/A 24.411 TAX BLOCK: 26102 F/K/A 1288.A\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: SOCIETY HILL DRIVE N\nTHE PLAINTIFF'S UPSET BID PRESENTLY APPROXIMATES $566,000.00\nOCCUPANCY STATUS: UNKNOWN",
+    "Good Faith Upset*": "$566,000.00",
+    "Judgment": "$523,256.71",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Property Note": "",
+    "Sales Date": "1/8/2026",
+    "Sheriff #": "20060862"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 523256.71,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "17 BIRCH STREET JERSEY CITY NJ 07305",
+    "defendant": "DARREN CHARLES, ET AL.",
+    "listing_status": null,
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-01-08"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "property_note": null,
+  "sale_date": "2026-01-08",
+  "sheriff_number": "20060862",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2026-01-08",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": 566000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

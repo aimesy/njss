@@ -1,0 +1,73 @@
+{
+  "address": "207-17 WEST SHEARWATER COURT JERSEY CITY NJ 07302",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "732-692-6839",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-012174-16",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
+  "defendant": "PORT LIBERTE CONDOMINIUM I, INC.; LAURA LOPEZ-LUJAN; BERTHA CHOON; PORT LIBERTE HOMEOWNERS ASSOCIATION, INC.; SEARS ROEBUCK AND CO. AND NEW JERSEY PLIGA, ASSIGNEE",
+  "description": "LOT 11.207 FKA 20717, QUALIFIER C0017, BLOCK 27503 FKA 1497.18\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: HALF MOON ISLE\nOCCUPANCY STATUS: OCCUPIED\nUPSET PRICE: $1,166,110.12\nSUBJECT TO: N/A\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "27503",
+    "lot": "11.207",
+    "occupancy": "OCCUPIED",
+    "upset_amount": 1166110.12
+  },
+  "fields": {
+    "Address": "207-17 WEST SHEARWATER COURT\nJERSEY CITY NJ 07302",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "732-692-6839",
+    "Court Case #": "F-012174-16",
+    "Defendant": "PORT LIBERTE CONDOMINIUM I, INC.; LAURA LOPEZ-LUJAN; BERTHA CHOON; PORT LIBERTE HOMEOWNERS ASSOCIATION, INC.; SEARS ROEBUCK AND CO. AND NEW JERSEY PLIGA, ASSIGNEE",
+    "Description": "LOT 11.207 FKA 20717, QUALIFIER C0017, BLOCK 27503 FKA 1497.18\nAPPROXIMATE DIMENSIONS: CONDOMINIUM\nNEAREST CROSS STREET: HALF MOON ISLE\nOCCUPANCY STATUS: OCCUPIED\nUPSET PRICE: $1,166,110.12\nSUBJECT TO: N/A\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Good Faith Upset*": "$1,166,110.12",
+    "Judgment": "$987,403.25",
+    "Plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR CERTIFICATEHOLDERS OF THE CWALT, INC., ALTERNATIVE LOAN TRUST 2007-HY4 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-HY4",
+    "Property Note": "",
+    "Sales Date": "5/21/2026",
+    "Sheriff #": "20056800"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 987403.25,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "207-17 WEST SHEARWATER COURT JERSEY CITY NJ 07302",
+    "defendant": "PORT LIBERTE CONDOMINIUM I, INC.; LAURA LOPEZ-LUJAN; BERTHA CHOON; PORT LIBERTE HOMEOWNERS ASSOCIATION, INC.; SEARS ROEBUCK AND CO. AND NEW JERSEY PLIGA, ASSIGNEE",
+    "listing_status": null,
+    "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR CERTIFICATEHOLDERS OF THE CWALT, INC., ALTERNATIVE LOAN TRUST 2007-HY4 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-HY4",
+    "sale_date": "2026-05-21"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR CERTIFICATEHOLDERS OF THE CWALT, INC., ALTERNATIVE LOAN TRUST 2007-HY4 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-HY4",
+  "property_note": null,
+  "sale_date": "2026-05-21",
+  "sheriff_number": "20056800",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-12-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-12-05",
+      "status": "Purchased at Auction by 3rd Party"
+    },
+    {
+      "date": "2025-12-17",
+      "status": "VACATED"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "RESCHEDULED"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
+    }
+  ],
+  "upset_amount": 1166110.12,
+  "upset_amount_label": "Good Faith Upset*"
+}

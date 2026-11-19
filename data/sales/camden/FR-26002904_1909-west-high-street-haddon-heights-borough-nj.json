@@ -1,0 +1,49 @@
+{
+  "address": "1909 WEST HIGH STREET HADDON HEIGHTS BOROUGH NJ 08035",
+  "attorney": "POWERS KIRN, LLC",
+  "attorney_phone": "(856) 802-1000",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00460926",
+  "current_status": "Scheduled",
+  "defendant": "STEVEN J. GALAMBOS AKA STEVER J. GLAMBOS, SR., ET AL.",
+  "extracted": {},
+  "fields": {
+    "Address": "1909 WEST HIGH STREET\nHADDON HEIGHTS BOROUGH NJ 08035",
+    "Approx. Upset*": "$210,677.18",
+    "Attorney": "POWERS KIRN, LLC",
+    "Attorney Phone": "(856) 802-1000",
+    "Court Case #": "F00460926",
+    "Defendant": "STEVEN J. GALAMBOS AKA STEVER J. GLAMBOS, SR., ET AL.",
+    "Parcel #": "",
+    "Plaintiff": "AMERICAN HERITAGE FEDERAL CREDIT UNION",
+    "Property Note": "",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002904"
+  },
+  "first_seen": "2026-11-19",
+  "listing": {
+    "address": "1909 WEST HIGH STREET HADDON HEIGHTS BOROUGH NJ 08035",
+    "defendant": "STEVEN J. GALAMBOS AKA STEVER J. GLAMBOS, SR., ET AL.",
+    "listing_status": null,
+    "plaintiff": "AMERICAN HERITAGE FEDERAL CREDIT UNION",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "AMERICAN HERITAGE FEDERAL CREDIT UNION",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002904",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 210677.18,
+  "upset_amount_label": "Approx. Upset*"
+}

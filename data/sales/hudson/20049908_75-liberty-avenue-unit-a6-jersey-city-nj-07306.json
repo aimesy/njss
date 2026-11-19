@@ -1,0 +1,111 @@
+{
+  "address": "75 LIBERTY AVENUE UNIT A6 JERSEY CITY NJ 07306",
+  "attorney": "HUESTON MCNULTY, P.C.",
+  "attorney_phone": "973-377-0200",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "HUD-L-001848-21; J-029399-22",
+  "current_status": "BANKRUPTCY HOLD",
+  "defendant": "ANESE EDWARDS",
+  "description": "TAX LOT NO.: B2.A6 BLOCK NO.: 635\nDIMENSIONS OF LOT: N/A-CONDO\nBUILDING DESCRIPTION: CONDO\nSUBJECT TO THE FOLLOWING PRIOR MORTGAGES AND/OR JUDGMENTS OF RECORD: NONE.\nTHE AMOUNT DUE AND OWING IS $57,990.34 PLUS INTEREST AND COSTS.",
+  "extracted": {
+    "block": "NO",
+    "lot": "NO"
+  },
+  "fields": {
+    "Address": "75 LIBERTY AVENUE UNIT A6\nJERSEY CITY NJ 07306",
+    "Attorney": "HUESTON MCNULTY, P.C.",
+    "Attorney Phone": "973-377-0200",
+    "Court Case #": "HUD-L-001848-21; J-029399-22",
+    "Defendant": "ANESE EDWARDS",
+    "Description": "TAX LOT NO.: B2.A6 BLOCK NO.: 635\nDIMENSIONS OF LOT: N/A-CONDO\nBUILDING DESCRIPTION: CONDO\nSUBJECT TO THE FOLLOWING PRIOR MORTGAGES AND/OR JUDGMENTS OF RECORD: NONE.\nTHE AMOUNT DUE AND OWING IS $57,990.34 PLUS INTEREST AND COSTS.",
+    "Good Faith Upset*": "TAX LOT NO.: B2.A6 BLOCK NO.: 635",
+    "Judgment": "$57,990.34",
+    "Plaintiff": "THE BRUNSWICK CONDOMINIUM ASSOCIATION, INC., A NEW JERSEY NON-PROFIT CORP.",
+    "Property Note": "",
+    "Sales Date": "3/26/2026",
+    "Sheriff #": "20049908"
+  },
+  "first_seen": "2026-11-19",
+  "judgment_amount": 57990.34,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "75 LIBERTY AVENUE UNIT A6 JERSEY CITY NJ 07306",
+    "defendant": "ANESE EDWARDS",
+    "listing_status": null,
+    "plaintiff": "THE BRUNSWICK CONDOMINIUM ASSOCIATION, INC., A NEW JERSEY NON-PROFIT CORP.",
+    "sale_date": "2026-03-26"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "THE BRUNSWICK CONDOMINIUM ASSOCIATION, INC., A NEW JERSEY NON-PROFIT CORP.",
+  "property_note": null,
+  "sale_date": "2026-03-26",
+  "sheriff_number": "20049908",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2023-10-05",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-12-14",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2024-02-15",
+      "status": "JOINT ADJOURNMENT"
+    },
+    {
+      "date": "2024-03-14",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2024-04-11",
+      "status": "Adjourned - Plaintiff - New Sale Date:"
+    },
+    {
+      "date": "2024-06-19",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2024-06-20",
+      "status": "JOINT ADJOURNMENT"
+    },
+    {
+      "date": "2025-07-10",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2025-07-24",
+      "status": "ADJOURNED SHERIFF - New Sale Date:"
+    },
+    {
+      "date": "2025-08-06",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-05",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "BANKRUPTCY HOLD"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}
