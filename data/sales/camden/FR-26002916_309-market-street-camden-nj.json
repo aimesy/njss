@@ -1,0 +1,49 @@
+{
+  "address": "309 MARKET STREET CAMDEN NJ",
+  "attorney": "DEMBO, BROWN & BURNS LLP",
+  "attorney_phone": "856-354-8866 EXT. 117",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "DJ09003426",
+  "current_status": "Scheduled",
+  "defendant": "ASHTON ALEXANDER PROPERTIES, L.L.C.",
+  "extracted": {},
+  "fields": {
+    "Address": "309 MARKET STREET\nCAMDEN NJ",
+    "Approx. Upset*": "$647,981.28",
+    "Attorney": "DEMBO, BROWN & BURNS LLP",
+    "Attorney Phone": "856-354-8866 EXT. 117",
+    "Court Case #": "DJ09003426",
+    "Defendant": "ASHTON ALEXANDER PROPERTIES, L.L.C.",
+    "Parcel #": "Lot 34, Block 75",
+    "Plaintiff": "ARBA CREDIT INVESTORS II, L.P.,",
+    "Property Note": "** Subject to Tax Sale Certificate No 26-00070 as of 10-19-2026 of $36,674.11\n** COMMERCIAL PROPERTY NOT SUBJECT TO CWPP**",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002916"
+  },
+  "first_seen": "2026-11-20",
+  "listing": {
+    "address": "309 MARKET STREET CAMDEN NJ",
+    "defendant": "ASHTON ALEXANDER PROPERTIES, L.L.C.",
+    "listing_status": null,
+    "plaintiff": "ARBA CREDIT INVESTORS II, L.P.,",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot 34, Block 75",
+  "plaintiff": "ARBA CREDIT INVESTORS II, L.P.,",
+  "property_note": "** Subject to Tax Sale Certificate No 26-00070 as of 10-19-2026 of $36,674.11\n** COMMERCIAL PROPERTY NOT SUBJECT TO CWPP**",
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002916",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 647981.28,
+  "upset_amount_label": "Approx. Upset*"
+}

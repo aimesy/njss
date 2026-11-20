@@ -1,0 +1,49 @@
+{
+  "address": "6 COVINGTON DRIVE SICKLERVILLE NJ 08081",
+  "attorney": "KML LAW GROUP, PC",
+  "attorney_phone": "215-627-1322",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F00612424",
+  "current_status": "Scheduled",
+  "defendant": "CYNTHIA ILDEFONSO, ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "6 COVINGTON DRIVE\nSICKLERVILLE NJ 08081",
+    "Approx. Upset*": "$204,625.56",
+    "Attorney": "KML LAW GROUP, PC",
+    "Attorney Phone": "215-627-1322",
+    "Court Case #": "F00612424",
+    "Defendant": "CYNTHIA ILDEFONSO, ET AL",
+    "Parcel #": "Lot No. 2 Block 12603",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "1/6/2027",
+    "Sheriff #": "FR-26002923"
+  },
+  "first_seen": "2026-11-20",
+  "listing": {
+    "address": "6 COVINGTON DRIVE SICKLERVILLE NJ 08081",
+    "defendant": "CYNTHIA ILDEFONSO, ET AL",
+    "listing_status": null,
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2027-01-06"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": "Lot No. 2 Block 12603",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2027-01-06",
+  "sheriff_number": "FR-26002923",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2027-01-06",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 204625.56,
+  "upset_amount_label": "Approx. Upset*"
+}

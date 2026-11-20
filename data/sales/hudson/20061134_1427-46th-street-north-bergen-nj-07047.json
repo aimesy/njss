@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-011893-22",
-  "current_status": "POST BANKRUPTCY SALE DATE",
+  "current_status": "Purchased at Auction by 3rd Party",
   "defendant": "FREDDY GRULLON A/K/A FREDDY J GRULLON; RATIBA LAFI GRULLON; PNC BANK",
   "description": "TAX LOT 38 BLOCK 153\nDIMENSIONS OF LOT: 25X115\nNEAREST CROSS STREET: MEADOWVIEW AVENUE\nESTIMATED UPSET BID AMOUNT: $1,263,000.00 PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: TENANT OCCUPIED\nSEWER: NORTH BERGEN MUA 6200 TONNELLE AVE. NORTH BERGEN, NJ 07047 201-422-0100 ACCT: 34002155 0 12/01/2025 - 02/28/2026 $566.66 OPEN\nLIENS: YEAR: 2023 TYPE: 3RD PARTY SEWER AMOUNT: $6,396.05 CERT NO.: 24-00087 SOLD: 12/06/2024 TO: FIG 20, LLC FBO SEC PTY\nLIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES.",
   "extracted": {
@@ -38,7 +38,7 @@
     "sale_date": "2026-11-19"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "PHH MORTGAGE CORPORATION",
   "property_note": "**DEF USED ADJS. SEE FILE 20053384.**",
@@ -65,6 +65,10 @@
     {
       "date": "2026-11-19",
       "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "Purchased at Auction by 3rd Party"
     }
   ],
   "upset_amount": 1263000.0,

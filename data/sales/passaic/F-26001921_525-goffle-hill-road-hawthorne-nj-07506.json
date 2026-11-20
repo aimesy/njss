@@ -1,0 +1,51 @@
+{
+  "address": "525 Goffle Hill Road Hawthorne NJ 07506",
+  "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC.",
+  "county": "Passaic County, NJ",
+  "county_id": 17,
+  "court_case_number": "F 004024 26 CTL#163303",
+  "current_status": "Scheduled",
+  "defendant": "THOMAS SABO ET ALS",
+  "description": "Approximate dimensions: 59' x 150'\nNearest cross street: Emeline\nThe Plaintiff's Upset Bid presently approximates $459,400.00\nOccupancy Status: UNKNOWN",
+  "extracted": {
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "525 Goffle Hill Road\nHawthorne NJ 07506",
+    "Approx. Upset*": "$438,619.13",
+    "Attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC.",
+    "Court Case #": "F 004024 26 CTL#163303",
+    "Defendant": "THOMAS SABO ET ALS",
+    "Description": "Approximate dimensions: 59' x 150'\nNearest cross street: Emeline\nThe Plaintiff's Upset Bid presently approximates $459,400.00\nOccupancy Status: UNKNOWN",
+    "Parcel #": "Tax Lot 18 Tax Block 296",
+    "Plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2022-RP3",
+    "Property Note": "",
+    "Sales Date": "3/16/2027",
+    "Sheriff #": "F-26001921"
+  },
+  "first_seen": "2026-11-20",
+  "listing": {
+    "address": "525 Goffle Hill Road Hawthorne NJ 07506",
+    "defendant": "THOMAS SABO ET ALS",
+    "listing_status": null,
+    "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2022-RP3",
+    "sale_date": "2027-03-16"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Passaic County, NJ)",
+  "parcel": "Tax Lot 18 Tax Block 296",
+  "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST 2022-RP3",
+  "property_note": null,
+  "sale_date": "2027-03-16",
+  "sheriff_number": "F-26001921",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
+  "status_history": [
+    {
+      "date": "2027-03-16",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 438619.13,
+  "upset_amount_label": "Approx. Upset*"
+}

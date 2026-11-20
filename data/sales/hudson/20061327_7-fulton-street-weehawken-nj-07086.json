@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-011067-24",
-  "current_status": "JOINT ADJOURNMENT",
+  "current_status": "Purchased at Auction by Plaintiff (Buy Back)",
   "defendant": "THOMAS J. WALL, ESQ., EXECUTOR OF THE ESTATE OF RENE F. RACLI, ET AL.",
   "description": "BLOCK 56 LOT 8.02\nDIMENSIONS OF LOT (APPROXIMATELY): 50X100\nNEAREST CROSS STREET: JFK BVLD E\nAPPROX UPSET PRICE - $1,290,182.68\nPROPERTY STATUS - VACANT\nSUBJECT TO ANY UNPAID TAXES, MUNICIPAL LIENS OR OTHER CHARGES, AND ANY SUCH TAXES, CHARGES, LIENS, INSURANCE PREMIUMS OR OTHER ADVANCES MADE BY PLAINTIFF PRIOR TO THIS SALE. THE AMOUNT DUE CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. PURSUANT TO NJSA 46:8B-21 THE SALE MAY ALSO BE SUBJECT TO THE LIMITED LIEN PRIORITY OF ANY CONDOMINIUM/HOMEOWNERS ASSOCIATION LIENS WHICH MAY EXIST.",
   "extracted": {
@@ -38,7 +38,7 @@
     "sale_date": "2026-11-19"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF FINANCE OF AMERICA SELECT MASTER TRUST",
   "property_note": null,
@@ -81,6 +81,10 @@
     {
       "date": "2026-11-19",
       "status": "JOINT ADJOURNMENT"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "Purchased at Auction by Plaintiff (Buy Back)"
     }
   ],
   "upset_amount": 1290182.68,

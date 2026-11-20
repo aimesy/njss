@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F00621224",
-  "current_status": "Bankruptcy",
+  "current_status": "Scheduled",
   "defendant": "ROSKO FAMILY LLC; ET AL.,",
   "extracted": {},
   "fields": {
@@ -18,7 +18,7 @@
     "Parcel #": "",
     "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS\nINDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR\nHOMES MORTGGAE TRUST,",
     "Property Note": "",
-    "Sales Date": "8/5/2026",
+    "Sales Date": "1/6/2027",
     "Sheriff #": "FR-26001532"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "ROSKO FAMILY LLC; ET AL.,",
     "listing_status": null,
     "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS \nINDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR \nHOMES MORTGGAE TRUST,",
-    "sale_date": "2026-08-05"
+    "sale_date": "2027-01-06"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": null,
   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR HOMES MORTGGAE TRUST,",
   "property_note": null,
-  "sale_date": "2026-08-05",
+  "sale_date": "2027-01-06",
   "sheriff_number": "FR-26001532",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -44,8 +44,8 @@
       "status": "Scheduled"
     },
     {
-      "date": "2026-08-05",
-      "status": "Bankruptcy"
+      "date": "2027-01-06",
+      "status": "Scheduled"
     }
   ],
   "upset_amount": 1474139.62,

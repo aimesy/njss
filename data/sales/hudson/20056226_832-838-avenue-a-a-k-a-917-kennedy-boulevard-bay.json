@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-017846-17",
-  "current_status": "Adjourned - Court",
+  "current_status": "Purchased at Auction by 3rd Party",
   "defendant": "PETER J. CRESCI; MRS PETER J. CRESCI, SPOUSE OF PETER J. CRESCI; JENNIFER L. CRESCI; JPMORGAN CHASE BANK, NATIONAL ASSOCIATION SBM BANK ONE, N.A.; STATE OF NEW JERSEY",
   "description": "TAX LOT(S): 1, IN BLOCK: 124\nDIMENSIONS (APPROX.): 70 X 93.80\nNEAREST CROSS STREET: JOHN F. KENNEDY MEMORIAL BOULEVARD\nTAX CERTIFICATE\nRECORDED: JULY 15, 2020\nHOLDER: RTLF-NJ LLC\nAMOUNT: $680.16\nBOOK: 19646\nPAGE: 387\nINSTRUMENT NUMBER: CERT. NO: 20-0128\nJUDGMENT\nRECORDED: JUNE 07, 2019\nAMOUNT: $3,820.07\nINSTRUMENT NUMBER: DJ-072826-2019\nJUDGMENT\nRECORDED: JUNE 07, 2019\nAMOUNT: $2,835.31\nINSTRUMENT NUMBER: DJ-072825-2019\nJUDGMENT\nRECORDED: MARCH 05, 2019\nAMOUNT: $2,104.10\nINSTRUMENT NUMBER: DJ-033111-2019\nOCCUPANCY STATUS: OWNER OCCUPIED\nGOOD FAITH ESTIMATED UPSET PRICE: $675,441.77",
   "extracted": {
@@ -38,7 +38,7 @@
     "sale_date": "2026-11-19"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-A",
   "property_note": null,
@@ -93,6 +93,10 @@
     {
       "date": "2026-11-19",
       "status": "Adjourned - Court"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "Purchased at Auction by 3rd Party"
     }
   ],
   "upset_amount": 675441.77,

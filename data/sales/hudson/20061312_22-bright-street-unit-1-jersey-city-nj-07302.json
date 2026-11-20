@@ -5,7 +5,7 @@
   "county": "Hudson County, NJ",
   "county_id": 10,
   "court_case_number": "F-005073-25 (CWPP INELIGIBLE)",
-  "current_status": "RESCHEDULED",
+  "current_status": "Purchased at Auction by 3rd Party",
   "defendant": "22 BRIGHT ST LLC, ISRAEL WIZNITZER AND SHLOMO MENDLOWITZ",
   "description": "LOT 36 IN BLOCK 14106, QUALIFIER C0001\nDIMENSIONS (APPROX.): 25X100\nNEAREST CROSS STREET: BARROW STREET",
   "extracted": {
@@ -37,7 +37,7 @@
     "sale_date": "2026-11-19"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "LOAN FUNDER LLC, SERIES 68179",
   "property_note": null,
@@ -76,6 +76,10 @@
     {
       "date": "2026-11-19",
       "status": "RESCHEDULED"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "Purchased at Auction by 3rd Party"
     }
   ],
   "upset_amount": null,

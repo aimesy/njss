@@ -1,0 +1,52 @@
+{
+  "address": "1421 CRANLEIGH LANE MONROE NJ 08094",
+  "attorney": "FRIEDMAN VARTOLO LLP",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-003785-25",
+  "current_status": "Scheduled",
+  "defendant": "KEVIN J. SPEAR; ET AL.,",
+  "description": "PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF MONROE, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: 68X166IR\nNEAREST CROSS STREET: CORKERY LANE\nGOOD FAITH ESTIMATED UPSET PRICE: $519,724.53\nOCCUPANCY STATUS: OWNER OCCUPIED",
+  "extracted": {
+    "occupancy": "OWNER OCCUPIED",
+    "upset_amount": 519724.53
+  },
+  "fields": {
+    "Address": "1421 CRANLEIGH LANE\nMONROE NJ 08094",
+    "Approximate Judgment": "$366,375.04",
+    "Attorney": "FRIEDMAN VARTOLO LLP",
+    "Court Case #": "F-003785-25",
+    "Defendant": "KEVIN J. SPEAR; ET AL.,",
+    "Description": "PROPERTY TO BE SOLD IS LOCATED IN THE TOWNSHIP OF MONROE, COUNTY OF GLOUCESTER AND STATE OF NEW JERSEY\nAPPROXIMATE DIMENSIONS: 68X166IR\nNEAREST CROSS STREET: CORKERY LANE\nGOOD FAITH ESTIMATED UPSET PRICE: $519,724.53\nOCCUPANCY STATUS: OWNER OCCUPIED",
+    "Parcel #": "LOT: 10 BLOCK: 36.0101",
+    "Plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF FW-BKPL SERIES I TRUST",
+    "Property Note": "",
+    "Sales Date": "3/17/2027",
+    "Sheriff #": "F-26001705"
+  },
+  "first_seen": "2026-11-20",
+  "judgment_amount": 366375.04,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "1421 CRANLEIGH LANE MONROE NJ 08094",
+    "defendant": "KEVIN J. SPEAR; ET AL.,",
+    "listing_status": "Scheduled",
+    "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF FW-BKPL SERIES I TRUST",
+    "sale_date": "2027-03-17"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "LOT: 10 BLOCK: 36.0101",
+  "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF FW-BKPL SERIES I TRUST",
+  "property_note": null,
+  "sale_date": "2027-03-17",
+  "sheriff_number": "F-26001705",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2027-03-17",
+      "status": "Scheduled"
+    }
+  ]
+}

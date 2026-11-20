@@ -4,8 +4,8 @@
   "attorney_phone": "856-858-7080",
   "county": "Hudson County, NJ",
   "county_id": 10,
-  "court_case_number": "F-002155-26",
-  "current_status": "Scheduled",
+  "court_case_number": "F-002155-26 CWPP",
+  "current_status": "Purchased at Auction by 3rd Party",
   "defendant": "RICHARD J. SZEMIOT, ET AL.",
   "description": "BLOCK 112, LOT 4\nDIMENSIONS OF LOT (APPROXIMATELY): 37.5' X 100'\nNEAREST CROSS STREET: WEST 37TH STREET\nAPPROX UPSET PRICE: $48,000.00\nPROPERTY STATUS BORROWER OCCUPIED",
   "extracted": {
@@ -17,7 +17,7 @@
     "Address": "30 AVENUE B\nBAYONNE NJ 07002",
     "Attorney": "MCCABE, WEISBERG & CONWAY, LLC",
     "Attorney Phone": "856-858-7080",
-    "Court Case #": "F-002155-26",
+    "Court Case #": "F-002155-26 CWPP",
     "Defendant": "RICHARD J. SZEMIOT, ET AL.",
     "Description": "BLOCK 112, LOT 4\nDIMENSIONS OF LOT (APPROXIMATELY): 37.5' X 100'\nNEAREST CROSS STREET: WEST 37TH STREET\nAPPROX UPSET PRICE: $48,000.00\nPROPERTY STATUS BORROWER OCCUPIED",
     "Good Faith Upset*": "$48,000.00",
@@ -38,7 +38,7 @@
     "sale_date": "2026-11-19"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Hudson County, NJ)",
   "plaintiff": "CITIZENS BANK, N.A.",
   "property_note": null,
@@ -49,6 +49,14 @@
     {
       "date": "2026-11-19",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "Purchased at Auction by 3rd Party"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "Purchased at Auction by 3rd Party"
     }
   ],
   "upset_amount": 48000.0,

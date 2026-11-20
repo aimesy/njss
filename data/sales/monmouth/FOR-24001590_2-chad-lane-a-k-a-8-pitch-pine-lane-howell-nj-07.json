@@ -30,11 +30,11 @@
   "listing": {
     "address": "2 Chad Lane a/k/a 8 Pitch Pine Lane Howell NJ 07731",
     "defendant": "Kimberly A. Vaccaro, et al.",
-    "listing_status": "Scheduled",
+    "listing_status": "Bankrupt",
     "plaintiff": "Wilmington Savings Fund Society, FSB, D/B/A Christiana Trust, Not Individually but as Trustee for Pretium Mortgage Acquisition Trust",
     "sale_date": "2026-12-07"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Bankrupt",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Block 138.10, Lot 13 Tax Map of the Township of Howell",
@@ -44,6 +44,10 @@
   "sheriff_number": "FOR-24001590",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-12-07",
+      "status": "Bankrupt"
+    },
     {
       "date": "2026-12-07",
       "status": "Scheduled"

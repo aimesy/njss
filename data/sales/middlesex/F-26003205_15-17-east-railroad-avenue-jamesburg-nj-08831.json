@@ -1,0 +1,56 @@
+{
+  "address": "15-17 EAST RAILROAD AVENUE JAMESBURG NJ 08831",
+  "attorney": "MEYNER AND LANDIS LLP",
+  "attorney_file_number": null,
+  "attorney_phone": null,
+  "county": "Middlesex County, NJ",
+  "county_id": 73,
+  "court_case_number": "F00869824",
+  "current_status": "Scheduled - Foreclosure",
+  "defendant": "LIMITLESS ENTERPRISES, LLC., ET ALS.",
+  "description": null,
+  "extracted": {},
+  "fields": {
+    "Approx. Judgment*": "$4,138,901.61",
+    "Attorney": "MEYNER AND LANDIS LLP",
+    "Attorney File #": "",
+    "Attorney Phone": "",
+    "Court Case #": "F00869824",
+    "Defendant": "LIMITLESS ENTERPRISES, LLC., ET ALS.",
+    "Description": "",
+    "Minimum Bid": "",
+    "Parcel #": "LOT 2.02 BLOCK 28",
+    "Plaintiff": "PEAPACK PRIVATE BANK & TRUST",
+    "Property Address": "15-17 EAST RAILROAD AVENUE\nJAMESBURG NJ 08831",
+    "Property Note": "",
+    "Sale Date": "2/3/2027",
+    "Sheriff #": "F-26003205"
+  },
+  "first_seen": "2026-11-20",
+  "judgment_amount": 4138901.61,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "15-17 EAST RAILROAD AVENUE JAMESBURG NJ 08831",
+    "defendant": "LIMITLESS ENTERPRISES, LLC., ET ALS.",
+    "listing_status": "Scheduled - Foreclosure",
+    "plaintiff": "PEAPACK PRIVATE BANK & TRUST",
+    "sale_date": "2027-02-03"
+  },
+  "listing_status": "Scheduled - Foreclosure",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Middlesex County, NJ)",
+  "parcel": "LOT 2.02 BLOCK 28",
+  "plaintiff": "PEAPACK PRIVATE BANK & TRUST",
+  "property_note": null,
+  "sale_date": "2027-02-03",
+  "sheriff_number": "F-26003205",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
+  "status_history": [
+    {
+      "date": "2027-02-03",
+      "status": "Scheduled - Foreclosure"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Minimum Bid"
+}

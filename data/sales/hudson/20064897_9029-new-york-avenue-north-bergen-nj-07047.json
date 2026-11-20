@@ -1,0 +1,55 @@
+{
+  "address": "9029 NEW YORK AVENUE NORTH BERGEN NJ 07047",
+  "attorney": "GARY C. ZEITZ, L.L.C.",
+  "attorney_phone": "856-857-1222",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-14488-23",
+  "current_status": "Scheduled",
+  "defendant": "9029 NEW YORK AVENUE LLC, ET AL.",
+  "description": "BLOCK 423, LOT 13.02\nDIMENSIONS: (APPROXIMATELY) 37' X 100'\nNUMBER OF FEET TO NEAREST CROSS STREET: 323 FT TO WOODCLIFF AVE\nPRIOR LIENS AND ENCUMBRANCES NOT EXTINGUISHED BY SALE:\nOPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE TOWNSHIP OF NORTH BERGEN:\nTAX SALE CERTIFICATE NUMBER 23-00259 IN THE AMOUNT OF $40,822.83 AS OF SEPTEMBER 18, 2026.\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF HUDSON IN BOOK 9162 AT PAGE 318.\nTHIS IS A RESIDENTIAL PROPERTY.\nAPPROXIMATE UPSET AMOUNT: $112,000.00",
+  "extracted": {
+    "block": "423",
+    "lot": "13.02"
+  },
+  "fields": {
+    "Address": "9029 NEW YORK AVENUE\nNORTH BERGEN NJ 07047",
+    "Attorney": "GARY C. ZEITZ, L.L.C.",
+    "Attorney Phone": "856-857-1222",
+    "Court Case #": "F-14488-23",
+    "Defendant": "9029 NEW YORK AVENUE LLC, ET AL.",
+    "Description": "BLOCK 423, LOT 13.02\nDIMENSIONS: (APPROXIMATELY) 37' X 100'\nNUMBER OF FEET TO NEAREST CROSS STREET: 323 FT TO WOODCLIFF AVE\nPRIOR LIENS AND ENCUMBRANCES NOT EXTINGUISHED BY SALE:\nOPEN TAX QUARTERS AND UNPAID MUNICIPAL CHARGES DUE AND OWING TO THE TOWNSHIP OF NORTH BERGEN:\nTAX SALE CERTIFICATE NUMBER 23-00259 IN THE AMOUNT OF $40,822.83 AS OF SEPTEMBER 18, 2026.\nTHE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF HUDSON IN BOOK 9162 AT PAGE 318.\nTHIS IS A RESIDENTIAL PROPERTY.\nAPPROXIMATE UPSET AMOUNT: $112,000.00",
+    "Good Faith Upset*": "$112,000.00",
+    "Judgment": "$93,693.19",
+    "Plaintiff": "BALA PARTNERS LLC",
+    "Property Note": "",
+    "Sales Date": "1/7/2027",
+    "Sheriff #": "20064897"
+  },
+  "first_seen": "2026-11-20",
+  "judgment_amount": 93693.19,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "9029 NEW YORK AVENUE NORTH BERGEN NJ 07047",
+    "defendant": "9029 NEW YORK AVENUE LLC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "BALA PARTNERS LLC",
+    "sale_date": "2027-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "BALA PARTNERS LLC",
+  "property_note": null,
+  "sale_date": "2027-01-07",
+  "sheriff_number": "20064897",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2027-01-07",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 112000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

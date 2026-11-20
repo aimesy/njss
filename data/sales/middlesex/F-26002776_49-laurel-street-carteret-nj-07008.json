@@ -36,11 +36,11 @@
   "listing": {
     "address": "49 LAUREL STREET CARTERET NJ 07008",
     "defendant": "ANTEQUA L. ANDERSON, ET ALS.",
-    "listing_status": "Scheduled - Foreclosure",
+    "listing_status": "Cancelled",
     "plaintiff": "PLANET HOME LENDING, LLC.",
     "sale_date": "2026-12-02"
   },
-  "listing_status": "Scheduled - Foreclosure",
+  "listing_status": "Cancelled",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 10 BLOCK 4403",
@@ -50,6 +50,10 @@
   "sheriff_number": "F-26002776",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Cancelled"
+    },
     {
       "date": "2026-12-02",
       "status": "Scheduled - Foreclosure"

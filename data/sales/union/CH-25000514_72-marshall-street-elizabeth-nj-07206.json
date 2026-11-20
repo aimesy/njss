@@ -1,0 +1,68 @@
+{
+  "address": "72 MARSHALL STREET ELIZABETH NJ 07206",
+  "attorney": "KNUCKLES & MANFRO LLP",
+  "county": "Union County, NJ",
+  "county_id": 15,
+  "court_case_number": "F01062024",
+  "current_status": "Cancelled",
+  "defendant": "STEVE MICHAEL MARTIN; MR./MRS. STEVE MICHAEL MARTIN, SPOUSE OF STEVE MICHAEL MARTIN; THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS SUCCESSOR TRUSTEE TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWABS MASTER TRUST, REVOLVING HOME EQUITY LOAN ASSET BACKED NOTES, SERIES 2004-O; HAIG RICKERBY DMD; MORRIS IMAGING ASSOCIATES PA; CAVALRY SPV I, LLC A/K/A ASSIGNEE OF SYNCHRONY BANK/CARECREDIT; STATE OF NEW JERSEY",
+  "description": "LOT 8 BLOCK 783 F/K/A LOT 753 BLOCK 2",
+  "extracted": {
+    "block": "783",
+    "lot": "8"
+  },
+  "fields": {
+    "Address": "72 MARSHALL STREET\nELIZABETH NJ 07206",
+    "Approx. Upset*": "$123,491.11",
+    "Attorney": "KNUCKLES & MANFRO LLP",
+    "Court Case #": "F01062024",
+    "Defendant": "STEVE MICHAEL MARTIN; MR./MRS. STEVE MICHAEL MARTIN, SPOUSE OF STEVE MICHAEL MARTIN; THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS SUCCESSOR TRUSTEE TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWABS MASTER TRUST, REVOLVING HOME EQUITY LOAN ASSET BACKED NOTES, SERIES 2004-O; HAIG RICKERBY DMD; MORRIS IMAGING ASSOCIATES PA; CAVALRY SPV I, LLC A/K/A ASSIGNEE OF SYNCHRONY BANK/CARECREDIT; STATE OF NEW JERSEY",
+    "Description": "LOT 8 BLOCK 783 F/K/A LOT 753 BLOCK 2",
+    "Parcel #": "LOT 8 BLOCK 783 F/K/A LOT 753 BLOCK 2",
+    "Plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "Property Note": "",
+    "Sales Date": "11/19/2026",
+    "Sheriff #": "CH-25000514"
+  },
+  "first_seen": "2026-11-20",
+  "listing": {
+    "address": "72 MARSHALL STREET ELIZABETH NJ 07206",
+    "defendant": "STEVE MICHAEL MARTIN; MR./MRS. STEVE MICHAEL MARTIN, SPOUSE OF STEVE MICHAEL MARTIN; THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS SUCCESSOR TRUSTEE TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWABS MASTER TRUST, REVOLVING HOME EQUITY LOAN ASSET BACKED NOTES, SERIES 2004-O; HAIG RICKERBY DMD; MORRIS IMAGING ASSOCIATES PA; CAVALRY SPV I, LLC A/K/A ASSIGNEE OF SYNCHRONY BANK/CARECREDIT; STATE OF NEW JERSEY",
+    "listing_status": null,
+    "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+    "sale_date": "2026-11-19"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Union County, NJ)",
+  "parcel": "LOT 8 BLOCK 783 F/K/A LOT 753 BLOCK 2",
+  "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+  "property_note": null,
+  "sale_date": "2026-11-19",
+  "sheriff_number": "CH-25000514",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+  "status_history": [
+    {
+      "date": "2025-04-09",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-07",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2025-06-04",
+      "status": "Bankuptcy"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 123491.11,
+  "upset_amount_label": "Approx. Upset*"
+}
