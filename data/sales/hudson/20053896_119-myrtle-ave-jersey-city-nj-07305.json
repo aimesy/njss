@@ -1,0 +1,76 @@
+{
+  "address": "119 MYRTLE AVE JERSEY CITY NJ 07305",
+  "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+  "attorney_phone": "973-575-0707",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-005722-23",
+  "current_status": "POST BANKRUPTCY SALE DATE",
+  "defendant": "CHAVA ROSENBAUM; MEYER ROSENBAUM",
+  "description": "TAX LOT 20 BLOCK 23203\nDIMENSIONS OF LOT: 22 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: OCEAN AVENUE\nESTIMATED UPSET BID AMOUNT: $364,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN\n2026 QTR 4 DUE: 11/01/2026 $1,745.00 OPEN\n2027 QTR 1 DUE: 02/01/2027 $1,547.04 OPEN\n2027 QTR 2 DUE: 05/01/2027 $1,547.04 OPEN\nWATER: VEOLIA WATER NEW JERSEY - JCMUA 69 DEVOE PL. HACKENSACK, NJ 07601 800-422-5987 ACCT: 30308137629323 TO: 09/13/2024 $437.05 OPEN PLUS PENALTY",
+  "extracted": {
+    "block": "23203",
+    "lot": "20",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "119 MYRTLE AVE\nJERSEY CITY NJ 07305",
+    "Attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+    "Attorney Phone": "973-575-0707",
+    "Court Case #": "F-005722-23",
+    "Defendant": "CHAVA ROSENBAUM; MEYER ROSENBAUM",
+    "Description": "TAX LOT 20 BLOCK 23203\nDIMENSIONS OF LOT: 22 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: OCEAN AVENUE\nESTIMATED UPSET BID AMOUNT: $364,000.00, PLUS ANY ADDITIONAL SUMS AS ORDERED BY THE COURT.\nOCCUPANCY STATUS: UNKNOWN\n2026 QTR 4 DUE: 11/01/2026 $1,745.00 OPEN\n2027 QTR 1 DUE: 02/01/2027 $1,547.04 OPEN\n2027 QTR 2 DUE: 05/01/2027 $1,547.04 OPEN\nWATER: VEOLIA WATER NEW JERSEY - JCMUA 69 DEVOE PL. HACKENSACK, NJ 07601 800-422-5987 ACCT: 30308137629323 TO: 09/13/2024 $437.05 OPEN PLUS PENALTY",
+    "Good Faith Upset*": "$364,000.00",
+    "Judgment": "$291,756.79",
+    "Plaintiff": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+    "Property Note": "",
+    "Sales Date": "1/7/2027",
+    "Sheriff #": "20053896"
+  },
+  "first_seen": "2026-11-21",
+  "judgment_amount": 291756.79,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "119 MYRTLE AVE JERSEY CITY NJ 07305",
+    "defendant": "CHAVA ROSENBAUM; MEYER ROSENBAUM",
+    "listing_status": null,
+    "plaintiff": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+    "sale_date": "2027-01-07"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+  "property_note": null,
+  "sale_date": "2027-01-07",
+  "sheriff_number": "20053896",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2024-02-15",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2024-03-28",
+      "status": "DEFENDANT TOTAL 8 WEEK ADJ"
+    },
+    {
+      "date": "2024-04-11",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2024-12-19",
+      "status": "POST BANKRUPTCY SALE DATE"
+    },
+    {
+      "date": "2025-01-15",
+      "status": "BANKRUPTCY HOLD"
+    },
+    {
+      "date": "2027-01-07",
+      "status": "POST BANKRUPTCY SALE DATE"
+    }
+  ],
+  "upset_amount": 364000.0,
+  "upset_amount_label": "Good Faith Upset*"
+}

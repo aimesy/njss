@@ -36,11 +36,11 @@
   "listing": {
     "address": "10 BROOKSIDE ROAD EDISON NJ 08817",
     "defendant": "ROBERT M. URBAN, SR. ET ALS.",
-    "listing_status": "Adjourned - Plaintiff",
+    "listing_status": "Cancelled",
     "plaintiff": "LAKEVIEW LOAN SERVICING, LLC.",
     "sale_date": "2026-12-02"
   },
-  "listing_status": "Adjourned - Plaintiff",
+  "listing_status": "Cancelled",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Middlesex County, NJ)",
   "parcel": "LOT 5 BLOCK 265.16 AKA 265.P",
@@ -50,6 +50,10 @@
   "sheriff_number": "F-26001464",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=73",
   "status_history": [
+    {
+      "date": "2026-12-02",
+      "status": "Cancelled"
+    },
     {
       "date": "2026-12-02",
       "status": "Adjourned - Plaintiff"
