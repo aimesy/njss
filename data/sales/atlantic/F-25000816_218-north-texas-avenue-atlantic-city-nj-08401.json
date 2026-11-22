@@ -3,26 +3,26 @@
   "attorney": "Stern Lavinthal & Frankenberg LLC",
   "county": "Atlantic County, NJ",
   "county_id": 25,
-  "court_case_number": "F-011782-24",
-  "current_status": "Scheduled",
-  "deed": "ARCO Investment Properties",
-  "deed_address": "1145 Iowa Ave, Pleasantville, NJ 08232",
+  "court_case_number": "F-011782-24 COURT ORDER RESALE",
+  "current_status": "Resheduled Post Court Order",
+  "deed": "HSBC Bank USA, National Association as Trustee for Merrill Lynch Mortgage Investors, Inc., Mortgage Pass-Through Certificates, Mana Series 2007-OAR3",
+  "deed_address": "8950 Cypress Waters Blvd. Coppell, TX 75019",
   "defendant": "Mariam Akhter; Abdaul Ajim, Her Husband and State of New Jersey",
   "extracted": {},
   "fields": {
     "Address": "218 North Texas Avenue\nAtlantic City NJ 08401",
     "Approx. Judgment*": "$477,432.48",
     "Attorney": "Stern Lavinthal & Frankenberg LLC",
-    "Court Case #": "F-011782-24",
-    "Deed": "ARCO Investment Properties",
-    "Deed Address": "1145 Iowa Ave, Pleasantville, NJ 08232",
+    "Court Case #": "F-011782-24 COURT ORDER RESALE",
+    "Deed": "HSBC Bank USA, National Association as Trustee for Merrill Lynch Mortgage Investors, Inc., Mortgage Pass-Through Certificates, Mana Series 2007-OAR3",
+    "Deed Address": "8950 Cypress Waters Blvd. Coppell, TX 75019",
     "Defendant": "Mariam Akhter; Abdaul Ajim, Her Husband and State of New Jersey",
     "Plaintiff": "HSBC Bank USA, National Association as Trustee for Merrill Lynch Mortgage Investors, Inc., Mortgage Pass-Through Certificates, Mana Series 2007-OAR3",
-    "Priors": "Subject to Prior Tax Sale (CertNo: 17-00402) recorded on 2/13/2018, amount: $210.40\nUnpaid Special Charges, amount: $185.00\nTotal: $395.40",
+    "Priors": "State of New Jersey Declaration of Covenants and Restrictions \"Sandy Grant\" $150,000.00\nTAX LIEN (Cert . No. 25-10348) with redemption figure $846.79\n2026 1st Quarter Taxes past due $532.35\nTotal: $151,378.14",
     "Property Note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
-    "Sales Date": "9/18/2025",
+    "Sales Date": "4/30/2026",
     "Sheriff #": "F-25000816",
-    "Upset Amount": "$91,000.00"
+    "Upset Amount": "$503,000.00"
   },
   "first_seen": "2026-10-12",
   "judgment_amount": 477432.48,
@@ -32,27 +32,27 @@
     "defendant": "Mariam Akhter; Abdau...",
     "listing_status": null,
     "plaintiff": "HSBC Bank USA, Natio...",
-    "sale_date": "2025-09-18"
+    "sale_date": "2026-04-30"
   },
   "listing_status": null,
   "on_open_list": false,
   "page_title": "Sales Listing Detail (Atlantic County, NJ)",
   "plaintiff": "HSBC Bank USA, National Association as Trustee for Merrill Lynch Mortgage Investors, Inc., Mortgage Pass-Through Certificates, Mana Series 2007-OAR3",
-  "priors": "Subject to Prior Tax Sale (CertNo: 17-00402) recorded on 2/13/2018, amount: $210.40 Unpaid Special Charges, amount: $185.00 Total: $395.40",
+  "priors": "State of New Jersey Declaration of Covenants and Restrictions \"Sandy Grant\" $150,000.00 TAX LIEN (Cert . No. 25-10348) with redemption figure $846.79 2026 1st Quarter Taxes past due $532.35 Total: $151,378.14",
   "property_note": "OCCUPANCY STATUS: OCCUPIED BY UNKNOWN",
-  "sale_date": "2025-09-18",
+  "sale_date": "2026-04-30",
   "sheriff_number": "F-25000816",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
     {
-      "date": "2025-09-18",
-      "status": "Purchased - 3rd Party"
+      "date": "2026-04-30",
+      "status": "Purchased - Plaintiff"
     },
     {
-      "date": "2025-09-18",
-      "status": "Scheduled"
+      "date": "2026-04-30",
+      "status": "Resheduled Post Court Order"
     }
   ],
-  "upset_amount": 91000.0,
+  "upset_amount": 503000.0,
   "upset_amount_label": "Upset Amount"
 }
