@@ -18,7 +18,7 @@
     "Parcel #": "Block 84 Lot 24 City of Gloucester; County of Camden",
     "Plaintiff": "MIDFIRST BANK",
     "Property Note": "Taxes paid and current as of 09/22/2026.\nSale may be subject to subsequent taxes, liens, utilities and interest since 09/22/2026.\nWater/Sewer due and owing in the approximate amount of $526.50 as of 09/22/2026.\nCCMUA due and owing in the approximate amount of $465.00 as of 09/22/2026",
-    "Sales Date": "12/2/2026",
+    "Sales Date": "11/20/2026",
     "Sheriff #": "FR-26002573"
   },
   "first_seen": "2026-10-15",
@@ -27,18 +27,22 @@
     "defendant": "APRIL DAWN CAUSING-DE ASIS; VAL JEROME DE ASIS",
     "listing_status": null,
     "plaintiff": "MIDFIRST BANK",
-    "sale_date": "2026-12-02"
+    "sale_date": "2026-11-20"
   },
   "listing_status": null,
-  "on_open_list": true,
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
   "parcel": "Block 84 Lot 24 City of Gloucester; County of Camden",
   "plaintiff": "MIDFIRST BANK",
   "property_note": "Taxes paid and current as of 09/22/2026.\nSale may be subject to subsequent taxes, liens, utilities and interest since 09/22/2026.\nWater/Sewer due and owing in the approximate amount of $526.50 as of 09/22/2026.\nCCMUA due and owing in the approximate amount of $465.00 as of 09/22/2026",
-  "sale_date": "2026-12-02",
+  "sale_date": "2026-11-20",
   "sheriff_number": "FR-26002573",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
+    {
+      "date": "2026-11-20",
+      "status": "Cancelled"
+    },
     {
       "date": "2026-12-02",
       "status": "Scheduled"

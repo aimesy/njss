@@ -22,7 +22,7 @@
     "Parcel #": "Block 1212 Lot 8",
     "Plaintiff": "LAKEVIEW LOAN SERVICING LLC",
     "Property Note": "",
-    "Sales Date": "12/8/2026",
+    "Sales Date": "1/5/2027",
     "Sheriff #": "F-26001272"
   },
   "first_seen": "2026-10-12",
@@ -31,7 +31,7 @@
     "defendant": "ELKIN E. PATINO; ELIANA LOLOS; ET ALS",
     "listing_status": null,
     "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
-    "sale_date": "2026-12-08"
+    "sale_date": "2027-01-05"
   },
   "listing_status": null,
   "on_open_list": true,
@@ -39,7 +39,7 @@
   "parcel": "Block 1212 Lot 8",
   "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
   "property_note": null,
-  "sale_date": "2026-12-08",
+  "sale_date": "2027-01-05",
   "sheriff_number": "F-26001272",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=17",
   "status_history": [
@@ -49,6 +49,10 @@
     },
     {
       "date": "2026-12-08",
+      "status": "Adjourned - Plaintiff"
+    },
+    {
+      "date": "2027-01-05",
       "status": "Adjourned - Plaintiff"
     }
   ],

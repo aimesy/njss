@@ -22,7 +22,7 @@
     "Parcel #": "Lot and Block: Lot 7 C1109, Block 176 Tax Map of Township of Marlboro",
     "Plaintiff": "Barclays Bank PLC,",
     "Property Note": "",
-    "Sales Date": "11/23/2026",
+    "Sales Date": "1/11/2027",
     "Sheriff #": "FOR-26001692"
   },
   "first_seen": "2026-10-12",
@@ -31,20 +31,24 @@
   "listing": {
     "address": "1109 Roseberry Court Morganville NJ 07751",
     "defendant": "Mukesh Kapoor, et. al.",
-    "listing_status": "Adjournment Defendant",
+    "listing_status": "Court Ordered Defendant Adjournment",
     "plaintiff": "Barclays Bank PLC,",
-    "sale_date": "2026-11-23"
+    "sale_date": "2027-01-11"
   },
-  "listing_status": "Adjournment Defendant",
+  "listing_status": "Court Ordered Defendant Adjournment",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 7 C1109, Block 176 Tax Map of Township of Marlboro",
   "plaintiff": "Barclays Bank PLC,",
   "property_note": null,
-  "sale_date": "2026-11-23",
+  "sale_date": "2027-01-11",
   "sheriff_number": "FOR-26001692",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2027-01-11",
+      "status": "Court Ordered Defendant Adjournment"
+    },
     {
       "date": "2026-11-23",
       "status": "Adjournment Defendant"

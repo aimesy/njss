@@ -1,0 +1,49 @@
+{
+  "address": "206 SOUTH WOODBURY AVENUE PITMAN NJ 08071",
+  "attorney": "KML Law Group, P.C.",
+  "county": "Gloucester County, NJ",
+  "county_id": 19,
+  "court_case_number": "F-004364-25",
+  "current_status": "Scheduled",
+  "defendant": "KATIE M. SCHROEDER; SCOTT ADAMS; UNITED STATES OF AMERICA",
+  "description": "THE PROPERTY TO BE SOLD IS LOCATED IN THE BOROUGH OF PITMAN, COUNTY OF GLOUCESTER, STATE OF NEW JERSEY\nDIMENSIONS OF LOT: (APPROXIMATELY) 55 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: GRANDVIEW AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF'S SALE IS CURRENTLY $173,634.55\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS OCCUPIED BY UNKNOWN.",
+  "extracted": {},
+  "fields": {
+    "Address": "206 SOUTH WOODBURY AVENUE\nPITMAN NJ 08071",
+    "Approximate Judgment": "$154,079.97",
+    "Attorney": "KML Law Group, P.C.",
+    "Court Case #": "F-004364-25",
+    "Defendant": "KATIE M. SCHROEDER; SCOTT ADAMS; UNITED STATES OF AMERICA",
+    "Description": "THE PROPERTY TO BE SOLD IS LOCATED IN THE BOROUGH OF PITMAN, COUNTY OF GLOUCESTER, STATE OF NEW JERSEY\nDIMENSIONS OF LOT: (APPROXIMATELY) 55 FEET WIDE BY 100 FEET LONG\nNEAREST CROSS STREET: GRANDVIEW AVENUE\nTHE ESTIMATED UPSET AMOUNT FOR THE SCHEDULED SHERIFF'S SALE IS CURRENTLY $173,634.55\nTHE UPSET PRICE IS NOT THE SAME AS A PAYOFF OR JUDGMENT REDEMPTION AMOUNT.\nPROPERTY IS OCCUPIED BY UNKNOWN.",
+    "Parcel #": "TAX LOT 16 BLOCK 92",
+    "Plaintiff": "MIDFIRST BANK",
+    "Property Note": "",
+    "Sales Date": "3/17/2027",
+    "Sheriff #": "F-26001738"
+  },
+  "first_seen": "2026-11-23",
+  "judgment_amount": 154079.97,
+  "judgment_amount_label": "Approximate Judgment",
+  "listing": {
+    "address": "206 SOUTH WOODBURY AVENUE PITMAN NJ 08071",
+    "defendant": "KATIE M. SCHROEDER; SCOTT ADAMS; UNITED STATES OF AMERICA",
+    "listing_status": "Scheduled",
+    "plaintiff": "MIDFIRST BANK",
+    "sale_date": "2027-03-17"
+  },
+  "listing_status": "Scheduled",
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Gloucester County, NJ)",
+  "parcel": "TAX LOT 16 BLOCK 92",
+  "plaintiff": "MIDFIRST BANK",
+  "property_note": null,
+  "sale_date": "2027-03-17",
+  "sheriff_number": "F-26001738",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=19",
+  "status_history": [
+    {
+      "date": "2027-03-17",
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -31,11 +31,11 @@
   "listing": {
     "address": "1000 Fordham Road Neptune NJ 07753",
     "defendant": "Carrie Carmack, et al",
-    "listing_status": "Scheduled",
+    "listing_status": "Canceled",
     "plaintiff": "Wells Fargo Bank, N.A.",
     "sale_date": "2026-11-23"
   },
-  "listing_status": "Scheduled",
+  "listing_status": "Canceled",
   "on_open_list": true,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot 14 F/K/A Lot 1 Block 1612 F/K/A Block 3030 Tax Map of Township of Neptune",
@@ -45,6 +45,10 @@
   "sheriff_number": "FOR-26002021",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-23",
+      "status": "Canceled"
+    },
     {
       "date": "2026-11-23",
       "status": "Scheduled"
