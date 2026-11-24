@@ -30,12 +30,12 @@
   "listing": {
     "address": "8 Pape Drive Middletown NJ 07748",
     "defendant": "Lioudmila Schwarz, et al.",
-    "listing_status": "Scheduled",
+    "listing_status": "Purchased - Buy Back",
     "plaintiff": "Beltway Capital, LLC",
     "sale_date": "2026-11-23"
   },
-  "listing_status": "Scheduled",
-  "on_open_list": true,
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 100, Block 746 Tax Map of Township of Middletown",
   "plaintiff": "Beltway Capital, LLC",
@@ -44,6 +44,10 @@
   "sheriff_number": "FOR-26002020",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-23",
+      "status": "Purchased - Buy Back"
+    },
     {
       "date": "2026-11-23",
       "status": "Scheduled"

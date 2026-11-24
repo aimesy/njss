@@ -30,12 +30,12 @@
   "listing": {
     "address": "79 Overlook Way Unit A Manalapan NJ 07726",
     "defendant": "Martin L. Weinstock, Executor and heir to the Estate of Herman Weinstock, et als.",
-    "listing_status": "Scheduled",
+    "listing_status": "Purchased - Buy Back",
     "plaintiff": "Beltway Capital, LLC",
     "sale_date": "2026-11-23"
   },
-  "listing_status": "Scheduled",
-  "on_open_list": true,
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Tax Lot: 79.01 Block: 423 Located on the tax map of the Township of Manalapan",
   "plaintiff": "Beltway Capital, LLC",
@@ -44,6 +44,10 @@
   "sheriff_number": "FOR-26002025",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-23",
+      "status": "Purchased - Buy Back"
+    },
     {
       "date": "2026-11-23",
       "status": "Scheduled"

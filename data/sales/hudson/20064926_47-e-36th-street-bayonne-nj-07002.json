@@ -1,0 +1,54 @@
+{
+  "address": "47 E 36TH STREET BAYONNE NJ 07002",
+  "attorney": "GREENSPOON MARDER LLP",
+  "attorney_phone": "954-491-1120",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "SWC-F-013073-25",
+  "current_status": "Scheduled",
+  "defendant": "ARIS C. LABAN; MR. LABAN, HUSBAND OF ARIS C. LABAN",
+  "description": "LOT(S) 19, BLOCK 121\nDIMENSIONS OF THE LOT (APPROXIMATELY): 25X100\nNEAREST CROSS STREET: AVENUE E\nTHE PLAINTIFF'S GOOD FAITH ESTIMATE IS $730,819.01. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS IS OCCUPIED.",
+  "extracted": {
+    "block": "121"
+  },
+  "fields": {
+    "Address": "47 E 36TH STREET\nBAYONNE NJ 07002",
+    "Attorney": "GREENSPOON MARDER LLP",
+    "Attorney Phone": "954-491-1120",
+    "Court Case #": "SWC-F-013073-25",
+    "Defendant": "ARIS C. LABAN; MR. LABAN, HUSBAND OF ARIS C. LABAN",
+    "Description": "LOT(S) 19, BLOCK 121\nDIMENSIONS OF THE LOT (APPROXIMATELY): 25X100\nNEAREST CROSS STREET: AVENUE E\nTHE PLAINTIFF'S GOOD FAITH ESTIMATE IS $730,819.01. THE UPSET AMOUNT MAY BE SUBJECT TO FURTHER ORDERS OF ADDITIONAL SUMS.\nTHE CURRENT OCCUPANCY STATUS IS OCCUPIED.",
+    "Good Faith Upset*": "$730,819.01",
+    "Judgment": "$679,095.60",
+    "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "Property Note": "",
+    "Sales Date": "1/21/2027",
+    "Sheriff #": "20064926"
+  },
+  "first_seen": "2026-11-24",
+  "judgment_amount": 679095.6,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "47 E 36TH STREET BAYONNE NJ 07002",
+    "defendant": "ARIS C. LABAN; MR. LABAN, HUSBAND OF ARIS C. LABAN",
+    "listing_status": null,
+    "plaintiff": "NATIONSTAR MORTGAGE LLC",
+    "sale_date": "2027-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "NATIONSTAR MORTGAGE LLC",
+  "property_note": null,
+  "sale_date": "2027-01-21",
+  "sheriff_number": "20064926",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2027-01-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": 730819.01,
+  "upset_amount_label": "Good Faith Upset*"
+}

@@ -4,7 +4,7 @@
   "county": "Gloucester County, NJ",
   "county_id": 19,
   "court_case_number": "F-000268-25",
-  "current_status": "Settled - Foreclosures",
+  "current_status": "Cancelled",
   "defendant": "CHRISTINE ALLEN, ET AL.",
   "description": "GOOD FAITH ESTIMATED UPSET: $123,068.46\nOCCUPANCY STATUS: UNKNOWN",
   "extracted": {
@@ -29,11 +29,11 @@
   "listing": {
     "address": "1309 CLEARBROOK AVENUE WESTVILLE NJ 08093",
     "defendant": "CHRISTINE ALLEN, ET AL.",
-    "listing_status": "Settled - Foreclosures",
+    "listing_status": "Cancelled",
     "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE ON BEHALF OF AND WITH RESPECT TO AJAX MORTGAGE LOAN TRUST 2020-B, MORTGAGE-BACKED SECURITIES, SERIES 2020-B",
     "sale_date": "2026-03-04"
   },
-  "listing_status": "Settled - Foreclosures",
+  "listing_status": "Cancelled",
   "on_open_list": false,
   "page_title": "Sales Listing Detail (Gloucester County, NJ)",
   "parcel": "LOT: 12 BLOCK: 55",
@@ -53,7 +53,7 @@
     },
     {
       "date": "2026-03-04",
-      "status": "Settled - Foreclosures"
+      "status": "Cancelled"
     }
   ]
 }

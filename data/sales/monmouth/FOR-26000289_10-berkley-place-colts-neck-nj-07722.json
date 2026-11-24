@@ -30,12 +30,12 @@
   "listing": {
     "address": "10 Berkley Place Colts Neck NJ 07722",
     "defendant": "10 Berkley LLC a/k/a 10 Berkley Place LLC; et al.",
-    "listing_status": "Scheduled",
+    "listing_status": "Purchased - Buy Back",
     "plaintiff": "Stewart Levine",
     "sale_date": "2026-11-23"
   },
-  "listing_status": "Scheduled",
-  "on_open_list": true,
+  "listing_status": "Purchased - Buy Back",
+  "on_open_list": false,
   "page_title": "Sales Listing Detail (Monmouth County, NJ)",
   "parcel": "Lot and Block: Lot 10.06, Block 6 Tax Map of Township of Colts Neck",
   "plaintiff": "Stewart Levine",
@@ -44,6 +44,10 @@
   "sheriff_number": "FOR-26000289",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
   "status_history": [
+    {
+      "date": "2026-11-23",
+      "status": "Purchased - Buy Back"
+    },
     {
       "date": "2026-11-23",
       "status": "Scheduled"

@@ -1,0 +1,56 @@
+{
+  "address": "117 ATLANTIC STREET JERSEY CITY NJ 07304",
+  "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+  "attorney_phone": "860-241-2806",
+  "county": "Hudson County, NJ",
+  "county_id": 10,
+  "court_case_number": "F-002028-26 (CWPP INELIGIBLE)",
+  "current_status": "Scheduled",
+  "defendant": "GLASSES GROUP LLC, ET AL.",
+  "description": "LOT 2, BLOCK 19402\nAPPROXIMATE DIMENSIONS: 16.60 X 100.00 FEET\nNEAREST CROSS STREET: SACKETT STREET\nSUBJECT TO:\nTAX SALE CERTIFICATE NO. 2025-1066 IN THE AMOUNT OF $6,461.35.\nWATER IN THE AMOUNT OF $473.08, OPEN PLUS PENALTY.\nWATER IN THE AMOUNT OF $445.79, OPEN PLUS PENALTY; OWED IN ARREARS.\nUPSET PRICE: N/A COMMERCIAL LOAN\nOCCUPANCY STATUS: UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+  "extracted": {
+    "block": "19402",
+    "lot": "2",
+    "occupancy": "UNKNOWN"
+  },
+  "fields": {
+    "Address": "117 ATLANTIC STREET\nJERSEY CITY NJ 07304",
+    "Attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+    "Attorney Phone": "860-241-2806",
+    "Court Case #": "F-002028-26 (CWPP INELIGIBLE)",
+    "Defendant": "GLASSES GROUP LLC, ET AL.",
+    "Description": "LOT 2, BLOCK 19402\nAPPROXIMATE DIMENSIONS: 16.60 X 100.00 FEET\nNEAREST CROSS STREET: SACKETT STREET\nSUBJECT TO:\nTAX SALE CERTIFICATE NO. 2025-1066 IN THE AMOUNT OF $6,461.35.\nWATER IN THE AMOUNT OF $473.08, OPEN PLUS PENALTY.\nWATER IN THE AMOUNT OF $445.79, OPEN PLUS PENALTY; OWED IN ARREARS.\nUPSET PRICE: N/A COMMERCIAL LOAN\nOCCUPANCY STATUS: UNKNOWN\n**TO THE BEST OF THIS FIRM'S KNOWLEDGE, THE PROPERTY IS NOT AN AFFORDABLE UNIT SUBJECT TO THE FAIR HOUSING ACT.**",
+    "Good Faith Upset*": "N/A COMMERCIAL LOAN",
+    "Judgment": "$470,511.72",
+    "Plaintiff": "NEXTRES CAPITAL, LLC",
+    "Property Note": "",
+    "Sales Date": "1/21/2027",
+    "Sheriff #": "20064927"
+  },
+  "first_seen": "2026-11-24",
+  "judgment_amount": 470511.72,
+  "judgment_amount_label": "Judgment",
+  "listing": {
+    "address": "117 ATLANTIC STREET JERSEY CITY NJ 07304",
+    "defendant": "GLASSES GROUP LLC, ET AL.",
+    "listing_status": null,
+    "plaintiff": "NEXTRES CAPITAL, LLC",
+    "sale_date": "2027-01-21"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Hudson County, NJ)",
+  "plaintiff": "NEXTRES CAPITAL, LLC",
+  "property_note": null,
+  "sale_date": "2027-01-21",
+  "sheriff_number": "20064927",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+  "status_history": [
+    {
+      "date": "2027-01-21",
+      "status": "Scheduled"
+    }
+  ],
+  "upset_amount": null,
+  "upset_amount_label": "Good Faith Upset*"
+}
