@@ -1,0 +1,57 @@
+{
+  "address": "317 LA CASCATA CLEMENTON (GLOUCESTER TOWNSHIP) NJ 08021-4623",
+  "attorney": "RAS CITRON LLC",
+  "attorney_phone": "(973) 575-0707",
+  "county": "Camden County, NJ",
+  "county_id": 1,
+  "court_case_number": "F03136616",
+  "current_status": "Cancelled",
+  "defendant": "DAVID A. DUTCH; TARA JEAN DUTCH AKA TARAJEAN WENTZEL; MATTHEW T. DUTCH; MARIE DUTCH A/K/A MARIE R. DUTCH,",
+  "extracted": {},
+  "fields": {
+    "Address": "317 LA CASCATA\nCLEMENTON (GLOUCESTER TOWNSHIP) NJ 08021-4623",
+    "Approx. Upset*": "$100,630.76",
+    "Attorney": "RAS CITRON LLC",
+    "Attorney Phone": "(973) 575-0707",
+    "Court Case #": "F03136616",
+    "Defendant": "DAVID A. DUTCH; TARA JEAN DUTCH AKA TARAJEAN WENTZEL; MATTHEW T. DUTCH; MARIE DUTCH A/K/A MARIE R. DUTCH,",
+    "Parcel #": "",
+    "Plaintiff": "BANK OF AMERICA, N.A.,",
+    "Property Note": "",
+    "Sales Date": "11/25/2026",
+    "Sheriff #": "FR-23000454"
+  },
+  "first_seen": "2026-11-25",
+  "listing": {
+    "address": "317 LA CASCATA CLEMENTON (GLOUCESTER TOWNSHIP) NJ 08021-4623",
+    "defendant": "DAVID A. DUTCH; TARA JEAN DUTCH AKA TARAJEAN WENTZEL; MATTHEW T. DUTCH; MARIE DUTCH A/K/A MARIE R. DUTCH,",
+    "listing_status": null,
+    "plaintiff": "BANK OF AMERICA, N.A.,",
+    "sale_date": "2026-11-25"
+  },
+  "listing_status": null,
+  "on_open_list": false,
+  "page_title": "Sales Listing Detail (Camden County, NJ)",
+  "parcel": null,
+  "plaintiff": "BANK OF AMERICA, N.A.,",
+  "property_note": null,
+  "sale_date": "2026-11-25",
+  "sheriff_number": "FR-23000454",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
+  "status_history": [
+    {
+      "date": "2023-04-12",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2023-05-10",
+      "status": "Plaintiff Adjournment"
+    },
+    {
+      "date": "2026-11-25",
+      "status": "Cancelled"
+    }
+  ],
+  "upset_amount": 100630.76,
+  "upset_amount_label": "Approx. Upset*"
+}

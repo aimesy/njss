@@ -1,0 +1,62 @@
+{
+  "address": "547 MAYFAIR STREET VINELAND NJ 08360",
+  "attorney": "PARKER MCCAY PA",
+  "county": "Cumberland County, NJ",
+  "county_id": 6,
+  "court_case_number": "F00753623",
+  "current_status": "Post Bankruptcy - Adjourned Date",
+  "deed": null,
+  "deed_address": "LOT 1 FKA 10 BLOCK 2412 FKA 364",
+  "defendant": "JUAN J CRUZ MARTINEZ ET AL",
+  "extracted": {},
+  "fields": {
+    "Address": "547 MAYFAIR STREET\nVINELAND NJ 08360",
+    "Approx. Judgment*": "$223,791.81",
+    "Attorney": "PARKER MCCAY PA",
+    "Court Case #": "F00753623",
+    "Deed": "",
+    "Deed Address": "LOT 1 FKA 10 BLOCK 2412 FKA 364",
+    "Defendant": "JUAN J CRUZ MARTINEZ ET AL",
+    "Plaintiff": "US BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "Priors": "",
+    "Property Note": "",
+    "Sales Date": "12/30/2026",
+    "Sheriff #": "25000571",
+    "Upset Amount": "$289,400.00"
+  },
+  "first_seen": "2026-11-25",
+  "judgment_amount": 223791.81,
+  "judgment_amount_label": "Approx. Judgment*",
+  "listing": {
+    "address": "547 MAYFAIR STREET VINELAND NJ 08360",
+    "defendant": "JUAN J CRUZ MARTINEZ ET AL",
+    "listing_status": null,
+    "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+    "sale_date": "2026-12-30"
+  },
+  "listing_status": null,
+  "on_open_list": true,
+  "page_title": "Sales Listing Detail (Cumberland County, NJ)",
+  "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+  "priors": null,
+  "property_note": null,
+  "sale_date": "2026-12-30",
+  "sheriff_number": "25000571",
+  "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+  "status_history": [
+    {
+      "date": "2025-07-16",
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-07-16",
+      "status": "Bankruptcy - Sale on Hold"
+    },
+    {
+      "date": "2026-12-30",
+      "status": "Post Bankruptcy - Adjourned Date"
+    }
+  ],
+  "upset_amount": 289400.0,
+  "upset_amount_label": "Upset Amount"
+}

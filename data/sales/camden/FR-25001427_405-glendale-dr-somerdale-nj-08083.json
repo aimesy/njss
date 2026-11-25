@@ -5,7 +5,7 @@
   "county": "Camden County, NJ",
   "county_id": 1,
   "court_case_number": "F01174224",
-  "current_status": "Defendant Adjournment",
+  "current_status": "Scheduled",
   "defendant": "LORA SWEENEY, ET AL",
   "extracted": {},
   "fields": {
@@ -15,10 +15,10 @@
     "Attorney Phone": "215-627-1322",
     "Court Case #": "F01174224",
     "Defendant": "LORA SWEENEY, ET AL",
-    "Parcel #": "",
+    "Parcel #": "Tax Lot No. 32, Block 132.07",
     "Plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION,\nAS TRUSTEE FOR FREDDIE MAC SEASONED LOANS\nSTRUCTURED TRANSACTION TRUST, SERIES 2021-1",
     "Property Note": "",
-    "Sales Date": "12/1/2025",
+    "Sales Date": "1/20/2027",
     "Sheriff #": "FR-25001427"
   },
   "first_seen": "2026-10-12",
@@ -27,15 +27,15 @@
     "defendant": "LORA SWEENEY, ET AL",
     "listing_status": null,
     "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, \nAS TRUSTEE FOR FREDDIE MAC SEASONED LOANS \nSTRUCTURED TRANSACTION TRUST, SERIES 2021-1",
-    "sale_date": "2025-12-01"
+    "sale_date": "2027-01-20"
   },
   "listing_status": null,
-  "on_open_list": false,
+  "on_open_list": true,
   "page_title": "Sales Listing Detail (Camden County, NJ)",
-  "parcel": null,
+  "parcel": "Tax Lot No. 32, Block 132.07",
   "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2021-1",
   "property_note": null,
-  "sale_date": "2025-12-01",
+  "sale_date": "2027-01-20",
   "sheriff_number": "FR-25001427",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=1",
   "status_history": [
@@ -52,12 +52,12 @@
       "status": "Plaintiff Adjournment"
     },
     {
-      "date": "2025-12-01",
-      "status": "Bankruptcy"
-    },
-    {
       "date": "2025-12-03",
       "status": "Defendant Adjournment"
+    },
+    {
+      "date": "2027-01-20",
+      "status": "Scheduled"
     }
   ],
   "upset_amount": 199419.81,
