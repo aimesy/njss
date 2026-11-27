@@ -20,9 +20,9 @@
     "Plaintiff": "Reverse Mortgage Funding LLC",
     "Priors": "NONE",
     "Property Note": "OCCUPANCY STATUS: OWNER OCCUPIED",
-    "Sales Date": "2/2/2026",
+    "Sales Date": "6/18/2026",
     "Sheriff #": "F-22000632",
-    "Upset Amount": "$68,996.75"
+    "Upset Amount": "$74,686.08"
   },
   "first_seen": "2026-10-12",
   "judgment_amount": 62960.13,
@@ -32,7 +32,7 @@
     "defendant": "Margaret Adkins aka ...",
     "listing_status": null,
     "plaintiff": "Reverse Mortgage Fun...",
-    "sale_date": "2026-02-02"
+    "sale_date": "2026-06-18"
   },
   "listing_status": null,
   "on_open_list": false,
@@ -40,31 +40,31 @@
   "plaintiff": "Reverse Mortgage Funding LLC",
   "priors": "NONE",
   "property_note": "OCCUPANCY STATUS: OWNER OCCUPIED",
-  "sale_date": "2026-02-02",
+  "sale_date": "2026-06-18",
   "sheriff_number": "F-22000632",
   "source_listing": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
   "status_history": [
     {
-      "date": "2026-02-02",
-      "status": "Cancelled/Outdated"
+      "date": "2026-06-18",
+      "status": "Cancelled/Settled"
     },
     {
-      "date": "2024-09-12",
-      "status": "Indefinite Bankruptcy"
+      "date": "2026-06-18",
+      "status": "Plaintiff Adjourned to"
     },
     {
-      "date": "2024-09-12",
-      "status": "Rescheduled Post Bankruptcy to"
+      "date": "2026-05-21",
+      "status": "Defendant Adjourned to"
     },
     {
-      "date": "2024-05-16",
-      "status": "Indefinite Bankruptcy"
+      "date": "2026-04-23",
+      "status": "Defendant Adjourned to"
     },
     {
-      "date": "2024-05-16",
+      "date": "2026-03-26",
       "status": "Scheduled"
     }
   ],
-  "upset_amount": 68996.75,
+  "upset_amount": 74686.08,
   "upset_amount_label": "Upset Amount"
 }

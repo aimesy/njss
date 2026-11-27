@@ -4,7 +4,7 @@
   "county": "Cumberland County, NJ",
   "county_id": 6,
   "court_case_number": "F00893624",
-  "current_status": "Scheduled",
+  "current_status": "Bankruptcy - Sale on Hold",
   "deed": null,
   "deed_address": "LOT 17 FKA 4 BLOCK 1701 FKA 193",
   "defendant": "RICHARD V DAWKINS ET AL",
@@ -47,6 +47,10 @@
     {
       "date": "2026-12-16",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-12-16",
+      "status": "Bankruptcy - Sale on Hold"
     }
   ],
   "upset_amount": 169040.95,
